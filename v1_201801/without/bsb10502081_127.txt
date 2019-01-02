@@ -1,0 +1,115 @@
+2452 - -
+- 2.40
+-
+Num. 31. MÄRZ 182 o. -
+Vergleichung zwiſchen dem neuen und alten Algo-
+rithmus, welcher Letztere das nämlich ſo
+- dy - – m–- *P
+FÄ- = mp Ax
+ſymboliſirt haben würde, anzuſtellen. Rec. nimmt
+ſeinen, in der Anzeige der Theorie geäuſserten
+Wunſch, daſs es Lagrange beliebt haben möchte,
+die alte Notation beyzubehalten, nicht zurück. -
+So viel von der Form; in der Sache ſelbſt verglei-
+che man, um den Vorzug der Darſtellung des Vfs.
+von den Anſichten des Ä. kennen
+zu lernen, die Art, wie Letzterer z. B. die Bildung
+des Differentials eines Products rechtfertigen will,
+mit dem hier allgemein gegebenen Beweiſe, daſs die
+Derivirte einer, aus Ä beſondern Fun-
+otionen zuſammengeſetzten Function, der Summe
+- der, in Bezug auf jede einzelne Function genomme-
+nen Derivirten gleich ſey. – Den Schluſs dieſer
+Vorleſung macht eine beachtenswerthe Anmerkung
+über die Natur der derivirten Functionen. »Man
+wird ſich", heiſst es, ,,nach Maaſsgabe der nun Ä
+wieſenen Art von Abhängigkeit, in welcher die De-
+rivirten von den Primitiven ſtehen, leicht überzeu-
+gen, daſs eine gegebene Primitive nur Derivirte von
+einer beftimmten und ausſchlieſsenden Form haben
+könne. Dem iſt aber nicht umgekehrt ſo, in Be-
+zug auf die zu gegebenen Derivirten zu findenden
+Primitiven. Da die Conſtanten bey der Differentia-
+tion herausfallen, ſo können offenbar einer nämli-
+chen Derivirten eine unendliche Menge von Primi-
+tiven zugehören, die ſämmtlich in Abſicht der Con-
+ſtanten verſchieden ſind (verſteht ſich nur im allge-
+meinen analytiſchen Verſtande): und man kann ſo-
+gar beweiſen, daſs dieſe mehrfachen Primitiven
+nicht bloſs in der Conſtante verſchieden zu ſeyn
+brauchen." Dieſer Beweis ſcheint Rec. eine petitio
+principii zu enthalten; und er möchte dem Vf. hier
+den Vorwurf eines, foñf nicht leicht bemerkbaren
+Mangels an Präciſion der Ausdrücke machen. Auf-
+merkſame Leſer Ä entſcheiden, ob er Lagran-
+ge zu viel thue. – der 7ten Vorleſung zeigt La-
+grange, wie man für den Fall der Verwechſelung
+der Grundgröſsen zu verfahren habe. Was iſt z. B.
+zu thun, wenn, ſtatt das y bis jetzt als Function von
+x betrachtet und die dy, dy, auf Ax bezogen wer-
+den; jetzt vielmehr umgekehrtxFunction vony ſeyn,
+und dx, in Bezug auf Ay genommen, werden föll?
+Man hat #7 an die Stelle von y“ zu ſetzen. Rec.
+hat in ſeiner Anzeige der Théorie den Beweis der
+- “X – – – Ay
+Gleichung AxT - TTF -
+Ä geführt. Er will, da der Gegenſtand
+eltener erörtert wird, der Angenſcheinlichkeit we-
+gen, hier noch ein Beyſpiel beybringen. Seyy =
+nach ſeinem Syſteme
+X -
+x”, ſo erhält man Ä (wo der links über dem d
+ſtehende kleine Buchſtabe anzeigt, auf welche Grö-
+ſse man ſich als Grundgröſse bezieht) = 2 xAx,
+y -
+dx aber = #y T* Ay; alſo –#- F 2 X3 –Ä-
+= 2y* = 2x = –#- quod erat demonſtran-
+dum. Ausführlicher iſt der Gegenftand behandelt
+in: Nürnberger's Unterſuchungen und Entdeckungen
+in der höhern Analyfis. Halſe, Gebauer 1816. 4.;
+dahin wir verweiſen. - -
+Leçon huitième. Du développement des fon-
+ctions lorsqu'on donne ä la variable une valeur dé-
+terminée. Cas dans lesquels la règle générale eſ en
+défaut, Analyſe de css cas. Des valeurs des fra-
+ctions done lenumerateur et le dénominateur ſ'éva-
+noui/ſent ä la fois. Dieſe Vorleſung, welche das
+5te Kapitel der Theorie commentirt, iſt eine der
+tiefſten dieſes Werks; und wir rechnen auf den
+Dank der Leſer, indem wir der Analyſe des ent-
+ſprechenden 5ten Kapitels in der Anzeige der Théo-
+rie p. noch einige erläuternde Worte hinzufügen.
+Der eben gegebene Beweis, daſs in der 2. aus Ent-
+wickelung von f (x-+-i) entſpringenden Reihe nur
+anze, poſitive Exponenten von auftreten können,
+chlieſst particulare Werthe der Veränderlichen aus;
+und kann alſo, für ſolche beſondere Werthannah-
+men derſelben, unzureichend befunden werden.
+In -
+Die Function (x – a + i) º z. B. verändert ſich,
+wenn man der veränderlichen x den particularen
+Tº.
+Werth = a beylegt, in der That in i". Um in
+folchen Fällen die wahre Form der Entwickelung
+nach den aufſteigenden Potenzen von i zu finden,
+muſs man in der entſprechenden Function von x-+-i
+dem x ſofort jenen particulären Werth beylegen.
+Ein- Beyſpiel wird dieſs am deutlichſten machen.
+Seyfx = 2ax –x*+a / X” Fa”. Die Subſtitu-
+tion von x +i für x, giebt in der Entwickelung,
+die Prime = 2 (a –x) + FEF, und für
+x = a, wie man gleich ſieht, = ; dem zu
+Folge alſo die Anwendung der allgemeinen Entwi-
+ckelungsform, auf die ſo geſtaltete Function, be
+Annahme des particulären Werthes x = a, ein faſ-
+ſches Reſultat bringt; als wovon eben der Umſtand,
+daſs eine oder die andere der Derivirten unendlich
+wird, das allgemeine Merkmal abgiebt. Subſti-
+tuirt man nämlich der gegebenen Vorſchrift gemäſs,
+für x gleich anfänglich a + i, ſo wird erhalten:
+a” – i* + a Y2ATFFT”, oder durch Zerfällung
+des letzten Factors a*–*+avi YZFFT; wo
+bey Entwickelung von (2 a + i)", durch Mul-
+tiplication mit i nothwendig gebrochene Exponen-
+ten von i entſtehen.– Ebenſo wollen wir die Regel,
+daſs

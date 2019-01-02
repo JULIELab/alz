@@ -1,0 +1,123 @@
+187 ALLG. LITERATUR - zEITUNG 1ss
+überall in gleichem Maaſse der Fall, und theils wird
+auch der übergroſse Reichthum an Gegenſtänden für
+den erdrückend, der nicht ſchon eine gewiſſe Ueber-
+ficht erlangt hat. Dieſs letztere möchte bey dieſem
+Buche um ſo eher eintreten, da es, wie faſt alle fran-
+zöſiſchen Lehrbücher, in fortlaufendem Vortrage ge-
+ſchrieben iſt, ſo daſs man allenfalls nach Beendigung
+einer Unterſuchung inne wird, wohin der Vf uns
+führen wollte, aber nicht immer gleich vom Ä
+an auf das Ziel der Unterſuchung hingewieſen wird,
+um dieſes nie aus den Augen zu verlieren.
+* Wie ſehr nun aber das Buch verdiene, von de-
+nen ſtudiert zu werden, die mit gehörigen Vorkennt-
+miffen ſich an daſſelbe wagen, hoffen wir durch fol-
+gende Inhaltsanzeige einleuchtend zu machen;
+Erſtes Buch. Statik S. 1–260. Erſter Abſchnitt.
+Vom Gleichgewichte der Kräfte, die auf einen ma-
+teriellen Punkt wirken. Der Beweis für das Paral-
+lelogramm der Kräfte wird zuerſt für den Fall ge-
+führt, wo beide Kräfte gleich = Pſind. Hier iſt die
+Mittelkraft R= P. p.x, wenn x den Neigungswin-
+kel der P gegen die Mittelkraft, und P x die zu be-
+ſtimmende Function deſſelben bedeutet. Denkt man
+ſich das eine Paus Kräften Q, Q, die unter dem Win-
+kel = z gegen P geneigt ſind, zuſammengeſetzt, ſo
+iſt P= Ä und eben ſo das andre P= Q. P. z,
+alſo R= Q. - z ºº r; aber offenbar auch
+R= Q4 (x +z) + Q. P (x – z),
+oder D (x + 2) + P (x – z) = .. z . d r, welches mit
+Hülfe des Taylor'ſchen Lehrſatzes ex = 2 Coſx giebt.
+Dieſer Beweis iſt in der That recht elegant, und hier,
+wo dieſe ganz analytiſche Sprache wohl erlaubt war,
+ſcheint er uns allen Beyfalſ zu verdienen. Weniger
+ſeinem Zwecke gemäſs ſcheint uns der in den Züſä-
+tzen vorkommende, den Anfängern beſtimmte Be-
+weis, doch da wir ſchon den Wünſch geäuſsert ha-
+ben, daſs Anfänger ſich nicht bloſs mit den ihnen
+hier durch Sternchen angewieſenen Sätzen begnügen,
+ſondern ſich ein vollſtändigeres, in mehr elementari-
+'ſcher Form geſchriebenes Lehrbuch wählen, ſo wol-
+1en wir dabey nicht verweilen.
+An jenen, bloſs für gleiche Seitenkräfte geführ-
+- ten Beweis ſchlieſst ſich nun der allgemeine Beweis
+an, und die bekannten Anwendungen dieſes Satzes
+vom Parallelogramm der Kräfte werden nun in aller
+Vollſtändigkeit nicht bloſs für einen frey bewegli-
+chen Punct durchgeführt, ſondern auch für einen
+Punct der ſich auf eine Fläche ſtützt, oder auf zwey
+fich ſchneidende Flächen, an deren Durchſchnitts-
+linie er ſich befindet. Die ganze Darſtellung iſt
+- lichtvoll und ſehr genügend.
+Zueyter Abſchnitt. Vom Gleichgewichte - ei-
+Ines feſten Ä Der Vf. betrachtet zuerſt
+den Fall, da die Richtung der wirkenden Kräf-
+te unter ſich parallel iſt. Obgleich der Vf.
+mit den allgemeinen Geſetze des Gleichgewichts
+zweyer Kräfte, deren Richtungen in einer Ebne lie-
+gen anfängt, ſo findet er es doch nöthig, für paral-
+el wirkende Kräfte noch einen beſondern Beweis zu
+führen. Und dieſes iſt hier, wo man den Grund zu
+allen folgenden Betrachtungen legt, unſtreitig ſehr
+zu billigen, damit jede Schwierigkeit, die man be
+einem ins Unendliche hinausrückenden Durch
+ſchnittspuncte der Richtungen finden könnte, völlig
+ehoben werde. Die Folgerungen die ſich hieraj
+nüpfen, ſo wie die Betrachtung einzelner Fälle fin-
+det man eben ſo gründlich als klar erläutert. Im
+Folgenden werden zuerſt die Kräfte betrachtet, de-
+ren Richtungen alle in derſelben Ebne liegen; dann
+der Fall», wo Kräfte in mannigfaltigen Richtungen
+auf verſchiedene Puncte wirken, und wo der Körper
+entweder Ä frey, oder um einen Punct oder um
+eine Axe drehbar iſt, u. ſ. w. Die Formeln für das
+Gleichgewicht, für Gröſse und Richtung der aus al-
+len Kräften zuſammengeſetzten Kraft, wenn kein
+Gleichgewicht ſtatt findet, und alles Uebrige hieher
+gehörige findet man hier vollſtändig und faſt immer
+in Ä leicht zu überſehender Ordnung.
+ritter Abſchnitt. Theorie der Momente. Hier
+iſt gleich zu Anfang der ganze Gang der Unterſu-
+chungen vorgezeichnet, und dem Leſer, was Rec.
+immer ſo überaus wichtig findet, der Hauptgedanke
+Ä den er bey allem folgenden vor Augen be-
+ten ſoll. Moment in Beziehung auf einen Punct,
+hieſs, das Product aus der Kraft in die von jenem
+Puncte auf ihre Richtungslinie gefällte Senkrechte;
+es kann alſo, wenn man auf der Richtung der Kraft
+Peine Linie, der Kraft proportional, oder die Kraft
+bildlich darſtellend abſchneidet, durch den doppel-
+ten Inhalt des Dreyecks dargeſtellt werden, das
+durch dieſe Linie und die von ihren Endpuncten
+nach**.em feſten Puncte gezogenen Linien gebildet
+wird. So wie man ſich nun Projectionen dieſes
+Dreyecks auf Ebnen denken kann, die durch eben
+jenen Punct gehn, eben ſo könnte man auch hier
+von Projectionen des Momentes reden; tand nun
+läſst ſich leicht zeigen, daſs das Moment der aus
+Zerlegung von P parallel mit irgend einer Ebne ent-
+ſtandenen Seitenkraft in Beziehung auf jenen be-
+ſtimmten Punct gleich iſt der Projection des Mo-
+ments auf dieſelbe Ebne. Durch dieſe Betrachtung
+geht die Unterſuchung über die Momente der aus
+Zerlegung entſtandenen Kräfte in eine rein geome-
+triſche über. . .
+Vierter Abſchnitt. Anwendungen auf ſchwere
+Körper. Fünfter Abſchnitt. Von der Reibung-
+Sechſter Abſchnitt. Vom Gleichgewichte biegſamer
+Körper, von der Kettenlinie und der elaſtiſchen Li-
+nie. – Dieſe Abſchnitte ſind in aller Hinſicht ſehr
+befriedigend. Daſs von der Reibung nur kurz ge-
+handelt iſt, und keine einzelne Verſuche angeführt
+werden, wird wohl niemand miſsbilligen; doch hät-
+te wohl der verſchiedenen Reibung Erwähnung ge-
+ſchehen mögen, die beym Fortgleiten und beym
+Fortwälzen Statt findet, da auf dieſem Unterſchiede
+manche vorkommende practiſch-nützliche Unterſu-
+chung beruht. Ueberhäupt iſt auf practiſche An-
+wendung wohl etwas zu wenig Rückſicht genom-
+men: denn auch das, was in den additions von den
+einfachen Hebezeugen vorkömmt, iſt zu kurz- Der
+- . . . . . . . . . . . . LJer
+«-

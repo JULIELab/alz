@@ -1,0 +1,116 @@
+457
+458
+ALLGEMEINE LITERA T UR - z E 1T UNG
+- Julius
+- - -
+8. 9.
+- -
+. . ." -
+- - - " -
+mathematik.
+PARrs: Théorie des fonctions analytiques – – Par
+H. L: Lagrange etc. -
+Cºsſehlºß der inversen stuck abgebrºchene Reeenſen)
+hap., 9. Des ſphères oſculatrices. Des lignes de
+C r moindre courbure. Unter allen
+Ä ſich als berührende auf eine krumme Flär.
+che beziehen, iſt zwar keine der Ä Berührung
+(9ſeatiº) mit ihr ſelbſt fähig; wohl aber läſst ſic
+eine ſolche Kugel für jede aufſer Fläche entworfene,
+Curve angeben. Formel für ihren Halbmeſſer. Frage,
+nach derjenigen unter dieſen Curven, für welce
+dieſer Halbmeſſer ein. Gröſstes oder Kleinſtes wird;
+und allgemeinſte Unterſuchungen über die Eigen-,
+ſchaften dieſer Linien größter und kleinſter Krümmjg.
+– Da die in dieſem jej ehenden Kapi-
+ºſer gedrängt vorgetragenen Ünterſuchungen
+er die krummen Flächen, wegen der von den Re-
+foltaten für mehrere wiſſenſchaftliche Practiken,
+z. B. für die Lehre vom Schatten und Halbſchatten
+gemachten Anwendungen, manchen Leſer zur we
+ern Y. folgung des Gegenſtandes anreizen könnten,
+ſo will Receins der be ten (vielleicht das befte)yon
+den hieher gehörigen Werken nennen, das er aus
+eignem Gebrauche empfehlen kajj Biot's
+Eſai dºgéométrie analytique, appliquée aux courbes
+et aux, ſurfaces du fecond ordre ( as vorliegende
+Fxemplar iſt ſchon die 5te Aufl. Paris 1813- Eine
+neue kennt Recnicht) - . . . . . . .
+Cap. 10. Solutiºn des 9 % e/tion sdam
+lesquelles on Propoſº ne relation entre les mensda
+eºtaed“ premier ordre des ſurfaces cour Conßru-
+et de ette ſolution. Eqation des ſurfaces develop-
+aber. Diejenigen Grundſätze, welchjj
+ecenfion des 3ten Kapitels dieſes Abſchnitts gezeigt.i
+Än ſt» zur Löſung der doppelten Gathegorie
+Äroblemen dienenjcÄTÄ
+erührung für krumme Linien beziehen, finden
+gleichmäſsig Anwendung j von der Berühj
+für kºmme Flächen diëRÄr“j Bedingung
+einer Bºhrung erflen Grades zÄſchj ner Fläché
+deren Gleichung: F(p» 7, r) = o, drey willkürliche“
+Conſtanten alsº * Sºthält und einer anderj
+en Coordinaten x,,z, ſt analog dem, in der
+Recenf. j ÄKapitels. Angeführtjdj.
+Ämmung dieſer Conſänen Ä Gleichungen:
+(*, v, z) =o, P(x, y» 2) =o, und F (x, y, z)
+f Ä # die krumme Fläche finden,
+F "Äº dieſe Berührungselemente (ſ. das 2te Kap.
+4. L. Z. 1819. Zweyter Ä% P -
+>.
+dieſes Abſchnitts) a, b, e in einer gewiſſen beſtimm-
+ten Relation untereinander ſtehen. Fall, in wel-
+chem dieſes Problem eine einfachere Geſtalt an-
+nimmt. Anwendung auf berührende Ebenen, und
+ſchlieſslich allgemeine Gleichung der abwickelbaren
+Oberflächen.
+Chap. II. Des plus grandes et des moindres or-
+données des ſurfaces courbes. Solution générale des
+gºo. Äst dºminimis. Manière de diſ.
+ºreºima s minimadans les fonctions de lu-
+ſieurs variables. Man Ä hiermit das IIte und
+ºte apie des ten Abſchnitts und deren Darſte-
+lung in gegenwärtiger Recenſion. Die gröſsten oder
+kleinſten Ordinaten einer gegebenen Oberfläche mj.:
+ſenden Punkten entſprechen, in welcheneiebe-
+rührende Ebene der Ebene der x- und y parallel wird,
+welches z!* + z“ =o, alſo ſowohl zÄl 2,= o giebt, -
+woraus, als allgemeiner Grundſatz : folgt, daſs für
+den Fall des Maximi oder Minimi die Pjjej einer
+Äunction, zºgeyer veränderlichen Gröſsen fjojº
+Bezug auf die eine als die andere derſelben Ä o ſeyn
+müſſen. Herleitung der nämlichen Folgerung aus
+der Theorie der Functionen. Einer Veränderlichen.»
+Anwendung auf die Functionedre er Veränderli-
+ohen. Die, in der Recenſion des ten Kapitels-
+2ten Abſchnitts hinreichend dargeſtellte, eigentliche
+Natur der Foderung des Maxijoj Mimimi führt
+in der nunmehrigen Ausdehnung dieſer Foderung,
+auf die Frage nach den Bedingungen, unter dej
+Ap” -- Bpq + C + Der +-. • • • • wo Af, B, C. ..
+gegºre. 1: " . . aber unbeſtimmte Gjfj ſind,
+Äthwendig immer einen poſitj oder negativen
+Werth habe, welches auch die zj p» q, r...?
+Jeyn mögen. Anweiſung zu dieſer Beſtimmung. Wir
+geben die, dem ºrſprünglichen Ä
+# générale,", welche der V aus dieſen
+fºrtgeſetzten Unterſuchungen übj die Theorie des
+Gröſsten und Kleinſten zieht, jit ſeinen eigenen
+Worten: „Si dans une.fonction gºleonque d'un nom-
+bre de variables quelconque, on ſubſtitui j place de
+º"arible a ,j, z.., les quantij * + p, y+ q,
+2 + r., et qu'on développe la fonction ſuivant lºs puiſſan-
+ees et les produits des quantités ?» 1» r . . . , les termes
+oices quantités ni ſe ""ent qu'à la premièrej
+ſon» tant égalés chacun ſéparément à tro, donnerant
+* quations néceſſaires j Äº fonction propºſe
+devienne un maximum euun ºi"imumr; en ſtitéoj
+ſidérera la quantité "Ä9/ée de tous les terj.
+p» q, r
+pour le minimum
+ſitive;
+Mmm
+º ee quantité ſoit tojo, po
+“Pºre maximum toujours Ä
+qttelles
+-- formerant der dimeaſons, et il fodºj

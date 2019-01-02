@@ -1,0 +1,127 @@
+259
+260
+ERGÄNzuNGSBLÄTTER zuR A. L. z.
+tung, daſs dieſe Aufhellung, deren eigentlichen
+erth nur diejenigen zu würdigen wiſſen, welche
+ſich, gleich uns, Jahre lang ſelbſt bemühet haben, .
+Licht in die Finſterniſs der Differentialrechnung
+ZU1 Ä zu dem Vortrefflichſten ſeines unſchätz-
+baren Werkes gehöre. – Die Geometer nach
+Fermat geben aber dem Gegenftande ſeiner Ünter-
+ſuchungen bald eine weitere Ausdehnung: man ver-
+langte die Angabe der krummen Linien ſelbſt, bey
+denen gewiſſe, von ihrem ganzen Umfange inner-
+halb beſtimmten Grenzen abhängige Gröſsen im
+Maximum oder Minimnm ſeyen, z. B. die Curve,
+Yelche durch Axendrehung der Körper von gröſst-
+möglichem Umfange innerhalb gegebener Grenzen
+Ärzeuge; und ſchon Newton conſtruirte die Curve,
+durch deren Rotation der Körper entſteht, welcher
+ach der Richtung ſeiner Axe in einer Flüſſigkeit
+bewegt, den geringſten Widerſtand erfährt. Vor-
+zugsweiſe war es indeſs das, von uns ſchon in der
+nzeige der Theorie erwähnte, durch Johann Ber-
+noulli im J. H69 vorgelegte berühmte Problem von
+der Brachyſtochrone, welches die Aufmerkſam-
+keit der Geometer auf dieſe Categorie von Fragen
+zog. Dieſes Problem ſtellt ſich zwey, in verſchie-
+denen Verticalen liegende Puncte dürch einen Bo-
+en verbunden vor, und fragt nur, welcher Natur
+dieſer Bogen bey unveränderter Länge ſeyn müſſe,
+üm von einem frey fallenden, oder überhaupt durch
+gegebene Kräfte bewegten Körper in der kürzeſt-
+möglichen Zeit durchläufen zu werden? Bernoulli
+ging bey ſeiner Behandlung dieſes Problems. von
+den Anſichten des Infiniteſimal-Calculs aus, wel-
+her ſich die Curven als Polygone von unendlicher
+Ä vorſtellt, indem er fragte, welche ge-
+§Ä Lage irgend zwey. ſolcher Ä EIl
+eiten zur Erfüllung der geföderten Bedingung ha-
+ben müſsten; und hiernächſt die, dem durch dieſe
+beiden Seiten eingeſchloſſenen Winkel entſprechen-
+de einzige Ordinate variiren lieſs... Er fand auf die-
+# Weiſe, daſs die Linie des ſchnellſten
+a
+Alles die Cycloide oder Radlinie ſey; und die näm-
+chen Kunſtgriffe reichten zur Béantwortung der
+oben erwähnten, von Newton aufgeworfenen Fra-
+ge hin. Erſt der jüngere Bernoulli ſah die Noth-
+Yendigkeit ein, bey allgemeinerer Behandlung der
+Fragen dieſer Natur, zuvey grenzende, den entſpre-
+chenden Polygonwinkeln zugehörige Ordinaten zu
+leich variiren zu laſſen, und gründete auf dieſe
+Anſicht ſeine, hernach auch von Tailor und Euler
+befolgte, in ſeiner Analyſis magni problematis iſa-
+perimetrici ausführlich dargeſtellte Methode. Aber
+auch dieſe Methode trifft, abgeſehen von einer an-
+dern, aus ihrer Form Ä Mangelhaftig-
+keit der» in ihrer Natur begründete Vorwurf, nur
+einen unendlich kleinen Theil der Curven vor ihre
+Betrachtung zu ziehen, wie wohl das Daſeyn des
+Gröſsten # Kleinſten ſich über die ganze Curve
+erſtrecken kann, ohne doch zugleich in jedem ih-
+er unendlich kleinen Theilchen (den Seiten des
+Polygons, welches den Jäfnimal-Calculus den
+Curven ſubſtituirt) ſtatt zu finden: und nur erſt in
+einem ſpätern, von uns ſchon in der Anzeige der
+Théorie p. mit gebührenden Lobe genannten Wer-
+ke: Methodus inveniendi lineas curvas maximimi-
+nimiqu proprietate gaudentes, iſt es Eulern gelun-
+gen, alle dieſe Schwierigkeiten zu beſiegen, und
+eine allgemeine und vollſtändige Auflöſung des ifa-
+Perimetriſchen Problems zu geben. Dieſes Werk
+eht von dem, ſeinem Verfaſſer eigenthümlichen
+Ä, daſs, um unter allen, durch eine
+oder mehrere bekannte Eigenſchaften charakteri-
+firten Curven diejenige zu finden, der eine Eigen-
+ſchaft im höchſten oder geringſten Grade beywoh-
+ne, man dem analytiſchen Ausdrucke dieſer letz-
+Ä Eigenſchaft die Ausdrücke jener übrigen Ei-
+genſchaften, jeden multiplicirt in einen beſtändigen
+und willkürlichen Factör hinzufügen, und hier-
+nächſt die Ä ſuchen müſſe, für welche dieſer
+Ä Ausdruck ein Maximum oder
+inimum werde. Der einzige Vorwurf, den man
+der Analyſe von Euler noch machen könnte, be-
+zieht ſich auf ihre Form: ſie entfernt ſich zu weit
+von dem Mechanismus und Algorithmus des Diffe--
+rential-Calculus; und dieſs iſt, was Lagrange be-
+wogen hat, den Gegenſtand einer neuen Unterſu-
+hung zu unterwerfen, deren Reſultate in dem 2ten
+Bande der Memoiren der Akademie zu Turin dar-
+gelegt, und aus dieſen Werke in das vorliegende
+übergegangen ſind. Die ſo geſtaltete, auf die An-
+wendung und Verbindung Ä verſchie-
+denen Differentiationen Ä enden Charakte-
+riſtik, d und d, begründete je Methode der Yaria-
+tionen" iſt von allen ſpätern Lehrern dieſer Rech-
+nung, und namentlich auch von Käſtner in den
+letzten Ausgaben ſeines Lehrbuchs der höhern Ana-
+lyſis adoptirt worden, daher wir ſie hier als bekannt
+vorausſetzen. Da ſie aber in dieſer Geſtalt die näm-
+lichen Vorausſetzungen des Unendlich- Kleinen mit
+der Differentialrechnung gemein hat, ſo blieb dem
+Vf. noch die Verbindlichkeit, die Grundlage ſeines
+ebäudes durch Beziehungen auf die Functiºnen-
+heorie zu befeſtigen. Um dieſen Zweck vollſtän-
+dig zu erreichen, wiederholt er zuerſt ſeine ihrem
+Geiſte nach aus der Théorie p. und unſerer Anzeige
+dieſes Werks hinreichend bekannte Darſtellung der
+einfachen Methode vom Gröſsten und Kleinſten,
+und ſtellt hiernächſt die Frage: welch ein gegenſe-
+tiges Verhältniſs die verſchiedenen, in einer der-
+virten Function auftretenden Gröſsen haben müſſen,
+damit die, dieſer Derivirten zugehörige Primitive
+ein Gröſstes oder Kleinſtes werde ? aſs worauf es
+hier ankommt, in den nämlichen Geſichtspunct-
+Wäre nämlich die Function f (x, y».y', y“ : ), 5°“
+geben, ſo läſst ſich freylich dieſer Ausdruck allge-
+mein nur integriren, wenn zugleich der werth von
+inx bekannt iſt; wohl aber läſst ſich die obige
+rage aufwerfen, und es leuchtet ſogleich ein, dass
+Z. # für den Fall das Maximi, die gegenſeitigen
+Werthe von x, .y: y“, y“ . ſo gewählt ſeyn
+müſſen, daſs jede Wederung oder verringeººg
+- Er-
+
+

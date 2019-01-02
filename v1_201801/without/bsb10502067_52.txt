@@ -1,0 +1,129 @@
+* ALLG. LITERATpa- zEITUNG
+84
+Wäre daher auch
+endliche Reihe
+net, werden beide Fehler vereinigt. Die widerſte-
+hende-Waſſerſäule in der Ä iſt nach ihrem
+kub. Hnhalt = a“y, aber dieſe Maſſe muſs mit Rück-
+ßcht auf das Trägheitsmoment auf die Weite a der
+Leitröhre reducirt werden, und iſt ſo reducirt
+– / "N“ „u „ – * .
+= (j)“ -
+der Ausdruck für p richtig, ſo
+hätte der Vf, doch f = U ?
+2 g - ( +- a y
+: . . . (3“ -
+müſſen. Das Reſultat dieſer allzugroſsen Verirrun-
+en iſt nun kurz dieſes, daſs dieſer ganze Abſchnitt
+is S 21 als unbrauchbar und falſch durchgeſtrichen
+werden muſs. III. Abſchn. Von Stoßheber mit einem
+Windkeſſel insbeſondere. Der Vf. bezeichnet die ge-
+ſammte Krafthöhe mit H, und ſetzt nun
+v?
+H = h + – + b -, -
+4G
+ſetzen
+- - - - - - -
+" . .
+wº h und die oben ſchon angegebene Bedeutung
+haben», b die Barometerhöhe, und - das ſpec. Gé
+wicht des Queckſilbers (das des Waſſers = 'geſetzt)
+2
+Warum aber – hier addirt werden
+4 Gſ
+ſoll, finden wir nicht gerechtfertigt. Dann beſtimmt
+er die einzelnen Widerſtandshöhen (wo wir den Wi-
+derſtand wegen der Steigröhrenwand nicht bemerkt
+finden) und ſetzt ihre Summe = h'. Mittelſt dieſer
+Werthe von H und h' kommt er auf eine Gleichung
+zwiſchen v, h, H, s (wo s die Förderungshöhe über
+dem Zufluſsbehältniſſe iſt) und gegebenen Abmeſſun-
+gen der Maſchine, aus der aber s erſt noch entwik-
+elt werden muſs. Indem er nun zur Vermeidun
+eines abſchreckenden Anſehens die Buchltaben q, q,
+q“ u.ſ w. ſtatt zuſammengeſetzter Ausdrücke ſetzt,
+und die bekannte Zahl e des natürlichen Logarith-
+menſyſtems zu Hülfe nimmt, kommt er auf die un-
+bezeichnet.
+- + - - sº -
+e* = 1 + q s + q's *+ q“ss + “s“+ ----
+wo gleichfalls ſtatt eines andern Ausdrucks ſteht,
+und i wieder eine ſehr zuſammengeſetzte Function
+von iſt. Jetzt ſetzt er aufs Neue zur Umkehrung
+dieſer Reihe - - - -
+s = A p + B p* + Cp * + D p“ +..... (h
+und beſtimmt auf bekannte Weiſe A, B, C . . . . . -
+Z. B.
+E = I . (“ 4. (q)* -- 6 - q? - rºt-ro)
+TF - – 2o q q“. (q)* – q 3. q“
+wo q, q, q“, q“ etc. ſelbſt ſehr zuſammengeſetzte
+Gröſsen ſind. Wollte man hiernach den Werth von
+s (H) nur in 5 Gliedern durch bloſs urſprünglich ge-
+gebene Gröſsen ausdrücken, ſo gäbe ſich eine For-
+mel, wie noch keine weder vor noch nach Eulern
+verſichern wir,
+-
+Jers und der zur Druckhö
+ºm, analytiſchen, Himmel, die Kometen mit einge-
+ſchloſſen, jemals erſchienen wäre. Und dej
+daſs in den folgenden §§ der Ca-
+cul noch viel verwickelter wird Iv. Abſchn. Von
+der beſchleunigten # des ausfließenden Waf
+ekhöhe gehörigen Geſchwindig-
+keit bey Stoßhebern. Der Vf. unterſcheide bey den
+- - gen, des Waſſers in die Steigröhre vier
+Yerſchiedene Zeiten - nämlich (in Bezug auf die
+Sperrſcheibe) die Zeit t der vorwärts gehenden Be-
+wegung - die Zeit t“ der rückwärts gehenden Bewe-
+gung - die Zeit t“ des Stillſtandes gleich nach,
+und die Zeit t“ des Stillſtandes gleich nach t“. Be-
+greiflich, iſt die Beſtimmung von t die wichtigſte,
+und der Vf, erinnert ſehr Äj daſs es dabey ſogar
+auf Hunderttheile einer Secunde ankomme. Indeſſen
+ſcheint uns dieſer Umſtand doch minder erheblich,
+als dem Vf, in Bezug auf eine brauchbare Theorie
+dieſer Maſchine, wenigſtens in beſonderer Rückſicht
+auf den Effect, weil mit der Vergröſserung von t
+zwar mehr Waſſer durch die Sperrventilöffnung ver-
+loren geht, dagegen aber auch mehr Waſſer in die
+Steigröhre einſtrömt. Eben ſo richtig wird bemerkt,
+das es für die Theorie ein ſehr nachtheiliger Um-
+ſtand ſeyn würde, wenn die Bewegung des Waſſers
+in der Leitröhre (während ihrem Abfluſſe aus dem
+Sperrbehältniſſe) gegen das Ende hin eine verzögerte
+ſeyn ſollte- Lieſer Umſtand wäre aber nicht bloſs
+nachtheilig für die Theorie, ſondern zugleich, was
+weit wichtiger iſt, höchſt machtheilig für den Effect
+der Maſchine. Ja ſchon der wirkliche Uebergang
+zur gleichförmigen Bewegung würde -den Effect ver-
+mindern, deſto mehr, je ein gröſserer aliquoter 1 heil
+die Zeitdauer dieſer gleichförmigen Bewegung von
+der ganzen Ausfluſszeit wäre. Es iſt daher eine we-
+entliche Foderung zur Vollkommenheit dieſer Ma-
+ſchine, eine ſolche Einrichtung zu treffen, bey, wel-
+cher jener Umſtand nicht eintreten kann.
+giebt nun aus den bytelwein'ſchen Beobachtungen
+5 Falle an, wo t, t“, t“ und t“ bemerkt ſind, und
+nimmt daraus als Mittelzahlen die o,67; o,039; 0,228
+und 0,0444; hiernach wird die ganze Zeit, welche
+jedesmal für einen Hub verflieſst oder T= 1, und
+t: t“ = 0,67. T: 0,23. T. Aber die groſse Verſchieden-
+heit der in jenen 5 Fällen bemerkten Verhältniszah-
+len geſtattet hier auf keine Weiſe die Subſtitution von
+Mittelzahlen; man hatte z. B. im erſten Falle die vier
+Zahlen 0,79; 0,039; o.144; o.o25; im zweyten Falle
+die o,527;o, 105;o,298; o»o62. Wie könnte man
+ſich berechtigt halten, z. B. ſtatt o,79: 0,144, oder
+ſtatt 0,527 : 0,298 das Verhältniſso,67: 0,228 ſetzen
+zu wollen? Dennoch macht der Vf, nunmehr in 3 ver-
+ſchiedenen Beyſpielen Anwendungen von ſeinem bis-
+herigen Calcul, wo er dann im erſten Beyſpiele die
+Waſſerförderung = 983 K. Fuſs angiebt» wºfür wohl
+nur 336 ſtehen iſt. Der Vi. findet überall bey die-
+ſen Änwendungen der Effect der Maſchine zu gering,
+und in keiner Ä würde er ſo groſse Effecte
+finden, wie ſie die Eytelweinſchen Verſuche in vie-
+len Fällen wirklich gezeigt haben, ob wir gleich Ä
+1"
+LDer Vf,
+

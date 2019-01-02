@@ -1,0 +1,117 @@
+453 Num. 163.
+454
+PIULIUS 1 8 19- - >
+-
+bare Gleichung: 'y“ (mmy“ + mny“) = o» erhalten
+haben würde.
+. Von dieſem Beyſpiele geht der Vf, zu den ent-
+ſprechenden, allgemeinen theoret öhen Unterſuchun-
+gen über, deren Reſultat, am Schluſſe des Kapitels
+mit folgenden Worten dargeſtellt wird: » D'ou l'on
+eut conclure en général, que l'éq uation primitive
+ſingulière d'une équation du premier ordre, repré-
+Jente toujours la courbe enveloppante de toutes les cour-
+bes qui peuvent étre repréſentées parſon équation pri-
+mit ve complète, en donnant à la conſtante arbitrai-
+re toutes les valeurs poſſibles." (Vgl. Abth. I. Kap. 9.)
+Chap. 4. Des contacts du ſecond ordre Théorie
+et conſtruction des équations primitives ſingulières dans
+es ordres ſupérieurs Exemple contenant la théorie
+analytique des développées. Ausdehnung auf die Be-
+rührungen zweyten Grades, d. h., nach Maaſsgabe
+des Kap. 2 Geſägten, auf diejenigen Fälle, wo die
+Annäherung zwiſchen der Berührenden und Berühr-
+ten ſo weit geht, daſs ſie für ein, vom Berührungs-
+puncte angenommenes, gleiches Ax, nicht nur dy,
+- ſondern auch d’y gemein haben. Man fodert die
+Krumme, welche, für jeden Punct, mit einem durc
+die Gleichung: (x-a)? + (y– b)* = c”, beſtimmten
+Kreiſe, dy und dºy gemein hat; und wo die Bezie-
+hung der Berührungs-Elemente (ſ. Kap. 2) durch
+die Gleichung: @ ( a, b, c ) =o, gegeben iſt.
+„ Donc, puisque le rayon oſculateur d'une courbeef
+partouttangent à la courbe des centres, et eſ en méme
+tems égal à l'arc de cette courbe, il f'enſuit qu'il peut
+éire pris pour ce méme arc étendu en ligne droite, et
+'ainſ toute courbe peut être regardée comme formée
+par le développement de cette qui eſt le lieu des centres
+des cercles osculateurs. C'eſten quo i conſiſte la
+théorie des développées d'Huyghens, qui
+m'avait étédén ontrée jusqu'ici, que par des
+conſidération sº gé omé triques."
+Chap. 5. Des plus grandes et des moindres va-
+leurs des fonctions d'une variable. (De Maximis et
+Minimis-) Rec. hat dieſen Abſchnitt immer für den
+Triumph des vorliegenden Werkes gehalten, und
+auf jedweden Werth von i, immer gröſser ausfallen
+kann, als die Summe aller folgenden Glieder. Wel-
+cher Natur muſs alſo dieſes erſte Glied ſeyn? –
+Könnte es poſitiv ſeyn, ſo bliebe es dieſs, bey Verbin-
+dung mit einem poſitiven i; könnte es negativ ſeyn,
+ſo würde es, durch Verbindung mit einem negativen
+i, poſitiv; beides wider die Grundbedingung; es
+kann daher Keins von Beiden; es muß =o ſeyn.
+i? #3
+Alſo erhält man ferner: o > T2 F“x + TFT F“x.....,
+Hier muſs, weil immer poſitiv iſt, Fºx entweder
+negativ, oder = o ſeyn. Iſt es Letzteres, ſo erhält
+3
+man ferner o > T6T F“x + .... wo erſichtlich wie-
+A
+der F“x nur =o ſeyn kann, weil ſich ſonſt das Rai-
+fonnement von Fºx darauf anwenden lieſse u. ſ. w.
+Chap. 6. De la meſure des aires, et de la lon-
+gueur des arcs dans les courbes planes. De la me-
+ſure des ſolidités et de cette des ſurfaces des conoides.
+(Complanatio) Principe général de la ſolution analy-
+tique de ces queſtions. Wenn für jedweden Werth
+vön i jeyn ſoll: 1) Ai + Bi” < C’, wo die rechte
+Seite nicht = o iſt, ſo muß das, mit der erſten Potenz
+von behaftete Glied = o ſeyn, weil man ſonſt,
+welche Zeichen die verſchiedenen Glieder auch tra-
+gen mögen, aus der umgekehrten Relation:
+Ai + Bi* > C“, immer einen Werth von i-herleiten
+kann, welcher, der Grundbedingung zuwider, die lin-
+ke Seite von 1) ſogar größer macht als die Rechte. Iſt
+aber das, mit der erſten Potenz von i behaftete Glied
+= o, ſo wird die Relation: Bi? < C”, in welche
+ſich 1) durch dieſe Vorausſetzung verwandelt, für je-
+den gedenkbaren Werth von i wahr ſeyn können,
+weili“ ſich nunmehr auf beiden Seiten durch Divi-
+ſion hebt. – Machen wir hiervon eine Anwendung
+auf die Theorie der Quadratur. Die engſten grad-
+linichten Grenzen, in welche das Curvenſtück
+?
+F(x +i) – Fx = i. Fx + 2 F"(r+ 7), eingeſchloſs
+denſelben nie ohne die innigſte Hochachtung für den fen werden kann, ſind das überſchriebene und in-
+Vf. durchgeleſen. Die Foderung, in irgend einer beſchriebene Trapez, (denn dieſe wollen wir wählen,
+Function von x, den Werth von x ſelbſt ſo gut be- um dem Scheine der petitio principii zu entgehen, wel-
+ſtimmen, daſs jede Vergrößerung oder Verringerung cherbey Lagrange daher entſteht, daſs er ſich gleich
+dieſes Werthes von x ſelbſt eine Verringerung dj auf das Parallelogramm i .fx
+Wºrthes vom Betrage der ganzen Function nach ſich
+ziehe (alſo die Foderung des Maximi des Werths = i-f
+von Fºr: die Anwendung auf das Minimum iſt leicht
+gemacht); führt analytiſch auf den Ausdruck:
+- 2 -
+:2
+(x + : )= .fr + + f' (x+47).
++ LfG + )–/-
+=--+ Äf (- +3).
+B sº: -2 -
+ÄFLP(-+7)–PG-391
+Unterſchied A-
+Der Unterſchied zwiſchen dem Curvenſtücke und
+denn überſchriebenen Trapez iſt: -
+= 0-–F-9+ÄLP («+47)–FC-+791;
+und
+Letzteres iſt:
+- -
+- ſ #3
+Fx > Fx + i. Fx + - Fx + 5 F"x . . . ,
+z? 3
+d. h. o >i. Fx + + Fºx + Z-F- - - - -
+Aº muſs die Summe der Reihe rechts, für einen
+poſitiven oder negativen Werth von i, immer negativ
+ſeyn. Sie iſt aber eins oder das andere, nachdem es
+ihr erſtes Glied iſt, weil dieſs, in ſeiner Beziehung
+bezieht). Erſteres iſt:

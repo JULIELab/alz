@@ -1,0 +1,106 @@
+289 – 244
+290
+. . . . ."
+--- -
+--
+ALLG EM E IN E L 1 T E RAT UR - z E 1 T U N G
+October 18 26.
+MATHEMATIK.
+Bñaunschweig, im Kunſt- u. geographiſchen Bu-
+reau: Vollſtändiger Lerbegriff der reinen
+Combinationslehre – – von Dr. Friedr. Wilh.
+Spehr u. ſ. w.
+(Beſchluſs der im vorigen Stück abgebrochenen Recenſion.)
+B. der Anwendung der Combinationslehre auf
+Wahrſcheinlichkeitsrechnung giebt der Vf, nur das
+Ä Gewöhnliche. Er hatte nur den Zweck, „ dem
+nfänger einen deutlichen Begriff von der jetzt ſo
+viel beſprochenen Wahrſcheinlichkeitsrechnung zu
+geben." Allein da er beyſpielsweiſe von der Währ-
+ÄcÄ mit einer beſtimmten Menge VWürfel
+eine beſtimmte Anzahl Augen zu werfen, ſpricht: ſo
+wird gewiſs jeder Anfänger ungern eine allgemeinere
+Erörterung dieſer intereſſanten Aufgabe vermiſſen. –
+Die Frage, auf wie viel verſchiedene Arten man all-
+gemeinm Dinge in k Theile theilen könne, ſo daſs
+l 2
+der erſte n, der zweyte n u. f. w. Dinge enthält,
+wird vollſtändiger entwickelt. (S. 174– i76)
+Die Beſtimmung der Anzahl der Formen, wel–
+che bey den combinatoriſchen Operationen hervor-
+ehen, hat der Vf, nicht unmittelbar bev der Dar-
+tellung der Formen ſelbſt, ſondern erſt in der An-
+wendung der Combinationslehre auf Analyſis UlIlte T
+Vorausſetzung einiger Sätze, die Facultätén betref-
+fend, rein analytiſch abgeleitet. Um unſere Leſer
+in den Stand zu ſetzen, über dieſe Ableitun en,
+welche dem Vf. Ä ſind, ſelbſt zu urthei-
+len, theilen wir hier die Beſtimmung der Anzahl
+der Combinations-Complexionen der kten Klaſſen
+mit Wiederholungen nach des Vfs. Auflöſung wört-
+lich mit.
+k k– 1 k
+»Es iſt CL 1 .. n] = CI1..n] n + C[1..(n–1)]
+k
+Man hat daher unter den Zahlen SCL1 .. nl fol-
+gende recurrirende Beziehung:
+k k – 1 - k
+SCI1.nl= SCL 1... n1 + SCI1..(n–1)1
+k
+oder, wenn man ſtatt SC das überſichtlichere Zei-
+k - A. k– 1 k -
+chen "A gebrauchen will: "A = n- +n - 1.A
+MIit dieſer Recurſion würde die für die Facultäten
+- - k k –
+mit der Differenz 1, nämlich nF = knF -#
+-4. L. Z. 1826. Dritter Bänd.
+identiſch ſeyn, wenn in ihr nicht der Factor k das
+eine Glied behaftete. Dividirt man aber jedes
+k
+Glied mit p (= 1.2..k), ſo iſt
+- k k– 1 /k
+– F = –-) F. – –F
+k
+eine Recurſionsformel, welche mit der für SCI1..n
+identiſch iſt. Man hat daher, wenn man die Con-
+k k+-g
+ſtanten fingirt: SC[ 1 . . n] = –+9 n+g.F"
+k -
+Für = 1 iſt SC [1 .. n | =n, folglich
+1 1 +-h . . .
+72 – nF! = –(+9 "+F“
+woraus folgt, daſs ſowohl h als g = 0 iſt;
+- k k
+SC [ 1 .. n] = – n F".
+Dieſe und andere in dieſem Buche häufig vorkom-
+mende Ableitungen ſtützen ſich auf einen Satz, den
+der Vf, den Schluſs der Idendität zweyer Recurſio-
+nen nennt, und S. 144 ſo ausdrückt: „ wenn eine
+Gröſse, für welche man nur eine Recurſionsformel
+hat, auf eben dieſelbe Art recurrirt, als eine andere,
+für welche der independente Ausdruck bekannt iſt:
+ſo iſt man berechtigt, zu ſchlieſsen, daſs ſie in Ab-
+ſicht auf ihre Bildung nichts anders ſey, als dieſe
+ſowohl auf dem Wege der Independenz als der Re-
+curſion bekannte Gröſse." Die Merkmale, woran
+an die Uebereinſtimmung zweyer Recurſionen er-
+Ä kann, ſo wie die Ä der Conſtan-
+ten, welche man jedesmal Ä muſs, ſetzt
+der Vf. (S. 144 – 147) umſtändlicher aus einan-
+der. Es würde uns hier zu weit führen, dieſen
+Schluſs, auf den der Vf, ein groſses Gewicht legt,
+und den er ſchon früher in einer Abhandlung: de
+utrisque analyſeos recentioris determinand rationibus
+et. ecº utraqüe determinatione in alteram tranſitu
+(Braunſchw 1824), vorgetragen hat, einer genaue-
+ren Erörterung und Prüfung zu unterwerfen. Es
+genüge, Ä gemacht zu haben. Uns
+wenigſtens befriedigen die ſich darauf ſtützenden
+Ableitungen keineswegs, weil das Verfahren weder
+genuin nöch evident iſt. Das Ganze iſt nur ein Hell-
+Ä und in einen Nebel gehüllt, den man ertra-
+en müſste, wenn man nicht auf anderen Wegen zur
+Evidenz gelangen könnte. Wir würden es dem Vf
+Dank wiſſen, wenn er die Kraft ſeines Schluſſes an
+Nn der
+man hat daher allgemein 5 .

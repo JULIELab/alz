@@ -1,0 +1,111 @@
+SL ALLG. LITERATUR - ZEITUNG 52
+B. -
+# 47 o 1oo 2oo 3oo 4oo 5oo 6oo 7oo 8oo 9oo
+5L 176 523 870 1217 1564 19II 2258 2605 2952 3299 97
+52 18o 527 874 122 1568 1915 2262 2609 2956 336; 4
+53 183 539 877 1224 1571 1918 2265 2612 2959 3306 ji -
+soll nun zum Beyſpiel 347 mit 203 multiplicirt wer-
+den, ſo geht man in (A) von 2oo herab bis gegen-
+über von 3, und findet die Ziffern 7o4, mit welchen
+die äuſserſten rechts 41 das verlangte Product 70441
+geben. Soll dagegen # mit 253 multiplicirt wer-
+den, ſo geht man in (B) von 2oo abwärts bis gegen-
+über von 53, und findet 877 - womit 91 verbunden
+wird zum Product 87791. Die Berechnungsart der
+Tafeln hat der Herausgeber in der vorerwähnten
+Erklärung umſtändlich entwickelt, und deutlich ge-
+zeigt, wie die Producte auf jeden zwey gegenüber-
+ſtehenden Octavſeiten nach und nach auseinander
+hergeleitet werden, indem beym Fortgang von ei-
+nem Product zum folgenden jedes Mal nur eine ein-
+ziffrichte Zahl zu addiren iſt: erſt werden die Ei-
+ner und Zehner der Producte, oder die beiden Zah-
+len in den äuſserſten Columnen auf der linken und
+rechten Octavſeite, beſtimmt, und dann die Hun-
+derte oder die übrigen Ziffern der Producte: dieſe
+ſo, daſs man von der 2ten verticalen Reihe links zu
+der 2ten rechts, von dieſer zu der 3ten links u-ſ. w.»
+fortgeht. „Dieſe Berechungsart " ſagt der Heraus-
+geber. »war in der Ausübung ſo leicht, dafs es ſelbſt
+Beym Drucke nach einiger Uebung bequem gefunden
+wórden iſt, nach dem Verfahren, und nicht nach
+dem Manuſcript zu ſetzen. Auch die Correcturen,
+auf welche alle mögliche Sorgfalt verwendet worden
+iſt, ſind alle ohne Manuſcript, mit viel gröſserer Si-
+cherheit nach der (vorher angegebenen) Regel ge:
+macht. Da dieſelbe die Probe mit ſich führt, ſo ſind
+nicht wohl andere als Augenfehler in den Tafeln
+möglich. Die bis jetzt bemerkten ſind hinten ange-
+zeigt." Nach dieſen Aeufserungen ſcheint es, als
+habe der Setzer, nach der von Hn. Cr. erhaltenen
+Anweiſung, einen doch immer viele Aufmerkſam:
+eit erfodernden Hauptantheil an der wirklichen
+Berechnung dieſer Tafeln gehabt.» deſſen Name da-
+her billig zu nennen geweſen wäre, da der Fall ge-
+wiſs ſelten iſt, daſs ein Setzer einen ſo thätigen An-
+theil an dem Inhalt des Buchs ſelbſt nimmt. Der
+unmittelbare Antheil des Herausgebers, wie er ſelbſt
+ſagt, beſtand, auſser der verdienſtlichen Direction,
+hauptſächlich in der mit aller Sorgfalt und Mühe be-
+ſorgten letzten Correctur des Satzes. – In Rück-
+ſich der gewählten Berechnungsart wollen wir noch
+zweyerley bemerken mit Uebergehung der Gründe,
+der Kürze wegen. Die Zahlen in der äuſserſten Co-
+umne auf der linken Octavſeite ſind den entſpre-
+hemen auf der rechten gleich, wenn der oben ſte-
+hene Multiplican us eine gerade Zahl iſt; iſt er
+ungerade, ſo entſpringen die rechts aus denen links,
+indem zu den Zehnern jedes Mal fünf addirt wird;
+ein die Rechnung erleichternder Umſtand, den Hr.
+Cr. nicht erwähnt, der ihm aber ſchwerlich entgan-
+gen ſeyn wird. Die Factoren, die am Ende ein öder
+zwey Nullen haben, ſind in den Tafeln wegges-en,
+da man für ſie dem Product auch nur Ä bey-
+fügen darf. Indeſſen müſste man bey der wirklichen
+Berechnung, wenn man ſie nach den von Cr. ange-
+gebenen Regeln führen will, die Zahlen mit o am
+Ende in den vordern Columnen auf der linken und
+rechten Seite, und die ihnen entſprechenden Pro-
+ducte, mit zu Hülfe nehmen, damit die nach dem-
+ſelben Geſetz gleichförmig fortgehende Ableitung
+nicht unterbrochen werde: welches der Deutlich-
+keit wegen zu bemerken geweſen wäre. Man kann
+jedoch, auch ohne Hilfe jener Zwiſchenzahlen mit
+92 ſprungsweiſe nach folgender Regel verfahren.
+Man bezeichne durch b die Zehner des obenſtehen-
+den Multiplicandus, durch c deſſen Hunderte; ſo
+ergeben ſich da, wo vorher eine ſolche Zahl mit o
+weggelaſſen iſt, zuerſt die Zehner in den äuſserſten
+Columnen aus den vorhergehenden jedes Mal durch
+Addition vºn 2 b + 1. Iſt ferner b kleiner als fünf,
+ſo ergeben ſich die Hunderte aus den in der Columne
+vorhergehenden durch Addition von 2 c oder 2 c + 1,
+je nachdem die entſprechenden, auf einander fol-
+genden Zahlen in den äuſserſten Columnen ſteigen
+oder fallen; iſt dagegen b gleich oder gröſser als
+fünf, ſo wird 2 c + 1 oder 2 c + 2 addirt, ebenfalls
+je nachdem jene Zahlen zu - oder abnehmen. –
+Was den Gebrauch der Tafeln betrifft, ſo kann man
+daraus unmittelbar, ohne Rechnung, alle Producte
+abſchreiben, deren beide Factoren unter Tauſend
+ſind. Aber auch bey der Multiplication gröſserer
+Zahlen dienen die Tafeln ſehr zur ÄÄ
+Theilt man die Factoren in Klaſſen von 3 Ziffern ab,
+oder nimmt je 3 Ziffern auf einmal zuſammen, ſo
+kann man dieſe 3ziffrichte Zahlen als einfach be
+handeln, und die Producte derſelben oder der Klaſ-
+fen aus den Tafeln nehmen. Es fey z. B. 238457643
+mit 287 zu multipliciren, ſo iſt das Product von 287
+mit 643, = 18454 I ; das von 287 mit 457, = 13 1159;
+das von 287 mit 238 = 68306. Dieſe Producte wer-
+den, jedes drey Stellen weiter links als das nächſt-
+vorhergehende, unter einander geſchrieben, addirt,
+und geben ſo das Gefammt - Product 68437343541.
+Wäre 238457643 mit 287423 zu multipliciren, ſo hat
+man 6 Partial Producte (anſtatt der fonſt bey der ge-
+wöhnlichen Multiplication von Ziffer für Ziffer nö-
+thigen 54) aus den Tafeln zu nehmen; erſt werden
+die Producte von 287 nach obigem unter einander
+geſchrieben; dann die ähnlichen Producte von 423
+drey Stellen weiter rechts, oder es wird (ve.
+C

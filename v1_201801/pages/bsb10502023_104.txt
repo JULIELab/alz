@@ -1,0 +1,113 @@
+175
+176
+A. L. Z. JULIUS 18 er.
+wendige enthalte, auf dieſe Unterſuchung will Rec.
+ſich nicht einlaſſen, weil ſie in Rückſicht auf ihren In-
+halt mit den mehrſten Lehrbüchern ihrer Art über-
+einſtimmt; auch will er die Anordnung der Materien
+nicht berühren, um nicht zu weitläuftig zu werden,
+obgleich er mit dieſer nicht ganz zufrieden ſeyn kann.
+Es mag genug ſeyn, hier ohne Rückſicht auf jene Ord-
+nung anzuzeigen, daſs in dieſem Auszuge die vier
+Rechnungsarten mit den allgemeinen Zahlzeichen, die
+Decimalbrüche, die Lehre von den Proportionen und
+Progreſſionen, die Dignitätenlehre, die Ausziehung
+der Wurzeln, die Logarithmen, die Auflöſung der
+einfachen und quadratiſchen Gleichungen und die
+Auflöſung ſolcher cubiſchen Gleichungen vorgetragen
+werden, deren eine Seite ganz bekannt iſt, und de-
+„ren andere Seite entweder ein vollſtändiger Cubus
+iſt, oder ſich doch leicht vermittelſt einer bekannten
+Zahl dazu machen läſst. – Die Richtigkeit der auf-
+geſtellten Sätze kann Rec. nicht ohne Ausnahme un-
+terſchreiben, und folgende Bemerkungen werden
+dieſs darthun. S. 13. wird geſagt, daſs in der Alge-
+bra bey der Addition ſelten, oder gar nie mehr als
+zwey über einander ſtehende Reihen vorkämen, da
+doch ſo oft der Fall vorkommt, daſs man mehrere
+als zwey addiren muſs; ſo giebt z. B. die Multiplica-
+tion des 2 a” – 3 a b+b mit 3a*– 2 ab +b drey über
+einander befindliche mehrgliedrige Ausdrücke zu ad-
+diren. – Die Regel - Detri wird S. 62. wörtlich ſo
+erklärt: ſie iſt nichts anders als eine geometriſche Pro-
+portion, wo die beiden 1mittlern Glieder verwechſelt
+werden, und das vierte unbekannte Glied wegbleibt.
+Hätte man nämlich die Proportion 5 E.: 1o E. = 20
+Fl.: x Fl. und lieſse nun das x weg, und tauſchte 2o
+F. und 10 E. gegen einander um, ſo entſtünde 5E.: 20
+F1. = 1o E. und dieſes ſey nun die Regel - Detri. Was
+ſoll man ſich hierbey denken? Die gewöhnliche Re-
+gel - Detri iſt die Vorſchrift, vermittelt dreyer Glieder
+einer geometriſchen Proportion das vierte zu finden,
+und läſst ſich kurz ſo ausdrücken: man multiplicire
+die beiden bekannten gleichnamigen Glieder unter
+ſich, und dividire das Product durch das noch übri-
+ge bekannte dritte Glied. – S. 117 wird den Dig-
+nitäten a–3, a-3, a -7 u. ſ. f. a (****2 zwar ein inög-
+licher Werth beygelegt, den Dignitäten a-”, a-“, a *
+u. f. f. a-2 n aber die Möglichkeit abgeſprochen. Je-
+doch der Verſtoſs wäre zu arg, man muſs dieſs für
+Druckfehler anſehen, wenn man auch durch die fol-
+- 4
+gende Behauptung, daſs V–a“ und V– a“ noch uº-
+- möglichere Gröſsen als jene wären, etwas argwöh-
+niſch werden ſollte. Rec. iſt nämlich der Meynung,
+daſs der Vf, ſtatt des zuerſt angeführten hat ſagen uo-
+len, daſs eine Zahl als Dignität eines geraden poſiti-
+tiven Exponenten nicht negativ ſeyn könne, weil ſo-
+wohl (+ a) " als (–a) poſitiv iſt, und daſs daher ei-
+ner negativen Zahl, als Dignität eines geraden poſi-
+tiven Exponenten betrachtet, kein möglicher Werth
+entſpreche. Argwöhniſch könnte aber Rec. durch
+211
+die zweyte Behauptung werden, indem ja V–p bloſs
+deswegen nichts mögliches anzeigt, weil es fodert,
+daſs man eine negative Zahl für eine Dignität des
+2nten poſitiven Grades anſehen ſoll; wie kann alſo
+hier der Ausdruck – noch unmöglicher – paſſen? .
+Des Wfs. vorgeſchlagene Methode zur Conſtruction be-
+ſtimmter Gleichungen iſt wohl nicht zu empfehlen:
+man ſoll nämlich für die unbekannte Gröſse eine be-
+liebige Zahl nehmen, und der Aufgabe gemäſs ver-
+ſuchen, ob ſie richtig gewählt ſey, und alsdann, wenn
+die Probe eine Gleichheit zweyer ungleichen Zahlen
+zum Reſultate giebt, die gewählte verwerfen und
+ſtatt ihrer x ſetzen, und mit dieſem x alles das VO“-
+nehmen, was man vorher mit gedachter Zahl vorge-
+nommen hat. Warum ſoll man aber einen ſolchen
+Umweg machen, und nicht lieber gleich von x aus.
+gehen? erleichtert wird durch jene Methode gewiſs
+nichts. Dieſs mag genug ſeyn zu beweiſen, daſs der
+Rec... vielen Sätzen der vorliegenden Schrift ſeinen
+Beyfall verſagen muſste; hin und wieder hat er aber
+doch auch recht gute Erklärungen angetroffen, wo-
+hin z. B. dieſe gehört, daſs ein poſitiver Multiplica-
+tor durch ſein Zeichen + ſagt, daſs man ſich das Mul-
+tiplicand denken ſoll, wie es gegeben iſt, daſs hinge-
+gen der negative Multiplicator durch ſein Zeichen –,
+das entgegengeſetzte andeutet. In Rückſicht auf den
+Vortrag muſs dem Vf, das Zeugniſs gegeben werden,
+daſs er ſich überall bemüht hat, recht verſtänd
+lich zu ſeyn, und daſs ihm dieſes auch mehrentheis
+gelungen iſt; möchte er ſich nur nicht einer Termi-
+nologie bedient haben, die bisweilen lächerlich wird,
+oder das Ohr beleidigt. Statt Dignität z. B. wird bei
+ſtändig Würde geſagt, und daher auch von Erhebung
+der Würden zu neuen Würden geſprochen. Einej
+Bruch umkehren, heiſst bey ihm, einen Bruch um-
+ſtürzen, u. d. m. – Das Verdienſtlichſte dieſer Schrift
+möchte übrigens wohl darin beſtehen, daſs ſie viele
+Beyſpiele enthält. /
+G. D
+z.
+Lerzig . b. Barth: Katechetiſche Anleitung zu den
+erſten Denkübungen der Jugend, von M. J. Ch.
+Dºlz. Erſtes Bändch. 2te verbeſ. Auflage. “Nebſt
+I Kupfertafel, welche die Leſemaſchine darſtellt.
+18o- KVIII. u. 164 S. 8. (10gr.) (S. d. Rec. A.
+LZ I8oo. Nr. 127.)
+ERLAnden, b. Palm: Materialien zu Kanzelvorträ-
+ge" über die Sonn- Feſt- und Feyertags-Evange-
+lien. Herausgegeben von D. F. Rau. 4ter Bd.
+4te: St 18oI. 8 Bogen. 8. (8 gr.) (S. d. Rec.
+A. L. Z. 18oo. Nr. 222.)

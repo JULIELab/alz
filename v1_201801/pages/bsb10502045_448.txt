@@ -1,0 +1,117 @@
+835
+836
+A L LG. LITERATUR - ZEITUNG
+Die Conſtanten, die man nach jeder Integration hätte
+hinzufügen müſſen, ſind = o geſetzt; man ſieht leicht
+was ſich ändert, wenn ſie nicht verſchwinden. Das
+Geſetz der Coefficienten iſt drey beym Binomico, ſo
+wie überhaupt dieſe Integrale init den Potenzen des
+Binomii in ihrer Form eine Aehnlichkeit haben.
+Der Vf. giebt am Ende noch eine Anwendung
+der Ä-Ä auf einige Probleme der
+Phyſik. Er zeigt, dafs die Geſchwindigkeit des Falls
+der Körper, von ihnen abhängt, und berechnet zum
+Beyſpiele, daſs eine Kugel von Eiſen, deren Durch-
+meſſer = 0, 25 Mèt., mit einer Geſchwindigkeit von
+442,97 Mlètres in einer Secunde (nach der Decimal-
+eintheilung des Tags) geworfen werden muſs, wenn
+ſie auf die Höhe von 4oo Métres ſteigen ſoll; beym
+Herabfallen iſt ihre Geſchwindigkeit 165,56 M. Eine
+zweyte Aufgabe, die Laplace in der Méc. Cel. IV
+S. 285. auflöſet, und die ihm die Schwächung des
+Sonnenlichts durch die Sonnenatmoſphäre, giebt, re-
+ducirt ſich gleichfalls auf die Integral Logarithmen, mit-
+telſt welcher der Vf. fie hier auflöſet. – Wollte man
+die Geſchwindigkeit beſtimmen, mit welcher Körper,
+die von noch bedeutend gröſsern, oder gar auſser
+den Grenzen der Atmoſphäre gelegenen Höhen, zur
+Erde gelangen, z. B. die Aerolithen, ſo würden dazu
+die Integral Logarithmen ſehr groſser Zahlen, die Sold-
+ners Tafeln nicht enthält, erfordert. Rec. hat eine
+folche Aufgabe aufgelöſet, und dadurch erkannt, daſs
+gewöhnlich die Geſchwindigkeit eines ſolchen Kör-
+ers kleiner ſeyn wird, als 93 Toiſen in 1 (Sexag.)
+Secunde. Die umgekehrte Aufgabe, die Beſtimmung
+der Geſchwindigkeit mit welcher ein Körper aufwärts
+geworfen werden muſs, wenn er ſich bis zu einer
+unendlichen Entfernung fortbewegen ſoll, löſen die
+Integral- Logarithmen ebenfalls auf; und geben, beyei-
+nem 40 Pfund ſchweren kugelförmigen Körper, deſ-
+fen Dichte etwa 4mal ſo groſs als die des Waſſers, die
+anfängliche Geſchwindigkeit weit über eine halbe
+Million Toiſen in einer Secunde.
+Rec. ſieht, mit Hn. Soldner völlig einverſtanden,
+eine Quelle mathematiſcher Wahrheiten in der ſorg-
+fältigen Unterſuchung mehrer Tranſcendenten; –
+Kramp hat in ſeinem Werke über die Strahlenbre-
+chung, die Fruchtbarkeit dieſer Unterſuchungen
+durch den Erfolg bewieſen. Auch die vorliegende
+Schrift hält Rec für einen Gewinn der mathemati-
+ſchen Literatur, indem ihr Vf. weiter gegangen zu
+Heyn ſcheint als Maſcheroni; indeſs iſt der Gegenſtand
+dürch ſie nicht erſchöpft, und bietet noch folgenden
+Unterſuchungen ein nicht enges Feld dar.
+STA T IST I K.
+WIEN und TRIEsT, b. Geiſtinger: Theoretiſche Vor-
+bereitung und Einleitung zur Statiſtik, von joh.
+Zizius, Doctor der Rechte, Prof. der Statiſtik
+an der Wiener Univerſität, der politiſchen Wiſ-
+ſenſchaften und der Geſetzkunde an der k. k.
+Thereſianiſchen Ritter-Akademie, und referi-
+rendem Redacteur bev der k. k. Hofcommiſſion
+in Äen Geſetzſachen. 181o. 28o S. 8. mit
+I Tabelle. - -
+Unſer Vf., der in ſeinen Titeln noch den eines
+wirklichen Hof und Gerichtsadvokaten ausgelaſſen
+hat, ſchrieb dieſs Buch bey der Gelegenheit, als An-
+ton Freyherr v. Goldegg Ä bey der There-
+fianiſchen Ritterakademie eine Diſputation hielt, de-
+ren Theſes, dem Werke beygedrückt ſind. Dieſe
+Theſes machen der Thereſianiſchen Ritterakademie
+und ihren Profeſſoren des jurid. und politiſchen Stu-
+diums Ehre: aber leider! ſoll in Oeſtreich nicht mehr
+diſputirt, ſondern nur über Sätze de doctrina plana
+diſſerirt werden. – Hr. Prof. Z., der ſeit dem Jahr
+1804 die Statiſtik bey der Univerſität als ſupplirender
+Profeſſor verſah, und nun zum ordentlichen Profeſ-
+ſor ernannt worden, hat in dieſem Buche einen rühm-
+lichen Beweis ſeiner mit Nachdenken verbundenen Be-
+leſenheit aufgeſtellt. Was in den ältern und in den
+neuern Zeiten über den Begriff und die Theorie der
+Statiſtik geſchrieben worden, geht der Vf. prüfend
+durch; und ob er ſich gleich vorzüglich an Wiemann
+hält, ſo iſt doch ſein Werk ein wahrer Gewinn für
+das öſtreichiſche Publikum. Bey der Veränderlich-
+keit der heutigen europäiſchen Geographie und Sta-
+tiſtik iſt es allerdings höchſt nöthig, in den Vorleſun-
+Ä über Statiſtik belehrt zu werden, wie man ſich
+elbſt eine Statiſtik ſchaffen könne: jedoch verſpricht
+der Vf. auch den praktiſchen Theil nachfolgen zu
+laſſen, welchen Rec. begierig erwartet, da de Luca's
+Leitfaden vom J. 1796. nicht mehr brauchbar iſt. LDer
+Vf, iſt durch ſeine Unterſuchuugen zum wahren Ziele
+der Statiſtik gelangt, wornach die Macht der Staaten
+nicht bloſs auf Quadratmeilen , Bevölkerung u. f. w.
+ſondern auch auf Intelligenz und moraliſcher Kraft be-
+ruht. Daher führt ein Kapitel ſeiner ſtatiſtiſchen Ru-
+briken, den Titel: Moraliſcher Zuſtand der Indivi-
+duen als freyer Weſen. Innere und äuſsere Freyheit.
+Die innere Freyheit wird nach folgenden vier Kubri-
+ken beleuchtet: Religion, Erziehung, Wiſſenſchaf-
+ten, Sitten. Bey der Rubrik äuſsere Freyheit wird
+der G iſt der Geſetzgebung und das Verhältniſs der
+Klaſſen und Stände mit betrachtet. In dem achten Ab-
+fchnitt enthaltend die Geſchichte der Statiſtik, wird
+auch die Geſchichte dieſes Studiums in Oeſtreich
+(S. 217 – 223.) bündig abgehandelt. Die Literatur
+der Statiſtik iſt gut ausgeführt: S. 246 – 248. enthal-
+ten eine gedrängte Ueberſicht der Schriften über
+Oeſtreichs Statiſtik. Das Buch hat allerdings ver-
+dient als Lehrbuch eingeführt zu werden.
+S C H Ü NE KÜNST E.
+BERLIN: in Comm. b. Maurer: Blüthen des Lebens,
+von Hartwig Hundt. – Erſte Sammlung. 1807.
+224 S. 8. (18 gr.)
+Der Umſtand, daſs die gegenwärtige Sammlung
+urſprünglich auf Pränumeration, und zwar, wie man
+&U1S

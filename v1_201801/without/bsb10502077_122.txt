@@ -1,0 +1,127 @@
+227 ERGÄN zuNGSBLÄTTER zÜR A. L. z. 228
+und Aehnlich.
+trie, der aber die
+mittheilt und zum Theil ausführt. In denſelben
+ſollten auch die Sätze mit aufgenommen werden,
+die man gegenwärtig unter den Namen höhere Geo-
+metrie begreift. So wäre nach dem Vf, die Geome-
+trie die Wiſſenſchaft der Gröſsen im Raume, die
+durch ihre Grenzen beſtimmt werden. Da dieſe
+gerade und krumm ſeyn können, ſo zerfällt ſie in
+die Lehre von geraden und krummen Begrenzun-
+gen der Räume. Die erſte könnte man die Ele-
+mente nennen. Der Kreis würde vollſtändig im
+zweyten Theile abzuhandeln ſeyn; man könnte aber
+feiné einfachen Sätze auszugsweiſe dem erſten Thei-
+fe anſchlieſsen und dieſes auch noch mit mehreren
+z. B. den Linien und Flächen der zweyten Ordnung,
+thun. Jeder der obigen Theile zerfiele wieder in
+zwey Unterabtheilungen, wovon der erſte die gera-
+de Linie und Ebne, und der zweyte die Linien und
+Flächen der übrigen Ordnungen enthielte. Dieſer
+erſte wäre ohne Gleichungen und Calcul, unter rein
+geometriſcher Anſchauung vorzutragen; bey dem
+zweyten aber würde die Rechnung mit der Geome-
+trie, vermöge der Gleichungen zwiſchen den die
+Linien und Flächen beſtimmenden Coordinaten, ver-
+bunden werden. Die zweyte Unterabtheilung je-
+des Haupttheils, von den Flächen, würde, als die
+wichtigſte, mit aller der Sorgfalt und Ausführlich-
+keit abgehandelt, die mit ihrer gröſsern, gleichſam
+die Natur erſt vollſtändig erfaſſenden Allgemeinheit,
+in Verhältniſs ſteht; auch würde, wegen der All-
+gemeinheit, der zweyte Haupttheil, neben dem
+analytiſchen Vortrage, der Äg wegen, zu-
+leich auch ſynthetiſch vorzutragen ſeyn u. ſ. w.
+’ür den 1ſten Theil wäre das Syſtem, wie es aus
+der Sache ſelbſt zu folgen ſcheint, etwa dieſes: zu-
+erſt von der geraden Linie an ſich, und darauf von
+den mit zwey geraden Linien begrenzten, alſo zum
+Theil noch unbegrenzten, nämlich den Winkel -
+und Parallel-Räumen gehandelt, wovon man zur
+Unterſuchung der verſchiedenen Winkel zwiſchen
+zwey und drey ſich ſchneidenden geraden Linien
+geführt wird, die unter andern den unter der Be-
+nennung: Theorie der Parallelen bekannten Gegen-
+ſtand enthält. Nun von der bloſsen Gleichheit und
+bloſsen Aehnlichkeit, ſo wie von der Congruenz
+der Figuren. Figuren die nicht ganz unſchloſſen
+ſind, wie die Winkel- und Parallel-Räume, kön-
+nen bloſs congruent, nicht bloſs ähnlich, oder bloſs
+leich, alleinſeyn. Nun von Drey- und Viel-Ä
+Verbindung des gröſser und kleiner mit dem Gleich
+Fbnen und Flächen gehört die ganze Polygonome-
+rigonometrie, vorausgeſchickt
+werden muſs. Eben ſo bey Abhandlung der elemen-
+taren Körperlehre in Verbindung der phäriſchen
+Trigonometrie, für welche der Vf, die Kugel eben
+ſoëntbehrlich findet, als den Kreis für die ebne
+Trigonometrie. Für die auſsere Form des Vortrags
+werÄe die Euklidiſche immer die beſte bleiben; nºr
+ſcheine es jetzt zweckmäſsig, die Agfgaben, wegen
+ihrer groſsen Zahl ſämmtlich aus dem theoretiſchen
+- - - .
+u den zweyten Abſchnitt für die
+- - -
+Lehrbegriffe der Geometrie heraus zu laſſen. Sie
+könnten in eine eigne Sammlung gebracht werden.
+Hierdurch wird der Lehrbegriff zugleich bedeutend
+concentrirt, welches auch noch eins von den ſo
+ſehr zu wünſchenden Dingen ſey. Nun folgt ein
+Stück des 1ften Abſchnitts der 1ſten Unterabthei-
+Inng im Zuſammenhange, ſelbſt, das indeſs nichts
+weiter ſeyn ſoll, als ein erſter Verſuch, oder Bruch-
+ſtück eines Gegenſtandes, welcher Jahre erfodert,
+wenn er nach dem obigen Entwurfe mit einer ſeiner
+Würde und Gröſse angemeſſenen Genauigkeit durch-
+gearbeitet werden ſoll. Als weſentliches Kennzei-
+chen der Gleichheit ſtellt der Vf, das Ineinander-
+fallen aller Grenzen zweyer Figuren, auf. In die-
+ſem Begriffe ſtreng genommen, liege Alles, wor-
+auf die Ver leichung unbegrenzter und begrenzter
+Räume berühe. Der erſte Lehrſatz iſt folgender:
+Ein begrenzter Raum kann einem ganz oder zum
+Theil unbegrenzten Raum nicht gleich ſeyn: Denn
+da dieſer nicht überall Grenzen hat, in welche die
+des erften fallen könnten, ſo können die Grenzen
+der beiden Räume nicht überall in einander fallen
+und folglich können die beiden Räume nicht gleich
+ſeyn." Wir fürchten, daſs durch dieſe Einmiſchung
+des Begriffs der Unbegrenztheit, dem Anſchaulichen
+in der Conſtruction Ä geſchehe und dadurch
+der bisherigen Elementargeometrie etwas ſehr
+Schätzbares entzogen werde. Denn eben darin
+liegt die Hauptſchwierigkeit des Beweiſes vom XI.
+Ä Grundſatze, daſs er ſagt, es werde ein Zu-
+ſammenftoſs der Linien erfolgen, ohne zugleich an-
+zugeben, wo es geſchehen müſſe. So läſst es ſich
+auch durchaus nicht anſchaulich machen, wie eine
+Linie die mit einer andern parallel iſt und folglich
+dieſelbe nie erreicht, nachher aber aus dem Paral-
+leliſmus heraus tritt und die andere nun erreicht,
+aus dem vorigen Zuftand in den neuen übergeht,
+nämlich was ihr in der Zwiſchenzeit, wo ſie aus
+dem erſten in den zweyten Zuſtand übergeht, wi-
+derfährt, indem fie, beſonders wenn der Abſtand
+der anfänglichen Parallelen groſs war, nicht nach
+dem Geſetze der Stetigkeit, ſondern durch einen
+wahren Sprung in den neuen Zuſtand verſetzt wird.
+Als eine weſentliche und Hauptſache ſieht der Vf.
+die Definition von der geraden Linie für dieſe Leh-
+re an. Er ſagt: - Eine gerade Linie iſt, die je an
+zwey entgegengeſetzten Seiten dieſelbe Geſtalt hat,
+ſo, daſs wenn man die eine Seite der Linie in die
+andere, das heiſst den Flächenraum an der einen
+Seite in den Flächenraum an der andern legt ...die
+Grenzen beider Räume an demſelben Orte im Rau-
+me bleiben.“ – So richtig dieſes iſt, ſo wird hier-
+durch doch nur eine Eigenſchaft der geraden Linie
+beſchrieben, nicht aber das Weſen ihrer Zuſam-
+ines ſetzung deutlich und vollſtändig dargeſtellt, und
+deſshalb iſt dieſer Begriff eben ſo nur ein klarer,
+wieder, wo man ſagt, ſie iſt der kürzeſte Weg
+zwiſchen zwey Puncten; oder: der Theil von ihr
+ift der ganzen ähnlich, oder mit Euklid: es liegen
+zwiſchen ihren Endpuncten alle mittlern Besº
+- - - - - - - - - SlL»
+- - - - - - - - - - -

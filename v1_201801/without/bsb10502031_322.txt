@@ -1,0 +1,125 @@
+4II /
+ALLG.
+4I2
+LITERATUR - ZEITUNG
+klärt dieſe Bedeckung für eine der wichtigſten in Ab-
+ſicht auf geographiſche Reſultate, weil b-y derſelben
+die Längendifferenz der Oerter, wie er bemerkt hat,
+ſehr wenig von den Fehlern der Mondsbreite und Pa-
+rallaxe abhängt; in Deutſchland, ſcheint es, hat man
+ſchon langer auf Dinge dieſer Art bey B rechnung ºn
+Sternbedeckungen Rückſicht genommen, wie die Wie-
+ner Ephemeriden, und v. Zachs atrºno iſt geº-
+graphiſche Zeitſchriften lehren: 9 Wºchende Be-
+n auf dem Sphäroid, von Dela.be. Es ſey die
+habe groſse Achſe des Erdſpharoids = 1 die halbe
+kleine b, die Excentricität e, die ſcheinbare Polhohe
+des Orts L, ferner Tang m = b. Tang L und Tang
+m“ – b”. Tang L. Der Bogen des Meridians auf den
+reducirten Seekarten, wo die Breiten wie ihre Se-
+canten wachſen, heiſse C, ſo findet Bourguet C =
+Log. nat. Tang. (45. + m – (1 – b) Sinum. De
+lambre noch einfacher C= Log. nat. Tang. (45+ n')
+oder, wie Delambre bemerkt, man berechnet die
+wachſenden Breitengrade auf den Sphäroid genau ſo,
+wie auf der Kugel, nur daſs man ſtatt L die um den
+Winkel der Verticallinie mit dem Halb:ieſer vermin-
+derte Breite L“ braucht: ſo giebt obige zweyte For-
+mel, in eine Reihe aufgelöfet, mit den Axenverhal-
+niſſe 333 : 334, die Verbeſſerung der Berechnung auf
+der Kugel – 2o“, 5852 Sin L“ + 0,o102 Sin 3 L“. Mit
+dem Axenverhältniſſe 149: 150 würde die Verbeſſe-
+rung, wenn ſie ein Gröfstes wird, nahe an 46 Minu-
+ten betragen. (Man findet denſelben Gegenſtand be-
+handelt von Käſtner, in der weitern Ausführung der
+mathematiſchen Geographie, Göttingen 1795. 8. S. 39o.
+und von Schubert De curfu maris inſ haeroide ellipti-
+co, Nov. Act. Acad. Petrop. Tonn. Wil.). 1o) Drey
+ältere Konnetenbahnen von 1763. 1771 und 1773 neu
+und ſchärfer, als ſie bisher bekannt waren, berech-
+net von Burckhardt; für die Bahn des Kouneten 1771
+fand Burckhardt eine Hyperbel. Ebendeſſelben Berech-
+nung der Bahn des Kometen von 1801. 11) Hohen
+des Barometers für verſchiedene Richtungen des Windes
+von Burckhardt. Man hat in neueren Zeiten eine Men-
+ge meteorologiſcher Beobachtungen geſammelt; aber
+Mangel an geſchickten Combinationen ſcheint der
+Grund zu ſeyn, warum bisher ſo wenige fruchtbare
+lReſultate daraus gezogen worden. Un letztern Zweck
+zu erreichen, nüſſen die Meteorologen die Aſtrono-
+men nachahmen, wie Burckhardt an gegenwärtigem
+Beyſpiele gezeigt hat. Zu den verſchiedenen und viel-
+fach complicirten Urſachen, wovon jede Barometer-
+höhe die Wirkung iſt, gehören auch die Winde. Ge-
+fetzt nun, man hätte 1nehrere Tauſend Beebachtun-
+gen des Barometerſtandes an einem gewiſſen Orte: ſo
+giebt das Mittel, aus der Totalſumme aller Beobach-
+tungen des ganzen Vorraths gezogen, die mittlere Ba-
+rouaeterhöhe für dieſen Ort; in ſo ferne ſie bloſs von
+conſtanten Urſachen bewirkt worden, und von zufal-
+ligen Urſachen, die bey ſo vielen geiniſchten Beobach-
+tungen ſich untereinander ineiſt aufheben werden, un-
+abhängig iſt. Um aber auch den Einfluſs ſolcher ein-
+zelnen zufälligen Urſachen, z. B. des Nordwinds, her-
+auszufinden, addire man alle einzelnen Beobachtun-
+gen, die Nordwind hatten, zuſammen, und dividire
+die Surrºne durch die Zahl der Beobachtungen, ſo
+wird der Unterlehied des auf dieſe Art erhaltenen be-
+ſonder Mittels von obigem allgemeinen Mittel die
+Einwirku g des Nordwinds auf den Barometerſtand
+anzeigen. Nach dieſer Methode hat Burckhardt unge-
+fahr 14cco Beobachtungen von Meſſier, in den Jahren
+1773-1801 auf der Sternwarte der Marine in Paris
+angeſtellt, unterſucht: er fand hieraus das allgemeine
+Mittel der Baroieterhöhe für dieſen Standpunkt zu
+Paris (1884 Mietres über der Seine, welche 33,93
+A1etres hoher als das Meer liegt) = 0.75 5354 Mierres
+oder 330, C99 Patier Linien (demnach auf die Meeres-
+flache gebºht 338.864 Lin.) und das allgemeine Mit-
+tel für den Thermometerſtand + 11°, o51 1 des Therin.
+centigrade, oder +9, 393 Reaum. Das beſondere Mit-
+tei hinsegen aus 1589 Beobachtungen mit Nordwind
+gab 337, 589o Lin. 1ür den Baron. und + 9,5697 R.
+ür den Tierm. , der Südwind gab 335, 3082 Lin. und
++ 9“, 4541 , der Oſtwind 337, 2c65 Lin. und +8,6388,
+der Weſtwind 336,5242 1.11. u14 + 10.276 u. 1. w.
+(Die Barouaeterhohentur dieſe Winde ſind hier bereits
+ale auf die maniche Teinperatur + 9, 393 Reaum.
+reducirt). Burckhardt hat auf gleiche Art den Einfluſs
+der Winde, Nordoſt und Südweſt, Nordweſt und Süd-
+oft unterſucht. Allgemein läſst ſich hierbey die Be-
+merkung machen, daſs unan ſehr nahe eben daſſelbe
+mit den allgemeinen Mittel aus allen Beobachtungen
+zuſammentreffende Mittel erhält, wenn man aus den
+Reſultaten für entgegengeſetzte Winde (z. B. Nord und
+Süd, Oſt und Weit) das Mittel zieht. Siebenjährige
+Copenhagner Beobachtungen, die in den Mannheimer
+1neteorologiſchen Ephemeriden ſtehen, und von Burck-
+hardt auf ähnliche Weiſe combinirt wurden, gaben
+ebenfalls für entgegengeſetzte Winde ein übereinſtim-
+mendes Mittel, und die mittlere Baroineterhöhe für
+die Meeresfläche 338, 811 Linien ſehr nahe wie die
+Meſſierſchen Beobachtungen; De Luc fand für das nit-
+teliandiſche Mleer 338,2 Linien. (Schon ll ild zu Mül-
+heim im Breisgau hat auf Einwirkung der Winde bey
+dem Baroneter in von Zach's allgemeinen geographi-
+fchen Ephemeriden November 1799 aufnerkſam ge-
+macht - und gezeigt, daſs, wenn ian mit dem Baro-
+meter Höhenmeſſungen anſtellen will, gröſserer Sicher-
+heit wegen ein Reſultat aus Baroineerſtänden mit ent-
+gegengeſetzten Winden gezogen werden muſs). 12)
+Auserleſene Greenwicher Marsbeobachtungen zwiſchen
+1766–1798, berechnet von Le - Français - La Lande;
+dieſe 24 Beobachtungen, welche hier init vieler Sorg-
+falt unterſucht werden, ſind eben diejenigen, auf de-
+ren Grundlage der Vf, ſeine neuen in vorigen Bande
+der Conn. d. t. abgedruckten Marstafeln gebaut hat.
+I3) Länge und Breite mehrerer Punkte in Aegypten,
+beſtimmt ve1. Nouet. Die Länge von Alexandria (Pha-
+rosthurm) ſetzt Nouet I St. 50'22“ in Zeit oſtlich von
+Paris; eine von La Lande berechnete Sternbecleckung
+an 27. Auguſt 18co, welche die franzöſiſchen Aſtrono-
+meº in Alexandria beºbachtet haben, gab 4Sec. mehr:
+es iſt aber nur Marſeille verglichen worden; man hat
+dieſelbe Bedeckung auch in Wilna und Liſſabon be-
+ebach-

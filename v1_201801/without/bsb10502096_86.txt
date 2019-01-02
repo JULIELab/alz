@@ -1,0 +1,124 @@
+155
+156
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+man allerdings überall den guten Willen des Vfs.;
+aber von der Gründlichkeit und Vollſtändigkeit darf
+man ſich nicht ſo ſehr viel verſprechen. Der Vf.
+ſetzt die analytiſche Geometrie voraus, die Kennt-
+niſs von den Eigenſchaften transcendenter Cur-
+ven, aber nicht den binomiſchen Lehrſatz, das
+Fundament der Analyſis, dieſer wird erſt durch die
+Differentialrechnung abgeleitet Regeln der Inte-
+gration fehlen im Allgemeinen ganz, indem ſich
+der Vf, faſt immer darauf Ä die Integran-
+den in Reihen zu entwickeln. Auf einen ſolchen
+Schulunterricht kann man wenigſtens keine analy-
+tiſche Mechanik gründen, und wenn ſie noch ſo
+dürftig vorgetragen werden ſollte.
+Der erſte Abſchnitt handelt von der Function
+im Allgemeinen und deren Verwandlung. Der Vf.
+erklärt den Begriff von veränderlichen ëöÄ und
+der Conſtanten, und geht darauf zur gewöhnlichen
+Definition der Function über. Darauf folgt die Ein-
+theilung der Functionen in algebraiſche, tranſcen-
+dente u. ſ. f. „Algebraiſche Functionen ſind ſolche,
+deren veränderliche Gröſsen algebraiſch, tranſcen-
+dente hingegen, in welchen die veränderlichen Grö–
+ſsen tranſcendent find.“ Es werden hier nämlich
+diejenigen veränderlichen Gröſsen, „deren Verhält–
+miſſe zu den beſtändigen Gröſsen ſich durch eine
+wirkliche Gleichung ausdrücken laſſen", algebraiſch
+genannt, während zu den tranſcendenten ſolche
+gehören, welche, ſtatt der genannten Gleichung
+eine unendliche Reihe nothwendig haben." Iſt denn
+=e keine wirkliche Gleichung? – Jetzt folgen
+ausführliche Entwickelungen einiger einfachen Fun-
+ctionen in Reihen. Man trifft hier nämlich auf 8Sei-
+ten die Entwickelung von V(1 + x) und TTF an.
+Mit einem gleichen Aufwande von Zeit und Mühe
+hätte der Vf den allgem. binomiſchen Lehrſatz ent-
+wickeln ſollen, ſo wäre er zugleich im Beſitze der
+Grundlage ſeiner Wiſſenſchaft geweſen. – Der
+zweyte Abſchnitt: von den Reihen der Differenzen,
+iſt für die Zwecke des Buchs recht gut ausgeführt
+und ziemlich vollſtändig. – Dritter Abſchnitt. Von
+den Gründen der Differentialrechnung. Nach dem
+Yf iſt, wie gewöhnlich, „eine unendlich groſse
+Gröſse eine ſolche, welche gröſser werden kann, als
+jede noch ſo groſse Gröſse, die ſich aber beſtimmt
+angeben läſst.“ „Eine unendlich kleine Gröſse hin-
+gegen iſt diejenige, welche kleiner werden kann, als
+Ä noch ſo kleine Gröſse, die ſich angeben läſst.“
+ey dieſer Gelegenheit geht es denn her, wie in den
+meiſten ähnlichen Schriften: „Eine unendlich kleine
+Gröſse iſt als Ä eine aufgehobene Gröſse, die
+aber nur ihre Qualität beybehält; darum hat ſie nur
+im Verhältniſs ihre wahre Bedeutung, auſser dem
+Verhältniſs aber iſifie eine Null als Quantum.“ Gleich
+darauf folgert der Vf, „daſs die unendlich groſse
+Gröſse keine Ä die unendlich kleine keine
+kleinſie ſey.“ Ferner: „Nach dieſen Begriffen ſind
+die unendlich kleinen Gröſsen nur ideale Gröſsen,
+die aber wirkliche Verhältniſſe angeben, und darum
+haben ſie nur im Verhältniſs wirkliche Bedeutun
+auſser dieſem aber gar keine.“ – Rec. erinnert #
+nicht, bey dem gröbſten Infiniteſimaliſien gröſsere
+Ungereimtheiten und Widerſprüche angetroffen zu
+haben, und doch glaubt der Vf, die Öffejiaj
+rechnung durch ſeine Schrift neu begründet zu ha-
+ben, indem er 34. in d. Anm. ſagt: „der Begriff
+des unendlich Kleinen ſey höherer KÄu und des-
+wegen ſeine Entwickelung mit Schwierigkeiten ver-
+knüpft. Genannte Schwierigkeiten und die ober-
+flächliche, manchmal auch unrichtige Auseinander-
+ſetzung dieſes Begriffs in einigen mathematiſchen
+Werken waren Urſache, daſs man ſcheinbar erſtaun-
+liche Widerſprüche in der höhern Analyſe entdeckte,
+welche groſse Zweifel gegen die Zuverläſſigkeit ihrer
+Operationen erregte. Die hier in § 24 gegebene
+und in Ä 25 und 27. vervollſtändigte Auseinan-
+derſetzung des Begriffs vom Unendlichen und ſeinen
+Arten iſt nach meiner vollen Ueberzeugung ganz rich–
+tig, weil ſie aus der wirklichen Natur # unendli-
+chen Gröſsen entnommen iſt, und weil ſie durchaus
+keine Widerſprüche zuläſst." Was ſoll der Nicht-
+mathematiker, der es täglich hören muſs, die Grö-
+ſsenlehre ſey reine Verſandeswiſſenſchaft, evident
+in allen ihren Theilen und vor allen andern Wiſſen-
+ſchaften am meiſten dazu geeignet, das Denkvermö-
+gen zu ſchärfen; was ſoll ein ſoleher dazu ſagen,
+wenn er, wie hier, Widerſprüche und Ungereimt-
+heiten aufgehäuft und gleich daneben die feſte Ver-
+ſicherung des Vfs. findet, die Entwickelung laſſe
+keine Widerſprüche zu. Der § 28. handelt von der
+Unendlichkeit höherer Ordnungen. Im § 30 fg er-
+klärt der Vf, auf die gewöhnliche Art, was man unter
+der Grenze einer Gröſse verſtehen müſſe. § 34. wer–
+den die unendlich kleinen Incremente der Functio-
+nen und die der Functionalgröſsen Differentiale und
+das Verhältniſs derſelben das Differentialverhältniſs
+genannt. Jetzt folgen bis § 68. Regeln der Diffe-
+rentiation, welche, abgeſehen von der Art der Dar-
+ſiellung, recht gut, erläutert ſind. – Yierter Ab-
+ſchnitt. Von der Anwendung der Differentialrech-
+nung auf einige Ä Hier wird zu Anfange
+der binomiſche Lehrſatz für beliebige Exponenten
+zur Ableitung gebracht. Der Beweis iſt der Käſ-
+ner'ſche in ſeiner Abhandlung: Theorema binominale
+univerſaliter demonſtratum. Abgeſehen davon, daſs
+man hier, um den Satz zu beweiſen, ihn ſchon als
+bewieſen annimmt, indem die Differentiationsregeln
+wiſſenſchaftlich mukr durch Hülfe jenes Satzes abge-
+leitet werden können; ſo iſt das Verfahren bey di
+ſem Beweiſe doch immer nur Induction. § 7i u. ff.
+Ableitung der Ausdrücke für die Subtangente, Tan-
+ente, Sübnormale und Normale. Auch hier findet
+ich das, was man in den ältern Schriften über Dif-
+ferentialrechnung ſo oft mit Miſsvergnügen leſen -
+muſste: Die Sehne wird zur Tangente, wenn die In-
+cremente der Abſciſſe und der Ordinate unendlich
+klein ſind. Die abgeleiteten Ausdrücke werden nun
+auf einige krumme Linien, z. B. auf den Kreis, die
+Parabel, Ellipſe, Hyperbel, Ciſſoide angewandt.
+Im § 77. fürchtet der Vf, mit Recht, der Anfänger
+II1OCIl-

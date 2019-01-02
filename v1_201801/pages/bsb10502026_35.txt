@@ -1,0 +1,108 @@
+41 4s
+-
+N um 105.
+ALLGEMEINE LITERATUR - zEITUNG
+--
+1 A TH EMA TI K.
+PARIs, b. Duprat: Connaiſſance des tems à l'uſage
+des Aſtronomes et des Navigateurs, pour l'an
+XII. de l'ére de la République Françaiſe. Pu-
+bliée par le Bureau des Longitudes. Fructidor an
+IX. (Sept. 18oI.) 508 S. 8. (4 Francs).
+Da neufränkiſche Jahr 12, ein gemeines Jahr,
+entſpricht dem Zeitraum vom 24. Sept. 1803
+bis 22. Sept. 1804 incl. Der Gregorianiſche ſowohl als
+Julianiſche Kalender begleiten die neue Zeitrechnung
+auf der erſten Seite für jeden Monat. Bey Berech-
+nung der Ephemeriden ſind für die Oerter des Monds
+und deſſen Abſtände von der Sonne und Fixſternen
+einige neue Verbeſſerungen von La Place, Bürg und
+Bouvard angewendet worden. In der Tafel, welche
+die verhältniſsmäſsige Gröſse der Fluthen in J. 12.
+darſtellt, ſind die gröſsten die vom 3. Oct. 1803 und
+13. März 1894. (Es wäre der Mühe werth, darauf
+Acht zu haben, ob der Mond zu der Zeit, wo ſei-
+ne Einwirkung auf die Fluth ein Gröſstes iſt, nicht
+auch auf die Witterung des feſten Landes einen auf-
+fallenden Einfluſs äuſsert.) – Die Additions enthal-
+ten: 1) Verſchiedene Sternbedeckungen durch den
+Mond, berechnet von La Lande. Die erſte iſt eine
+Jupitersbedeckung vom Monde, 14. März 1788 zu
+Paris, Padua, Skara (in Schweden) und Bagdad be-
+obachtet. Die Länge von Bagdad, wo der un-
+längſt nach ſeiner Rückkehr aus Türkiſcher Gefan-
+genſchaft zu Nizza verſtorbene Aſtronom de Beau-
+champ damals beobachtete, findet ſich aus dieſer Be-
+deckung 2* 47“ 45“ öſtlich in Zeit von Paris; man
+ſetzt ſie ſonften 33 Sec. gröſser. 2) Die Schiefe der
+Ekliptik, nach den neueſten Franzöſiſchen Beobach-
+zungen. Mechain fand mit einem Vollkreiſe von 0,433
+Metres im Durchmeſſer im Mittel aus 64 Beobach-
+tungen zu Mont-Jouy für das Winterſolſtitz 1792
+die ſcheinbare Schiefe 23° 27“ 43“, 24 und für das
+Winterſolſtitz 1793 zu Barcellona im Mittel aus 72
+Beobachtungen 23° 27“ 43“ 22 beidemal um 5 Sec.
+kleiner als nach den Tafeln in der dritten Ausgabe
+von La Lande's Aſtronomie; eben ſo auch für die
+Winter-Sonnenwende 1799 zu Paris aus 64 Beobach-
+tungen 23“ 27'54, 7 oder 5“, 9 weniger als nach
+obigen Tafeln. Hingegeu beobachtete Le Français
+zu Paris mit einem Vollkreiſe von o, 514 Mètr. im
+Mittel aus 86 Beobachtungen für das Sommerſolſtitz
+1799 die ſcheinbare Schiefe 23“ 287“, 3 oder um
+7“. 6 gröſser als zach den Tafeln. Man glaubt, die
+Unterſchiede zwiſchen dem Winter - und Sommer-
+A. L. Z. 1802. Zweytor Band. -
+Dienstags, den 6. April 18 oz.
+ſolſtitium müſſen hauptſächlich der Bradleyſchen Re-
+fraction, die oben zum Grunde liegt, und für nie-
+drige Höhen zu klein iſt, zugeſchrieben werden. 3)
+Ueber das Mittagsfernrohr, einige praktiſche Berner-
+kungen von Vidal. Dahin gehört z. B. daſs er ſich
+zur Aufſtellung des Fernrohrs im Mittage der obern
+und untern Durchgänge des Polarſterns bedient; da-
+durch erreichte er eine fünfmal gröſsere Genauig-
+keit, als mit correſpondirenden Sonnenhöhen, mit-
+telſt welcher ſich das Fernrohr für die Höhe des Aequa-
+tors nur auf Sec. genau in den Mittag bringen lieſs.
+4) Berechnung geographiſcher Längen aus einigen
+ältern Sonnenfinſterniſſen und Bedeckungen, von
+Ciccolini, Römiſchem Bürger. Sonnenfinſterniſſe von
+1733. 1734. und 1739. Eine Jupitersbedeckung vom
+29. Dec. 1751, woraus die Länge von Torneſ Is 27"
+6“, 5 öſtlich von Paris berechnet wird. 5) Reduction
+der ſcheinbaren Mondsabſtände auf die wahren, zum
+Behufe des Längencalculs von Delambre. Nach ei-
+ner Methode von Borda wird der beobachtete Menes-
+abſtand D in den wahren D + x ſo verwandelt, daſs
+man x –y + z ſetzt, und dieſe beiden Gröſsen durch
+eigene Formeln beſtimmt; B. kürzte dieſe Methode
+durch beyläufige Schätzung des Werths von y merk-
+lich ab, ohne die Regeln dafür, deren ſich mehrere
+denken laſſen, anzugeben. Delambre erſpart den
+Hülfswinkel z, und giebt ein kürzeres Verfahren,
+wo bloſs durch die Berechnung von y ſogleich x ge-
+funden wird. Ueberdem hat er bey dieſer Gelegen-
+heit die analytiſchen Werthe der Reduction x in acht
+andern verſchiedenen mehr oder weniger bequemen
+Formeln entwickelt. Zur Erläuterung berechnet er
+zwey Beyſpiele nach viererley Methoden, nach ei-
+ner ſtreng erweisbaren trigonometriſchen Formel,
+nach der oben genannten, welche vorläufig y finden
+lehrt, und im Diviſor die logarithmiſchen Diſferen-
+zen gewiſſer Gröſsen enthält, endlich nach den zwey
+erſten Formeln der analytiſchen Entwickelung von
+x; die Reſultate ſind überall die nämlichen, in der
+Ausübung würde aber Rec. die erſte Methode, wel-
+che auch nicht länger als die übrigen iſt, vorziehen.
+6) Bemerkungen über Borda's Formel zur Verwaad-
+lung der ſcheinbaren Abſtände in die wahren, von
+Delanbre. Man hat gegen jene Formel eingewen-
+det, daſs ſie, wenn die Summe der zwey H6hen uncl
+der beobachteten Diſtanz gröſser als 180“ iſt, auf fal-
+ſche Reſultate führe. Es iſt wahr, daſs Falle dieſer
+Art in den Tables Requiſite , im Guide du Naviga-
+teur vorkommen; allein der Einwurf iſt völlig grund-
+los, weil niemals die gedachte Summe 18o° über-
+ſteigen kann, die angeführten Fälle ſind bloſs ima-
+- F . ginär,

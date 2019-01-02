@@ -1,0 +1,120 @@
+-- -
+349,- Num. 148. JUNIUS 1817. - - 350
+
+er laſſen ſich die Geſetze, wonach gearbeitet wird,
+Äuf die Verwendung deſſen, was gearbeitet iſt, über-
+tragen. Dieſe Verwendung kann entweder in Ge-
+bräuch und Verbrauch, oder in bloſser Aufbewah-
+rung beſtehen; wie dieſes wirthſchaftlich geſchehe
+lehrt die Wiſſenſchaft, und ihre höchſte Aufgabe iſt
+da und denn als Kunſt erreicht, wo und wenn durch
+Erwerben und Verwenden das blühendſte, vielfach-
+ſte, reichfte Leben ernährt wird. -
+Mit Vergnügen ſind wir dem Vf. - wenn auch
+nicht immer an ſeiner Seite, in dieſe Unterſuchun-
+gen gefolgt.» und müſſen nun auch noch mit Aus-
+zeichnung ſeiner Erörterungen über das Steuerweſen
+erwähnen. Die nächſte Beſtimmung dieſer Schrift,
+zu Vorleſungen, ſetzte dem Ä enge Grenzen,
+dennoch hat die Verſtändlichkeit nicht gelitten.
+MATHEMATIK.
+FRANKFURT a. M., b. Boſelli: Vollſtändige An-
+leitung zur ebenen und ſphäriſchen Trigonometrie,
+von Philipp Ludw. Emmel, auſserordentl. Lehrer
+der Mathematik am Gymnaſ. und der Realſchule
+zu Hanau. 1817. 385 S. gr. 8. Mit 5 KPfrt.
+Ungeachtet wir uns bey Schriften der Art, deren Ge-
+enſtand an ſich ſowohl, als in Bezug auf ſeine Behand-
+fÄ ſchon aus einer groſsen Menge von Schriften
+hinlänglich bekannt iſt, nicht ins etail einzulaſſen
+haben, ſo müſſen wir doch hier gleich in Bezug auf
+den erſten §. eine Bemerkung beyfügen. Der Vf
+ſagt: „Die Trigonom. lehrt aus drey gegebeº
+Stücken eines Dreyecks die übrigen unbekannten
+finden. Es verſteht ſich von ſelbſt, daſs keines der
+gegebenen Stücke weder Summe, noch Differenz,
+Äh ein Product der übrigen ſeyn könne, weil ſonſt
+nur zwey gegeben wären." Wenn wir aber die drey
+Seiten eines Dreyecks mit a, b, c bezeichnen, und
+das Perpendikel aus einer Spitze des Dreyecks auf
+die Seite a mit p, ſo ſind, wenn a+b, a - 2 und
+p.a gegeben ſind, allerdings alle Stücke des Drey-
+ecks beſtimmt. Und ſo ſind eine Menge von Aufga-
+ben möglich, die nach des Vfs. Worten von der
+Trigon. ausgeſchloſſen zu ſeyn ſcheinen. Die Un-
+deutlichkeit würde weggefallen ſeyn, wenn der Vf.
+nach den Worten der übrigen nur noch die Worte
+gegebenen Stücken eingeſchaltet hätte. Auſserdem iſt
+auch die hier gegebene, auch ſonſt gewöhnliche Er-
+klärung von Trigonometrie zu beſchränkt. Der Vf.
+ſetzt Leſer voraus, die ſich nur erſt mit der Arith-
+metik und Geometrie bekannt gemacht haben - und
+welche die Trigon. ſogar ohne mündlichen Unter-
+terricht ſtudieren wollen. Dieſe denken ſich unter
+den Stücken eines Dreyecks nichts anders, als die
+3 Seiten und die 3 Winkel, die zum Weſen des Drey-
+ecks gehören, ohne welche die Vorſtellung vom
+Dreyeck gar nicht ſtatt hat; nicht aber Linien, die
+ſich nach Willkür in jedem Dreyeck ziehen laſſen.
+So läſst ſich Z». B- aus 2 Seiten eines Dreyecks-und
+dem Sinusverſus eines Winkels die dritte Seite fin-
+den; aber es wird Niemanden einfallen, den Sinv.
+als ein Stück des Dreyecks anzuſehen, deſſen dritte
+Seite geſucht wird, zumal wenn der Sinv. zu einem
+ſtumpfen Winkel gehörte. So läſst ſich aus zwey
+Seiten und dem Coſinus des eingeſchloſſenen Winkels
+(denn der Winkel ſelbſt braucht nicht gegeben zu
+ſeyn) die dritte Seite finden. Nun kann dieſer Co-
+finus ſogar verneint ſeyn; wer wird ſich aber beyfal-
+len laſſen, eine verneinte Gröſse als Stück eines Drey-
+ecks zu betrachten? Und wollte der Vf. dennoch
+eine ſolche trigonometriſche Linie zur Rechtfertigung
+ſeiner Erklärung als Stück eines Dreyecks betrach-
+tet wiſſen, ſo bliebe auch dann noch ſeine Erklärung
+unrichtig, weil unter dieſer Vorausſetzung die Tri-
+gonometrie ſchon aus einem einzigen Stück eines
+Dreyecks ein anderes deſſelben Dreyecks finden
+lehrt: denn aus dem Sinus läſst ſich die Tangente,
+die Secante u. ſ. w. finden. Die Trigonometrie lehrt
+uns überhaupt die Gröſsen finden, von welchen
+die Beſtimmung eines Dreyecks abhängt, und zeigt,
+wie dieſe Gröſsen unter einander ſelbſt und mit den
+Seiten und Winkeln eines Dreyecks zuſammenhän-
+gen, und zwar durch arithmetiſche Beſtimmungen.
+Von der Erklärung der trigonom. Linien, die der
+Anfänger hier als Linien von beſtimmter Länge ken-
+nen gelernt hat, die er ſich z. B. 7 =, 8=, 1o=,
+1oo lang denkt, oder von denen ihm eigentlich noch
+nichts geſagt worden, wie lang er ſich ſolche denken
+ſolle, ſcheint uns der Uebergang zu den Sätzen:
+Sinv. = 1 – Coſ., Coſvers. = 1 –Sin;
+I = Coſ? A+-Sin* A u. f..w, zu ſchnell. Der Vf.
+hätte ſetzen müſſen:
+Sinv. A Cof A
+Sinv. A = r–CofA, alſo 9
+= I -
+z-
+AE? • ED?
+r* = AE”-- ED”, alſo 1=----+, und hier
+hätte die Erinnerung beygebracht werden müſſen,
+daſs die trigonom. Gröſsen: Sin. Coſ. Tang. u. ſ. w.
+nicht als Linien, ſondern bloſs als Verhältniſzahlen
+ausgedruckt werden, und daſs es eben darum gleich-
+ültig ſey, ob man die trigonom. Gröſsen für einen
+leineren oder für einen gröſseren Halbmeſſer bey
+einem beſtimmten Winkel nimmt. Die Erklärung
+von Einführung negativer Coſinuſſe iſt durchaus nicht
+befriedigend, weil der Vf, das Zeichen – nur
+als ein Ä vor den Coſinuſſen
+ſtumpfer Winkel anſieht - in der Folge aber dieſes
+Zeichen als wirkliches Subtrastionszeichen bev den
+Cofinuffen gebraucht. Die Localbemerkung (Anm.
+S. 5.), nach welcher man allenthalben den Coſinus zur
+rechten Hand poſitiv annehmen ſoll, wird den erſten
+Anfänger zu dem Wahne verleiten, der Coſinus ei-
+nes Winkels, deſſen Schenkel aus einem Punkte von
+der Rechten gegen die Linke gezogen werden, ſey
+verneint. Daſs der Satz 1 = Cof?a + Sin.”a nichts
+anders, als der pythag. Lehrſatz iſt, nur die Hypote-
+nufe = 1 geſetzt, iſt allgemein bekannt; aber der
+Vf, ſagt (S. 14) ausdrücklich: „Der Ausdruck

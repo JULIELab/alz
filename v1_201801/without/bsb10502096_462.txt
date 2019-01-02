@@ -1,0 +1,122 @@
+O07
+908
+ERGÄNZUNGSBLÄTTER ZUR A. L. z.
+kehrten Beziehungen Statt finden. Dieſen Bemer-
+kungen gemäſs hätte der mehrerwähnte Lehrſatz
+§ 9. wohl ſchicklicher folgendermaaſsen ausgeſpro-
+chen werden müſſen: Wenn (fig 7.) ein beliebiger
+leichſchenkliger ſpitzwinkliger Triangel-ABC gege-
+# iſt, und man bringt an einen in der AB beliebig
+angenommenen Punkt D einen Winkel = A, ſo daſs
+„AD Schenkel deſſelben wird: ſo muſs, vorausgeſetzt,
+daſs DE die AC in einem Punkt E trifft, ein Kreis
+aus E mit EA beſchrieben, durch den Punkt D gehen.
+Die Sätze endlich von § 11 – 19 ſind, wie ſich
+fpäter zeigen wird, für die ganze vorliegende Theo-
+rie höchſt weſentlich, und wir können ſo nicht um-
+hin, ſie einer ausführlichen und gründlichen Prüfung
+unterwerfen. In den §§ 11. 12. 13. 14. 17. 18. wer–
+den aber vom Vf, folgende Behauptungen aufgeſtellt,
+gegen deren Richtigkeit ſich nicht das Mindeſie ein-
+wenden läſst. I) Wenn (fig. 8.) jeder Winkel –4BC,
+ACB an der Grundlinie BU eines gleichſchenkligen
+Triangels gröſser iſt, als der vÄ an der Spitze,
+wenn alſo BC < AC, und man ſetzt an B, ABD=-4,
+da dann BD die AC in einem Punkt D treffen wird,
+fchneidet hierauf von AB, AE = AD ab, und zieht
+endlich ED; ſo entſteht ein gleichſchenkliger Trian-
+gel AED von der Ä des gegebenen ABC,
+h. ein Triangel, in welchem jeder Winkel an der
+Grundlinie gröſser iſt, als der Winkel an der Spitze,
+ED, alſo kleiner als AE oder -4D ſeyn wird. Ä
+derholt man dann dieſelbe Conſtructiön an dem Trian-
+gel AED und eben ſo an folgenden, ſo werden alle
+'iriangel, die auf dieſe Weiſe entſtehen, von derſel-
+ben Beſchaffenheit ſeyn. 11) Wenn man bey demſel-
+ben Triangel-1BC aus dem Endpunkt C, der Grund-
+linie BC, mit CL4 einen Kreis beſchreibt, ſo wird
+dieſer die verlängerte AB in einem Punkt M ſchnei-
+den. Zieht man dann C1, verlängert man die AC
+nach L, ſo daſs –4L = AM, und zieht man endlich
+ML, ſo iſt auch der Triangel AMIL von der Beſchaf-
+fenheit des gegebenen ABC. Alle Triangel aber,
+die durch Fortſetzung dieſer Conſtruction entſtehen,
+Ärºgeºchengerangel von derſelben Be-
+ſchaffenheit ſeyn. II) Iſt die Grundlinie BC (fig. 9)
+eines ſpitzwinkligen gleichſchenkligen Triangels ABÖ
+gröſser, als jeder der gleichen Schenkel HB, AC,
+und man beſchreibt aus B mit BA einen Kreis, wel–
+cher AC zwiſchen -1 und C in einem Punkt D ſchnei-
+det, und zieht BD, ſchneidet aber dann auf AB,
+AE =-D ab, und zieht ED, ſo iſt der gleichſchenk-
+lige Triangel –1ED von der Beſchaffenheit des Trian-
+gels -4DC, d. h. EI) iſt gröſser als -4E. Setzt man
+aber an dem Triangel –IED und eben ſo an folgenden
+Triangeln dieſelbe Conſiruction fort, ſo müſſen alle
+jene folgenden Triangel von derſelben Beſchaffenheit
+feyn. - Unter der Vorausſetzung nun, daſs eine
+der unter I., II. oder III. angedeuteten Conſtructio–
+Än wiederholt zu Stande gebracht ſey, ſucht der
+Yf dann ferner in den §§ 15. 16. 19. zu zeigen, daſs
+die in fig. 8. auf NA, OA, in fig.9. aber aufb_4, C.
+entſtandenen Abſchnitte nach – zu kleiner und klei-
+ner werden. Die Gründe, die der Vf, für dieſe Be-
+hauptung Äs ſind in der Kürze folgende: Es
+mag zuerſt unter den in I. ausgeſprochnen Bedin-
+gungen der gleichſchenklige Triangel AON (fig. 8)
+gegeben ſeyn, die ebendaſelbſt erwähnten Conſiruêtio-
+nen mögen wiederholt Statt gefunden haben, wenn
+dann von den in AOu. AN abgeſchnittenen Stücken
+nicht jedes folgende nach A zu kleiner als das vor–
+hergehende wird, ſo muſs von den nachverzeichneten
+Fällen einer nothwendig eintreten. a) Jene Stücke
+ſind dann alle einander gleich, oder b) jedes nach-
+folgende iſt gröſser als das vorhergehende, oder c)ei-
+nige ſind einander gleich, und Ä darauf folgende
+iſt gröſser oder kleiner; oder d) einige auf einander
+folgende nehmen fortſchreitend ab, und die dann
+folgenden fortſchreitend zu; oder endlich e) die
+Stücke werden abwechſelnd gröſser oder kleiner.
+Geſetzt nun, es fände der Ä aStatt, ſo müſste
+man offenbar zuletzt in NA auf ein Stück, etwa auf
+–1H kommen, welches entweder eben ſo groſs, oder
+kleiner als jedes der abgeſchnittenen Stücke wäre.
+Hey nun zuerſt gleich jedem der abgeſchnittenen
+Stücke, dann iſi AG = 2 AH; ſchneidet man alſo
+-4K=-MH von AG ab, und zieht man KH, ſo iſt
+der Triangel AKH nach I. von der Beſchaffenheit
+des Triangels AON, alſo AKH > A. Demnach
+kann man unter denſelben Beziehungen, wie bey
+frühern Conſiructionen, an den Punkt K einen VW in-
+kel = – legen, deſſen einer Schenkel die 24/H zwi–
+ſchen 4 und H treffen muſs. Da aber der Annahme
+gemäſs durch alle Schenkel gleiche Stücke abge-
+chnitten werden und AH = AFiſi, ſo müſste jetzt
+der gedachte Schenkel den Punkt A treffen, d. Ä er
+müſste mit KA zuſammentreffen und bildete folglich
+mit der letztern Linie keinen Winkel. Wäre Ä
+gegen –4H < AF, ſo würde der Schenkel des an den
+Pünkt K der K– zu ſetzenden Winkels über A hin-
+aus in die verlängerte HLA treffen, was gegen den
+Grundſatz § 1: fireitet. Die in AO, AN abgeſchnit-
+tenen Stücke ſind alſo nicht alle gleich. Ebenſo läſst
+ſich zeigen, daſs der Fall b nicht. Statt finden könne.
+Es trete der Fall c ein, zwey Stücke mögen alſo etwa
+einander gleich und das darauf folgende gröſser, alſo
+CL = LN, DC> CL ſeyn. Da nun aber AML nach
+I. ein Triangel von derſelben Beſchaffenheit wie-4ON
+iſt, und die in I. angegebne Conſiruction auch be
+dieſem Triangel AMIL Statt gefunden hat, ſo müſste
+auch DC=CL, DF>CD ſeyn. Es wäre alſo DCS CL,
+was unmöglich iſt. Ebenſo läſst ſich bey dem Fall c die
+Unmöglichkeit der Annahme: CL = LN, DC<CL,
+und DC = CL = LN, FDZ DC zeigen. Auch läſst
+ſich auf dieſelbe Weiſe darthun, daſs die Fälle d und
+e unmöglich ſind. Es mag nun ferner (f 8) die in
+II. angedeutete Conſiruction Statt gehabt haben.
+Dann läſst ſich mittelſi höchſi einfacher Schlüſſe zei-
+en, daſs durch ſie daſſelbe bewirkt wird, was durch
+ie Conſiruction in 1 bewirkt wurde; es läſst ſich
+zeigen, daſs die in I und II angegebnen Conſºco-
+nejidentiſch ſind. Daher müſſen, denn unmittelbar
+vorher gegebnen Beweiſe gemäſs, auch hier # Ä

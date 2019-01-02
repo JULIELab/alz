@@ -1,0 +1,125 @@
+-
+ic)1
+über Knoten und Neigung aber konnten nur 12, wo
+auch die geocentriſche Breite mit Sicherheit ſich be-
+ſtirnmen Ä angewendet werden. Mittlere Bewe-
+ung und Excentricität waren für dieſen beſondern
+Ä wie der Vf. zeigt, hinreichend bekannt, ſo
+daſs ſie in die Bedingungsgleichungen nicht aufge-
+nommen werden durften. Zwölf ſolcher Gleichun-
+gen, bloſs von der Knotenlänge der Neigung, und
+dem Correctionsfactor für eine angenommene Bewe-
+ung des Knotens abhängig, und nach der Methode
+Ä kleinſten Quadrate behandelt, gaben die Verbeſ-
+ſerung der zum Grund gelegten La Landeſchen Ele-
+mente der Neigung (Epoche 1750) – 10/32 und des
+Knoten + 64“,17. Zugleich gab dieſe erſte Unterſu-
+chung dürch den gefundenen Correctionsfactor für
+die Bewegung des Knotens, in ſofern ſie von der Ve:
+nusmaſſe abhängt - die erſte Gleichung für die La
+Placeſche Venusmaſſe. 2) Beſtimmung der jährli-
+chen mittlern Bezeegung und der jährlichen Aendet
+rung des Aphelium aus den heliocentriſchen Oertern
+der 17 Durchgänge. Auch dieſe vorläufige Beſtim-
+mung wurde dadurch erleichtert, weil alle Durch-
+änge vom nämlichen Knoten auch nahe in demſel-
+Ä Puncte der Bahn ſich ereignen, und daher der
+Einfluſs von Epoche, Excentricität und Aphelium
+einſtweilen als unbedeutend vernachläſſigt werden
+darf. Auf welchem Wege, und mit welcher Vor-
+ſicht der Vf. bey dieſer öjej zu Werke ge-
+Ä muſs bey ihm ſelbſt nachgeleſen werden.
+e zwey verglichene Längen gaben hiebey eine, bloſs
+die Correction der angenommenen mittlern Bewe-
+gung und die jährliche Aenderung des Aphelium
+enthaltende Bedingungsgleichung, und 15 dieſer Be-
+dingungsgleichungen gaben, nach der Methode der
+kleinſten Quadrate, die Verbeſſerung der Tries-
+neckerſchen mittlern jährlichen Bewegung +0“.0369,
+und die jährliche Aenderung des Aphelium + 56,354:
+letzteres, mit der jährlichen Aenderung nach La Pla-
+ce verglichen, führte dann auf eine zweyte Gleichung
+für die La Placeſche Venusmaſſe. 3) Beſtimmung
+der Hauptelemente der elliptiſchen éj der Epo-
+chenlänge, des Aphelium, der Eaccentricität und der
+mittlern Beutegung durch die Geſammtzahl aller 1 17
+Beobachtungen. Der Einfluſs von Knoten und Nei-
+gung, die aus der vorhergehenden Unterſuchung
+ſchon hinlänglich bekannt waren, konnte hier über-
+angen werden: denn ſonſt würden ſie, wegen der
+Ä auf die Ecliptik, ebenfalls in die Bedin-
+ungsgleichungen haben Ä werden müſ-
+ſen. Der Vf. hat bey dieſer Beſtimmung der Haupt-
+ſtücke der Mercure.lipſe nicht nur alle 17 Durchgän-
+ge, ſonern auſserdem noch hundert andere geocen-
+friſche Beobachtungen des Mercur (darunter 72 von
+Maſkeyne, und 28 von Piazzi) in Rechnung genom-
+men, um daraus Bedingungsgleichungen herzuleiten,
+welche, neben den Correctionen der Epoehe, der
+mittlern Bewegung, der Excentricität und des Aphe-
+lium, auch noch einen Factor für die Laplaceſche Ve-
+ausnaſe, rºit welcher die Störungen für alle jene
+Beobachtungen berechnet ſind, enthalten. Nur um
+ERGÄNZUNGSBLÄTLER ZUR A. L. Z.
+1092
+eben dieſe 117 heliocentriſchen und geocentriſchen
+Beobachtungen rnit deſto mehrerer Sicherheit redu-
+ciren zu können, hat der Vf. 159 Greenwicher Son-
+nenörter berechnet. Für die heliocentrifclen Län-
+gener Durchgänge wird die Form- der Bedingungs-
+gleichungen ſehr einfach, aber verwickelter für die
+eocentriſchen, da die Verbeſſerungen der eilipti-
+ſchen Elemente durch eine Function der geocentri.
+ſchen Länge ausgedrückt werden müſſen. Der Vf.
+bediente ſich, um die Rechnung nach ſeinen Formeln
+etwas abzukürzen, gewiſſer von ihm conſtruirten
+Hülfstafeln, die er am Schluffe ſeines Werks ange-
+hängt hat. Von 17 Bedingungsgleichungen wurden
+hundert durch Addition in Zo zuſammengezogen;
+aus den 37 auf dieſe Art ſich bildenden Gleichungen
+fand ſich zuletzt, mittelſt der Methode der kleinſten
+Quadrate, die Correction für die nach Tries-
+necker angenommene mittlere jährliche Bewegung
++ 0106403 für die Excentricität – 72 für das
+Aphelium – 5'5 und für die Epoche –?“,7. Ueber-
+dieſs ergab ſich durch ebendieſelben Gleichungen,
+in Beziehung auf die periodiſchen Störungen des
+Mercur durch Venus, noch eine dritte Gleichung
+für die angenommene Venusmaſſe. Das Mittel aus
+dieſer, und den zweyclurch No. 1) und 2) ſchon vorher
+gefundenen Gleichungen gab endlich den Corrections-
+Factor Iog643 mit welchem die Laplaceſche Venus-
+naſse multipicirt werden muſs. Da nun nach La
+Place die Venusmaſſe = dem 283137 1 heile der
+Sonnenmaſſe, ſo iſt mit Anwendung jenes Factors,
+die von dem Vf. neu berichtigte Venusmaſſe = dem
+34944o Lleile der Sonnenmaſſe. Der von Delam-
+bre rüher gefundene Correctionsfactor der Laplace-
+ſchen Maſſe war 1,o743 alſo nicht ſehr viel von dem
+Factor des Vſs. verſchieden; es lieſs ſich auch ſchon
+vorausſehen, daſs die Delämbreſche Venusmaſſe
+keine auf ihren zehnten Theil ſteigende Correction
+mehr zulaſſe. Da übrigens die ſeit 50 Jahren beob-
+achtete Verminderung der Schiefe der Ecliptik eine
+kleinere Venusmaſſe zu fordern ſcheint, ſo erklärt
+neuerdings La Place dieſe Anomalie durch eine pe-
+riodiſche von der Verſchiedenheit beider Erdhalbku-
+gen abhängende Gleichung. 4) Beſtimmung des
+Knotens und der Neigung aus hundert beobachteten
+geocentriſchen Breiten. Dieſe Breiten lieſsen ſich
+nun mit Hilfe der bereits bekannten elliptiſchen Ele-
+mente in Rechnung nehmen; 1oo Bedingungsglei-
+chen, nach der Methode der kleinſten Quadrate be-
+handelt, gaben die Verbeſſerung + 5“,9 für die La
+Landeſche Neigung, und + 9'74 für den Knoten,
+Oien (No. 1.) wurde bloſs aus den Lurchgängen die
+erfte Verbeſſerung – 10“3 die zweyte + 6.17 ge-
+funden. Die Verbeſſerung + 5“,9 für die Neigung
+behält der Vf, unverändert bey, nimmt aber das
+Mittel aus beiden Knoten verbeferunged. Als Reſul-
+tat der bisherigen Unterſuchungen ſetzt nun der Vf.
+folgende von ihm neu beſtimmte Elemente der Mer-
+curbahn feſt, welche je Grundlage ſeiner neuen Tafeln
+ausmachen: Epochenlänge für 75o und für den See-
+berger Meridian: 253“ 5'7% Aphelium 1750 = 253“
+33 24 3

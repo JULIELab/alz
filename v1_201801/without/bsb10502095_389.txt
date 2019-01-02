@@ -1,0 +1,108 @@
+281
+282
+–– 243 ---
+AL LG EM E IN E LI T E RATUR - ZEITUNG
+October 1826.
+MATHEMATIK.
+Baarxscnwero, im Kunſt- u. geographiſchen Bu-
+reau: Vollfändiger Lehrbegriff der reinen
+Cjbinationslehre mit Anwendungen auf-Ana-
+yſis und IWahrſcheinlichkeitsrechnungen von
+ſº Friedrich Wilhelm Spchr. 1824. Xu. 232 S.
+4. (3 Rthlr.)
+Verzaglich zwey Gebrechen ſind es, welcher
+Vf, jden bishérigen Combinationslehren tadelt,
+ej Mal das Ungründliche und ganz Unwiſſenſchaft-
+jhe in der Methode der Darſtellung der einzelnen
+combinatoriſchen Operationen» und dann die unbe-
+queme und ermüdende ältere Bezeichnung. Man
+habe ſich deshalb auch nicht zu wundern.» daſs die
+ÖjbjÄtionslehre bey dem groſsen Einfluſſe: Yº
+chen ſie auf die Analyſis behäupte, doch noch nicht
+allgemein verbreitet ſey, ja ſelbſt von Mathemati-
+ken als eine der Mathematik höchſt entbehrliche,
+j Sjdium derſelben nur hindernde Wiſſenſchaft
+angeſehen werde. Die wiſſenſchaftliche Beºbeºg
+der Combinationslehre Ä daher jetzt, wo die Ana-
+lyſis anfange, ſich wiſſenſchaftlich zu Ä ElIl
+ingendes Bedürfniſs, dieſem Bedürfniſſe alſo ab-
+zuhelfen, und mit dazu beyzutragen: die Unvoll-
+kommenheiten der bisherigen Cömbinationslehren
+zu beſeitigen, ſey der Zwec dieſer neuen Bearbei-
+tung der Äj (vor. VI. VII),
+Wir wollen hier nicht den wahren analytiſchen
+Werth der Combinationslehre würdigen, auch nicht
+näher unterſuchen, in wie weit der vom Vf, ausge-
+ſprochene Tadel Ä unſere bisherige Combina-
+tionslehre gegründet ſey, ſondern nur im Allge-
+meinen Ä daſs wir in dem Vf enen. MIa–
+thematiker kennen gelernt haben, der, mit wiſſen-
+fchaftlichem Sinn und geſunder Urtheilskraft ausge-
+rüſtet, ſeines Gegenſtandes wohl mächtig iſt und
+nicht ohne Erfolg an der Vereinfachung und theil-
+weiſe ſtrengeren Begründung der Combinationsleh-
+re gearbeitet hat; Ä wir aber auch in mehreren
+einzelnen Punkten ſeine Darſtellungsweiſe theils
+weniger befriedigend, theils nicht ſtreng und unge-
+nügend gefunden haben. . . - -
+1). Vor allem müſſen wir eine gewiſſe Keckheit
+und Anmaſsung rügen, die man an einem Mathema-
+tiker ſonſt nicht gewohnt iſt. Ohne uns an dem
+ganz unziemlichen Ausfalle (Vor. Vl) gegen mathe-
+natiſche Schriftſteller zu ſtoſsen, können wir doch
+nicht umhin, Behauptungen, wie folgendes zuta-
+deln: „ die Idee des Variirens bey verbotener und
+A. L. Z. 1826. Dritter Band.
+ten laſſen.
+zugelaſſener Wiederholbarkeit der Elemente ent-
+ſprang aus einer falſchen Anſicht von der Operation“
+# 8). Beſcheidener und wahrer würde es heiſsen:
+die Idee – entſprang aus einer anderen Anſicht von
+der Operation. Der Vf. will nämlich die Variatio-
+nen nicht als Combinationen mit Permutationen gel–
+Man vergl. noch S. 14)
+2) Der Vortrag des Vfs. iſt, beſonders in dem
+erſten Theile, welcher die Darſtellung der combina-
+toriſchen Operationen enthält, etwas breit und,
+was der ſchlichten Matheſis nicht wohl ſteht, zu-
+weilen geziert. Als Beweis führen wir eine Stelle
+an (S. 7): „Nimmt man mehrere Reihen von Ele-
+menten an, um aus ihnen Formen zu erzeugen, ſo
+entſtehen der Vorausſetzungen, unter welchen man
+ſich die Elemente jener Reihen zu Complexionen
+vereinigen läſst, mehrere." Man vergleiche beſon-
+ders die §§. 9. 10. 13. 14. Die Darſtellung würde
+ſehr an Deutlichkeit und Präciſion gewonnen haben,
+wenn der Vf, die Hauptſätze mehr hervorgehoben
+und abgeſondert für ſich ſo viel als möglich rein vor-
+getragen hätte, ſtatt dieſelben mit den Folgerungen
+und Erklärungen in einen zuſammenhängenden, ent-
+wickelnden Vortrag zu verſchmelzen. Die Me-
+thode der alten Geometer iſt keine Pedanterey, fon-
+dern ſie iſt zur Erleichterung der Einſicht in den
+Zuſammenhang der Sätze weſentlich und befördert
+das wichtige Auffaſſen der Wahrheit, weil dadurch
+die Verbindung zwiſchen dem Gegebenen und Ge-
+ſuchten, zwiſchen der Hypotheſis und Theſis deut-
+licher in die Augen ſpringt.
+3) Auch können wir nicht gleiche Anſicht, wie
+der Vf, von dem Weſen der Wiſſenſchaft hegen.
+Er legt ein viel zu groſses Gewicht auf die Stellung
+und Anordnung des Materiellen, und widerſpricht
+ſich ſelbſt, wenn er nach der Allgemeinen Bemer-
+kung (V: X): „je allgemeiner man die Vorausſetzun-
+gen macht, deſto leichter Ä die analytiſche Un-
+terſuchung zu Ä miſsbilligend hinzuſetzt: „man
+ründet gewöhnlich den allgemeinen polynomiſchen
+Ä, auf das Binomial-Theorem, geht alſo vom
+ſpecielleren Falle zum allgemeineren über.“ Denn,
+um nur dieſs zu erwähnen, §. 60 leitet er die in-
+dependente Beſtimmung der Glieder eines Quo-
+tienten von der Vorausſetzung des ſpeciellen Falles
+ab, daſs der Dividend die Einheit. ſey; und §. 65
+ſtützt er den allgemeinen Beweis des polynomiſchen
+Lehrſatzes für gebrochene und negative Exponenten
+auf die ſpecielle Vorausſetzung, daſs der Satz im
+erſten Falle für den Exponenten - , und im zwey-
+MI m
+te Il

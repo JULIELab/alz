@@ -1,0 +1,123 @@
+69
+Num. 9. JANUAR 1812. 7Q
+folgen bis S. 11. Tafeln für die Correction, für die
+Wärme der Luft, und bis Seite 14. die für die Ver-
+änderung der Schwere, in ſenkrechter Hinſicht und
+in Hinſicht der Breite. – Von S. 13. bis 18. ſind.
+noch einige Hülfstafeln, wenn man eine andere For-
+mel gebrauchen will, und von S. 21. bis 26. giebt Hr.
+Oltmanns Rechenſchaft von der Conſtruction der Ta-
+feln, und zeigt ihren Gebrauch an Beyſpielen. –
+Doch wendet er ſie auf keine trigonometriſch ge-
+meſſene Höhen an, – welches für verſchiedene Le-
+ſer vielleicht angenehm geweſen wäre, die ſich gern
+auf dieſem empiriſchen Wege von der Genauigkeit
+der Tafeln überzeugen. – Für den Reiſenden wer-
+den dieſe Tafeln unbequem ſeyn, wegen ihres For-
+mats in Folio. Vielleicht iſt dieſes Format durch das
+ähnliche von Humboldts Reiſe veranlaſst; ſie hätten
+ſich ſonſt ebenſo gut in Octav drucken laſſen, wenn die-
+ſelbe Oekonomie des Raums befolgt wäre, wie bey den
+Berliner Decimaltafeln. – Das Format abgerechnet,
+ſind dieſe Tafeln ſehr bequem im Rechnen, ungeach-
+tet des Einſchaltens. – Ihre Genauigkeit wollen wir
+am Ende der Recenſion an der geometriſch gemeſſenen
+Höhe des Monte Gregorio prüfen.
+- 2. Lindenau's Täfeln. Dieſe beruhen ebenfalls
+auf der Formel von la Place, nur mit dem Unterſchie-
+de, daſs das Verhältniſs zwiſchen den ſpecifiſchen Ge-
+wichten von Luft und Queckſilber nicht bloſs aus den
+Beobachtungen von Rammond, ſondern auch aus de-
+nen von de Luc, Schukburgh, Roy u. ſ. w. iſt be-
+ſtimmt worden. Da dieſe föÄn nicht auf
+die Schwere am Ufer der See reducirt wären, ſo wird -
+angenommen, daſs ſie für die Schwere von 9oo Toi-
+fen genau ſind, und alſo bis 18oo Toiſen keine Be-
+richtigung, wegen der Abnahme der Schwere bedürfen.
+Auch nimmt Hr. v. L. an, daſs die Abnahme der Wärme
+keine arithmetiſche Reihe erſter Ordnung ſey, ſon-
+dern eine arithmetiſche Reihe höherer Ordnung; eine
+Annahme, wodurch die Rechnung ohne Noth ver-
+wickelter, und um nichts genauer wird, da bekannt-
+lich die Abnahme der Wärme Ä iſt, daſs ſie in
+demſelben Monathe und auf derſelben Höhe einen -
+Tag auf 8o Toiſen 1 Grad abnimmt, und an einem
+andern Tage auf 21o Toiſen 1 Grad. Nach dieſem Ge-
+ſetze der Abnahme der Wärme hat Hr. v. L. eine Tafel
+berechnet, nach der man bey iſolirten Meſſungen die
+Wärme an der See aus der beobachteten Wärme auf
+dem Berge herleiten kann, und von der er ſich viele
+Genauigkeit bey dieſer Art Meſſungen verſpricht,
+und ein Ä von Pic de Bigord giebt die Höhe
+des Berges bis auf 4 Fuſs. – Rec. hält indeſs dieſe
+Methode in unſern Breiten für wenig genau, beſon-
+ders wegen der groſsen Veränderlichkeit des Baro-
+meters» und wegen der Veränderlichkeit in der Ab-
+nahme der Wärme. Die Wärme kann an der See um 4
+oder 5 Grade von der angenommenen abweichen, um
+der Barometerſtand um Zoll, welches die Höhe eines
+Berges um mehrere hundert Fuſs ändert. So findet
+man z. B. die Höhe des Montblanc über der See nach
+dieſer Methºde um 5oo Fuſs zu klein. Seite 41. hat
+Hr. v. L. 9 Berghöhen nach ſeinen Tafeln berechnet,
+und mit der trigonometriſchen Meſſung derſelben
+Berge verglichen. Die gröſste Abweichung iſt 15 Fuſs.
+Rec., der bloſs den Montblanc nachgerechnet hat,
+hat in dieſen Zahlen einen Schreibfehler gefunden.
+Es heiſst da: -
+Montblanc Bar. Meſſ. 2261,1 Toiſ: Trigon. 2263 T.
+Sollte heiſsen 2277,5 . . . . . . 2276,5 –
+2276,5 Toiſe iſt nämlich die trigon. Meſſung von Tral.
+les, und 2277,5 Toife geben die Lindenauſchen Tafeln,
+wenn man die richtig reducirten Elemente von Sauſ
+füre zum Grunde legt. (In der M. C. 1805 und in
+dem Mem. top. war bekanntlich bey der Reduction
+derſelben ein Rechnungsfehler eingeſchlichen. Beym
+Rechnen haben Rec. Ä Lindenauſchen Tafeln nicht
+ſo bequem geſchienen, als die Oltmannſchen, vielleicht
+weil ſie zu weitläuftig ſind und man ſo viel in ihnen
+herumblättern muſs. Die erſte Tafel hat ganze Li-
+nien und halbe Thermometergrade. Um zwiſchen
+dieſen die Proportionaltheile zum Einſchalten zu fin-
+den», muſs man noch, eine zweyte und dritte Tafel
+aufſchlagen. Dieſe nehmen zuſammen 113 Seiten ein.
+Wenn Hr. v. L. die Kennzeichen und die beiden letz-
+ten Decimale weggelaſſen hätte, die ohnehin bey der
+Rechnung nicht gebraucht werden, ſo wären ſie unn
+Ä geworden. Wären zugleich die halben Gra-
+e weggeblieben, da ſich zwiſchen ganzen eben ſo
+bequem einſchaltet, ſo hätten dieſe Ä ſtatt II R
+Seiten nur 21 Seiten eingenommen. Die dritte Tafel
+hätte dann ganz wegbleiben können, und die zweyte
+ſo in die erſte eingeſchaltet, wie die Proportional-
+theile in den Oltmannsſchen; man hätte dann die Tafel
+nur zweymahl brauchen aufzuſc lagen, ſtatt daſs man
+es jetzt ſechsmahl muſs, wenn man genau die Vor-
+ſchrift des Vfs. befolgen will. Die fünfte Tafel ent-
+hält die Correction für die Wärme der Luft, ſie geht
+von halben zu halben Graden und von 50 zu 5o Toi-
+ſen. Auch ſie hätte ſich viel abkürzen und bequemer
+machen laſſen, wenn ſie von s zu Grad und von
+Iooo... 2ooo :-90ooToiſen ginge, wo man ſie wie eine
+Productentafel gebrauchen könnte, und das läſtige
+Einſchalten nicht hätte. – Den Beſchluſs dieſer Ta-
+feln macht eine Anweiſung, ſenkrechte Stanllinien
+mit dem Barometer zu meſſen, und die Entfernung
+mit Hülfe der Höhenwinkel zu beſtimmen. Hierzu
+ehören einige Tafeln, welche die Entfernungen der
+Ä durch Einſchalten geben.
+3. Benzenberg's Tafeln. In dieſen wird das Hö-
+henmeſſen auf eine allgemein faſsliche Weiſe und
+ohne alle Buchſtabenrechnung gelehrt. Sie beruhen
+auf keiner Formel, ſondern Ä auf der einfachen
+phyſſelien Betrachtung der Aufgabe. Zuerſt kommt
+die Beſchreibung und Abbildung der Reiſebarometer.
+Es ſind Barometer von Loos mit geätzten Scalen.
+Dann folgt eine Anweiſung zum Beobachten, und die
+Beobachtungen nach der leichten Schichtmethode zu
+berechnen. Die Schichttafeln gehen von Äg zu z
+Zoll. Auf dieſe folgt eine Anweiſung, dieſelben Rech-
+nungen mit Logaritimen zu machen, und die natür-
+lichen Logarithmen ſind auf 1 Bogen von 1300 bis
+2900 mit abgedruckt worden. Den Beſchluſs nacht
+0l-

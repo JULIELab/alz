@@ -1,0 +1,124 @@
+579
+580
+ALLG. LITERATUR – ZEITUNG
+ſsenlehre hinweiſt, wird dieſer Fehler gegen den ſyn-
+thetifchen Vortra
+mung des Rec. Ä nur der eſes Kap.,
+wenn der Diviſor vollſtändig im Dividendus enthalten -
+iſt, und der Fall, wenn dieſes nicht iſt, in das fol-
+gende. 3tes Kap. Von den vier Species in der Rech-
+zung mit Brüchen. 4tes Kap. Die vier Species in der
+Rechnung mit Potenzen. – In dieſen Kapp. werden
+nur die vier Species mit einnamigen Gröſsen gelehrt.
+– Das 6te Kap. Ueber einige Eigenſchaften der Zah-
+Zen, die ſich mit # Ärorhergehenden auffinden
+laſſen, worin beſonders die Lehre von den Primzahlen
+recht gut vorgetragen iſt, und das 7te Kap. Von den
+Zahlſyſtemen und künſtlichen Brüchen, verdienen
+beſondere Beachtung. In vielen, auch in mehreren
+der beſſeren Lehrbücher, welche zu ihrem Gegen-
+ftande die Elemente der reinen allgemeinen Arithme-
+tik haben, iſt fowohl die Lehre von den Eigenſchaf-
+ten der Zahlen, als auch die Lehre von den Zahl-
+Ä und von den künſtlichen Brüchen, entwe-
+er viel zu wenig gewürdigt, oder zum wenigſten
+lange nicht fyſtematiſch genug vorgetragen. Beide
+Kap. ſind mit beſonderer Sorgfalt ausgearbeitet, und
+der Vf, hat hiedurch ſeinem Werke vor vielen an-
+dern ähnlichen einen weſentlichen Vorzug gegeben.
+– 8tes Cap. Von den Wurzeln der Zahlen; Ä
+dere von Auszichung der Quadrat- und Kubi-
+zwurzeln. 9tes Kap. Von der Rechnung mit Wurzel-
+gröſsen. Bey der Schwierigkeit, jeſehjdie Rech-
+nung mit Wurzelgröſsen dem Schüler bietet, iſt die-
+fes Kap. überhaupt etwas zu kurz abgehandelt, be-
+ſonders die vier Species, die Potenzirung und die
+Wurzelextraction mit unmöglichen Wurzeln. In
+§. 103 # der Verfaſſer die Aufgabe: „Die vier Spe-
+cies, die Ä und die Ä mit
+unmöglichen Wurzeln auszuführen.“ Seine Auflö–
+fung iſt folgende: „Man bringe die unmöglichen
+Wurzeln auf die in §. 102 angegebene Form, und
+verfahre dann wie mit andern Ä. WO-
+bey nur ſtets zu beachten iſt, daſs V– 1 XY – 1
+oder (V – 1)* niehts anders als–1 ſeyn kann. Z. B.
+V– a× VTG =yay –1Xyb v–1
+= Ya YbX(Y–1)* = Yab X– 1 = –Yaö;
+1. 1. Y– 1 Y–1
+S- A-- – = – VT–1." -
+z=T – F-5 – H ––Y -
+Dieſe gegebene Auflöſung der Aufgabe kann nicht ge-
+nügen: denn es ſind hier ganz die Fälle übergangen,
+wenn ein Produkt aus zwey unmöglichen Wurzel-
+faktoren poſitiv und wenn es negativ, wenn daſſelbe
+möglich, und wenn es unmöglich wird. Daſs dieſe
+Fälle ganz beſonders erörtert zu werden verdienen,
+ergiebt ſich aus dem bisher faſt allgemein als gültig
+aufgeſtellten Satze, daſs das Produkt aus zweyun
+möglichen Wurzelfaktoren immer möglich ſey;"wel-
+cher Satz aber falſch iſt. – Dem Öten Käp. Von
+den Yeältniſſen und Proportionen der Zahlen folgt
+ein-ºng» enthaltend die Verhältniſſe und Prö–
+vollſtändi
+portionen benannter Zahlen. Was in dieſem Anhan
+nicht Än Ä Mei- geſagt wird, iſt alles recht gut; gehört aber nicht in
+Fall in
+ein Lehrbüch der Elemente der reinen Arithmetik. –
+Im 11ten Kap., Yon den Logarithmen iſt nicht eine
+e Theorie der Logarithmen gegeben, wel–
+che in Ä der allgemeinen Arithmetik nicht
+Ä. ſondern nur ſo viel vorgetragen, als erfor-
+erlich iſt, um die Möglichkeit Ä Conſtruction lo-
+Ä Tafeln zu zeigen, und um den Ge-
+rauch derſelben zu lehren. Einen Logarithmen er-
+klärt Hr. G. alſo: „Da (§. 112 Zuſ. Ä poſitive
+Zahl b als Name des Verhältniſſes b: 1 angeſehen wer-
+den kann, und alles Potenziren der Zahl b und Wur-
+zelextrahiren aus b als Vervielfältigung oder Thei-
+lung des Verhältniſſes b: 1 angeſehen werden kann,
+die Exponenten der b aber dann die Zahlen ſind,
+welche die Vervielfältigung oder Theilung des Ver-
+hältniſſes b: 1. andeuten; ſo nennt man dieſe Expo-
+nenten Logarithmen." Wenn die Gleichung a=bs
+gegeben iſt, in welcher b eine beſtändige Zahl, und
+der Exponent ar eine von dem jedesmaligen Werthe
+von ,a, welcher willkürlich iſt, abhängige Zahl be-
+zeichnet; ſo iſt ar der Logarithme von d, für das Lo-
+Ä –Syſtem, deſſen Baſis = b, nach der vor-
+ergehenden und folgenden Erklärung. Die Aufga-
+ben, durch welche der Gebrauch der logarithmiſchen
+Tafeln gelehrt wird, ſind für ihre Abſicht ſehr
+zweckmäſsig gewählt. – 12tes Kap. Von den Glei-
+chungen im allgemeinen. Im H. 130 ſagt der Vf:
+„Eine Gleichung iſt identiſch, wenn ihre beiden Sei-
+ten nicht bloſs einander gleich, ſondern völlig einer-
+ley ſind, oder doch auf einen ſolchen Ausdruck füh-
+ren.“ Der letzte Satz in dieſer Erklärung: „oder
+doch auf einen ſolchen Ausdruck führen," iſt dun-
+kel. So weit aber dieſer Satz durch die Gleichung:
+(a+x) = a+ 2ax + x", welche als Beyſpiel einer
+identiſchen Gleichung gegeben iſt, klar wird, iſt er
+falſch; denn die Gleichung
+- (a + x)* = a* + 2ax + x*
+iſt keine identiſche, ſondern eine analytiſche. 13tes
+Kap. Von den einfachen Gleichungen insbeſondeº
+14tes Kap. Fon den quadratiſchen Gleichungen. Es
+hätte in dieſem Kap. auch über die Entſtehung der
+quadratiſchen Gleichungen aus einfachen gehandelt
+werden ſollen. 15tes Kap. Yon den arithmetiſche
+Progreſſionen. - 16tes Käp. Von den geometriſcº
+Progreſſionen der Zahlen. In dem Anhange zu e-
+fem Käp. befinden ſich einige gute Bemerkungen über
+die Zinsrechnung und die damit verwandten Rech-
+mungen über Bevölkerungszunahme u. dgl. Die Be-
+merkung des Rec. über den Anhang des 10ten KaP.
+gilt auch von dem Anhange des gegenwärtigen KºP
+i7tes Kap. Von den Kettenbrüchen. Die wichtigſten
+Eigenſchaften der Kettenbrüche werden in dieſen
+Käp. gelehrt, ſo weit der Begriff von den Elemente
+der allgemeinen Arithmetik dieſen Gegenſtand unter
+ſich faſst; und gezeigt wird noch, wie ſich die Ket-
+tenbrüche bey der Ausziehung der Quadratwurzeln
+mit Vortheil gebrauchen laſſen.
+.
+PHY-

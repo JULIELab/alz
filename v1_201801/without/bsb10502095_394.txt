@@ -1,0 +1,116 @@
+291
+292
+ALLG. LITERATUR - zEITUNG
+der etwas ſchwierigeren Beſtimmung der Anzahl der
+Combinationen zu beſtimmten Summen verſucht
+hätte. Da er dieſes aber unterlaſſen hat, ſo können
+wir uns mit ſeinen Ableitungen um ſo weniger be-
+freunden, weil dieſelben durch andere Schlüſſe mit
+geometriſcher Evidenz ſich bewerkſtelligen laſſen.
+Um aber auch noch an einem anderen Beyſpiele
+das Verfahren unſers Vfs. kenntlich zu machen,
+wählen wir die Darſtellung des Products aus den
+binomiſchen Factoren E. (x + b) (x+ c) ....
+(S. 188–190). Statt das Geſetz der Cöefficienten
+dieſes Products unmittelbar aus der Natur der Sache
+durch die Multiplication abzuleiten, ſieht der Vf.
+vielmehr dieſes Ä zuerſt an als entſtehend aus
+polynomiſchen Reihen, die mit dem erſten Gliede
+abbrechen, und ſtellt die Coefficienten des Products
+durch Variations-Complexionen zu beſtimmten Sum-
+rhen dar. Dieſe Form der Coefficienten iſt begreifli–
+cher Weiſe nicht die einfachſte und natürlichſte.
+Der Vf, unternimmt alſo, ſie zu vereinfachen, d. h.,
+er unterläſst, die Binomial-Factoren als etwas anders
+anzuſehen, als das, was ſie ſind, und ſchlägt,
+umzu, ſeinem Zwecke zu kommen, folgenden Gang
+ElIl, -
+I 2 k
+» Es ſey (x + a) (x + a) ... (x-+ a)
+k
+=x +-----+-----+...+2x-
+k++
+Kommt noch ein folgender Factor (x + a) hinzu
+1 2 k+ 1
+ſo iſt: (x: + a) (x + a) ... (ar + a)
+/z k
+= ark+*+k Aack... +k Aack-h+"... +k Aar!
+k h–1 k - k–1 k k
++“.4.--Ä«4x-++“ -4x+“# 4x-
+Der Coefficient des hten Gliedes dieſes Products,
+h
+welchen wir nun durch *** A anzudeuten durch
+obige Annahme gezwungen ſind, iſt alſo
+- h–1
+/z /
+k+ Ä= Ä+“Ä“ Ä
+Aber auf eben dieſe Art recurriren auch die Combi-
+nationsklaſſen bey verbotener Wiederholbarkeit;
+denn es iſt
+/z z - h– 1 k+ 1
+C[1..(k+1)] = C“[1. k] + CI1... k1. â
+ſo, daſs ſich die in den Klammern ſtehenden Ele-
+1 2 k+ 1
+mente auf a, a, ... a beziehen.
+/s k+g -
+*** A = C“ (1... (k+1+n)]
+wobey es noch nöthig iſt, die fingirten Conſtanten
+mundg zu beſtimmen. Das Glied dieſes Products,
+Man hat daher:
+welches kein x mehr enthält, muſs die Gröſsen
+1 2 k+ 1
+a, a, . . a. als Factoren in ſich ſchlieſsen, und iſt
+, k+- 1 -
+daher = C [1..(k+ 1)]. Setzt man daher in obi-
+gem Ausdrucke für h den Werth & + 1, ſo hat -
+MlalIl - - -
+k+ 1 k-- 1 +-g
+öſt. (+ 1)] = öff(++ 1+ h)]
+woraus folgt, daſs beide Conſtanten = o ſeyn müſ-
+/z /
+ſen. Man hat daher “4 = er. (+1).
+u. ſ. w. - -
+Dieſe Ableitung widerſpricht der allererſten Er-
+forderniſs einer combinatoriſchen Entwickelung,
+nämlich daſs das Entſtehen der Gröſsen auf eine
+evidente und elementare Weiſe vor Augen gelegt
+werde. Aehnliche Bemerkungen laſſen ſich Ä
+über andere Entwickelungen des Vfs. machen. Der
+Raum dieſer Blätter geſtattet nicht, uns hierüber
+näher zu verbreiten. Ä wollen nur noch mit we-
+nigem berühren, daſs, wenn die vorhergehenden Be-
+merkungen mehr die Evidenz der Darſtellung be-
+treffen, andere Entwicklungen des Vfs. auch un-
+vollſtändig und ungründlich ſind. Ä dem Beweiſe
+des polynomiſchen Satzes für gebrochene und ne-
+ative Exponenten nimmt der Vf, als Baſis eine
+eihe an, in welcher die Exponenten der Haupt-
+Gröſse in einer beliebigen arithmetiſchen Progreſſion
+fortſchreiten, und ohne weiteres macht er die Vor-
+ausſetzung, daſs die zu ſuchende Reihe von derſel-
+ben Form ſey. Dieſes angenommen wird dann nach
+der Methodé der unbeſtimmten Coefficienten und
+unter Vorausſetzung des polynomiſchen Satzes für
+poſitive ganze Exponenten ein allgemeiner Coeff.
+dient der angenommenen Reihe für die mte Wurzel
+j beſtijt. Dieſe Recurſion ſtimmt ganz
+mit der ſchon gefundenen für den poſitiven, ganzen
+Exponenten k überein, wenn man # Statt k ſetzt.
+Bleibt daher die Formel, ſchlieſst der Vf., für den
+werth - richtig, ſo gilt ſie auch für Ä, und
+/71 V71
+hiermit wäre alſo der polynomiſche Lehrſatz für ge-
+brochene Exponenten erwieſen? Wenn dieſs evi-
+dent und ſtreng iſt, ſo ſehen wir nicht ein, warum
+man die Sache nicht ganz kurz mit Langsdorf (ſ.
+deſſen Analyſis S. 34) abmacht. Dieſer Mathemati-
+ker räſonnirt ſo: „hat man einen allgemeinen Aus-
+druck für (a + b) " unter der Vorausſetzung, daſs
+meine bejahte ganze Zahl ſey: ſo muſs erſelbe
+Ausdruck auch noch gültig bleiben, wenn m, eº
+ebrochene bejahte oder verneinte Zahl iſt. Denn
+Ä Satz hat ſeine Richtigkeit für Potenzen vºn
+einfachen Gröſsen (aº); alſó auch nothwendig für
+Potenzen von zweytheiligen Gröſsen!“ Unſer Vf.
+ſchlieſst auf ähnliche Weiſe,..nur nimmt er die Ä
+nuc

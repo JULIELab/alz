@@ -1,0 +1,109 @@
+497
+*
+4 Cº
+Nurn ero 65.
+-
+ALLGEMEINE LITERATUR-zEITUNG
+-
+Sonnabends, den 1. März 18oo.
+---
+MATHEMATIK. die Dampfmaſchine genommen iſt, nach allen drey
+FRANKFUnr a. M., b. Varrentrapp u. Wenner: An-
+fangsgründe der Mathematik. Zum Gebrauch auf
+Schulen und Univerſitäten, herausgegeben von
+* G. G. Schmidt, Prof. der Mathematik zu Gieſsen.
+Zweiten Theils zweyte Abtheilung. Hydraulik
+und Maſchinenlehre. 290 S. gr. 8. mit 6 Kupf.
+F die auf dem Titel des Buchs angegebene Be-
+ſtimmung iſt zu viel hineingebracht; auf Schu-
+len kann es gar nicht gebraucht werden, auf Univer-
+ſitäten kann es auch nur für wenige zum Unterrichte
+dienen. Uebrigens aber ſind die Materien gut abge-
+handelt, und der Abſchnitt von der Maſchinenlehre
+iſt vielleicht das Brauchbarſte, was wir in deutſchen
+Schriften in dieſem mäſsigen Umfangç haben, da das
+Theoretiſche und Praktiſche gut mit einander ver-
+bunden iſt, wenn auch jenes wegen des Abganges
+der höhern Analyſis noch etwas mangelhaft bleibt,
+oder einige Erinnerungen ſich noch machen laſſen.
+In der Hydraulik wird von der Bewegung des aus
+Gefäſsen flieſsenden Waſſers nur der Fall betrachtet,
+da das Gefäſs ſtets voll erhalten wird, und die Aus-
+fluſsöffnung klein iſt. Der Fall, da ein Gefäſs von
+irgend einer Geſtalt ſich ausleert, iſt bey Seite ge-
+ſetzt, weil er ſich ohne Integralrechnung nicht ab-
+handeln lieſs, und weil der Vf, keinen praktiſchen
+Nutzen davon kannte. Allein bey Druckwerken
+wird ja der Stiefel ausgeleert, und bey Saugwerken
+angefüllt, ſo daſs doch jene Theorie hier nützlich,
+wird, wenn ſie gleich, - wegen einiger Umſtände,
+nicht ganz befriedigt. In der That kann die Theorie
+der Druck- und Saugwerke, und der Bewegung des
+Waſſers in Röhrenleitungen, der höhern Analyſis
+nicht entbehren. Den gröſsten Theil der Hydraulik
+nimmt die Lehre von der Bewegung des Waſſers in
+Röhrenleitungen und in offenen Kanälen ein. Die
+Büatiſche Theorie von der gleichförmigen Bewegung
+des Waſſers in Kanälen wird vorgetragen; die vor-
+thcilhafteſte Geſtalt der Kanal- und Fluſsbetten un-
+terſucht, nd gezeigt, wie die Krümmungen der
+Flüſſe und Kanäle am beſten genommen werden.
+Zuletzt vom Stoſse und Widerſtande des Waſſers ge-
+gen feſte Körper.
+Den gröſsern Theil des Buchs nimmt- die Ma-
+ſehinealehre ein von S. 109 bis 290. Allgemein von
+Maſchinen und den bewegenden Kräften; von den
+Hebezeugen, von den Mühlwerken umſtändlich;
+von den hydrauliſchen Maſchinen, zu welchen hier
+, A. L. Z. 18oo. Erſter Band.
+Arten, der alten, der mittlern und der neuen; zu-
+letzt von Uhrwerken. Die Beobachtungen, welche
+der Vf, an einigen Mahlmühlen, unterſchlächtigen
+und oberſchlächtigen gemacht hat, und die vollſtän-
+dige Befchreibung der Einrichtung, nebſt ihrem Effect,
+verdienen vielen Dank. Dergleichen haben wir noch
+ſehr wenig. Die Mühle zu la Fere hat über ein hal,
+bes Jahrhundert zum allgemeinen Exempel gedient,
+ſo mangelhaft ſie auch geweſen ſeyn mag. Die Gröſse
+der Reibung zu beſtimmen, lieſs Hr. S. das Schutz
+eines ftillſtehenden Mahlganges aufziehen, 1mit einer
+geringern Erhöhung als an dem mahlenden Gange;
+aus der Bewegung, die jener Gang erhielt, berech-
+net er, daſs die auf die Reibung verwandte Kraft
+= 0, 412 der bewegenden Kraft war. Wäre die
+Friction ein Drittheil des Drucks, ſo würde ſie an
+der Maſchine = 0, 62 der bewegenden Kraft gewe-
+ſen ſeyn. Der Vf, ſetzt bey einerley Gefälle die be-
+wegenden Kräfte den Waſſermengen proportional.
+Allein es müſste hier noch beachtet werden, daſs die
+zu der bewegenden Kraft gehörige Höhe, die bex
+dem mahlenden Gange drey Fuſs betrug, bey den
+leer gehenden gröſser iſt, da das Rad langfainer un-
+lief. Der Vf, nimmt Klügel's Theorie der unter.
+ſchlächtigen Waſſerräder an, weil dieſe ihm nach ſei-
+nen Erfahrungen die Natur der Wirkung des Waſ-.
+ſers bey unterſchlächtigen Rädern am befriedigend-
+ſten darzuſtellen ſcheint. Allein es wird nach derſe-
+ben zur Grundfläche des Drucks nicht ſowohl die
+Schaufelfläche als vielmehr die Oeffnung des Schut-
+zes zu nehmen ſeyn, und eben ſo bey jeder andern
+Theorie. - Die Schaufeln ändern ihre Lage jeden Au-
+genblick, und decken ſich auf mancherley Art, ſo
+daſs die einfache Vorausſetzung der Theorie hier
+nicht mehr Statt findet. Auf die Waſſermaſſe, die in
+einer gegebenen Zeit das Rad trifft, kommt es aller-
+dings an, alſo nicht bloſs auf die Geſchwindigkeit
+deſſelben, ſondern auch auf die Schutzöffnung.
+Wenn man in dem von dem Vf, berechneten Falle,
+da der leer gehende Gang in Bewegung geſetzt ward,
+die Kraft am Waſſerrade eben ſo berechnen wollte,
+wie es für den mahlenden Gang geſchehen iſt, ſo
+würde ſie für jenen gröſser ausfallen als für dieſen,
+weil das Rad langſamer ging. Es ſind noch gute Er
+fahrungen an Stampfinüllen nöthig, woran der Wi-
+derſtand ſich beſſer berechnen läſst. – Bey der Er-
+klärung der Veraeſchen Seilmaſchine thut Hr. S. e-
+nen guten Vorſchlag zu ihrer Verſtärkung, nämlich
+mehrere Seile neben einander über eine Walze gehen
+zu laſſen.
+R rr Hia

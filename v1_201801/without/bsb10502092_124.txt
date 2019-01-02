@@ -1,0 +1,127 @@
+635
+636
+ALLG - -
+- -
+- zEITUNG
+übergehen, und die ganze unvollkommene Haupt-
+complexion iſt in eine vollkommene verwandelt,
+weil man von 64 wieder aufs kann, welches durch
+die Veränderung in der erſten Subcomplexion zu 1
+geworden iſt. Die Zahlen ſtehen nun auf der Tafel
+in folgender Ordnung: .
+5: 36. 55. 22. 7. 34. 57. 24.
+54. 2 I- 6. 35. 56. 23. 8. 33.
+37- 4- 45. 60. 43. 62. 25. 58.
+20. 53. 42. 63. 46. 59. 32. 9.
+Z 38. 47. 44. 6 I. 28. I3. 26.
+52. 19. 64. 41. 48. 15. 1o. 31.
+39. 2. I7. 5O. 29. 12. 27. 14.
+18- 51. 40. I. 16. 49. 3o. 11.
+Kommen wir nun zu der Hauptſache, zu der neuen
+General – Regel in welcher die einfachſte, vollſtän–
+digſte und allgemeinſte Löſung des Röſſelſprunges
+enthalten ſeyn ſoll, „Sie konnte, ſagt der Vf. S. 40,
+nur darum ſo lange unentdeckt bleiben, weil Alle,
+welche ſich damit abgaben, die Auflöſung durch ei-
+ne Conſtruction in der Figur des Schachbretes ſuch–
+ten, und ſo den Wald vor lauter Bäumen nicht ſa–
+hen." (Hierin liegt der Beweis, daſs der Vf. Euler's
+Aufſatz nicht geleſen hatte; Euler beſchränkte ſich
+nicht auf das Schachbret.) Und wie kam der Vf. auf
+dieſe Entdeckung? Er probirte die von ihm aufge–
+fundene Evolutions – Mlethode auf dem Schachbrete,
+überzeugte ſich dadurch von der ungeheuren Menge
+möglicher Auflöſungen für jedes Anfangsfeld, und
+bemerkte, daſs ſie alle in einem Umſtande zuſam-
+mentrafen, nämlich in dem: daſs, ſo oft der Sprin–
+ger auf ein Feld kam, von welchem er ein Eckfeld
+beſetzen konnte, jedesmal die Evolution den nächſt–
+folgenden Zug auf dieſes Eckfeld führte, falls daſ –
+ſelbe nicht erſtes Feld war. Das hätte derſelbe a
+priori einſehen können: denn da jedes Eckfeld nur
+zwey Ausgänge hat, ſo muſs es, ſobald man auf ei-
+nen dieſer Ausgänge kommt, ſogleich, oder erſt mit
+dem letzten Zuge beſetzt werden, weil man widri-
+genfalls nicht anders, als von dem zweyten Ausgan-
+ge aus darauf, und dann nicht wieder davon hinweg
+kommen kann, da der erſte ſchon beſetzt iſt. Er
+lieſs inzwiſchen „ lange genug, dieſes Merkmal un-
+beachtet, bis ihm endlich in einem glücklichen Mo–
+mente einfiel, daſs dieſer einzelne Fall, allgemein
+ausgedrückt, die Regel für die einfachſte und allge-
+meinſte Löſung ausmachen müſſe." (S. 41.) Er
+drückte ihn nun allgemein aus, und zwar ſo: „Man
+ſetze jedesmal den Springer auf dasjenige Feld, von
+welchem die Ä Ausgänge auf noch unbe-
+ſetzte Felder übrig ſind." Hierauf ſuchte er einen -
+Beweis für die Zuverläſſigkeit dieſer, allerdings höchſt
+einfachen Regel, und dieſen trägt er in der ſtrengen
+Theorie, §. 20 und 21, in zwey Abtheilungen vor.
+Zue-ſt beſchränkt er die Aufgabe, für ein be–
+ſtimmtes Anfangsfeld einer gegebenen Figur (Tafe)
+Complexionen zu finden, auf den Fall, daſs für das
+gegebene Anfangsfeld jedes Feld von entgegengeſetz-
+ter Farbe zum letzten Feldetauglich ſey, mit ande-
+-
+LITERATUR gebene Anfangsfeld keine Complexion möglich
+ren Worten - daſs man, vermöge der Beſchaffenheit
+der Tafel, die Complexion auf beliebigem Feldevj
+entgegengeſetzter Farbe ſchlieſsen könne. (Daſs er
+entgegengeſetzte Farbe fordert, kommt daher, weil
+er ohgedachtermaaſsen den Röſſelſprung berhaupt
+afen von geraler Felderanzahl einſchräjj)
+Für die Loſung dieſer Aufgabe erteitert er nun,
+Geerarºge dahin, daſs er, weiu der Springer jf
+mehrere Felder von gleich wenig Ausgägen gehen
+kann, dem Röſſelritter die Wahl unbedingt frey
+läſst. » Mlan ſetze, ſagt er, den Springer jedesmal
+auf dasjenige noch leere Feld, oder willkücj
+eines derjenigen, von welchem oder von welcher
+er die wenigſten Ausgänge auf noch unbeſetzte Fel–
+der hat." Das wäre denn immer noch einfach ge-
+nug» nur leuchtet ſofort ein, daſs, wenn man mit
+der Anwendung dieſer Regel nicht zum Ziele kommt,
+man nicht wiſſen kann, ob man einen Verſtoſs ge-
+gen die Regel begangen habe, oder ob man das Ziel
+darum verfehlte, weil die Tafel nicht ſo beſchaffen
+war», daſs jedes Feld von entgegengeſetzter Farbe
+zum Schluſsfelde taugte. Aber ſehen wir über dieſe
+unmathematifche Unſicherheit der Regel hinweg;
+ragen wir bloſs nach dem Beweis, daſs fie, jee
+Beſchaffenheit der Tafel, und folglich auch ihre
+Tauglichkeit für die Ausführung des Röſſelſprungs
+überhaupt vorausge/čtzt, nothwendig zum Ziele
+führen müſſe. Hr. v. P. demonſtrirt folgendergs–
+ſtalt. -
+„Geſetzt, man habe mechaniſch eine Auflöſung
+verſucht, es fey bey dem nten Zuge nur noch ein
+brauchbares Feld übrig, und von dieſem habe der
+Springer keinen Ausgang mehr, ſo daſs derſelbe mit
+dem (n + 1) ten Zuge geſperrt ſey. Dann iſt doch
+wenigſtens noch ein ſchön beſetztes Feld da, von
+welchem der Springer auf dieſes Feld hätte gezogen
+werden können (weil ſonſt keine Complexion für
+das beſtimmte Anfangsfeld möglich, oder nicht je–
+des Feld entgegengeſetzter Farbe zum letzten Felde
+möglich wäre). (§. 17.) Geſetzt, dieſes Feld fey nie
+dem mten Znge belegt worden; ſo konnte man mit
+dieſem auch auf das (n + 1 )te Feld gehen, und
+dann hätte man von da auf das mit n belegte Feld
+konnmen können, ſtatt daſs man auf das mit (m + 1)
+belegte gegangen iſt. Waren nun von dem (m + 1) ten
+Felde mehr Ausgänge übrig als von dem (n + 1) ten;
+ſo hat man gegen die Regel gefehlt: war aber auch
+von dem (m + 1) ten Felde nur ein Ausgang möglich;
+ſo fühd wieder noch Felder da, von welchen man auf
+das (m+ 1)te Feld hätte kommen können; von wel–
+chen ſomit wieder daſſelbe Dilemma gilt."
+„ Setzt man dieſes Zurückgehen fort, ſo muſs
+man nothwendig auf ein Feld r von der Beſchaf-
+fenheit kommen, daſs das nach der gegebenen Re–
+gel zu wählende (x + 1)te Feld weniger Ausgärgs
+gehabt hätte, als dasjenige, auf welches man wirk–
+lich von ac gegangen iſt: d. . man muſs zu einem
+Felde gelangen, bey welchem man gegen die Regel
+gefehlt hat: denn ſonſt wäre entweder für das ge–
+(ge–
+gen

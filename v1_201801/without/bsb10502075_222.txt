@@ -1,0 +1,123 @@
+-
+mit eFºncinº Verºnºrchen zu finden, ſich dieſe Methoden, von denen di -
+wenn die zugehörigen Ä Quotienten gleich: ohne Ä zu wer Ä Ä Ä Ä
+will aber wenigſtens an einem Beyſpielej nij
+wohl nicht vollſtändig 3. ſondern nur in Beziehung
+auf eine oder einige dieſjerjej » oder
+durch eine einzige Gleichung zwiſchen denſelben, ge-
+geben ſind. Sey z. B. z. eine Function der beiden
+Veränderlichen rund y, und nur das partielle Dif-
+ferential dieſer Function nach x, PAx; oder aber
+nur das nach 5: KAy gegeben; ſo gehört die Fode-
+rung, wo möglich aus dem ällein gegebenen PAx,
+nun auch QAy*); oder umgekehrt aus dem allein ge-
+gebenen QAy nun auch PAx abzuleiten, und ſomit,
+in beiden Fällen, d (2) zu completiren, um daraus
+durch Integration z vollſtändig finden zu können,
+der Theorie der Ä Ä
+an. Dies ſteht hier Beyſpielsweiſe; und man er-
+ſieht aus der gegebenen Erklärung leicht, daſs die In-
+tegration ſolcher Ä Differentialgleichungen
+auf Ausdrücke führen könne, welche unbeſtimmte
+Functionen einer oder mehrerer der betreffenden
+Veränderlichen enthalten; ein Begriff, deſſen Bedeu-
+tung ſich, nach Maaſsgabe des Angeführten, nun
+gleich ergiebt. Linear heiſsen die betreffenden Glei-
+ºhungen, wenn - wie im voranſtehenden Beyſpiele,
+die Quotienten P, Q weder in einander Ä
+noch in einer höhern als der erſten Potenz auftreten.
+- So wie man der Integralrechnung die Differen-
+tialrechnung vorangehen läſst, ſo macht der Vf, iier,
+unter Beziehung auf das 12te und 14te Kapitel und
+mit. Beybehaltung des dort gewieſenen Algorithmus,
+den Anfang mit der Primenbildung ſolcher Ausdrü-
+cke, in denen dergleichen unbeſtimmte Functionen
+(ſie werden von ihm durch Vorſetzung eines P be-
+zeichnet) auftreten; und giebt hiernächſt eine allge-
+meine Methode an, I) die Primitive einer Differen-
+tialgleichung erſten Grades, jeder beliebigen Zahl von
+Veränderlichen, wenn die Derivirten nur unter li-
+nearer Geſtalt auftreten; =-2) aber die Priftuitive ei-
+ner Differentialgleichung erſten Grades, unter nur
+drey Veränderlichen, zu finden, wenn ſie auch höhe-
+rer als inearer Dimenſion iſt. – Im Abriſſe laſſen
+- > :
+- *) Hier ſind rund , als unabhängig von einander zu be-
+trachten, weſshalb Ay und Av ſtehen. Wäre dagegen
+y hinwiederum Fanction von x, oder umgekehrt r Fun-
+ction von y, ſo müſste nach dem Algorithm, den Rec.
+beobachtet, und darüber er ſich in dieſer Recenſion ſchon
+ausgeſprochen hat, im erſtern Falle für Ay, *dy; und
+in andern für Ax, Ydºr ſtehen.
+–
+-AP - - - - - - - - - - a rºs
+-.. sas
+- d . . . . . . . . . .
+- . . . . . . .
+–“. tr - - - :
+hrenbezeigung.
+- S.. Majeſtät, der König von Bayern, hat den K. K.
+Director des Blinden- Inſtituts zu Wien, Hn. Hilhelm
+Klein, für die Ueberſendung ſeines ſehr zweckmäſsi-
+s - - - -
+2 -
+-- s --- - - FT
+– –TT
+T T
+ziehung auf den alten Algorithmus j -
+aus den Primitiven: F(x, y, Ä Ä
+ſº Ä F, Ä Ä Function von y
+» P aber die obige Bedeutung hat, die bej
+Ä s t» e ben Fan
+. (*) + * F (*) +y'-TFG) +z, FG)]=o,
+und f'Gr) + ºf(2) +y“. [f Gy) +2. f. (zj= j
+ableitet. Sey alſo die Primitive - - -
+- x”–y” – z“ = o.“ - - - - -
+Hieraus folgt, wenn y
+von x find; 2xAx– 2udy –2zdz Egºj
+tet man z aber als eine Fiction von ynda, und sº
+ſeinerſeits hinwiederum als eine Funétijjf
+folgt aus der Gleichung: z =f(x + y) , nunmehr
+dz - fa: Ax +fy.*dy. Dieſer Werthobej
+tuirt, giebt: - - -
+axº Tºyºy-az [fºx-Ax +fy.*dy) = o, oder:
+**#- [2y + 2z fy – 22-fx. Ax = o,
+?/+ - --“ -
+aº-Ä sy+as fy -2z.fx = o. Hier iſt offen.
+- :
+---
+- -
+- - / - -
+bar **= Fºº F = y“, 2y= Fy, 22 = Fz, fy die,
+nach y genommene, Prime von z, die der Vf. (man
+ſehe das 12te Kap.) mit z, bezeichnet, und f'x eben
+daher = ''; alſo nach dieſen Subſtitutionen
+Fx –y Fy+ Fz z, J– Fz. z=o.
+Es kann aber, da y eine unbeſtimmte Function von x
+iſt, y“ =o angenommen werden, wodurch die vor-
+Äéen Gleichung in die zwey: --
+Fx – F'z - z“= o- und Fy + Fe.z, = 0,- zerfällt:
+und ganz auf die nämliche Weiſe entſpringen die bei.
+den in Rede ſtehenden Gleichungen, deren ganze Be-
+deutung in alter Bezeichnung nunmehr bekannt ſeyn
+muſs aus der Vorausſetzung p“ = 0. – Mit dieſem
+Kapitel ſchlieſst der theoretiſche Theil; Rec. be-
+merkt nur noch, daſs ſich der Vf, darin häufig auf
+ein anderes, denſelben als Commentar begleitendes,
+Werk von ihm: ,,Calcu des fonctiors" bezieht. Voni
+dieſem Werke ſoll aber, um gegenwärtiger-Recen-
+ſion, keine zu groſse Ausdehnung zu geben, und da-
+durch die Ueberſicht zu erſchweren, in einer eige-
+nen Anzeige ausführlich gehandelt werden.
+(Die Fortſetzung folgt.) . . .
+N A c II R 1 c H T E N.
+). *
+goldene Medaille, 20 Dakaten ſchwer, mit einem
+ſehr gnädigen Handſchreiben durch die König.
+Bayerſche Gefandtſchaft in Wien zuſtellen laſſen.
+". . . . . . . . - - ** " . . . -
+*-*; - sº“, sº
+und z beiderſeits Functionen .
+- - * - - - - - - »
+gen „Lehrbuches zum Unterricht der Finden" eine
+". . . - -

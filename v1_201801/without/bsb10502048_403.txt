@@ -1,0 +1,107 @@
+737 - N um. 93. -
+- ris
+ALLGEMEINE LITERATUR - ZEITUNG
+Mittwochs, den
+I5. April I 8 I 2.
+MATHEMATIK.
+BERLIN, in d. Realſchulbuchh..: Handbuch der Sºtik
+feſter Körper. Mit vorzüglicher Rückſicht auf ihre
+Äjwendung in der Architectur. Aufgeſetzt von
+H. A. Eytelwein u. ſw.
+(Beſchluſs der in Num. 92. abgebrochenen Recenſion.)
+In der 45ſten Figur der ſchon genannten geraden Li-
+nie OÄ A A“, welche von den Richtungslinien der
+drey Kräfte P, P“ und P“ in A, A“ und A“ geſchnit-
+ten wird, denke man ſich ihren Drehungspunkt 0 ge-
+rade nach A“ hin verlegt, daſs alſo auch die beiden
+übrigen Kräfte noch im Ä bleiben, in-
+dem die Kraft P“ durch den Widerſtand, welchen der
+Drehungspunkt leiſten ſoll und muſs, erſetzt wird.
+Sey nun ferner dieſes AA“ A“ in der That ein gerad-
+linger Hebel, daſs alſo A und A“ die wirklichen An-
+griffspunkte der Kraft und Laſt ausmachen. Auch
+jenn man einen oder auch den andern von ihnen in
+andere Puncte ihrer Richtungslinien ſich verlegt denkt,
+wodurch man allemal einen Winkelhºbel erº» z. *
+jan ſich beide in denjenigen Punkt Ehin ver-
+legt denkt, in welchem beide Richtungslinien einan-
+der ſchneiden mögen, wodurch man die ſteife Stange
+(Verge rigide) AE erhält ja ſelbſt auch wenn man
+überdieſs den wahren Angriffspunkt des Widerſtandes
+im Drehungspunkte A', aus ieſem ebenfalls nach E
+hin verlegt, und dort nun wiederum durch die ſchon
+anfangs genannte Kraft P“ ſich erſetzt denkt in jedºm
+Falle müſſen immerfort einerley Gröſsen der Kräfte
+P“ P“ und auch der P“ alſo die richtigen Geſetze ihres
+Gleichgewichtes allerdings ſich ergeben. So bald nun
+aber z. B. durch eine beſtimmte Vergröſserung der
+Kraft die Laſt in Bewegung geſetzt werden ſoll: ſo
+würde man ja durch # Verlegung eines Angriffs-
+punktes eine unwahre Bewegung erhalten! Mögen
+immerhin aus zweyerley Syſtemen der Statik einerley
+Geſetze des Gleichgewichts reſultiren; dasjenige von
+ihnen iſt ſicherlich das beſte und rathſamſte, welches
+dieſe Reſultate durch lauter ſolche Vorſtellungen zu er-
+reichen weiſs, die 1) auch für die wahre j
+des Syſtems in der Mechanik richtig und anſtellig blei-
+ben; und 2) für die Statik ſelbſt können manche gar
+nicht unwichtige Anſichten dadurch verdeckt oder
+verſtellt werden, daſs man durch Verlegung der An-
+griffspunkte auf lauter unwahre Kraftzerlegungen ge-
+rathen muſs. Wenn man z. B. an dem ſchon genann-
+ten geradlinigen Hebel, der in A“ ſeinen Drehungs-
+Ä in A und A“ die wirklichen Angriffspunkte
+er beiden Kräfte P und P“ hat, der wahren Wir-
+A. L. Z. 1812. Erſter Band.
+kungsweiſe der Natur gemäſs (wie aus einem auch in
+dieſer Hinſicht wahren Beweiſe des Kräfteparallelogram-
+mes ſie erhellet) jene beiden Kräfte zerlegt: ſo hat
+man ja ganz andere Zerlegungen, als diejenigen, wel-
+che die Natur befolgen müſste, wenn die beiden Kräfte
+P und P“, oder ſogar auch die den Widerſtand in A“
+erſetzende Kraft P“, ihren wirklichen Angriffspunkt
+in dem Punkte Ehätten! In den wahren Angriffs-
+punkten A und A“ werden die dortigen Kräfte, in- .
+dem ſie gegen die geradlinige Hebelſtange unter den
+Winkeln « und «“ gerichtet ſind, gegen dieſelbe wir-
+ken, ſo viel ſie Ä zu wirken vermögen, das iſt
+= Pfin « und = P“ ſin «“, und eben deshalb müſſen
+ihnen die Nebentriebe Pcoſ« und P“ coſ«“ übrig blei-
+ben. Aus jenen beiden Druckungen, welche den
+Hebel entgegengeſetzt zu drehen ſtreben, entſteht ge-
+gen den Drehungspunkt der Druck = Pfin« + Pfina“,
+und aus den beiden Nebentrieben entſteht im Drehungs-
+Ä der Trieb = Pcoſ « + P“coſ «“. ( Der Vf.
+at die Aufgröſsung der ſämmtlichen Winkel «, «“
+und «“ ſo richtig angelegt, daſs für den geradlinigen
+Hebel die algebraiſche Summirung allerdings allgemein
+richtig ausfällen muſs, daher ich über ihr Bejahtes
+und Verneintes hier nichts zu erinnern habe.) Ganz
+anders würde die wahre Zerlegung der beiden Kräfte
+ausfallen, wenn ſie beide ihren Angriffspunkt in dem
+ſchon genannten E hätten; umd wiederum anders,
+wenn auch der Ort des Widerſtandes aus A“ weg nach
+E hin verlegt, und hier der Widerſtand durch die
+Kraft P“ geleiſtet würde. Nur bey jener eghrem Zer-
+legung der Kräfte wird man auch zu der Betrachtung
+veranlaſst, daſs in dem Drehungspunkte, den beiden
+gegen ihn entſtehenden Drückungen, Pfinz + P“ ſin«“
+und Pcoſ x + P“ coſ«“, allerdings durch den éinzi-
+gen mittleren Gegendruck P“ nach der Richtung A“ E
+widerſtanden wird, falls der phyſiſche Widerhalt des
+Hebels von der Art iſt, daſs er nach dieſer Richtun
+widerſtehen kann; daſs aber, falls dieſer Widerhalt
+nur nach einer dem Pfin « + P“ fin «“ entgegengeſetz-
+ten Richtung zu widerſtehen geeignet wäre, dann
+eine Verſchiebung der Hebelſtange, dem Nebentriebe
+P coſ« + P“ coſ «“ gemäſs, erfolgen würde, wo nicht
+etwa die Friction es zu hindern vermag. Aus dieſem
+Beyſpiele wird man zugleich erſehen, daſs es für den
+Práktiker noch nöthiger als für den bloſsen Theore-
+tiker iſt, bey jedem Lehrſyſteme, das er ſich zu eigen"
+machen will, darauf zu achten, ob auch daſſelbe den
+wahren Wirkungsgang der Natur ihm vor Augen zu
+legen ſuche! Für dieſen Wirkungsgang während ſei-
+mes Studiums der Theorie einen feinen Takt zu ge-
+winnen, auch dahin gehörige richtige Bilder in ſeiner
+(5) A. Ein-

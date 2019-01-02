@@ -1,0 +1,124 @@
+603 EKG ÄNZUNGSBLÄTTER ZUR A. L. Z.
+«
+- für den allgemeinen
+richtig vorträgt, unmittelbar erhellet. Daſs übrigens
+die Doppelbrüche meiſt nur von den unwiſſenden
+Laien gebraucht würden, möchte der Rec. nicht ſa-
+en, höchſtens nur von denen, die bloſs einen Zäh-
+er und zwey Nenner haben wie z. B.; denn die mit
+zwey Zählern und zwey Nennern ſind als ſolche ſchwer-
+lich von einem Laien nach ihrem Werthe zu beurthei-
+len. Bey S. 192, wo der Vf, den Werth ſolcher
+Brüche, wo Zähler und Nenner keinen gemeinſchaft-
+lichen Theiler haben und aus einer Menge Ziffern
+beſtehen, durch Näherung anzugeben lehrt, hätte
+bey der übrigen Vollſtändigkeit wohl auch einiges
+von den continuirlichen Brüchen erwähnt werden
+können. Was der Vf, in der Folge von der Findung
+des allgemeinen Nenners lehrt, hätte ſich noch kür-
+zer ſo faſſen laſſen: Wenn der kleinſte von den vor-
+handenen Nennern im gröſsten nicht aufgeht und er-
+ſterer eine Primzahl iſt, ſo wird der gröſste Nenner
+damit multiplicirt; iſt er aber keine Primzahl, ſo zer-
+fällt man ihn in ſeine aus lauter Primzahlen beſtehen-
+den Factoren und verſucht nun zuerſt mit dem klein-
+ſten Factor die Theilung; kann dieſe nicht geſche-
+hen, ſo multiplicirt man mit demſelben den gröſsten
+Nenner und Ä auf ähnliche Art weiter fort bis
+alle Factoren aufgehen. Auf ſolche Art wird man
+bey , , , , , , , , 5, zur kleinſten Zahl
+enner 252o erhalten. Bey der
+Subtraction der Brüche hat der Vf, als Anhang, auch
+das mit benutzt, was die Rechnung mit entgegen
+geſetzten Gröſsen bey der Subtraction lehrt; übri-
+ens ohne Beweis. § 225 verſpricht der Vf, ſeinen
+Ä zu zeigen, woher es komme, daſs bev ech-
+ten Brüchen der Quotient allemal gröſser ſey, als der
+Dividend und als der Diviſor. – Das letztere kann
+ihm nicht gelingen, da bloſs das erſtere möglich iſt:
+Denn wenn z. B. der Diviſor = # und der Dividend
+= .. , ſo iſt der Quotient = , welches kleiner als
+iſt. Dieſes iſt auch daraus klar, daſs man allemal
+den erhaltenen Quotienten in die Stelle des Diviſors
+fetzen und den vorigen Diviſor nun als Quotienten
+erhalten kann. Wäre alſo der Ouotient das erſtemal
+gröſser geweſen, als der Diviſor, ſo wird er das
+zweytemal kleiner erſcheinen. Der Vf, ſcheint zu
+dieſer Behauptung durch den Satz verleitet worden
+zu ſeyn, daſs bey der Multiplication echter Brüche
+das Product kleiner iſt, als jeder von beiden Facto-
+ren. Damit hat es aber eine ganz andere Bewandt-
+niſs, und nach dieſer Analogie hätte es heiſsen ſollen:
+der Dividend ſey allemal (bey echten Brüchen) klei
+ner als der Diviſor und als der Quotient. Was der
+Vf, gegen die allgemeine Regel der Bruchdiviſion
+ſagt: – daſs man den Diviſor umkehren und als dann
+die Zahlen ſowohl über = als unter dem Striche
+multipliciren ſolle, – kann der Rec: nicht billigen,
+indem ihm dieſe Regel gerade die beſte, wegen ihrer
+Sicherheit und Allgemeinheit zu feyn ſcheint. Er
+folgt jetzt der Decimalbruchrechnung, wo auch Ta-
+bellen vorkommen in welchen gemeine Brüche deren
+Nenner 2o nicht überſteigen, in Decimalbrüchen aus-
+gedrückt ſind. Der zueeyte Theil trägt zuerſt die
+Proportionsregel, nach directen und indirecten ver.
+hältlºſſen; die Regel de Quinque; die Kettenrege
+die R. multiplex; die Geſellſch. R. nebſt derjej
+und höhern Practik, vor. Bey der Eintheilung der
+Verhältniſſe Ä der Vf. Ä t haben die
+Beywºrter arithmetiſch und geometriſch, weiter kj
+ºe beſondere Bedeutung, ſondern ſind von ihren Er.
+findern willkürlich gewählt worden. – „Dieſes iſt
+nicht der Fall, ſondern ſie haben einen wiſſenſchaft-
+lichen Grund. Denn bey dem arithmetiſchen Verhä-
+ºiſs werden in den beiden Gliedern die verſchiedej
+engen von Einheiten berückſichtigt. Mengen von
+Einheiten gleicher Art bilden eine Zähluj Za.
+len hat es die Arithmetik, als ſolche, zjÄ-
+gegen Ä den geometriſchen Verhältniſſen wird das
+ein Glied mit dem andern unmittelbj verglichen.
+Wenn man alſo bey 2 und 6 daran denkt, dsjj
+vier Einheiten mehr, als in 2 vorhanden ſind, ſo kann
+man wohl dieſe Rückſicht arithmetiſch, ſo wie dieje-
+nige geometriſch nennen, wo man 6 als ein vielfaches
+von 2 anſieht. Es iſt in einem Werke wie das gegen-
+wärtige doch nicht zu entſchuldigen, daſs der Vf.
+gar, nichts von dem Grunde erwähnt, worin bey
+arithm. Proportionen die Summen der äuſserſteñ
+Glieder denen der innern gleich iſt, da derſelbe ſo
+leicht und ſo kurz anzugeben geweſen wäre. Eben
+ſo bey den geometriſchen Proportionen. Er hätte
+auch.bey eben. denſelben, um die Richtigkeit der.
+verſchiedenen Verſetzungen der Glieder zu beſtim-
+In en» Ä können, daſs dabey immer die Gleich-
+heit der Exponenten erfordert werde. Bey der Pro-
+Portiºnsrehung ſind übrigens eine groſse Menge
+einzelner Fälle unterſchieden und jeder iſt in eine
+aufmänniſche Aufgabe eingekleidet, wobey der
+Schüler auch noch manches andere nützliche neben
+bey lernt. Eben daſſelbe gilt auch von den vielen
+angehängten Uebungsbeyſpielen. Sonderbar aber
+kommt es dem Rec. vor, wenn der Vf. im 16ten Ab-
+ſchn. ſagt: »in den neueſten Zeiten fängt man wie-
+der an, die Vorzüge der Regel de tri zu erkennen
+ohne die der Kettenregel zu vergeſſen," – als ob
+nicht beide auf einerley Grunde beruhten! alles
+kommt ja darauf hinaus, daſs ein Exponene gefunden
+werde, mit welchem der Frageſatz (wie ihn die Rech-
+ner nennen) multiplicirt wird. Dieſer kann eine
+ganze Zahl» oder ein Bruch, deſſen Zahlen und Nen-
+mer aus mehrern Factoren zuſammengeſetzt iſt, –
+beſtehen – alles kommt alſo nur darauf an, dieſen
+Exponenten zu finden und ihn, um die Rechnung be-
+quem zu machen, in den kleinſten Ziffern auszudrü-
+cken. – Und in dieſer Rückſicht hätte Regel de
+tri, Quinque, Multiplex u. ſ. w. alle in einer einzigen
+zuſammengefaſst werden können, indem blofs nÄh .
+gewieſen zu werden brauchte, wie die in der Auf.
+gabe enthaltenen Umſtände zur Bildung des Expo-
+nenten zu gebrauchen wären. Bey der Geſellſchafts-
+rechnung hat der Vf. auch moraliſche und politiſche
+- Zwecke berückſichtigt z. B. um vom Einlegen in Lot-
+terien abzuſchrecken. Des Vfs. Abtheilung in eine
+niedere und höhere Practik, gründet ſich darauf,
+daſs

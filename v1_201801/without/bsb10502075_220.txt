@@ -1,0 +1,66 @@
+443 ALLG. LITERATUR - ZEITUNG *
+- 444
+dy , (n – I )y nachſtehenden Worten, die ſich Rec. nicht enthal-
+- Ax +- – - - - ten kann». ganz hieher zu ſetzen, da ſie ei
+- - - - - - - - - - *** - - ine merk-
+n–1 würdige Beziehung zwiſchen der ſogenannj.
+S- +*+("-+1)-+("+2) * ....:: ÄÄÄÄÄÄs
+Ä ZUl Ä gº dieſe Analogie eröff-
+9 - I - » - appeler?" lagt er, analyſe dire-
+=- + m + mx + mx” . . . . . . . . - # # fonctions, la manière äÄ les ## ºf;
++ x +2x . . :: -- -- es Ä Äquºte ºfondée en ºffe
+s es « - que ſur des mit ºdes directes, et qu'elle n'emploie que
+M-1 m – x - des opérations qu'on peut toujours exécuter par les ré-
+= – -- –x + TTFI TT: gles que nous avons expoſées. Mais la manière de re-
+- Äir ee fonctions et de ces équatioas à celles d'oi.
+- alſo: - elle peuvent étre dérivées, et qu'ön peut regarder com-
+(n– 1 )yAx fre leurs primitives, forme une actre partie de l'analyſe
+dy + – des fonction, gº on peut appeler analyſe in ver/e,
+pare qu'elle dépend des mimes méthods et des mines
+- (n – I ) Ax +- mAx _a&º = A règles, mas priſes inverſement, et qui, por cette rai-
+- A 1 –x " ( 1 – 3c )* 2 Jon» me /'appliquent pas toujours avec la méne facilité
+und, nach Anwendung des integrirenden Faktors j, 'analyſe des fonctions, comme de cett es
+- P 6 C &
+,/C" 2Ä, wo die bekannte Bedeutung derjeni- de l'art" tique et de ratgebre, qui ont
+– - pour objet es opérations de la multiplica-
+genzahl hat, deren hyperboliſcher Logarithmus = 1, ?ee' ºn a “º ºiſſan ee - - -
+/C" - ) * (n–T ) Ax /C“ - Aº opération - in verfes de la diviſion et de l'ex-
+62/ -- W. - . dy+ - AC - 6. • tratiºn des ra eine s. Les opérations de la pre-
+AC mière eſpèce ſont toujours poſſibles par les règles con-
+=/LE I ) Ax . z; woraus ſchlieſslich: nues, et donnent toujours des reſultats exacts; celles de
+– :-, « la ſeconde eſpèce, au contraire, ne le ſont que dans cer-
+- - tains cas, au moint rigoureuſement, et dans tous les
+n – I ) Ax m – I ) A % g ment , et dans tote
+6? /(n- ) Ax) - y = / [./C" - ) AxI ) Ax h -, autres , elles ne peuvent donner que des réſultats appro-
+W MX.
+- - - chés."
+folgt, und womit alſo, für jeden Werth von n und Chap. 12. Du diveloppement des fonctions de deux
+m, der geſchloſsne Ausdruck von y in x gegeben iſt. variables. De leurs fonctions dérivées. Natation de
+ces fonctions et conditions auxquelles elles doivent ſatis-
+Chap. 11., O 'on donne, 'équation „primitive faire. Loi générale qui regne entre les termes du déve-
+Ä. ######Ä Ä loppement d'äne fonction de pluſieurs variables, et ceux
+ravis F sº mais ou on ne peut point obe- qi rittent di développement de cestermes eux - nº-
+nir directment es fonctions primitives de chacun des Ä. Entwickelung der Functionen zweyer veränder-
+Ä5 Ä Ä ºÄ. Ä Ä Ä Ä
+primitives: ndlage des von dem Vfinde- läng. Man lege in fxy), erſt dem «allein Yerän-
+ſem Kapitel zur Integration der Differentialglei- derung bey. Dieſe Vojsſetzung giebmit Bºybe-
+chung: 2 haltung der vom Vf, bis dahin beobachteten Nota-
+„– 4+ + Ä ren: f. (*+ 9 . . .
+y [ A + Bx + Cx? + Dx” + Ex* ] - – - - » - ſº º.:::::
+angewendeten Verfahrens, deſſen Detail im Werke = f(x , y) +-res y) + 2 f“(x , v)
+feſt nachgeſehen werden muſs, beſteht darin, y | Hiernächſt ſubſtituire man überall y+- für ºf» und
+jºht unmittelbar auf x, ſondern Beide auf eine bezeichne in der Entwickelung die ºf y be*ºgenen
+dritte Grundgröſse t zu beziehen, dem zufolge, wie Primen, Secunden u.f, w. mit ff.: .., ſo kommt:
+ſchon oben bemerkt worden, an die Stelle von y“, fſ (x + ) + (y+ 0)
+# geſetzt werden muſs; ein Kunſtgriff, deſſen An- = (= , y) + F . f“ (x, y) + ºf * y) -
+- - - - * - O
+wendung z. B. auf die ſo geſtaltete Gleichung: . . ++ . fº(x,y) + io , f'(x,y) + T- f" (x,y) - - - - - -
+z" = Y4+ -ees“, ſogleich die zwey Gleichun- Dieſs reicht hin, um die Bedeutºſ der hier von
+v/ [ A + B. cos u] - - - dem Vf. angeordneten Stricehunge" kenhen zu leh-
+gen: z“ = Y[A + B. cos z ] und ren; und es iſt, was ſeine Terminologie betrifft, nur
+„ = / [ Ä+ Beosul, gewährt. . Anwendung auf noch zu bemerken, Ä auch hier den entweder
+mehrere Exempel aus der ſphäriſchen Trigonometrie bloß oben oder bloß unten mit Strichen bezeichneten
+und Mechanik. Der Vf, ſchlieſst dieſes Kapitel mit Derivürten den Namen von primes, ſecondes u- #
+- - * - -
+ni le méme ſucces. I e n eſ de ces deux partier
+

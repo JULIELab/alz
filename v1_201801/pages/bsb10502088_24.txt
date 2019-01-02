@@ -1,0 +1,121 @@
+459 ALLG. LITERATUR - zEITUNG 46o
+Im-m-+-1 I m-m-+2 I m-n-+5
+- + "+F, C +- IT P.:::::::
+I um -1 * *
+* Fºr-o” und wenn man n+-n“ für m
+11--Il
+r n/ n In'+1 I n --2
+ſetzt: TT = LA–1]+A + B + TT C. - -
+I n+n- nun dem Vf. leich
+* TAT(n–1) N. - Es war nun dem Vf. leicht
+folgenden Satz, den wir hier gleich allgemein aus-
+drücken wollen, zu beweiſen:
+n-+m -
+- N 2. 111 111-1
+= Cm n-+-am-M– 2Cm – In-+2m–2 M
+-- 1.2 ... nT““.
+1Y1-2 +2
++ Cn – 2"+"-M....+m – „C,"+*+* M
+L - - ""
+F„c-Ä, wo die Zeichen cº.ca –
+ſw. Coefficienten bedeuten, deren Werth aus der
+II
+IT-L
+vorhergehenden Reihe beſtimmt wird.
+Hiermit ſtehen mehrere Sätzte über die Theilbarkeit
+der Zahlen in Verbindung, die der Vfin § 11 u. 12
+aufführt, und worunter der Wilſon'ſche Satz über
+die Primzahlen als ein ſpecieller Fall mit vor-
+kommt. –- Nachdem der Vf, noch manche andere
+wichtige Relationen der hier betrachteten Reihen
+untereinander bewieſen hat, zeigt er (§: 22 u.f)
+an ein paar Beyſpielen die Nützlichkeit dieſer B-
+trachtungen. Küler hat (Inſtitut calc. di/.T-II-
+cap. VII. 167–171.) dargethan, daſs die Summe
+der endlichen Reiheap, bp”, cp*, dp*..: zp“ durch
+r --1- «dz 3d?z yd3z öd“z
+I (– dF + TTTTF “d “)
+ausgedrückt werde; wo die Coefficienten «, 6 u-
+ſ. w. von ihm (a. a. O. §. 171) recurrirend beſtimmt
+werden. Er giebt aber auch (ebendaſ. § 172 u. 73)
+independente Ausdrücke dieſer Coefficienten, jedoch
+ohne Beweis. Hr. G. ſtellt aus den vorangegange-
+nen Sätzen dieſer Abhandlung einen bündigen und
+klaren Beweis derſelben Ausdrücke auf, der jedoch,
+wie dieſe Abhandlung überhaupt, nicht wohl eines
+Auszuges fähig iſt. In § 25 u. ff. lehrt endlich der
+Vf. mittelſt der hier betrachteten Reihen zwey in-
+dependente Formeln für die Bernoulli'ſchen Zahlen
+finden, die zwar ſchon bekannt, aber hier auf eine
+neue Art bewieſen ſind.
+III. Ueber die Entwickelung der Potenzen und
+Logarithmen in Reihen. Des Vfs Abſicht iſt hierbe-
+ſonders, die Beweiſe, welche man für dieſe Reihen
+nach der Methode der unbeſtimmten Coefficienten zu
+führen pflegt, zu vervollſtändigen, indem er die be
+ener M Ä. Statt findende Vorausſetzung, daſs
+# die betreffenden Functionen in Reihen ent-
+wickeln laſſen, die nach Potenzen der veränderli-
+chen Grüſse mit ganzen poſitiven Exponenten fort-
+S.pºz =
+von Rothe in mancher
+nung des Kreiſes.
+ſchreiten, bey jedesmaliger Anwendung der Methode
+erſt rechtfertigt. Es iſt ihm dieſs unſers Erachtens
+vollkommen geglückt, und ſein Verfahren ſcheint
+in Betreff der Binomialformel wenigſtens zum Theil
+neu. Sind auch die Beweiſe dieſer Formel, welche
+ſich bloſs auf die Multiplication gründen z. B. der
+inficht wohl vorzuziehen,
+welches der Vf. ſelbſt zugiebt, ſo gehört es doch
+zum Reichthume der Wiſſenſchaft, den jeder eifrige
+Verehrer derſelben zu erhalten, und womöglich zu
+vermehren ſuchen muſs, daſs ſie auf mehr als einem
+Wege zu einer ſo wichtigen und folgereichen Wahr-
+heit führen kann. Rec. hat daher dieſe Abhandlung
+mit nicht geringerem Intereſſe als die vorhergehen-
+den geleſen, enthält ſich aber hier eines weitläufigen
+Auszugs, und bemerkt nur, daſs er ganz dem Vf.
+beyſtimmt, wenn dieſer eine Potenz mit imaginärem
+Exponenten A für nichts anders, als eine abge-
+kürzte Bezeichnung der unendlichen Reihe
+i i(i–1) , ... (- 1)(i-2)
+1+7(A–)++TT-ca–x +–TÄT
+(A–1)3+ ... erklärt. Rec. geht noch einen Schritt
+weiter; er glaubt nämlich die allgemeine Erklärung
+des Begriffs Potenz ſey nach dem jetzigen Zuſtande
+der Wiſſenſchaft ſo zu geben: die n“ Potenz einer
+n (n – I)
+zahl (+b) iſt die Reihe 1+b+Äbb
+I - 2
+n (n– 1)(n–2)
+I -2-3
+beliebige ganze oder gebrochene, poſitive oder nega-
+tive, rationale oder irrationale, ja ſelbſt imaginäre,
+Zahl ſeyn kann. Daſs für alle Reihen dieſer Form
+die Regeln der Multiplication, Diviſion u. ſ. w. gül-
+tig ſind, welche gewöhnlich nur für Potenzen mit
+ganzen Exponenten erwieſen worden, haben Bu//e,
+Rothe u. A. längſt gezeigt. – Bey den Exponential-
+gröſsen leuchtet, wenn der hinomiſche Satz vorher
+allgemein bewieſen iſt, die Möglichkeit der Ent-
+wickelung in Reihen, die nach Potenzen des Ä
+nenten mit ganzen poſitiven Exponenten geordnet
+ſind, von ſelber ein. Hr. G. entwickelt dieſe Rei-
+hen auf die bekannte Art (vergl. Thibauts allgemeine
+Arithmetik. Kap. 10) und giebt nachher mehrere
+Formeln zur bequemen Berechnung der Loga-
+rithmen.
+bbb..., wo ſowohl b als n jede
+IV. Ueber einige Formeln zur leichten Berech-
+Euler lehrt zur leichtern Berech-
+nung der Kreislinie einen Bogen, deſſen Verhältniſs
+zur ganzen Peripherie rational iſt, in zwey oder
+mehrere andere Bögen zerlegen, deren Tangenten
+rational ſind (Comment. Petrop. a. 1737 p. 222 ſqq.
+Introd. in Anal)f inf lib. I. cap. 8 in fine). Die
+hieher gehörigen Formeln hat Klügel (in Hinden-
+burg’s Archiv B. 2. S. 3c8 ff.) nach einer Methode
+entwickelt, die auf Sätzen der unbeſtimmten Ana-
+lytik beruht. Unſer Vf. entwickelt hier dieſelben
+ormeln aber nach einer allgemeinero Methode, #

@@ -1,0 +1,121 @@
+691 ALLG. LITERATUR – ZEITUNG 692
+ten Allgemeinheit, erſcheint folgendergeſtalt am
+leichteſten: Wenn ein gerader oder ſchiefer Kegel
+die Sätze 15–57 enthalten heils die unmittelbare
+Uebertragung der die Kegelfläche betreffenden Sätze
+
+(mit ſeinen Gegenkegel, den wir uns unbeſtimmt auf die einzelnen Schnitte; theils andere Eigenſchaf-
+erweitert denken, gegeben iſt, und man nimmt zwe
+Punkte, P und p, ganz beliebig an, und zieht Ä
+Pzwey gerade Linien, P00 und PRR“, ebenfalls
+beliebig, zieht ferner durch p zwey andere gerade
+Linien, pqq und prr“, fodafs P00 + pyj und
+PRR“ ++ prr“, ſo ſchneidet jede dieſer vier Géraden
+im Allgemeinen die Kegelfläche in zwey Punkten,
+die wir der Ordnung nach mit 0, 0, R, R“, q, q, r
+und r“ bezeichnen. Dieſs nun vorausgeſetzt, ver-
+hält ſich das Rechteck, enthalten unter PO und PO“,
+zu dem Rechteck, enthalten unter pq und pq“, wie
+das Rechteck, enthalten unter PR und PR", zu dem
+Rechteck, enthalten unter pr und pr'. Fallen zwey
+Ä Äf einer der vier Geraden
+mit der Kegelfläche zuſammen in einen einzigen, z. B.
+rund r“ in einen Punkt, den wir mit gbezeichnen
+wollen, ſo tritt in obiger Proportion ein Quadrat an
+die Stelle des entſ Ä Rechtecks, alſo bey
+unſerer Annahme das Quadrat überpg an die Stelle
+des unter pr und prº“ enthaltenen Rechtecks. Der Vf.
+macht von dieſem Satze in ſeiner allgemeinſten Aus-
+ſage in der Folge weiter keinen Gebrauch, (es hätte
+geſchehen können im fünften Buche, wo von den
+ähnlichen Schnitten gehandelt wird) ſondern nimmt
+nur den Fall, wo der zweyte Punkt p in der Ebene
+der beiden durch den erſten Punkt, P, gelegten Ge-
+raden liegt, ſo daſs alſo alle vier Gerade in derſelben
+Ebene ſich befinden. Hier iſt wieder ein untergeord-
+neter Fall der, wo der zweyte Punktp ſich auf einer,
+der durch P gelegten, Geraden befindet, etwa auf
+POO“; alsdann fällt dieſe zuſammen mit der früher
+durch pqq“ bezeichneten Geraden, ſo wie die Punkte
+O und 0 mit den Punkten q und q“; die beiden üb-
+rigen Geraden PRR“ und prr“ bleiben nach wie vor
+parallel, ſind übrigens aber beliebig. Nimmt man
+endlich insbeſondere noch an, die letztgenannten
+Geraden ſeyen Tangenten, ſo daſs die Punkte R und
+R“ in einen Punkt P, die Punkte rund 7“ in einen
+Punktg zuſammenfallen, ſo geht die oben angeführte
+Proportion in folgende über PP: p = PQ. PO: p0.
+p0 und wenn wir die Punkte Pündp ſo auf den
+Tangenten beſtimmen, daſs ſie gleichweit von den
+Berührungen abſtehen, daſs alſo PP =pg, ſo iſt auch
+PO, PO = pQ.p0, woraus ſich dann leicht ergiebt,
+daſs die Mitte von Pp auch die Mitte von O0“ iſt,
+und daſs alſo eine, den Tangenten PP und pg paral-
+lele Gerade, die durch dieſe Mitte geht, auch die
+gerade Linie halbiren wird, welche die beiden Be-
+rührungen und overbindet. Weiter darf Rec, dem
+Vf, in der Entwicklung ſeines Haupttheorems nicht
+folgen, der Leſer wird aber aus den letzten Andeu-
+tungen ſchon einſehen, wie ſich die Lehre von den
+zugeordneten Durchmeſſern ſogleich aus dem Ha-
+Ä Satze ergiebt, und zwar in ihrer gröſs–
+ten Allgemeinheit, ünd als innig verwebt mit der
+Conſtitution der Kegelſchnitte. – Nach Satz 14
+folgt die Erklärung der verſchiedenen Schnitte, und
+ten der Kegelſchnitte, welche auf eine leichte Weiſe
+daraus hergeleitet werden. Als einen groſsen Vor-
+theil der Ham. Methode betrachtet es Rec., daſs die
+Eigenſchaften, welche allen Schnitten zukommen,
+Ä gleich als ſolche darſtellen; daſs man von andern
+leich erkennt, daſs ſie ausſchlieſslich Einer Art von
+§Ä zukommen, oder daſs ſie ſich beziehen auf
+zweyerley Schnitte zugleich auf Hyperbel und El-
+lipſe, oder zugleich auf Hyperbel und Parabel. Als
+Beleg möge Fölgendes dienen. Fermat legte nach
+der Sitte ſeiner Zeit dem engliſchen Geometer Wal-
+lis den Satz zur Beweisführung vor, „daſs, wenn
+man von zwey feſten Punkten auf einer Parabel nach
+einem dritten beliebigen Punkte zwey gerade Linien
+zieht, welche irgend einem Durchmeſſer begegnen,
+die Abſciſſen der Durchſchnittspunkte immer indem-
+ſelben Verhältniſſe ſtehen." Hamilton ſieht aber in
+dieſem Satze die Ausſage einer Eigenſchaft der Ke-
+gelfläche, wobey der Parabel–Durchmeſſer vertre-
+ten wird von jeder beliebigen, einer Kegelſeite pa-
+rallel gezogenen geraden Linie; ſo daſs alſo der Satz,
+indem man von der Kegelfläche wieder zu den
+Schnitten übergeht, auch in Beziehung auf die Py-
+perbel ſeine Anwendung findet, wo für die, der Ke-
+geſeite parallele, geraden Linien, die Afymptoten zu
+ñehmen ſind (Satz 55). Den Schluſs des erſten Bu-
+ches macht der Satz, welcher häufig der Satz des
+Pappus genannt wird, und der die Löſung der be-
+rühmten Aufgabe der Alten, zu vier Geraden Li-
+nien den geometriſchen Ort zu finden, enthält.
+(Satz 56. Züſ)
+Zweytes Buch. 37 Sätze. In dieſem Buche wer-
+den die verſchiedenen Erklärungen von Parameter:
+Leitlinie (Directrix) und Brennpunkte gegeben und
+die ſich hierauf beziehenden Sätze hergeleitet, und
+zwar wiederum, überall wo es Ä iſt, mit
+Hülfe des Haupttheorems. Alsdann wird gezeigt
+(Satz 32–36), wie die verſchiedenen Schnitte in der
+Ebene durch eine ſtetige Bewegung beſchrieben wer-
+den können, wo wir auſser den Beſchreibungen,
+auf welche Rob. Simſon ſeine Lehre von den Kegel-
+ſchnitten aufbaut, auch noch der Beſchreibung der
+Hyperbel durch einen ſchiefen Winkelhaken Ä
+nen. Im letzten Satze des Buches giebt Ham als
+Zugabe die Conſtruction der Leitlinien am Kegel-
+Rec. muſs, eher zur Beurtheilung, des folgende
+Buches übergeht, eines Irrthums in der Ausſage des
+16.Satzes Erwähnung thun. Die zweyte Hälfte de-
+ſelben nämlich, welche die Umkehrung der erſtern
+ſeyn ſoll, iſt in der Ueberſetzung eine bºº Wº
+dérholung; ſtatt „wenn ſie den Winkel halbirt" muſs
+es heiſsen: „ſo halbirt ſie den Winkel.“ –
+Das dritte Buch enthält 13 Sätze, die ſich auf
+Eigenſchaften der Parabel beziehen, welche mit den
+Eigenſchaften der andern Schnitte weniger verwandt
+ſind. Die drey letzten Sätze beziehen ſich auf die
+Qua-

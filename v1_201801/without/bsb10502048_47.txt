@@ -1,0 +1,109 @@
+7R
+Num. Io. 4
+–
+-
+ALLGEMEINE LITERATUR - zEITUNG
+Sonnabends, den
+MATHEMATIK.
+1) PARIs, b. Schöll u. TübiNGEN , b. Cotta: Tables
+hypſométriques, ou tºbles attriliaires pour le calcul
+Ä haters l'aide du baromêtre, d'après la for-
+mule de M. La Place, par Sabbo Oltmanns etc.
+2) GorHA, b. Becker: Tables barometriques – –
+par Bernhard de Lindema: etc.
+3) DüssELDoRF, b. Schreiner: Beſchreibung eines
+einfachen Reiſebarometers – – von S. F. Benzen-
+berg etc.
+4) PARIs u. PETERsBURG, b. Kloſtermann: Tables
+baromètriques portatives – – Par M. Biot etc.
+(Beſchluſs der in No. 9. abgebrochenen Recenſion.)
+4. B Tafeln. Nach dem Titel ſollen ſie die
+Höhen durch eine bloſse Subtraction geben.
+Es hat Rec. leid gethan, daſs Biot etwas auf den Tit-
+tel ſetzte, was nicht genau wahr iſt, und das ſchon
+in ſich eine Unmöglichkeit enthält. Er bringt zuerſt
+den obern Barometerſtand auf die Temperatur des“
+untern, indem er ihn mit 1 + ri-s multiplicirt. (Die
+Ausdehnung des Queckſilbers iſt nämlich zurz für
+1° Cent.) Dann ſucht er beide Barometerſtände in
+den Tafeln, die in der ſenkrechten Colonne, Millime-
+ter, und in der horizontalen Dec. Grade enthalten,
+welche die Summe der beiden Lufttemp. von unten
+ind oben ſind. Durch ein doppeltes Einſchalten fin-
+elet man die Zehntel von den Graden und den Millime-
+ter, und ſind dieſe gefunden, dann Grade, die ſimple
+Subtraction, die auf dem Titel ſteht. Man hat nun
+die Höhe in Meter, ohne Verbeſſerung der Schwere
+für die Breite; dieſe findet man durch die Multipli-
+cation mit einem Bruche (z. B. z 8 für 25°), den
+man in einem am Ende beygefügten "räfelcen uj
+dem Titel Correction pour latitude findet. – Biots
+Tafeln haben Rec. beym Rechnen am unbequemſten
+von allen Ä , beſonders wegen des Dividi-
+reºs und Multiplicirens. – Hierzu kommt noch,
+daſs ſie nur bis 500 Millimeter gehen. Will man hö-
+here Berge mit ihnen berechnen, ſo erfordert dieſes
+wieder eine beſondere Manipulation, die zu erklä-
+ren hier zu weitläuftig Ä – Biot hat bey
+den Tafeln die Formel von La Place zum Grunde
+elegt - und die ſpecifiſchen Gewichte , Luft und
+ueckſ, ſo wie er ſie bey. ſeinen Abwägungen ge-
+fünden, welche daſſelbe ſöllen gegeben häbejjas
+Rammond gefunden hat. Hierin liegt ein Wider-
+fpruch mit Daubuiſſon, deſſen Grund Rec. nicht hat
+auffinden können, und den auch Biot nicht weiter er-
+A. L. Z. 1812. Erſter Band,
+v
+II. Januar 18 I 2.
+örtert hat, obſchon er der Berichtserſtatter über
+Daubuiſſon's Ab andlung war, in welcher dieſer das
+Gegentheil verſichert.
+In der Einleitung gibet Biot auf 48 Seiten die
+Demonſtration der Formel, – und erklärt die Ab-
+änderungen, die er gemacht, um ſie in Tafelform zu
+bringen. Als Urſache, warum er noch nach den
+Hrn. Oltmanns und Lindenau ſich entſchloſſen, Baro-
+metertafeln herauszugeben, führt er an, daſs dieſe
+wegen ihres Formats und Volumens wenig bequem
+wären auf Reiſen bey ſich zu führen, – und da die
+meiſten franzöſiſchen Barometer jetzt metriſches Maſs
+hätten, ſo müſſe man noch obendrein immer reduci-
+ren, wenn man dieſe Tafeln, die Zoll und Linien
+halten, gebrauchen wolle.
+Nachdem wir eine kurze Darſtellung von dem,
+Inhalte dieſer vier Barometertafeln gegeben, und unſer
+Urtheil über ihre gröſsere oder geringere Bequem-
+lichkeit bey der Rechnung geäuſsert haben: ſo müſ-
+ſen wir noch ihre Genauigkeit bey Höhen prüfen,
+die zugleich trigonometriſch gemeſſen ſind. Wir
+wollen hierzu die Beobachtungen auf dem Monte
+Gregorio von Daubuiſſon wählen , theils wegen der
+Genauigkeit der trigonom. Meſſung, theils wegen
+der günſtigen und der Sorgfalt, mit der
+dieſe Beobachtungen angeſtellt wurden. Zu denn
+erhalten wir hier das Mittel aus Io Beobachtungen,
+und wir dürfen mit ziemlicher Wahrſcheinlichkeit
+annehmen, daſs die Fehler der Beobachtungen ſich
+gegen einander gehoben haben; und daſs die Abwei-
+chung vom Mittel uns den Fehler der Tafeln giebt.
+Da jede einzelne Barometermeſſung nur höchſtens
+bis auf 2 s genau iſt, ſo iſt dieſes um ſo nothwendi-
+ger, da die Fehler aller unſerer Tafeln kleiner als
+Äg ſind. – Folgendes ſind die Beobachtungen von
+Üäubuiſſon, in Millimeter und Decimalgraden
+Wärme des Wärme der
+Barometer Queckſilbers Luft
+1809. Unten Oben Unten Oben Unten Fjº
+October Millim. Millim. Cent. G. Cent. G. Cent. G. Cent.G.
+I 739,oo 6oI» 15 21,77 9»4 18.»5O 7,3
+4 747,45 606,23 1 6,9 4,1 15,45 2,2
+7 744,35 604,97 18,80 8,7 18,6o 3,7
+8 744,25 6o4,37 18»80 5,9 x 8,4o 323
+17 742,2o 6o5»95 19,85 o»5 19,95 929_
+18 745,3o 6o7,05 1935 o I 1,1 19,45 929
+2O 747,3o 608,35 16,6o Io,6 I 6,2o 8» 1
+25 753,67 615,01 18,4o 12,9 17»99 12,5
+3o 744»75 Ä I # 3,9 13,60 #
+41,40 600,63 326o 24 13»3O I»
+K. 3 7 - Höhe
+

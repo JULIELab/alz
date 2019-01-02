@@ -1,0 +1,117 @@
+1363 s * -
+I364
+„ Gewande aufgeführt, und dieſe , in ſo eigener Autori-
+„tät, als ſein Eigenthum angegeben, daſs es in den Ge-
+„ſchichtsbüchern der Wiſſenſchaften vielleicht ein Bey-
+„ſpiel von Dreiſtigkeit ohne ſeines Gleichen iſt“. Es
+ſcheint nun vor allen Dingen nöthig, zu bemerken,
+daſs H. und F. bey ihren Unterſuchungen verſchiedene
+Abſichten gehabt, und zu deren Ausführung einen ver-
+ſchiedenen Gang genorhmen haben.
+"-
+H ging von dem Polynomiſchen Lehrſatz aus, (in
+ſeiner Schrift de Infinitinomii Dignitatibus, 1778, ver-
+mehrt 1779), und wurde dabey auf die allgemeine ana-
+lytiſche Wichtigkeit der insbeſondere bey jenem Satze
+möglich gefundenen combinatoriſchen IHülfsmittel auf-
+merkſam gemacht. Dieſs veranlaſste ihn, ſich mit der
+Vervollkommiung der Combinations-Lehre, als einer ei-
+genen Wiſſenſchaft, zu beſchäftigen: und ſeine zweyte
+Häupt-Schrft von 1781 erhält daher Novi Sufernotis
+permutationum, combination um etc. primas lineas. Unter
+einer Menge von Anwendungen auf die Analyſis, wel-
+che in dieſem Werk aufgeführt ſind. kommt auch die
+Reverſion der Reihen vor. Für H. war alſo der Poly-
+nomiſche Lehrfatz Anlaſs, die Bearbeitung der Com-
+binations-Lehre IIakpr- Zweck, die Reverſion der Reihen
+eine von mehrern Anwendungen. F. hingegen ging von
+der Auflöſung der Gleichungen durch Reihen aus: die-
+ſes Problem, welches in einem gewiſſen Sinn mit der
+- Reverſion der Reihen einerley iſt, war und blieb ſein
+Haupt-Geſichtspunkt, und deſſen Auflöſung ſeine Haupt-
+Abſicht. Durch eine natürliche, auch längſt bekannte,
+Verbindung führte ihn dieſes Problem auf den Polynomi-
+ſchen Lehrſatz, und dieſer auf combinatoriſche Opera-
+tionen, welche ebenfalls ſeit geraumer Zeit, obgleich
+weniger häufig, bey dieſem Satz gebraucht waren. Es
+erhellt alſo, daſs bey dem gegenwärtigen Streit drey
+Dinge zu unterſcheiden ſind:
+1) die Combinations-Lehre an und für ſich ; 2) der
+Polunomiſche Lehrſatz ; 3) die Reverſion der Reihen.
+Dazu kommt ein vierter Punkt, welcher mit den drey
+vorhergehenden in Verbindung ſteht, doch aber der
+Deutlichkeit wegen abgeſondert zu betrachten iſt, näm-
+lich 4) die Charakteriſtik , oder der Gebrauch bequemer
+Zeichen. Es ſolen nun über dieſe vier Punkte nach
+der Ordnung die nöthigen Anmerkungen gemacht wer-
+den , mit Beziehung auf die hieher gehörigen Stellen aus
+Fiſchers Briefen. Eigentlich betreffen dieſe Briefe,
+wie man finden wird, nur den dritten Punkt.
+I. Hindenburgs Abſicht ging hauptſächlich, wie er
+ſich ſelbſt ausdrückt, auf eine neue Begründung der
+Combinations - Lehre, als einer ſelbſtändigen mit der
+Analyſis eng verbundenen Grundwiſſenſchaft. Fiſcher
+lehnt eine ſolche Abſicht ausdrücklich von ſich ab. ( 1 )
+An mich ſchreibt er d. 14. Dec. 1792. hierüber be-
+ſtimmt folgendes: „ Ich habe in meinem Buche die
+„ Lehre von den Combinationen vorausgeſetzt, und das
+„, mit Vorbedacht – – –. So viel ich von der Lehre
+von Combinationen brauchte, ſteht in jedem gutea Com-
+„pendium“. Die Richtigkeit dieſer Äuſserung läſst ſich
+auch genauer zeigen, wenn man das, was F. von die-
+ſer Lehre für ſeinen Haupt-Zweck anwendet, im ein-
+zelnen durchgeht. Es gehört hieher vornamlich.
+a) die Formel für die Menge der Verſetzungen von «
+Dingen deren jedes = a, von 8 Dingen – b, von y
+Dingen = c, welche Formel ſchon Moivre eine gewöhn-
+liche Regel (a rule commonly sive ) nennt.
+b). Die Zerfällung der Zahlen oder die Zuſammen-
+ſetzung derſelben aus einer beſtimmten Menge kleinerer
+Zahlen (Combinationen zu vorgeſchriebenen Summen).
+Bekanntlich wurde dieſe Zertheilung der Zahlen auch
+ſchon vor Hindenburg von mehrern Schriftſtellern z. B.
+Eulern in Betrachtung gezogen, obgleich dieſelben kei-
+ne beſtimmte Regeln, wie dieſe Operation wirklich am
+kürzeſten und ſicherſten anzuſtellen ſey, gegebeu haben.
+Dieſe Unvolftändigkeit findet ſich auch in Fiſchers
+- Theorie der Dimenſions-Zeichen, welcher aber in ſei-
+ner Vertheidigungs-Schritt die Wichtigkeit der von
+Hindenburg gegebenen Vorſchriftea nicht verkennt.
+Wenn jedoch Töpfer (S. 18) fragt, woher Fiſcher die
+I
+Zerfällung für F genommen habe, und darin einen
+- Grund für die Beſchuldigung des Plagiats findet, ſo läſst
+ſich dech wohl Fn. zutrauen, daſs er auch ohne Kennt-
+niſs allgemeiner Regeln einen ſolchen Fall, ſo gut wie
+andere Schriftſteller, aufzulöſen im Stand geweſen ſey.
+Was c) die Combinationen ohne beſtimmte Summen
+(Combinationes ſimpliciter) und d) die Variationen zu
+beſtimmten Summen betrifft, ſo macht F. in ſeinem
+Werk davon nur beyläufig Gebrauch, und allerdings
+iſt ſein Vortrag darin unvollſtändig.
+II. Von dem Polynomiſchen Lehrſatz gebraucht Fi-
+ſcher auch nur dasjenige, was ſchon aus andern Schrif-
+ten vor Hudenburg, z. B. von Moivre, bekannt war:
+die neue und bequeme Bezeichnungs-Art abgerechnet.
+Die Richtigkeit dieſer Behauptung läſst ſich für die bei-
+den Fälle des Lehrſatzes, da der Expouent eine ganze
+oder eine gebrochene Zahl iſt, leicht zeigen. Die Re-
+duction des zweyten Fals auf den erſteu, indem man
+das Polynomium als ein Bitomium betrachtet, war längſt
+üblich, und wird von Moivre tranitus facilimus ge-
+nannt. Daſs aber für ein ganzes m, um hiebey die
+Dimenſios-Zeichen zu gebrauchen,
+T 2 % 3 * « N m
+( x + 1 x + 1 x + 1 x + . . . O “E
+II! m-1 nn 2 m3
+Mxm -- MAmt + Mix" * -- Mixmt 3 -- etc.
+- - - - fey,
+( 1 ) In ſeiner Schrift über den Urſprung der Theorie der Dimenſionzeichen Vorrede p. XI. „ Wo, in meinem gan-
+„zen Buche, iſt auch nur die dunkelſte Spur, daſs
+auch nur die Idee einer combieatoriſchen Analytik dann als
+„ in meinem Kopf geweſen ? und H. Töpfer ſah ihre Tneorie, ihren ganzen Inbegriff darin. Nichts als ein
+„The derſelben iſt in meinem Buche, und jeder unbefangene Leſer deſſelber muſs wahrnehmen, daſs ich ganz
+„ und gar nicht von combiratoriſchen Ideen bey meiner Arb-ta sgegangen war.“ E. d.p 34
+„ Die Tieorie der
+„ Dim-nſons Zeichen iſt alſo in der That cur ein Theil der conbinatoriſchen Analytik, der aber in ſo beſtimm-
+„te Gränzen eingeſchloſſen iſt, daſs er ſehr wohl als ein für ſich beſtehendes Ganze angeſehen werden kann.“

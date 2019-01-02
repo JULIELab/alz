@@ -1,0 +1,108 @@
+627)
+628
+ALLG. LITERATUR – ZEITUNG
+von da über 63, 62 ... ... auf 37 gehen, und in bei-
+den Fällen iſt die Forderung erfüllt, der Rö//e/prung
+iſt ausgeführt. -
+In dieſem noch ſehr unmathematiſchen Zuſtande
+fand Euler die Sache, als er ſeine Abhandlung dar-
+über ſchrieb, die in den Mémoires de l'Acad. de Ber-
+lin Tom. XY. année 1759 abgedruckt worden iſt:
+Zwar ſcheint es nicht, daſs er die Bahn des Drago-
+nerhauptmanns gekannt habe, die damals vielleicht
+noch nicht bekannt, vielleicht gar noch nicht gefun-
+den war; aber er fand eine ſehr ähnliche, (§ 6- der
+Abhandl.) und ſuchte die ganze Frage unter den
+Geſichtspunkt der Analyſis zu ſtellen, um eine ma-
+thematiſche Regel der Auflöſung zu finden. In ſo-
+fern man von ſolch einer Regel verlangt, daſs ſie
+denjenigen, der noch gar keinen Röſſelſprung kennt,
+lehren ſolle, mit mathematiſcher Sicherheit einen zu
+finden; gelang ihm das zwar nicht; aber er brachte
+doch die Sache feinem analytiſchen Ziele um dre
+Schritte näher. Einmal erweiterte er den Begriff
+des Röſſelſprungs, indem er letzteren aufgeſchach-
+ten Quadrattafeln von weniger als 64 Feldern und
+ſelbſt auf Tafeln von anderer Figur ausführte, z. B-
+1o 7
+12TsT 2 T9
+3 | 8 TT
+PH
+Demnächſt fand er, nach Anleitung einer Idee, von
+der er § 5. ſagt, daſs Mr. Bertrand de Genève fie
+ihm fournirt habe, eine vollkommen mathematiſche
+Methode, jede gegebene Springerbahn auf verſchie-
+dene Weiſe zu permutiren. Und aus dieſer endlich
+leitete er eine, wenn ſchon in mathematiſcher Hin-
+ficht minder vollkommene, Regel ab, nach welcher
+Springerbahnen, die aus Verſehen des Röſſelritters
+unvollendet geblieben ſind, vollendet, d. h. die un-
+berührt gebliebenen Felder durch eine oder mehrere
+Permutationen der unvollendeten Bahn nach und
+nach in dieſelbe hinein gezogen werden können.
+Der Hauptſatz, auf welchem jene Permutations-
+(oder wie er fagt: Transformations-) Methode
+ruht, iſt ſehr einfach. Die gegebene Bahn fey durch
+Numeration dargeſtellt, wie oben. Von 1 kann der
+Springer unmittelbar auf 54, gehen- „Folglich taugt
+das Feld 53 zum Anfangsfelde einer Transformation:
+denn man kann von 53 über 52, 51 .. . - bis auf 1,
+von 1 auf 54, und von da über 55, 56 bis auf 64 ge-
+hen. Aus demſelben Grunde taugen die Felder 39,
+11, 63, 57 zu Anfangsfeldern anderer Transforma-
+tionen: denn jedes trägt eine Zahl, die um r gerin-
+ger iſt, als die eines Feldes, welches von 1 nur um
+einen Zug entfernt iſt. Im Allgemeinen, jedes Feld
+einer gegebenen Bahn taugt dazu, auf welches man
+gekommen iſt unmittelbar vor der Betretung eines
+Ausgangsfeldes von Nr. 1; denn man kann von dem-
+ſelben, rückwärts zählend, bis auf 1, und von 1
+vorwärts zählend, bis auf das letzte Feld der gege-
+benen kommen. Da man nun jede Springerbahn
+umkehren, d. h. vom letzten Felde auf das erſte ge-
+hen kann; ſo gilt auch der Satz umgekehrt: es taugt
+zum Anfangsfelde einer Transformation jedes Feli,
+auf welches man von irgend einem Ausgange des
+Schluſsfeldes unmittelbar gegangen iſt. Man darf
+von demſelben nur, vorwärts zählend, bis auf das
+Schluſsfeld (der gegebenen Bahn), von da auf den
+Ausgang, und von dieſem, rückwärts zählend, bis
+auf Nr. 1- gehen. Die Allgemeingültigkeit dieſer
+Transformations-Methode wird anfchaulich an der
+obigen Darſtellung der Springerbahn durch eine ge-
+brochene Linie. Man abſtrahire ganz davon, daſs
+die Bahn, mit Euler zu reden, rentrante en elle
+méme iſt. Man ziehe aber vom 3ten Felde der 7ten
+Horizontalreihe eine gerade Linie auf einen Aus-
+gang dieſes Feldes, z. B. auf das 5te der 6ten Ho–
+riz.– Reihe, und löfche dagegen eine von den Linien
+weg, die von dieſem letztgenannten Felde auslaufen.
+Immer hat man wieder einen gezeichneten Röſſel-
+ſprung vor ſich, von verändertem Anfange und zum
+Theil veränderten Gange. Oder noch anſchaulicher
+vielleicht:
+Es ſey dieſe Figur eine Reihe von aneinanderge-
+legten Stückchen einer thönernen Tabackspfeife. Die
+Enden dieſer Bahn (oder Brücke wenn man lieber
+will) find a und b. Nimmt man das Stück cd her-
+aus und bringt es in die Lage ca; ſo hat man eine
+andere Brücke, deren Enden d und ö ſind.
+Da nun die Anzahl dieſer möglichen Transfor-
+mationen einer gegebenen Bahn von der Anzahl der
+Ausgänge ihrer Entdfelder (des Anf und Schluſsfel-
+des) abhangt; ſo ſieht man leicht, daſs ſie, ſueceſſiv,
+in's Unüberſehliche fich vermehren laſſen, und daſs
+durch Verlegung der Endfelder unvollendet geblie-
+bener Bahnen auch die unbefetzt gebliebenen Felder
+nach und nach in die Transformation gezogen wer-
+den können, vorausgeſetzt, daſs auf der gegebenen
+Tafel eine vollendete Bahn möglich ſey. an VeIT-
+legt immer die Endfelder dergeſtalt, daſs eins von
+ihnen einen unbeſetzten bis auf einen Springerzug
+nahe kommt, und ziehet nun dieſes in die Bahn-
+Freylich kann das nicht mit rein geometriſcher Si–
+cherheit geſchehen, man muſs Yerſüche mächen,
+und darin liegt der Mangel der Euleriſchen Permuta-
+tions–
+-
+

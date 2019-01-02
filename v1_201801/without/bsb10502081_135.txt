@@ -1,0 +1,120 @@
+26 - C s -
+- Num. 33. MÄRZ 182 o. 262
++
+- zufo
+derſelben, eine Verringerung des Werthes der zu-
+gehörigen Primitiven nach ſich ziehe. Wir wollen
+jene, in den Werthen von y, y, y“ . . (das zwi-
+ſchen beſtimmte Grenzen eingeſchloſsne x conſtant
+nehmend), vorgehende Veränderung, ſie habe nun
+einen poſitiven öder negativen Charakter mit w be-
+zeichnen, ſo ſoll man alſo, nach dem Vorgetrage-
+nen, für jeglichen Werth von « haben:
+Je («, y» y', y“ - .) > ſf (X, y + & » y'+«,
+y“ + w“ . ..) -
+Entwickelt man die Seite rechts nach dem in unſe-
+Ter Ä der Théorie p. gelehrten Verfahren,
+nd ſubtrahirt hiernächſt auf beiden Seiten den
+Ä links, ſo konnmt:
+• S./-
+º (y) +- ao' . fº (y“) + w“ f// (y“) « -
+GV f“ (y“) + « . «' f“ (y, y“) . .;
+2
+alſo muſs hier (unter beſtändiger Vorausſetzung,
+daſs ſich's ums Maximum handele: die Anwendung
+aufs Minimum iſt leicht gemacht) die Seite rechts
+einen negativen Werth haben. Sie wird ihn eben
+haben, nachdem ihn die Summe der, mit den er-
+ſten Dimenſionen von w behafteten Glieder hat, weil
+fich, wie von Lagrange in der Theorie, und von
+uns in der Anzeige derſelben dargethan worden, wº
+immer ſo wählen läſst, daſs jene erſtere Summe
+röſser ausfällt als die Summe aller folgenden Glie-
+er. Allein jene Summe ändert offenbar das Vor-
+zeichen, nachdem man dem aº einen Ä oder
+negativen Charakter beylegt, und da der Ausdruck
+dagegen für jeden Werth von w gelten ſoll, ſo muſs
+dieſe Summe der mit den erſten Dimenſionen von aº
+behafteten Glieder ſchlechterdings = o ſeyn, weil
+fie ſonſt, durch Annahme eines poſitiven Charak-
+ters, wegen Uebergewichts ihres Werthes, der
+anzen Seite rechts einen poſitiven Charakter auf-
+Ä und dadurch die Grundbedingung, der
+ge die Summe dieſer ganzen Seite kleiner als
+Null, d. h. negativ ſeyn muſs, vernichten würde.
+Alſo iſt die Bedingung bey den Fragen dieſer Natur
+durch die Gleichung:
+9 =fs G)+ - f. (y) + . .
+Ä wovon ſich die Analogie mit dem, in
+er einfachen Lehre vom Gröſsten und Kleinſten
+Vorgetragenen gleich überſehen läſst. Dieſe Glei-
+chung (l'équation générale du maacimum ou mini-
+mum"), welche Ä alſo, wie man auch bey nur
+geringem Nachdenken bald findet, gleichfaſs auf
+das Minimum bezieht, giebt nun die Relation zwi-
+ſchen x und y an, welche, als Bedingung des Gröſs-
+ten oder Kleinſten ſtatt finden muſs: in der Geome-
+trie iſt es die Gleichung der Curven, welche die Ei-
+enſchaft des Gröſsten oder Kleinſten befitzt. Es iſt
+erſichtlich, daſs für den Fall des Maximi, den wir
+fortfahren wollen herauszuheben, die Summe der
+refirenden Glieder negativ feyn muſs; aus welcher
+nothwendigen Ä, Fortſetzung eines
+ähnlichen Raiſonnements die Bedingungen zur Be-
+ſtimmung der bezüglichen Conſtanten herflieſsen.
+– Damit ſchmeicheln wir uns, für aufmerkſame
+Leſer die Grundidee von Lagranges Vortrag voll-
+kommen deutlich gemacht zu haben: das Detail des
+allerdings nicht leichten Gegenſtandes muſs freylich
+im Buche ſelbſt nachgeſehen werden; und wir wie-
+derholen, auf dieſe Veranlaſſung nur unſere ſchon
+früher gethane Auffoderung zur ſofortigen Verglei-
+chung des bezüglichen 12ten und 13ten Kapitels der
+zuveyten Abtheilung der Théorie des fonctions, an
+welche ſich die zum Schluſſe der vorliegenden
+22ſten , Leçon" und des Werkes beygebrachten,
+mehrfachen Exempel hiernächſt als der beſte Com-
+mentar anſchlieſsen. Es bleibt uns nach dieſer ftren-
+gen und ſorgfältigen Analyſe aller einzelnen Theile
+des Werkes nur wenig über das Ganze deſſelben zu
+ſagen übrig. Wir mögen, auf den Grund einer
+langen Prüfung, von unſerm, in der Anzeige der
+Theorie ausgeſprochenen, und, wie wir hoffen,
+hinlänglich motivirten Urtheile über den abſoluten
+Werth der Darſtellungen unſeres Vfs. nichts zurück-
+nehmen: wiederholen aber, aus vollem Herzen und
+mit groſser Dankbarkeit für vielfache, uns ſelbſt
+gewördene Belehrung, daſs der relative Werth bei-
+der in Rede ſtehenden, und ein untrennbares Gan-
+zes bildenden Werke gar nicht hoch genug ange-
+fchlagen werden kann, und daſs ſie billig in der
+Bibliothek keines Mathematikers fehlen ſollten.
+Freylich ſind, trotz den verkehrten Anſichten des
+Infiniteſimal-Calculus, die wichtigſten Entdeckum-
+Ä in der höhern Analyſis Ä worden, ehe
+agrange das Gebäude derſelben weniger erweitert
+als neu begründet hat: dieſs beweiſt aber nur den
+geheimen und wunderbaren Inſtinct des menſchli-
+chen Verſtandes die Wahrheit zu ahnden, und fich
+ihrer ſelbſt mit unvollkommen ausgebildeten Inſtru-
+menten zu bemächtigen. Rec. hat mehr als ge-
+wöhnlich mit den Zweifeln gerungen, die ſich aus
+dem ſchneidenden Gegenſatze zwiſchen unleugbarer
+Zuverläſſigkeit der gefundenen Reſultate und der
+evident falſchen Vorausſetzungen ergeben, mitteif
+deren der Infiniteſimal - Calculus zu denfelben ge-
+langt: und er hatte endlich ſeine Theorie der Feh-
+leraufhebung gegeben, als ihm Lagranges Anſichten
+einen noch weitern Geſichtskreis zu eröffnen fchie-
+nen. Die Bemühungen um eine erſchöpfende Theo
+rie der höhern Anäyſs - und wir wiederhelei
+damit nur, was wir am Schluffe unſerer Anzeige
+-- - -
+der Théorie des fonctions aus inniger Ueberzeugung
+vorgetragen haben – dürfen indeſs mit dieſem
+Werke nicht als geſchloffen betrachtet werden: die
+Gründe für dieſe unſere Meinung ſind an angefüh: -
+ten Orte mit hinreichender Ausführlichkeit entwi-
+ckelt, und wir können uns begnügen, dahin z!
+verweiſen.
+C, E-

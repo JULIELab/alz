@@ -1,0 +1,123 @@
+755
+756
+ALLG. LITERATUR - ZEITUNG
+jeder dieſer Abſchnitte iſt in Kapitel getheilt, wel-
+che nach einer beſondern Numerfolge fortgehen.
+P. I. Ch. 1. Développement en ſérie d'une fonction
+d'une variable, lorsqu'on attribue un accroſſment
+(changement en quanteté) a cette variable. Formation
+ſucceſſive des termee de la ſérie. Wenn man in der
+Differenz F(x + i) – Fr = iP, in P ſelbſt alles
+von iBehaftete unterdrückt, und den ſo gebildeten
+Theil mit p, den Reſt aber mit iQ bezeichnet; ein
+gleiehes Verfahren auf Q anwendet und ſo fort-
+fährt: ſo löſt ſich obige Differenz in die Reihe
+pi + gi* + ri* ... ... auf, in welcher, wie der Vf. ſehr
+einfach und ſchön beweiſt, weder negative noch
+fractionnäre Exponenten von i vorkommen können.
+Schon hier, deucht den Rec., hätten die Grundzüge
+der oben angedeuteten - allgemeinen Theorie gezo-
+gen werden müſſen. Man denke ſich die, irgend ei-
+nem iP entſprechende, geometriſche Figur, mit der
+Frage, Ä Veränderung die Herabſetzung von
+iP auf ip in der geometriſchen Geſtalt hervorbrin-
+gen müſſe? Sollte es wirklich kein allgemeines Cri-
+terium des, dem beobachteten analytiſchen Verfah-
+ren erſchöpfend gegenüberſtehenden geometriſchen
+Verfahrens geben? Hier glaubt Rec. den wahren
+Zielpunkt einer Theorie der höheren Analyſis ſu-
+chen zu müſſen.
+Ch. 2. Fonctions derivées, leur algorithme. Dieſes
+Kap. enthält einen, Hn. L: eigenthümlichen, ſehr einfa-
+chen Beweis des Taylor'ſchen Lehrſatzes, deſſen Vor-
+züge vor dem ſonſt angewendeten Beweiſe des Vfs. ei-
+nige Seiten ſpäter (K. 6. S. 55) ſelbſt in das hellſte Licht
+- - - dy d*y f
+ſetzt. Die Differential-Quotienten #-, ÄÄ u. f. w.
+(denn ſo, und nicht # hätte L. ſchreiben müſſen,
+weil Ax irn alten Syſteme genau dem entſpricht, was
+er mit i bezeichnet; und keine Darſtellung der Dif-
+ferential- Rechnung ohne Beziehung auf die Diffe-
+renz der Grundgröſse zuläſſig iſt) werden hier un-
+ter den Zeichen y“, y“ u. ſ. w. dargeſtellt. Gewiſs
+werden die meiſten Leſer, bey dieſer Veranlaſſung,
+in den Wunſch des Rec. einſtimmen, daſs es dem
+Vf. hätte gefällig ſeyn mögen, die alte Notation bey-
+zubehalten; welchés bey einigen Modificationen des
+Vortrags vielleicht ausführlich geweſen wäre. In
+denjenigen einzelnen Fällen, von denen Beyſpiele
+vorkommen werden, wo das rechnende Verfahren
+untrennbar an den neuen Algorithmus gebunden iſt,
+hätte wenigſtens die urſprüngliche Gleichung in der
+alten Notation gegeben, und hiernächſt gezeigt wer-
+den follen, wie die ſogenannten Derivirten ans den
+Differential-Gleichungen durch Diviſion mit Ax
+entſpringen. Dieſer neue Algorithmus wird den al-
+ten gewiſs ſo wenig verdrängen, als die Deeimal-
+Eintheilung des Limbus deſſen Sexageſimal- Einthei-
+lung, des entſchiedenen Vorzugs beider Neuerungen
+ungeachtet. Es giebt ſo gut in den Wiſſenſchaften,
+als im bürgerlichen Leben Gewohnheiten, welche
+man reſpectiren muſs. -
+"- ---
+ſimples conſidérations algébriques.
+. . 3- Fºnctions dérivées des différentes fonctions
+primitives. Wie verwickelt die Geſtalt einer Fuj
+ction immer ſeyn mag, ſo läſst ſie ſich doch ajf-
+eine der vier Elementarformen: fx = xm, fx = a*,
+fº = log. x und fx = ſin oder cos x, bringen. Der
+Vf, verbreitet ſich über die Primen-Bildüng dieſer
+vier elementaren Primitiven mit einer anajtiſchen
+Gründlichkeit, die Nichts zu wünſchen übrig läſst.
+Iſt aber einmal die Art beſtimmt, wo aus einj Prº-
+mitiven die zugehörige Prime abzuleiten ſteht, ſo be-
+darf es nur der Anwendung des nämlichen Verfah-
+rens auf dieſe Prime, um aus ihr hinwiederum die
+Secunde u. ſ. w. zu finden. Die höchſt einleuchten-
+de Weiſe, auf welche dieſs in dem Syſteme von L.
+erhellt, betrachtet Rec. als einen der ſchönſten Vor-
+züge deſſelben. Was aber die Primen- Bildung be-
+trifft, ſo hält er dafür, daſs es eine, wenigſtens
+ſinnlich - anſchaulichere, Weiſe zu deren Darſtellung
+gebe; er will dieſs, um den Raum dieſer Blätter
+nicht, zu überſchreiten, an einem einzigen Beyſpiele
+ausführen. Man erweiſt, wie es durch Induction be-
+reits in einer akademiſchen Diſſertation: „Unterſu-
+chungen und Entdeckungen in der höheren Analyſis-
+Halle, Gebauer 1816," geſchehen iſt, ſehr leicht
+allgemein, daſs wenn y und x Functionen des zuge-
+hörigen Bogens s ſind, dy und da durch die Öa-
+theten eines rechtwinklichten Triangels dargeſtellt
+werden, deſſen Hypothenufe das zugehörige, in tan-
+gentieller Richtung, geradlinicht ausgeſpännte, As
+ausmacht. Man erhält auf dieſe vÄ beym Kreiſe
+zwey ähnliche Triangel, deren einen der Ä mit,
+denn Sinus und Coſinüs, der andere aber As mit den
+Differentialen dieſer beiden primitiven Functionen
+von s bildet: und die bloſse Vergleichung dieſer bei-
+den ähnlichen Triangel giebt auf der Stelle *
+r: cos = As : d sin, und
+r: sin = As: – d cos.
+Auf eine ganz ähnliche Weiſe läſst ſich das Geſetz
+der Primen-Bildung einer Zahl als Function des zu-
+gehörigen Logarithmen, und eines Logarithmen als
+Function der zugehörigen Zahl, durch geometriſche
+Conſtruction finden, und Rec. kann dieſes Verfah-
+ren, namentlich beym Unterrichte, als ein Hülfs-
+mittel zur Verdeutlichung und zur Verſinnlichung,
+nicht genug empfehlen.
+Ch. 4. Digreſſion ſur la manière de déduire les f-
+ries 2 qui expriment les exponentielles, les finus etc. de
+- Der Vf, nennt die-
+ſes Kapitel ſelbſt eine, Digreſſion," weil es mit den
+Ä der von ihm, in dem Zegenwärtigen
+Werke, entwickelten Theorie eigentlich nicht zu
+thun hat. Es enthält eine ſcharfſinnige, keines Aus-
+zuges fähige , Anleitung, die genannten Reihen, zu
+deren Darſtellung Halley und Euler des Vorwandes
+unendlicher Kleinheit bedürften, aus rein algebrai-
+ſchen Bedingungen herzuziehen. Auf dieſe Weiſe
+findet L. z. B. die bekannte Reihe: )3
+logy =y – I – (y – I)? + (y– I)? . . . .
+Rec. Ä der Fºº Gj. hkeit dieſer Ent-
+wickelung volle Gerechtigkeit widerfahren; Ä

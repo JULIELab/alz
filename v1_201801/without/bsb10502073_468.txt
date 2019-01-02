@@ -1,0 +1,124 @@
+923
+ERGÄNZUNGSBLÄTTER zu R A. L. z. -
+gröſse, weil ſie ſich aus ſich ſelbſt allein zuſammenſe-
+tzen läſst, folglich es beſonders möglich macht, das
+Unbekannte, eben ſo wie das Bekannte, zur Con-
+ſtruction eines Satzes anzuwenden, da Reſultat, Vor-
+der- und Zwiſchenſätze, alle von einerley Art ſind,
+während die erſtere, jedesmal ſchon aus den Vorſtel-
+lungen der Zahl und Geſtalt zuſammengeſetzt, weni-
+ger geſchickt iſt, in das Reſultat vorzugreifen oder
+von dem Unbekannten zum Bekannten, mittelſt der
+Vergleichung verſchiedenartiger Zwiſchenfätze, zu-
+rück zu gehen. Im Calcul ſelbſt laſſen ſich nun fol-
+gende Abtheilungen machen: Erſtlich entſteht, wenn
+man nur unmittelbar auf den beſtimmten Werth des
+Reſultates ſieht, die ſogenannte Ziffernrechnung,
+bey welcher für jeden verſchiedenen Werth der Zahl-
+gröſse eine beſondere Operation nöthig iſt. Zwey-
+tens kann man fich, um Ä deren Opera-
+tionen, auch bey verſchiedenen Werthen der Zahl-
+gröſsen, dieſelben ſind, oder einerley Form haben,
+zuſammen zu faſſen und die Wiederholung zu erſpa-
+ren, allgemeiner Zeichen ſtatt der Ziffern bedienen,
+wozu man gewöhnlich die Buchſtaben wählt. Hier-
+aus entſteht die allgemeine Arithmetik, , oder die
+Gröſsenrechnung. Sie gewährt den Vortheil, daſs
+nach Belieben auch unbekannte Gröſsen, gleich den
+bekannten, mit in Rechnung gebracht werden kön-
+nen. Vermöge dieſes Umſtandes zerfällt aber jene
+Rechnung noch in drey neue Theile. Schlieſst man
+nämlich mit Fleiſs dié unbekannte Gröſse von der
+Operation aus, indem man ſie in das Reſulºººº
+verweifet, ſo entſteht die Buchſtaben- oder reºgºr
+Zeichenrechnung. Rechnet man hingegº Ät
+der allgemeinen Zeichen, mit den unbekannten wie
+mit dej bejnten Gröſsen: ſo entſteht die 4gebra,
+die man Gleichungs- oder Recht ºg mit unbekann-
+een Größen nennen könnte. Dritten kann man
+Zahgröſsen noch beſonders als veränderlich betrach-
+ten, indem man ihnen bey einer und derſelben Rech-
+nungsoperation verſchiedene Ä Werthe nach
+einajder beylegt; und die verſchiedenen Abhängig-
+keiten der Veränderungen und der ſich in ihnenbil-
+denden Gröſsen find es, welche die Rechnung mit
+veränderlichen Gröſsen, als einen eigenthümlichen
+Theil des Calculs, conſtituiren. Die hier abfgeſtell-
+ten Rechnungen ſind in Abſicht der Principien und
+eigenthümlichen Behandlung der Zahlgröſsen, nicht
+Ä von einander auf das beſtimmteſte unterſchie-
+den, ſondern ſie ſind auch in Hinficht auf die Princi-
+pien in ſich ſelbſt und auf die Weiſe abgeſchloſſen,
+daſs immer nur die früher genannte auf die folgen-
+de, nicht dieſe auf jene, Einfluſs hat. Der Vf. ent-
+wickelt nun auf ähnliche Art auch einen theoretiſchen
+und einen angewandten Theil der Arithmetik, einen
+theoretiſchen und einen angewandten der Buchſta-
+benrechnung und Algebra, und endlich noch einen
+theoretiſchen und angewandten der Rechnung mit
+veränderlichen Gröſsen. Auf ſolche Art wäre alſo
+dieſer letztern Rechnung ihre Stelle in Umfange der
+Mathematik beſtimmt, und ihr Zweck iſt ungefähr
+derſelbe, wie bey der Differential., Integral- und
+- -
+924
+Variationsrechnung, die man nach -
+Functionentheorie Ä könnte. ſº Ä
+weiter der Vf. von der Entſtehung und Ä
+chen Bedeutung der Rechnung mit vej L-
+Gröſsen und von dem Plan für den Vortrag Ä
+Die Bezeichnung, welche dieſer Calcul Ä
+kann nur durch Buchſtaben geſchehen, weil die V )
+änderlichkeit von Gröſsen in der Fähigkeit liegt Ä
+ºbige W erthe zwiſchen beſtimmten oder Än E-
+ten Grenzen anzunehmen. Es iſt aber noch ein Ä
+ſonderes Mittel erfoderlich, um die vÄ
+keit einer Gröſse von ihrer Werthallgemeinheit Ä
+der Bezeichnung zu unterſcheiden. if ſagt der Vf
+die Gröſse x eine ſolche, die ſchon anſij jeden be
+lebigen - beſtimmten Werth erhalten kaj, j
+veränderlich, ſo nehme man noch dj zÄ k
+und verbinde es durch-+ oder – mit x, j
+alsdann ſowohl die Allgemeinheit als die Veränder-
+lichkeit des Werthes von x bezeichnet werdej
+und es drückt x +k den Begriff der Verändej
+keit aus. Bezeichnet man eine aus der veräj-
+chen Gröſse A zuſammengeſetzt, durch fx, ſo läſst
+fich erſtlich jeder Werth derſelben allgemein von je-
+dem Werthe von x, von dem veränderten Werte
+f. (x +k), abſondern; ſobald aber dieſes geſchehen
+iſt» nimmt der Ausdruck der veränderte Gröſsen
+ohne Ausnahme, was auch x, k und fbedeuten je
+g"» - die Geſtalt: f (x-+k) = fx + kf“x
++ kx + k*f“ x . . . +k "f (") x an, wo
+f*, f“ x . . . f ° x Zuſammenſetzungen aus x
+und den übrigen Gröſsen in fx bedeuten, ohne al-
+lesk. Bedeutet z. B. fx den von einem bewegten
+Körper in der Zeit x durchlaufenen Raum, ſo be-
+deutet zugleicher Zeit der Coefficient zur 1ſten Po-
+tenz von k, die Geſchwindigkeit des Körpers, am
+Ende der Zeit x, und der Coefficient der 2ten Po-
+tenz von k, die beſchleunigende Kraft für dieſen
+Zeitpunct u. ſ. w., wie ſolches auch noch durch ein
+paar andere Beyſpiele erläutert wird. Was für Unbe-
+quemlichkeiten, die Idee des Unendlichen bey die-
+ſem Calcul herbey geführt hat, ſetzt der Vf, um-
+ſtändlich auseinander und glaubt, daſs die Wiſſen-
+ſchaft hier noch eine offenbare Schwäche verrath 2.
+Aus den beygebrachten Bemerkungen ergiebt ſich,
+daſs die Rechnung mit veränderlichen Gröſsen bloſs
+algebraiſche Begriffe erfodere, uud daher von der
+Algebra einen weſentlichen Theil ausmache. Es
+zerfällt alſo, nach des Vf. Plan, die R. mit veränd.
+Gr. in die Rechnung mit den geſammten Verände-
+rungen zuſammengeſetzter Gröſsen, welches die
+Differenzenrechnung iſt, und die ſich gleichſam
+noch in ihrem Entſtehen befindet, – und in die
+Rechnung mit den Coefficienten der verſchiedenen
+Potenzen der unabhängig ſich verändernden Gröſsen,
+innerhalb der Veränderungen zuſammengeſetzter Grö-
+ſsen, die mit letztern in beſtimmter Abhängigkeit
+ſtehen, welches die Differential-, Ä und
+Variationsrechnung ausmacht, auf welche es hier
+vorzüglich ankommt. Alle Beyſpiele, die Ä
+- CIl»

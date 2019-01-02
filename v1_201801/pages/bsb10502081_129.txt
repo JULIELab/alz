@@ -1,0 +1,110 @@
+A49
+259
+- - 52 --- - - - - . .
+T -
+kannten Gleichung für den Kreis z. B., a*
+V.
+ALL GE M E IN EN LI
+März
+E R GAN z U N Gs B LAT T E r.
+ZUR .
+T ER A
+T UR -
+z E 1 T U N G
+1 82 O-
+MATHEMATIx.
+PAR1s, b. Courcier: Legons ſur le Calcul desJan-
+ctions. Par J. L. Lagrange etc.
+(Fortſetzung der im vorigen Stück abgebrochenen Recenſion 9
+Z ehnte Vorleſung. Des équations dérivées et de
+leur uſage pour la transformation des fon-
+ceions. Analyſe des Sections angulaires. Der Be-
+griff der „ quations dérivées" iſt in dem 7ten Ka-
+itel der Theorie und unſerer Anzeige deſſelben
+vollſtändig entwickelt, daher wir jetzt nicht darauf
+zurückzukommen brauchen. In dem gegenwärti-
+gen Commentar jenes Kapitels lehrt der die An-
+wendung der derivirten Gleichungen auf die Ver-
+wandlung der Functionen an Beyſpielen keunen,
+und leitet auf dieſem Wege, durch eine eben ſo ein-
+fache als. elegante Analyſis, die beiden bekannten
+Formeln - --
+ex v= + e – x V -
+COS X -
+- 2 .
+. ex V-F – e –x V-F
+- sinx = 2 -
+her, die er als Grundlage zur Darſtellung der be-
+kannteſten, zuſammengeſetzteren goniometriſchen
+Formeln benutzt. Dieſe goniometriſche Digreſſion
+wird in der 11ten Vorleſung fortgeſetzt, und erhält
+noch einen beſondern Werth durch eingeſtreuete
+hiſtoriſche Notizen, welche die Ä und
+Ausbildung dieſer Formeln betreffen. In der einzi-
+en Anführung des Vfs.: „J'ai rapporté ici ces dif-
+érentes formules, parceque je ne connois auoun
+ºuvrage, oi elles ſe erouvent réunies können wir
+ihrn Ä widerſprechen: Klügels (freylich ſpäter
+als die erſte Aufl. der Leçons) Ä ehes
+Wörterbuch enthält, unter dem Art. Goniometrie,
+eine ſehr verſtändige Zuſammenſtellung derſelben
+Formeln, - Die zwölfte Vorleſung gebt die all-
+gemeine Theorie der abgeleiteten Gleichungen und
+der Conſtanten. Iſt eine Gleichung zwiſchen zwey
+Veränderlichen, deren eine als Grundgröſse, die ande-
+re aber als Function jener erſten auftritt, gegeben, ſo
+beſteht, mit Beziehung auf jene Grundgröſse, auch
+Gleichheit zwiſchen den Derivirten. Aus der be-
+*=r”,
+erhält man ,,mit Beziehung auf x als Grundgröſse,
+4Ergänz. Bl, zur A. L. Z. i82o.
+K
+- - - 2.
+2 x Ax -- 2 yd o, d. i. x: y = dy. – Ax;
+ein Ä ### man, Behufs eTj.
+ſcheinlichkeit, nach der, in Nürnbergers Entde-
+ckungen in der höhern Analyſis einer von uns ſchon
+citirten akademiſchen Diſſertation enthaltenen An-
+weiſung, geometriſch conſtruiren mag. Welche
+Gröſse zur Grundgröſse genommen wird, iſt dabey
+gleichgültig; und wir haben das obige Beyſpiel vor-
+Ä deswegen gewählt, weil es dieſs augen-
+blicklich zeigt, indem man gleichzeitig
+y-
+x : y = Ay: – dx .
+hat. – Aus dem Angeführten folgt, daſs eine Ver-
+bindung zwiſchen Primitiven und Derivirten gleich-
+mäſsig ſtatt hat;, und ein Beyſpiel wird am beſten
+zeigen, wie durch eine ſolche Verbindung die Con-
+ſtanten zu eliminiren ſind. Aus y + ax + b = o
+folgt y“ + a = 0 (x zur Grundgröſse genommen);
+und, durch Subſtitution des Werthes von a aus der
+letztern in die erſtere, die „équation dérivée du
+premier ordre"y –.xy -- b=o, wovon dieſe
+die Primitive mit der willkürlichen Conſtante a iſt:
+es erhellt zugleich, daſs man ſo viel Conſtanten eli-
+miniren kann, als man derivirte Gleichungen hat,
+und daſs zu jeglicher Primitiven immer eine Diffe-
+"rentialgleichung gefunden werden kann, die ſo viel
+Conſtanten weniger enthält, als die Potenz des
+höchſten Differentials Einheiten zählt. Damit iſt
+die Aufgabe, die abgeleitete. Gleichung jeglicher
+Primitiven zu finden, in ihrer ganzen Allge-
+meinheit gelöſt, und der Vf. beſchäftigt ſich hier-
+nächſt mit der Unterſuchung des umgekehrten Falls,
+als deren Reſultat ſich zeigt, daſs, wenn man eine
+abgeleitete Gleichung irgend eines Grades hat, und
+nur eine entſprechende Gleichung zwiſchen den näm-
+lichen Veränderlichen, mit einer dem höchſten In-
+dex gleichen Anzahl von Conſtanten findet, letztere
+die zugehörige Primitive in der gröſstmöglichen
+Allgemeinheit ſey. Die natürlichſte Art aber, die
+Primitive einer ſölchen abgeleiteten Gleichung jedes
+beliebigen Grades zu finden, beſteht augenfällig
+darin, Letzterer durch irgend eine analytiſche Trans-
+formation die Geſtalt einer genauen Abgeleiteten zu
+eben, wo nächſt der Ausführung der Integration
+offenbar Nichts weiter im Wege ſteht. Wie nun
+eine ſolche Umformung in allen Fällen zu bewirken
+ſey, zeigt der Vf. im 13ten Abſchnitte durch die
+* (I) Theorie

@@ -1,0 +1,120 @@
+275 ERGÄNZUNGSBLÄTTER ZUR A. L. Z. 276
+turbationscalculnothwendig iſt, den Radius Vector
+eines Planeten und deſſen wahre Anomalie in Rei-
+hen darzuſtellen, die nach den Potenzen der Excen-
+tricität und nach den Vielfachen des Winkels der
+mittlern Anomalie fortſchreiten; ſo iſt die Formi-
+rung dieſer Reihen eigentlich die Hauptſache, auf
+welche es, das Problem im Sinne der neuern Aſtro-
+nomie aufgefaſst, hier ankommt. Die einzige wirk-
+lich mathematiſche Methode für die Loſung der
+Aufgabe gab, wie der Vf. anerkennt, La Place in
+der Mécan. céle/te, T.I. No. 21 und 22, worüber
+die gegenwärtige Abhandlung des Vfs. einen vor-
+trefflichen Commentar liefert. La Place hat indeſs
+die Rechnung nicht ganz ausgeführt, auch die da-
+bey angewandte Theorie der Functionen (des Tay-
+loiſchen Theorems) aus einem allgemeinern Ge-
+ſichtspuncte, als für dieſen Zweck gerade nöthig
+war, betrachtet; der Vf. giebt dagegen, neben dem,
+daſs ſeine Darſtellung manches Neue und Eigen-
+thimliche hat, eine völlſtändige Entwickelung die-
+ſer Theorie. Als Reſultat ſeines Calculs findet der
+Vf, nicht nur eine Formel für die excentriſche Ano-
+malie, aus der ſich die wahre bis zur zwölften Po-
+tenz der Excentricität beſtimmen läſst, ſondern,
+was ein grºſser und ſehr weſentlicher Vorzug ſei-
+nºr Darſtellungsart iſt, er giebt auch zugleich eine
+allgemeine Formel, durch welche jedes willkürlich
+angenommene Glied der wahren Anomalie aus der
+ganzen Reihe heraus, unmittelbar und unabhängi
+Von den übrigen Gliedern, ſich berechnen läſst. Ä
+der Zuſatz einer ſolchen allgemeinen Formel ge-
+Währt eine directe und vollſtändige Auflöſung des
+Problem's, und dient auch Ä dazu, je-
+des iſolirte Glied im Nothfalle zu prüfen; nur ſo
+läſst ſich auch das allgemeine Geſetz aller Glieder
+überſehen, was bey den gewöhnlichen Methoden
+keineswegs der Fall iſt. Des Vfs. Ausdruck für die
+excentriſche Anomalie ſtimmt mit dem Orianiſchen
+in Delambres Aſtronomie, T. 11. S. 52, überein,
+wenn ein Druckfehler bey Delambre verbeſſert wird:
+der Totalco ëfficient von V** Sin. 2 u. ſollte nämlich
+im Nenner des Bruchs, deſſen Zähler 67" iſt, 2°
+haben ſtatt 2*. Dieſer Fehler iſt indeſs unter den
+Eraten angezeigt - aber nicht ein anderer, den der
+Vj Örianiſchen Formel für den Radius ve-
+etor (bey Delambre S. 51) entdeckt hat; der Zäh-
+ler des Céfficienen, von V* muſs dort 5 heiſsen
+ſtatt 53. 8) Beobachtungen auf der K. K. Stern-
+warte in Wien m - 1816 von Triesnecker und Bürg.
+Unter dieſen Beobachtungen findet ſich auch die
+Monds- und Sonnenfinſterniſs vom 9. Jun. und 19.
+Nov. 1816. Oppoſitionen der Ceres, Pallas, Vé-
+ſta, des Jupiter, Saturn und Uranus, und Eintritt
+des Winterſolſtitium. 9) Ueber die Verbeſſerung
+des Mittagsfernrohrs, von Prof. Littrow in Ofen
+Dieſen ſo oft ſchon bearbeiteten Gegenſtand behan-
+delt der Vf. aus einem bisher unbeachtet gebliebe-
+nen Geſichtspuncte; ſtatt aus beobachteten Recta-
+ſcenſionen die Lage des Inſtruments, w e es ge-
+wöhnlich iſt, gegen den Horizont zu beſtimmen,
+beſtimmt er deſſen Lage gegen den Aequator, eine
+Ebene, welche ſich hier um natürlichſten darzubie-
+ten ſcheint. Die Formeln werden auf dieſe Art
+weit einfacher, und damit in der Anwendung
+brauchbarer. Anfänglich nimmt der Vf., um die
+Darſtellung zu vereinfachen, bloſs an, das Fern-
+rohr beſchreibe einen gröſsten Kreis, der weder
+im Meridian liegt, noch auf den Aequator und Ho-
+rizont ſenkrecht iſt; er ſucht nun, mit Hülfe zweyer
+beobachteter Sterne, zwey unbekannte Gröſsen,
+wovon die eine D die Declination des Puncts, in
+welshem beide Ebenen, die des Mittagsrohrs und
+des Meridians, einander ſchneiden, und B die Nei-
+gung dieſer beiden Ebenen anzeigt. Man erhält da-
+mit ſehr fimplificirte Formeln; es ſey nämlich iür
+den einen Stern d = Declination, P= Rectaſcen-
+ſion in Zeit, p = Sternzeit ſeines Durchganges
+durch die Ebene des Mittagsrohrs, und P = a ;
+dieſelben Gröſsen für einen zweyten Stern ſeyen 3
+und «. So iſt
+Sin. « Tang. d – Sin. a Tang- &
+Tang. D = Sin. ( « – a)
+und S - -
+Tang. B = in. (a–a)
+(cos. «Tang d– cos. a Tang. d) cos. D
+Nicht minder einfache Ausdrücke findet der Vf. für
+die Löſung der umgekehrten Auſgabe: VVeºn B und
+D, oder die Lage des Rohrs bekannt iſt, den Stun-
+denwinkel a zu beſtimmen. Um die Aufgabe in-
+deſs vollſtändig aufzulöſen, nimmt der Vf. (da die
+Lage einer Ebene nur durch drey Puncte beſtimmt
+wird) noch ferner an, daſs das Rohr keinen gröſs-
+ten, ſondern einen auf irgend eine Art gegen Ae-
+quator und Meridian geneigten kleinern Kreis be-
+ſchreibe: auch für Ä s Problem noch mehr
+eneraliſirenden Fall giebt der Vf., indem er die
+ge eines Sternis Ä ſeinem Durchgange durch
+das Rohr gegen den Mittelpunct der Erde durch
+drey ſenkrechte Coordinaten beſtimmt, die erfo-
+Ä Correctionsformeln. Aus ſeinen Formeln
+für die Ebene des Aequator's leitet der Vf. noch auf
+eine leichte Art die gewöhnlichen für die Horizont-
+ebene ab, und giebt auſserdem für die erlteren theils
+einige bequeme Näherungen, theils Differentialaus-
+drücke, nach welchen ſich die fr die Zeitbeſtim-
+mung vortheilhafteſten Umſtände beurtheilen laſſen.«
+1o) Beyträge zur Verbeſſerung der neueſten Son-
+nentafeln, und Zenitdiſtanzen einiger nördlichen
+Sterne, mit dem dreyfäſsigen Reichenbachſchen
+Kreiſe der Sternwarte zu Ofen gemeffen.» von Lie-
+erow. Eine Anzahl von mehr als 2co Greenwicher
+Beobachtungen, die bey der Vergleichung mit von
+Zachs neuen Sºnnentaféln noch beträchtliche Feh-
+ler gaben, veranlaſsten den Vf., die Bedingungs-
+gleichungen aufzuſuchen, um ieſe Fehler, ſo weit
+es möglich wäre, wegzuſchaffen; es gelang ihm
+auch in der That nach dieſer Methode (die über-
+haupt für ſtufenweiſe Verbeſſerung unſerer aſtro-
+S - - - - - - u0ml-

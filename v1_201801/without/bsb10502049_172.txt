@@ -1,0 +1,119 @@
+307 ALLG. LITERATUR - ZEITUNG 308
+einem Modelle angeſtellt. Nach ſeiner Bemerkun
+fällt die nachtheiligſte Stelle für das Auflegen der Laſt
+bey ſolchen Bogen in die Mitte zwiſchen dem Schei-
+tel und eine der Widerlagen. Ein Bohlenbogen, deſ-
+fen Bogenlinie 5 rheil. Zolle zur Höhe und 53,125
+Zolle zum Krümmungshalbmeſſer hatte, trug bis zum
+Brechen 2,85 Mal ſoviel als ein gerader Balken von
+denſelben Abmeſſungen. Ein Bohlenbogen, deſſen
+Bogenlinie 8 Zolle (Calenberger) zur Höhe und 298,57
+Ä zum Krümmungshalbmeſſer hatte, trug bis zum
+Brechen 2,922 Mal ſo viel als ein gerader Balken von
+denſelben Abmeſſungen. Bey einer Bogenhöhe von
+2,75 Zoll und Kr. Än. von 25 Zoll war die Ver-
+hältniſszahl 2,543. Dieſe Verhältniſszahlen beziehen
+ſich aber auf eine beſtimmte Gröſse der Winkels, wel-
+chen die Sehne der halben Bogenlinie mit der Sehne
+der ganzen macht, und es kommt nun darauf an, die
+Abhängigkeit der Feſtigkeit von dieſem Winkel, den
+man den Erhebungswinkel nennen kann, wenigſtens
+ſo genau zu beſtimmen, daſs man in allen Fällen der
+Anwendung damit zufrieden ſeyn kann. Wenn ein
+Bohlenbogen von der Breite H, Dicke B und Länge L
+bey einem Erhebungswinkel « von einem in ſeiner
+Mitte aufgelegten Gewicht Q zerbricht, und nun die
+ähnlichen Beſtimmungsſtücke bey einem andern Boh-
+lenbogen mit h, b, l, G und X bezeichnet werden,
+ſo ſetzt der Verfaſſer ohne weitere Deduction Q: X
+BH2 bh - ſ QL b/ 2
+F – « : - ſind alſo X= –Ä–.. - ſind, und
+L fin« P BH. * ſin « - l (D,
+nennt nun =”– wofür er 7 ſchreibt, den Coäf-
+BH? ..fin ox
+# der reſpectiven Feſtigkeit. Dann ſetzt er (S. 32.)
+inzu, für d= I müſſe mit den Zahlen, welche für
+gerade Balken gelten, einerley ſeyn. Der Vf, hat zu
+Ä unterlaſſen, daſs Dallemal eine Anzahl von
+Graden bezeichnen ſolle. Man ſieht aber gleich ein,
+daſs die Proportion Q: X= . ſin « : . fin P gar
+keinen Grund hat, und gleich bey der einfachſten An-
+wendung ihre Unanwendbarkeit vor Augen legt. Setzt
+an nämlich p = o, ſo erhält man den Fall jür einen
+orizontal liegenden geraden Balken, und die obige
+Proportion gäbe für dieſen Fall X=o, welches offen-
+bar falſch iſt. Der Vf. fcheint daher, bloſs um für ge-
+dachten Fall nicht X= o zu erhalten, den geraden
+Balken als einen Bogenbalken anzuſehen, für welchen
+p = 1° wäre. Er hätte aber aus gleichen Grunde
+auch p = °, d = " u. ſ. w. zum Grunde legen kön-
+nen, und jede andere Vorausſetzung hätte einen ganz
+anderen Werth für 7 gegeben. Eben ſo iſt auch klar,
+daſs für P = 2° nicht X doppelt ſo groſs werden kann,
+als für p = 1°, weil die Erfahrung geradezu wider-
+ſprechen würde. Die Gleichung X=7. # fin - hat
+daher durchaus keinen Gebrauch, und ſo auch die 5te,
+6te und 7te Tabelle mit ihren Folgerungen und allen
+darnach angeſtellten Vergleichungen in Bezug auf wirk-
+lich erbauete Brücken. Dennoch wiederholt der Vf.
+S. 47., daſs die Tragbarkeit eines einfachen gekrümm-
+ten Balkens genau mit dem Sind zunehme, und fü
+hinzu, daſs Hr. Späth hiervon in ſeiner Statik der
+Brücken S. 56 einen auffallenden Beweis gebe. Rec.
+findet aber dieſen Beweis ſo wenig bey Hn. Späth (der
+jenen Satz auch gar nicht angenommen hat), als in
+dem, was der Vf, davon ſagt. Auſserdem können
+aber auch Beobachtungen bey einem Stabe auf keine
+Weiſe auf Brücken an Ä werden. Daſs übri-
+gens die Fahrbahn auch oberhalb der Bohlenbogen an-
+ebracht werden kann, iſt leicht einzuſehen, und der
+f.theilt hierzu Zeichnungen und Bemerkungen mit,
+Ä er (S. 57.) erinnert, daſs Hr. v. Wiebeking meh-
+rere Jahre ſpäter als er auf den Gedanken gekommen
+ſey, Diagonalbogen bey Brücken anzuwenden. Die
+Fährbahn erhält # ihin weder eine Beſchüttung von
+Grand, noch ein Sfeinpflaſter, ſondern eine doppelte
+Dielenbedeckung. Alle einzelnen Theile einer ſol-
+chen Brücke werden nach ihren Abmeſſungen, kubi-
+ſchem Gehalte und Gewichte angegeben. Auf dieſe
+Angaben wird die Berechnung des Brückendrucks an
+ihren verſchiedenen Stellen mäch Eitelwein gegründet,
+und hiernächſt weiter unterſucht, welchen Druck die
+angeſtemmten Strebhölzer auszuhalten vermögen. So
+kommt der Vf, auf den Druck, den die Bohlenbogen
+noch auszuhalten haben, wozu dann noch das Gewicht
+dieſer Bogen ſelbſt und die Wagenlaſt addirt wird.
+Er findet auf dieſe Weiſe, daſje Bohlenbogen bey
+der von ihm angegebenen Brücke, mit Inbegriff ihrer
+eigenen und der Wagenlaſt weniger zu tragen haben,
+als ſie mit hinlänglicher Sicherheit tragen können.
+Endlich detaillirt Ä Vf, die geſammten Koſten einer
+ſolchen Brücke. Hiernächſt folgen wieder Bemer-
+kungen über das Tragvermögen einfacher und über
+einander liegender Ä auch der Wiebeking-
+ſchen ſogenannten Curven. Die beſte Art, dem ein-
+fachen Bohlenbogen eine groſse Tragbarkeit zu ver-
+ſchaffen, beſtehe in der Zuſammenordnung, zweyer
+einfachen Bohlenbogen über einander, mittelſt. Hän-
+falen, welche Hr. Reichenbach in ſeiner Theorie
+# Brückenbogen gelehrt habe. Dann folgen wieder
+einige jäiſche emerkungen, auch mit Hinſicht
+auf dié /Wiebekingſchen Bogenbrücken, an welchen
+der Vf. mehreres auszuſetzen hat. Zuletzt iſt noch
+ein Nachtrag angehängt, worin der Vf. Tabellen, die
+er vorher nach einer gewöhnlich angenommenen Pro-
+rtion berechnet hatte, nunmehr auch nach der vom
+Ä Späth angenommenen berechnet. Auch ſtellt er
+in dieſem Nachtrage Vergleichungen zwiſchen den
+Reſultaten ſeiner Formeln und denen der Reichenbach-
+ſehen an. Letztere findet er nicht ganz richtig, und
+er bemerkt insbeſondere, was, ſoviel wir uns erin-
+nern, auch vor einiger Zeit in eben dieſen Blättern,
+bey Beurtheilung der Reichenbachſchen Theorie der
+Brückenbogen, angemerkt worden iſt, daſs gegen die
+Natur der Sache nach Reichenbachs Forinel die Prag-
+barkeit eines Bogens deſto gröſser werde, je flächer
+er wird, oder je kleiner der oben erwähnte Erhe-
+bungswinkel ® iſt. Wer frühere Schriften von Hrn.
+Funk kennt, wird wie wir die Einſichten dieſes Hy-
+- - - -. - dro-

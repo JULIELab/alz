@@ -1,0 +1,121 @@
+253 -
+254
+Num. 32. MÄRZ 182o.
+ge
+zidres, mit den Worten des Vfs. zurückzukom-
+men, von ihm das Criterium hinzugefügt wird:
+„pour reconnoiere ſ une valeur qui ſatisfait, ſans
+conſtante arbieraire, à une équation drivée donnée,
+eſe une valeur ſingulière, ou ſimplement un
+cas particulier de la valeur générale.“ – Die
+folgende (18ee) Vorleſung verbreitet ſich über die
+Beziehungen der Differenzen-Rechnung zum ſoge-
+nannten Infiniteſimal-Calculus, und über die Erfin-
+dung der Kunſtgriffe des Letzteren. Die Erfinder
+der Differentialrechnung, Barrow und Leibnitz,
+lieſsen die veränderlichen um unendlich kleine Grö-
+fsen wachſen, und ſtellten das Verhalten dieſer un
+-endlich kleinen Unterſchiede durch die Differen-
+tialgleichungen dar: die Analyſe einer der erſten
+unter den angewandten Differentialgleichungen,
+ds* = dx* + dy*, reicht hin, um einen Begriff
+von ihren nur gar zu lange beybehaltenen Ä
+ten zu geben. Da aber das Poſtulat unendlieher
+Kleinheit mit der Strenge der analytiſchen Metho-
+ºde in einem auffallenden Widerſpruche ſtand, ſo
+verſuchten einige Geometer, namentlich Tailor,
+in ſeinem ſchon angeführten Werke: Methodus in-
+crementorum, endliche Differenzen an die Stelle
+der Differentiale zu ſetzen; und auf dieſe Weiſe ift
+die, in Deutſchland unter dem Namen der Diffe-
+renzen Rechnung (Methodus incrementorum, Cal-
+-cul aux-différences finies ) bekannte Methode ent-
+ftanden und ausgebildet worden, deren Weſen in
+-der" doppelten Foderung beſteht, einmal die Glie-
+der einer Progreſſion darzuſtellen, deren allgemei-
+-nes Glied man kennt; und umgekehrt letzteres an-
+zugeben, wenn das Geſetz der erſteren bekannt iſt.
+Wie ganz verſchieden ſich hier noch die Differen-
+zen-Rechnung von der Differential-Rechnung dar-
+-ftellt, ſo hat man doch die Brücke zur Verbindung
+zwiſchen beiden, durch die Vorſtellung von den
+Grenzverhältniſſen ſchlagen zu können geglaubt,
+welche den Differential-Ouotienten als die Örenze
+des Differenz-Quotienten betrachten lehrt, und
+der Gleichung: Subſecans = –#- z. B.„die an-
+dere: Subtangens = # , unter dem Vorwande
+ſubſtituirt, daſs, im Augenblicke des Zuſammen-
+ſtellens der immer näher gerückten grenzenden Or-
+dinaten, wo die erſtere Linie ſich alſö in die letztere
+-verwandelt, zugleich auch die zugehörigen endli-
+ehen Ax, Ay in die unendlich kleinen dx, dy
+-übergehen. – Lagrange ſtellt die ganze Unſtatt-
+Ä dieſer Vorausſetzungen bey gegenwärti-
+ger Veranlaſſung in ein noch helleres Licht, als in
+der von uns Auszugsweiſe mitgetheilten Einleitung
+zum Werke geſchehen iſt, j kommt darauf zu-
+rück, die Functionen Theorie als die einzige zu-
+läſſige Grundlage des Infiniteſimal-Calculus Ä.
+ſtellen, worin wir ihm von ganzen Herzen bey-
+pflichten, An dieſe Darſtellung knüpft er eine Theo-
+rie der Differenzen-Rechnung ſelbſt, die wir, als-
+presque uniquement due à - -
+Bernoulli", alſo uns Deutſchen. „ Mais tan-
+eine Digreſſion, hier übergehen, und ſchlieſst die
+Vorleſung endlich mit ferneren Bemerkungen über
+die Erfindung der Differentialrechnung, davºn "
+noch einiges ausheben wollen. Man kann Fer"?
+als den erſten Erfinder dieſer Rechnung betrachten
+Die Art ſeiner Behandlung des Problems demººr“
+mis wird ſich am beſten än einem Beyſpiele übe-
+ſchlich machen laſſen. Er verlangt eine gerade
+Linie a'dergeftalt zu theilen, daſs der Rectang!
+ax –x* ein Maximum werde. Zu dieſem Ead-
+zwecke vermehrt er x um eine willkürl. Gröſse er
+und bildet die Gleichung: - -
+ax – x * = ax +a e- x * – 2 x e – e*
+woraus a – 2x – e = o kommt; in letzterem
+Ausdrucke muſs hiernächſte = o geſetzt werden.»
+um x = - zu erhalten; die Uebereinſtimmung
+dieſes Verfahrens mit den Regeln der Differential“
+Rechnung leuchtet bald ein. Fermats Methode der
+Tangenten iſt von dem nämlichen Principé abhät“
+gig, und es iſt nicht abzuleugnen „que Ferra“
+öüvere la carriere par uneidée erès – originale
+quoique un peu obeure, qui confiſe & introduº“
+dans l'équation uneindeterminée qui doie trente
+par la nature de la queſtion, mais qu'on ne fait
+ºvanouir qu'àpres avoir diviſt toute l'équaeiºn par
+cetee méne quantité. Il eſt méne remarquablé, quº
+dans l'écrie qui contient lädtcouverts du caleul df
+frentiel“ imprimé dans les actes de Leipzic du moir
+d'Octobre 1684, ſous le eiere: AWova methodus pro
+maximis ee minimis, Leibnitz appelle dy une ligne
+qui ſoit à la ligne arbitraire dar, comme l' ordon-
+née eſ à la fantangente, es qui rapproche'
+l'analyſe die Leibniz z de cete er die Fer“
+mae": welche merkwürdige Anführung wir un ſo
+mehr wörtlich in dieſe Anzeige aufnehmen zu müf-
+fen glaubten, da wir uns nicht erinnern, ſie in der
+Geſchichte des, urn die Erfindung der Differential-
+rechnung geführten berühmten Streites gefunden
+zu haben. – Endlich verfiel Barrow auf den Ge-
+danken, denen Gröſsen, welche Fermat wie Nullen
+behandelt, wirkliche, jedoch unendlich kleine zu
+ſubſtituiren; aber erſt 10 Jahre“fpäter gab Leibnitz
+den allgemeinen und einfachen Algorithmus dieſer
+Rechnung an. Es ſcheint, als wenn Newton, etwa
+um die nännliche Zeit, auf dieſelben Rechnungs-
+vortheile verfallen ſey; aber das gröſste Verdienſt
+der Methode befteht in der Bildung der Differen-
+tialgleichungen und in der Integration, „et ſur ce“
+poine, il mé ſemble que lagloire de l'invention efe
+Ä ſurtout aux
+dis", fährt der Vf. fort, und Rec. kann diefs mit
+ihm nicht oft und nicht dringend genug wiederho-
+len, que cee érifice /" élevoie à une haileur immenſe,
+lent ée en dem euroit toujours mal éclaire „L'em-
+ploi des quantités qui doivent f évanouir d'elles –
+mémes, au qui doiuent éere négligées en raiſon de
+leur Petiteſſe, n' offre à l'eſprit que des- idées pe-
+- „ſaris-

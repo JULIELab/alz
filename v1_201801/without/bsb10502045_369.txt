@@ -1,0 +1,126 @@
+693
+694
+Num. 87. MÄRZ 18.11.
+-
+logiſtik Ä und das Studium derſelben den
+Studirenden erſchweret worden ſey. Allein die Er-
+leichterung und Simplificirung iſt immer nur ein un-
+tergeordneter Zweck, denn die Gründlichkeit und
+Vollſtändigkeit der Wiſſenſchaft nicht aufgeopfert
+werden darf. Hingegen können nun die Regeln der
+Reduction, die eben auch nicht leicht ſind, erſparet
+werden. Es iſt alſo von dieſer Seite Verluſt und Ge-
+winn ziemlich gleich. Die Deduction der Regeln der
+Syllogiſtik muſste dieſemnach auch zum Theil anders
+gefaſst werden, weil bey derſelben nicht auf das der
+erſten Figur Eigenthümliche geſehen werden konnte.
+Die Regel, daſs in einem mittelbaren kategoriſchen
+Schluſſe nur drey Hauptbegriffe vorkommen dürfen,
+wird §. 29o. aus einer höhern, daſs nur drey Glieder
+vorkommen können, leichter und bündiger bewie-
+ſen und daraus zwey andere abgeleitet, daſs der Mit-
+telbegriff in beiden Prämiſſen nicht particulär ſeyn,
+und der terminus major und minor in der Concluſion
+nicht allgemein genommen werden darf, wenn ſie in
+den Prämiffen particulär vorkommen. Daſs aus zwey
+verneinenden Prämiſſen nichts folgt, wird daraus be-
+wieſen, daſs wenn den Prämiſſen eines Schluſſes zu-
+ſammen genommen weder das Urtheil: alle S find P,
+noch das Urtheil: kein S iſt P entgegengeſetzt iſt,
+und wenn der Wahrheit beider Prämiſſen unbeſcha-
+det der terminus minor den major ſowohl einſchlie-
+ſsen, als demſelben entgegengeſetzt ſeyn kann, nichts
+folget. Der Beweis, das aus zwey verneinenden Prä-
+miſſen nichts folgt, iſt aber, ungeachtet ſeine Prä-
+miſſen unläugbar ſind, nicht ſtringent. Der Vf, ſagt:
+In zwey allgemein verneinenden Prämiſſen: kein M
+iſt P; Ä S iſt P, kann 1) ſ dem p entgegengeſetzt
+feyn, indem ſ p, Begriffe von Nebenarten ſeyn konn-
+ten; 2) ſ kann aber auch p einſchlieſsen, und eben
+deshalb dem m entgegengefetzt ſeyn. Es folgt alſo
+nach der zweyten Prämiſſe nichts. Sollte dieſer Be-
+weis ſtringent ſeyn, ſo müſste ſ, p ſowohl einſchlie-
+fsen als auch demſelben entgegengeſetzt feyn. Nun
+aber iſt dieſes nur disjunctive ausgeſagt, und dann iſt
+die disjunctive Möglichkeit einer allgemein bejahen-
+den oder verneinenden Concluſion dadurch nicht dar-
+ethan. Etwas anders wäre es, wenn der Beweis
+darauf beruhete, daſs aus zwey verneinenden Prämiſ-
+ſen dieſes Verhältniſs von ſ und p nicht eingeſehen
+werden könne, oder daſs es an der Subſumtion fehle.
+Ueberhaupt glauben wir, daſs dieſe, worin die gan-
+ze Gültigkeit eines mittelbaren kategoriſchen Schluſ-
+ſes beruhet, von dem Vf, mit ſeinem gewohnten Scharf-
+finn mehr in das Licht hätte geſetzt werden ſollen,
+und daſs er dadurch wäre in den Stand geſetzt wor-
+den, die allgemeinen Regeln Ä enoch ſtren-
+er und umfaſſender abzuleiten. Zwar finden wir
+auſser den allgemeinen Regeln, die ſchon angeführt
+ſind, die aber negativ ſind, und den folgenden, daſs
+wenn eine Prämiſſe verneinend iſt, die Concluſion ver-
+neinend iſt, daſs aus zwey bejahenden Prämiſſen nur
+eine bejahende Concluſion folgt, und aus zwey parti-
+kulären Prämiſſen nichts folgt, in dem §. 366 eine
+Reihe von Grundſätzen; dieſe beziehen ſich aber auf
+- --
+-
+die vier Figuren, und es find die von Lambert aufge-
+ſtellten, mehr entwickelt und beſtimmt. Auſserdem
+hat der Vf, noch die Regeln jeder einzelnen Figur auf-
+Ä und aus den Regeln von den Verhältniſſen der
+Begriffe ſchärfer deduchrt, ſo daſs für dieſen Theil
+der Syllogiſtik nichts weiter zu wünſchen iſt, und
+hätte er auch noch dieſe beſondere Regeln auf die all-
+gemeinern zurückgeführt, ſo würde die analytiſch
+vollendete Syllogiſtik ein Vorzug dieſes trefflichen
+Compendiums ſeyn. In der Lehre von den einfachen
+Schlüſſen aus Urtheilen der zweyten Ordnung, und
+von den beiden Arten der zuſammengeſetzten Schlüſſe
+finden wir nichts Beſonderes auszuzeichnen, auſser
+der gröſsern Präcifion der Regeln. Die reine Metho-
+denlehre, welche nach §. 18. die Wiſſenſchaft von der
+Verbindung der Operationen des Verſtandes iſt, wird
+in drey Abſchnitten vorgetragen, welche von der lo-
+giſchen Vollkommenheit der Erkenntniſ, von der Me-
+thode und von der Wiſſenſchaft handeln. Sie iſt un-
+ſtreitig zu mager ausgefallen, indem ſie faſt nur aus
+Erklärungen beſteht, aber wenig Regeln enthält, wie
+eine Wiſſenſchaft zu Stande zu bringen ſey. So wird
+zwar von den Beweiſen in den §. 337 – 38o. gehan-
+delt, aber nur ſo, daſs die allgemeinen Erforderniſſe
+eines Beweiſes und des apogogiſéhen angegeben wer-
+den. Eben das iſt auch der Ä bey der Methode.
+Auch kann man auf keinen Fall den §.357. womit die
+Methodenlehre anfängt: Erkenntniſs im engern Sinne
+des Worts heiſst jede Vorſtellung, in ſofern ſie einen be-
+ſtimmten (d. h. Ä und keinen andern) Gegenſtand
+hat; eine Vorſtellung heiſst Erkenntniſs im engern
+Sinne, wenn ſie als Vorſtellung eines beſtimmten Ge-
+genſtandes gedacht wird, als richtig zu geben. Die
+angewandte Logik im engern Sinne, unterſucht die Be-
+dingungen des menſchlichen Denkens. Sie iſt eine
+Erfahrungswiſſenſchaft, weil jene Bedingungen nur
+aus der Erfahrubg bekannt ſeyn können. Die Erfah-
+rung lehrt, daſs viele unſerer Erkenntniſſe nicht den
+Ä Grad der Vollkommenheit haben, daſs alle
+unſere Erkenntniſſe erworben werden müſſen, und
+daſs die Aeuſserungen unſers Verſtandes durch die
+Aeuſserungen anderer Vermögen theils aufgehalten,
+theils befördert werden. In Ä drey Abſchnitten
+aus welchen die angewandte Logik beſteht, werden
+mehrere Gegenſtände gründlich und ausführlich abge-
+handelt, wie die Lehre von den Fragen, der Wahr-
+ſcheinlichkeit, von den Zeugniſſen und den Zeichen;
+andere aber ſind viel zu kurz, wie z. B. von den Irr-
+thümern, Vorurtheilen. Obgleich bey den aus der
+Seelenlehre entlehnten Erfahrungsſätzen immer Bezie-
+hung auf das Denken genommen wird, ſo ſcheint
+doch die Anwendung der Logik auf dieſen Erfah-
+rungsſtoff hauptſächlich in den Regeln zur Vermei-
+dung der aus der ſubjectiven Natur des Menſchen
+flieſsenden Unvollkommenheiten und zur Verbeſſe-
+rung der Folgen derſelben zu beſtehen – ein Punkt,
+in welchem der Vf., wie uns dünkt, nicht allen For-
+derungen Genüge geleiſtet hat. *
+- ( Der Beſchluſs folgt.)
+LITE-

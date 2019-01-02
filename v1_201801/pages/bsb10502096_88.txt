@@ -1,0 +1,120 @@
+159. ERGÄNZUNGSBLÄTTER
+Num. 20. FEBRUAR 1826. 160
+Function y anſtatt der ſich darin befindenden verän-
+derlichen Gröſsen ac, z etc. ac + dac, z + dz etc.
+ſetzt, und dann den neuen Werth, den die Function
+dadurch erhält, nach den Potenzen dieſer Incre-
+mente entwickelt, ſo heiſst die Summe jener Glie-
+der der Entwickelung, welche nur einzelne Incre-
+mente in der erſten Potenz enthalten, das Differen–
+tial der Function y"
+welche Lagrange giebt. § 5. enthält Beyſpiele, wie
+man nach dieſer Definition das Differential findet,
+indem man jene Subſtitution wirklich vornimmt. Die
+Differentialrechnung definirt der Vf, als eine Wiſſen-
+ſchaft, welche lehrt, jede Function zu differentiiren,
+ohne daſs man jedoch die erwähnten Subſtitutionen
+wirklich vorzunehmen braucht. Die Regeln des Dif-
+ferentiirens ſind freylich in dieſer Wiſſenſchaft un-
+entbehrlich; allein in dieſer Operation ſelbſt beſieht
+das Weſen derſelben eben ſo wenig, als in der um-
+ekehrten, d. h. in den Regeln des Integrirens.
+Wenn die Differentialrechnung weiter nichts lehrte,
+als jede vorgegebene Function zu differentiiren, ſo
+wäre der Nutzen derſelben nicht ſo bedeutend; bey
+den wichtigſten Unterſuchungen, welche man ver-
+möge dieſer Wiſſenſchaft anzuſtellen vermag, findet
+man das Differential einer Function nicht durch Dif-
+ferentiation der Function, indem dieſe noch unbe-
+kannt iſt, ſondern geht erſt, wie bey der Rectifica-
+tion und Quadratur der Curven, von den auf ganz
+andern Wegen gefundenen Differentialen zur Funk-
+tion ſelbſt über, und gerade dieſe Unterſuchungen
+ſind es, worin die wahre Kraft der Differentialrech-
+nung beſteht, aber ſie ſind auch gerade diejenigen,
+wobey der gröſseſte Anſtoſs gefunden wird, wo man
+gewöhnlich die unendlich kleinen und zu vernachläſ-
+iigenden Gröſsen nicht umgehen zu können glaubt,
+oder wo ſich doch wenigſtens die Veranlaſſung zum
+Gebrauch derſelben zeigt. Gerade dieſe wichtig-
+lien Gegenſtände der Differentialrechnung hat der
+Vf. einer genauern Betrachtung unterworfen, und
+iſt, wie wir im Nachfolgenden ſehen werden, ſehr
+ſcharfſinnig zu den allgemeinen Ausdrücken für das
+Differential des Bogens, der Fläche u. ſ. w. gelangt;
+aber eben deswegen begreift Rec. nicht, wie der Vf.
+zu obiger Definition könnt. Im § 6 u. ff. wird ſehr
+gut gezeigt, daſs # entwickelte Werth einer Funk-
+tion, wenn man darin für ac die Gröſse r + dar ſetzt,
+ſich jedesmal durch eine nach den ſucceſſiven ganzen
+poſitiven Potenzen des Increments fortlaufende Reihe
+darſtellen laſſe, welches auch im §. 20. auf mehrere
+veränderliche Gröſsen ausgedehnt wird. § 29 u. ff.
+wird der Fall angenommen: „die Functionalgröſse
+Hev ſelbſt noch eine Function einer andern Gröſse,
+und gezeigt, daſs das Differential der zu beobach–
+tenden Function jetzt ganz anders ausfallen müſſe.
+In § 35 u. ff. folgen die Differentiationsregeln. Die-
+ſer Abſchnitt iſt ziemlich vollſtändig und ſehr deut-
+lich abgehandelt. Daſſelbe findet auch § 52 u. ff.
+Statt, wo von Differentialen höherer Ordnungen
+gehandelt wird. § 59 u. ff. Differentiale der trigo-
+Dieſe Erklärung iſt alſo die,
+nometriſchen Functionen. Dieſer Abſchnitt wird
+erſ im § 95, ergänzt. Im § 61. wird der Taylorſche
+Lehrſatz deutlich und kurz abgehandelt. Jetzt fol-
+gen einige intereſſante und für die Darſtellungsart
+des Vfs. wichtige Lehrſätze, unter welchen ſich be-
+ſonders folgender im § 72. auszeichnet: „Wenn v
+und y zwey Functionen derſelben veränderlichen
+Gröſse ac ſind, mit welcher ſie beide zu – oder ab-
+nehmen, und einen ſolchen Werth erreichen, daſs
+der dem Incremente dx (wenn dieſes klein genug
+genommen wird) entfprechende Zuwachs der Funk-
+tion y immer gröſser iſt, als der Zuwachs der Function
+v, ünd die einem gleichen Decremente der entſpre-
+chende Abnahme der Function y immer kleiner iſt,
+als die Abnahme der Function v; ſo haben beide
+(Functionen für jenen Zuſtand) einerley Differential.“
+Der Beweis iſt ſehr ſchön. Im § 73: „Wenn die
+Function y einen ſolchen Werth erreicht hat, daſs
+ihre unmittelbar vorhergehenden und nachfolgenden
+Werthe entweder beide gröſser, oder beide kleiner
+ſind, als dieſelbe; ſo iſt das entſprechende Differen-
+tial dy = o.“ Da das VWachſen oder Abnehmen der
+Gröſse, wie hier immer vorausgeſetzt wird, ſtetig
+geſchieht, ſo giebt es keine unmittelbar vorherge-
+hende und nachfolgende Werthe; - der Vf, muſste
+- daher den Satz anders ausſprechen, welches ihm
+gewiſs gelungen wäre, wenn er ihn in demſelben
+Geiſte, wie die vorhergehenden, aufgefaſst hätte,
+( Der Beſchluſs folgt.)
+SCHÖNE KÜNSTE.
+-
+BERLIN, in d. Vereinsbuchh.: Muſénalmanach für
+das Jahr 1826, herausgegeben von Julius Curius.
+1825. 8. -
+Dieſer Almanach, für 1826 beſtimmt, iſt ſchon im
+Februar 1825 erſchienen, um ſo recht allen ſeinen Brü-
+ºdern den Rang abzulaufen. Doch möchte leicht hier
+der bekannte Spruch ſich bewähren: die erſten werden
+die letzten feyn. Auſser jener Sonderbarkeit, und etwa
+dem Um Ä was ihm eben bey einem groſsen Theile
+des Publicums nicht ſehr zur Empfehlung dienen dürf-
+te, daſs er keine Proſe, keine Verzierung durch Kupfer-
+1iiche, Vignetten u. dgl., rein nichts als Verſe und wie-
+der Verſe enthält, hat er nichts Ausgezeichnetes vor
+andern. Eine kleine Anzahl junger meiſt unbekannter
+Männer, J. Curtius, Schregel, Jeiters, Simrock, hat ſich
+vereint, ihre Erſtlinge hier darzubringen. Das Meiſeit
+aber unbedeutende Nachahmung, oder leerer Nachhall
+Göthe'ſcher u. a. Lieder. Die angehängten zahlreichen
+Xenien charakteriſiren ſich durch ihre naive gereimte
+Ueberſchrift am beſten ſelbſt:
+Wie man naſeweis geweſen,
+Iſt hier lang und breit zu leſen.
+e
+Wie ſchief z. B. if folgendes Xenion auf Byron:
+Feldherr wirſt du nun bald und Dichter ſchon biſt
+du geweſen,
+Ganz Tyrtäus zu ſeyn, werde noch hinkend dazu!

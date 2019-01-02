@@ -1,0 +1,120 @@
+293
+Num. 120.
+MAY I 8 o5. 294
+ſchen Geometer, dem die neuere Sternkunde ſo viel-
+fache und ſo wichtige Erweiterungen ihres Gebiets
+verdankt, auch auf Berechnungen für die Breite der
+Sonne, welche in den Einwirkungen benachbarter
+Planeten auf die Erde ihren Grund hat. Wenn näm-
+lich V. T H. die mittlern Längen der Venus, der
+Erde und des Jupiters, D den Abſtand des Mons
+von ſeinem aufſteigenden Knoten bedeutet, ſo iſt,
+nach de la Place, die Breite der Sonne (die nördliche
+poſitiv geſetzt)
+= +-o", o3 Sin (V– 2 T) + o“, 1o Coſn ( V– 2 T)
++ o“, o7 Sin (3 / – 4 T) + o“, 24 Coſin (3 V – 4 T)
+– o“, o2 Sin (T– 2 57 ) + o“, 16 Coſin (T– 2 :) )
++ o“, 67 Sin D.
+Dieſe Gleichungen ſind in drey Tafeln dargeſtellt;
+nach denſelben kann die gröſste mögliche Breite der
+Sonne, wodurch dieſe aus der mittlern Ebene der
+Ekliptik verrückt wird, 1“, 17 nördlich oder ſüdlich
+betragen. Es können Fälle vorkommen, wo man,
+wie z. B. bey genauerer Beſtimmung der Polhöhe,
+vorzüglich zünn Behufe von Erdgradmeſſungen, die
+Abweichung der Sonne aufs ſchärfſte zu kennen nö-
+thig hat, wo man alſo auch ſelbſt die kleine Aende-
+rung, welche die Breite der Sonne in derſelben her-
+vorbringt, nicht gerne vernachläſſigen wird. Da
+überhaupt durch die Breite der Sonne auch jedesmal
+ihre Declination und Rectaſcenſion in etwas geändert
+wird, ſo ſind, um hierüber mit Bequemlichkeit Rech-
+mung tragen zu können, einige kleine Hülfstafeln bey-
+gefügt worden; mittelſt dieſer iſt es leicht, die beob-
+achteten Abweichungen und geraden Aufſteigungen
+der Sonne auf ſolche zu reduciren, wie ſie ohne ei-
+nige Breite der Sonne ſtatt gefunden haben würden,
+und auf dieſe Art macht es keine weitere Mühe, bey
+Berechnung der Länge der Sonne aus den Beobach-
+tungen den Einfluſs der Breite zu eliminiren, da man
+ſonſten die von der Breite afficirten Längen durch eine
+beſondere Rechnung noch auf die mittlere Ebene der
+Ecliptik zu bringen genöthigt geweſen ſeyn würde.
+Mit Recht erinnert auch der Vf., daſs in Zukunft,
+wenn nach Flamſeeds Methode (die aber nur von we-
+nigen neuern Aſtronomen indeſs verſucht worden)
+unmittelbar und abſolute Rectaſcenſionen der Sonne
+und eines Fixſterns beſtimmt werden ſollen, auch auf
+die Breite der Sonne werde Rückſicht genommen wer-
+den müſſen. – Noch folgen die Tafeln für die Nu-
+tation in der Länge (das Maximum = 18“, o geſetzt)
+und in gerader Aufſteigung, für die ſtündliche Bewe-
+gung und den Halbmeſſer der Sonne, den kleinſten
+zu 5'45“, 5 vorausgeſetzt, für die Sonnenparallaxe
+auf jeden erſten Ä des Monats und in verſchiede-
+nen Höhen, wenn die mittlere = 8“, 7 für die mitt-
+lere aſtronomiſche Strahlenbrechung, und für deren
+Ä nach dem verſchiedenen Stande des Baro-
+meters und Thermometers. In der letztern Tafel iſt
+ºh Delambres Vorgange (ſo wie auch in einer ähn-
+lichen, nur weniger ausgedehnten Tafel in den Wie-
+ner Ephemeriden) der Factor angegeben, mit wel-
+chem die mittlere Strabenbrechun multiplicirt werden
+muſs, um ſie nach jeder beſondern Lüfttemperatur
+auf die wahre zu bringen; auch ſind dieſe Factoren
+für die Barometerhöhe ſowohl in Pariſer, als in Eng-
+liſchen Zollen und Linien, und für Reaumurſche fo-
+wohl als Fahrenheitſche Grade des Thermometers
+beſonders angeſetzt. Die mittlere Strahlenbrechun
+hat der Vf, genau nach Bradleys urſprünglicher un
+unveränderter Angabe beybehalten, da nach ſeinen
+Beobachtungen die Bradleyſche Refraction immer vor-
+züglich gut harmonirte; jene mittlere Refraction iſt
+nämlich nach der Formel 198o“. Tang. #x, wobey
+Tang. x = Sin. 3 17“ 48“, 94, multiplicirt mit, der
+Tang. des ſcheinbaren Scheitelabſtandes, berechnet
+worden. – Vielleicht wäre es manchen Leſern er-
+wünſcht, wenn es dem Vf. gefällig geweſen wäre,
+dieſen vortrefflichen Tafeln einen ähnlichen Anhang,
+wie der erſtern Ausgabe, zu geben, nämlich eine dº-
+taillirte Vergleichung der neuen Tafeln mit ſeinen ei-
+genen oder mit fremden Beobachtungen der Sonne.
+Vergleichungen dieſer Art, wenn ſie auch um der
+Tafeln ſelbſt willen, wie z. B. in gegenwärtigem Falle,
+eben nicht nothwendig ſind, haben ſonſt noch ander-
+wärtige Brauchbarkeit, da ſie zugleich eine kleine
+Sammlung neuer und ſchätzbarer Beobachtungen ent-
+halten. – Die frühere Ausgabe dieſer Tafeln vom
+J. 1792. widmete der Vf dem letztregierenden Herzog
+von Sachſen-Gotha als Erſtlingsproduct der Seeberger
+Sternwarte, welcher der Verewigte den Namen der
+Erneſtiniſchen nach ſeinem Tode nun nicht mehr ver-
+weigern kann. In der That hatte auch Ernſt der
+Zweyte an der erſten Ausgabe durch ausführliche Be-
+rechnung mehrerer Tafeln einen gröſsern Antleil ge-
+nommen, als man bey denjenigen, denen Schriften
+dedicirt werden, ſonſt vorauszuſetzen gewohnt iſt.
+Die neuere kurz nach ſeinem Tode erſchienene Aus-
+gabe iſt „den Manen" des edeln Entſchlafenen ge-
+weiht.
+S C H Ö NW E K Ü N S T E.
+1) LEIpz1g, b. Baumgärtner: Denkte irdigkeiten des
+Grafen v. Senionville, aus dem Franzöſiſchen
+v. Arnim, Verfaſſer der Schrift iiber den Adel.
+I803. 228 S. 8. (20 gr.)
+2) Eben da ſelbſt: Joſeph der Zweyte, oder der ge-
+fürcte Ä # Arnim, Verfaſſer der Schrift
+über den Adel. 1803. 88 S. 8. (8 gr.)
+Nr. 1. hat das Verdienſt, in der leichten, geiſtrei-
+chen franzöſiſchen Manier, nicht ohne pſychologi-
+ſchen Sinn, geſchrieben zu ſeyn: aber tiefe Rührun
+des Herzens, edlen Schwung der Geſinnungen, Ä
+reine Anſicht des beſſern Lebens muſs man darin nicht
+ſuchen. Alle Charakter-Gemälde und Situationen
+des Vfs erheben ſich nirgends über eine intereſſante
+IWirklichkeit: und der Hauptgegenſtand dieſer Wirk-
+lichkeit iſt ? ein Graf von Senonville, aus der Periode
+der berüchtigten Regentſchaft des Herzogs v. Orleans,
+wo jedes Laſter kühn ſein Haupt empor heben
+konnte, wenn es nur unter einer gewiſſen eleganten
+Lar-

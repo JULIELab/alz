@@ -1,0 +1,125 @@
+19s
+I96
+ALLG. LITERATUR - zEITUNG
+Formeln, welche ſich aus dem Vorigen leicht erge-
+ben, werden auf die vollſtändigere Berechnung
+zweyer Fälle angewandt, erftlich auf die Bewegung
+eines homogenen Ellipſoids, deſſen eine Hauptaxe
+horizontal iſt und beſtändig horizontal bleibt, wäh-
+rend der Körper auf einer geneigten oder horizonta-
+len Ebne die Bewegungen annimmt, die er vermöge
+ſeiner Schwere annehmen muſs; zweytens auf die:
+Bewegung der Kräuſel. – – Alle dieſe Lehren ſind
+hier weit vollſtändiger vorgetragen, als ſie in irgend
+einem, wenigſtens dem Rec. bekannten, deutſchen
+Lehrbuche vorkommen, wie dieſes ſchon aus der
+mitgetheilten, wenn gleich dürftigen Inhaltsanzeige
+erhellt. - -
+Siebenter Abſchnitt. Vom Stoſse der Körper.
+–Zuerſt die bekannten Lehren vom centralen Stoſse
+zweyer Kugeln; dann allgemeine Formeln, für den
+Fall, da zwey Körper von gegebner Geſtalt an ein-
+ander ſtoſsen; Äh für den gleichzeitigen Stoſs
+mehrerer Kugeln. - -
+- Der achte Abſchnitt. Beweis des Satzes, daſs
+der Schwerpunct eines Syſtems von Körpern, das
+nirgends einen feſten Punct enthält, ſich ſo bewegt,
+als wenn alle Maſſen des ganzen Syſtems in ihm ver-
+einigt wären, und als ob alle auf die Körper wir-
+kenden Kräfte, ihren wahren Richtungen parallel
+im Schwerpuncte angebracht wären. – Eben ſo all-
+gemein wird auch folgender Satz bewieſen: denkt
+man ſich in einem Syſteme, wo auf die einzelnen
+Körper bloſs die gegenſeitigen Attractionen wirken,
+und in welchem kein Punct feſtgehalten Ä die
+von den Radien-Vectoren beſchriebenen Flächen alle
+auf eine beſtimmte Ebne projicirt, und jede dieſer
+Projectionen mit der Maſſe des Körpers, auf den ſie
+ſich bezieht, multiplicirt: ſo iſt die j aller die-
+ſer Producte der Zeit proportional. – Für jeden
+beſtimmten Mittelpunct giebt es eine Ebne die ſich
+dadurch auszeichnet, daſs die auf ihr genommenen
+Projectionen der von den Radien beſchriebenen Flä-
+chen, jede in die zugehörigen Maſſen multiplicirt,
+eine gröſsere Summe geben, als für jede andere Ebne.
+Dieſe Ebne, welche ſich aus den gegebenen Bewe-
+gungen für irgend eine Zeit beſtimmen läſst, wenn
+man die Maſſen aller bewegten Körper kennt, behält
+in Beziehung auf denſelben Punct eine unveränderliche
+Lage, wenn bloſs gegenſeitige Anziehungen auf die
+Körper wirken; ſie iſt die unveränderliche Ebne de-
+ren aſtronomiſche Beſtimmung für das Planetenſy-
+ftem Laplace als ſo merkwürdig empfohlen hat. –
+Ueber das Princip von Erhaltung der lebendigen
+Kräfte. Es wird gezeigt, wie ſich auch in der For-,
+mel die Fälle erkennen laſſen, wo die Erhaltung der
+lebendigen Kräfte nicht. Statt findet.
+Der Vortrag aller dieſer Lehren würde nichts
+zu wünſchen übrig laſſen, wenn einige Anwendun-
+gen auf leichtere Fälle vorkämen, damit dem Leſer
+Gelegenheit gegeben würde, ſich ſelbſt zu üben, unol
+zu ſehen, ob er die allgemeinen Betrachtungen ſo
+efaſst hätte, daſs er ſie gebrauchen kann. Bekannt-
+ch iſt der Schritt vom bloſsen Verſtehen eines Sa-
+tzes zum Anwenden deſſelben nicht ſo leicht gethan,
+und er iſt um ſo ſchwieriger je mehr jener Satz et-
+was ganz Allgemeines entitält, welches uns gewöhn--
+lich dadurch erſt recht klar in allen ſeinen Beziehuj-
+gen wird, wenn wir es an bekannte Gegenſtände an-
+knüpfen.
+Viertes Buch: Hydroſtatik S. 307 – 442. Die
+ganze Hydroſtatik wird gegründet auf das Princip
+der gleichen Fortpflanzung des Drucks nach allen
+Richtungen durch die flüſſige Maſſe. Die allgemeine
+Formel für das Gleichgewicht, die Beſtimmung der
+freyen Oberflächen, wo der Druck =o iſt, und ſo
+weiter wird ganz eben ſo hergeleitet, wie es aus Eu-
+lers und andern Schriften bekannt iſt. Die Darſtel-
+lung wird gewiſs den Beyfall aller derer haben, die
+mit den gehörigen Vorkenntniſſen ausgerüſtet ſind,
+und zeigt alle hier vorkommenden Gegenſtände mit
+vollkommener Klarheit. º
+Die Anwendungen auf den Fall, da bloſs die
+Schwere wirkt, ſind ſehr vollſtändig. Der Druck,
+welchen das Gefaſs leidet, der Mittelpunct des
+Druckes, das Gleichgewicht ſchwimmender und an-
+derer eingetauchter Körper, die Beſtimmung, der
+ſpecifiſchen Schwere wird umſtändlich betrachtet.
+heorie der Pumpen. – Vom Gleichgewichte
+ſchwimmender Körper; genauere Beſtimmungen
+über die Fälle eines ſichern und eines ſchwankenden
+Gleichgewichtes ; Beſtimmung der Oſcillationen ei-
+nes ſchwimmenden Körpers nach den in der Mecha-
+nik gelehrten Regeln für die Drehungsbewegung.
+Ueber barometriſche Höhenmeſſungen. Der
+ſucht ſogleich die ganz vollſtändige Formel mit Rück-
+ficht auf die in der Höhe abnehmende Schwere und
+alle Umſtände: Die Gründe, warum S. 442 der be-
+ſtändige Coëfficient grade ſo ausfällt, hätten wohl
+mögen erwähnt werden. Auch hätte es doch bey
+einem ſo leichten Gegenſtande wohl Erwähnung ver-
+dient, wie man die Hauptſache ſo überaus leicht über-
+ſehen und berechnen, und dann die erfoderlichen
+Correctiouen anbringen kann. Als ein Beyſpiel von
+ſehr unzweckmäſsigem Auslrucke Ä noch
+anführen: daſs (S. 434) a das Verhältniſs der elaſti-
+ſchen Kraft zur Dichtigkeit bedeuten ſoll; alſo das
+Verhältnis zwiſchen zwey ganz verſchiedenartigen
+Dingen. . . . . . .
+Fünftes Buch. Hydrodynamik. S.
+Obgleich bekanntlich unſere theoretiſche Hydródy-
+nannik erſt noch einen ſehr geringen Grad vön Voſl-
+kommenheit erreicht hat, ſo muſs man doch geſtehn,
+daſs ſie hier mit auffallender Zurückſetzung behan-
+delt iſt. Da der Vf, eben die Vorkenntniſſe voraus-
+ſetzt, wie Euler in ſeinen Geſetzen des Gleichge-
+wichts und der Bewegung flüſſiger Körper (Leipzig
+1806), ſo wäre es dem Plane des übrigen Buches
+wohl angemeſſen geweſen, die theoretiſchen Lehren
+der Hydrodynamik mit gröſserer Umſtändlichkeit
+und ungefähr ſo wie es dort von Euler geſchehen
+iſt, vorzutragen. Statt deſſen hat der Vf, nur in der
+Kürze das ällejnohjenigſte gegeben, und ganze
+wichtige Kapitel z. B. die Lehre von der Fortpflan-
+- - Zung
+Tº

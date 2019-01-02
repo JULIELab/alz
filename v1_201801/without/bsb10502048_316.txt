@@ -1,0 +1,123 @@
+579
+580
+ALLG. LITERATUR - ZEITUNG
+der Vf, hat die Inſtrumente, Methoden, Vorſichts-
+"naaſsregeln bey den Beobachtungen angegeben; ferner
+die verglichenen Sterne, und, was hier zum erſten-
+na geſchehen iſt – wegen künftiger Verbeſſerung
+dieſer Sternpoſitionen – fertig berechnete Cor
+rection - Gleichungen. Die übrigen Beobachtungs-
+reihen ſind mit weniger Umſtänden angegeben. Bey
+der Reihe der Olbers'ſchen Beobachtungen (8. Ocf.
+bis Febr.) ſagt der Vf, ſie ſeyen in der Abſicht
+angeſtellt, um etwas Genaues zu liefern.
+Von den Marſeiller Beobachtungen hat der Vf.
+nur vom 22. Sept. bis 2. Oct. angeführt, mit Angabe
+der Sterne, auf denen ſie beruhen. Die übrigen hat
+er nicht reducirt, da ſie ihm nicht beſſer ſchienen,
+als die Bremer und Lilienthaler. Die Mailänder hat
+der Vf. vom 13. – 28. Febr, angeführt, um die Lücke
+auszufüllen, welche in ſeinen Beobachtungen hier
+war. Die Petersburger gehen vom 18. – 27. März,
+und ſind bekanntlich das Allermerkwürdigſte, was
+die praktiſche Aſtronomie aufzuweiſen hat. Es wür-
+de noch merkwürdiger, wenn man eine Berechnung
+des Vfs. in der Note zu dieſen Beobachtungen an-
+nimmt, wovon das Reſultat iſt, daſs die Lichtſtärke
+in dem dioptriſchen Fernrohr zu Petersburg nur
+o,233 der Lichtſtärke des 7füſsigen Herſchelſchen Re-
+flectors war, womit Beſſel den Kometen nicht mehr
+auffand.
+Der zweyte Abſchnitt enthält in ſeiner erſten Ab-
+theilung die paraboliſchen Elemente, und die 4ten
+und 5ten elliptiſchen Elemente. Die 4ten beruhen
+zum Theil auf Mailänder Beobachtungen vom 2. bis
+4. Oct., welche aber der Vf, in dem erſten Abſchnitt
+nicht angeführt hat. Dieſe Mail. Beobachtungen ſtim-
+men in Ä Zeitpunkte wenig mit den Marſeiller,
+auf welche dann die 5ten Elemente mit gegründet
+ſind. – Die zweyte und dritte Abtheilung Ä der
+Bahn mit Rückſicht auf die Störungen gewidmet.
+Der Vf, bedient ſich der ſogenannten Methode der
+Parameter, wie ſie la Grange eingeführt, und die
+auch in der Mecanique celeſte auf Kometen angewendet
+worden. Die Ä Abtheilung hat zuvörderſt den
+Zweck, dieſen Gleichungen theils eine neue De-
+duction zu geben, theils eine neue für den prakti-
+ſchen cÄf bequemere Geſtalt.
+Dieſe Deduction iſt dadurch merkwürdig, daſs
+in ihr von Anfang an. Statt einfacher trigonometri-
+ſcher Functionen des Knoten, der Neigung u. ſ. w.
+die zuſammengeſetztern gebraucht werden, welche
+man erhält, wenn man den rechtwinklichten Ordi- -
+naten des Himmelskörpers die Gauſsiſche Form
+iebt:
+B x =r Sina Sin (V+A) u. fw.
+Durch dieſe Subſtitution wird die Deduction dieſer
+Differenzialgleichungen des erſten Grads aus den Dif-
+ferenzialgleichungen des zweyten weit verwickelter,
+ſetzt mancherley Hülfsſätze ünd Relationen voraus,
+und nimmt eine ſchwierigere Combination an, die
+der Vf, mit vieler Kunſt handhabt, um die Reſultate
+zu erhalten.
+- -
+Indem der Vf, eine andere Geſtalt für dieſe be-
+kannten Gleichungen ſuchte, ſo hatte er den Zweck,
+im ganzen Mlaffen zu rechnen, die Störungen der Pla-
+neten in einem gewiſſen Zeitpunkt in einen Haufen
+zuſammenzunehmen, Conſtanten abzuſondern, welche
+durch alle Planeten hindurch liefen: dieſer Gedanke
+iſt, wie es ſcheint, entſtanden, indem Zeitgewinn
+geſucht wurde: denn auſ der andern Seite hat es et-
+was Unbequemes und Unbelohnendes, wenn die Re-
+ſultate nicht für einzelne Planeten angegeben werden.
+Die Ueberſicht und die Anſchaulichkeit in das Perio-
+diſche, das Zu- und Abnehmende ihrer Wirkungen
+Ä verloren, die Vergleichung ihrer Wirkungen
+ällt weg, die ganze Einſicht ihres Einfluſſes und ih-
+rer Störung verliert an Klarheit, gewiſsermaſsen auch
+die Interpolation an Sicherheit; bey etwaigen Aende-
+rungen wird die Reviſion, oder dié Vergleichung mit
+künftigen Rechnungen erſchwert. Es iſt daher ge-
+wiſs höchſt zu bedauern, daſs dem Vf. die Zeit ge-
+mangelt hat, das Tableau der Störungen der geſamm-
+ten Planetenwelt auf dieſer... merkwürdigen Kome-
+ten in allen Details uns vorzulegen, welches zu
+manchen intereſſanten Bemerkungen Stoff gegeben
+hätte. Der Vf, ſucht nun dieſen Zweck, den Glei-
+chungen eine bequemere Geſtalt zu geben, dadurch
+zu erreichen, daſs er Statt der jetzt üblichen Kräfte
+nach drey Coordinaten, die ehemals gebräuchlichen
+1) nach der Richtung des Rad. vectors, 2) darauf
+ſenkrecht, und 3) auf dieſe beide und die Ebene der
+Bahn ſenkrecht einführt; er giebt für die Berech-
+nung dieſer Kräfte directe Formeln, oder lehrt ſie
+– nach bekannten Sätzen – aus den drey Kraften
+nach der Richtung der Coordinaten herleiten; wel-
+che letztere Manier er für die Rechnung bequemer
+hält. Vielleicht mit Ausnahme der Gleichung für die
+Aenderung des Periheliums däucht es uns, als ob die
+Einführung dieſer neuen Kräfte nicht beſondere Dien-
+ſte leiſte, und daſs die gemeinen Gleichungen mit
+Beybehaltung der Kräfte nach Ordinaten, durch
+einfache Reductionen, eine leichte und für die Rech-
+nung bequeme Geſtalt annehmen könnten: wiewohl
+man in der Behandlung des Vfs. die analytiſche Ge-
+wandtheit und Combination erkennt. Jede von den
+drey Kräften des Vfs. hat die Form:
+a. P+ b. Q-+ c. R,
+a, b, c hängen bloſs von dem geſtörten Planeten ab,
+ſind alſo für die Planetenwelt-hindurch conſtant; P,
+Q, R ſind für jeden ſtörenden veränderlich, treten
+aber in der Berechnung aller drey Kräfte wieder auf
+P, Q, R beſteht jedes wieder ausdrey Gliedern. Der
+Vf, berechnet hierauf P, Q, R für alle Planeten ein-
+zeln, ſummirt ſie alsdann, und erhält ſo die Total-
+fumme jeder der drey Kräfte. Die Variationen der
+Elemente werden nun ſehr einfach durch dieſe drey
+Kräfte ausgedrückt, indem die ſie beſtimmenden Glei-
+chungen aus einem oder wenigen Gliedern beſtehen.
+Zur Vergleichung wollen wir Ä Formel für die Va-
+riationen des Knotens und des Parameters nehmen.
+Daſs jener ſo, wie die der Neigung, bloſs "Ä
+rit-

@@ -1,0 +1,119 @@
+629
+-
+63o
+* Num. 183 AUGUs r | s 2s. :
+- - - - --- 1- - - - - --
+tions-Theorie. Hätt“ er Kriterien nachgewieſen
+für die Möglichkeit oder Unmöglichkeit des vollen-
+deten Roſieſprunges auf einer gegebenen Tafel;
+und hätt’ er den Beweis geführt, daſs ſeine Trans-
+formations-Methode geeignet ſey, nach und nach
+die Enden der Bahn auf alle Felder der Tafel zu
+bringen: ſo würde die Transformation unvollendeter
+Bahnen ſicher zum Ziele führen, wenn ſchon oft auf
+langwierigem Wege, durch ſucceſſive Hereinziehung
+der unbeſetzt gebliebenen Felder. .
+Von einer ganz anderen Seite faſste der Franzos
+Yandermonde das Problem auf in ſeinen Remarques
+/ur les problémes de ſituation, Mén de l'Acad.
+royale d Paris 17zt, p. 566 ſqq. Eingedenk, daſs
+Leibnitz einen Calcul des ſituations verſprochen
+hatte, aber geſtorben war, ohne der Welt die neue
+Wiſſenſchaft mitzutheilen, ſuchte er den Röffel-
+ſprung, als Typus eines folchen Calculs, der Arith-
+metik zu unterwerfen, ſo daſs man durch bloſse
+Combination von Zahlen, ohne geſchachte Tafel,
+eine Springerbahn finden und ihre Lage bezeichnen
+könnte. Zu dieſem Behuf numerirte er die Reihen
+der Felder in folgender Maaſse:
+4-
+Z-
+2.
+I-2. Z-4.
+und benannte nun jedes Feld durch zwey bruchar-
+tig (eine unter die andere) geſchriebene Zahlen,
+deren eine ausdrückte, das wievielte es in der ho-
+rizontalen Richtung ſey, während die andere deſſen
+Stellung in der vertikalen Richtung bezeichnete:
+ganz analog der Methode, nach welcher man die
+Qerter auf der Erde durch Längen- und Breiten –
+Grade beſtimmt z. B.
+- - - -
+5_5_ # # #
+_________
++ + + + +
+5
+- - - - -
+. 2 5 4 5
+*_ *_ | *_ | *_ | *
+- 5 4 5
+++ - - -
+__-__5 | 4 | 5
+Stehe nun der Springer, wo man will, z. B. auf
++; ſo geht er von da entweder auf einen Bruch,
+deſſen Zäbler umr, und deſſen Nenner um 2 von
+denen des Standfeldes differiren, z. B. auf + I
+-y
+*
+– -
+oder auf einen Bruch, von welchem der
+Zähler Um 2 , der Nenner aber um 1 von denen des
+Standfeldes unterfchieden ſind, z. B. auf + 3 # -
+Das liegt klar in der Natur der Sache: denn er kann
+nicht in den Reihen feines Standfeldes bleiben; geht
+er nun in die nächſte Vertikalreihe, ſo überſpringt
+er die nächſte Horizontalreihe; und umgekehrt,
+geht er in die nächſte Horizontalreihe, fo muſs er
+die nächſte Vertikalreihe überſpringen. - Da nun die
+Zähler die Vertikalreihen, die Nenner aber die Horiz.
+R. numeriren (hier vom unteren Eckfelde zur linken
+aus); ſo iſt klar, daſs die Differenz der Zahlen über-
+all = 1 oder = 2 ſeyn muſs, und zwar = 1 bey den
+Zählern, wenn ſie bey den Nennern = 2 iſt, und
+umgekehrt. Das giebt denn für den Springer den
+allgemeinen analytiſchen Ausdruck:
+º t oder auf g + 2
+b + 2 b+
+Auf einer gegebenen Tafel von n Feldern einen
+Röſſelſprung finden, heiſst alſo nach Wandermonde
+nichts anderes, als die rt verſchiedenen Brüche, wel-
+che die Felder bezeichnen, dergeſtalt in eine Reihe
+ordnen, dafs Zähler und Nenner zweyer Nachbarn
+ftets um 1 oder 2 von einander differiren, und zwar
+jene um 1 , wenn dieſe um 2, und umgekehrt, dieſe
+unr. 1, wenn jene um 2.
+Auf dieſe ſinnreiche Weiſe hat Yandermonde
+die Aufgabe zwar in arithmetiſcher Geſtalt hinge-
+ftellt: man hat nur mit Zahlen zu thun, man braucht
+nicht weiter an Springer, Schachtafel und Lagen der
+Felder zu denken. Aber an einer mathematiſch
+ſichern-Auflöſung hat er es fehlen laſfen. Man muſs
+verſüchen in jedem Falle, ob die gegebenen Brüche
+Jünntlich in eine ſolche Reihe ſich ordnen laſſen;
+und wenn man nicht zufällig einen Umſtand ent-
+deckt, welcher arithmetiſch beweiſt, daſs es unmög–
+lich iſt; ſo kann man von der Unmöglichkeit, felbſt
+nach 1oo.ooo vergeblichen Verſuchen, nicht über–
+zeugt ſeyn. Auch Yandermonde alſo hat eben ſo
+wenig, als Euler gefunden, was die Mathematiker
+Jichen, wenn ſie von einer allgemeinen Regel ſpre-
+chen, nach welcher ſich a priori, ohne empiriſche
+Verfuche, auf jeder geſchachten Tafel entwecker ein
+Röſſelſprung finden, oder, wenn er bey deren rich–
+tiger Anwendung nicht gefunden wird, mit Sicher-
+heit ſchlieſsen läſst, daſs auf dieſer Tafel keiner
+möglich ſey- Ein Fall der z. B. bey Quadrattafeln
+von 9, und von 16 Feldern evidenter Weiſe eintritt:
+bey 9 Feldern nämlich, weil das Mittelfeld gar kei–
+nen Zugang und Ausgang für den Springer hat; und
+bey 16 Feldern, weil die 4 Eckfelder zufamrnénge-
+nommen nur, 4 gemeinſchaftliche Ausgänge (die
+Mittelfelder) haben, und umgekehrt dieſe nur die
+4 Eckfelder.
+In dieſer Lage nun ſcheint die Sache des Röſ-
+ſelproblems geblieben zu ſeyn bis auf unfern Vf.
+Wenigſtens finden wir nirgends, auch nicht in Kis–
+gels reichhaltigem mathematiſchen Wörterbuche, wo
+der
+«.
+Von -- entweder auf

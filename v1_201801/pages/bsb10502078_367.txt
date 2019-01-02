@@ -1,0 +1,121 @@
+685
+686
+Num. 86. APRIL I 82 o.
+auf die Tangente abgeſchnitten wird. Diefs führt
+zur Beſtimmung eines Bogens der Ä der von
+der Hälfte des Ä um ſo viel abweicht, als
+die Hälfte des auf der Tangente ſeines Endpunkts
+vermittelft eines Perpendikels aus dem Mittelpunkte
+abgeſchnittenen Stückes beträgt. Nimmt man nämlich
+den Winkel p (der auch x vermittelſt der Gleichung
+- e - - 2. - -
+ae = a Sinp beſtimmt), ſo daſs tang? P = vºr ( 1 – c*)”
+ſo iſt dadurch der Quadrant ſogetheilt, daſs beide
+Stücke um ſo viel verſchieden ſind, als das Stück,
+welches auf der am Theilungspunkte gezogenen
+Tangente vermittelſt des Perpendikels aus dem Cen-
+tro abgeſchnitten wird. An dieſe Theoreme, die
+zum Theil freylich ſchon bekannt waren, knüpfen
+ſich mehrere Vergleichungen ellißtiſcher Bogen;
+auch Beſtimmungen von Bogen, die von der Hälfte,
+dem Drittel u. ſ. w. gegebener Bogen um eine alge-
+braiſch beſtimmte Gröſse verſchieden ſind u. ſ. w.
+Bogen, die genau die Hälfte oder das Drittel des
+Ä ſind u. f. w. Aehnliche Vergleichungen
+nden für die Bogen der Hyperbel Statt. -
+Der Vf, geht nun zur Betrachtung einiger Inte-
+gralformeln über, die ſich auf unſere Transſcenden-
+ten zurückführen laſſen, und die vorzüglich deswe-
+gen hier betrachtet werden, weil mit Hülfe einiger
+ſchon von Euler gefundener Vergleichungen ſich
+merkwürdige Folgerungen aus ihnen ableiten laſſen.
+Die Reihen, welche der Vf. noch für die Beſtimmung
+des vollſtändigen, von P = o bis 6' = 7r genomme-
+nen Integrals ſdP vM (1 – c” Sn” p) giebt, wollen wir
+übergehen; ſeine Herleitungen derſelben aus Wer-
+then, die ſelbſt für eine erſte Approximation kaum
+hinzureichen ſcheinen, hat uns weniger befriedigt,
+als die übrigen Unterſuchungen.
+Aehnliche Betrachtungen ſtellt der Vſ. nun auch
+über die dritte Klaſſe unſerer Transſcendenten an.
+Wir wollen ſie vorbey laſſen und dagegen einige Re-
+ſultate mittheilen, die ſich bequemer in der Kürze
+darſtellen laſſen. Die Betrachtungen über das Inte-
+dp
+gra J7TFFE
+the von c die Bogen der Lemniſcata darſtellt, füh-
+ren zu bequemeren Formeln, als dasjenige, wodurch
+die Bogen der Ellipſe ausgedrückt werden; wir
+müſſen uns daher hier begnügen, anzugeben, wie
+der Vf zur Ausrechnung der Werthe jenes Integrals
+gelangt, und können über die Bogen der Ellipſe nur
+im Allgemeinen bemerken, daſs ſie auf ziemlich glei-
+che Weiſe, jedoch mit Hilfe von Formeln, die ei-
+nige Glieder mehr enthalten, dargeſtellt werden.
+Wenn wir uns unſre Function einmal auf c und p,
+das andere Mal auf c' und ' bezogen denken, und die
+, welches bey gewiſſem Wer-
+beiden letztern Gröſsen ſo annehmen, daſs c = 2 Y 4?
+I -- C
+q.“ aber alle Mal durch sin (2 D – D") = c“Sin D“ gege-
+ben fey: ſo findet zwiſchen den beiden Integralen
+folgende gegenſeitige Beſtimmung Statt:
+dP
+VF TFSFZ).
+( 1 + c') d?“_ _
+2 VFÄFF -
+.
+Nimmt man nun eben ſo c“ = TTF und Sin (2p“– p“)
+= c“Sin P, und ſo ferner, ſo iſt
+JF-ÄF
+«V V (1 – c? Sin? P)
+-Ä+Ä/(FÄFF)
+– – – + – Yi – c“ Sin3 p")
+Dieſe Folge von Werthen kann man immer weiter
+nach demſelben Geſetze fortſetzen, und da c'alle-
+mal kleiner als c, c“ kleiner als c' u. ſ. w. wird, ſo
+kömmt man endlich auf Werthe, die für einen ver-
+langten Grad von Genauigkeit hinreichen, um
+JFÄ
+Y(1 – c (1?. Sin? (")
+als = Pl" anzuſehen. Da man nun den Werth von
+PL"), oder dasjenige D in unſerer Reihe, wo die eben
+erwähnte Gleichſetzung erlaubt iſt, für jeden Werth
+von @ berechnen kann, ſo iſt das Integral bis zu die-
+ſem Werthe von P ſo genau, als es gefodert wird,
+anzugeben. So haben wir alſo Mittel in Händen,
+für jedes beſtimmte c die Folge aller Werthe des In-
+- dP - –
+tegrales J/ (I –c* Sin? P) durch alle Werthe von
+zu berechnen. Der Vf, giebt hier zuerſt eine Ta-
+fel der vollſtändigen Werthe dieſes Integrals (näm-
+lich von d = obs (P = r) für alle Werthe von c.
+Da c zwiſchen o und 1 liegen muſs, ſo iſt c = Sin S
+geſetzt und die Tafel geht alle Werthe von S von o
+bis 90° von Grad zu Grad durch. Eben die Tafel
+enthält auch die vollſtändigen Werthe der Integrale
+fdp y (1 – c” Sin” P), oder giebt die Länge des Qua-
+dranten aller Ellipſen an, deren Excentricitäten
+= Sin. 1°, = Sin. 2° u. ſ. w. ſind.
+Die Betrachtungen, welche der Vf. Über die
+zweyte und die dritte Klaffe unſerer Transſcenden-
+ten anſtellt, die Anwendungen, die er auf die Be-
+ſtimmung der krummen Oberfläche des ſchiefen Ke-
+gels, auf die Beſtimmung der kürzeſten Linien zwi-
+ſchen zwey Punkten auf der Oberfläche des Sphä-
+roids und die Beſtimmung der Oberfläche des Sphä-
+roids macht, müſſen wir übergehen. Daſs hier viele
+ſchöne und lehrreiche Betrachtungen vorkommen,
+daſs manche neue und ſcharfſinnig abgeleitete Auflö-
+fungen gefunden werden, wird jeder fchon aus deun
+bisher Geſagten wohl vermuthen. Eine Reihe von
+Integralformeln, die ſich auf dieſe elliptiſchen Trans-
+fcendenten zurückführen laſſen, machen den Be-
+ſchluſs dieſer Abtheilung.
+/ c“
+Der Vf, hat aber feine Betrachtung dieſer Fun-
+ctionen damit nicht geendigt, ſondern liefert uns in
+dem zweyten Supplement Tafeln für die elliptiſchen
+Transfcendenten und Methoden, dieſe Tafeln leich-
+ter zu berechnen. Die Tafeln enthalten nun Foº
+(CS.

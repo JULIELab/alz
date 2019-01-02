@@ -1,0 +1,109 @@
+969:
+-
+-
+– I22 –
+E R GÄNZU N GS BLÄT T E R.
+97d
+ZUR
+AL L GE M E I N EN LI T ER ATUR -
+Z E I T U N G
+November
+1 81 7.
+MATHEMATIK.
+JENA, im Verl. d. Cröker. Buchh.: Kritik der Pa-
+rael - Theorie, von Joh. Jof Ign. Hoffma"-
+u. ſ. w.
+(Deſohluſs der im 121. Stück abgebrochenen Recenſion.)
+Es folgt jetzt die ſo berühmt gewordene Theorie
+von Hindenburg, die derſelbe zuerſt in einer Ab-
+hand.: Ueber die Schwierigkeit bey der Lehre von den
+Parallellinien, dem Publicum vorlegte. S. d. 2te St.
+des Leipz. Mag. d. Naturk., Mcth. u. Oec. f. 781. In
+der Folge hatte ihr Vf. Gelegenheit, dieſe Theorie
+noch mehr zu verbeſſern, woraus ſein neues Syſtem
+er Parallellinien entſtand, welches hier wörtlich
+mitgetheilt wird. M. 1 auch Leipz. Mag. für reine
+und angew. Mathem. v. Bernoulli u. Hindenb. 3s St.
+Bey der Prüfung dieſer Theorie äuſsert der Vf. , daſs
+es allerdings mit einem hohen Grade von Scharfſinn
+ausgedacht und mit einer » ſeinem Vf, ganz eigen-
+thümlichen Gewandtheit durchgeführt ſey und macht
+als dann zuvörderſt über die von Hindenburg zum
+Grunde gelegte Euklidiſche Definition der Paralle-
+len die Bemerkung, daſs ſie eigentlich negativ ſey,
+intern ſie die Natur der Parallelen nicht durch ein
+wirkliches (poſitives) Merkmal beſtimme, ſondern
+ihre Eigenthümlichkeit lediglich auf die Unmöglich-
+keit des Durchſchnitts der Linien zu beiden Seiten,–
+alſo offenbar auf ein negatives Kernzeichen beſchrän-
+ke. L)er Vf. vernmut het nicht ohne Grund, daſs eben
+hierin die Urquelle der Schwierigkeiten zu ſuchen
+fey, welche ſich bey Berichtigung dieſer intricaten
+Materien aufwerfen, und er erlaubt ſich deshalb an
+dieſer Stelle ein paar Worte hierüber zu ſagen, weil
+man, ſo viel er wiſſe, den eigentlichen Grund dieſer
+Schwierigkeit gerade in dieſem Umſtande noch nicht
+aufzufinden, verſuchte. Die negativen Merkmale,
+ſagt er, ſind von der Art, daſs man ſie nur aus den
+ihnen entgegengeſetzten poſitiven erkennt. Sind dieſe
+beſtimmt und deutlich, ſo laſſen auch die Negationen
+der ſelben keine fernere Undeutlichkeit und Unbe-
+ſtimmtheit zu. Ift hingegen der poſitive Begriff ſelbſt
+noch nicht gehörig beſtimmt, ſo fällt dieſe Unbe-
+ftimmtheit mit auf den negativen von jenem abgelei-
+teten. Soll alſo der negative Begriff den höchſten
+Grad der Vollkommenheit beſitzen, ſo muſs der ihm
+entſprechende poſitive auf eine evidente Art, – wie
+bey den genetiſchen Erklärungen, – dargeſtellt wer-
+der können. – Unſer Vf. wendet nun dieſes auf die
+Ärgänz. B. zur A. L. Z. 1817.
+Euklidiſche Definition mit groſsen Scharfſinn und
+völlig treffend, an. Es geht daraus, ſagt er, die ei-
+gentliche Natur der Euklidiſchen Definition hervor, -
+deren wahrer Charakter darin beſteht, daſs kein
+Durchſchnitt erfolge. – – Dieſer negativen Be-
+ſtimmung läſst ſich die poſitive Erklärung entgegen
+ſetzen: Gerade, in Einer Ebne liegende Linien ſind
+nicht parallel, wenn bey ihrer Verlängerung auf ei-
+ner Seite ein Durchſchnitt erfolgt, obgleich ihr Ab-
+ſtand noch ſo groſs, oder ſo klein iſt. – Dieſe po-
+fitive Erklärung kann aber nach dem Vf, nicht ange-
+nommen werden, weil ſie ſelbſt erſt als Folgeſatz aus
+der ganzen Unterſuchung hervorgehen ſoll, und es
+kann deshalb auch die negative Erklärung durch fie
+keine vollſtändige Beſtimmung erhalten. Es bleibt
+alſo nichts übrig als die poſitive abzuleiten. Allein,
+fährt unſer Vf. weiter fort, ſtreitet dieſes nicht wider
+die Natur der Sache ſelbſt, da ſich das Poſitive nicht
+durch das Negative beſtimmen läſst, weil das Nega-
+tive ſelbſt nichts anders, als eine Abweſenheit oder
+Verneinung des Poſitiven iſt und ſomit das letztere
+jedesmal vorausſetzt? – Der Vf. erwähnt auch, daſs
+man das Schwierige dieſer Theorie bisweilen auf
+Rechnung des Begriffs vom Unendlichen, welcher
+ſich dabey Ä gelchrieben habe, und glaubt,
+daſs es nicht ſchwer ſey, einzuſehen, daſs j dieſe
+Schwierigkeit als eine Ä Folge aus dem Obigen
+ableiten laſſe und folglich ebenfalls in der negativen
+Beſtimmung des Begriffs der Parallelen zu ſuchen
+ſey. Die öÄ übrigens, woraus dieſe Definition
+durch poſitive Merkmale hergeleitet werden kann,
+aufzufinden, hält der Vf. für ſchwer; indem die Be-
+trachtung der Parallellinien als gleichweit abſtehende,
+wieder neue Hinderniſſe in den Weg legt. Was aber
+nun die Prüfung der Hindenburgiſchen Beweisart
+ſelbſt betrifft, ſo bemerkt der Vf. , daſs zwar mehre-
+res in derſelben die vollkomrrenſte Evidenz habe, z.
+B. daſs das Parallelſeyn (d. h. das nicht Zuſammen-
+treffen) gerader Linien weder von der Gröſse, noch
+von der Entfernung derſelben abhange, fey auſser
+Zweifel; – wenn hingegen Hindenburg ſage, daſs
+der Parallelismus bloſs von der gegenſeitigen Lage
+dieſer Linien abhange, ſo müſſe man (urn Fier nicht
+ſchon mehr zu folgern, als erwieſen ſey) ſehr ſcharf
+und genau unterſcheiden.“ Der Satz: zwey gerade
+Linien , ſie mögen noch ſo groſs, oder nach ſo klein,
+noch ſo entfernt, oder noch ſo nahe ſeyn, können
+einmal in den Zuſtand kommen, daſs ſie fich nicht
+durchſchneiden, beſtimme allerdings eine gewiſſe
+G (5) Lage

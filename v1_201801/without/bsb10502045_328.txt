@@ -1,0 +1,124 @@
+61 x
+612
+ALLo. LITERATUR - zEITUNG
+Bedingungsgleichung für das Differential zuerſt der
+Ä Ä des Apheliums und der Ex-
+juricität, und dann auch des Knotens und der Nei-
+gung abgeleitet. ...Aus dieſen Bedingungsgleichungen
+jickÄlte der Vf, zuletzt die unbekannten Gröſsen
+ſelbſt, nämlich die Verbeſſerungen der vorausgeſetz-
+ten La Landeſchen Elemente» nach der von Legendre
+jd Gauß vorgeſchlagenen Methode der kleinſtenQº-
+drate. Nach allen dieſen Unterſuchungen fand nun
+der vf. folgende Reſultate für ſeine neuen Tafeln:
+Tägliche tröpiſche Bewegung 1“, 36, 7“,8074, hun-
+derjährige 6 Z., 19°, 12', 44“,95 und daraus: Tºp-
+ſcher Umlauf der Venus 224 T., 16 St., 41', 25“,847
+Sideriſcher Umlauf 224 T., 16 St., 49, 7“987 und
+halbe groſse Axe oder mittlere Entfernung vor der
+Sonne 6,72333166. Ferner für 1759 : Mittlere helio-
+centriſche Länge 1 Z., 16°, 18', 14“, (im Seeberger
+Meridian) Länge der Sonnenferneo Z., 8“, 3', 55“,6-
+des Knoten 2 Z., 14°, 27', 41“,7. Excentricität
+o,oo691620. Ä der Bahn 3°, 23', 25“,7. Gröſste
+Gleichung des Mittelpunkts 47', 33“,2. ie jährli-
+chen Aenderungen nach den Ä find: für
+die Sonnenferne + 46“, 98103, für die Excentricität
+– oooooo1087587 den Knoten + 29“, 955 und die
+Neigung + oº, 6551724; die gröſste Gleichung ver-
+miniert ſich jährlich um o“, 486. (Da auch S. 14-
+und 18. die Neigung in 58 Jahren um, 3“, 2 zunimmt,
+ſo kann die jährliche Aenderung nicht o. 0724. ſeyn»
+wie es S. 9. durch einen Rechnungsfehler heiſst.»
+ſondern es muſs dafür o“, o5517 geſetzt werden). Die
+jährliche Aenderung des Knotens fand der Vf. noch
+auf eine andere Art aus den Durchgängen von 1639.
+und 1769. = 31“,4: in ſeinen Tafeln nahm er das
+Mittel aus dieſer, und aus der obigen Beſtimmung»
+demnach 30“,66. Die von dem Vf gefundenen Se-
+cularänderungen ſtimmen nicht ſonderlich gut mit
+den Reſultaten der Laplaceſchen Theorie, und am mei-
+ſten weicht die Bewegung des Knotens ab. Wie ſchon
+Olbers in der Mon. Cörr. (1810. Oct. S. 393.) bemerkt
+hat, und der Vf. auch ſelbſt zugeſteht: ſo hätte ſich
+Ort und Bewegung des Knotens mit etwas mehr Si-
+cherheit, und auch mehr übereinſtimmend mit der
+Theorie aus den bloſsen Durchgängen ableiten laſſen;
+indeſs erinnert der Vf. daſs dadurch der heliocentri
+ſche Ort in der Ecliptik nie um eine halbe Secunde
+ſich ändern könne. Für diejenigen, die lieber der
+theoretiſchen Secularänderungen nach Laplace ſich be-
+dienen wollten, hat der Vf, am Schluſſe der Einlei-
+tung eigene Tafeln geliefert, nebſt einigen andern
+nützlichen Tafeln, in welchen der Einfluſs einer be-
+ſtimmten Aenderung der mittlern Anomalie und der
+Excentricität auf die Mittelpunktsgleichung, und der
+Einfluſs einer Aenderung des Breitenarguments und
+der Neigung auf die Ä Breite ausführ-
+lich dargeſtellt wird. – Mit gleicher Sorgfalt, wie
+die elliptiſchen Elemente, ſind von dem Vf. auch
+II. die Perturbationsgleichungen, die nach dem neueren
+Zuſtande der Aſtronomie bey keinem Planeten fehlen
+dürfen, behandelt worden. Er bediente ſich dabey,
+wie natürlich, der von Laplace in ſeiner Mécanique cé-
+lefte, Tome III. aufs genaueſte entwickelten Störun-
+gen der Venus durch Mercur, Erde, Mars und Jupi-
+ter, und glaubte bloſs einige Coéfficienten derſelben
+in Rückſicht auf die Laplaceſche Maſſe des Mars in ſo
+weit ändern zu müſſen, daſs er dieſe Maſſe, den neue-
+ren Unterſuchungen von Delambre und Wurm gemäſs,
+im Verhältniſs von 0,725 zu 1 verminderte. Das
+Maximum aller Störungen der Venus in der Länge
+kann nach des Vfs. Tafeln bey 26 Secunden betragen.
+Von 24 Störungen der Länge, die aus der Theorie
+ſich folgern laſſen, und in der Einleitung alle nament-
+lich angeführt werden, hat indeſs der nur 12 in
+ſeine Tafeln aufgenommen, und die übrigen die nicht
+anz o“,3 betragen, übergangen. Für den Radius
+ector finden ſich 6 Störungstafeln; auch 8 Perturba-
+tionsgleichungen der heliocentriſchen Breite, welche
+die Theorie darbietet, hat der Vf. aufgeführt, aber,
+da ſie die Breite, um keine halbe Secunde ändern kön-
+nen, nicht in Tafeln gebracht. Alle Störungen ſind
+übrigens zur leichteren Rechnung poſitiv eingerichtet,
+und die zu jeder Gleichung addirten Conſtanten ſind,
+was nicht immer bey ſolchen Tafeln geſchieht, aus-
+drücklich angezeigt. – Was die Ä Anordnung
+der Tafeln betrifft, ſo hat der Vf., was ihm Aſtrono-
+men, die wirklich Planetenörter berechnen, nach
+der heutigen Lage der Sachen nicht verdenken wer-
+den, das Sexageſimalſyſtem befolgt, nur mit Aus-
+nahme der Störungsgleichungen, und überhaupt nichts
+verſäumt, was zur Bequemlichkeit des Rechners und
+zur Abkürzung des in neueren Zeiten durch die Per-
+turbationen ohnehin ſo ſehr erſchwerten Planetencal-
+culs dienen konnte. Die Epochen ſind auf den See-
+berger Meridian geſtellt, und umfaſſen alle einzelnen
+Jahre von 1750 bis 185o. (Vielleicht wäre es gut ge-
+weſen, zum Behuf der Berechnung älterer Beobach-
+tungen auch noch die Jahre 17oo, 1600, und, wegen
+des Uebergangs vom alten zum neuen Stile, das Jahr
+15oo. unter die Epochen aufzunehmen.) Für die Mo-
+nate iſt die Bewegung auf jeden Tag beſonders ange-
+geben, die Ä iſt von 2o zu 2o Mi-
+nuten des Arguments mit überall beygefügter Secular-
+änderung berechnet, eben ſo der Radius Vector mit
+ſeiner Secularänderung. Als Anhang der Tafeln für
+den heliocentriſchen ö hat der Vf. noch beygefügt:
+Tafeln für den Abſtand der Venus von der Erde; für
+die Aberration der Länge, für die Horizontalpa-
+rallaxe und den ſcheinbaren Halbmeffer der Venus;
+der Halbmeſſer wird für die Conjunction und bey den
+mittlern Entfernungen der Erde und Venus von der
+Sonne = 28“, 9 und die Horiz. Par. = 31“,4 geſetzt:
+für die Längenaberration ſind S. 25. nach dem Ä
+niſſe des Berechners dreyerley Methoden, darunter
+auch die bloſse Befreyung des Beobachtungsmoments
+von den Einflüſſen der Aberration nach Duſéjour, an-
+geführt. Zwey vollſtändige Rechnungsbeyſpiele zei-
+en dem Anfänger hinreichend den Gebrauch dieſer
+Ä nach allen ihren einzelnen: Beſtandtheilen.
+Rec. hätte gewünſcht, daſs es dem Vf. gefallen haben
+möchte, entweder alle 178 Beobachtungen, wodurch
+die Tafeln conſtruirt ſind, oder doch eine bei Ä
+- CI18

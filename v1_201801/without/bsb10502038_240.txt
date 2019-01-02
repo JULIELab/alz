@@ -1,0 +1,124 @@
+29I
+292
+ALLG. LITERATUR - ZEITUNG
+welche in dieſen erſten Tafeln zum Grunde liegen,
+nicht erlitten. Den Ort des Apogäums gaben neuere
+Unterſuchungen nur um eine Ä anders, als
+in den ältern Tafeln; er erſcheint hier für die Epoche
+1804 um 43 Secunden vermehrt. Die Epoche der
+mittlern Länge der Sonne iſt um 4 Secunden kleiner
+als vorhin, für eben dieſen Zeitpunkt angenommen
+worden. Zwar ſetzte der Vf, dieſe Verminderung der
+mittlern Längen ſchon vor einigen Jahren auf 7,2 Se-
+eunden, legte aber bey Vergleichurg ſeiner Sonnen-
+beobachtungen mit geraden Aufſteigungen der Fix-
+ſterne noch den ältern Maſkelyneſchen Sterncatalog
+zum Grunde; neuerdings nahm er bey jener Reduction
+auch die bekannte Verbeſſerung nit in Rechnung,
+nach welcher Maſkelyne alle ſeine Rectaſcenſionen um
+3,8 Secunden vermehrt wiſſen will, und ſo wurde
+beynahe um eben dieſen poſitiven Zuſatz der negative
+Fehler der Epochen der mittlern Länge vermindert.
+So wenig ſich auch die von Maſkelyne vorgeſchlagene
+Verbeſſerung völlig verbürgen läſst, ſo ſchien es dem
+Vf, doch am ſicherſten, von derſelben bey ſeinen Son-
+Mentafeln Gebrauch zu machen, bis durch fortgeſetzte
+ſchärfere die Vergleichung mit einem Maſkelyneſchen
+Catalog aufhaltende Unterſuchungen die Ä mehr
+ins Klare geſetzt wird; jede Berichtigung, ſie ſeypo-
+ſitiv oder negativ, wird alsdenn in gleichem Maſse
+auch die Epochen der mittlern Sonnenlänge treffen,
+und leicht nachgeholt werden können. Die ſechste
+Tafel enthält die Gleichung des Mittelpunkts (mit un-
+verändert gelaſſener Excentricität der Sonnenbahn)
+für das Jahr 1802., nebſt beygefügter Secularände
+Ä. deren Gröſstes 18“, 82 beträgt; dem Raume
+mach iſt zwar dieſe Tafel viel beſchränkter, als die
+gleichnamige der frühern Ausgabe, doch ohne Nach-
+theil für den genaueren Calcul, da auch beym Gebrau-
+che dieſer kürzeren Tafel der gröſste Irrihum, den
+man bey Vernachläſſigung der zweyten (übrigens
+leicht mitzunehmenden) Differenzen begehen kann,
+nicht über o“, 2 ſteigt. Die Gleichung ſelbſt iſt indeſs
+von 25 zu 25 Theilen des Arguments angeſetzt, aber,
+um eine unbequeme Diviſion zu erſparen, iſt die Dif-
+ferenz nicht für alle 25 Theile, Ä nur für Ä Un-
+terſchied des Arguments jedesmal beygefügt. – Die
+vornehmſten Elemente des elliptiſchen Sonnenlaufs, ohne
+Inbegriff der Störungen, ſind in den neuen Tafeln
+nun folgende: Epoche der mittlern Länge der Sonne
+für den Meridian der Erneſtiſchen Sternwarte, oder
+für 33“ 35“ öſtlich in Zeit von Paris, und für das Jahr
+1804. = 92 9 54 26“, 51. Mittlere Anomalie der
+Sonne für eben dieſe Zeit 5oo9, 84, für den Umkreis
+Ioooo, oder Ort der Sonnenferne = 3? 9 33“ 11“.
+Mittlere tropiſche Bewegung der Länge in 1oo Julia-
+miſchen Jahren 45“ 48“, o der Anomalie 9973, 35 oder
+des Apogäums “43“ 2o“. Gröſste Mittelpunktsglei-
+chung “55“ 28“ und Excentricität der Bahn 1, o16-923
+Ä. für den Zeitraum 18oo. Die Secularbewe-
+gung der mittlern Länge in der vorigen Ausgabe war
+12 Secunden ſtärker: an der vorgenommenen Ver
+minderung hat hauptſächlich die jetzt etwas kleiner
+vorausgeſetzte Praeceſſion der Nachtgleichen Theil. –
+Für die Störungen in der Länge der Sonne folgen nun
+2o beſondere Ä » ſtatt daſs die erſte Ausgabe de-
+ren nur ſechs enthielt; für die neun erſten find in der
+zweyten Tafel auch die Bewegungen ihrer Argumente
+angegeben; die übrigen Argumente laſſen ſich aus den
+neun erften durch bloſses Addiren und Subtrahiren
+leicht herleiten. Die Formeln, welche bey dieſen
+Störungen zum Grunde liegen, ſind meiſt eben die-
+jenigen, welche de la Place in ſeiner Mécanique céleſte
+aus der Theorie der Schwere abgeleitet hat; zur be-
+quemern Berechnung der Tafeln findet man ſie indeſs
+hier in eine etwas veränderte Form gebracht, nach
+welcher die Conſtanten bey de la Place wegfallen, da-
+egen aber Sinus mit Coſinus vermiſcht erſcheinen,
+# kleine Aenderungen, die der Vf, mit den La-
+laceſchen Störungsformen vorgenommen hat, be-
+Ä bloſs darin, daſs ſie mit Vorausſetzung der
+neueſten Beſtimmungen der Maſsen einiger Planeten
+berechnet worden - oder daſs dabey, nach de la Pla-
+ces jüngſten Ä - die vorhin von dieſem
+angegebene Maſse des Monds mit o, 8555, die der
+Venus mit I, o743, die des Mars mit 0,725 multipli-
+cirt, und Saturns Malse nach Bouvard verbeſſert wor-
+den iſt. Unter dieſen Störungen der Länge gehört
+übrigens eine Tafel der Wirkung des Monds, fünf
+der Wirkung der Venus, ſechs dem Mars, fünf dem
+Jupiter, Ä zwey dem Saturn zu. – Den wahren
+elliptiſchen Abſtand der Erde von der Sonne, den mitt-
+leri = I geſetzt, giebt die 29 Tafeln in Zahlen,
+nicht in Logarithmen, an, weil ſich doch die Loga-
+rithmen der Abſtände nicht genau in demſelben Ver-
+hältniſſe, wie die Zahlen der letztern, ändern; indeſs
+iſt der Abſtand überall auf 7 Decimalſtellen berechnet.
+Auch für den Radius Wector ſind 1o verſchiedene Stö-
+rungstafeln beygefügt, ſo daſs er ſich für jeden Fall
+mit der möglichſten Schärfe berechnen läſst. – Die
+Tafeln 4o – 45 enthalten die Bewegungen der Sonne
+in Zeit, und ſind ein kurzer aber vollſtändiger Aus-
+zug aüs der neuern Ausgabe der Gothaiſchen Zeitver-
+wandlungstafeln, welche zu gleicher Zeit mit dieſen
+Sonnentafeln im J. 1804. 8. erſchienen ſind. – Der
+Schiefe der Ekliptik ſind die 46–48 Tafel gewidmet,
+weiche einige weſentliche Veränderungen erhalten ha-
+ben. Die Epoche der mittlern Schiefe auf 18oo. iſt
+zufolge genauer meiſt mit ganzen Kreiſen angeſtellter
+Beobachtungen zu 23 27'56“, 65 die Secularabnahme
+nach de la Places neueſten Unterſuchungen zu 52“, 1
+angenommeu: die vorige Ausgabe hatte die Abnahme
+noch auf 34“, 4 und die mittlere Schiefe 18co. um
+6“, 65 gröſser geſetzt. Die mittlere Schiefe wird,
+neben dem daſs man den Proportionaltheil der Secu-
+larabnahme in Rechnung bringt, durch die zwey fol-
+enden hier in Tafeln gebrachten Formeln nach de la
+lace verbeſſert, oder in ſcheinbare Schiefe verwan-
+delt: + 9“, 55 multiplicirt mit dem Cofin. , des
+Mºndsknoten + o“, 434 multiplicirt mit dem Cofin.
+der zweyfachen Sonnenlänge. – Etwas ganz neues,
+das gegenwärtige Sonnentafeln das erſte mal enthal-
+ten, ſind auch die Gleichungen der Breite der Sonne
+von Taf. 49–52. Die Theorie führte den Ä
+C1EO.

@@ -1,0 +1,126 @@
+373 Num. 24O.
+374
+OCTOBER 18 14.
+mirung gleich hoher Potenzen von allen Wurzeln einer
+Ä# Gleichung. Es iſt hier zuerſt von Ver-
+wanáſung eines Bruchs, deſſen Zähler oder Nenner,
+oder auch beyde aus Gliedern beſtehen, die nach Po-
+tenzen einer Hauptgröſse geordnet ſind, in eine Reihe
+die Rede, welche gleichfalls nach Potenzen derſelben
+Hauptgröſse fortſchreitet. Das gewöhnliche Verfah-
+ren Äurch Multiplication einer hypothetiſch angenom-
+menen Reihe mit dem gegebenen Nenner wird auch
+hier zum Grunde gelegt. Nur hätte doch näher ge-
+zeigt werden ſollen, warum die Summen der nach
+men Potenzen geordneten einzelnen Producte nur
+dadurch = o Äj werden können, daſs die zu den
+verſchiedenen Potenzen gehörigen Coëfficienten alle
+einzeln für ſich =o geſetzt werden. Hier wird nun
+wieder gezeigt, wie die Combinationslehre das ganze
+Verfahren abzukürzen dient, welches in vielen frü-
+heren Schriften (z. B. von Karſtan, Käſtner u. a.) nicht
+geſchieht. Zuerſt betrachtet der Vf, einen Bruch
+1.
+von der Form
+» und zeigt,
+1 – «r – 3 x? – 7 x? – Fx...
+wie ſich jedes Glied des Quotienten durch eine recur-
+rirende Reihe dem vorhergehenden Vortrage zu Folge
+finden läſst. Der Vf, hält übrigens den Ausdruck:
+recurrirende Reihe, für unſchicklich, und ſetzt da-
+für lieber: recurrirende Beſtimmung. Wir müſſen
+nochmals erinnern, daſs der wörtliche und wortrei-
+che Vortrag in der That nur zur Hemmung des Ver-
+ftändniſſes dient, daſs man alſo nur ſchnell darüber
+wegleſen und ſich hauptſächlich an die analytiſche
+Zeichenſprache des Textes und an die Noten halten
+müſſe. Nach der Beſtimmung des Quotienten bis zu
+einer beliebigen Potenz folgt nun auch die des Reſtes,
+welcher bey der Diviſion nach dem letzten Gliede
+des Quotienten noch übrig bleibt, weil, ſagt der Vf.
+S.: 143., eine vollſtändige Kenntniſs der eration
+ihn (den Reſt) ſo gut wie den Ä zu begreifen
+hat. Eigentlich gehört zur vollſtändigen Kenntniſs
+ſolcher Verwandlungen auch die Bemerkung, wie
+weiºvºrommenden Fällen die Reihe des Üuotien-
+en, fortgeſetzt werden müſſe; und da dieſe Fortſetzung
+fo ange geſchehen muſs, bis der zuletzt bleibende
+Reſt als Zähler mit dem vorgegebeneuNenner einen
+Bruch bildet, welcher in Bezug auf die Summe der
+ſchon berechneten Glieder des Quotienten als eine
+unbedeutende Gröſse bey Seite geſetzt werden kann,
+ſo folgt hieraus die Wichtigkeit der Kenntniſsdesjedes-
+maligen letzten Reſts, die durch die Combinations-
+und Permutationslehre erleichtert wird. Der vfgeht
+nunmehr zu einer ausgedehnteren Form jenes Bruchs
+über, indem er einen Ausdruck von der Form
+a+ b x-+ cx* + dx?... +m x“ ſtatt 1 im Zähler fetzt.
+Da der vorige Qnotient, mit dieſem Ausdruck mü
+ÄöÄ jetzigen geben muſs, ſo ſieht man, wie
+lieſe Diviſion auf der ſchon vorgetragenen Multipli-
+cation ſolcher Reihen beruht, daher es der Vf. hier
+mit ſolchen Anwendungen zu thun hat, deren Ge-
+brauch bey noch, allgemeineren Formen gleichfalls
+gewieſen wird. Bekanntlich haben die fränzöſ. Ma-
+thematiker bis jetzt von allen dieſen combinatoriſchen
+Ausdrücken noch wenig Notiz genommen; und den“
+noch die verwickeltſten Berechnungen ausgeführt.
+Um dieſes zu begreifen, mögen angehende Mathe-
+matiker die combinatoriſche Sprache kennen lernen,
+wozu ſie in dieſer Schrift hinlängliche Gelegenheit
+finden; nur ſollen ſie fich, wenn ſie dieſe Bekannt-
+ſchaft gemacht haben, nicht an den Troſs der Ana-
+Ä anſchlieſsen, der, ſtolz auf dieſe Bekannt-
+chaft, ſchon Mathematiker zu ſeyn glaubt, wenn
+er auch, wie es der gewöhnliche Fall iſt, noch nicht
+die leichteſten mathem. Aufgaben aufzulöſen verſteht,
+und ſelbſt keine nützliche praktiſche Frage vorzule-
+en weiſs, zu deren Beantwortung ſeine Weisheit
+Ä an die Hand gäbe, noch weniger ſolche, deren
+Beantwortung nur durch jene möglich wäre. In Ver-
+bindung mit combinatoriſchen Betrachtungen kommt
+nun der Vf. auf die Lehre von Summirung gleichho-
+her Potenzen - ſämmtlicher Wurzeln einer höhern
+Gleichung, z. B. x*+ «x*+ßx8+7x“ + 8x +* =o,
+deren Wurzeln a, b, c, d, e noch unbekannt
+ſind. Die Frage iſt alſo, wie ſich hier die Summe
+a + b + c + d +e, a” + b” + c” + d' + e“, a3 + b? + c?
++ d3 + e3 u. ſ. f. in numeriſchen Werthen finden laſ-
+ſen, wenn gleich a, b, c, d, e für ſich noch unbe-
+kannt ſind. Der Vf. ſagt, dieſer Satz (von Beſtim-
+mung jener Potenzenſummen) werde mit Recht für das
+Fundament der ganzen höhern Algebra gehalten. Darin
+können wir ihm aber nicht beytreten. Unſere gröſs-
+ten Analytiker haben ohne dieſen Satz die Analyſis
+trefflich behandelt, hoffentlich die höhere mit inbe-
+griffen; wie konnten ſie aber ein ſo groſses Gebäude
+öhne Fundament aufführen? oder hatten wir vor Ein-
+führung des combinatoriſchen Calculs keine höhere
+Algebrä? Iſt höhere Algebra vielleicht einerley mit
+der Anwendung des combinatoriſchen Calculs? Dann
+Ä wir gerne zu, daſs wir vor dem combinatori-
+chen Calcül noch keinen combinatoriſchen Calcul
+hatten. Vielleicht war aber des Vfs. Meymung auch
+nur die, daſs ſich die wichtigſten Lehren der höhe-
+ren Analyſis auf dieſen Calcul bauen laſſen, wogegen
+wir nichts zu erinnern haben. Uebrigens hätte aber
+ein ſolcher Fundamentalſatz nothwendig mit aller ma-
+thematiſchen Klarheit Ä ſeyn müſſen, die
+wir aber auch hier wieder durchaus vermiſſen. Der
+Anfänger kann kaum errathen, wo der Vf. hinaus
+will. Mangel an Raum kann den Vf, aus einem dop-
+pelten Grunde nicht entſchuldigen: einmal, weil
+man, wie Käſtner ſagt, nicht auf den Gedanken kom-
+men muſs, den groſsen Chriſtoph auf ein kleines
+Hölzchen malen zu wollen; und fürs andere, weil
+die 12 Seiten, welche der Vf, dieſem Satze gewidmet
+hat, der Deutlichkeit hinlänglichen Raum geſtatteten.
+Hiermit hat Rec. um der Gerechtigkeit willen, die
+er dem Vf. ſchuldig iſt, ſogar die Probe gemacht.
+Uebrigens iſt die Bedingung, auf welche ſich S. 164-
+- Y“-- I
+der allgemeine Werth von Ä gründet, auf der vorher-
+gehenden S. 163. nicht richtig ausgedruckt. Statt der
+Worte (S. 163. Z. 3 u. 4) nicht geringer als ... Viel-
+fachen r muſs es heiſsen: nicht geringer als r+ 1.
+Eben-

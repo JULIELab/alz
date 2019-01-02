@@ -1,0 +1,114 @@
+829 - " -
+830
+Num. 104. APRIL 181 1.
+und da ferner, wie man leicht zeigen kann, allgemein
+9“. 7“ - I ?“ . .“ – I . .“ –2
+ſ" - - -
+I. 2“ I . 2. 3“
+=1+ + +....+:
+ſo iſt auch die Reihe hier = I + # + + . . . +,
+und C wie oben. – Den Zahlenwerth der Con-
+ſtante berechnet der Vf. bis auf 22 Decimalſtellen
+= o,577215 664901 532 869 60 65; allein nach Maſche-
+roni's bis auf 32 Decimalſtellen geführter Rechnung
+find von der Soldner'ſchen Zahl nur 19 Ziffern rich-
+tig; die letzten o65 ſollten 181 ſeyn; nach dieſen fol-
+gen noch 1209008239.
+* Die gegebenen Reihen können nur gebraucht
+werden, wenn die Zahl, für welche man das Inte-
+gral berechnen will, nicht ſehr groſs oder ſehr klein
+iſt: denn alsdann wird lx ſehr groſs, und die nach
+Potenzen dieſer Gröſse geordnete Reihe fängt erſt
+ſpät an zu convergiren, und nähert ſich dem wahren
+erthe ſo langſam, daſs es auſserordentlich mühſam
+ſeyn würde, li. x oder li. # darnach zu berechnen,
+wenn x ſehr groſs iſt. Für li . . giebt Soldner den
+- - -
+Ausdruck:
+- ! . 4 : * I. 2. Z
+xlx | 1x ' (lx)* F+:
+der zwar immer divergirt, den er aber practicabel
+macht, indem er ihn in einem continuirlichen Bruch
+verwandelt. Die Methode, die der Vf. dazu anwen-
+det, giebt ihm allgemein die Transformation der Reihe
+1 –mq + m : (m + n) q*– m (m + m) (m + 2n) q3 + ...
+in den Bruch
+- I
+1 + niq
+1 + nq
+1+ (m + m) q
+1 + 2nq -
+1 + (m + 2n) q
+- u. ſ. w.
+fie iſt ſehr natürlich und leicht verſtändlich, allein in
+der Anwendung äuſserſt mühſam. Man hat ſchon
+mehrere Methoden, Reihen im continuirliche Brüche
+zu verwandeln, gegeben; allein gewöhnlich paſsten
+ſie nur für eine Claſſe von Reihen, oder führten beym
+Gebrauch auf mühſame Rechnungen. Rec. glaubt da-
+her dieſe Gelegenheit zur Mittheilung eines Aus-
+drucks, durch welchen man allgemein die Reihe
+c + c / r + c“ x* + c“ x3+ u. f. w.
+in den continuirlichen Bruch
+OZ
+T+- -
+TTT -
+u. f. w.
+verwandeln kann, benutzen zu dürfen, obgleich ſein
+Beweis, und weitere Betrachtungen darüber, hier
+am unrechten Orte ſtehen würden. Man hat näm-
+lich die Gleichungen
+GL = C
+– « «“ = c“
+« «“ x“ = c“ + c“ x“
+= «a“ ox“ a“/“ = c““ +- c“ («“ + «“)
+« ox“ ox“ ax/// « ““ - cIV +- c“ («“ + «“ + ox“/“ ) +- c" a./4/0.“ - -
+– «««“ «“.«“ «V = cV + cºV («“ + x“ + «“ + «“)
++ c“ («“ «“ + «LV ox“ + «IV «“)
+u. ſ. w. * -
+wodurch man mit ſehr geringer Mühe die Coefficien-
+ten, einen nach dem andern, finden, und eben ſo
+die inverſe Aufgabe, die Verwandlung eines cont.
+Bruchs in eine Ä, leicht auflöſen kann. Dieſes
+Verfahren, auf die von Soldner betrachtete Reihe an-
+gewandt, führt faſt ohne Ä zum Ziele, und
+iebt, da beide Methoden richtig ſind, daſſelbe Re-
+Ä Durch dieſe Hülfsmittel gelangt der Vf. zu
+der Beſtimmung der Integral-Logarithmen für ſehr
+kleine Brüche; es bleibt alſo nur die Erfindung der-
+ſelben für groſse Zahlen übrig; allein dieſe iſt ohne
+Zweifel das Schwierigſte bey der Unterſuchung die-
+ſer Function. -
+Man kann, wenn man einen Integral-Logarith-
+men für eine Zahl kennt, durch den Taylor'ſchen Lehr-
+ſatz zu dem, einer wenig gröſseren Zahl zugehöri-
+gen, emporſteigen; von dieſem zu einem folgenden,
+u. f. w. – Obgleich es möglich iſt, auf dieſem Wege
+zu den Integral- Logarithmen ſehr groſser Zahlen zu
+gelangen: ſo iſt ſeine Betretung doch immer ſehr ge-
+wagt, indem er kein Mittel zur Prüfung der Rech-
+nung und zur Entdeckung eines eingeſchlichenen Feh-
+lers darbietet. Eine zweyte Unbequemlichkeit iſt die
+Complication der höheren Differentiale; dieſer ver-
+danken wir ein ſchönes analytiſches Theorem, wel-
+ches die Entwickelung einer Function F(a + x) giebt,
+und oft gebraucht werden kann, wenn der Taylorſche,
+Lehrſatz nicht zu bequemen Reſultaten führt. Hr. S.
+läſst nämlich nicht F(a + x) nach Potenzen von x
+fortſchreiten, ſondern allgemeiner, nach den Poten-
+zen irgend einer Function von x , die nur der Bedin-
+güng unterworfen iſt, daſs ſie für x =o verſchwin-
+det; er ſetzt ſie demzufolge = s = f. (a + x) – fa,
+wo durch f (a + x) eine willkürliche Function von
+a + x bezeichnet wird, und erhält ſo
+F ) = F d Fa s? d”. Fa
+( -- Y ) – AMI -- S , - - - - -
+F(a+ + T * TA (dfa)“
+-- S3 d3 Fa
+1.2.3 \dfa” +-
+Dieſe Entwickelung enthält die Taylorſche als einen
+ſpeciellen Fall, wenn f(a + x) = a + x geſetzt wird:
+fie iſt der Aufmerkſamkeit der Analyſten würdig,
+und Rec. glaubt ſie für das ÄÄe in der
+vorliegenden Schrift erklären zu dürfen. – Der Vf.
+WEIl-

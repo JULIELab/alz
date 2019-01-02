@@ -1,0 +1,121 @@
+851 ALLG. LITERATUR – ZEITUNG 852
+müſſen, als der Vf. annimmt. – Hieraus ſieht man,
+daſs mit einer Vermehrung der Koſten um höch-
+tens - vielleicht gar nur um, durch Verlänge-
+rung einer Scheune mit geradem Dache derſelbe
+Raum erhalten werden könne, als bey einem Boh-
+ºnlache; und wenn ja einmal die Verlängerung
+nicht möglich ſeyn ſollte, ſo brauchte doch in dem
+angeführten Beyſpiele die Mauer nur um 4 F. höher
+gemacht, alſo auf 12 F. Länge des Gebäudes, bey
+2# F. Mauerſtärke, nur etwa 240 Cubikfuſs Mauer
+mehr aufgeführt zu werden, was höchſtens 2O – 24
+Gulden betragen würde, alſo auf den laufenden Fuſs
+Scheune höchſtens 2 Gulden, und dann fiele die
+Vergleichung der Koſten auch eben nicht günſtiger
+für die Bohlendächer aus.
+Daſs aber die Bohlenſparren ſtärker ſeyn müſ–
+ſen, als der Vf. annimmt, geht aus dem Folgenden
+hervor: Ein Bohlendach ſey im Lichten 5o F. tief,
+d. h. die inneren Seiten der untern Enden der Spar-
+ren ſeyen 5o F. von einander entfernt. (In der fol–
+enden Berechnung ſollen alle Maaſse ſich auf den
+Ä oder Rheinländiſchen Fuſs beziehen, um
+weitläuftige Maaſs– und Gewichtsverwandlungen zu
+vermeiden.) Dann iſt, nach S. 61, die Anſicht jedes
+Sparrens von einer lothrechten Linie durch den
+Scheitel, und von einer wagerechten durch den Fuſs,
+zwiſchen dieſen aber von zwey, um die Breite (beſ-
+ſer Höhe) eines Bohlenſparrens entfernten concentri–
+ſchen Kreisbogen begrenzt, von denen der innere
+35,3553 F. lang iſt. Setzt man dann jeden Sparren
+aus zwey Lagen Bretern zuſammen, ſo kann die
+eine aus vier Stücken von gleicher Länge auf der in-
+nern Seite, und die andere aus drey ſolchen und zwey
+halben , Ä Von den Bretſtücken müſſen
+dann fünf 9# F. lang, zwe F. lang und zwey et–
+was über 5 lang ſeyn, ÄÄ aus 1 Fuſs Ä
+breiten Bretern gearbeitet werden. Bey drey Lagen
+von Bretern ändern ſich nur die Längen der End-
+ſtücke in zwey Lagen, und daher ſind auch drey La-
+gen von 1 F. Höhe noch gut ausführbar. Jede von
+dieſen Lagen ſoll, nach dem Vf., 1 Zoll Stärke ha-
+ben (S. 78). Stellt man dann die Sparren nur 3 F.
+von Mitte zu Mitte von einander entfernt, und
+nimmt an, daſs jeder Ziegel 6 Z. breit, 15 Z. lang,
+# Z. ſtark ſey und 4 Pfund wiege, wobey ſein eigen-
+thümliches Gewicht = 1,55151 war (was dem klein-
+ſten in Eytelwein's Statik angegebenen Werthe nä–
+her kommt, als dem gröſsten), ferner, daſs 74 Z.
+weit gelattet werde, und die Latten 3 Z. breit, 1 Z.
+ſtark ſeyen, wogegen das Gewicht der Knaggen und
+Aufſchieblingen ausgelaſſen werden mag, ſo erhält
+man als Belaſtung jedes Gebinds folgenden Werth,
+der gewiſs als ein Kleinſtes anzuſehen iſt: 1) 2 Spar-
+ren, jeder etwa 14,2 Cubikfuſs, enthaltend zu 48 Pfund,
+# Pf.; 2). 122 Latten zu 3 F. läng, 3 Z. breit,
+1 Z. ſtark, ſind 11 % Cubikfuſs zu 48 Pf, 549 Pf.;
+# 732 Dachſteine zu 4 Pf., 2928 Pf.; Summa 484o Pf.
+ieſs Gewicht muſs ſo angeſehen werden, als wäre
+es im Scheitel des Gebinds aufgehängt, und dann
+muſs daſſelbe nach zwey Richtungen zerlegt werden,
+welche vom Durchſchnittspunkt der äuſsern Bogen-
+inien nach den Fuſspunkten der beiden innern ge-
+ben, alſo nach zwey Richtungen, deren jede mit dem
+Horizonte einen Winkel bildet, deſſen Tangente
+- ers, der alſo = 46° 9“ 44“, und der Werth
+jeder ſolchen Seitenkraft iſt = ÄTT
+fin 46° 9“ 44“
+= 3355 Pf...
+Dieſe Kraft wirkt auf das Zerbrechen des Boh–
+lenſparrens an der Stelle, welche am weiteſten von
+der Richtung der Kraft entfernt liegt, alſo an einem
+Hebelarme von ziemlich genau 4 F. Länge (was
+hier, zur Vermeidung einer weitläuftigen Rechnung,
+nur durch Verzeichnung gefunden worden), und das
+Moment der Kraft iſt daher, wenn die Abmeſſungen
+des Holzes in Rheinländiſchen Zollen angegeben
+werden, = 4. 12.3355 = 174460.
+Aber das Moment des Gewichts, unter welchem
+ein Bogen der fraglichen Art im erſten Augenblicke
+der Belaſtung zerbrochen würde, "iſt, nach Eytel-
+wein's Statik (Band II. S. 288 u. 402), für kiefernes
+Holz = 2878 - 2 . 1 . I 2. 12, da höchſtens 2 Bret-
+ſtärken à 1 Zoll in Rechnung gebracht werden kön–
+nen, indem immer in der dritten Lage ein Stoſs
+in der Nähe des Brechungspunktes iſt, alſo =
+1243296, was nur 7,12 Mal ſo viel beträgt als das
+Moment der Kraft, ſo daſs, nach Buf/oms Verſuchen,
+die Sparren ſchon ſo weit, als man nur wagen darf,
+gebogen werden, und eine geringe Vermehrung der
+Belaſtung auf längere Zeit den Bruch bewirken
+kann.
+Man ſieht hieraus, daſs der Grund, aus welchem
+ſo viel Bohlendächer verunglückt ſind, in den mei-
+ſten Fällen eine zu geringe Bohlenſtärke geweſen ſeyn
+mag, daſs wenn man mit Sicherheit bauen will, we-
+nigſtens doppelt oder Ä ſo ſtarke Sparren mö–
+thig ſind, als der Vf. vorſchreibt, da das Holz in dem
+fraglichen Falle gröſstentheils über den Spann ge-
+ſchnitten wird, und daſs dann die gerühmte Koſten-
+erſparung vollends in Nichts zerfällt.
+Wie der Vf. Kehlen und Grate bey Bohlenbogen
+abgebunden haben will, iſt zwar recht deutlich ange-
+geben; allein, bey der geringen Verſtärkung, die er
+(S. 37) dem Kehlſparren gegen die übrigen giebt,
+möchte der erſtere die groſse darauf kommende Laſt,
+zumal bey ſeiner flachen Lage nicht zu tragen im Stande
+ſeyn. Rec. wenigſtens würde ſich mit einem Kehl-
+fparren, wie ihn der Vf. vorſchreibt, nie begnügen,
+und gleich anfänglich für Unterſtützung zwiſchen
+den Enden, von feſten Punkten aus, ſorgen, minde-
+ftens dadurch, daſs er die Sparren des Hauptdaches
+durchgehen lieſse und den Kehlſparren darüber
+ſchnitte, was wohl kaum jemals einen Uebelſtand
+hervorbringen dürfte; wenn aber dieſs Letztere wirk-
+lich Statt fände, und doch durchaus ein Bohlendach
+angebracht werden ſollte: den Kehlſparren ſehr viel
+ſtärker machen als der Vf. Die Berechnung der er-
+forderlichen Stärke, auch nur für einen beſtimmten
+Fall, iſt übrigens zu zeitraubend und zu viel Raum
+ET-

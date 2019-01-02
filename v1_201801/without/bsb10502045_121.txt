@@ -1,0 +1,125 @@
+229
+23O
+Num. 29. JANUAR 1811.
+gemachten Verſuche, die Grundbegriffe der höhern Ana-
+lyſis aufzuklären, iſt mit Recht gegen Legendre erin-
+nert, daſs irgend ein Uebergang vom Geraden zum
+Krummen anders, als durch das Unendlichkleine
+durchaus nicht möglich ſey. Gegen diejenigen, wel-
+che ſelbſt auch bey Behandlung der Differentialrech-
+- nung dem Begriffe des Unendlichkleinen auszuwei-
+chen ſuchen, wird ſehr richtig erinnert, daſs jede
+Anwendung der Differentialien auf Gegenſtände der
+Geometrie und Mechanik nur vermittelt des Unend-
+lichkleinen völlig anpaſſend werden könne. Bey der
+Theorie der Gränzverhältniſſe wird mit Recht be-
+hauptet, daſs die ſtrenge Richtigkeit der Gleichung
+#= p ſchlechterdings vorausſetzt, daſs im ſtreng-
+AV:
+ſten Sinne dx =o (geworden) ſey, woraus eben ſo
+nothwendig folgt, daſs auch dy=o (geworden) ſey.
+In Hinſicht der Methoden eines La Grange, Gruſon
+oder Pasquich, Langsdorf, iſt des Rec. Urtheil eben-
+falls, daſs dieſe Methoden zum Theil zwar ſcharf-
+finnig und nützlich ſind, aber doch nicht die Sache
+ſelbſt geradezu auffaſſen, wie es gar wohl geſchehen
+kann, wenn man das Unendlichkleine nicht ſcheut.
+- Was den anderweitig verdienſtvollen Langsdorf
+insbeſondere betrifft, ſo hat auch Rec., wie hier der
+OVf, bey andrer Gelegenheit ſchon geäuſsert, daſs
+deſſen Methode keiner ernſtlichen Aufmerkſam-
+keit werth ſey, weil Er das Geſetz der Stetigkeit
+nicht zugeſtehen will. – Namentlich auch in dem
+III. Abſc
+völlig aufzuklären, hat Rec. viele Sätze gefunden, die
+ihm gleichſam aus feiner Seele geſchrieben ſchienen,
+und die er vielleicht eben ſo würde ausgedrückt ha-
+ben, wenn er dazu gekommen wäre, ſeinen Vor-
+trag der höhern. Analyſis druckfertig zu nachen,
+den er für ſeine Vorleſungen vor nunmehr 10 Jahren
+auszuarbeiten anfing, und lediglich nach ſeinen eige-
+nen Vorſtellungen, ohne irgend andere Lehrbücher
+dabey in Ä zu nehmen, niederſchrieb, nach-
+dem er viele Jahre hindurch die höhere Mathematik
+faſt lediglich ihrer praktiſchen Anwendung wegen,
+fernerhin im Gebrauch behalten hatte, ohne in dieſen
+Jahren darüber zu lehren. Natürlich war es Rec. ſehr
+angenehm, durch die Anſehten des berühmten Vfs-
+die meiſten der ſeinigen bewährt zu ſehen. Aber indem
+er immerfort nur Ä gedrungen hatte, daſs für
+alle diejenigen Operationen der höhern Analyſis, in
+- welchen man durch die Differenzzºtenen allein
+ſchon abzuſchlieſsen pflegt, jedes # aufs völligſte
+--- - AC. - -
+= 2- geworden ſeyn müſſe, für die Operationen der
+Integrirung dagegen jene dx und dy als Repräſen-
+tanten des allgemeinen Ax und Ay gelten können;
+indem beym Integriren nur aus der Form des Diffe:
+rentials
+der allgemeinen Differenzenform übrig bleibt: ſo iſt
+es zum Theil eben deshalb auch Rec. begegnet, daſs
+er gerade das eigenthümlichſte und merkwürdigſte
+“-
+itte: Verſuch den Begriff des Differentials
+y geſchloſſen wird, von welcher auch in
+dem dy=o ein hinreichend charakteriſtiſcher Theil
+Verdienſt des Vfs., den Differentialien, indem ſie eine
+extenſive Größe nicht mehr haben, ſondern in dieſer
+Hinſicht ſämmtlich. = o. geworden ſind, dagegen eine
+intenſive Größe beyzulegen, bey der erſten Durch-
+leſung des Buches nicht gehörig würdigte. Bey ge-
+Ä wiederholte Leſung ſeiner hierher ge-
+hörigen Darſtellungen, iſt er der entſchiedenen Ue-
+berzeugung geworden, daſs der Vf. auch hierin den
+riehtigen Punkt getroffen hat. Mag man immerhin
+bisher ſehr richtig gelehrt haben, daſs, obgleich der
+Ausdruck # dergeſtalt = p iſt, daſs keine einzige
+Zahl von den Werthen des p nur ausgeſchloſſen wird,
+ſolange man von den beiden §j jëhts weiter weiſs,
+als daſs ſie = o ſind, und eben deshalb auch gar nichts
+beſtimmen können, dennoch für A= =p einen
+<7 O
+oder mehrere Werthe des p eben dadurch beſtimmt
+werden, weil man dar und dy ſtetig zu = o werden
+läſst, und hierbey es kennen lernt, welche Werthe
+für den Quotienten p im Augenblicke der Verſchwin-
+dung des dx und äy übrig bleiben; und mag auch
+dieſes durch mehrere Beyſpiele ziemlich klar gemacht
+werden können: ſo muſs ja doch eben das Geſetz je-
+ner ſtetigen Annäherung dahinführen, daſs man ſich,
+indem dx und dy zu = o geworden ſey, indem dyge-
+rade p mal ſo viele Nullen, als in dem äx nech vorſtel“
+len muſs. Aber dieſer wichtige Satz, und zugleich
+der, daſs p = “ geſetzt, die mNullen der dy, und die -
+P.
+«Nullen der da nicht fernerhin extenſiv an und nebene
+einander gelegt werden können, ſondern jenen und
+dieſe n Nullen jede in einen einzigen Punkt zuſam-
+menfallend Ä werden müſſen, und dadurch die
+von dem Vf, ſehr ſchicklich ſogenannte intenſive Grö-
+ſse dieſer beiden Nullen ausmachen ; dieſes beides
+dürfte Rec. Ä bey der erſten Leſung des Buches
+eingeleuchtet haben, wenn der Vf, ſich darüber etwas
+anders, als es von ihm geſchehen iſt, ausgedrückt
+hätte. Namentlich für das erſte Beyſpiel S. r66. iſt
+Rec. ſeine Ueberzeugung durch folgende Vorſtellun
+entſtanden. In einem Dreyecke ABC ſey CA: CB
+= m.: n und # = = =p. (Iſt CB der CA commenſu-
+- - R2
+rabel, ſo ſind m und n endliche Zahlen, und der Quo-
+tient p iſt angeblich irgend eine beſtimmte ganze oder
+gebrochene Zahl. Sind C B und CA incommenfu-
+rabel, ſo kann dennoch nach Buſſe's Algebra, zwey-
+ter Aufl., § 183.S. 144. erwieſen werden, daſs es zwey
+leichartige Gröſsen, wie die Linien CB und CA es
+# nicht geben kann, die nicht durch einen unend-
+lich kleinen Theil der einen, beide genau meſsbar wä-
+ren; daher es leicht iſt, die hier Ä. Darſtellung
+auch auf incjenſurable Linien anzuwenden.) Eine
+der Seite A B immerfort parallel bleibende, und durch
+die beiden übrigen Seiten CA und CB in « und ß be-
+Ä Linie «3, werden aus der Lage A B bis zum
+Puakte Chin ſtetig fortrückend gedacht: ſo bleibt im-
+merfort CA: CB = Cox: Cß, bleibt alſo immerfort Cß
+= m. Gº, ſo daſs man die Linie Cß immerfort als
+In - - El AG

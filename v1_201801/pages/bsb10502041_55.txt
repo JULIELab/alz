@@ -1,0 +1,124 @@
+85 , Num. 11. JANUAR sos.
+.
+dieſen oder jenen Hieb giebt. Jeder ver-
+Ä - -
+nünftige Leiner der Mathematik wird mit der Berner-
+Kung in der Vorrede S. XXIII. einverſtanden ſeyn,
+daſs die vom Leichtern zum Schwerern fortſchreitende,
+und fo die Zuhörer allmälig in das Innere der Wiſſen-
+ſchaft einführende, Methöleaſein zweckmäſsig ſey.
+Das medium rapit in rem würde wohl nirgends üblér
+angebracht ſeyn, als in der Mathematik. Zur Ueber-
+Ä des Plans des Vfs. mag folgende Ueberſicht des
+Inhalts dienen.
+Die Einleitung enthält Bemerkungen über das
+Verhältniſs der Arithmetik zu den übrigen Theilen
+der Mathefs und ihrer Abtheilung, nebſt einer Erklä-
+rung der mathematiſchen Terminölogie. – Das erſte
+Kapitel handelt zuvörderſt von den Grundbegriffen,
+von den Zeichen der Operationen und Verhältniſſe,
+und von den erſten Grundſätzen, ſodann im erſten
+Theile von den vier Stammrechnungen, wie der Vf.
+fie ganz ſchicklich nennt, und zwar 1) mit ganzen
+Ziffern, 2) mit Ä Buchſtabengröſsen; hiënächſt
+im zweyten Theile von den Abmeſſungen Ä Zah-
+len; das zweyte Kap. von den Stammrechnungen in
+ebrochenen Zahlen, und zwar 1) von den gemeinen
+Ä 2) von den nicht gemeinen, nämlich beſon-
+ders von den Decimal und Sexageſimalbrüchen; das
+dritte Kap. von der Rechnung mit Potenzen und Wur-
+zelgröſsen, und zwar 1) von Erhebung gegebener
+- Gröſsen zu Potenzen; 2) von Ausziehung der Wur-
+zeln, 3) von der Rechnung mit Wurzelgröſsen; das
+vierte Kap. von Verhältniſſen und Proportionen ent-
+hält in ſeinem erſten Theile vorläufige Lehren von den
+zur Elementaralgebra gehörigen Pröblemen und Glei-
+chungen, nämlich 1) von dieſen überhaupt, ſodann
+2) insbeſondere von der Klaffe der beſtimmten ſowohl
+einfachen als zuſammengeſetzten Gleichungen, und
+dann von der Klaſſe der unbeſtimmten Probleme; in
+feinem zweyten Theile aber von Verhältniſſen und fro-
+Ä überhaupt und den arithmetiſchen insbe-
+ondere, in ſeinem dritten Theile von geometriſchen
+Verhältniſſen und Proportionen, und in einem An-
+hange von der goldnen Regel. Der Vf. vermeidet
+den gewöhnlichen Namen Regel de tri, der freylich
+ein verſtümmeltes Ding iſt, und begreift übrigens
+auch darunter die zuſammengeſetzten Proportionen,
+die in gemeinen Rechenbüchern unter den Benennun-
+gen von Geſellſchafts-, Vermiſchungs-, Reefiſche-.
+ettenregel u. d. gl. vorkommen, die theils von ihren
+Praktiſchen Zwecken, theils von ihren Erfindern, theils
+von der Form des Anſatzes hergenommen ſind. Das
+fünfte Kap. handelt von den Progreſſionen, 1) der
+arithmetiſchen, 2) der Ä wo auch die
+unendlich abnehmenden Reihen betrachtet werden.
+Das ſechste Kap. von den Logarithmen, trägt A) die
+Theorie, dann B) die Anwendung derſelben vor.
+In einem Schlußanhange zum Ganzen wird von den
+Permutationen und Combinationen gehandelt.
+durch Bemerkungen unterbrechen wollen, um un-
+lern Leſern den Ueberblick der guten ſyſtematiſchen
+A -
+36
+Anordnung zu erleichtern. Wir wollen jetzt noch
+einige hinzufügen.
+Die Verbindung der Algebra mit der Arithmetik
+iſt nach Rec. Urtheil ganz Ä Nur kann
+man bey der jetzigen Geſtalt der Wiſſenſchaft die Buch-
+ſtabenausdrücke ſelbſt in den Lehren der gemeinen
+Arithmetik nicht vermeiden; und wenn man ſie um-
+gehen will: ſo verfällt man entweder in weitläuftige
+wörtliche Expoſitionen, die am Ende doch nicht j
+ut belehren, als eine Formel, oder man muſs auf
+Ä mancher Lehren, z. B. der Ausziehung der
+Wurzeln, Verzicht thun. Unter Anfängern, für
+welche dieſes Buch beſtimmt iſt, muſs man aber dann
+freylich nicht die erſten Anfänger d. h. weder Kinder
+verſtehen, denen erſt das Zählen und die vier
+Stammrechnungen beygebracht werden; noch alle die
+Menſchen, die ihres Gewerbes wegen, das Rechnen
+techniſch lernen, ſondern Jünglinge die zum Ä
+Unterricht reif find; eine Bemerkung, die durch die
+oben angedeutete Stelle in der Vörrede veranlaſst
+wird, wo der Vf, die einleitende Methode der ſturn-
+laufenden entgegen ſetzt, da bey dem Anblick der al-
+ebraiſchen Miene, die das Buch gleich vom Anfange
+erein macht, (indem z. B. gleich auf der 13ten Seite
+« und # erſcheinen), der Verdacht entſtehen
+könnte, daſs der Vf, ſelbſt weniger introductoriſch
+als invaſoriſch verfahre.
+Gleich in der Einleitung finden wir Belege zu
+dem obigen Lobe philoſophiſcher Beſtimmtheit in De-
+finitionen und Diſtinctionen. So wird S.2. ganz rich-
+tig Quantum und Quantitas unterſchieden, wofür die
+deutſche Sprache ebenfalls zwey Wörter, Gröſse und
+Groſsheit hätte, wenn dem letztern durch competente
+Schriftſteller das Bürgerrecht gegeben würde. Gröſse
+(Queutum) iſt das Object der Mathematik, dieſs be-
+trachtet die Gröſse entweder in abſtracto (rein) oder
+an beſtimmten Gegenſtänden der Natur und Kunſt
+(der Vf. nennt hier bloſs Ä Nun kann
+bey der Gröſse in abſtracto entweder bloſs die Groß-
+heit (quantitas) oder auch die Beſchaffenheit (qualitas)
+betrachtet werden, in welcher letztern Ä näm-
+lich die Gröſsen entweder abgeſonderte ( discreta )
+oder ſtetige (continua) ſind.
+Nur noch ein Paar Bemerkungen über einzelne
+Stellen. S. 22. und 25. wird die Neunerprobe –
+nicht mit Unrecht, trüglich genannt; es hätte mit ein
+Paar Worten hinzugefügt werden könnjuj
+und welche Wahrſcheinlichkeit, richtig gerechnet zu
+haben, ſie gebe (worüber Buſſens Beyträge und deſſen
+Ä nachgeleſen zu werdén verdienen). –
+Die Lehre von entgegengefetzten Gröſsen iſt, wie ſich
+von dem Vf. erwarten lieſs, gut und gründlich be-
+handelt. Bekanntlich iſt dieſe Ä neuerlich, beſon-
+ders von Klügel und Buſſe, verſchiedentlich erörtert
+worden. – Daſs die Decimalbrüche erſt S. 99. vor-
+getragen werden, iſt zwar in der Anordnung, die der
+Wir haben dieſe kurze Anzeige des Inhalts nicht
+f. gewählt hat, conſequent; ſollte es aber nicht beſ-
+ſer ſeyn, dieſe gleich mit den ganzen Zahlen zu ver-
+binden? Die Rechnung mit sessene Ä
+möchte

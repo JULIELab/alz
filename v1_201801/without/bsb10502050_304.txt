@@ -1,0 +1,122 @@
+555 --
+556
+- ALLG. LITERATUR - ZEITUNG
+müſste man dieſs Verfahren vorzüglich verſuchen,
+wenn anders die Erfahrung lehren ſollte, daſs es an-
+wendbar iſt. 4) Tafeln der Aberration, Nutation und
+Präceſſion für die 36 Maſkeyneſchen Fundamental-
+ferne, von Burkhardt. Der Vf. ſchickt ein Ver-
+zeichniſs dieſer Sterne mit dem neueſten Beſtimmun-
+gen der geraden Aufſteigung für 1802 nach Maſkelyne,
+der Abweichung für 1805 nach Piazzi voran, und
+giebt als Nachtrag die geraden Aufſteigungen für 1756
+nach Bradley, nebſt Vergleichungen mit dem Mas-
+kelyneſchen Catalog für 1805 und der Präceſſion für die
+Zwiſchenzeit. Zugleich Ä der Vf, was den richti-
+gern Gebrauch des Maſkelyneſchen Verzeichniſſes ſehr
+erleichtert, in einer beygefügten kleinen Tafel die
+Secularänderung der Präceſſion für jeden einzelnen
+Stern nach Rectaſcenſion und Declination. Ein Be-
+weis von der Genauigkeit der neueſten Beſtimmung
+der Rectaſcenſionen nach Maſkelyne iſt, daſs Bürg aus
+deſſen Originalbeobachtungen nur + o“, 1 und Olt-
+manns – o“, o6 oder – o“, o7 als conſtante Verbeſ-
+ferung im Mittel gefunden hat. Die Burkhardt'ſchen
+Hülfstafeln für Aberration u. ſ. w., haben eine ſehr
+bequeme Einrichtung, ungefähr derjenigen ähnlich,
+die bey von Zachs Catalogus fixarum, Gothae 1792.
+S. 19 – 91. (im Anhange zu den Sonnentafeln, I. Äj
+gabe von 1792) Statt hat. Die Präceſſion hat den Mo-
+natstag, der von 10 zu 10 Tagen angeſetzt iſt, zum
+Argumente; das Argument der Nutätion iſt die von
+1o zu 16 Graden bemerkte Länge des Mondknoten;
+aber über der Bezeichnung des Knotens hätte, was
+von S. 36I – 314. vergeſſen worden, jedesmal die Be-
+zeichnung der Sonnenlänge, oder des Arguments für
+die Aberration, geſetzt werden ſollen: daſs dieſe Be-
+zeichnung fehlt, könnte leicht Irrungen herbey füh-
+ren, und, da der Vf, den Gebrauch der Tafeln durch
+kein Beyſpiel erläutert hat, die Meinung veranlaſſen,
+daſs Präceſſion und Aberration eben ſo, wie in den
+ähnlichen von Zach'ſchen Tafeln, unter Einem Argu-
+mente, dem Monatstage 2 vereinigt ſeyen. Die Aber-
+ration, welche dieſen Tafeln zum Grunde liegt, iſt
+2o“, 255, die Nutation 18“, o36; mit der Präceſſion
+und eigenen Bewegung der Sterne iſt zugleich die So-
+larnutation vereinigt, und letztere beyläufig =, der
+Mondsmutation angenommen worden. Alle drey kleine
+Gleichungen, Präceſſion, Aberration und Nutation,
+ſind, indem ſie die Abziehung gewiſſer Conſtanten
+vorausſetzen, poſitiv eingerichtet (eine für dieſe Art
+Tafeln nachahmungswerthe Anordnung) und für die
+Rectaſcenſion nicht in Bogenſecunden, ſondern in
+Zeitſecunden und deren Centeſimaltheilen berechnet.
+Auf gleiche Art eingerichtete ſpecielle Tafeln für tau-
+ſend Sterne würden bloſs einen Raum von 400 Octav-
+ſeiten einnehmen. Delambre hat in der Conn. des tems
+our 1810. S. 462. zu ſehr ausgedehnten, aber nicht
+jej ſondern allgemeinen, vielleicht noch wün-
+Chenswürdigeren Tafeln der Aberration und Nuta-
+tion Hoffnung gemacht; vielleicht lieſsen ſich auch
+allgemeine Tafeln der Präceſſion damit verbinden.
+5) Ueber das Sinken des Queckſilbers im Barometer we-
+ſº Capillarität der Barometerröhre, von La place.
+n den Transactions philoſoph. 1776 giebt Cavendiſh
+eine von Erfahrungen abſtrahirte "Tafel dieſer Cór-
+rection, die man, wenn verſchiedene Barometer ge-
+nau mit einander verglichen werden ſollen, kennen
+muſs. Seitdem iſt die Theorie der Capillarwirkung
+entdeckt und auf das allgemeine Princip der chem
+fchen Affinitäten zurückgeführt worden; Laplace
+giebt deſswegen hier eine von der Theorie ausgehende
+Zorrectionstafel, welche von der Erfahrung boſs die
+nothwendigſten Data entlehnt. Nach dieſer Laplace-
+ſehen Theorie entſteht die Convexität des Tropfens,
+in welchen die Queckſilberſäule ſich endet, und die
+Depreſſion des Queckſilbers nicht ſowohl von der
+Einwirkung des Glaſes, welche unmerklich iſt, als
+von dem feuchten Ueberzug inwendig an der Röhre,
+der auch bey einem noch # vollkommen gearbeiteten
+Barometer nicht leicht vermeidlich iſt. Die Tafel
+giebt das Sinken des Queckſilbers in Millimètres für
+das Argument: innerer Durchmeſſer der Röhre von
+2 bis zu 20 Millimètres; nach derſelben iſt z. B. für
+das Argument: 2, 5, 10, 15, 20 Millimètres, die De-
+Preſſion =435599. 1,5055. o,42CI: 0, 1245 und 0,0352 -
+Millimètres. 6) Delambre über ein von Gajs
+(Monatl. Correſp. Oct. 1808.) aufgelöſtes Problem: aus
+gleichen Höhen dreyer bekannter Sterne die Breite,
+die Correction der Uhrzeit und des zum Höhenmeſſen
+gebrauchten Inſtruments zu beſtimmen. Delambre
+Ä eine etwas verſchiedene Auflöſung, und entwik-
+elt ſie umſtändlicher als Gauſs, wofür ihm ein Theil
+der Leſer immerhin Dank wiſſen wird; der Unter-
+ſchied beſchränkt ſich indeſs bloſs auf einige Hülfs-
+winkel, und auf die Art der Beſtimmung des Stunden-
+winkels; zuletzt giebt der Vf. auch nöch die Auflö-
+ſung eines Problems von Bizout: aus 3 Höhen deſſel-
+ben Sterns und der Zwiſchenzeit die Sternzeit der
+Beobachtung, die Breite des Orts und die Abwei-
+ehung des Sterns zu finden. Der Vf, hält übrigens
+as Gaußiſche Problem in der Anwendung für nicht
+ſehr brauchbar, weil man in einer Nacht, wo dre
+gleiche Sternhöhen zu beobachten möglich iſt, eben
+lo leicht auch eine Mittagshöhe zur Beſtimmung der
+Breite, und eine abſolute Sternhöhe zur Berichtigung
+der Zeit genommen werden könne. Bey dieſen Ein-
+wurfe ſcheint jedoch der Vf. eine weſentliche Bedin-
+ging» unter welcher Gauß die Anwendung ſeiner
+Methode empfiehlt, ajčhej zu haben, den Fall
+nämlich, „wenn man mit einem ſchlecht (oder allen-
+falls auch gar nicht) getheilten Inſtrumente Zeit und
+Polhöhe zü beſtimmen genöthigt wäre." (Vergl. Mon.
+Corr: 1898. Oct. S. 281.) Auf eben dieſen Fall wird
+das Problem ausdrücklich auch noch von Gauß in den
+weiter. Anmerkungen zu ſeiner Methode, Mon. Corr.
+1899. Jan. S. 86. beſchränkt. 7) Wiederholte Bemer-
+kungen über ein anderes Gaußiſches Problem, Zeit
+und Ortsbreite aus der Höhe zweyer bekannter Sterne
+zu beſtimmen. Schon in der Conn. des teums pour 1811
+hatte Delambre dieſs Problem auf ſeine Art Ä
+und allgemeine Reflexionen über die Gie Be-
+and-

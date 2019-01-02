@@ -1,0 +1,114 @@
+193 "L- - - -
+„ . - i94
+- -
+– 129 -
+ALLGEM E IN E LITERATU
+-
+-
+- - - - -
+MATHEMATIK.
+PARTs, b. d. Wwe. Courcier: Traité de Mécanique,
+par S. D. Poſſon, etc.
+(Beſchluſs der im vorigen Stück abgebrochenen Recenſon)
+Dº Buch. Fortſetzung der Dynamik (S. 1 bis
+306 im 2ten Theil) Erſter Abſchnitt. Von
+der Maſſe der Körper. Wie dieſelbe bewegende
+Kraft ungleichen Maſſen in gleicher Zeit ungleiche
+Geſchwindigkeiten ertheilt, wird durch ein vom
+Stoſse zweyer Kugeln hergenommenes Beyſpieler-,
+läutert. Wie man die Maſſen der Planeten beftimmt
+hat. Geſetze der Attraction einer hohlen oder auch
+ſoliden Kugel auf einen innerhalb und einen auſser-
+halb liegenden Punct. Formeln für die mit Hülfe
+der Coulomb'ſchen Drehwaage beſtimmten Attra-
+ctionen kleiner Maſſen. - -
+Zweyter Abſchnitt. Das allgemeine Ä der
+Dynamik. Wenn mehrere Körper zu einer Syſteme
+auf irgend eine Weiſe ſo verbunden ſind, daſs keiner
+von ihnen ſich bewegen kann, ohne die andern mit
+in Bewegung zu ſetzen: ſo nimmt jeder einzelne
+nicht die Bewegungen an, die er vermöge der auf
+ihn wirkenden Kräfte annehmen ſollte; aber zwi-
+ſchen den wirklichen Geſchwindigkeiten und denje-
+migen Geſchwindigkeiten, welche Statt finden ſoll-
+te, findet ſich folgende gegenſeitige Abhängigkeit.
+Heiſsen m, m“, m“, m“ die Mlaſſen der einzelnen
+Körper, v, v“, v“, v“ die Geſchwindigkeiten, wel-
+che jeder, unabhängig vom andern vermöge der wir-
+kenden Krafte in beſtimmter Zeit annehmen würde,
+u, u“, u“, u“ die wirklich erlangten Geſchwindig-
+leiten, ſo ſind die letztern ſo beſtimmt, daſs die
+Ä der Bewegungen nämlich:
+m u; m'u'; m” “;m“ u“ in entgegengeſetzter Rich-
+tung genommen, die Quantitäten der Bewegung
+m v; m v“; m“ v“; m“ v“ aufwiegen würden. Eini-
+ge leichte Anwendungen dieſes Ä und Her-
+leitung der allgemeinen Formeln für die Bewegung
+eines Syſtems von Körpern nach Lagrange.
+Dritter Abſchnitt. Von der Bewegung feſter
+Körper um eine feſtgehaltene Axe. Hier wird zuerſt
+aus eben jenem Princip die Winkelgeſchwindigkeit -
+für den Fall hergeleitet, wo eine plötzlich wirkende
+Kraft dem Körper eine Ä unger-
+theilt. Die Rechnung führt hier zu dem Begriffe
+des Moments der Trägheit, und wenn man bloſs
+nach einer analytiſchen Darſtellung der hieher gehö-
+rigen Lehren fragt, ſo muſs man die hier gegebene
+A. L. Z. 1818. Zweyter Band.
+May 1 3 3. -
+/ weis,
+--
+–+
+– T - - - -
+- - - - - - - *
+gewiſs ſehr rühmen. Aber ob der Leſer am Schluſſs.
+der Unterſuchungen ſich in ſchlichten Worten dar-
+über erklären kann, was das Moment der Trägheit
+denn eigentlich ſey, warum es ſich wie r* verhalte,
+– daran möchten wir zweifeln. Nach unſern Grund-
+ſätzen alſo möchten wir - wünſchen, daſs der Vf.
+auch hier mehr in Worten Ä hätte als in For-
+meln, und die Formeln erſt dann zu Hilfe nähme,
+wenn die Grundbegriffe ſchon feſtgeſtellt und ſo er-,
+klärt ſind, daſs man ſie auch dem wieder mittheilen
+kann, der die Formeln nicht überſieht. Uebrigens
+findet ſich hier alles, was man von Beſtimmung des
+Moments der Trägheit zu wiſſen braucht. Die Be-
+rechnung deſſelben für einzelne Fälle und gegebne
+Axen; die Beſtimmung des Moments der Trägheit
+in Beziehung auf eine andre Axe, wenn es in Be-
+ziehung auf irgend eine Axe gefunden iſt; der Be-
+aſs jeder Körper drey aufeinander ſenkrech-
+te durch den Schwerpuncf des Körpers gehende
+Haupt- Aen hat, für welche das Moment der Träg-
+heit ein Maximum oder Minimum wird, und die
+ſich zu freyen Axen der Drehung eignen, und fer-
+ner, daſs es für jeden andern Punct drey ähnliche
+Axen giebt, die eine freye Drehung erlaüben, wo-
+fern nur dieſer einzige Punct feſtgehalten wird.–
+Beſtimmung der Oſcillationszeit des zuſammengeſetz-
+ten Pendels.
+Vierter Abſchnitt. Von den Bewegungen eines
+Körpers um einen feſtgehaltenen Punct Öbgleich
+die ziemlich verwickelten Rechnungen über dieſen
+ſchwierigen Gegenſtand ſchon einen gewandten und
+unermüdeten Rechner erfodern, ſo muſs man doch
+geſtehen, daſs der Vf, alles gethan hat, was die Ue-
+berſicht der Formeln erleichtern, und den ganzen
+Zuſammenhang der Unterſuchungen klarer jachen
+kann. Die zuerſt völlig allgemein dargeſtellten Glei-
+chungen werden ſodann angewandt, auf durch
+Umdrehung, entſtandene Körper, die alſo zwey
+Hauptaxen haben, in Beziehung auf welche die Mo-
+mente der Trägheit gleich werden; und die ſich um
+die dritte Hauptaxe drehen. -
+Fünfter Abſchnitt. Von der Bewegung eines
+Ä feſten Körpers. Hier wird bloſs allge-
+mein gezeigt, wie man die ganze Bewegung darle-
+lcn kann, indem man zuerſt das bloſse Fortrücken,
+des Schwerpuractes betrachtet, und dann, dieſen
+als ruhend angeſchen, die Drehungen um ihn unter
+ſucht. - - - - - .
+Sechſter Abſchnitt. Bewegungen eines feſten
+Kor, auf einer feſten Ebne. Die allgemeinen
+b For-

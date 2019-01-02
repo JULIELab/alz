@@ -1,0 +1,117 @@
+71 A. L. Z. Num. 9.
+JANUAR I 81 I. 72
+Vf, auf eine ihm eigenthümliche Weiſe vorgetragen,
+weil er keine Methode fand, durch welche ſich die
+anze Unterſuchung klärer oder leichter zu überſe-
+en, darſtellte. Die Grundſätze ſind ſo gewählt, daſs
+fie ziemlich ohne Anſtoſs zugegeben werden können.
+Als Probe iſt auch der Legendriſche Beweis beygefügt.
+Unſer Vf, fängt mit der Erklärung an, es heiſse, zwey
+erade Linien nähern ſich einander, und –, ſind
+überall gleich weit voneinander entfernt. Dann wird
+der Grundſatz aufgeſtellt: wenn mit einer geraden Li-
+nie AB, in derſelben Ebne eine andere CD, ſo gezo-
+en wird, daſs ſie überall gleich weit von A B entfernt
+iſt, ſo wird auch dieſe CD eine gerade Linie ſeyn.
+Nun kommt die Erklärung der Parallel-Linien: Sie
+find gerade Linien, in einerley Ebne, und allenthal-
+ben gleich weit von einander entfernt. Hierauf ein
+neuer Grundſatz: gerade Linien die ſich einander nä-
+hern, müſſen, wenn man ſie hinreichend verlängert,
+allemal einander ſchneiden; hingegen ſchneiden Pa-
+rallelen einander nicht, man mag ſie verlängern ſo
+weit man will. Dieſe Grundſätze vertreten zum Theil
+die Stelle des berufenen I 1ten Euklidiſchen Grund-
+ſatzes und die Schwierigkeit die bekanntlich dieſen
+drückt, drückt beſonders auch den vorerwähnten
+Grundſatz des Vf., welches er auch keinesweges ver-
+kennt. Die von ihm aufgeſtellten Begriffe von gera-
+der und krummer Linie, wodurch einzig jene Schwie-
+rigkeit beſeitigt werden kann, ſind hier nicht in Be-
+tracht gezogen worden. Für geübtere Leſer hat der
+Vf. Legendres Beweis für den Satz, daſs in jedem ge-
+radlinigten Dreyecke die Summe der drey Winkel
+nicht mehr und nicht weniger als 18o" betragen könne,
+beygefügt. Bey dieſem Beweiſe werden die Sätze von
+den Parallel Linien nicht benutzt, ſondern es wird
+durch einen apagogiſchen Gang gezeigt, daſs entge-
+engeſetzte Annahmen auf Widerſprüche führen; es
+Ä aber dabey Lehrſätze erforderlich die ſich nicht
+wohl für den Ä eignen. Auch bey
+der Ausmeſſung des Kreiſes folgte der Vf. Legendre,
+um die Beweiſe faſslicher, als ſie gewöhnlich vorkom-
+men, zu machen. Indeſſen hat er doch für den erſten
+Curſus auch noch populäre, wie wohl nicht ſo ſtrenge,
+gegeben. 5ter Abſchnitt. Von den Parallelogrammen
+und ihrer Vergleichung mit Dreyecken und unterein-
+der ſelbſt, in Rückſicht auf den Flächeninhalt. Bey
+dem pythagoriſchen Lehrſatz und ſeinen Folgen wer-
+den auch die Sätze geometriſch conſtruirt, welche man
+in der Arithmetik durch die Buchſtaben-Rechenkunſt
+beweiſt, z. B. daſs das Product aus der Summe zweyer
+Gröſsen in ihren Unterſchied, den Unterſchied ihrer
+Quadrate gibt u. a. 6ter Abſchnitt. Von der Aus-
+meſſung der Flächengröſse geradlinigter Figuren. 7ter
+Abſchnitt. Vom Kreiſe und den Linien und Winkeln
+in demſelben. Hier die Eintheilung des Kreiſes nach
+Graden, ſowohl nach der alten, als neuern franzöſi-
+ſchen Centeſimaltheilung; auch Anleitung beide Thei-
+lungen in einander zu verwandeln. Beſchreibung der
+Inſtrumente; des krumm - und geradlinigten Trans-
+porteurs, der geodätiſchen und Än Grad-
+meſſer. 8ter Abſchnitt. Von der Aehnlichkeit der
+Figuren mit Anwendungen auf die Geodaeſie, auch
+eine Hindeutung auf die Markſcheidekunſt. 9ter Ab-
+ſchnitt. Von den regulären Polygonen und der Aus-
+meſſung des Kreiſes, wo der auch eine geometri-
+ſche Conſtruction, die D. Olbers entdeckt hat, mit-
+theilt, nach welcher man leicht eine gerade Linie zeich-
+nen kann, welche dem halben Umfange des Kreiſes
+ſehr nahe gleich iſt. Es gehört dazu fig. 151., welche
+anzugeben vergeſſen worden iſt. Dieſe gerade Linie
+iſt nur um 0,oooo272 ... des Halbmeſſers, zu groſs.
+Auch von der Aehnlichkeit krummer Linien. An-
+hang einiger Aufgaben von der Eintheilung geradli-
+nigter Figuren, und am Ende die Aufgabe aus der
+Feldmeſskunft: aus der gegebnen Lage dreyer Punk-
+te und den gemeſſenen Ä aus einem vierten,
+deſſen Lage unbekannt iſt, die Lage dieſes Punktes
+zu beſtimmen. Die körperliche Geometrie. 1) Von der
+Lage gerader Linien gegen ebne Flächen und ebner Flä-
+chen gegen einander. Sehr vollſtändig mit Anwen-
+dungen auf die Perſpectiv- Feldmeſskunſt und Mark-
+ſcheidekunſt. 2) Von dem Prisma und Cylinder. 3)
+Von der Pyramide und dem Kegel. Gelegentlich auch
+von den Kegelſchnitten, Ellipſe, Parabeſ, Hyperbel.
+4) Von der Ausmeſſung der Körper, welche durch
+ebne Flächen begrenzt werden, auch der des Cylinders
+und Kegels mit Anwendungen auf Feſtungs- und Waſ-
+ſerwerke, nebſt Uebungsaufgaben. 5) Von Körpern
+welche einander ähnlich ſind. 6) Von der Kugel und
+den Linien und Kreiſen an und auf der Kugel. Hier
+kommen zugleich die Sätze vor, welche die Grundlage
+der ſphäriſchen Trigonometrie ausmachen. Auch et-
+was von den regulären Körpern. 7) Von der Ausmeſ-
+ſung der Kugel und ihrer Oberfläche. Die ebne Tri- .
+gonometrie. 1) Von den trigonometriſchen Hülfsli-
+nien. 2) Von der Beſtimmung der trigonometriſchen
+Functionen aus einigen gegebenen Stücken. Es wird
+hier gezeigt, wie man beſonders durch Hülfe der For-
+meln für Summe und Unterſchied der Winkel, alle
+trigonometriſche Hülfslinien berechnen könne.
+Von der Auflöſung der Dreyecke, zuerſt der recht-
+dann der ſchiefwinklichen, von manchen Aufgaben
+mehr als eine Auflöſung und auch mehr als ein Be-
+weis. Uebungsaufgaben uit Hinweiſung auf die Feld-
+meſskunft. Am Ende ſind die Auflöſungen der Ue-
+bungsaufgaben aus ſämmtlichen Theilen mitgetheilt.
+Es iſt Schade, daſs dieſes durch Klarheit, Gründ-
+lichkeit und Vollſtändigkeit wirklich claſſiſche Werk
+eine Menge Druckfehler hat; indeſſen ſind ſie durch
+ein angehängtes mehr als ſechs Seiten langes Ver-
+Änis in ihrem wichtigern Theile verbeſſert wor-
+EIl.
+-
+- - - - - -
+1. -
+

@@ -1,0 +1,108 @@
+55
+56
+ERGÄNZUNGSBLÄTTER Nüm.-7. JANUAR 1815.
+29) Bemerkungen über die Fabrication des Zuckers
+aus Runkelrüben, von Bonmartin.
+(Der Beſchluſs folgt . )
+MATHEMA TIK.
+G1EssEN, bTaſché: Beſchreibung einer neuen Re-
+chenſcheibe, zur Beſtimmung des Kubikinhalts der
+Cylinder- Kegel und abgekürzten Kegel, nebſt ei:
+ner Anweiſung zu deren Gebrauch; von dem
+Kriegsrath Pfaff in Gieſsen. 1811. 6 S. 4. Die
+Tafel auf einem Foliobogen in Patentform. (3 Fl.
+2o Kr.)
+Da ſehr häufig Körpermeſſungen von cylindriſcher
+und koniſcher Geſtalt vorkommen, ſo war es aller-
+dings ein glücklicher Gedanke, den Praktikern durch
+dieſe Tafel ihre Arbeiten zu erleichtern, zumal da
+der Stich ſehr ſcharf und fein, auch das Papier weiſs
+und ſtark, beſonders aber die Angaben durch die
+enaueſte Correctur, wie verſichert wird, völlig
+ehlerfrey ſind. Die Scheibe ſelbſt iſt eine Kreis-
+fläche von 15 Zoll Durchmeſſer, deren Umfang in
+154 gleiche Theile aus dem Mittelpunct getheilt iſt.
+Jeder dieſer Theile iſt wieder vom äuſserſten Um-
+fang nach dem Miittelpunct etwa bis auf die Hälfte
+des Halbmeſſers, ia 3 gleiche Theile eingetheilt,
+wodurch alſo 2002 Trapezähnliche Vierecke ent-
+ftanden ſind, in deren jedem, die äuſserſten ausge-
+nommen, der nach Maaſsgabe des Umfangs und der
+Länge des Cylinders oder Kegels beſtimmte Rubik-
+inhalt deſſelben ſteht. Dieſer iſt auſser der ganzen
+Zahl noch bis auf Hälften, Viertel und Achtel be-
+rechnet. Der äuſserſte Umfang enthält in ſeinen
+Vierecken die Cylinderumfänge von 1 bis 54 Zolle.
+Im Mittelpuncte find zwey um derſelben ſich drehen-
+de Weiſer angebracht, die aber einen ganzen ſchma-
+len, über den Fächern der Scheibe ansgeſchnittenen
+Streifen bilden, und wo der eine den Kubikinhalt
+der Cylinder von 1 bis 15.4 Zoll Umfang und jeder
+verſchiedenen Schuh Länge, u. der andere den Kubik-
+inhalt der Kegel von 1 bis 15.4 Zoll Umfang der Grund-
+fläche, und jeder verſchiedenen Schuh - Länge zeigt.
+Der Gebrauch dieſer Vorrichtung iſt ſo deutlich be-
+ſchrieben und mit Beyſpielen erleichtert, daſs jeder,
+der auch von der Stereometrie ſelbſt keine nähere
+Kenntniſs hat, ſich darein wird finden können. Wenn
+z. B. der Kubikinhalt eines Cylinders von 88 Zoll
+Umfang und 40 Schuh Länge zu finden wäre, ſo ſetzt
+man diejenige Spalte des Weſers, die mit Cylinder
+bezeichnet iſt, auf das Viereck des äuſserſten Um-
+kreiſes der Scheibe, in welchem die Zahl 88 ſteht;
+auf dem Weiſer ſucht man die Abtheilung, wo die
+Zahl 40 ſteht, ſo liegt darunter das Viereck, in wel-
+chem ſich die Zahl 171 Kubikſchuh, als der ver-
+langte Inhalt des Cylinders, befindet. Steréometriſch
+berechnet würde dieſer Inhalt = 171, 178 ſeyn; der
+Bruch in der Tafel iſt = 0,125, alſo wäre cié An-
+gabe in der Tafel zu groſs, um o,053 Kubikfuſs, oder
+etwas über 91 Kubikzolle, welches für die Aus-
+übung genau genug iſt, zumal da bey jener ſtereo-
+metriſchen Rechnung die ſehr genaue Formel: c =
+o, o79577 . . Pºh, zum Grunde liegt, wo p den Um-
+fang und h die Länge bedeutet. Dieſes Rechnungs-
+reſultat zu finden erfordert immer eine Octavſeite voll
+Ziffern und gegen eine halbe Stunde Zeit, wenn man
+nicht in Gefahr kommen will, ſich zu verrechnen, wo-
+gegen der Gebrauch der Tafel keine Minute und
+nicht die geringſte Rechnung weiter erfordert, als
+weno etwa Zuſammenſetzungen, z. B. bey 53 Schuh,
+5o + 3 nöthig werden. Noch weitläuftiger wird die
+ſtereometriſche Berechnung bey abgekürzten Kegeln,
+welche noch häufiger, als die Cylinder in der Praxis
+vorkommen. Aber da erfordert auch die Tafel zwe
+beſondere Operationen. Ihr Gebrauch ſetzt Ä
+voraus, daſs man den abgekürzten Kegel als einen
+Cylinder anſehn könne, deſſen Durchmeſſer das arith-
+metiſche Mittel zwiſchen dem kleinſten und gröſs-
+ten iſt. Eine Vorausſetzung, die aber bekanntlich
+nur in ſolchen Fällen erträglich iſt, wo beyde Durch-
+meſſer oder Umfange wenig von einander unterſchie-
+den fºs ;, da hingegen - wenn die oberſte Grundflä-
+che die Ä des Kegels ſelbſt ware, der Fehler
+E
+bis auf des Ganzen gehn kann. Zu dem Ende wird
+hier abermals der Unterſchied zwiſchen dem obern,
+oder welches gleich viel iſt, – unterm und dem vor-
+hin gefundenen mittlern Umfang genommen und mit
+dieſem aus der Tafel von neuem der Kubikinhalt
+auf vorige Weiſe geſucht, wo alsdann beide Reſul-
+tate addirt werden. Bey dem Exemplar des Recen-
+ſenten iſt die Scheibe, die ihren Weiſer mittelſt ei-
+nes aufgenieteten Stifts trägt, auf eine Pappe gezo-
+gen, über welche ſich eine zweyte, wie die ande-
+re Schale eines Buchs, her legt, ſo daſs ſie dadurch
+ſich wie in einem Einbande befindet und immer gut
+erhalten werden kann.
+FORTSETZU N G.
+HALLE, b. Gebauer: Repertorium für alle Amtsver-
+richtungen eines Predigers. Herausg. von Samuel
+Baur, Decan der Diöcefe Albeck u. Pred. in Al-
+beck u. Göttingen bey Ulm. Zehnter Band. 1814.
+XIV u. 7o2 S. 8. (2 Ä 6 Gr.) (Siehe die Rec.
+Ergänz. Bl. 1807. Nr. 11.)
+Auch unter dem Titel :
+Homiletiſches Handbuch über die ſonntägl. Evan-
+gelien und Epiſteln des ganzen Jahres. Zum Ge-
+brauch für Stadt- u. Landprediger. Vierter Band.

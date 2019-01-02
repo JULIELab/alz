@@ -1,0 +1,105 @@
+161 -
+162
+-- 92I --- -
+E R G ÄN z U N G s B LÄT T ER
+Z U R.
+ALLGEM E IN EN LI T E RAT UR - ZEI
+T U N G
+Februar 1826.
+MATHEMATIK.
+1) Méxcnex, in d. Fleiſchmann. Buchh.: „Die F-
+acions– Rechnung als Leitfaden zur richtigen B-
+urtheilung des Gefies u. Zweckes des Infiniteſ-
+mal – Calculs. Von v. Ran/ön u. f. w.
+2) Poses, b. Munk: Grundlehren der höherr-Ana-
+lyſe zum Gebrauch in den obern Ä der ge-
+Ä Schulen und zum Selb/ſtudium einge-
+richtet. Von C. v. Buchowski u. ſ. w. f
+3) Köln, b. Thiriart: Anfangsgründe der Diffe-
+"Ä und Integral f Äung , von X.
+Broſius u. ſ. w.
+(Beſchluſs der im vorigen Stück abgebrochenen Recenfon)
+Im § 76 u. ff. wird von dem Differential der recht-
+winkeligen Coordinaten gehandelt. „Der Vf gründet
+ſeine Beweiſe auf die Sätze § 72 u. ff., und thut dar,
+daſs das Differential der Ordinate, wenn dieſelbe auf
+der Abſciſſe ſenkrecht ſieht , dasjenige Stück der
+Ordinate y +4y ſey, welches durch die Tangente
+und eine durch den Endpunkt der Ordinate y mit
+der Abſciſſe parallel gezogene Linie abgeſchnitten
+wird. Hier iſt auch, obgleich nicht allgemein genug
+ezeigt, unter welchen Bedingungen eine Curve ihre
+Ä oder erhabene Seite der Axe zuwendet.
+§ 83 fgg. Vom Differential des Flächeninhalts einer
+Curve, wenn die Coordinaten rechtwinkelig ſind.
+Es ſind hier drey Beweiſe gegeben, wovon jedoch
+der erfie theils zu weitläufig, theils zu unwiſſen-
+ſchaftlich iſt. Rec. wünſchte, der Vf, hätte ihn ganz
+weggelaſſen, gewiſs wäre dadurch dieſe Schrift um
+Ä ärmer geworden, beſonders da die beiden
+übrigen Beweiſe deſio kürzer und wiſſenſchaftlicher
+ſind. Der zweyte Beweis iſt indirect aus dem Satze
+des §. 70. hergeleitet, und der dritte endlich beruht
+direct auf den von dem Vf, im §. 72. aufgeſtellten und
+ſchon oben erwähnten Lehrſatze. Die Ableitung iſt
+kurz folgende: Man ziehe durch den Endpunkt der
+Ordinate eine Parallellinie zur Abſciſſe; ſo iſt, wenn
+die Ordinaten wachſen, der Zuwachs der Curven-
+fläche immer gröſser, als der Zuwachs des Paralle-
+logramms, welches durch die Abſciſſe und jene Paral-
+lellinie gebildet wird, und die Abnahme der Curven-
+fläche iſt ſiets kleiner, als die des Parallelogramms,
+(wenn immer von gleichen Incrementen und Decre-
+menten der Abſciſſe die Rede iſt,) folglich iſt nach
+§ 72. das Differential der Curvenfläche gleich dem
+Ergänz. Bl. zur A. L. Z. 1826.
+Differential der Fläche des Parallelogkamms. Da
+aber dieſes ſtets dieſelbe Höhe behält, ſo iſt das
+Differential deſſelben =ydar, welches alſo auch das
+der Curvenfläche iſt. § 88 u. ff. Differential des
+Bogens einer Curve, deren Coordinaten rechtwin-
+kelig ſind. § 92. wird der Lehrſatz bewieſen, daſs
+der Theil der Tangente, vom Berührungspunkte bis
+zur verlängerten Ordinate y =4y, das Öifferential
+des Bogens für den Berührungspunkt ſey. Der Vf.
+giebt zwey Beweiſe: der erſte gründet ſich wieder
+auf den erwähnten Lehrſatz des § 72. und iſt ſehr
+kurz und deutlich. Der andere iſt indirect. § 94.
+Ausdrücke für die Subtangente, Tangente, Sub-
+normale und Normale. § 96–101. Differentiale der
+Polarcoordinaten und der von dem Radius vector
+beſchriebenen Bogen und Flächen. Dieſe Betrach-
+tungen werden auf die ähnlichen Sätze in Beziehung
+auf parallele Ordinaten zurückgeführt, indem die
+rechtwinkelige Ordinate, die Abſciſſe und die Dif-
+ferentiale dieſer veränderlichen Gröſsen durch den
+Radius vector u. ſw. ausgedrückt; und darauf dieſe
+Werthe in die gefundenen Ausdrücke fubſtituirt wer-
+den. Der Vf, hätte jedoch dieſe Formeln auch ur-
+ſprünglich ableiten ſollen, um dadurch auch hier die
+Anwendbarkeit ſeiner vorgetragenen Sätze zu zeigen:
+§ 101 u. ff. Differentiale der krummen Flächen und
+der von ihnen begrenzten Körper. Der Vf, betrach-
+tet hier nur die krummen Oberflächen und die davon
+begrenzten Körper, welche durch Umdrehung einer
+Curve um ihre Axe entſtehen. Zieht man an einen
+Punkt einer Curve eine Tangente; ſo wird dieſe bey
+der Umdrehung die Oberfläche eines geraden Kegels
+beſchreiben, während die Curve ſelbſt das zu be-
+trachtende Conoid erzeugt. Für den Berührungs-
+punkt hat nun die Kegelfläche daſſelbe Differential,
+als die Oberfläche des Conoids, welches der Vf, nach
+ſeinen aufgeſtellten Sätzen beweiſet. Da nun das
+Differential der Kegelfläche berechnet werden kann,
+ſo hat man dadurch auch das der krummen Ober-
+fläche Ä VWenn man endlich durch irgend
+einen Punkt der Curve mit der Axe eine Parallel-
+linie zieht, ſo wird dieſe, während die Curvenfläche
+den körperlichen Raum des Conoids beſchreibt, ei-
+nen Cylinder hervorbringen, und es wird § 111.
+dargethan, daſs dieſer Ä Differential habe, als
+das Conoid für jenen Punkt. Da alſo das erſtere be-
+rechnet werden kann, fo iſt dadurch auch das Diffe-
+rential des körperlichen Inhalts des Conoids darge-
+a Dieſer Weg bey Erforſchung des Differentials
+El-

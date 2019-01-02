@@ -1,0 +1,127 @@
+111 ERGÄN zÜNGSBLÄTTER
+Num. 14. FEBRUAR I 8 I 9. II2
+Man findet ſie ſo in Käſtn. geom. Abhandl. Allge-
+meiner iſt dieſer Gegenſtand bereits von Puiſant in
+ſ. Recueil de diverſes propoſ de Geom. S. 3o behan-
+delt worden, wo nämlich gezeigt wird, daſs, wenn
+man zwey oder drey Linien von den Ä ſte-
+henden Seiten, Stücke abſchneiden ſ st, die ſich
+wie die Seiten verhalten, und die dritte Linie durch
+den Durchſchnittspunct der beiden erſten zieht, die
+dritte Seite allemal halbirt wird. Dieſer Satz hatte
+unſerm Vf. veranlaſst, die Unterſuchung nóchall-
+gemeiner vorzunehmen uud der Erfolg war ſo gün-
+tig, daſs ſich ſelbſt aus den einfachſten Sätzen der
+Elementargeometrie noch manches Neue gewinnen
+lieſs, wenn ſie verallgemeinert würden. Die vom
+Vf. gefundenen Sätze waren zum Theil ſehr ele-
+gant und merkwürdig, und dieſes lieſs ihn hoffen,
+daſs ſie bey ihrer Neuheit den Mathematikern nicht
+unwillkommen ſeyn würden. Wegen der überaus
+roſsen Menge vön Fällen, die ſich bey dieſer Be-
+fj darboten, nahm ſie der Vf.theilweiſe vor,
+Erſtlich unter der Anſicht, daſs ſich die drey Schei-
+- tellinien (wie der Vf, die auf dem Titel erwähnten
+- benennt) in einem und demſelben Puncte ſchneiden;
+und dann unter der noeh allgemeinern, daſs man
+die letztere Bedingung wegläſst, und das Dreyeck
+mit demjenigen vergleicht, welches jetzt von den
+drey Scheitellinien gebildet wird. „Es iſt hierbey
+einé zur Ueberſicht ſehr bequeme Bezeichnungsart
+der mehrern zu berückſichtigenden Linien und Pun-
+cte gewählt und in eignen Figuren dargeſtellt wor-
+den. Der Fundamentalſatz, von welchem die gan-
+ze Unterſuchung ausgeht, iſt in ſeiner Allgemein-
+heit folgender: Die Dreyecke, welche von einer
+Scheiteilinie in dem zum Grunde gelegten Dreyecke
+gebildet werden, verhalten ſich wie # durch dieſe
+Ä abgeſchnittenen Theile als Dreyecks-
+dinie, welche dem geſchnittenen Scheitel gegen
+über ſteht. Dieſer Satz wird in den Anfangsgr. der
+Geom. unter der Form, daſs zwe Dreyecke WOH1
+leicher Höhe ſich wie ihre Grundlinien verhalten,
+Ä und aus ihm folgt der dritte Satz, daſs
+auch die Unterſchiede jener zuſammengehörigen
+Dreyecke daſſelbe Verhältniſs haben. Hieraus ent-
+ſtehén nun drey Gleichungen, durch deren Multi-
+plication in einander folgender Satz hervorgeht:
+,Wenn die drey Scheitellinien in Einem Püncte
+ſich ſchneiden j ſo muſs allgemein, die Linien
+mögen liegen wie man will, das Product der durch
+ſie von den gegenüber ſtehenden Seiten einerſeits
+abgeſchnittenen Stücke dem Producte der anderſeits
+abgeſchnittenen gleich ſeyn." Auſser dieſer ganz
+einfachen Methode den Satz zu finden, zeigt der
+Vf. noch eine andere, uud bemerkt, daſs es deren
+noch mehrere gebe. Einen ähnlichen allgemeinen
+Satz giebt es für die Bedingung, die das Treffen der
+Scheitellinien in Einem Pancte für die Winkel feſt-
+ſetzt, die von den Dreyecksſeiten und den Scheitel-
+linien eingeſchloſſen werden. Hier muſs das Pro-
+-
+"We
+feyn, als
+duct von den Sinuſſen der winkel, die ſie auf der
+einen Seite mit den anliegenden Dreyecksſeiten ma-
+chen, der Producte der Sinuffe der Winkel auf der
+andern gleich feyn. Der Vf. zeigt zugleich, wie ſich
+dieſer Satz aus dem vorigen herleiten läſst. Weiter-
+hin werden drey allgemeine Gleichungen entwickelt,
+nach welchen j die Scheitellinien in Einem Pun-
+cte begegnen ſollen, und der Vf, zeigt, wie die Ein-
+gangs erwähnten Sätze der Elementärgeometrie un-
+mittelbar daraus folgen. Es werden nun auch Ent-
+wickelungen für andere Bedingungen vorgenommen.
+Einer der intereſſanteſten und gewöhnlich nicht vor-
+kommenden Fälle iſt der, wo man die drey Winkel,
+welche die Scheitellinien mit den Dreyecksſeiten
+machen, gleich groſs annimmt und woräus ſich der
+elegante Satz findet: „Wenn drey # Linien,
+Ä durch die winteſpitzer eines Drºyécksün-
+er gleichen Winkeln # én die anliegenden Seiten
+ezogen werden; –+ Ä in Einem Puncte treffen
+ollen, fo muſs die Cotangente des mit den übri-
+gen gleich groſs angenommenen Winkels ſo grofs
+ſ ie Summe des Cotangenten der Winkel
+des gegebenen Dreyecks." Ein anderer faſt eben
+ſo einfacher Ausdrück findet ſich für den vorer-
+Ä Ä
+wähnten gleich groſsen Winkel ſo, „däſs
+von der Gröſse ſey, daſs das Quadrat ſeiner Coſe-
+cante gleich iſt der Summe der Quadrate der Co-
+ſecanten der Winkel des gegebenen Dreyecks."
+Nun einige goniometriſche Formeln, auf welche die
+letztern Rechnungen führen. Auch für Vierecke
+u. m. z. B. die Summe der Cotangenten der Win-
+kel eines Dreyeckes iſt gleich der Summe der Ä
+drate ſeiner Seiten, dividirt durch den vierfachen
+Flächeninhalt. Auch der oben erwähnte Puiſſant-
+ſche Satz ergiebt ſich jetzt, und zeigt ſich zugleich
+als eine Ä des ähnlichen Falles der
+Elementargeom., in welchem die Seiten alle hal-
+birt werden. Aus den Reſultaten der Gleichungen
+werden auch Conſtructionsregeln hergeleitet und
+ihre Anwendung an eigenen Figuren gezeigt. Ge-
+gen das Ende folgt nun kürzlich auch die noch allge-
+meinere Unterſjchung der geraden Linien durch
+den Scheitel eines Dreyecks, bey welchen man
+nicht die Bedingung macht, daſs ſie in einem und
+demſelben Puncte ſich treffen ſollen. Hier wird
+alſo ſtatt des vorigen Punctes ein neues Dreyeck ge-
+bildet, welches mit dem gegebenen verglichen wird.
+Die Behandlung iſt der vorigen ganz ähnlich und
+liefert auch Äje intereſ Ä Auch
+die Lehre des Differenzialcalculs vom gröſsten und
+kleinſten kommt hier in Anwendung. Da man dieſe
+Unterſuchungen nicht bloſs für die Drey- und Vier-
+ecke, ſondern felbſt für die Vielecke, anſtellen kann,
+wie der Vf. gegen das Ende an einem Beyſpiele zeigt,
+ferſe dieſe ſº rie Schrift beſonders Ä ZUL
+empfehlen, welche ihren Scharfſinn in Erfindung
+neuer geometriſcher Sätze üben, und zugleich ein
+'; TS II:
+z: . . . . . . . . . . . . . . . sid
+Fertigkeit im Contraren derſelben erlangen Wºº
+.
+[
+

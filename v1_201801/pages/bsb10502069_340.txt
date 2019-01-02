@@ -1,0 +1,109 @@
+663
+664
+ERGÄNZUNGSBLÄTTER Num. 83. JULIUS 1817.
+übten die Formeln verſtändlich machen und erläutern,
+wobey nichts weiter, als die vier Rechnungsarten in
+Buchſtaben, nebſt der Kenntniſs von Ausziehung der
+Quadrat- und Kubikwurzel, vorausgeſetzt wird, und
+noch von keinem Univerſalmaaſse die Rede iſt. Aber
+am jene Ausrechnungen noch mehr zu erleichtern, hat
+er auch von den Logarithmen Gebrauch gemacht und
+mehrere Hülfstafeln beygefügt, unter welchen die
+mit der Zahl 5 multiplicirten Briggiſchen Logarith-
+men, wo von den erhaltenen Produkten die drey letz-
+ten Ziffern nebſt der Charakteriſtik weggelaſſen ſind,
+ſich vornehmlich auszeichnen und unter dem Namen
+Proportionalzahlen aufgeſtellt ſind. Die Iſte Tafel
+lelbſt enthält ſolche Proportionatzahlen für die Kreis-
+grundflächen der zylindriſchen Blöcke von 4 Zoll bis
+zu 12 Fuſs Durchmeſſer, nebſt den Differenzen die-
+fer Proportionalzahlen für F Zoll des Durchmeſſers.
+Die IIte Tafel giebt die Proportionalzahlen für die
+Grvt:äßächen der in den Zirkeln enthaltenen gröſsten
+Quadrate, oder der aus runden Bäumen zu ſchneiden-
+den vierkandigen Blöcke. Taf. III. Die Proportio-
+nalzahlen aller natürlichen Zahlen von 1 bis 2ooo nebſt
+den Differenzen, wo am Ende auch gezeigt wird,
+wie zu einer üher 2ooo gehenden die zugehörige Pro-
+portionalzahl zu finden ſey. Die Taf. IV iſt nun für
+des Vfs. Univerſalmaaſ, worauf allein ein gegebe-
+nes Maaſs zu verwandelnde Maaſse reducirt werden.
+Hiezu hat er einen Zylinder gewählt, der einen rhein-
+ländl. Fuſs zum Durchmeſſer und auch zur Höhe hat.
+Die Tafel ſelbſt enthält fünf Spalten. Alle Zahlen
+welche im Einer Horizontallinie ſtehen, gehören zu
+einem und demſelben Kreiſe, und zwar enthält die
+1ſte Spalte die Durchmeſſer in Maaſsen von 'bis 81
+Maaſs; die 2te die Umkreiſe in Zollen von 10,83 bis
+39,29 Zoll rheinl. M. Die 3te die Durchmeſſer in
+Ä von 3,46 bis 108 Zoll. Die 4te die Proportio-
+nalzahlen für den Inhalt der Kreiſe, zu welchen die
+vorigen Durchmeſſer und Umkreiſe gehören. In der
+sten ſtehen die Differenzen der Proportionalzahlen,
+und zwar 1) von 5 bis 14 Maaſs, für 3 s Maaſs;
+2) von 14 bis 3o Maaſs, für 's Maaſs; 3) von 30
+bis 36 Maaſs, für z. Mlaaſs und endl. 4) von 36 bis
+81 Maaſs, für 25 Maaſs. Miſst man nun den Durch-
+jeſfer oder Umkreis eines zylindriſchen Gefäſses in
+rheinländ. Zollen, ſucht das gefundene Maaſs in der
+aten oder 3ten Spalte auf; ſchreibt ſodann die dieſer
+Zahl zugehörige Proportionalzahl nieder und addirt
+zur ihr die Quadratfläche des Kreiſes die Proportio-
+malzahl für die Länge, ſo erhält man die Proportional-
+zahl für den körperlichen Inhalt in einem fingirten
+Maaſse, welches der Vf, das Univerſalmaaſs nennt
+und deſſen Durchmeſſer die erſte Spalte enthält. Um
+"die ausgemeſſenen Gefäſse in einem verlangten be-
+kannten Maaſse zu beſtimmen, addirt man aus Taf.
+V. die dem verlangten Kubikmaaſse oder Gewichj
+zu kommende Proportionalzahl. Um das gefundj
+Univerſalmaaſs in einem verlangten Hohlnaaſse j
+beſtimmen, addirt man aus Taf. VI die bev dem Ver-
+angten Hohlmaaſse in der zweyten Spalte befinie
+Proportionalzahl. Endlich, um auch den Inhalt flüſ-
+figer oder feſter Körper im Gewichte zu beſtimmen
+addirt man aus Taf. j die Zahl in der bezeichj
+Spalte. Die Tafeln V und VI enthalten deshalb j
+die Namen vieler Oerter nebſt den Arten ihrer Maaſse.
+In der Taf. VII ſtehen die ſpecifiſchen Gewichte ſehr
+vieler Ä nebſt den zugehörigen Proportional-
+zahlen. Die Taf. VIII dient zur Ä der
+Gewichte verſchiedener Oerter. Es ſind deshalb in
+der 1ſten Spalte die Namen der Oerter, in der 2ten
+die daſelbſt üblichen Gewichte in Holländ. Aſen und
+in der 3ten die dazu gehörigen Proportionalzahlen
+enthalten. Das Univerſal- oder Normalgewicht die-
+ſer Tafel iſt das Kilogramm. Taf. IX dient zur Ver-
+gleichung der Land- oder Flächenmaaſse verſchiede.
+ner Oerter. Hier iſt die Hectare zurn Univerſal - oder
+Normalmaaſse angenommen. Ihre ſte Spalte ent-
+hält den Quadratinhalt der vor derſelben beſchrie-
+benen Flächenmaaſse in pariſer Quadratfüſsen und die
+ate die Proportionalzahlen für dieſelben. Wenn alſo
+das Maaſs einer Fläche in das von einer andern zu
+verwandeln iſt, ſo ſucht man zu dem gegebenen
+Maaſse in Taf. III. die Proportionalzahl und zieht aus
+Taf. IX die bey dem zu verwandelnden Flächenmaa-
+ſse befindliche Proportionalzahl von derſelben ab; die
+Differenz iſt die Prop. Z. für die Hectare. Auch
+wenn man ein anderes Maaſs als die Hectare haben,
+oder wenn man wiſſen will, wie viel von einem ge-
+gebenen Flächenmaaſse auf 1 Hectare gehe; oder auch
+wie viel eine gegebne Anzahl von Hectaren in einem
+andern Flächenmaaſse betrage, – dienen dieſe Ta-
+feln. Taf. X iſt zur Vergleichung der Meilen ver-
+ſchiedener Oerter für den Erdhalbm. von 6,543,21o
+'foiſen beſtimmt, wo die Geogr.-Meile deren 15 auf
+1 Grad gehen, zum Univerſalmaaſs angenommen iſt.
+Taf. XI enthält zur Vergleichung der Gold- und Sil-
+hermünzen verſchiedener Ä 1) unter A. die
+Gold- und unter B die Silbermünzen nach ihrem wah-
+ren Werth in Theilen der Cöln. Mark fein Gold und
+Silber; 2) nach den Weſtphäl. Decret v. 11. Jan u-
+28. Ap. 1808 den feſtgeſetzten Werth aller im Königr.
+Weſtphalen curſirenden Geldſorten nach Franken und
+Centimen. Die Aufgaben ſind ſowohl nach den
+Rechnungsformeln als nach den Tafeln aufgelöſt,
+wo denn die eine Auflöſung der andern zur robe
+dienen kann.«
+« - -. - - - €.

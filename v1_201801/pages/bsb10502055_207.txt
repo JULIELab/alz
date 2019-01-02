@@ -1,0 +1,84 @@
+377
+378
+– I45 –
+A LL G E M E 1 N E L 1 T E RAT U R - z E 1 T U N G
+Junius 181 4.
+L I T E R A RI S C H E
+Neue Entdeckungen.
+D. Adjunct von Stefenelli, ehemals aſtronomiſcher
+Zögling des Directors vom k. bayriſchen ſtatiſtiſch -
+topographiſchen Bureau, Seyffer, übergab der k. bay-
+riſchen Akademie der Wiſſenſchaften zu München un-
+2 ſin. * .
+fin. r“
+y=a tg. d.« + (b–a“) tg d.
+.
+N A c H R 1 c H T E N.
+-
+ter dem 27ſten Junius d. J. eine Abhandlung über eine
+neue Reihe für geringe Aenderungen x, y eines Win-
+kels (u), und der ihm gegenüberliegenden Seite (d) ei-
+mes ſphäriſchen Dreyeckes, wenn die zwey den ver-
+änderlichen Winkel einſchlieſsenden Seiten 3, p con-
+ſtant ſind. Sie iſt folgende:
+A?
+– #a (b – a”) tg.dfin.* r“.x?+
++# (b –a“) (5 a*– b) tg.d ſin.* r“. x“-+...
+wo a = ſin. p fin. 8.Jin. u ſec. d corg.*d, b= a cotg. u iſt.
+Dieſe Reihe iſt anwendbar:
+1) Zur Reduction der in der Nähe des Meridians ge-
+meſſenen Zenithabſtände der Sonne. Man erhält
+nach gehöriger Reduction Delambre's Formel: Baſe
+métrique, Band II.
+2) Auf Beſtimmung des Azimuths eines irdiſchen Ob-
+jectes, um für die ungleichförmige Aenderung der
+Abſtände, welche mittelſt eines Bordaiſchen Kreiſes
+zwiſchen einem Geſtirne, und irdiſchen Objecte
+durch Wiederholung gemeſſen worden ſind, Rech-
+nung zu tragen. Nimmt man dabey, wie Svanberg
+(Expoſition des opérationsfäites ex Lapponie etc.), das
+Mittel der Zeiten als Vergleichungspunkt an, und
+ſucht die Summe aller Aenderungen, ſo verſchwin-
+det das erſte Glied der Reihe, und man erhält eine
+bis jetzt noch nicht entwickelte Formel, eben ſo
+wie für die drey folgenden Anwendungen, nämlich:
+3) Zur Zeitbeſtimmung mittelſt Zenithabſtände der
+Sonne. -
+4) Zur Reduction gemeſſener Mondabſtände.
+5) Zur Beſtimmung des Azimuths mittelſt des Polar-
+ſterns nach der von Mechain (Baſe métrique) in Spa-
+nien gebrauchten Methode.
+Eine zweyte merkwürdige Reihe iſt folgende,
+welche die Aenderungen y, x eines von zwey con-
+ſtanten Seiten 3, P eingeſchloſſenen Winkels (r), und
+des anliegenden «beſtimmt. -
+.fin. « coſm 2 ſin.“ . fin S fin. D. -
+--+Ä–#cº/ (P). # (#–# #) - -
+* 2 * 2,
+fin. t fin. 1“
+ſin. S
+y Y* - fin. D
+- (#) a fin. ö. ſin. P)“.fin. t »e 49,087 (##)
+wo z die dritte Seite, m der dritte Winkel S = « +m,
+D = « –m iſt.
+. Dieſe Reihe gewährt eine Anwendung zur Re-
+duction von Beobachtungen, welche mit Reichenba-
+chiſchen Repetitions - Theodoliten gemacht werden,
+und zwar zur Beſtimmung des Azimuthes eines irdi--
+ſchen Objectes
+1) mittelſt auf- und untergehender Sternen,
+2) mittelſt der gröſsten Azimuthal-Digreſſion des
+Polarſterns.
+A. L. Z. 1814. - Zweyter Band.
+Beide Reihen ſind bloſs aus den Formeln der ſphä-
+riſchen Trigonometrie mittelſt der Verwandlung eines
+Bruches in eine Reihe durch fortgeſetzte Diviſion ent-
+wickelt. Ihr Geſetz iſt leicht einzuſehen, und jeder
+Sachkundige wird erkennen, daſs dieſelben in Hinſicht
+auf Genauigkeit und Leichtigkeit der Berechnung vor
+allen bis jetzt bekannten Hülfsmitteln den Vorzug ha-
+ben. Die Fntwicklung der Formeln für jeden ſpe-
+ciellen Fall müſſen wir hier der Kürze wegen über-
+gehen, und bemerken nur noch, daſs in der letzten
+Reihe y” in Zeitminuten genommen werden müſſe.
+Bbb LITE-

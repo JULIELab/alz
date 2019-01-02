@@ -1,0 +1,115 @@
+55
+56
+A. L. z. Num. 16. MAY 1822.
+jüngter Maaſsſtab. Vollſtändige Ausführung des
+Äs der Aehnlichkeit ncbſt vermiſchten Sätzen.
+Pröportionen im Kreiſe und Aehnlichkeit regulärer
+Figuren. Ä geradlinigter Figuren. Von
+den im preuſsiſchen Staate üblichen Längen – und
+Flächenmaaſsen. Ausmeſſung des Kreiſes. Berech–
+nung der Ludolphiſchen Zahl und ſtrengere Begrün-
+dung der Kreisausmeſſung. Berechnung der Bogen,
+Aus – und Abſchnitte und anderer Kreisſtücke.
+Reingeometriſche Rectification der Kreislinie. Vor-
+erinnerung und Anleitung zur Uebung in der geo-
+metriſchen Analyſis. – Von der Eigenthümlichkeit
+des Vfs in Behandlung ſeiner Gegenſtände läſst ſich
+nicht wohl eine bloſse Beſchreibung als genügend
+anſehen. Wir wollen daher eine Ä Probe
+aus dem Buche ſelbſt ausheben und dazu den Lehr-
+ſatz § 22., als einen der berühmteſten, wählen:
+„Wenn zwey Linien von einer dritten ſo geſchnit-
+ten werden, daſs entweder a) zwey Gegenwinkel
+gleich ſind, oder daſs b) zwey Wechſelwinkel gleich
+ſind, oder daſs c) zwey innere Winkel auf derſelben
+Seite der ſchneidenden Linie zwey rechte betragen;
+ſo ſind die Linien parallel." Nun folgt mit klei-
+nerer Schrift: „Beweis von a): angenommen, daſs
+in (fig. 13.) die Linien AB und CD von der dritten
+unter gleichen Gegenwinkeln EFB und FGD ge-
+ſchnitten werden; ſo iſt zu beweiſen, daſs AB und
+CD parallel ſind, d. h. nach (§. 21.), daſs ſie gleiche
+Richtung haben. . . Da die Gegenwinkel EFB und
+FGD gleich ſind; ſo weicht die Richtung der Linie
+FB von der Richtung der Linie FE eben ſo ſtark und
+nach eben der Seite ab, als die Richtung der Linie
+GD“ von der Richtung der Linie GF; da nun die
+Theile FE und GF der ſchneidenden Linie EH nach
+(§ 8. a.) eine und dieſelbe Richtung haben, FB und
+D aber von dieſer gleich ſtark und auf völlig glei-
+che Art abweichen, ſo müſſen ſie (oder die ganzen
+linien – B und CD) nothwendig ſelbſt eine gleiche
+Richtung haben, alſo parallel ſeyn. . . Es iſt nun
+noch übrig, den Beweis von bünd c auszuführen.»
+welches nicht ſchwer iſt; denn nach (§ 18.) läſst
+ſich beweiſen, daſs, wenn zwey Wechſelwinkel
+gleich ſind, auch zwey Gegenwinkel gleich ſeyn
+müſſen; ebenſo nach (§ 14.), daſs, wenn zwey in-
+nere Winkel auf einer Seite der ſchneidenden Linie
+zwey.rechte betragen, gleichfalls zwe Ä
+kel gleich ſeyn müſſen. Der Beweis Ä ch alſo
+in den beiden letzten Fällen auf den erſten zurück-
+führen. . . Hierbey ſind noch folgende Fragen zu
+beantworten: a) Enthält der §. nur einen, oder
+'Y.Lehrſätze, und wie lautet im letzten Falle jeder
+rch? b) Welches iſt im § der Pºorderſatz oder
+die Yºausſetzung, und weſches iſt der Nachſatz
+ºder die Folgerung?“ – Dieſem Lehrſatze geht
+fºlgende Erklärung unmittelbar voran: „Zweyge-
+rade Linien in einer Ebene, welche ohne ſich zu
+Frage iſt aus §.9. zu entnehmen.
+decken gleiche Richtung haben 2 heiſsen parallele
+oder gleichlaufende Linien." Darunter ſteht mit
+kleinerer Schrift: „ Hiebey iſt folgende Frage zu
+beantworten: Wenn man in einer Ebene mehrere
+Linien ſo zieht, daſs ihre Richtung nach einem ein-
+zigen Puncte hinläuft; haben dieſe Linien gleiche
+oder ungleiche Richtung? die Beantwortung dieſer
+Auch iſt anzu-
+geben, wie man die Parallelität zweyer Linien be-
+zeichnet?" – Man ſieht, daſs ſich der Vf. dadurch,
+daſs er den bloſs klaren Begriff von Richtung als ei-
+nen logiſch deutlichen (der alſo nicht die Natur ei-
+ner Definition zu haben braucht) annimmt, die Sa-
+che ſehr leicht gemacht hat. Den Begriff vom Win-
+kel ſtellt er ſo auf: „Wenn zwey gerade Linien aus
+einem Punct auslaufen ohne ſich zu decken, ſo ha-
+ben ſie verſchiedene Richtungen, und der Unter-
+ſchied ihrer Richtungen heiſst ein Winkel." – Rec.
+würde lieber ſagen: durch die Betrachtung dieſer
+Verſchiedenheit ergiebt ſich der Begriff eines Win-
+kels, – denn der Ausdruck Unter/chied giebt
+Aslaſs, daſs ſich in das Mathematiſche auch noch
+etwas Logiſches mit einmiſcht, zumal wenn dadurch
+der Begriff von Subtraction vorſchwebend wird.
+BERLIN, in Comm. b. d. Gebr. Gädicke: Be-
+fchreibung von erhaben gearbeiteten oder Re-
+lief – Er eln und Landcharten, aus feiner
+und unzerbrechlicher Papiermaſſe, beſonders
+in hydrographiſcher und drographiſcher Bezie-
+hung, nebſt andern in dieſes Fach eingreifenden
+Gegenſtänden, zu haben bey dem Verfertiger
+Karl Wilh. Kummer, in Berlin; letzte Str. Nr. 8.
+1822. 1 1 I S. 8. (12 gr.) “
+. Dieſe Anzeige zu verfertigender Erdkugeln und
+Landkarten iſt in deutſcher und franz. Sprache zu
+leſen. Für dergleichen Globen von 26 Ä ſollen,
+je nachdem ſie mit Graden und Namen, oder ohne
+das Eine und das Andre verfertigt werden, 25, 30
+und 5o Rthlr., und für Emballage, noch ##
+Pränumeration gezahlt werden; für eine kleinere
+Kugel von 16 Zoll Io, 12, 16 Rthlr. und 2 Rthlr.
+Emball. – Charten von Deutſchland, nach Gebir-
+n und Strömen, bietet Hr. K. in zweyerley Sorten
+r 6 und 1oRthlr. an, und beſchreibt dieſe nun nä–
+her. Da er ſich zur Bezeichnung der Flüſſe der
+Zahlen, der Gebirge der Buchſtaben, und der Oer-
+ter noch ganz verſchiedener Zeichen bedient, ſo
+möchte die Oberfläche gar bunt ausfallen. Uehri-
+Ä ſind ſolche Darſtellungen ganz artig anzu-
+chauen, aber die Ä gewinnt dadurch
+nichts, und ſchwerlich möchten viele Volksſchulen
+ſie anſchaffen können. – Ohnehin wird ſich über
+ihre Ausführung erſt, wenn ſie da ſind, urtheilen
+laſſen.
+–

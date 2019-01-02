@@ -1,0 +1,121 @@
+693
+. 694
+Num. 190. AUGUST.1826.
+
+Quadratur paraboliſcher Abſchnitte. Der engliſche
+Ueberſetzer hat hier das Werk durch eine Zugabe
+bereichert, die auch unſer Ueberſetzer gleich nach
+der Vorrede (S: XL) wiedergegeben hat mit der
+Ueberſchrift: „Anderer Beweis für die Quadratur
+der Parabel." Der „andere" Beweis ſcheint aber
+dem Rec. der/elbe zu ſeyn, wenigſtens in dem Punkte
+worauf es ankommt. Der Zuſatz des engl. Ueberſ
+hingegen zu dieſem Beweiſe iſt an einer Stelle, weil
+er darihut, daſs eine ſtillſchweigend gemachte Vor-
+ausſetzung ſtatthaft iſt.
+Das vierte Buch enthält in 16 Sätzen Eigenſchaf-
+ten, welche nur bey ſolchen Schnitten. Stattfinden,
+die einen Mittelpunkt haben, z. B. die Eigenſchaft,
+daſs die um zugeordnete Durchmeſſer beſchriebene
+Parallelogramme einander gleich ſind. Es wird fer-
+ner eine hübſche Conſtruction zugeordneter Durch-
+meſſer, die einen beſtimmten Winkel bilden, ange-
+geben (Satz 8). Am Ende des Buches werden die
+lächen hyperboliſcher Ausſchnitte mit einander und
+die Fläche der Ellipſe (nach Archimedes) mit der
+Fläche des, über der groſsen Axe beſchriebenen, Krei-
+es verglichen. Hier hat Hr. F. einen paſſenden Zu-
+fatz gegeben, der dem, in Beziehung auf die Qua-
+dratur der Parabel erwähnten, ähnlich iſt.
+Fünftes Buch. 24 Sätze. Der erſte und zwevte
+Satz handeln von ähnlichen und ähnlich liegenden
+Schnitten. Dann folgt die Erklärung der harmoni-
+ſchen Theilung von geraden Linien, welche die geo-
+metriſche Unterſuchung über Linien, die durch ei–
+nen und denſelben Punkt gehen, oder ſich auf der-
+ſelben geraden Linie ſchneiden, ſo ſehr erleichtern,
+Von Satz11 bis Satz 18 werden Schnitte betrachtet,
+welche ſich, berühren, und ausführlich und leicht
+Wº die Lehre vom Schmiegungskreiſe für beliebige
+Punkte der Schnitte abgehändelt. Den Schluſs des
+Gnzen macht die Beſtimmung der Schnitte aus ge–
+Ä Punkten derſelben, und gegebenen Gera-
+en, die berührt werden ſollen, Ä zwar finden wir
+folgende Aufgaben: den Schnitt zu befjej
+5 Punkte gegeben ſind; 3 Punkte und 2 Tangenten;
+4 Punkte und 1 Tangente (wo jedoch die Aufgabe
+nur in dem beſondern Falle aufgelöſet wird, daſs ei–
+ner der gegebenen Punkte auf der Tangente liegt,
+Änd nicht in der Allgemeinheit, die man nach der
+Ausſage von Satz 23 zu erwarten berechtigt iſt) und
+endlich (nach Rob. Simſon) die Berührungspunkte zu
+beſtimmen, wenn 5 Gerade der Lage nach gegeben
+ſind, und umgekehrt, wenn 5 Punkte des Schnittes
+Ä ſind, die Tangenten in dieſen Punkten zu
+eltinnnnen.
+Wenn wir einen Blick auf dieſe kurze Inhalts-
+"ge werfen, ſo überzeugen wir uns bald, daſs
+Yorliegende Schrift nichtsjerörtert läſst, was in
+die geometriſche Behandlung der Kegelſchnitte ge–
+hört, und das unbefangene Üj wird bevm Ver–
+Ä mit der deutſchen Ausgabe von Rob. Simſons
+ehre Von den Kegelſchnitten in dieſer Beziehung
+gewiſs zu Gunſten des Hamiltonſchen Buchjº
+fallen. Was die Methode betrifft, ſo hat Rec. ſich
+ſchon zu Gunſten derſelben ausgeſprochen, er glaubt
+aber hier noch zweyWorte Ä zu müſſen,
+als Commentar gleichſam zu den treffende Worten
+der Vorrede zur Ueberſetzung: „ſo diente dem Vf
+die Kegelfläche wie die Ä Gleichung der
+Kegelſchnitte." Jede Gleichung vom zweyten Grade
+zwiſchen zwey veränderlichen Gröſsen kann ange-
+fehen werden als das Reſultat der Elimination einer
+der Veränderlichen aus zwey Gleichungen vom er-
+ſten und zweyten Grade zwiſchen drey verände-
+lichen Gröſsen; d. h. geometriſch ausgedrückt, jede
+Linie der zweyten Ordnung kann als der Durch-
+ſchnitt einer Ebene mit einer Fläche der zweyten
+Ordnung angeſehen werden. Jede Eigenſchaft da-
+her, die ſich aus der allgemeinen Gleichung, von
+zweyten Grade zwiſchen zwey veränderlichen Gº-
+ſsenergiebt, iſt zugleich eine Eigenſchaft von Flº-
+chen deſſelben Grades (insbeſondere alſo der Kegel-
+fläche). Hamiltons Grundgedanke bey ſeinem Yºkº
+iſt gerade die Umkehrung dieſes Satzes. Es iſt hier
+nun ſehr bemerkenswerth, daſs Hamilton's Haupt-
+theorem von der Kegelfläche im Grunde ganz genau
+derſelbe Satz iſt, den Euler in ſeiner Introductio ad
+Analyſin infinitorum Vol. II. cap. V. § 92 aus der B-
+trachtung der Producte der beiden Wurzeln der al-
+gemeinen Gleichung vom Ä Grade zwiſchen
+Zweyveränderlichen Gröſsen herleitet. Mit dieſer
+Andeutung muſs Rec. ſich begnügen; es lieſse ſich in-
+deſs hier noch manche Bemerkung anknüpfen. Wenn
+übrigens zwey ganz verſchiedene Methoden ſich ſº
+wie hier begegnen, ſo ſpricht dieſs zugleich für
+beide. –
+Eine ſchätzbare Zugabe zum Buche iſt die Vor-
+rede zur Ueber/etzung, in welcher die ſymboliſirende
+(analytiſche) und die geometriſche Methode neben
+einander geſtellt werden, und wo an Beyſpielen ge-
+zeigt wird, was es heiſse rein analytiſch (nicht al-
+gebraiſch) zu Werke zu gehen.
+Die Ueberſetzung iſt treu, vielleicht zu treu in
+dem Wiedergeben des lateiniſchen Ausdrucks. Da–
+her erſcheinen manche Sätze, beſonders im erſten
+Buche, etwas ſchwerfällig. Der Ueberſetzer hätte
+wohl mit Vortheil die im Deutſchen zu verſchlunge–
+nen Perioden in mehrere leicht überſichtliche Sätze
+auflöſen können. Uebrigens ſieht man, daſs er mit
+feinem Gegenſtande ganz vertraut iſt. Die 17 Ku-
+pfertafeln des Originals ſind in der vorliegenden Aus-
+gabe durch 11 Steintafeln erſetzt, welche, vortheil-
+after geordnet, dieſelben Figuren enthalten, ohne
+ein paar, ſich auf die Zuſätze beziehende, zu rech-
+nen. Der Verleger hat aber hierbey ſchlecht für die
+Reviſion geſorgt; es ſind hier und da Linien Ä.
+laſſen und Buchſtaben falſch geſetzt; z. B. Tab. VIII
+Buch IV. Fig, 4 iſt faſt unbrauchbar. Daſs ſich nicht
+einmal ein Fehlerverzeichniſs vorfindet, verdient eine
+Rüge. – Das Papier iſt gut, der Druck mittelmä-
+sig 0719. GE

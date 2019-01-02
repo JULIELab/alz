@@ -1,0 +1,114 @@
+43.
+44
+ALLG. LITERATUR - ZEITUNG
+- Nunmehr maſs er die den angegebenen Kräften
+zugehörigen Beugungen, wie ſie die Conſtruction ge-
+Verſuch. 5“ 8“; IO“ 6“; II“ 1“;
+Conſtruction. 5“ 8“; 7“ 6“; IO“ 1“;
+Dabey bemerkt er, daſs die Angabe Io“ 6“ beym
+Verſuch wegen ihrer auffallenden Irregularität nur im
+fehlerhaften Abmeſſen oder Notiren ihren Grund ha-
+ben könne, welches allerdings zugegeben werden
+kann. Man wird hiernach eine bewundernswürdige
+Uebereinſtimmung der logiſtiſchen Conſtruction mit
+den Beobachtungen ſelbſt bemerken, womit dann auch
+der Vf. wohl zufrieden iſt. Aber Rec. hielt es nicht
+für rathſam, dieſe Angaben ſo auf gerathewohl anzu-
+nehmen, ſondern feſte folgende Prüfung ohne Con-
+ſtruction durch Rechnung an. Er nahm für die Vor-
+ausſetzung des logiſtiſchen Geſetzes 2345 als erſtes
+und 6505 als letztes Glied einer geometriſchen Reihe
+von 7 Gliedern an, und auf gleiche Weiſe 5“ 8“ als
+erſtes Glied einer correſpondirenden- arithmetiſchen
+Reihe, gleichfalls von 7 Gliedern, deren letztes = 2o“
+wäre. Für die geometriſche Reihe findet man auf be-
+kannte Weiſe den Exponent der Reihe = 1, 185; für
+die zugeordnete arithmetiſche die Differenz der Glie-
+der = 2“ 4#“. Hiernach laſſen ſich nun leicht corre-
+ſpondirende Glieder beier Reihen berechnen, indem
+man das erſte Glied nebſt dem Exponenten und irgend
+ein gegebenes Glied der geom. Reihe als Data zum
+Grunde legt, woraus man die Zahl, das wievielte in
+der geometriſchen das gegebene Glied iſt, findet.
+Nimmt man z. B. das GÄ 3825, ſo findet man die
+Anzahl der Glieder, von welchen 3825 das letzte iſt,
+= 3,882; nimmt man das Glied 4305, und ſucht die
+Anzahl von Gliedern, von welchen dieſes das letzte
+iſt, ſo findet man ſolche = 4, 578. Berechnet man
+nun die correſpondirenden Glieder der arithmetiſchen
+Reihe, ſo findet man das 3,882te = Io“. I , 95“, und
+Kräfte. 2345; 2825; ZZ45;
+3825;
+geben hatte, welche ſich auf das logiſtiſche Geſet
+gründete. Die Reſultate giebt er ſo Ä n etz
+I2“ Io“; I6“ 1“; 17“ 11“; 2O“ otº:
+D
+I2“ Io“; I6“ 1“; 18“ o“; 2O'“ o“;
+das 4,578te = I4“ 4,28“. Die zu den Kräften von
+3825 Pfund und 4305 Pfund gehörigen Beugungen wa-
+ren aber nach den Verſuchen 12“ 1o“ und i6“ 1“,
+von welchen die nach denn angenommenen Geſetze be-
+rechneten Io“ 1,95“ und 14“ 4, 28“ bedeutend ge-
+nug abweichen. Alſo war des Vfs. Conſtruction, die
+hier eine vollkommene Uebereinſtimmung mit den
+Verſuchen gab, falſch. Dem Vf. hätte aber auch ohne
+ſolche Prüfung ſogleich einleuchten müſſen, daſs ein
+ſolches Geſetz den plötzlichen Sprung von 12“ 1o“ auf
+16“ 1“ in obiger Ä nicht geſtatten können. Wie-
+derum fällt gleich in die Augen, daſs zu den nach ein-
+ander folgenden Kräften 4365 und 5545 jenem Geſetze
+gemäſs keineswegs die noch nicht um 2 Zoll verſchie-
+denen Beugungen von 16“ 1“ und 18“ o“ gehören
+können. Ä den Unwerth von des Vfs. neuer Ent-
+deckung noch auffallender darzuſtellen, wollen wir
+ſogleich zeigen, daſs er der Wahrheit nicht etwa nur
+eben ſo nahe, ſondern noch näher gekommen eyn
+würde, wenn er beide Reihen als arithmetiſche zuſam-
+mengeordnet hätte. Die Diferenz der Glieder einer
+aus 7 Gliedern beſtehenden Reihe, deren erſtes 2345
+*#4=693. Hier-
+nach läſst ſich nun berechnen, das wievielſte Glied
+2825 in dieſer Reihe iſt, eben ſo das wievielſte 3345,
+3825 u. f. w. iſt. Nämlich 2825 iſt das 1,69te Glied;
+3345 das 2,44te; 3825 das 3, 13te; 4305 das 3,83te;
+5545 das 5, 6 Ite; und 6505 das 7te. Berechnet man
+nun die ebenſovielſten Glieder einer arithmetiſchen
+Reihe für die Beugungen, ſo erhält man:
+und letztes 6505 wäre, iſt
+4ZO5; 5545; 6505.
+Beugungen. 5“ 8“; 7“ 5,92“; II“ 5, 93“; 13“ 1,72“; I4“ Io, II“; 19“ o,78“; 22“ 4,62“.
+Die hier berechneten Beugungen geben noch gerin-
+gere Abweichungen von den Beobachtungen, als die
+nach des Vfs. Geſetze berechneten. Nur das letzte
+Glied weicht, um 2# Zoll von der Beobachtung ab;
+dagegen weicht das nach dem logiſtiſchen Geſetze rich-
+tig berechnete 4te Glied Io“ 1,95“ von dem beobach-
+teten 12“ Io“ um -2 Zoll ab. Jene Abweichung be-
+trägt noch nicht # er beobachteten Beugung, dieſe
+hingegen ſchon über . Es iſt alſo das von Vf. ange-
+nommene logiſtiſche Geſetz ein bloſses quid pro quo,
+und iſt eine leere Grübeley, die ſo wenig auf der Er-
+fahrung als aüf der Theorie beruht und ganz und gar
+nicht dazu geeignet iſt, ein einfacheres Geſetz zu ver-
+I. II.
+Kräfte. 2343; 2823;
+III.
+33O3 ;
+drängen. Hierzu kommt nun noch, daſs wir auf
+keine Weiſe berechtigt ſind, aus einer einzigen ſol-
+chen Reihe, die nur bey einem einzigen Balken ſtatt
+gefunden hat, ein allgemeines Geſetz der Beugungen
+ableiten zu wollen. Schon die Büffonſchen Verſuche
+aben wieder ein ganz anderes Geſetz; und bey Bal-
+en von andern Äbmeſſungen würde man vielleicht
+wieder ein neues Geſetz finden. Der Vf, geht noch
+weiter; er theilt Verſuche mit, welche Wiebeking mit
+3 auf einander geplätteten 5o Fuſs langen Balken zu
+Io Zoll ins Quadrat dick angeſtellt hat. Hiernach
+WalITEI1- -
+IV.
+4283
+V.
+5223;
+Beugungen. II“ 8“; 17“ 10“; 23“ 6“; 35“ o“; 46“ O“.
+- Dabey

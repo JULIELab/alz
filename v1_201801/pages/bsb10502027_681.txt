@@ -1,0 +1,114 @@
+1365
+1366
+ſey, diefs hat der Materie nach, obgleich nicht in die-
+ſer Form, zuerft Moivre bemerkt. Alſo brauchte auch
+hier, ſo wie bey ( 1 ), Fiſcher weder Plagiarius uoch
+Erfinder zu ſeyn.
+III. Bey der Reverſion der Reihen (an und für fich
+betrachtet, ohne Rückſicht auf den dabey gebrauchten
+polynomiſchen Lehrſatz und die combinato-ſchen Zei-
+chen) hat ſich Hindenburg vornämlich an dasjenige ge-
+halten, was Newton, Moivre u. a. bereits gelehrt hat-
+ten. Aber Eſchenbach, ein Schüler Hindenburgs, geng
+hierin weiter: es war nämlich noch der wichtige
+Schritt zu thun, das Geſetz der Umkehrungs-Reihe zu
+finden, oder ihr allgemeines Glied unabhängig von den
+vorhergehenden Gliedern anzugeben, und dafür fand
+Eſchenbach eine neue merkwürdige in combinatoriſchen
+Zeichen ausgedrückte Formel. Eben dieſe Formel, nur
+in Dimenſions-Zeichen dargeſtellt, fand Fiſcher, und
+erreichte ſo ſeine Haupt- Abſicht, die Auflöſung der Glei-
+chungen durch Reihen. Dieſe Formel, mit ihren Vor-
+derſätzen und häufigen Anwendungen, macht den Haupt-
+Inhalt ſeiner Theorie der Dimenſions-Zeichen aus. Nun
+befieht die wichtigſte und ſcheinbarſte Beſchuldigung Töp-
+fers gegen Fiſcher darin, dieſer habe jene Reverſions-
+Formel aus Eſchenbachs Schrift genommen, in welcher
+zugleich ein kurzer Abriſs der combinatoriſchen Analy-
+tik nach Hindenburg vorangeſchickt worden. Darüber
+erhellt aber aus Fiſchers Briefen an mich folgendes.
+1) Die erſte Nachricht kommt in einem Briefe vor
+vom 24. Oct. 1788, worin er ſchreibt (a) daſs er eine
+-
+allgemeine Auſloſung aller Gleichungen durch unendli-
+che Reihen, vollkommener als die bisherigen, gefun:
+den habe, und daſs ſeine Arbeit, noch in eben dieſem
+Jahr gedruckt werden ſolle. -
+2) d. 2. Febr. 1789 erwähnt er dieſer Auflöſung
+wieder, es ſey aber ungewiſs, ob ſie ſchon zu Oſtern
+gedruckt werden könne.
+3) d. 6. April 1789 ſchreibt er beſtimmt, daſs fol-
+che zu Oſtern noch nicht erſcheiten werde, weil er
+noch hoffe, in etlichen Winkeln Dinge von einigem
+Werth zu finden, die er erſt hervorſuchen müſſe.
+4) d. 2. May 1789 antwortet er auf meinen Vor-
+ſchlag, ſeinen Aufſatz in dem damals von Hindenburg
+mit herausgegebnen Leipziger Magazin abdrucken zu
+laſſen, und ſetzt hinzu: „ er habe ſelbſt ſchon daran
+-
+„ gedacht, ob er gleich ſchon halb und halb in Unter-
+„ handlungen mit 2 Buchhandlungen in Berlin ſey“.
+5) Fiſchers Hauptbrief (b) in dieſer Angelegenheit
+beſteht aus drey Abſätzen, wovon der erſte vom 9. Jun.
+der 2te vom 12ten, der 3te vom 30. Jun. überſchrie-
+ben iſt. Im 2ten Abſatz theilt er nun ſeine Reverſions-
+Formel bis zum vierten Gliede mit, wobey er ſelbſt eben
+die Buchſtaben gebraucht, die nachher in der gedruck-
+ten Schrift vorkommen, und auch ſeiner neuen Bezeich-
+nungs-Art erwähnt, ohne ſie jedoch näher anzugeben.
+Das Geſetz der numeriſchen Coefficienten iſt in den-mit-
+getheilten Gliedern ſchon zu überſehen: die Fortſchrei-
+tung der Buchſtaben werde aber erſt durch die Zeichen
+deutlicher. Was nun die Eſchenbachiſche Schrift be-
+trifft, ſo erſchien dieſelbe zu Leipzig als eine Disputa-
+tion, die nach dem Titel d. 3o. May 1789 verheidigt
+werden ſollte. Nach dem Leipziger Bücherverzeichniſs
+iſt ſie in der Michaelis-Meſſe dieſes Jahres in den Büchhan-
+del gekommen. Recenſionen derſelben finden ſich is
+der weniger geleſenen Leipziger Zeitung v. 15. Jun-
+1789, in der Göttinger Zeitung v. 15. Auguſt 1789 -
+und in der Allgemeinen Literatur-Zeitung v. 5. May
+179o. Es erhellt alſo aus dieſen Angaben, daſs von
+Fiſchers Correſpondenz-Nachrichten über ſeine Rever-
+ſions-Formel vier früher ſind, als die Erſcheinung der
+Eſchenbachiſchen Schrift, und ſelbſt damals, als er in
+dem fünften Briefe ſeine Auflöſung der Haupt-Sache nach
+mittheilt, konnte er aller hiſtoriſchen Wahrſcheinlich-
+keit nach noch keine Nachricht von der Eſchenbachi-
+ſchen Schrift haben. Es möchte alſo durch das bishe-
+rige die Haupt-Beſchuldigung gegen Fiſcher gehoben
+ſeyn, und in dem, was für ihn Haupt- Zweck war , er“
+ſcheint er als Erfinder und nicht als Plagiarius. Die
+Bemerkung ſcheint hier weder überflüſsig noch unrich-
+tig zu ſeyn, daſs, obgleich Eſchenbach und Fiſcher je-
+der für ſich die Reverſions-Formel mit ihrem allgemei-
+nen Geſetz gefunden haben, doch Fiſcher mehr eigen-
+thümliches Verdienſt dabey haben möchte. Theis hatte
+E. Hindenburgs mündlichen Unterricht und ſeine Schrif-
+ten benutzt, theils aber und vorzüglich hatte jener,
+nach Töpfers Äuſserung, dadurch Anlaſs und eine Auf-
+foderung erhalten, das Geſetz der Reverſions-Reihe
+aufzuſuchen, daſs Hindenburg aus der Berechnung
+mehrerer Beyſpiele bereits die Vermuthung geſchöpft
+- hatte,
+(a) „ Meine metrologiſchen Unterſuchungen ſind eine Zeitlang durch eine analytiſche Arbeit unterbrochen wor-
+„den, die Sie, fi Deo pacet, noch dieſes Jahr abgedruckt ſehen.
+„ aller nur möglichen Gleichungen von jedem Grade, aber nur durch unendliche Reihen.
+Es iſt die allgemeinſte mögliche Auſlöſung
+Moivre, Colſon,
+„ Leibuitz haben zwar eben das Problem aufgelöſst, doch (ohne Ruhm zu melden) gegen neine Methode nur
+„ auf eine ſehr eingeſchränkte Art.
+Dieſe Methode enthält nicht nur die Umkehrung unendlicher Reihen -
+„ ſondern ſtellt auch alle Wurzeln jeder endlichen Gleichung durch unendliche Reihen dar.
+„ ich nicht ſo eite, von der Wichtigkeit meiner Erfindung eine zu hohe Vorſtellung zu haben.
+Indeſſe-a bin
+Sie füllt eine
+„ Lücke der Theorie, hat aber für das Praktiſche nur wenig usmittelbaren Nutzen.“
+(b) „Über meine Auflöſung der Gleichungen, möchte ich gern recht viel mit Ihnen ſprechen, und dazu habe ich
+nun gerade heute wenig Zeit. Noch beſſer wäre es, wenn wir mündlich davon reden könnten. Indeſſen -
+was ſich mit ein paar Worten ſagen läſst, ſollen ſie doch noch heute wiſſen. ---
+Es ſey y – zm + Azm ** -- Bzm t* + Czmt 3 + . . .
+(in welcher Gleichung Y eine veränderliche oder beſtändige Gröſse nur nicht e ſeyn kann, welches jeder-
+.
+zeit
+\

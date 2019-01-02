@@ -1,0 +1,107 @@
+44L
+442
+– I60 -
+A LL GE M E I N E LI T E RAT UR - Z EI T U N G
+Julius 18 17.
+MA TH E MA TI K.
+LEmpzrg, b. Cnobloch: De quadratis magicis com-
+mentatio, auctore Carolo Brandano Mollweide,
+matheſeos in academia Lipſienſ profeſſore. 68 S.
+gr. 4. 1816. (2o gr.)
+Meg. Quadrate ſind Quadrate, deren Seiten
+in gleiche Theile getheilt, die Theilpunkte
+durch Horizontal- und Verticallinien verbunden, und
+die dadurch gebildeten kleinen Quadrate (beym
+Schachbrete Felder genannt) mit den Zahlen der na-
+türlichen Zahlenreihe oder irgend einer beliebigen
+arithmetiſchen Progreſſion ſo ausgefüllt ſind, daſs die
+Horizontal- und Verticalreihen, nach Befinden auch
+die Diagonalen, gleiche Summen geben. Dieſe für
+Mathematiker überflüſſige Erklärung ſey deſshalb
+hier vorangeſchickt, weil die Sache in das Gebiet
+der Kunſtſtücke gehört, die auch wohl unter den Laien
+ihre Liebhaber finden. Letzteren möchte die hier
+anzuzeigende Abhandlung wohl nicht zu Geſicht
+kommen, oder, wenn dieſs wäre, nicht lesbar ſeyn;
+fie leſen aber vielleicht dieſe Anzeige, und wir glau-
+ben daher, ihnen durch einen Auszug aus jener ei-
+nen kleinen Dienſt zu erweiſen. – Wir erinnern
+uns, über dieſe und ähnliche Gegenſtände das Ur-
+theil: „nugae difficiles gehört zu haben; wiſſen es
+aber dem Vf. Dank, daſs er ſich durch ſolche Ur-
+theile und durch die Menge der ſchon vorhandenen
+Schriften nicht hat abhalten laſſen, ſeine Unter-
+ſuchungen mitzutheilen. Wo immer eine Wahrheit
+zu entdecken oder mehr ins Licht zu ſetzen iſt, da
+iſt es nicht unter der Würde des Mathematikers die
+Sache, und ſollte fe auch nur ein Zahlenkunſtſtück
+ſeyn, zum Gegenſtande ſeiner Arbeit zu machen.
+Die magiſchen Ä verdienen das insbeſondere
+als eins der intereſſanteſten und ſchwierigſten dieſer
+Kunſtſpiele; daher haben auch viele Mathematiker,
+z. B. Frenicle, Franklin, Ons-en-Bray, Kircher,
+Schott, Moſchopulus, Capito, de la Hire, Meziriac,
+Poignard, Ozanam, Euler, Vieth u. a. m., Unter-
+ſuchungen darüber angeſtellt und Vorſchriften zu ih-
+rer Verfertigung gegeben. Der Vf. hat ſeiner Vor-
+gänger hin und wieder erwähnt; gewiſs würde es
+aber angenehm geweſen ſeyn, wenn er die Geſchichte
+und Literatur dieſes Gegenſtandes etwas ausführlicher
+mitgehºlt hätte, wozu es ihm ohne Zweifel nicht
+an Hülfsmitteln fehlte. Eine ziemliche Anzahl
+Schriften über magiſche Quadrate, aber doch kein
+vollſtändiges Verzeichniſs findet ſich in dem von
+Hindeberg ehemals herausgegebenen Leipziger Ma-
+A. L.Z. 1817. Zweyter Band.
+gazin für reine und angewandte Mathematik, vorn
+J. 1788. S. 239.
+Man kann die magiſchen Quadrate in Rückſicht
+der Form in drey Arten eintheilen, die wir Reihen-
+quadrate, Rahmenquadrate und Fächerquadrate nen-
+nen wollen. Reihenquadrate ſollen diejenigen heiſsen,
+wo die Summen der Horizontal-, Vertical- und Dia-
+gonalreihen gleich ſind, ohne andere beſondere Be-
+dingungen. Rahmenquadrate ſcheint uns ein ſchick-
+licher Name für die Art, welche die Franzoſen qxar-
+rés magiques par enceintes nennen, wo eine Einfaſ-
+fung nach der andern abgenommen: , das heiſst die
+Seite oder Wurzel immer um 2 verkleinert werden
+kann, und dennoch auch das übrig bleibende innere
+uadrat noch magiſch bleibt. Fächerquadrate mögen
+diejenigen heiſsen, welche in vier oder mehrere ſym-
+metriſch liegende Fächer getheilt werden können,
+ſo daſs jedes Fach wieder ein magiſches Quadrat aus-
+macht, welches die Franzoſen quarrés magiques à
+compartimens nennen. Uebrigens können die magi-
+ſchen Quadrate in Rückſicht der Anzahl der Felder
+entweder ungerade ſeyn, wie z. B. die, deren Seiten
+1, 3, 5, 7 u. ſ. w. Felder haben, oder gerade, wenn
+die Seiten aus 2, 4, 6, 8 u. ſ. w. Felder beſtehen; und
+im letztern Falle iſt die Wurzel entweder doppelt
+gerade, d. h., vierfach, (pairement paire), wie, 8,
+I2 u. f. w... oder einfach gerade (impairement paire),
+wo die Hälfte der Wurzel eine ungerade Zahl iſt, wie
+6, Io, 14 u. ſ. w.
+Reihenquadrate von ungerader Wurzel ſind am
+leichteſten zu conſtruiren; wir nehmen ſie daher
+hier voran, obwohl der Vf, ſie erſt im zweyten Theil
+ſeiner Abhandlung betrachtet. Er begründet hier
+die verſchiedenen Vorſchriften zu Verfertigung der-
+ſelben. Es find deren drey: nämlich zwey von Mo-
+ſchopulus und eine wonach die Indier (unter andern
+zu Surate) dieſe Quadrate ſchrieben. Die erſte Regel
+des Moſchopulus iſt dieſe: Man fange von dem Felde
+an, welches zunächſt unter dem mittelſten liegt,
+ſchreibe die Zahlen nach ihrer natürlichen Folge in
+die Transverſale, welche mit der Diagonale parallel
+iſt, die von der obern Ecke links zur untern Ecke
+rechts geht. Kommt man an die untere Grenze des
+Quadrats, ſo ſetzt man das folgende Glied in das äu-
+ſserſte entgegengeſetzte Feld der folgenden Vertical-
+reihe; kommt man an die Grenze rechter Hand, ſo
+ſetzt man das folgende Glied in das äuſserſte entgegen-
+geſetzte Feld der folgenden Horizontalreihe. Wenn
+auf dieſe Weiſe ſo viel Glieder hingeſchrieben ſind,
+als die Seite des Quadrats Felder hat, ſo kommt man
+auf das ſchon, von dem erſten Gliede beſetzte Feld.
+K. kk Man
