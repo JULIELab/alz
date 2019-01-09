@@ -1,0 +1,187 @@
+ 
+
+ 
+
+N ü
+
+cienten mit einem ändern Buchftahben bezeichnet, und
+24E. eine Reibe fo ausdrückt y = Axm 4 Bxmbrg
+
+Cx me aırete,, Schreibt Hr. FF. fie fo: y=lxm +
+1
+
+Ixmarz ixm*# ar ete., oder auch y== A x "+
+2 - an ach
+Ax +r etc.; bisweilen auch fo: y=1x”4 I
+
+xm+r etc. Kommen mehrere Reihen vor, fo wer-
+den die erften Buchftaben von mehrern Alphaberen ge-
+braucht. Wird ein Coefficient als ein Product aus zwo
+ändern von der erfien Dimenfion , oder als cine Summe
+folch&r Produtte betrachtet, alfo als eine Grufßse von
+der zweyten Dimenfion, fo wird er allgemein mit der
+römifchen 11, oder auch mit dem zweyten Buchfiaben
+eines jeden Alphabets bezeichnet. Ein Ausdruck von
+
+diefer Art II zeigt die Summe aller Produkte an, die fich
+aus zwo Gröfsen der erften Dimenfiouen fo machen
+Jaffen, dafs die Marken jeder zween Factoren der erften
+Dimenfion, zufammen die Zahl n betragen. Wenn z.
+
+ı 2 3
+B. eine Reihe von Gröfsen der erften Dimenfion [+1 +1
+etc. auf das Quadrat erhoben werden follte, fo müfste
+man alle einzeln Quadrate, und alle Produkte aus zwey
+diefer Gröfsen, mit ihren Verfetzungen oder Permuta-
+tionen, machen. Jedes folches Partialprodukt von der
+zweyten Dimenfion wird unbeftimınt durch die römi-
+fche II (oder auch durch den Buchftaben B) angezeig!
+Nimmt man aber von diefen Partialprodukten, nur die-
+jenigen, deren Marken der, Factoren zufammen allemal
+
+  
+
+7 373 3 a3
+die Zahl 4 ausmachen fo erhält man [I.I, 1.1, und 1.I
+(wo denn das erftere blofs die Verfetzung von dem zwey-
+
+13 322
+ten ift) alfo zufammen 2. I. 141.1, welche Partialfum-
+
+4
+me der Vf. mit II andeutet. So werden denn auf eine
+ähnliche Art Produkte von drey, vier u. f. Dimenfionen,
+unbeitimmt mit Il, IV u. f.w. oder mit’den Buch!tahen
+C,D;jc,d u. f. w. bezeichnet. Stehr eine Zahl oder
+Marke darüber , fo ift die Bedeutung aus dem oben an-
+geführten zu verltehen. So heifsen denn überhaur
+1, IT u. f. w. Dimenfionszeichen , von der erflen , zrey-
+ten, dritten Ordnung. es unbeftimmt von der Mren
+Ordnung anzudeuten , wird in Ermangelung einer römi-
+fchen Ziefer blofs der Buchftabe M gebraucht oder auch
+IM gefchrieben, welches letztere uns aber nicht gefal-
+Jen will. Der Vf. zeigt nun den Werth eines jeden Di-
+menfionszeichens von höherer Ordnung durch die nie-
+drigern zu beftimmen, mir Rückficht auf die bejahten
+und verneinten Werthe derfelben, welche fich nach de-
+nen der niedrigern Ordnungen richten. So weit der
+erfte und zwryte Abfchnitt des erften T’heiles diefes Werks.
+Im dritten Abfchnitte wird der Nutzen diefer Dimenfions-
+zeichen bey Erhebung der Reihen zu jeder Potenz, de-
+ren Exponent eine ganze Zahl ift, gewiefen. So ift z.B.
+
+fs 1 2 3
+die fünfte Potenz der Reihe 1xm4 Ixm-+ rg Ixm bar
+5
+
+6 7
+etc. = Vxim 4, Vx im rg Vxim Far etc, wo denn die
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+6
+Ausdrückungen V, V etc. nach der oben angeführten
+
+„nen Gröfse durch alle übrigen auszud.
+
+No. 102. APRIL. 1793. 78
+
+Bedeutung, zu nehmen und zu berechnen find. Man
+
+fieht leicht, dafs das nte Glied der Potenz, den Coefli-
+n4
+
+cienten V haben würde. Mehrere im Buche angeführte
+
+und auseinandergefetzte Beyfpiele , fo wie auch Anwen-
+dungen auf Verwandlung trigonometrifcher Functionen
+in Reihen, machen alles fehr deutlieh. IV Abfchnitt.
+Erhebung auf Potenzen, deren Exponent ein Bruch oder
+eine verncinte Zahl if, nebit Anwendungen auf Wur-
+zelgröfsen, trigonometrifche, logarithmifche Functio-
+den u. dgl. durch Anwendung der Dimenfionszeichen
+erfcheine das Gefetz nach welchem z. E. die Reihe, wo-
+durch die Cofecante durch den Bogen ausgedrückt wird,
+fortgeht, viel einfacher, als wenn man die Bernoulli-
+fchen Zahlen anwende. Unfere Meynung ift, dafs dem,
+der von einer folchen Reihe Gebrauch machen will, mic
+dem einfacher er/cheinen nicht fa viel gedient ift als mit
+dem einfacher feyn. Wer Hn. Fiıfchers CocfMficienten zu
+der Cofecantenreihe wirklich berechnen will, wird fin-
+den , dafs die Rechnung doch immer fehr weitläuftig if,
+fo einfach als auch die Reibe erfcheint. "Tafeln, die in-
+deffen diefem Buche angehängt find, erleichtern die Be-
+rechnung des numerifchen Werthes der Coeflivienten,
+V. Abfchnitt. Allgemeine Auflöfungsmethode durch un-
+endliche Reihen. Die Aufgabe ilt: aus irgend einer
+Function oder Gleichung , fie fey algebraifch oder trans-
+fcendentifch, den Werth irgead einer darinn enthalte-
+ken. Ehe der
+Vf. zur Auflöfung fchreitet, fucht er erlt zu beweifen,
+dafs man berechtigt fey, eine Reihe, deren Exponenten
+ven x nach einer arithmetifchen Progreflien fortgehen,
+für ein allgemeines Schema aller nur erdenklichen alge-
+braifchen und transfeendentifchen Functionen anzuneh-
+men. Nun die Anwendung der Dimenfionszeichen zur
+Auflofung diefer Aufrabe, Uus deucht das Verfahren
+fehr weitlauftig, felbit in peciellern Fullen (z. B. im
+$. 100.). wo man doch durch Hülte der Diflereatialrech-
+nung viel gefchwinder zu kommt. Der Rec. it
+überhaupr nicht fehr für Aufßelungen in der gröfsten
+Allgemeinheit, wenn fie aut Formeln führen, in denen
+man fich bey der Anwendung auf einzelne Falle, durch
+ein Heer von Subititutionen durcharbeiien mufs. VI,
+Abfchmtt, Bofondere Entwickelung der hühern Poten-
+zen von einigen wichtigen Reihen, und der darinn vor-
+kommenden Dimenlionszeichen. Der Vf. nennt vollzah-
+lige Dimenfionszeichen, wenn alle Glieder einer Reihe
+durch folche Zeichen ausgedrückt werden. Gefchieht
+dies aber nur vom zweyten oder einem folgenden Gliede
+an, wie bey der Außofung mancher Au:tgaben nothig
+ift, fo heifst er dies verkürzte Dimenfionszeichen. Er
+lehrt nun, wie die vollzähligen in verkürzte, und umge-
+kehrt, verwandelt werden Können. VE. Alfchnitt. Zu-
+fatze zu der allgemeinen Auflofungsmeithode,
+
+   
+
+ 
+
+  
+
+   
+
+ 
+  
+
+  
+
+ 
+
+  
+
+ 
+
+      
+   
+
+  
+
+ 
+
+Der zweyte Theil diefes Werkes enthült im I. Ab-
+‚Schnitte Vorbereitungsfätze zur allgemeinen Auflöofung
+endlicher Gleichungen durch unendliche Reihen. Aus-
+drückung einer und derfelben Gleichung durch unter-
+{fchiedene Formen. II. Abfchnitt. Auflofung der quadra-
+tifchen Gl. durch unendliche Reihen. Ill, Abfchnitt. Al-
+
+Kı gemeine
+

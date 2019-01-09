@@ -1,0 +1,139 @@
+615 f
+
+und eine lothrechte, welche == » Col, $ Sin. ® ift. Die letzte«
+re läfst Hr. Rec. (S. 452) weil Ge gegen die horizontale
+Grundfläche geflützt (ey, auffer Acht.
+
+5 Die erftere, » Cof. ©? (4), welche mit » nach
+einer Richtung wirkt, fubtrahirt Hr. Rec. von » = xdx
+C2) und findet (0 die vollftändige horizontale Kraft Ca)
+=xdK-—xdx Col. 0* = x d x Sin. 02.
+
+6. Nach mein:r Einfcht hat nun Hr, Recı bey diefem
+Nerfahren (3, 4, 5) auf folgende vierfach vwerfchiedene
+Art, theils. in principiüs, theils im Calcul, (ich wbereilt,
+
+Erftlich, ich behaupte es fey ein ‚allgemeines Princip
+der Statik und Mechanik, dafs eine Kraft, die einen fe«
+ften Körper fenkrecht gegen eine Ebene drückt, im mins
+‚ deften nichts beytrage, diefes Körpers Druck oder Bewe-
+gung nach der einen oder andern Seite parallel mit der
+Ebene, worauf er fich befindet, zu. vermehren, oder zu
+vermindern (Es verfteht fich von (elbit, dafs hier von
+Friction abftrahirc, auch vorausge(etzt wird, die Ebene
+felbilt. (ey g-gen den fenkrechten Druck ‚vollkommen un»
+terftützt ), Gilt diels von einem Körper, fo gilt es auch
+von unzähligen Körperchen, die. alle nebeneinander auf
+einer Ebene liegen, und unfer prifmatifches Element (1)
+ausmachen, welches man jedoch auch (elbit, wenn. die(s
+gefällig if, als einen felten Körper C$. 16. m. Abhandl.)
+fich vorftellen kann. Eine Kraft alıo, die diefes prifma-
+tifche Element fenkrecht gegen die geneigte Ebene prefst,
+Be. fey (0 grofs, wie Ge wolle, thut nichts, was des Ele-
+ments re(pective Schwere und den daraus refultirenden
+Druck gegen » vermehren oder vermindern könnte,
+
+Zweytens. Gelet:t, es würde dem: Hrn. Rec. zugeftan-
+den, was er (3) behaupter, (o hätte er nicht allein die
+fenkrechte Kraft » Col @® (4); welche von der. Kraft »
+herrührt; Condern auch die, welche aus des Prifma eig-
+nem Gewichte = x dx tang, © fenkrecht gegen‘ die Ebes
+ne refultiet, und welche = x d x tang @ Sin @ ift, mit
+in Rechnung bringen müßlen. R
+
+Drittens. Weil jedoch die fenkrechte Kraft in der
+That keinen Einfuls auf den Seitendruck ‚hat, Co if es
+gleichgültig, wieviel oder wenig man von ihr in Rech
+iung bringt. Es wäre daher auch noch kein Fehler ent-
+ftanden, wenn der Hr. Rec. nur mit den beyden Seiten-
+kräften C4), in welche er die fenkrechte zerlegt, richtig
+verfahren hätte. Denn diefe beyden Kräfte cthun ‚eben
+das, was ihre äquipollente {enkrechte:thut ;; fie haben_gar
+keinen Einflufs auf den Seitendruck des Pri{ma, (ondern
+‚heben {ich einander vollkommen‘ auf. Hr. Rec. würde
+dies auch gefunden haben, wenn er feine lothrechte Kraft
+#*ß=» Cof @ Sin Q gehörig in; Betracht gezogen hätte,
+Aus ihr entfteht eine horizontale = » Cof @ Sin @. Cor ®
+=— v Cof ®?; welche feiner horizontalen. (4 ) gleich aber
+e ‚ngefetzt ift, Die Summe beyder ift alfo = ©,
+WolE Hr. Rec. aber die eine Kraft, weil Ge .das Prifma
+Jothrecht drückt, auffer Acht laffen, fo müfste er aus eben
+dem Grunde das‘ ganze Gewicht des Prifma aufler Acht,
+folglich die ganze Rechnung fahren laffen. Eben daflelbe
+würde folgen, wenn Hr. Rec. etwa Druck des Prifma ge-
+
+gen die geneigte Ebene, mit Druck der Ebene gegen ihre
+
+ 
+
+‚x dx (etzt voraus, dafs v die vollkändige horizontale
+
+  
+  
+   
+    
+  
+
+616
+Unterlage ,verWechfelte, ‘und annähm&7 die Ebene Ley
+zwar nach der lothrechten, aber nicht nach der horizontas
+gewicht (tatt haben kann. .
+
+Viertens, Wenn ich endlich auch alles bisherige
+Hrn, Rec. zugeftehe:( welches er bey reifer U. E
+gewifs nicht fodern wird); (0 kann ich dech feinen‘ Cal-
+cül (8. 452) nicht richtig finden. Hr. Rec. fetzt erftlich
+zu zweyen mahlen für € den Wehrt x dx; und findet
+endlich. » == x dx. Sin ®?; das kann, fo viel ich einles
+he, ‚nicht beyfammen beftehen. Die Gleichung (2) »=
+
+Kraft für den Fall des Gleichgewichts (ey; eben dies (etzt
+auch die (4) gefundene , Col @* voraus: Hr.“ Rec. fin-
+det aber die »'zu grofs, (ubtrahirt davon ı Col @?, letze
+den Reft = v als die gefuchte vollfländige Kraft: ihm ift
+alfo offenbar » = 9 — v Col Q*; welches unmög'ich
+richtig (eyn kann, da jedes » in diefer Gleichung eine
+und diefelbe Gröfse‘ bedeutet, @ aber ein beliebiger (pi-
+tzer Winkel feyn (oll, "deffen Cof, eine‚endliche Gröfse il.
+
+7 Der Hr. Rec. Wollte, wie es fcheint, des Hrn. Hofr.
+Käßtners Formel finden; .die liegt.ja (ehr nahe zur Hand:
+Eine Kraft =, x dx Sin, @ wirkt ‚(chief unter. dem, fpi-
+tzen Winkel = @ gegen eine jEbene;- wie grofs‘ift der
+daraus refultirende fenkrechte Druck gegen diefelbe‘ Ebe-
+ne? Die Antwort ift: x d x Sin @*. „Und das it‘ des
+Hrn. Hefr. Formel, die unmittelbar aus dem gegebenen folgtı
+Niemand kann zweifeln, dafs Ge an ’fich richtig fey; nur
+ob Ge im vorliegenden Falle bey dem Druck der Erde an-
+zuwenden-(tehe , darüber habe ich hälitirt, jedöch ohne,
+wie ich glaube, der fchuldigen Achtung und Dankbarkeit
+gegen einen fo verdienftyollen Beförderer der Wiffen-
+fchaften und meinen verehrungswürdigen Lehrer, zu na-
+he zu treten. Ti
+
+8. Ich würde eine Tadelfucht zu verrathen. glauben,
+wenn ich die ganze RecenGon durchgienge, alle Fehler des
+Hrn. Rec., die nichts als confequente Folgen feiner nur
+gedachten -Uebereilung (ind, jedes Mahl repetirte, und
+gleichfam die ganze Recenüion für unbrauchbar erklärte.
+Vielmehr verkenne, ich die guten Einüichten und manche
+trefliche Bemerkungen des Hrn, Rec. nicht.‘ In Gemäls-
+heic ‚deflen zeige ich auch den Lef:rn meiner Abhändlung
+folgende Verbefferung an, auf welche‘ mich die(e Recen-
+fon geführt hat.  S. 191 Zeile 19 von oben: flatt’die
+Rechnung‘ lefe man‘ dieß Refsltatz und auf” derfelben
+Seite weiter unten nach den Worten: alfo kann die Rech»
+nung auch nis ein itriges Refultat geben, füge man hinzu:
+In der That giebt auch die Formel für y = 90° den Druck
+= 0. #
+
+9« Da ich mir jedoch nicht bewufst bin, irgend falfche
+Schlüfle gemacht zu haben; (o überlaffe. ich. es dem Hrn.
+Recenf. in wie ferne er es (einen Einfichten und Charak-
+ter angemeflen finden wird, unverdienten Tadel zu mil-
+dern, oder zutück zu nehmen, t ;
+
+Cuxhaven im Mart, 1795. ı
+
+R. Woltman,
+

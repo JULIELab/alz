@@ -1,0 +1,156 @@
+it
+
+MATHEMATIK.
+
+Tüsıncen, b. Cotta: Principiorum Calculi Differen-
+‘4 tialis et Integralis Fapafılin Elementaris, ad nor-
+mam  differtationis ab Acad. Sc. Reg. Pruffica A.
+8 Sir praemii honore decoratae elaborata; Auctore
+
+  
+ 
+
+: imone L’Hwilier, Acad, Sc: Prufficae et Londin.
+Be 408 ‚0Ci0. 1795- 28 u. 3395. gr. 8. 9 Kupfertafeln.
+
+Keine blofse Ueberfetzung , fondern eine forgfältig
+ausgefeilte Umfchmelzung- der gefchätzten fran-
+- zöfifchen Preisfchrift'des Vf. („„tempore nimis brevi et
+40c0 ‚minus ’commodo conferiptae‘*) , welche in ihrem
+vorigen Gewande nur. 216 S. und 2 Kupfertafeln füll-
+%e:' und eine Frucht der Mufse und. der literarifchen
+Hülfe, welche Hr. L’Huilier (damals durch die revo-
+
+ben) bey. feinem Freunde Hn. Prof. Pfleiderer .in Tü.
+bingen fand, Der Zweck «der Preisfchrift' war, zu
+zeigen, dafs die Idee des Unendlichen in der Matbema-
+tik entbehrt werden könne (Mathefin infimito carere
+poffe) und dafs man init der Methode der Grenzen oder
+der fogenannten Exhauflionsmethode der Alten, wenn
+fie gehörig erweitert wird, durchgehends ausreiche.
+; Daffelbe bleibt Zweck bey diefer neuen Ausarbeitung.
+Man mufs fich daher durch. den Titel‘ und durch’ die
+mitunter vorkommenden Phrafen' in ufum tironum, ad
+saptum tiromum nicht verführen laffen , hier ein Lefe-
+buch, der’ Differential- und Integralrechnung zu er-
+warten, woräus fich Anfänger mit diefer Wiflenfchaft
+auf eine neue und leichte Art bekannt machen könn-
+"ten. Dazu-hat diefes Werk weder die nöthige Voll-
+ ftändigkeit, noch die Ausführlichkeit und den Reich-
+| + thum an Anwendungen und Beyfpielen, welche dem
+x Anfänger die Eulerfchen Schriften fo klar und lehr-
+* reich machen. Es ift vielmehr eine fchsrfünnige und
+glücklich‘ durchgeführte Zurückleitung, und Begrün
+"dung der {ogenanhten Rechnung des Unendlichen in
+
+" allen ihren Zweigen auf, die Theorie der Grenzver-
+hältniffe. und ihrer Exponenten, und zwar fo, dafs
+„die Idee des Unendlichen dabey ganz umgangen
+wird. - Ein Ganzes, ein Syftem macht es nur in fo
+fern aus, alses alle: die Materien aus der Infinitefi-
+malrechnung. zufammen(tellt > bey denen folche Be-
+gründung und Befreyung von der Idee des Unendli-
+chen nöthig war, untermifcht mit den dazu nöthigen
+analytichen Formeln. 5
+fenen wird theils abgewiefen („,mihi fufliciat eas (for-
+snulas). ad vera fua principia revocaffe et deductionem
+ipfarum ab indeterminata et obfeura infiniti notione li-
+beraffe“) theils nur angedeutet und mit Vorausfetzung
+
+E
+f
+L ‚Ay L. Z. 1798. Erfler Band,
+
+“Numero
+
+lutionären Unruhen aus feiner Vaterftadt Genf verttie- ‘
+
+Die Anwendung des Erwie- *
+
+70
+
+ 
+
+ 
+
+(ALLGEMEINE LITERATUR - ZEITUNG
+
+# Montags) den 25. Januar 1798:
+
+ 
+
+tiefer analytifcher Kenntniffe hingeworfen. Wir
+würden dahereinemAnfänger rathen, fich diefes Werks
+als eines Commentars zu ‚5 Differentialrechnung:
+zu bedienen; fich befonders bey Eulers Darftellung
+des Wefens der Differentiale und des Unendlichklei-
+nem nicht zu verweilen, fondern die wahre Anficht
+der Sache aus Hn. L’H. Schrift zu fchöpfen, und
+das Studium beider fortfchreitend ftets zu verbinden.)
+
++ Die erften 285. find als’eine analytifche Vorberei-
+tung in diefer, Umarbeitung neu‘ hinzugekommen,
+und enthalten‘ in 4 Kapiteln recht artige zum Theil
+neue Herleitungen analytifcher Hauptformeln', die in
+dem Werke gebraucht werden: 1) einen Beweis des
+Binomialfatzes für alle Gattungen ‚von Exponenten
+auf Segners Weg, doch ohne Hüffe der abkürzenden
+Bezeichnung und des fchönen Satzes über die Rela-
+tion. der Binomialcoefficienten, wodurch fpätere
+Schriftfteller den Beweis noch mehr. vereinfacht ha-
+ben. 2) Die bekannten-Form&ln über die Differenzem
+überhaupt , angewandt auf die Differenzen der Poten-
+zen natürlicher Zahlen, der geometrifchen Reihen
+und der Sinus und Cofinus ;-Formeln, von denen un-
+fer Vf. häufigen Gebrauch macht. 3) Die Summation
+der Potenzen natürlicher Zahlen , und 4) die bekann-
+ten Formeln für die Sinus und Cofinus vielfacher Win-
+kel und für die dreytheiligen Factoren der Summen und
+Differenzen von Potenzen nach Cotes Lehrfatz, letz-
+tere ohne Beweis. In diefen Formeln für die drey-
+theiligen Factoren finden fich jedoch einige fonder-
+bare Irrchämer, die wir nicht unter den Druckfeh-
+lern aufgeführt fehn, und auf die Rec. hier uiß fo
+lieber aufmerkfam macht, je leichter fie jemand; der
+die bequem gedruckten Formeln von hier entlehnen
+wollte, zu Irrthümern verleiten könnten. In jedem
+
+der dreytheiligen Factoren von (a”***+bB""") un-
+ter 2° ift nämlich der zweyte Theil, worin ein Cofi--
+nus als Factor vorkömmt, fälfchlich negativ gefetzt,
+da er doch pofitiv ift. (Soll er negativ werden, fo
+ımüffen im Ausdruck des Cofinus im Zähler nicht wie
+hier die geraden Zahlen von o bis 2n., fondern die
+ungeraden Zahlen von ı bis 2n+1 gefetzt werden.)
+Deshalb mufs man auch S. XXVIL unter 2°
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a fa — an ünı-— „ fin. zn
+fatt V 22". fin. PETER
+1 fi 3 4
+N —an —._—— PP. fin. Poce
+fetzen 1 = 2" fin za nTı
+lop zz x
+od . cof) . cof. Ae
+er IE ON PO angı P
+
+zau+ 2, p!=+:
+
+Veberdem fteht S. XXVII. unter 2° ftatt a
+
+fälfchlich a” * X b”**. Fügen wir hierzu noch ein
+R paar
+
+zw.
+
+<
+

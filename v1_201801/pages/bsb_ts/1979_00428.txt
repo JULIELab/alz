@@ -1,0 +1,153 @@
+362
+
+weil er nun, wie bereits gefagt, ‘die Differential-
+und Integralrechnung in de 3 lefzten Haupt- “da
+
+frücken bey den Tangenten, den Halbmeflern
+der‘ Krümmung, den
+der merkwürdigften Punkte, die die Geftalt der
+Linie. beftimmen, vermittelt der Lehre vom
+Gröfsten” und Klsinflen „ gebraucht. diefer
+Jetzten Unterfuchung ift er“vielleicht Weiter ge-
+gangen als es nöthig if. Er unterfucht die viel-
+
+achen Punkte, wo mehrere Zweige einer; -ne
+
+men Linie fich durchfchneiden.,” und macht‘ dazu
+eine Vorbereitung, die den Anfängern wohl etwas
+
+zu verwickelt -feyn möchte, um fie gehörig zu
+gebrauchen. Rechnungsfehler, die man nicht leicht.
+
+£elbft verbeffern-Kkönnte , hat Rec. eben nicht”ge-
+funden ; aufser einen S..193 bey der Anwendung
+der Cardanfchen Regel zur Auflöfung einer Glei-
+chung für die-Theilung eines‘ Kreisbogens in ‘3
+gleiche. Theile vermittelft der Hyperbel.
+nämlich;r den Halbmeffer des gegebenen Kreifes,
+c,den Cofinus des. ganzen zu theilenden Bogens,
+und/q_ den Cofinus des Drittels defelben bedeu-
+tet: foviftı4 wi — gr?u — er ="0. Nach
+Cardans Regel ift alfo “-
+
+3
+A ACH =)
++ V. er — 1 Ve — 9)
+Unfer Hr. Vf. findet
+CM VY. (+ Ve 74)
+re Ye ve)
+
+alfo ‘eine Gröfse ‚unter; dem Wurzelzeichen ıV*
+&c*.— 47°), die allemal, unmöglich ift, weil c.nie:
+
+die Gröfse eines Durchmeffers erlangen noch)
+
+weniger gröfser werden kann.% Aber.das iftein
+Rechnungsfehler.  Die.Gröfse unter dem Wurzel
+
+zeichen erfodert nur „dafs 6.,==.r werden! müfle, |
+
+wenn die Wurzel nicht imaginär, feyn (oll,t'und
+das ift doch möglich, Die Gleichung heifst für ıdie-
+fen Fall’ u? — 3c? u.— {cc} = 0, wovon die,ei-
+ne Wurzel allerdings c,u..die andre— &c iib ‚Frey-
+lich ift das nicht der Fallin dem Exempel, das diefe
+‚Gleichung en und wird es ‚vielleicht nie Leyn,
+weil man für di
+
+Gleichung machen wird, , c.ift, insgemein kleiner.
+als und alsdenn giebt Cardans Regel,allerdings
+mur ‚eine ‘imaginaire Wurzel. , Es ‚£eheint daher
+diefe Regel‘ hier nicht anwendbar zu 'feyn. . Der
+Vf. geht ,aber noch weiter , indem er, fagt:,}/(Die-
+
+fer Fall, wo Cardans Regel für eine /Gleichung)
+
+des dritten Grades die Wurzel unter einer imagi-
+nairen Geftalt giebt, wird von den ‚Algebraiften
+der irreductible Fall genannt. —- Die Gleichung
+mufs durch trigonometrifche Tafeln, ‚aufgelöfet
+
+vohuten, und Findung!. Aber wer fieht.
+
+Wenn”
+
+jefen ‚Fall wohl keine: cubifche :
+
+ALLG. LITERATUR -ZEITUNG,
+
+m Das ift freylich der natürlichfte Weg,
+d man bey einer Gleichung, die ganz auf
+SEP no mEECHEN inien ‚beruhet, fallen kann.
+z.B. der Gleichung u? — gu
+— I = 0, die man für einen Bogen von 60° er-
+
+hält , fogleich ‚an, dafs hier trigo: e Lin.
+nien zum Grunde liegen? Und wie man |
+“gen, dafs die Grüne » worauf” We kan man te?
+
+ruhet, hier nicht anwendbar wären? Es mufs da-
+
+‚her-allerdings. möglich“feyn, bey gehöriger Be-
+
+handlung der imaginairen Wurzeln £elbft” durch
+Cardans Boge! auf mögliche Werthe zu kommen,
+vermöge; des Satzes, dafs in der reinen Mathe-
+matik eine allgemein erwiefene, Regel in der An-
+wendung keine’Ausnahme verftatfe. Auch hat fchon
+Bombelli eine Methode für den Fall, der fich ni
+reduciren läfst, und noch viel gründlicher u.‘ ;
+meiner Karften in feinen Anfangsgründen der ma-
+them. Analyfıs u. höhern Geometrie, oder dem Lehr-
+begr. der "gef. Mathematik, ‘2ten Theils, 2te Ab-
+theilung $. 239, diefen Fall nach Cardans Regel,
+auf mögliche Wurzeln reducirt; zwar nicht wirk-
+lich‘ berechnet, ‘ aber, doch Formeln angegeben,
+welche die möglichen Wurzeln enthalten. Wenn
+übrigens der Vf. behauptet, dafs fich jede Glei-
+chung des dritten, Grades vermittelft der trigon|
+metrifchen Tafeln auf die S. 194 und 195 gel S
+te Art /auflöfen laffe: 'fo“ift dies auch nicht To
+ganz richtig. Es ‘darf ich bey‘ diefer Me-
+thode in der allgemeinen Formel u?— pw + q=o,
+verglichen‘ mit ’u? — jr%u — cr? = 0 "der
+4 ;
+Coefficient des zweyten Glieds p keinen entge-,
+engefetzten. Werth von ir* haben, weil man’
+onit, eine urmögliche, Gröfse r — V — (1.p)
+Erhalten Würde, Alfo nur die Gleichungen unter der.
+Form u? = pu, + .q,. wo. p;pofitiv iE Jaffen fich‘
+nach„deft hier gegebenen; Vor(chriften durch tri-
+gonometrifche Tafeln auflöfen, ; U
+Es wäre aber gewefen, wenn der Verf.
+diefe und andere Lehrfätze'den Anfängern durch,
+Exempel ‚in‘ ‚wirklichen Zahlem erläutert. hätte.
+Nur einesıfindet man in diefem Theile von. E:
+Parabel, wo ‚er Anfängern‘ zeigt ,/ wie fe jedet
+beliebige ahgenommene Gleichung zwifchen!s
+veränderlichen Gröfsen x ‘und y »durch
+ausdrucken! können ‚und‘ dafür werden ‘Be ih
+gewifs-danken.! |: Ah Dr
+(Im zten! Bande, /wo) fchon' mehrere-E ;
+auch ‚in Zahlen: vorkommen‘, wird im ten und.
+ı2ten Häuptftück fowohl für/reeht winklichte als,
+{chiefwinklickte Coordinaten zuerft die.Gröfse der.
+krummen Linien. (elbit! gemeffen,‘ ndchdem im er-,
+{ten, Bande: ‚ihre; Geftalt war” beftimmt werden;
+hiernächft der Inhalt Lo wohl der Fläche, ‚die,
+Geineinfchliefsen ‚als! der. Krummen 'Oberfläcl
+und ides körperlichen | Raums,‘ die. durch! .
+hung ım.ihrev Axen/entitehen.ı Statt; X
+kläsungen ‚der! innern Möglichkeit , wie: durch die.
+Integration des‘ Differentials der Inhalt des,Gan-
+
+zen
+
+ 
+
+ 
+
+   
+
+ 
+

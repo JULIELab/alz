@@ -1,0 +1,154 @@
+|
+b
+f
+|
+|
+|
+f
+
+ 
+
+SAT VEN
+
+SE Aa Ra
+
+ALLGEMEI
+
+Mittwochs, den ‚7. December 1796.
+
+50T
+
+7 Numer-o0- 580. ı
+
+578
+
+ 
+
+ 
+
+ 
+
+MATHEMATIK:
+
+“ Leirzı6 , b. Fleifcher d: Jüngern‘:‘ Der pokynomifche
+Lehrfatz , das wichtigite Problem der ganzen Ana“
+Iyfis, nebit einigen verwandten und andern Sätzen:
+Neu bearbeitet und dargeftellt von Tetens, Kiügrh
+‚Kramp, Pfaff und Hindenburg. Zum Druck beför-
+dert und mit Anmerkungen, auch einem kurzen Ab-
+
+“vie dev combinatorifchen Methode nd ihrer "Anwen:
+dung auf die Analıfis verlehn, von Carl Friedrich
+
+Hindenburg. 1756. Xu. 3045. gr. 8. (1 Rıhlr. ggr.) .
+
+7 Erfreulich ift es zu fehn, wie der würdige, von der
+reinften Liebe zur Wiffenfchaft befeelte Herausge:
+
+ber diefer Schrift, ungeachtet der wenigen Aufmunte-
+fang, die feinen analytifchen Förfchungen bisher zu
+“Theil wurde, mit unermüdlicher Beharrlichkeit in der
+von ihm eröffneten Bahn fortfchreitet; wie -durch fein
+und feiner Schüler Bemühen fein neues Syflem der Com-
+hingtionslehre fich immer mehr erweitert, abründet und
+vervollftändigt; wie es (tets mit mehreren Zweigen in
+
+‚die Analyfis hinübergreift, und wie die combinatori-
+
+che Analytik nun endlich das Haupt zu erheben, und
+
+unter den gefchätzteften Mathematikern nicht nur An-
+“ Bänger und Mitarbeiter, fondern auch Gegner zu ge-
+wWinnen beginnt, ohne die, wie bekannt, kein neues
+
+Sy tem: gedeiht. Hier erklären fich drey, der vorzüg-
+‘ 1ichfen deutfchen Analytiker für , Hr. Etatsrath Tetens
+gegen diefelbe, in Auffätzen, welche dem Herausgeber
+zugefchickt wurden‘, um fie in fein Archiv der reinen
+und angewandten Mathematik einzurücken, dieeraber,
+um das Archiv nicht allein mit. contbinatorifcher Ana-
+
+/—iytik zu füllen, in diefer Schrift als einen erflen Beytrag
+
+zum Archive, mit Anmerkungen und einer eignen Ab-
+handlung begleitet, befonders heraus giebt,
+
+- So wie Newtons Binomialfatz der Grundftein der
+Lebre von den Reihen und der neuern Analyfis wurde,
+fo iit der Polynomialfatz und deffen meifterhafte Dar-
+{tellung in combinatorifchen und verwandten Zeichen
+
+den Localzeichen) einigermaafsen der Grundltein der
+
+indenburgfchen combinatorifchen Analytik, durch‘ wel-
+che, nach des Rec, Ueberzeugung , unfrer ganzen Ana-
+1yfis eine ähnliche Erweiterung und Umfchmelzung be-
+‚yorftehr, als fie zu Ende des vorigen Jahrhunderts
+durch Darftellung von Gröfsen in Reihen und durch
+“Rechnung mit folchen Reihen erlitt. Daher der Titel
+diefes Werks, obgleich nur die Auffätze des Hin. Tetens
+und Klügel fich unmittelbar mit dem Polynomialfatz be-
+Schäftigen. Es kömmt bey diefem Satze auf eine Me-
+thode an, jedes verlangte Glied irgend einer Potenz
+von einer Reihe, (fie. fey nach Potenzen einer Gröfse
+
+AL. Z. 1796. Vierter Band,
+
+NE LITERATUR-ZEITUNG
+
+;
+f
+
+geordnet -oder nicht) aufser der Ordnung, und unab:
+hängig von'den vorhergehenden Gliedern, leicht und
+deutlich darzuftellen. Diefe giebt die Combinations-
+lehre mit bewundernswürdiger Eleganz. ‚Hr. Etatsrath
+Tetens,. den feine vortreflichen Unterfuchungen über
+die Wahrfcheinlichkeitsrechnung zu wiederholter Bear-
+beitung des dabey unentbehrlichen Polynomialfatzes”
+veranlafst hatten, ffellt in feiner Abhandlung (Formula
+Polynomiorum eine allgemeine Formel für die Potenzen
+Mehrtheiliger Gröfsen) ein neues einfaches Subftitutions!
+verfahren, als eine neue wichtige Erweiterung der Ana-
+Iyfis, auf, welches eben das leiten, und dadurch die
+ombinarionslehre aus der Analyfis wieder verdrängen
+foll. . Ihm find die combinatorifchen Potenzialformelti
+keine analytifche, weil fie’ auf vorzunekhmende combina‘
+torifche Operationen hindeuten, und fo das unbeitimmte
+Glied nicht durch die gewöhnlichen analytiflchen Opera-
+tionen geben. (Hindenburg fetzt dem combinatorsifchen
+fehr richtig die arithmetifchen Operationen entgegen.
+Aber die combinatorifchen, weil Ge bisher in der Ana-
+Iyfis nicht gewöhnlich waren‘, für nicht- analylifche
+ausgeben, iflt doch gerade fo, als wenn Anhänger der
+bisherigen Philofophie die Formeln der Kantifchen
+Schule, blofs weil fie bisher in der Philofophie nicht
+gewöhnlich waren, für nicht- philofophifch und folglich
+für unphilofophifch ausgeben wollten... Rec, glaubt viel-
+mehr von dem Zeitpunkt nicht weit entfernt zu feyn,
+wo die combinatorifchen Formeln als die recht.ächt
+analytifchen, in gröfsten Umfchwung kommen Wwer-
+den.) Da man die combinatorifchen Operationen er£
+erlernen, und durch Uebung fich geläufig machen
+müfle; fo fey es vortheilhaft, ihnen, wo möglich, zu
+entgehen. (Doch wohl nur unter der Bedingung, wenn
+fie weder weiter reichen} noch mehr Kürze end Leich-
+tigkeit als die bisherigen gewähren; fonft würde das
+zu einer Art von Beqaemlichkeit führen, bey der die
+Wiffenfchaft nicht gedeihen könnte.) Diefes nun Jlei-*
+fte, behauptet Hr.. Tetens, feine neue Subflitutionsme-
+thode, welche durch blofs anslytifche Subftitutionen,
+ohneandere nicht - analytifche Operationen zu heifchen,
+das allgemeine Glied der Polynomialpotenz,, unabhän-
+gig von den vorhergehenden gebe, und dadurch‘ die
+Combinationsmiethode nicht nur beym Polynomialfatze,
+fondern auch auf ähnliche Art bey allen andern analy-
+tifchen Unterfuchüngen, bey welchen man feine-Zu-
+flucht zu ihr genommen habe, ganz entbehrlich mache,
+Dies behaupten , hiefs nun freylich dem würdigen
+Hindenburg an das Herz greifen, deffen eifriges Be-
+mühen {chon feit fiebzehn Jahren dahin gerichtet war,
+durch die Combinationsmerthode eine wohlrhätige Res
+volution in’der Aualylis zu bewirken. Doch‘ hat es
+Dddd die
+

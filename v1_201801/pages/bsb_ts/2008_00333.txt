@@ -1,0 +1,134 @@
+B) S
+
+AN Numero 157400
+Vn—————— —————
+
+NE LITERATUR-ZEITUNG
+
+m
+
+zo
+
+ 
+
+Mittwochs, den 30. November 1796 ns
+
+a
+
+}
+
+KRIEGSWISSENSCHAFTEN.
+
+Üratcut b. Wild u. Altheer: Difertation fur 1a Forti-
+fication permanente, la fortification de Campagne et
+1a Portce des Bombes etc.,
+
+_ (Befchlufs der’ im vorigen‘ Stücke abgebrochenen Keceifion.)
+
+je vierte Abhandlung handelt von den Wurfwei-
+ten der Bomben, Seit Newton und Euler haben
+die Geometer nicht anfgehört, fich mit diefer ballifti-
+{chen‘ Aufgabe zu befchäftigen, . Die Arbeiten eines
+Bezout, Borda, Le Gendre find bekannt; 'allein nach
+_ der vollftändigen Aernte;, die der berühmte General v,
+_ Tempelhof auf diefem: Felde gehalten-hat,” bleibt nicht
+viel! mehr ‘zur Nachlefe übrig. : Die Auflöfung, die uns
+diefer gelehrte Mann in feinem Bombardier pruffien"von
+diefer Aufgabe gegeben hat, ift ganz neu, und! hängt
+mit keiner der hekanntgemachten zufammen.‘ So glän-
+zend aber auch alle diefe Unterfuchungen find,/ fo fin-
+den fich dennoch hin‘ und wieder-in der Ausführung‘
+eigene Schwierigkeiten , und fie ftimmen nicht inimer
+mit den Erfahrungen und den angeftellten Verfachem
+überein. Unfer Vf., der in tiefen mathematifchen Kennt-
+Kiffen niemanden nachftehet, hat fich. daher auch. an
+diefes Problem gewagt, und er giebt davon zwey fehr
+“kurze Auflöfungen, die in ‚der wirklichen Ausübung
+beyıa. Bombenwurf genau genug fcheinen, Was die
+Bewegung. der Kanonenkugel: betrifft , fo if ihm feine
+Unterfuchung nur bis zu einer Elevation, "die "nicht
+über 20 Grade geht, geglückt; Der Fall trifft wohl
+auch. felten, dafs man Kanonen über go Grade hock
+richtet; auch können die Schüffe bey einer folchen Er-
+höhung nicht, genau beobachtet werden. Um feine
+Lefer nicht auf die Elementärwerke über diefen Gegen-
+fand zu verweifen, fo wiederholt der gelehrte Vf, hier
+kürzlich die erften Anfangsgründe der Balliftik in ei-
+nem wideritehenden Mittel, der Luft, und fetzt als-
+dann feine Unterfuchungen weiter fort. Die Grenzen
+einer Recenfion erlauben uns nicht, den Vf. hierinn
+weiter zu verfolgen, allein auf das Eigenthümli-
+che der Auflöfung müffen' wir den Lefer aufmerkfam
+machen. Dahin gehört vorzüglich die $. 9. angegebe-
+ne Approximationsmethode, Die Geometer, die bis-
+her durch eine einzige Curve, oder durch ihre einzi-
+ge Gleichung die Bewegung der Körper in einem wi-
+derftehendeneMedio ausdrücken wollten, haben fich
+von der Wahrheit zu weit entfernt... Unfer Vf, betrach-
+ter den aufiteigenden, und den abfteigenden Zweig
+(Branche) diefer. krummen Linie ganz getrennt; er
+zeigt, wie man den auffteigenden Zweig der Curve
+5 A. L., Z, 1796. Vierter Band,
+
+   
+   
+ 
+
+” über Log. 16
+
+” im. widerftehenden Medio durch eine Annäherung an
+
+die Parabel finden könne, und beweilt nachher, dafs
+der abiteigende Zweig diefer Curve dem auffteigenden*
+nicht ähnlich feyz und giebt für diefen Zweig eine
+zweyte Annäherung durch die Parabel.- Der endliche
+Ausdruck für die ganze Wurfweite wird {ehr gefchmei“
+dig, und fieht nicht verwickelter ats, alsı h Sin 2:0 —
+MDCos@+2VH.NO; wezu noch für die Werthe
+des, Winkels @ am Ende des Werks‘ Hülfstafeln "vor
+kommen, . Der Vf. wendet diefe feine‘ Annäherungs-
+formeln auf die Verfuche an, die 1775 in Frankreich,
+in ‚der Artilleriefchule ala Fere gemacht worden. fi
+10. giebt er.hieyon ein, figurirtes Bey{piel, worian'ei-
+nige Druck, und Rechnungsfehler‘ vorkommen} die
+Rec. der diefe Rechnungen wiederholt‘hat ,‘ hier an-
+zeigt. Sehr. unfchicklich ‚hat. der Setzer am Ende der
+Seite 137. die Rechnungabgebrochen, ‚Log. b‘mufs da:
+her auf der folgenden S. 158. in der zweyten Spalte
+„zu {tehen kommen; Auch ift‘ der
+Log, von 4 falfch,, ‚und, mufs Ratt 9.2939740 heifsen?
+92157745: S.;140. kommt eis Rechnungsfehler vor;
+denn wiederholt man ‚die Rechnung, fo kommt für
+NR nicht 202 fondern 32,36 Toifen , daher nun das
+Stück AO der Wurfweite nicht. 208. 6, fondern 205%
+"Toifen wird; diefer Fehler hat auf das ganze Refultat
+einen Einflufs, und die ganze Wurfweite AF ift nicht
+(S. 147.) 402; 6, fondern nur 399, :4 Toifen, daher die
+Abweichung vonder Erfahrung auch-nicht 11, 3, Ton*
+dern 14,6 Toifen it; auch mufs Rec, noch einen Um-
+ftand bemerken, der Anfänger. in Verlegenheit fetzen
+kann: der Vf. erwähnt ‚nämlich gar nicht, wie er 5.
+141. zu den 194 Toifen für OF gelangr, die er doch
+kurz vorher zu 203, 1. Toifen gefunden hat; allein da-
+mit hat es folgende Bewandnifs:. der Vf. hat “hier
+Killfchweigend noch eine Correction für die Höhe NO
+angebracht, davon er erft S."144. und f. 17. fpricht;
+diefe Correction beträgt hier nach unfrer Rechnung 4,
+7 Toifen. Nachdem Hr. H. diefe. Rechnung durch
+Ar perbolifcke Logarithmen geführt hat, welches (ehr
+leicht wird, wenn man Schulzens Sammiung logar. Ta-
+£eln bey der Hand hat, (noch beifer Callets Tab. des Logar.
+die neufte Didotifche Edition Stereotype 1796); fo zeigt
+er auch, wie man, diefe Rechnung ohne Beyhülte die-
+fer Tafeln, durch Auflöfung einer Reihe, wozu am
+nicht mehr als zwey Glieder braucht, machen könne.
+Auf alle Fälle ift die Berechnung durch hyperbolifche
+Logarithmen kürzer; ob genazer, ilt eine andere Fra-
+ge; der Vf. glaubt es; allein aus den Gründen, die er .
+S. 142: angiebt, fcheint dies nicht zu folgen, er ver-
+gleicht das durch die Reihe, mit dem durch hyperbo-
+Sich Logarithmen gefundenen Refultat , und da erfte-
+xx
+
+res
+

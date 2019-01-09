@@ -1,0 +1,159 @@
+ 
+
+797
+
+Lumpen - Zucker von London nach Lübeck
+
+über Hamburg.
+
+Es koftet in London der Centner frey an Bord 39% fs. fterl,
+
+Provifion 2 p.C. ;
+
+Prämie von der Verficherung in London 1 D. c.
+
+Für die Police und Porto 4 p. ©.
+
+Zufammen alfo 3} p. C.
+
+London traffırt auf Hamburg zu 33 fs. 7 &vl. für 1 LStrl.
+
+Der Lumpen- Zucker wird in Hamburg mit 7 Mark
+Rabatt a’3 p. c. p. a. verkauft; und der Centner in Lon-
+don wiegt in Hamburg 104 Pfund, Nach der fogenann-
+ten Kettenregel käme diefer Satz fo zu itehen:
+
+ı Pfund in Hamb,
+104 Pfund :‘x Centner in Lond,
+x Centner: 39% fs. fterl. (veränderl. Werth.)
+20 fsl. terl.: ı LSt.
+ı LSt.:'33 fsl. 7 vl. (veränderl. Werth.)
+100 fs.: 103} fsl. Unkoft. in Lond. (veränderl. Werth.)
+100 fsl.: 1043 fsl. fur Rabatt,
+
+ 
+
+Berechnet man denfelben nach der gewöhnlichen
+Methode, fo wird man den Preis fsv. erhalten. Da
+man aber älle Arten von Zucker in Hamburg in 411.
+verkauft, fo bringt man denfelben auf diefe Wahrung,
+welches dadurch erhalten wird, wenn man den Cours
+auf &v)l. bringt. Der Brüche wegen, die bey dem Preis
+des Lumpen Zuckers in London vorkommen, kann
+man auch diefen auf Pfenning fterl. bringen. Nehmen
+wir jetzt von den unveränderlichen Satzen, die Loga-
+rithm, aus den gewöhnlichen Tafeln, fo ergiebt fich
+folgender Satz durch die Logarithm, ausgedrückt;
+Log. 104 = 2,0170333 FR
+- 400 = 2,60206009
+‘7 240 = 2,3802112
++ 800 = 2,4771213_:
+9:4764258
+2.4969296
+beft. Log. = 6.9794962
+Nun nehme man ferner;
+
+Logarithm. von den Preifen in ;
+London an pf. ter]. 474 = 2,6776070
+- des Courfes in 4&vl. 403 = 2,6053050-
+- der Unkoften in Lon- .
+don 33 pP.” C. = 413 = 2,6159501
+Summe = 7,8988621
+Davon der beftänd. Log. = 6,97,4962
+
+Die dazu gehörige Zahl it == 817% &vl. 09193659
+
+Berechnet man alfo ‚nach: diefer Methode für jede
+Waare einen beftändigenLogarithmus, fo wird der gefuch-
+te Preis eben fo gefchwinde und eben (0 leicht gefunden
+‘werden können, als wenn man {ich der fogenannten
+Hülfstafeln bedienet hätte. s
+Rec. wird fich freuen, wenn diefe Methode, die er
+
+fchon an andern Orten ausführlich erläutert hat, Bey-
+"fall und Nachahmung finden Sollte. Er hält fich über-
+
+*
+
+Log. 814 = 2,4969296
+
+ 
+
+  
+ 
+
+pe . ALLG. LITERATUR- ZEITUNG
+
+708
+
+zeugt, dafs man fie eben fo gut, w6 nicht befler finden
+wird, als wenn man fich eigne Tafeln Verfertiget.
+
+HamsurG u. ALTONA, gedr. b, Eckhardt, in Comm.
+b. Bachmann u, Gundermann: /’ollfländige Tabel-
+len über Geld-, Wechfel-, Gold- und Silber Spe-
+culationen der vornehmiten Handlung-itädte in Eu-
+ropa, nach deren jeden Cours befonders eingerich-
+tet. 135 S. u. 955. 8. ohne Jahrzahl. (2 Rıhlr.
+18 87.)
+
+Diefe Tabellen ftehen in gewilfer Rückficht mit dem
+vorigen Werke in Verbindung. In beiden wird die Rech.
+nung mit den Logarithmen gemacht; und beide find
+auch nach einerley Grundfätzen verfertiget, Die Erliun-
+terung , die fich aber blofs auf den Gebfauch der 'Tubel-
+len einfchränkt, nimmt zwey Bogen Text ein. Der
+Herausgeber derfelben hat fich nicht genannt, ha: aber
+feine Arbeit der Commerzdeputation in (Copenhagen zu+
+geeignet. Rec, erinnert fich, diefe Tabellen fchon lan-
+ge gekannt, und auch hin und wieder gebraucht zu ha*
+ben. Er findet fle bey Arbitrayen und andern Wechlel-
+fpeculationen, fehr bequeim und auch in der That nürz-
+lich, wundert fich aber, dafs die jerzigeu IIn. Verleger
+nicht auf die Veranderung des franzolifchen Courles
+Rückficht genommen haben, und von einem Sachvere
+ftändigen die Tabellen, welche deufelben enchalten, ha-
+ben erweitern lafTen. Denn fo, wie fie hier abgedruckt
+Stehen, find fie, bey jetzigen Zeiten, ganz unbrauch-
+har. Auch mit den übrigen Wechfelplätzen hätte eine
+Revifion angeltelle werden müffen; vorzüglich mit
+Rufsland. Der Schlüffel zu‘ diefen Tabellen iit für fich
+gedruckt; wird aber jetzt mit dem erften Theile zugleich
+verkauft. Diefer Schlüffel enthält weiter nichts, als
+eine Menge von Beyfpielen, die vermittel(t der Tahel-
+len aufgelofet werden können. Dient alfo noch mekr
+dazu, ‚um fich mıt dem Gebrauche und der Einrichtung
+der Tabellen bekannt zu machen. Ohne diefen würde
+die Erläuterung , die fich vor dem erften Theile befin-
+det, vom geringen Gebrauche gewefen feyn. Der Vf.
+hätte fehr wohlgethan, wenn er bey dem Gebrauche
+auch mit einmal die Verfertigung der Tafeln gezeigt
+hätte. Denn für GeheimnifTe braucht man dergleichen
+Sachen wohl nicht mehr in unfern Zeiten auszugeben.
+
+ 
+
+ 
+ 
+ 
+
+1Hamsurc, gedr. b. Meyn: Hamburgifches Wechfeb-
+buch, nach der Duhamel(chen Edition von 17°
+neu umgearbeiter und berechnet von £. v. Dührem
+Hochfürftl. Heffenkaffelfchen Agenten. 1789: 3 Alpb-
+10 Bog. 8. (5 Rıhlr.) =
+Hr. v. Dohren hat fich um die gänzliche Umarbeitung
+des alten Duhamelfchen Werks fehr verdient gemacht,
+und kann mit vielem Rechte für diefe feine, in der That
+mühfame, Arbeit den Dank der hamburgifchen Herren
+Kaufleute verlangen, der gewifs auch von allen, die
+Fleifs und Tatente zu fchätzen wiffen , nicht ausbleibeh
+wird. Diefe Ausgabe, die fich von allen vorigen nd
+gröfsere Genauigkeit im Rechnen, durch beifere Un
+unfern Zeiten mehr anpailende Einrichtung in N
+fehüng der Werchfel - Courfe, fo merklich auszex“
+
+* n n ir
+net, verdient daher auf jedem hamburgifchen ade
+ein
+

@@ -1,0 +1,147 @@
+ 
+ 
+
+43
+
+hin und wieder veränderter, und mit einigen neuen,
+Vorerinnerungen vermehrter , Abdruck von des
+Vf. Programm beym Antritt (eines Hallifchen Lehr“
+amts. Der (chwierige ı1te Grundf(atz Euklids ift
+hier‘ nicht aus den übrigen £uklidifchen Grund(ä-
+tzen bewiefen, fondern der Verf. hat eigne, von
+Lage und Richtung der Linien-in Ebnen, aufftel-
+len müßen; im Verfolg hat er nun auch die ähn-
+lichen Verfuche von Hindenburg and Schülze be-
+leuchtet, Bey Hindenburgs Beweis fcheint es ihm
+darauf anzukommen, dafs der Satz vom zureichen-
+‚den Grunde mit zu Hulfe genommen werden müf-
+fe, wenn eine gewiffe Folge, auf welcher. das Bin-
+dende feines Beweifes zu. beruhen {cheint als -of-
+fenbar einleuchtend betrachtet werden folle. —
+
+Hr. Pr. Hindenburg hat fich nicht im (einem Ma- -
+
+© gazin hinlänglich gerechtfertigt ,.dals er vom; zu-
+
+reichenden‘ Grunde nichts:zu Hülfe, nehmen wolle,
+
+und Hr gefteht am Ende feiner Unterfuchung
+
+felbit, dafs Hr.. H. überhaupt wirklich fo viel ge-
+
+leifter habe, dafs’ es.den Satz: alle geraden, mit
+
+einer dritten parallelen, Linien find mit einander (elbft
+
+parallel — einleuchtender gemacht. habe ‚als es
+
+der Iıte Euklidifche Grundfatz {ey, uud.dafs er
+
+alfo diefen als eine Folge von jenen hergeleitet ha-
+be, Gegen den Schulzifchen Beweis aber wird ein-
+gewandt, dafs dabey. ganz ungewöhnliche Begriffe
+vom Maafs‘der Winkel zum Grunde lägen; dafs
+man auch das ganz Entgegengefetzte Bey die nem-
+liche Art beweifen-könne , und wenn man. diefem
+Mangel dadurch abhelfen wolle, dafs man den Satz ©
+das Ganze ift gröfser, als eins feiner Theile, durch
+den Zufatz , „oder ihm gleich , “ näher beftimmte;
+dafs. alsdenn Widerfprüche ent/ftünden, indem ein+
+mal ein gewiffes Winkelftück in einent Beweife als
+©,. und ein andermal wieder als Etwas betrachtet
+Werde. ' Bey der zweyten Schulzifchen, Beweisart
+wird {chon als ‚vbekannt vorausgefetzt „was erft
+bewiefen werden follte , und auch die 3te Beweisart
+fällt mit der Nichtigkeit der erfteren dahin, weil die
+darinn gebrauchten Gründe im wefentlichen, wie-
+der die vorigen find. Der ganze: Fehler des Hn-
+Sch. kommt daher‘, dafs er die-das Unendliche be-
+treffende Sprache der. Algebra. falfch in der Geome-
+metrie angewendet. Ill. Ueber eine Stelle in Lam-
+berts Briefwechfel, von verneinten und unmöglichen
+Würzelgröfsen. L. hatte einmal unter andern an
+Daviffon gefchrieben: „‚man {ehe überhaupt wohl
+ein, dafs V’— I keine wirkliche Gröfse feyn könne,
+man’ müfste, fonft. annehmen ,. dafs. es 2. B..in ei-
+nem Kreife Sehnen, gäbe „die gröfser als der Durch-
+meffer; und Hypothenufen , die kleiner, als der Ka-
+thetus wären. Hr. K, glaubt. dafs Stellen der Art
+ungeübte. Lefer leicht irre. führen. köanten.,, und
+nimmt dahen Anlaß, die Begriffe von entgegenge-
+fetzten , Wurzel - und unmöglichen Gröfsen von
+aller Zweydeurigkeit und Dunkelheit zu. befreyen,
+und indem er die verfchiedenen: Vorftellungsarten
+deifelben bey den frühern und (pätern Mathemati-
+kern durchgeht, liefert er‘ zugleich einen fchönen
+
+n A N Dr E
+SUPPLEMENTE ©
+
+ 
+ 
+
+; 644
+Beytrag zur Gefchichte der Algebra. Gelegentlich
+zeigt er auch , worinn fich MET ERETOHUN Daret
+er Lehrer Kühn, bey feiner vermeintlichen. Con-
+rüction der unmöglichen Wurzelgröfsen ‘ geirrt
+hat, wo faft-alles dahinaus kömmt „. dafs algebrai-
+{cher und geometrifcher Sprachgebrauch nicht ge-
+hörig von einander unterfchieden worden find, IV-
+Von. den Logarithmen der verneinten und unmögli-
+chen.Gräfsen, Diele Abhandl. hängt mit der vori-
+gen gewiflermafsen zufammen , und es erhellet dar-
+aus noch mehr‘ die Unzuläfsigkeit der Kühnifchen
+Vorftellungsart. Nach vorläufigen Betrachtungen
+über die algebraifchen, den Fall der (chweren K&r-
+per“ betreffenden‘, Formeln, wird der Streit zwi-
+fchen Leibnitz und Bernouilli über die Logar. ver-
+neinter Gröfsen beleuchtetgi und dann d’Alemberts
+fonderbarer Begriff von den Lögarithmen kritilirt,
+wobey denn alles wieder auf AChtgS Begriffe von
+negativen Gröfsen ankömmt, weil es überhaupt
+keine Logarithmen einzelngefetzter Gröfsen giebt,
+{ondern allemal der Logarithme des Verhältniffes
+diefer Gröfsen gegen Eins, gemeint ift„ fo ergiebt
+
+ich daraus der eigentliche Sinn der Frage: ob der
+
+Logar. einer negativen Gröfse, — a» eine mögli-
+che Gröfse fey? — und die Betrachtungen des
+Verf, leiten ihn auf die-Folge, dafs, da im matür-
+lichen Iogarichmifchen Syftem. gar keine negative
+Zahl einen möglichen Logarithmen haben könne,
+es.auch im Briggifchen, und überhaupt jedem, an-
+dern. vom natürlichen , nach einem möglichen be-
+ftändigen Modulus‘ abhängenden „ für Negativzah-
+Ien keine möglichen Logar. gebe. Bernoullis-und
+d’Alemberts Aeufserungen find überhaupt den Küh-
+nifchen fehr ähnlich, befonders hat d’Alemb, nach‘
+ganz unbeftimmten. Vermuthungen : gefchloffen 3
+und da unfer Verf. nach eben folchen Analogien
+auch Etwas ganz verfchiedenes. {chliefst, fo erhel-
+Jet, dafs die ganze Schlufsart überhaupt kein Ge-
+wicht habe, ‚Auch die Streitfrage ‚felbft if nicht
+einmal recht feftgefetzt ;. denn wenn gefragt. wird ;
+ob der Logar, des Verhältniffes einer Degativzabl
+zur Eins möglich (ey, fo mufs man erft feftfetzen,
+ob die poftive oder negative Einheit verftanden
+werden foll? Die. Logar, der: Verhältnifle negay
+tiver, Zahlen zur negativen Eins., find, von den Lo-,
+gar. der Verhältnifle: der entgegengefetzten, pofitis
+ven Zahlen zur entgegenge(etzen poftiven. Eins
+gar nicht verfchieden , und fo find. die. Logar. je+
+ner Verhältniffe eben (Co, gut möglich „.als..die Los
+gar. diefer Verhältniffe » und die Gründe.der Hn. Brn;
+und d’Alemb. find zum Theil; Co befchaffen ,- dafs
+fie nichts anders; als eben dies .beweifen. können;
+V. Vom Berührungswinkel. und. Krümmungskreife. Hırı
+K. fügt der in feinem, Lehrbuch bereits enthalte
+nen Erläurerung diefer Gegenftände hier noch ver-
+{chiedenes, neues: bey, und zeigt, dafs‘ fein Vor-
+trag ‚mit Wallis (einem,..im Wefentlichen, übery
+einftimme, Billig, wundert er fich, dafs nach Wal“
+lis Abh. de, ang. contacti etc. noch Schriftftteller die-
+felbe anführen, und gleichwohl. von .Clavius un-
+. rich»
+
