@@ -1,0 +1,101 @@
+60J ; . ‚
+
+A
+
+610
+
+ERGÄNZUNGSBLÄTTER
+ZUR
+
+ALLGEMEINEN LITERATUR -ZEITUNG
+
+ 
+
+September 1839.
+
+ 
+
+MATHEMATIK.
+
+FagıBURG, b. Gebrüder Groos: Die Lehre von den
+Combinationen nach einem neuen Systeme bear-
+beitet und. erweitert von Dr. Ludwig Oettinger
+u. 8. W.
+
+(Fortsetzung von Nr. 76.)
+
+D.: Vf. spricht sich über die Bezeichnungsart in der
+Vorrede auf eine sehr beherzigenswerthe Weise aus.
+„Hauptsächlich, sagt er, mag der Umstand dom allge-
+meineren Studium der Combinationen geschadet haben,
+dass beinahe Jeder, der über Combinationen schrich ,
+andere Zeichen wählte, dass sich so eine sehr bunte Zei-
+chensprache für eine und dieselbe Sache bildete, dass
+die nämlichen Sätze in verschiedenen Schriften unter
+anderen Zeichen erschienen und ein neues Kleid nichts
+anderes als die alte Waare verbarg. Nichts aber
+täuscht unangenohmer als unter neuem lockenden Ge-
+wande die alte Larve wieder zu erkennen, nichts
+wirkt entmuthigender, als einen alten, längst ge-
+kannten Satz unter neuer Form wieder zu finden
+u.s, w.” Er hat daher versucht eine einfache, zweck=
+mässige und zugleich erschöpfende Zeichensprache
+einzuführen. Die Klemente bezeichnet er durch Buch-
+staben mit angehängten Zeigern, also wenn cine
+Reihe gegeben ist, durch @,, @,..., wenn mehrere
+Reihen gegeben sind, durch die Buchstaben a, b, €
+u. 8, w. mit angehängten Zeigern; die Versetzungen
+der Elemente a@,, @,...dn zur qten Klasse durch
+P(a,,:..an)g, sollen einige Elemente. wiederholt
+werden, etwa a, gerado k, a, aber A mal u. 8. W., So
+gilt die Bezeichnung P(a,,a,", a, at, a,...0n)g.
+Die Versetzungen mit Wiederholungen werden unter
+denselben Umständen durch P'(a,, A,...an)gqg boe-
+zeichnet. Ebenso werden die Verbindungen zur
+gten Klasse ohne Wiederholung, mit beschräukten
+Wiederholungen, mit Wiederholungen bezüglich
+durch C(@,...an)q.C(a,, a,", a,, az, a,..an)g,
+C’(d,, As-...Un)g angedeutet. Die gleiche Be-
+Ergänz. Bl. zur A. L. Z. 1839.
+
+zeichnung wird bei den Combinationen zu bestimmten
+Summen und Unterschieden beibehalten, nur wird im
+die Klammern vor die Elemente der kleine lateinische
+aber lange Buchstabe (f) mit Angabe der Summe und
+der kleine lateinische Buchstab (d) mit Angabe des
+Unterschiedes gesetzt, Die Summe der durch Com-
+binationen einer Klasse gebildeten Produkte wird
+durch ein dem Combinationszeichen vorgesetztes la-
+teinisches S bezeichnet. Sollen in diesen verschie-
+denen Fällen nicht die Gebilde, sondern nur deren
+Anzahl bezeichnet werden, so werden statt der run-
+den Klammern eckige genommen. Ueber diese Be-
+zeichnungsart machen wir nun folgende Bemerkungen,
+in welchen der Vf, das Bestreben erkennen möge, ihn
+in seinem Vorhaben zu unterstützen. - Was zuerst die
+Wahl der Zeichen für die Elemente betrifft, so hatte
+man dazu in früherer Zeit die Buchstaben des Alpha-
+beis angewandt. Die Unschicklichkeit dieser Be-
+zeichnung liegt nun besonders darin, dass erstens
+hierdurch die Anzahl der Elemente, wie die der Buch-“
+staben, beschränkt ist und dass man zweitens, wenn -
+man den Rang eines Elementes. wissen will, sich an
+die Stelle erinnern muss, die der vertretende Buch-
+stabe im Alphabet: einnimmt, äusserlich aber dieser
+Rang durch Nichts angedeutet wird, Daher haben
+Hindenburg und seine Schüler einen Buchstaben 'mit
+angehängten Indices eingeführt. Man überzeugte sich
+bald, ‚dass wo nur eine Elementenreihe zur Sprache
+kommt, die Buchstaben überhaupt überflüssig seyen
+und die Elemente blos durch Zahlen angedeutet wer-
+den könnten. So hat sich auch der Vf. in seinen
+„Forschungen im Gebiete der höheren Analysis” blos
+der Zahlen bedient. Wo aber mehrere Elementen+
+reihen zur Sprache kommen, scheint es als ob man,,
+um diese Reihen von einander unterscheiden; zu kön-
+nen, wieder seine Zuflucht zu. den Buchstaben neh-
+men müsste, und dies ist wohl der Grund, warum der
+Vf. sich in dieser Schrift der Buchstaben mit beige-
+fügten Zeigern bedient. Indessen tritt hierdurch wier
+H (4)
+

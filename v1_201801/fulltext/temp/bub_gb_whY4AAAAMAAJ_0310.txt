@@ -1,0 +1,128 @@
+585
+
+ALLGEMEINE LIT
+
+03
+
+586
+
+ERATUR- ZEITUNG
+
+ 
+
+December 1829.
+
+* MATHEMATIK,
+
+Reazvturseen: Scholae Logico - Mathematicae , in
+uibus ars cogitandi et eloquendi , inveniendi et
+demonfirandi circa unam Propofitionem, quae
+e/t Euclidis Elementorum Theorema primum,
+multis modis, et mogna exemplorum varietate
+exercetur, Proponuntur et Varia Generalia de
+Methodo, et nova quaedam tum ad Logicam
+theoreticum pertinentia , tum de Porismatibus in
+„‚Analy/i Geometrica antiquorum. Auctore C, F,
+Hauber, Ephoro Seminarıi Maulbronnenfis Wür-
+tembergiae. - Pars prima cum tabul. lithogr.
+octo. 1825. XV u. 432 5. 8.
+
+Schon bey dem ausführlichen Titel werden fich
+ohne Zweifel manche Lefer wundern, wie es mög-
+lich fey, über einen einzigen fo einfachen Satz,
+als der vierte Satz des er/flen Buchs von Euclids
+Elementen il, oder doch aus Veranlaffung diefes
+Satzes ein ganzes Buch, oder vielmehr einen fo
+umfiändlichen er/ien Theil eines Buches (denn der
+Vf. verfpricht, wenn der er/te Theil gut aufge-
+nommen werde, noch einen zweyten "heil, der
+fchwerere Folgerungen enthalten foll) zu fchreiben,
+Intereffant ift es immer, dem Gange des Verfaffers
+zu folgen, und zu fehen, wie er alles fo fein zu
+zergliedern, die befonderen einzelnen Fälle zu be-
+trachten, mannichfaltig zufammen zu fiellen, und
+befondere oder allgemeinere N EIES Ren daraus
+abzuleiten, namentlich auch viele logifche Folge-
+rungen daraus zu ziehen wulste. Was diefen Jletz-
+ten Punkt betrifft, fo hat man fchon oft gefagt,
+dafs der formelle Nutzen, den das Studium der
+Mathematik gewähre, oder die Uebung in dem ge-
+regelten Denken für den gröfsten Theil der Schü-
+ler fo wichtig, oder noch wichtiger fey, als der
+materielle Nutzen, oder die unmittelbare Anwen-
+dung der Wiffenfchaft aufs praktifche Leben. So
+fagt z. B. de la Hire in feinen Sections Coni-
+
+yes: „„outre les avantages fans nombre, que nous
+
+rocurent les Mathematiques par une application
+directe & tous les Arts curieux et nedceffaires, il en
+eft un plus intere/fant pour le plus grand nombre
+de ceux, qui veulent au moins avoir une connoif-
+fance füffifunte des principaux Eiemens; C’eft peut-
+Eire meme le feul, quwils doivent envifager , Je veuz
+dire T’-Art du raifonnement, qui eft € [Tentie d tous
+les ouvrages de cette nature. — Comment demeler
+le vrai d’uvec le faux, pour le faire connoitre feul,
+fi Von ignore Part de raifonner et de convaincre,
+
+„4A. L. Z. 1829. Dritter Band.
+
+ 
+
+® et quelle dtude plus propre que celle des Mathema-:
+tiques pour nous Vapprendre? Ceft une logique
+theorique et pratique en meEme tems, Puisque non
+JSeulement elle nous donne des regles pour raifonner
+avec precifion: mais qwelle nous en fait contracter
+T’heureufe habitude, en nous mettant dans la ne-
+cefJitE de ne donner notre confentement, qua ce que
+nous concevons Evidemment,”
+
+Hat man aber gleich diefs im Allgemeinen öf-
+ters anerkannt, fo erinnert fich doch Rec. nicht,
+irgendwo fon(t eine fo unmittelbare Anwendung der
+Schlufsfolgen , die bey einzelnen mathematifchen
+Sätzen vorkommen, auf logifche Denkformen über-
+haupt gefunden zu haben,
+
+Doch wir gehen zu dem Inhalte der Schrift
+über. Sie if in zehn Kapitel eingetheilt, wovon
+wenigliens die acht erfien durchaus nichts, als ei-
+nige Definitionen und Grundfätze des er/ien Buchs
+der Euclid, Elemente, nebli dem Grundfatz, dafs
+zwey gerade Linien kein Stück gemein haben, die
+drey Pofiulate, und die drey erfien Sätze deffelben
+vorausfetzen, Hieraus wird in dem er/ten Kapitel
+der Beweis des vierten Satzes von S. 1—30 abre-
+leitet und erläutert. Diefs Kapitel felbfi enthält
+vier Abtheilungen: 1) Präliminarien über die Art,
+wie 2 gerade Linien auf einander gelegt werden
+können, S, 1—11; 2) Präliminarien über die Art,
+wie 2 gradlinichte Winkel auf einander gelegt wer-
+den können, S. 11—18; 3) Präliminarien über die
+Art, wie 2 Dreyecke auf einander gelegt werden
+können, S. 18—20; 4) Beweis des 4ten Satzes des
+erfien Buchs, S. 20— 27; wozu noch ein Excurs
+zu dem zweyten Theil über das Aufeinanderlegen
+zweyer Winkel kommt, 5. 28 —30. Bey Nr. 1.
+wird $. 1. zuerf die Möglighkeit auseinandergeletzt,
+dafs von 2 geraden Linien wenigliens ein ange-
+nommener Anfangspunkt der 2Zten auf den ange-
+nommenen Anfangspunkt der 1fien gelegt, und $. 2,
+die 2te dann in eine folche Richtung gebracht
+werde, dafs wenigliens ein Stück der Zten auf ein
+Stück der 1fen falle, welches letztere bey andern
+als geraden Linien nicht, oder nur felten ftatt-
+finden würde: dann wird aus den vorausgefetzten
+Axiomen gefchloffen, dafs nun auch die Kichtun«
+gen beider geraden. Linien durchaus in ihrer gan-
+zen Ausdehnung diefelben feyn müllen. Nun wer-
+den die Fälle unterfchieden, ob die beiden geraden
+Linien, deren Anfangspunkte auf einander, und
+fe felbfi in Eine Richtung gelegt find, nun auch
+nach‘der andern Seite hin begrenzt oder unbegrenzt
+feyen. Für den erßen Fall, wenn Le beide ober
+
+4 grenzt
+

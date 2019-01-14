@@ -1,0 +1,138 @@
+: 85
+
+den find, deren fich früherhin Lambert, Kae
+Oberreit, Matth. von Drateln, oh. Reimer, ıfot
+von Florencourt, Tetens, und mehr andere berühmte
+Männer durch analytifche Formeln bedienten. Die-
+fer Unterfchied befteht in dem Vortheile für minder
+geübte Rechner, die nicht gerade zu mit der höhern
+Analylıs vertraut find, und daher fıch hier leichter
+zu finden willen, als in jenen Anleitungen der ftren-
+ern Mathematiker, welche diefe Gegenftände dem
+öhern Calkül der Formeln unterwarfen. Aber auch
+
+für diejenigen, die damit umzugehen wiffen, hat
+
+Hr. X. in den hin und wieder dem Texte untergeleg-
+ten Noten gelorgt. Bey den Zinsrechnungen und in
+einigen damit N Mrwandien Fällen, wo die Rede von
+Zins auf Zins eintritt, wird auf die gefetzliche Vor-
+fchrift im allg. Preuß. Landrecht Bezug genommen,
+und durch Beyfpiele aus dem praktifchen Leben ge-
+zeigt, wie dergleichen Aufgaben, fo wohl durch 8
+fogenannte Interufuriums Rechnung, als auch ganz
+kurz durch Logeritlnen aufgelöfet werden können.
+In Berechnung der Leibrenten (S, 152 fg.) ift der Vf.
+Süßmilchs Beftimmungen gefolgt, denen wir noch im-
+mer vor den Englifchen und Franzöfifchen Beobach-
+tungen der Sterblichkeits- Re(ultate den Vorzug ge-
+ben. Kurz, diefs Buch entfpricht völlig feiner Be-
+ftimmung, die nichts weniger beabfichtigte, als diefe
+Schrift mit einer Menge Rechnungsvorfälle und Hülfs-
+tafeln anzufüllen, welche man zur Berechnung der
+Waaren und Wechfelcourfe bis zum Uebertriebenen
+antrifft. Zudem herrfcht in diefen Bogen überall
+eine Deutlichkeit und Beftimmtheit im arithmetifchen
+Vortrage, die fchon längft aus des Vfs. allgemein be-
+ließtem Exempelbuche bekannt ift. — Den Befchlufs
+macht das fünfte Kapitel & 169 — 176.) welches die
+Refultate der Uebungsaufgaben enthält, die überall
+in diefem Buche angetroffen werden, Ihre Beftim-
+mung ift die, den Verftand derjenigen zu {chärfen,
+welche fGch durch den yorangeke hicPten Unterricht,
+und mit den Regeln hinlänglich bekannt gemacht ha-
+ben, die der Vf. fo wohl überhaupt, als in den auf-
+
+elöften Beyfpielen, mit voll(tändiger ‚Sachkenntnifs
+
+argelegt hat. }
+
+Ganz verfchieden ift dagegen die Ausführun
+
+von Nr. 2., deffen Beftimmung mehr dem Wechflel-
+wefen, als den gemifchten kaufmännifchen "Gegen-
+ftänden gewidmet ift. Für jenes ift aber der Unter-
+richt der Sache ziemlich entfprechend, Weder dem
+Vf., noch dem Ueberfetzer, der vom franzößfchen
+Original auch nicht die entferntefte Nachricht giebt,
+und das wir noch zur Zeit nicht gefehen heben,
+£cheint die Anwendung der Logarithmen auf die kauf-
+männifche Rechenkunft, nicht über die Bemühungen
+hinaus bekannt zu feyn, die wir Ho. Gerhardt 0
+
+ältern verdanken, Wem find aber die verfchiedenen
+
+Schriften diefer Art nicht bekamt, die fchon lange
+
+vor dem Vf. allgemein beliebt waren, welche Raphael
+‚Levy, Graumann, Nelkenbrecher, Krufe, Kampke Gir-
+sanner, Bernareggi, Ferdinand de la Ferreria, Vaters,
+
+ALLG. LITERATUR - ZEITUNG
+
+836
+
+Anderfen, Wagner, u. a. lieferten, und die gewifs vor
+manchen ähnlichen Arbeiten er Art, Vorzüge ha-
+ben. Doch ohne Rückficht auf diefen Umftand waol-
+Jen wir unfere Lefer mit dem, was in dem vorliegen-
+den Werke enthalten ift, und mit der A ung
+bekannt machen.
+
+Erfter Theil. In der Einleitung führt der Vf.
+
+fein efern zu Gemüthe:. Zum Gebrauche der Lo-
+arithmen wären gelehrte Kenntnifle von dem Ur-
+runge der arithmen, und wie die Erfinder die-
+er en, auf die Idee gekömmen, folche auf Ma-
+
+thematik und kaufmännilche Rechenkunft anzuwen-
+den, gar nicht nothwendig; er fetzt hinzu: „will
+man nichts defto weniger über diefen Gegrofann fich
+gründlicher unterrichten, /o kann man die Schriften,
+welche von den mathematifchen Wiffenfe: handeln,
+darüber nach/chlagen.” Das wohl nicht immer; Rec,
+kennt eine Menge Schriften, die von den mathemati.
+fchen Wifen/chaften handeln , ohne dafs ein Wort darin
+vorkömmt, wie die Erfinder der Logarithmen auf
+diefe Entdeckung gekommen“, noch weniger wie man
+zu dem Urfprunge der Logarithmen 5 der
+Vf. hätte daher billig auf die Ge/chicht/chrei Ma-
+thematik verweifen Bllen, welche diefen Gegenfiand
+am gründlichften aus einander gefetzt haben, Den
+theoretifch- praktifchen Unterricht f{elbft theilt der
+
+Vf. in 15 $$. ein. $. ı. handelt er von der Eintheilung
+der logarithmifchen 'F’abelle aller natürlichen Zahlen
+von 1— 10400. Ihre Einrichtung i(t diefe: Die na-
+türlichen Zahlen find auf jeder Seite horizontal in
+
+Ganzen oben überfchrieben; die Brüche derfelben
+fenkrecht darunter ‚bemerkt, und der Logarithmus
+von jeder Zahl in Ganzen und Brüchen unmittelbar
+daneben verzeichnet, welcher in fechs Decimalftellen
+ausgedrückt wird. ‚$. 2. wird die Charakteriftik der
+Decimalzahlen , welche ein Logarithmus enthält, be-
+{chrieben, worauf $. 3 die negativen Logarithmen
+folgen, die im $. 4. von dem Unterrichte begleitet
+wird, wie man den Logarithmus zu einer gegebnen
+Zahl in den Tabellen den foll. $. 5. enthält die
+Lehre, wenn der Logarithmus gegeben, wie die na-
+türliche Zahl zu demfelben zu finden fey, $.6 8.
+Unterricht, wie man den Gebrauch der Logarıthmen
+in Anwendung bringen mülfe $- 9. u. 10, Erklärung
+der Tafeln €. und D., die dielem Bande S. 127 fg.
+der Tabellen , ange PNgi God. 6. ıı. Vergleichung
+der verfchiedenen Wechfel. Conrfe durch Beyfpiele
+erläutert. Eben fo wird im 12. $. die Berechnung der
+Unkoften - Spefen, des Abfchlags, des Gewinn und
+Verluftes u. 4. w., anfchaulich, gemacht, und $. 13:
+und 14. gezeigt, wie Wechfelberechnungen angeftellt
+und die Proben der Richtigkeit gemacht werden fol-
+Jen. Zuletzt lehrt der Vf. $. 15. Intereffen von Inter-
+effen durch Logarithmen berechnen. Zu diefen Ge-
+enftänden gehören die ı20 Seiten Tabellen,‘ wovon
+Sie der pofitiven Logarithmen aller natürlichen Zah-
+len, in drey Colonnen, alle Brüche von 7% bis $3 ent-
+halten , die in geraden Zahlen und 15 Theilen HE rb
+

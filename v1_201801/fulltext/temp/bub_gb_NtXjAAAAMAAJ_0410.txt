@@ -1,0 +1,137 @@
+781
+
+yon’ Fan A) — fx) für den Fall dx = 0 be-
+ftimmen fölle und fchickt in’ diefer dritten Abthei-
+Jung eine fehr allgemeine, an’ neuen Entwicklungs-
+formen reiche Behandlang der Differenzen zwilchen
+Functionen von gleicher Form der Differentialrech-
+nung voraus. Die Formeln werden nämlich ausge-
+dehnt auf Differenzen von beliebig hohen Graden
+von Functionen beliebig vieler: Haupfgröfsen‘ utic
+auf beliebige Zufammenfetzung der Functionen aus
+Functionen , ferner auf Summen von Reihen, deren
+Glieder aus Differenzen folcher Functionen verbun-
+den mit willkürlichen Factoren beftehen, endlich
+auf Differenzen von Functionen, welche durch un-
+entwickelte Gleichungen gegeben find.
+
+So vorbereitet gewinnt auch des Vfs. Darftel£
+Jung der Differentialrechmung eine fehr grofse All-
+gemeinbeit ihrer Formen. "Es werden nämlich nicht
+nur die allgemeinften Formen für alle gewöhn-
+lichen Aufgaben des Differentiirens aufgeftellt, fon-
+dern der Vf. hat überall noch eigenthümliche fehr
+ausführliche Entwicklungen für die mit Multiplica-
+tionen oder Divifkonen abwechfelnden Differentiirun-
+gen: z. B. NE E23) gegeben, fo wie
+je bey manchen Reihenentwicklungen und Summi«
+rungen von Reihen gefordert werden, "
+
+Auf die Theorie der Differentiale folgt eine Ab-
+handlung überfchrieben: Theorie der gedoppelten
+Verbindungen, und dann eine andere: Theorie der
+Producte mit Verfetzungen, welche beide fallt ganz
+dem Vf, eigene Erweiterungen der combinatorifchen
+Analyfıs enthalten, die‘ bey ihm felbft hachgefehen
+werden müffen. — Hier wendet der Vf. die fo ge
+wonnenen Refultate an vorzüglich in der nächften
+Abhandlung, welche feine Theorie der Reihen ent-
+hält, In diefer wird vorläufig in der erften Abthei-
+lung das Eliminationsproblem für Gleichungen des er—
+ften Grades in der gröfsten Allgemeinheit behahdelt
+und in der zweyten Abtheilung Fü +) = Ay
+++ A EA A, 7, 5+.. . gofetzt, wo q.L, q,L,
+PL uf ww. verfchiedene -Functionen von x; A,
+A, A, Coefhcienten find, die kein x enthalten
+und die Entwicklung von An durch die angenom-
+mene Gleichung mit Hülfe der Differenzen gefun-
+den. Die dritte Abtheilung befchäftigt fich in
+
+leicher Allgemeinheit mit der Entwicklung der
+ Fanctonen in Reihen, Die UVeberfcht diefer Ab-
+handlung ift folgende. Es werden entwickelt I. Rei-
+hen, in welchen kein Werth von x mehr als ein
+Glied zernichtet. 1. Reihen, in welchen das Ein-
+fahren einer beftimmten Function von x das nte und
+alle folgenden aber kein früheres Glied zernichtet.
+1. Reihen, in welchen das Kinführen eines be-
+ftiimmten Werthes von x das nte und jedes folgende
+aber kein früheres Glied zernichtet. Diefes zwar
+„A im allgemeinen. B. wenn die begleitenden Functio-
+nen beftimmte Kigenfchaften haben, €. wenn die
+Klemente beftimmten Gefetzen ühterworfen find.
+D. wenn die begleitenden Fanctionen und auch die.
+
+) Num, 97... APRIL 1827,
+
+‚ung ga]
+‘Zzernichtet. ’V. Reihen; in welchen das Einführen
+
+762
+
+Elemente beftimmten Gefetzen folgen. FE. wenn die
+begleitenden und die Hauptfunctionen beftimmte
+Eigenfchaften haben. F. wenn die Elemente und die
+Hauptfunctionen beftimmten Gefetzen unterworfen
+find. G. wenn die begleitenden Functionen, die
+Elemente und die Hauptfunction beftimmten Gefle-
+tzem folgen.‘ IV. Reihen, in welchen das Einfüh-
+ren eines beftimmten Werthes von x alle früheren
+Späteren Glieder nur nicht das nte Glied
+
+eines beftimmten Werthes von x. alle Glieder zer-
+nichtet, oder Entwicklung einer Function in eine
+Reihe nach den Potenzen einer andern Function,
+und zwar .A, im allgemeinen, B. Entwicklung von
+F(x+h) nach den, An Potenzen von PX}
+C. Entwicklung von or) nach den ganzen Po-
+tenzen. von @ (5), D. Entwicklung von F(x+h)
+
+n E
+nach den Potenzen von (x). E, Entwicklun
+von F(x+h) nach den Potenzen von log. (1 +
+F, Entwicklung von F(x=+) nach den Potenzen
+von Arc. (tang. = b+cx). G. Entwicklung von
+F(=+A) nach, den Potenzen von x—a, von x,
+yonA, Ferner Entwicklung von F(x +h,, X, + Ayzıe
+..03 m + Am) nach den Potenzen von A,, hs...
+m. H. Wenn die Hauptfunction noch von einer
+andern Function begleitet wird. VI. Entwicklung
+einer Function. nach den Potenzen einer andern,
+wenn die Elemente beider Functionen durch eine
+Gleichung gegeben find, und zwar „A. Unterfüu-
+chungen über Gleichungen, .B. Entwicklung von
+&b nach den Potenzen von z und x, wenn z eine
+ganze rationale Function von x. C. Entwicklung
+von F(x+h) nach den Potenzen von @ (z).
+
+folgt eine Theorie der wiederholenden
+Functionen. Von den Charakteriftiken 4 und d
+Jäfst fich der Vf, zu f(x + h) — af (x) und
+Fie+h) — (x). F(x) fortführen, giebt fodann
+eine eigenthümliche Behandlung von Laplace's
+Theorie der erzeugenden Functionen, ferner für die
+Form fa+'(x) = A (SP) A, (SO)
+AA (Fa) ++... und endlich eine Abhand-
+lung über periodifche Functionen für die nach be-
+fondern Gefeizen fa (x) = f(x) für beftimmte
+Werthe von m.
+
+Nun {chliefst der Vf, fein Werk mit einer Theo-
+rie der allgemeinf{ten Facultäten und der Anwendung
+diefes Algorithmus auf die Theorie der fortlaufen-
+den Brüche, Er giebt über diefen Algorithmus felbft
+folgende Anlıcht. Ueber Kramps Facultäten x»/b
+habe er in der AnalyGs die Exponential - Facultäten
+
+(1+ w.ax)n;h
+= (1+ua*) (1+u ax)... (14 war + (2=1)h)
+erhoben und in die Wiffenfchaft eingeführt, auch
+fchon 1812 für die Theorie der fortlaufenden Brü-
+che die Facultäten #m.Pm +1: Im-+ 23 Im nl
+= (gm)”/" behandelt. Später habe er indeffen ge-
+funden, dafs /ronski fchon vor Ihm fich‘ mit die-
+fem Algorithmus befchäftigt und einige Refultate
+
+de[-
+

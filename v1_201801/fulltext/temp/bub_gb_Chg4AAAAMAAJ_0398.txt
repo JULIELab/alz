@@ -1,0 +1,97 @@
+785
+
+ERGÄNZUNGSBLÄTTER
+ZUR
+
+ALLGEMEINEN LITERATUR - ZEITUNG
+
+ 
+
+WE
+
+A A A ———
+
+November 1839.
+
+ 
+
+MATHEMATIK.
+
+© BaerLIN, b. Reimer: Die Lehre von den aufsteigen-
+den Funetionen nebst einer auf sie gegründeten
+Summenrechnung für Reihen oder Integralcalcul
+mit endlichen Differenzen von Dr. Ludwig Oet-
+finger, ord. öffentl. Professor der Mathema-
+tik an der Universität zu Freiburg. Besonders
+abgedruckt aus Creile’s Journal für die reine
+und angewandte Mathematik. 1836. 312 8. in 4.
+(4 Rıthir.)
+
+D a die Schrift schon durch das Journal, in welchem
+sic erschienen ist, eine grosse Verbreitung erhielt, so
+wird es hier genügen, in einer kurzen Anzeige auf die-
+selbe aufmerksam gemacht zu haben. Sie zerfällt in
+sieben Abhandlungen, Die erste heisst Aufstufungen
+der einfachen Funetionen, Wenn nämlich eine Reihe
+von Functionen
+.... X_3; X_a, Xp Xo; X X;, X. ..
+
+gegeben ist und man addirt zwei auf einander folgende
+Glieder zusammen, so nennt dies der Vf, eine Auf-
+stufung und bezeichnet diese Operation durch den grie-
+chischen Buchstaban Ü, so dass z.B. © Xı= Xa+
+An+4+) ist. Betrachtet man die einzelnen Aufstufun-
+gen wieder als Glieder eier Reihe, die man die erste
+Aufstufungsreihe nennen kann, so kann man wieder
+je zwei Glieder addiren, wodurch man zweite Aufstu-
+fungen erhält, und wenn man auf dieselbe Weise fort-
+fährt , so kommt man allgemein zu einer mten Auf-
+stufungsreihe; die mte Aufstufungsreihe bezeichnet
+der Vf. durch &”, Man kann aber auch die ursprüng-
+liche Reihe oder die nullte Aufstufungsreihe als bereits
+zusammengescizt aus Gliedern vorhergehender Rei-
+hen ansehen; Die Reihe, die ihr zunächst vorangeht,
+wird also die erste negative Aufstufungsreihe seyn,
+und so kommt man wieder zur mten negativen Aufstu-
+
+Ergünz, Bl. zur A. L. Z. 1839. " ) ;
+
+fungsreihe. Der Vf, zeigt nun wie man die mte posi-
+tive oder negative Aufstufung aus den Gliedern der
+Grundreihe finden kann, und wie umgekehrt ein Glied
+der Grundreihe durch Glieder der Aufstufungsreihen
+gefunden werden kann. Er specialisirt alsdann die
+Grundreihe und entwickelt die Aufstufungen für die
+bekanntesten analytischen Funktionen. Die zweite
+Abhandlung beschäftigt sich mit der Differenzenrech-
+nung, die der Vf,, wiewohl sie schon vielfach abge-
+handelt ist, hier erörtert, weil er sie im Verlauf der
+Untersuchung häufig anwenden muss. Kine beson-
+dere Abtheilung dieser Abhandlung bildet die Unter
+suchung der Abstufungen , worunter der Vf. die Grösse
+versteht, welche man erhält, wenn man nicht, wie
+es bei den Differenzen der Fall ist , das vorhergehende
+Glied vom folgenden, sondern umgekehrt das fol=
+gende vom vorhergehenden abzieht, so dass also die
+Abstufung mit der negativen Differenz identisch ist.
+Die Aufstufungen, die Differenzen und die Abstufun-
+gen nennt der Vf. zusammen aufsteigende Funktionen,
+woraus man sich den Titel des Werkes erklären kann.
+In einem Anhange zu dieser Abhandlung findet man
+mehrere Anwendungen, namentlich auf die Darstel-
+lung der Fakultäten sehr grosser Zahlen und auf ei-=
+nige Fälle der Wahrscheinlichkeitsrechnung. Die
+dritte Abhandlung entwickelt die Aufstufungen der zu-
+sammengesetizten Funktionen, wo nämlich eine Funk-
+tion aus zwei oder mehreren veränderlichen Faktoren
+zusammengesetzt ist und auf ähnliche Weise werden
+in der vierten Abhandlung die Differenzen und Abstu-
+fungen der zusammeng-setzten Faktoren behandelt,
+Die drei folgenden Abhandlungen enthalten Anwen-
+dungen der vorhergehenden und zwar die fünfte die
+Summenrechnung für Reihen die durch einfache Fak-
+toren erzeugt werden, und die sechste die Summen-
+rechnung für Reihen, die durch zusammengesetzte
+Funktionen erzeugt werden, In der 7ten Abhandlung
+G SS)
+

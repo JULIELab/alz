@@ -1,0 +1,123 @@
+613
+
+rig seyn, mag sogar gegenwärtig die Kräfte der Ana-
+Iysis übersteigen, nie aber sollte man sich selbst die
+Hoffnung zur Auffindung dieses Gesetzes abschneiden,
+Die Gruppenanzahl der Verbindungen ohne Wieder-
+holung wird auf die der Verbindungen mit Wiederho-
+
+lungen zurückgeführt, indem die Anzahl der Verbin-:
+
+dungen ohne Wiederholung aus 4 Elementen zur
+g.q—1
+
+1.2
+bindungen. mit Wiederholung aus eben so viel Ele-
+menten zur Summe ». Dies hat bereits Euler in der
+Abhandlung de partitione numerorum (Com: Nov. ac,
+Petr. T. 3) bemerkt, welche überhaupt für diese
+ganze Lehre von grosser Wichtigkeit ist und mehrere
+höchst merkwürdige Sätze enthält. Hierher rechnen
+wir z.B. den Satz, welcher die Anzahl der Verbindun=
+gen mit Wiederholung zur Summe n aus der Anzahl
+der Verbindungen zu kleineren Summen finden lehrt.
+Vielleicht lag es nicht im Plane unseres Vfs., in solche
+Details einzugehen, doch hätten wir gewünscht, dass
+er etwas über dio Frage, wie man die Anzalhıl alter
+Verbindungen zu einer bestimmten Summe finden
+kann, gesagt hätte, da er sich nur damit beschüftigt,
+diese Anzahl für eine bestimmte Klasse zu finden,
+Diese Bemerkung gilt auch für alle folgenden Unter-
+suchungen. In $. 18 — 22 wird ein specieller Fall
+der Combinationen zu bestimmten Summen betrach-
+tet, wenn nämlich Elemente ausgeschlossen werden.
+Hierbei ist natürlich, je nach den ausgeschlossenen
+Elementen, eine grosse Anzahl von Fällen denkbar,
+Der Vf, beschränkt sich auf drei Hauptfälle, wenn
+1) Anfangs - Elemente, 2) höhere Elemente, 3) Zwi-
+schenelemente ausgeschlossen werden, oder auch
+mehrere solche Elementengruppen za gleicher Zeit,
+Die Combinationen zu bestimmten Unterschieden wer-
+den in $. 23 nur erwähnt. In $. 24 — 30 behandelt
+der Vf, die Summen der durch Combinationen erzeug-
+ten Produkte und zwar zuerst in Beziehung auf Ver-
+setzungen, dann in Beziehung auf Verbindungen,
+Die Summe der durch Versetzungen mit Wiederho-
+Juug erzeugten Produkte wird leicht auf die Verbin-
+dungen mit Wiederholung zurückgeführt. Die Sum-
+men der Versetzungen mit beschränkten und unbe—-
+schränkten Wiederholungen werden noch leichter und
+unmittelbarer gefunden. Zu der Summe der durch
+Verbindungen ohne Wiederholung entstehenden Pro-
+dukte gelangt der Vf. $. 26 — 28 auf zwei verschie-
+denen Wegen, durch eine schr interessante Analyse,
+die er auch schon früher angewandt hat, indem er
+sich der Differenzialrechnung bedient. Die Verwieke-
+
+Summe n +
+
+ 
+
+gleich ist der Anzahl der Ver-
+
+Num. 77. SEPTEMBER 1839,
+
+‚614
+
+lung'der Zeichen verhindert uns jedoch hier näher
+darauf einzugehn. In seinen „Forschungen” hatte
+der Vf. geäussert, man würde eine unabhängige Sum-
+mirung der Verbindungen finden können, wenn man
+eine Facultätenformel ‚fände, die die Formel
+
+® m + 1 „" +1 Mi
+aZ5 0406
+
+DA...
+
+als speciellen Fall enthielte, Kine solche hat Ref, bei
+Gelegenheit der Besprechung jenes Buches in diesen
+Blättern gegeben; keinesweges hat er aber geglaubt
+in ihr das gesuchte Mittel gefunden zu haben, wie der
+Vf. in der Vorrede (S. XIV) sagt, or hatte vielmehr
+nur beabsichtigt, dem Vf, das, was er vergebens ge-
+sucht hatte, mitzutheilen, den weiteren Gebrauch ihm
+selbst überlassend. Summe der Verbindungen mit
+Wiederholungen $.28— 29. Summe der Versetzun-
+gen mit Wiederholungen zu bestimmten Summen $.30.
+
+Der Ste Abschnitt enthält Untersuchungen über
+die Combinationen die durch die Verbindungen der
+Gruppen verschiedener Elementenreihen erzeugt wer-
+den, Während im Vorhergehenden die Gruppen im-
+mer als aus gleichartigen Elementen gebildet angese-
+hen wurden, so werden hier die Elemente verschic-
+dener Reihen als verschiedenartig angesehen, die von
+einer Reihe als zusammengehörig. Will man nun
+Versetzungen olıne Wiederholungen aus den Klemen-
+ten der zwei Reihen
+
+Cry Ag Ay
+Ois Oase bp
+bilden, so dass immer A Elemente aus der ersten und
+k Elemente aus der zweiten Reihe in jeder Gruppe er»
+scheinen, so besteht diese Operation , welche der Vf,
+wie uns scheint, nicht hinlänglich klar auseinander
+gesetzt hat , darin, dass man zuerst aus den Elemen-
+ten d@,> Ay... alle Versetzungen zur Klasse A bil-'
+det und alsdann. zu.jeder Gruppe, so oft als es an-
+geht, & Elcmente aus der zweiten Reihe, die solche
+Indices führen, die nicht schon in den gebildeten
+Gruppen vorkommen, mit. allen möglichen Versetzun-
+gen hinzufügt, Diese Operation bezeichnet der Vf.
+durch
+P[a,, 0a...0n, 5,, da... bm 1"
+
+und es ergiebt sich, dass die Anzahl dieser Versetzun-
+gen = 7% (m— hy" 1 ist. Der Vf. hat indes-
+sen den Umstand ganz unerwähnt gelassen, dass
+diese Formel nur für den Fall gilt, wenn m grösser
+
+als #ist, dass sie dagegen unbrauchbar wird, wenn
+m =-h-oder m kleiner als A ist , ein Fall, der doch eben
+

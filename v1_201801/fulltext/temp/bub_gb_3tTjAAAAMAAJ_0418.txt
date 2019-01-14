@@ -1,0 +1,130 @@
+825
+
+826
+
+WERGÄNZUNGSBLÄTTER
+
+ALLGEMEINEN LI
+
+ZUR
+
+TERATUR --ZEITUNG
+
+ 
+
+September 1827.
+
+© vd a a
+
+MATHEMATIK,
+Oinexnong, b. Schulz: Vollftändiger Lehrbegriff
+
+der höhern, auf Combination der Grüfsen ge-,
+
+gründeten , Analyfis, und der höhern phorono-
+mifchen Geometrie. Von J, F. Schoffer u. SL w.
+
+(Befchlufs der im vorigen Stück abgebrochenen Recenfion.)
+
+De: xt Abfchnitt ($. 209 — 252) handelt von der
+Krümmung, $. 221 beflimmt den Winkel-des Ele-
+ments einer Curve; für rechtwinklige Coordinaten
+
+dx '
+wird gefunden tang, u =-z—. — Mr, S. nennt den
+
+Winkel, um welchen die Richtung des, die Linie
+befchreibenden ‘Punktes von feiner anfänglichen, in
+einem beliebig angenommenen Punkte verifchieden
+ift, Abweichungswinkel, Die Abweichung, welche
+ein Theil einer Linie enthält, if gleich dem Winkel,
+welchen die an den Endpunkten diefes Theiles lie-
+
+enden Tangenten mit einander machen, oder gleich
+dem Unterfchiede der Winkel, welchen diefe Tan-
+
+enten mit irgend einer geraden Linie‘ machen.
+f. 223 lehrt nun die Summe der Abweichungen einer
+
+rummen Linie zu finden, Das Supplement ‚des
+Winkels, gebildet von. -zwey unmittelbar auf einan-
+der folgenden Elementen er Curve, wird. Krüm-
+mingswinkel genannt. Für rechtwinklige Coordi-
+Haten wird in $ 226 d. Arc, tang. w = d.k
+
+d, tang.{t. dp <
+SW FE gefunden, Diele. Aufgabe
+wird in € 227 umgekehrt; es folgt nämlich - durch
+Integration &=c—.Arc.tg,p. — Die Unterfuchüng,
+ob eine Curve gegen ihre Ahfeiflenlinie oder ihren Pol
+concav oder convex if, wird in $. 229; ob fie einen
+Beziehungspunkt habe, in 6. 2351; den vielfachen
+Punkt und den Rückkehrpunkt einer Curve zu be-
+fürmmen, in 6. 232 abgehandelt. — Der XIte Ab-
+fchnitt ($. 233—247) behandelt die Halhmeffer der
+Krümmung und die Kvolute. Die EMitwickelung in
+diefem Abfchnitt wird auf Abfchnitt X gefüützt, und
+wird eben fo fireng als finnreich durchgeführt. —
+Der X1lte Abfchnitt ($. 248 —259) führt die Ueber-
+fchrift: Von der Berechnung der krummen Linien.
+Veber die gewöhnlich befolgte Methode der Recti-
+fication fpricht fich Hr, S, S, VII fg. und auch 5. 437
+€. 201 wie: folgt aus: „Wenn die Exhaulfiion- Me-
+thode annimmt, eine lehr kleine krumme Linie fey
+von der geraden Linie zwifchen denlelben zwey
+
+Brgänz. Bl. zur A, LI. Z. 1827.
+
+ 
+
+Punkten um ein Etwas verfchieden, das man als er-
+fläunlich klein weglaffen könne, fo if diefes eine
+Täufchung: denn die Gröfse, wovon jenes Etwas
+weggelaffen ift, wird der Kechnung zum Grunde ge-
+legt, und die Rechnung giebt ein richtiges Refultat.
+If nun das Refultat richtig, fo mufs auc nothwen-
+dig das, woraus es hervorgegangen if, richtig ge-
+wefen feyn; allo war die Größe, die man der Rech-
+nung zum Grunde legte, vollfändig, und das Etwas,
+welches man wegezulaffen glaubte, war gar nicht
+vorhanden, was man als eine krumme Linie anzufe-
+hen vorgab, war nichts anderes als eine rade Linie,
+Wenn man nach’ den Grundfätzen der  Ceheuflons“
+Methode das Differential der krummen Linie ds
+= (dx? + dy?) gefunden hat, fo wird Y (de? dy?)
+als ein Theil der krummen Linie s angefehen , "an
+welchem ein erflaunlich kleines Etwas fehlen foll.
+Nun if aber jeder Theil der krummen Linie krumm,
+alfo wäre auch (dr? +dy?) etwas Krummes.
+Offenbar ifi aber (dx? + dy?) nichts andres als die
+Hypotenufe eines rechtwinkligen Dreyecks, deffen
+Catheten dx und dy find, alto eine gerade Linie.
+Wird (dx? --dy® } integrirt, fo findet man 8, die
+Länge der krummen Linie, Die Länge s if allge-
+mein amerkannt eine gerade Linie, keine krumme.
+Wird nun behauptet, (dx? + dy?) fey eine krum-.
+me Linie, fo mufs man doch nothwendig der Inte-
+grAer nung eine befondere geheime Kraft beylegen
+as Krumme in das Gerade zu verwandeln.” .“ . x
+Wird aber angenommen y (dx?+ dy?) Sfey eine ge-
+rade Linie, . wie auch die Integration erfordert, fo
+ergiebt fch hier wieder «ie Täufchung der Exhau-
+fuonsmethode: denn das Etwas, warum die krumme
+Linie die gerade übertreffen {oll, if gar nicht vor.
+handen.” — $. 249 enthält die Aufgabe: das Diffe-
+rential einer krummen Linie zu finden. Um Hn. $.
+Auflöfung mittheilen zu können, bitten wir, Klügels
+mathem, Wörterbuch Th, I. Fig, 75 als zugehöri
+Figur zu nehmen: „Ein Punkt habe von aus die
+krurhme Linie AM befchrieben, deren Länge s hei-
+fsen foll, Der Punkt gehe jetzt von /M nach N, und
+befchreibe das Element MN, welches als eine un-
+endlich kleine gerade Linie angefehen wird, fo ilt
+MN = 4.8 das Increment der krummen Linie AM.
+Durch M feyen RM, MP die Länge und Breite des
+Mäumes, und von N feyen Nm, Lp (es heifse näm-
+lich das Perpendikel von N auf die Verlän erung der
+MP, NP) auf die Länge und Breite [eNFechn fo
+rückt der Punkt, indem er das. Element {MN-be-
+M (5) Ichreibt,
+

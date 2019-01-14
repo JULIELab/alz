@@ -1,0 +1,139 @@
+589
+ihr, oder nur mit einem Stück auf ihr, oder ihrer
+Verlängerung läge u. f. w., oder auch fo, dafs die
+Dreyecke nichts als Kinen Punkt gemein hätten, was
+wieder eine grofse Mannichfaltigkeit von Fällen
+giebt, die im 3ten Kapitel behandelt werden, hey
+denen wir uns jetzt nicht länger verweilen wollen,
+Man könnte diefe Darliellung mit dem fogenannten
+Legfpiel vergleichen und fich dadurch erläutern, dafs
+man 2 Dreyecke auf verfchiedene Weile an einander
+anlegt, und dadurch verfchieden geformte Figuren
+hervorbringt.
+
+Das vierte Kapitel enthält ‚Aufgaben, die un-
+mittelbar durch 4, I aufgelöft werden von S. 117—
+173. Bekanntlich läfst fich jeder Lehrfatz auch in
+Yorm einer Aufgabe, oder umgekehrt ausdrücken,
+und diefs wird nun auf den Lehrfatz 4, 1 und die
+aus demfelben in Kapitel If, und 11, abgeleiteten
+Sätze angewendet, und eine grofse Menge von Auf-
+gaben hergeleitet, und dabey manches Lehrreiche
+über beilimmte und unbeflimmte, und mehr als be-
+fümmte Aufgaben u, dgl. eingelireuet.
+
+Das fünfte Kapitel, S. 174—205, befchäftigt
+fich, nach einigen allgemeinen logilchen Bemer-
+kungen, mit Unterfuchung des Falls, wenn von
+den 3 Bedingungen des Satzes 4, 1 zwar die zwey
+erlien, dals AB= u, und A= «a fey, bleiben,
+aber die 3te AU = «y nicht mehr Statt findet, fon-
+dern vielmehr AC>«ay if, und unterfucht , in wie-
+fern dann die früheren Folgerungen auch nicht mehr
+Statt haben. Es Aüönnte nämlich dann zwar den-
+noch BC= 7 bleiben, doch mufs diefs nicht feyn:
+Dothwendig aber mufs dann auch AABC>Außy,
+und B > feyn. Diefs wird nun wieder auf die
+verfchiedenen in Kapitel 11. und III. abgehandelten
+Lehrlätze angewendet.
+
+Im fechsten Kapitel, S. 206 — 261, kommen,
+nach einigen allgemeinen Bemerkungen über um-
+gekehrte Sätze und über indirekte Beweile, noch
+zwey' umgekehrte Sätze von 4, 1 vor, nämlich:
+1) Wenn in 2 Dreyecken ABC, a«fy ii AB=uß,
+
+A=a, und AABC=Außy; fo ik auch AC=ay,
+
+BC=ß7, B= f, und C=y, und 2) wenn in zwey
+Dreyecken it AB=uß, A=«a,B=ß; lo ii wieder
+alles übrige gleich. Letzteres ii, wie man fogleich
+feht, nichts anders als 26, I. Diefe beiden umge-
+kehrten Sätze werden nun wieder, mit manchen ein-
+TE N Bemerkungen auf viele der Lehrfätze des
+1. und II]. Kapitels namentlich angewendet, und
+diefen gemäfs ausgefprochen.
+
+Das fiebente Kapitel, S. 262—293, enthält zwey
+umgekehrte Sätze von denen des 5ten Kapitels, die
+zugleich zu den 2 Sätzen des 6ten Kapitels lich eben
+fo verhalten, wie der des 5ten Kapitels zu Satz 4, 1,
+d. h. fo, dafs 2 von den Bedingungen der Sätze des
+6ten Kapitels Statt finden, die 3te aber nicht. Die
+Sätze felbf find; 1) Wenn in-2 Dreyecken ABC,
+
+‘aßy zwar AB= af, A=a, aberA ABC>4Auaußy;
+fo ii auch AC>«a«y, und B>ß; und 2) Wenn
+AB=aß, A= a, aber B< f; fo wird auch
+AC>a7 und AABC>AuUßy leyn. Diels wird
+
+Num. 234. DECEMBER 1829,
+
+590
+
+dann wieder auf die verfchiedenen Sätze in Kapitel
+Il. und 1. angewendet, Voraus gehen einige Be-
+merkungen über die Art des indirecten Beweifes,
+wobey vermittelf eines’ hypothetifchen Satzes, der
+zwey oder mehrere Folgerungen hat, gefchloffen
+wird, z. B. fo: Wenn „4 nicht wahr wäre, fo müfste
+entweder B oder GC wahr feyn; nun aber ift B nicht
+wahr, und eben fo wenig C: alfo ifis unmöglich,
+dafs „A nicht wahr feyn follte, folglich mufs A wahr
+feyn, was dann an mehreren geometrifchen Sätzen
+erläutert wird, Belonders wird noch auf einen lo-
+gifchen Schlufs aufmerkfam gemacht, der ander-
+wärts weniger beachtet werde, und fo lautet: Alle
+A werden in einer gewiffen Beziehung fo eingetheilt,
+dafs he entweder 6 oder c find, In einer andern Be+
+ziehung find‘ alle' A entweder 8 oder 7. Nun weils
+man aher, dafs alle 6 zugleich auch #, und alle c zu-
+gleich auch y find: unter diefen Vorausfetzungen
+wird man dann umgekehrt auch fchliefsen können,
+dafs alle # zugleich auch 6, und alle y zugleich auch
+6 feyen. Denn wären unter den f einige, die nicht
+zugleich & wären, fo müfsten diefe mithin, weil alle
+A entweder & oder c find, nothwendig zu den 6 ge-
+hören. Aber alle c gehören zu y. Von diefen find
+aber alle @ unterfchieden, weil alle A nur entweder
+oder y find, Allo kann man keines der von der
+Klaffe & ausfchliefsen, und eben fo keines der y von
+der Klaffe ce. Der Vf, bemerkt, dafs ein verwandter
+oder vielmehr der umgekehrte Satz bey Ari/lotel,
+und bey Lambert (Neues Organ, Dianciol, M. Hauptft.
+$. 97. 93, 1) vorkomme.
+
+Im achten Kapitel, S. 294 — 340, kommen noch
+andere contrarie converfae (fo nennt der Vf. die
+Sätze des 7ten Kapitels, nämlich converfas in Bezu
+auf die Sätze des 6ten, und contrarias in Bezug au
+die Sätze des 5ten Kapitels) des Satzes 4, I und
+der Folgerungen daraus in Kap. IL und Ill. vor,
+die etwas weniger befüimmt find, als die im 7ten
+Kapitel, aber leichter aus 4, 1 oder deffen Folge-
+rungen abgeleitet werden können,
+
+Wer auch nur das Wenige, was wir bisher
+ausgehoben haben, feiner Aufmerkfamkeit würdigt,
+mufs gewifs den Scharffinn des Verfaffers bewun-
+dern, mit dem er alles in fo verfchiedenen Wen-
+dungen darzufiellen, fo fein zu zergliedern, und
+von fo verfchiedenen Seiten zu betrachten und aus-
+zudrücken wufste. Auch if in dem Bisherigen
+nichts, das ein nicht ganz talentlofer aufmerklamer
+Anfänger nicht Jeicht begreifen könnte. Ktwas
+fchwieriger find die beiden letzten Kapitel, in wel-
+chen zum Theil auch auf einige weitere Sätze von
+Euklid Anwendungen gemacht, oder fie berück-
+fichtigt werden, das meilie jedoch ebenfalls auf 4, I
+oder die Folgerungen daraus fich bezieht. Wir
+wollen den Inhalt davon nur noch kurz andeuten.
+
+Das neunte Kapitel, von S, 341 —386, enthält,
+nach vorausgefchickten allgemeinen intereffanten
+Bemerkungen über ge Ometrifche Analybs, und über
+die Sätze, welche die alten Geometer Data nann-
+
+ten, eben folche Data in Bezug auf 4, 1, oder feine
+rü-
+

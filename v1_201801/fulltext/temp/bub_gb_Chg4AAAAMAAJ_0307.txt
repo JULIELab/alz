@@ -1,0 +1,112 @@
+nenne man die beiden äusseren Kräfte Pund Q, und
+die mittlere R, welche man, weil sie nach der ersten
+Bedingung die entgegengesetzte Richtung von P und
+() hat, als negativ betrachte , wenn man P, Q positiv
+nimmt. Alsdann ist zufolge der zweiten Bedingung:
+P+0= — RR, oder P+0+R=0. Man ziehe fer-
+ner in der Ebene der Kräfte eine ihnen nicht parallele
+Gerade, welche von den Richtungen von P, Q, R
+resp. in-F, G, H geschnitten werde, so haben die
+Abschnitte Z/F, und GH einerlei Zeichen und sind
+den Abständen der P und Q von R proportional, Es
+verhält sich daher zufolge der dritten Bedingung:
+P:0=GH: HF, also auch
+
+P:(P+0=-—R)=6GH:(GH+HF= GF),
+also P:R=GH: FG, und in Verbindung mit der er-
+sten Proportion:
+
+P:Q:R=GH:HF:FG, so dass jede der drei
+Kräfte dem gegenseitigen Abstande der beiden andern
+proportional ist. Da hierin jede Kraft und ihr Durch-
+schnitt mit der geraden Linie auf gleiche Art vorkom-
+men, nämlich P und F ebenso wie Q und G, ebenso
+wie X und H/, so ist es gleichviel,. welche der drei
+Kräfte wir als die mittlere anschn, und wir können
+unsern Satz ganz einfach so ausdrücken: Zwischen
+drei parallelen Kräften P, Q, R in einer Ebene
+herrscht Gleichgewicht, wenn sie eine ‚gerade Linie
+in F, G, H so schneiden, dass P:Q:R=GH: HF: FG.
+In der That folgt daraus P+G+R=0, weil immer
+GH + HF+ FG = 0, in welcher Ordnung auch F,
+G, H in der Geraden auf einander folgen mögen. Es
+muss daher eine der drei Kräfte nach der entgegen-
+gesetzten Richtung der beiden andern wirken, und,
+absolut genommen, der Summe der andern gleich
+seyn. Sey, wie vorhin, R diese eine Kraft , so ha-
+ben, vermöge der Proportion, GH und HF einerlei
+Richtung, FG die entgegengesetzte. Es muss folg-
+lich 4! zwischen F und G, also R zwischen P und
+Q liegen. Ebenso würde man P zwischen Q und R
+liegend und der Summe von Q und R, absolut ge-
+
+nommen, gleich gefunden haben, wenn man Pnach,
+
+der entgegengesetzten Richtung von Q und X hätte
+wirken lassen.” Cap. 3: Vom Gleichgewichte zwi-
+schen Kräften in einer Ebene überhaupt. Das Capitel
+schliesst mit geometrischen Folgerungen, So wird
+z.B. folgender Satz bewiesen: „hat man cin System
+gerader Linien AB, CD.... in einer Ebene, so ist
+die algebraische Summe der Dreiecke MAB,MCD....,
+welche diese Linien zu Grundlinien und einen und
+denselben Punkı M der Ebene zur gemeinschaftlichen
+Spitze haben, entweder für jeden Ort dieses Punktes
+
+'ERGÄNZUNGSBLÄTTER ZUR A.L.Z.
+
+604
+
+von einerlei Grösse, oder von cinem Orte zum andern
+veränderlich, Im letzteren Falle aber lässt sich in der
+Ebene noch eine Linie von solcher Lage und Grösse
+angeben, dass für jeden Punkt der Ebene jene Sum-
+me von Dreiccken dem Dreiecke gleich ist, welches
+denselben Punkt zur Spitze und diese letztere Linie
+zur Basis hat.” Cap. 4: Vom Gleichgewichte zwi-
+schen Kräftepaaren im Raume. Cap. 5: Vom Gleich-
+gewichte zwischen Kräften im Raume überhaupt,
+Cap. 6: Weitere Ausführung der Theorie der Mo-
+mente, Es werden hier zwei Fragen beantwortet:
+1) nach welchen Gesetzen ist das Moment eines Sy-
+stemes von Kräften im Raume, welche nicht .im
+Gleichgewicht sind, von einer Axe zur andern, auf
+welche das Moment bezogen wird, veränderlich®
+Dem Vf. eigenthümlich ist hier die Darstellung der
+Momente durch Kugelsehnen, der darauf gegründete
+Beweis für das. Parallelogramm der Kräfte, und die
+Theorie der Nullebenen und Nullpunkte. 2) Unter
+welchen Bedingungen und auf welche Weise können
+aus den Momenten des Systems für eine Anzahl von
+Axen die Momente für noch andere Axen gefunden
+werden? Der Vf. zeigt hier, dass „1) zwischen den
+Momenten eines Systems in Bezug auf zwei Axen
+nur dann eine Relation. stattfinde, wenn letztere in
+einer und derselben Geraden liegen. Die zwei Mo-
+mente sind dann einander gleich, und haben einerlei
+
+‚oder entgegengesetzte Zeichen, nachdem die Axen
+
+einerlei oder entgegengesetzte Richtungen haben.
+2?) Dass zwischen den Momenten in Bezug auf drei
+Axecn, von denen keine zwei in dieselbe Gerade fal-
+len, es nur dann, und dann immer, eine Relation ge-
+be, wenn die drei Axen in einer Ebene liegen, und
+sich darin entweder in einem Punkte schneiden, oder
+einander parallel sind. 3) Dass, wenn "die Momente
+dreier Axen von einander unabhängig sind, aus ihnen
+das Moment für jede vierte bestimmt werden könne,
+welche gegen die ersteren drei eine solche Lage hat,
+dass jede Gerade, welche erstere drei schneidet, auch
+der vierten Axe begegnet. 4) Dass bei vier Axen,
+welche rücksichtlich der auf sie bezogenen Momente
+von einander unabhängig sind, es für jeden Pınkt ei-
+ne durch ihn gehende, und für jede Ebene eine in ihr
+liegende Axe gehe, deren Moment aus den Momenten
+der vier ersteren bestimmt werden könne. 5) Dass
+bei fünf von einander unabhängigen Axen es für jeden
+Punkt eine durch ihn gehende Ebene, und für jede
+Ebene einen in ihr liegenden Punkt dergestalt gebe,
+dass aus den Momenten für erstere fünf Axen das
+Moment für jede durch den Punkt gehende und in der
+

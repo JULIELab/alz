@@ -1,0 +1,102 @@
+601
+
+u
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR .
+
+ALLGEMEINEN LITERATUR - ZEITUNG
+
+ 
+
+September 1839.
+
+ 
+
+MECHANIK.,
+
+LEeiprziG, b. Göschen: Lehrbuch der Statik von
+Aug, Ferd. Möbins u. 8. W.
+
+(Deschluss von Nr. 73.)
+
+Geviss wird das Werk dem mathematischen Publi-
+cum willkommen seyn, da nicht nur die ganze Anord-
+nung eine recht zweckmässige, und der Vortrag ein
+klarer und fasslicher ist, sondern es auch manches Neue
+enthält, was von bedeutendem Interesse seyn dürfte,
+Dass der Vf, der synthetischen Methode fast überall
+den Vorzug gab, wo eine einfache geometrische Con-
+struction zur Führung eines Beweises, oder zur Lö-
+sung einer Aufgabe hinreichend war, können wir nur
+loben, da sie, auf Anschauung gegründet, dem An-
+fänger und vielleicht nicht blos diesem , offenbar weit
+mehr zusagen muss, als die freilich elegantere analy-
+tische. Bei der Statik kommt, wie Ir, M, richtig
+bemerkt, noch der besondere Umstand hinzu, dass
+überhaupt zwischen ihr und der Geometric ein sehr
+inniger Zusammenhang stattfindet, indem nicht al-
+lein erstere der letzteren durchaus bedarf, sondern
+weil auch umgekehrt jene dieser nicht selten neue
+Sätze zuführt, die oft auch wieder für die Statik ver=
+wendet werden können. Das Werk zerfällt in zwei
+Theile, wovon der erste die Gesetze des Gleichge-
+wichtes zwischen Kräften enthält, die auf einen ein-
+zigen festen Körper wirken, Der zweite umfasst die
+Gesetze des Gleichgewichtes, welche auf mehrere
+mit einander verbundene feste Körper wirken. "Th. 1.
+Can. 1: Die allgemeinsten Gesetze vom Gleichge-
+wichte,. Cap. % Vom Gleichgewichte zwischen Kräf-
+tepaaren in einer Ebene, Der Vf. bemerkt dazu, dass
+er schon früher im 7ten Band von Creile’s Journal ge-
+zeigt habe, wie die Theorie der Paare selbstäudig
+entwickelt, und aus ihr ohne Weiteres die sechs Be-
+dingungsgleichungen für das Gleichgewicht zwischen
+Kräften, die nach beliebigen Richtungen im Raume
+auf cinen frei beweglichen Körper wirken , hergeleitet
+Ergünz. Bl. zur A. In Z. 1839,
+
+werden können, woraus sich zuletzt die drei Bedin-
+gungsgleichungen für das Gleichgewicht zwischen
+Kräften in ciner Ebene, als für einen speciellen Fall
+ergeben. Obgleich indess dieser Weg seiner Allge-
+meinheit uiid Kürze wegen sehr empfehlenswerth
+war, so glaubte dach Hr. M,, dass vielleicht der un-
+mittelbare Fortgang zu dem allgemeinsten Falle Man-
+chem für das erste Studium zu überraschend scheinen
+könnte; und er zog es deshalb vor, die auf dieselbe
+Weise behandelte Theorie des Gleichgewichtes in ei-
+ner Ebene voraus zu schicken. Als Probe der Dar-
+stellungsweise des Vfs, geben wir hier Einiges aus
+der Lehre vom Gloeichgewichte dreier parallelen Kräf-
+te in einer Ebene. Nachdem nämlich derselbe aus-
+führlich gezeigt hat, dass zwischen drei parallelen
+Kräften in einer Ebene Gleichgewicht herrsche, wenn
+1) die mittlere eine den beiden äusseren entgegenge-
+seizte Richtung hat, und 2) der Summe der äusse-
+ren gleich ist, und wenn sich 3) die äusseren umge-
+kehrt wie ihre Abstäude von der mittleren verhalten,
+so führt er so fort: „Die eben gefundenen drei Be-
+dingungen für das Gleichgewicht dreier parallelen
+Kräfte in einer Ebene lassen sich noch etwas kürzer
+und damit für die Anwendung braüchbarer darstellen. .
+Zu dem Ende werde hier, sowie auch immer in dem
+Folgenden, bei Bezeichnung eines Abschnittes einer
+Geraden durch Nebeneinanderstellung der zwei an
+die Enden des Abschnittes gesetzten Buchstaben die
+durch diese Stellung zugleich angedeutete Richtung
+berücksichtigt, so dass je zwei Abschnitte einer und
+derselben Geraden mit einerlei oder entgegengesetz-
+ten Zeichen genommen werden, nachdem. die durch
+die Bezeichnungen der Abschnitte ausgedrückten
+Richtungen cinerlei oder entgegengesetzt sind; dass
+daher immer AB +BA=0, und dass, wenn A, B, 6
+drei in einer Geraden befindliche Punkte sind, mag C
+zwischen A und B, oder ausserhalb auf der Seite
+von A, oder der Seite von B liegen, man immer
+AB +BC+CA=0, AB +BC= AB — CB = BC—
+BA = AC, u. s. w. hat, Dieses voraus bemerkt,
+
+G (4)
+

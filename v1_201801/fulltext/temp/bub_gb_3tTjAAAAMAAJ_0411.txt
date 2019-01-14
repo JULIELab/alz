@@ -1,0 +1,131 @@
+811
+
+fchauung genommen werden kann. Betrachten wir
+die fämmtlichen Bemühungen aller Zeiten, die an-
+geführten Sätze zu beweifen; fo kann ficherlich von
+allen Verfuchen diefer Art keiner die Benennung
+Beweis erhalten; es fcheint uns vielmehr,ebeh daraus
+zu erhellen, dafs weder der eine noch der andere
+jener Sätze zu den Theoremen gezählt werden dürfe.
+Abgefehen von der Materie und der Form des Be-
+weiles fcheint er uns fcehon darum rein unmöglich,
+weil das Hindernifs, welches fich dem Beweife die-
+fes Satzes Aus gendellt der Mangel eines deutlichen
+(nicht blofs klaren) Begriffs von der geraden Linie
+it, und ohne denfelben nothwendig Alles, was man
+als Beweis für diefen Satz aufliellt, aur eine blofse
+Verdeutlichung feyn kann, Wir dürfen jedoch nach
+unferer Anfıcht defshalb diefen Satz noch nicht aus
+dem Gebiete der Geometrie verweifen. Denn da
+ihn alle Menfchen nach der ganzen Einrichtung ihres
+Verfiandes nicht anders als wahr denken können, fo
+muls er feine Evidenz fchon mit in die Willenfchaft
+bringen, und eben daher mufs Alles, was wir zum
+Beweife auch anführen mögen, fchwächer feyn, als
+die fchon vorhandene Ueberzeugung. Wir nehmen
+diefe Ueberzeugung von feiner Wahrheit als ein in
+der Natur des men({chlichen Verfandes gegründetes
+Willen, als eine Aeufserung der Denkkraft an. Ab-
+firahiren wir von folchen Gründen, und nehmen
+diefen Satz als Grundfatz an, fo verliert auch dann
+die Wi(fenfchaft von ihrer Strenge durchaus nichts,
+weil alle auf ihn Go ezie Wahrheiten alsdann nur
+hypothetifche Realität bekommen, diefe aber in der
+reinen Mathematik genügt, und die Realität ill
+welche wir fuchen, ’eichen wir aber von dem bey
+allen alten und den mehrfien der neuern Geometern
+angenommenen Grundfatz ab, ifi es alsdann auch fo
+einfach möglich, für einen Bogen geömetrifch zwey
+Tangenten anzugeben, wovon die eine gröfser, die
+andere aber kleiner als der Bogen ii? Dürfen wir
+endlich ohne diefen Grundfatz an Rectihcation krum-
+mer Linien denken?
+
+Dritter Grundfatz: „Was fich beweifen lälst,
+mufs durch die Anwendung gleichartiger Gegen-
+fünde bewiefen werden, oder der Beweis ili unzu-
+Kfüg.” ‚Der Vf. findet den Beweis für die Parallelen-
+theorie unzuläfbg, welcher Gch auf den durchaus
+
+leichen Abfiand diefer Linien gründet, weil Ab-
+nd und Lage nicht gleichartig feyen. Diefen
+"Grundfatz fcheint auch lides gehabt zu haben,
+welcher weit entfernt it, das Schwierige dieler
+Theorie zu verfchleyern, vielmehr. daffelbe durch
+N Auflelhung feines 11ten Grundfatzes offen dar-
+egt.
+® Fierter Grundfatz: „Jeder Calcül mnfs auf fe-
+fien klar zu erkennenden Grundfätzen beruhen; jede
+Gröfse, welche. der Calcül behandelt, mufs voll-
+fändig vorhanden fe 1Iß in einem Calcül eine
+Gröfse nicht vollländig aufgenommen; fo kann das
+Refultat der Rechnung unmöglich wahr feyn; und
+wäre das Nefultat dennach ein wahres, fo müfste die
+“Vorausfetzung;, jene Gröfse fey unvollGändig gewe-
+
+ERGÄNZUNGSBLÄTTER ZUR A. L.Z.
+
+812
+
+fen, fafch feyn; folglich wären die Principien des
+Calcüls felbfi unrichtig, weil fe etwas Unwahres als
+wahr annehmen, Auf diefen vierten Grundfatz (iützt
+der Vf. feine Theorie der Differential- und Integral-
+rechnung. Den Gang, welchen Hr. 5. wählte, giebt
+er S. X wie folgt, an: „Die Theorie der iöfse
+ündet fich auf die Darlfiellung der Gröfse durch
+re Dimenfhonen, Diefem Grundfatz entfprechend
+wird die Combination der Gröfsen und die Zufam-
+menfetzung der Gröfsern aus ihren Dimenfionen ge-
+Jehrt,” Theil I, Abfchnitt I. ($.1—26) führt die
+Veberf(chrift: Grundbegriffe. Wir theilen daraus
+folgendes mit: ($. 1.) Gröfse ifi, was zunehmen
+und abnehmen kann, ($. 2.) Die Größe kann von
+einer Seite abnehmen, bis Ge ganz verfchwindet,
+oder zu Null wird, fe kann von der andern Seite
+wachlen, bis kein Wachlen mehr denkbar il, als-
+dann wird fe unendlich. Keine Gröfse it an Lch
+Null, fondern Ge wird Null. Keine Gröfse if an
+fich unendlich, fondern fie wird umendlich: denn
+wäre eine Gröfse an fich unendlich, fo müfste das
+Unendliche felbf’eine Gröfse feyn, oder gröfßfser und
+kleiner werden können, welches dem Begriff des
+Unendlichen widerfpricht. — Wir erinnern uns
+hierbey an das, was Euler (Inf. Calc, Diff. Pars I.
+Cap. 3. $. 72 fqq.) fo klar ausführt, und auch Lam-
+beris (Architecton. $. 903 fag,) müflen wir geden-
+ken, welcher bekanntlich die DeßGnition: Unend-
+lich ill das, was nicht gröfser werden kann, tädelt,
+und als Grund feines Tadels auf den Sinus und rech-
+ten Winkel hinweifet. — ($. 4.) Das Element der
+Grüße if die Gröfse in dem Zuliande, welcher als
+ihrem Verfchwinden unmittelbar vorhergehend ge-
+dacht werden kann, Das Element in alfo eine
+Größe und nicht Null,. kann aber feiner eignen
+Gröfse nach, gar nicht angegeben werden. Das Ele-
+ment der Gröfße ilt unveränderlich. ($. 10.) Das
+Minimum der Gröfse ifi der Zufßand derfelben, wo
+fie nicht mehr abnehmen kann, allo o. Das Maxi-
+mum der Gröfse if der Zuliand, wo fie nicht mehr
+zunehmen kann, alfo », Das Minimum einer ab-
+hängigen Gröfse if der kleinfie Werth, den fie bey
+ihrer Veränderung erreichen kann. Das Maximum
+einer abhängigen Gröfse, if der gröfste Werth, den
+fe bey ihrer Veränderung erleiden kann. ($. 11.)
+Eine Gröfse hat fo viele Dimenfionen oder Abmef-
+fungen,, als Fälle für fie möglich find, wo Ge, als
+unabhängig betrachtet, null oder unendlich werden
+kann. ($. 23.) Wenn eine Gröfse null wird, fo wird
+jede ihrer Dimenfonen null. Aus dem diefem Lehr-
+fatze beygefügten Beweife erhellt aber nur: Wenn
+eine Gröfse null wird, fo kann jede beliebige Di-
+menfion = 0 genommen werden, Fine gleiche Erin-
+nerung mufs bey $.25 gemacht werden, wo es heifst:
+Wenn eine Gröfse unendlich wird, fo wird jede
+ihrer Dimenfionen unendlich, ($. 26.) Wenn in
+ar + bet ca-igyt + daeigl,y=w wird,
+fo if die ganze Gröfse noch ds—- 7x3, If diefs nicht
+der Satz: Gegen ein Unendliches höherer Ordnung
+verfchwindet das Unendliche der niedern Ordnung?
+" “ % “ + ’ & “* fa
+

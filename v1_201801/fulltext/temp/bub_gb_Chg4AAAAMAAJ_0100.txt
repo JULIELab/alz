@@ -1,0 +1,130 @@
+159
+
+schwindet, und positiv ist; so wird die gegebene
+Function für = —4 ein Minimum. . Für = —13 ist
+aber y = — 3}, und dieser Werth ist also cin Minimum
+der gegebenen Function yz, Andere Minima oder Maxi-
+ma dieser Function gibt es nicht, weil die Gleichung
+2r+3=0 nur die eine reelle Wurzel —3 hat,”
+
+Die nun folgenden Aufgaben aus der Geometrie
+sind ebenso passend gewählt, als schön gelöst, Cap.
+12: Von der Verwechslung oder Vertauschung der
+
+unabhängigen verimderlichen Grösse, Cap. 13: Einige’
+
+der wichtigsten Anwendungen der Differentialrech-
+nung auf die Theorie der in einer Ebene liegenden
+Curven oder der sogenannten Curven von einfacher
+Krümmung. Cap. 14: Differontialformeln für ebene
+und sphärische Dreiecke, Ein besonders interessan-
+tes Capitel, da es die Anwendung der Differential-
+rechnung auf die sogenannte Fehlerrechnung für ebe-
+ne und sphärische Dreiecke enthält, Wir theilen des-
+halb auch aus diesem Capitel Einiges mit: „Zunächst
+kommt es darauf an, die allgemeinen Fundamental-
+formeln der Fehlerrechnung der (ebenen) Geometrie
+zu entwickeln. Zu dem Ende differentüre man die aus
+der ebenen Trigonometrie bekannte Gleichung a? =
+bb +c?—2be cos A.
+Dadurch erhält man
+ad = (b— cos A)36 + (c— beos A)de +besin AI.4,
+oder, weil bekanntlich acosC+c cos A = b, und & cos
+A+acosB=c ist,
+ada = acos (db + a cos Bde + be sin AZ A.
+Differentärt man nun ferner die ebenfalls aus der ebe-
+nen Trigonometric bekannte Gleichung a sin B=6
+sin A, so erhält man
+sinBda + acos BOB = bevs AdA + sin Ad,
+oder sin Ba — sin Ad%b = beos AdA— a cos BB.
+Durch gehörige Vertauschung der Buchstaben in
+den beiden gefundenen Gleichungen erhält man nun
+überhaupt die folgenden Gleichungen:
+(ada = acos (8b + a cos Bc+ besin Ad Ad
+1. po = bcos Adc + bceosCda + acsinBaß
+ede = ccos Ba + ccos Adb + absinC3C
+jdn —8in AD = bo AdA-— a cosBOB
+2. (sin Cab — sin Bdc = ccos BOB-— bb cos C3C
+hin Ade— sinCda = acos CC — c cos AA.
+Nimmt man zu diesen Gleichungen die aus der
+Gleichung A4+B + C=n2 sich unmittelbar ergebende
+Gleichung
+3.34+38+30=0;
+so hat man die Fundamentalformeln der Fehlerrech-
+nuug der ebenen Trigonometrie, die wir nun auf alle
+Fälle, welche vorkommen können, anwenden wollen.”
+Wir wollen jedoch nur die Anwendung für einen
+
+Num, 24. MÄRZ1839,
+
+190
+
+Fall hier mittheilen, nämlich wenn a, B, C gegeben,
+und A, 6, c gesucht werden. „Aus 3 und 2 erhält man
+4. 8 A= —B—3C
+5. 95 sin Boa—benss AdA+acos BOB
+
+sin A
+6. 3 _sinC3a—ccos ABA+acos CC
+«bes sin A
+
+Nach diesen Formeln berechnet man zuerst 3.4, und
+
+dann d& und de. Uehrigens lassen sich die zweite
+
+und dritte Formel auch unter der Form
+
+be sinBda + (600s A he BOB + ccos ASG
+5a
+
+ae sinCaa + (ccos Ad + acosC)2C + c cos AdB
+U U aim EA
+
+oder, weil bekanntlich & cos A + a cos B = c, und
+
+"ccos A + acosC= bist, untor der Form
+
+7. ap Bda+ c3B +5 cos A3C
+sin A
+
+sin Cda-+ 43C+ccos ADB
+
+8, 3 c = Sind
+darstellen, Die Verhältnisse der Fehler 85, de zu
+den Seiten Ö,c lassen sich auf die folgende bequeme
+
+Art darstellen, Weil
+sinB bb sinG_e., .
+an d*u? da 1st, 80 Ist
+ha c3B N
+Ye a dt ct ADC,
+cda bC
+0 ua? ct 49 B,
+und folglich weil
+_5sinC __ Csin Ba
+BC
+db da sinC3ß .
+57 a Ten AsinH TH 42C,
+dc Da sinB3aC
+en sin AsnC* *4?B,
+db da sinCaB
+oder 9, 7= @ *anBsin(BrC) B+C) 30,
+de da snBIC
+
+10. at + sin GCsin(B+C) — (D-4+0)98.
+
+Setzt man also der Kürze wegen
+
+sin C sin B Ha
+sinBsin(B+C)" My z Csin(B+C) '
+cut (B+C) = N;
+
+80 ist
+ab An
+11, 1 + M3IB—N3C.
+
+12. 2 = — +M'3C—N?B.
+
+Zu bemerken ist hierbei noch, dass in allen vorherge-
+henden Formeln 2 B und ©C als in Theilen des Radius;
+

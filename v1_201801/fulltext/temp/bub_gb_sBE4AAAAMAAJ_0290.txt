@@ -1,0 +1,68 @@
+\Y .
+485 Num. 61. MÄRZ 1810. 436 .
+wohl des Orts als der Zeit des Drucks, Aber auf m»wm willen, zu vernichten fein Wille und feine Schul-
+Jem Titelblatte der Brevis commonef. ift angegeben: digkeit gewefen fey, über feine Belenklichkeit den
+Neofladii Typis Nicolai Schrammii 1607. Der Canon Sieg davon getragen. Dazu komme noch die Verle-
+enthält, wie der im Op, Palar, befindliche 554, die genheit des Buchhändlers, welcher jenes üblen Ge-
+brevis commonefactio 19 Foliofeiten. rüchts wegen falt gar keine Exemplare des Opus Palar.
+In der commonef. handelt Pirifeus (S, 3. u. 4.) von habe abfetzen können, Pirtifeus habe allo dem Kur-
+den Verdienften des Rhäticus um die Trigonometrie, fürften den Antrag zum Aufwande der Kolten’ auf die
+und von der Art, wie er bey der Ausarbeitung des Ca- Verbellerung gemacht und die Arbeit felh(t über-
+nons zu Werke gegangen fey. Rhäzicus habe nämlich ‚nommen.
+befonders gefucht, die Zahlen der erften Reihe, d. i, Hierbey hat fich nım Pirifeus fo verhalten. Da er
+lie Sinus und Colinus, weil diele der Grund aller einfah, dafs alle Fehler in dem Canon des Rhi4sicus da-
+ibrigen Yeyen, in zehn Decimalftellen genau zu er- her rührten, dafs die Sinus auf zehn Decimal(tellen,
+alten; und folche alfo für den Halbmefler = 1000 wenn man die ihnen anhängenden Brüche vernach-
+jillionen berechnen laffen. Die Zahlen der zweyten lällgte, zu klein wären, um daraus die Hypotenufen
+nd dritten Reihe, d. i., die Secanten, Tangenten, und Bafen der dritten Reihe herzuleiten, auch Sinus
+’ofecanten und Cotangenten feyn hieraus durch die. in funfzehn Decimalftellen noch nicht vor allen Feh-
+
+’roportionsfätze lern fhcherten, fo liefs er alle Sinus der erften Reihe
+fin A:col A = rad : cot A bis zur ‚35ften Minute auf 20 Decimalftellen aus den
+fin A: rad = rad: cofec A. fchon früher von ihm gefundenen principiis finuum be-
+
+ıergeleitet worden. Bey diefem Gefchäft habe Rh4- rechnen *), und leitete aus ihnen die Hypotenulen
+jicus die Zahlen der erften Reihe für völlig genau an-, und Bafen der dritten Reihe bis zu vorgemeldeter
+efehen, obgleich er fehr gut gewulst hätte, dafs fie 35;ften Minute ab, Hernach begnügte er fich mit den
+ıIches nicht wären, und daher die ihnen etwa noch ihm von Rhätieus überlieferten Sinullen in 15. Deci-
+ızuhängenden Brüche VA IE Es entftehe mallftellen. Indels berechnete er nicht alle Hypotenu-
+[Co die Frage, ob diefßs ohne Nachtheil der Trigono- fen und Bafen auf dem gewöhnlichen Wege, fondern
+vetrie gefchehen möge. Pizifeus zeigt nun (S, 5.), nur einige, aus welchen er dann durch die Vortheile,
+als der Fehler, welcher hieraus bey der cos. von 10‘. welche in der zweyten Ausgabe feiner Trigonometrie
+rwächlft, noch nicht 0,001‘ betrage. So unbeden- erklärt find **), die übrigen ableitete. Vermittel(t
+nd fey der Fehler in dem Canon des Rhiäzicus, auch der erlten, zweyten, dritten und folgenden Differen-
+o er am gröfsten (ey. Und doch habe ein fo grofser zen verficherte lich dann Pirifeus von der Richtigkeit
+‘:hler nur im Anfange der dritten Reihe Statt, nach- der Refultate feiner Rechner. Er glaubt, dafs ibm fo
+x nehme er immer mehr ab, und verfcehwinde bey kein Fehler, aufser etwa in der Endziffer, habe ent-
+ım 7ten Grade beynahe völlig. Wenigltens gehe er gehen können. Diele Verbeflerung aber dehnte er
+cht über die beiden letzten Zifern hinaus, Allein nicht über den vollen 7ten Grad oder bis S. 86. des
+n diefe bekümmere fich keiner, oder brauche fie zur Canons aus, und zwar defswegen, weil von da oder
+echnung, aufser wer vorfätzlich Zeit verlieren wolle. von S. 87. an alle Hypotenufert und Bafen aus Sinuller
+der zweyten Reihe aber (ey aufser einigen wenigen von 15 Ziffern deducirt, allfo völlig; genau feyn. Und
+Jlen gegen das Ende des Canons nicht einmal in den was die Hypotenufen und Bafen der Zehner von Se-
+iden letzten Ziffern der Fehler von einer Einheit, cunden betreffe, ob Ge gleich aus Sinuflen von 10
+wifs kaum von ein paar Einheiten enthalten. Piri- Ziffern abgeleitet wären, fo erfırecke fich doch der
+5 habe alfo lange angeftanden, ob es rathlam fey, etwanige Fehler in denfelben nie über die letzte, oder
+” die Verbeflerung jener Fehler Mühe und Koften höchlftens vorletzte Ziffer hinaus, Die Mühe der Ver-
+wenden. Endlich habe das allgemein verbreitete beflerung würde alfo dort übel angebracht, und der
+rücht von den in dem Opus Palarinum enthaltenen ‚neue Druck des ganzen Canons nicht zu erlangen ge-
+
+Jern, welches fchon um der Benennung: Palari- wefen feyn ***). — So weit”Pirifcus Bericht von der
+s Aus-
+
+°) Pieifeus hat nachher fowohl die prine/pia finuum als die Sinus und Cofinus der Vielfachen von 10, 30 und 50 Secunden,
+welche in den erften 35 Minuten des Quadranten enthalten find, in feinem The/fzurus mathematicus bekannt gemacht,
+M. {f. die Nachrichten Bernoulli’s und Küftner's davon.
+-*) Diefe Vortheile liegen in den S. 65— 69. der zweyten Ausgabe von Pitifeus Trigonometrie befindlichen Sätzen -
+tang (45° + A) —tang (45° = A)=2tang 24
+tang 2 A-+tang (45° — A) = fec24
+tang 2 A-+fec2A = tang (45° +4)
+oder den ihnen gleichgeltenden
+2cot 24-+tang A=cot A
+‚  cofec24-—cot2 A=tang A
+' cofec 1 A-+cot 2 A==cot 4. |
+Je zwey derfelben Fchliefsen allemal den dritten in fch,
+"*) Es find nämlich nur die erften 43 Blätter des Canons umgedruckt, das Uebrige aber ungeändert gelaffen worden. Diels
+zeigt Gch anch an dem fchlechteren Papier, worans in dem von Piti/ftus verbellerten Canon jene erften 43 Blütter befte-
+hen, der Reft ift eben fo gutes Papier, wie in dem beym Op, Palat,, welches ich vor mir habe, beßndlichen Canon.
+

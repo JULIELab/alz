@@ -1,0 +1,106 @@
+Ebene zugleich enthaltene Axe gefunden werden kön-
+ne. 6) Dass aus den Momenten für sechs von einan-
+der unabhängige Axen das Moment für jede siebente
+gefunden werden könne.” Cap. 7: Von den Mittel-
+punkten der Kräfte. Cap. 8: Von den Axen des
+Gleichgewichtes, Cap. 9: Von-der Sicherheit des
+Gleichgewichtes. Cap. 10: Von den Maximis und
+Minimis beim Gleichgewichte, Der Vf. spricht sich
+selbst darüber so aus: „zwischen dem Zustande des
+Gleichgewichtes in Bezug auf Sicherheit und den Ki-
+genschaften des grössten oder kleinsten Werthes ei-
+ner veränderlichen. Grösse findet eine grosse Aehn-
+lichkeit statt. Dies leitet auf die Vermuthung, dass
+€s eine Function der die Kräfte und deren Angriffs-=
+punkte bestimmenden Grössen gebe, welche bei'm
+Gleichgewichte ein Maximum oder ein Minimum ist,
+Die Entwirckelung dieser Function, deren zweites
+Differential die Merkmale für die Sicherheit oder Un-
+sicherheit abgiebt, ist in dem letzten Capitel des er-
+sten Theiles enthalten. Das erste Differential dersel-
+ben Function muss zufolge der Natur der Grössten
+und Kleinsten Null seyn, welches zu dem in diesem
+Capitel gleichfalls behandelten Princip der virtuellen
+Geschwindigkeiten führt. Die Herleitung einer noch
+andern Function, die bei'm Gleichgewichte cbenfalls
+ein Maximum oder ein Minimum ist, und die für den
+Fall, dass die Kräfte durch unendlich kleine Linien
+ausgedrückt werden, bereits von Gauss aufgestellt
+worden, macht den Beschluss des ersten Theiles, ”
+Der zweite Theil zerfällt in acht Capitel, und be-
+trachtet das Gleichgewicht an mehreren mit cinander
+verbundenen Körpern, Cap. 1: Vom Gleichgewichte
+bei zwei mit cinander verbundenen Körpern. Der Vf.
+zeigt, dass zwischen Kräften, welche auf zwei in ei-
+nem oder in mehreren Punkten mit cinander verbun-
+dene frei bewegliche Körper wirken, nur dann, und
+dann immer, Gleichgewicht herrsche, wenn sich in
+den Verbindungspunkten Gegenkräfte von solcher In-
+tensität anbringen lassen, dass an jedem der beiden
+Körper besonders zwischen den ursprünglichen und
+den hinzugefügten Gleichgewicht statt findet; oder,
+was auf dasselbe hinauskommt: wenn die Kräfte an
+dem einen der beiden Körper sich auf andere reduci-
+ren lassen, deren Richtungen die Begegnungspunkte
+treffen und daselbst bei Begegnungen von Flächen
+oder Kanten auf diesen Flächen oder Kanten normal
+sind , und wenn die Kräfte an beiden Körpern ebenso,
+als wenn sic auf einen cinzigen wirkten, einander das
+Gleichgewicht halten. Ist der eine von beiden Kör-
+pern unbeweglich, £o ist es für das Gleichgewicht
+
+Num. 76. SEPTEMBER 1839.
+
+606
+
+hinreichend und nothwendig, dass die erste der zwei
+letzteren Bedingungen in Bezug auf den howeglichen
+Körper erfüllt wird. Der Vf, geht dann über zu der
+Lehre vom Gleichgewichte an einem nicht völlig frei
+beweglichen Körper. Cap. 2: Vom Gleichgewichte
+bei einer beliebigen Anzahl mit einander. verbundener
+Körper. Cap. 3: Anwendung der vorhergehenden
+Theorie auf einige Beispiele, So werden die Auf-
+gaben gelöst: die Bedingungen des Gleichgewichtes
+zwischen Kräften zu finden, welche auf vier Kugeln
+«, 2, yı 9 wirken, von denen sich « und #, f und y,
+yund d, d und @ berühren; — die Bedingungen des
+Gleichgewichtes zwischen vier Kräften zu finden,
+welche auf die Ecken eines Vierecks wirken, dessen
+Seiten von unveränderlicher Länge, dessen Winkel
+aber veränderlich sind; u, a. m. Cap. 4: Von den
+Bedingungen der Unbeweglichkeit. Der Vf. benutzt
+die hier gewonnenen Resultate für die Geometrie, in-
+demersagt: „Die Art und Weise über die gegenseitige
+Beweglichkeit mit cinander verbundener Körper zu
+entscheiden, kann insbesondere dazu nützen, um bei
+irgend einer geometrischen Figur zu bestimmen, wie-
+viel Stücke derselben gegeben seyn müssen, um dar-
+aus alle übrigen finden zu können. Denn nur dann,
+wenn von einander unahhängige Stücke der Figur in
+so grosser Anzahl vorhanden sind, dass daraus die
+übrigen sich bestimmen lassen, haben sie auch eine
+bestimmte, also unveränderliche Lage gegen eman-
+der. Reicht aber die Anzahl der gegebenen Stücke
+zur Bestimmung der übrigen noch nicht hin, so bleibt
+auch ihre gegenseitige Lage, zum "Theil wenigstens,
+unbestimmt und veränderlich. Finden sich daher, in-
+dem man Kräfte auf die Figur wirken lässt, und die
+gegebenen Stücke von unveränderlicher Grösse und
+Form annimmt, nur sechs Bedingungen des Gleich-
+gewichtes, oder drei, je nachdem die Figur einen
+Raum von drei Dimensionen einnimmt, oder auf eine
+Ebene beschränkt ist, so sind diese Stücke zur Er-
+mittelung der übrigen hinreichend,” Cap. 5: Von der
+unendlich kleinen Beweglichkeit. Anwendung auf Be-
+stimmung der Maxima und Minima der Figuren,
+Cap. 6: Vom Gleichgewichte an Ketten und an voll-
+kommen biegsamen Fäden. Cap. 7: Analogie zwi-=
+schen dem CGleichgewichte an einem Faden und der
+Bewegung cines Punktes, Interessant ist hier die
+Ucebertragung einiger Sätze aus der Dynamik auf das
+Fadengleichgewicht, und die Ableitung dreier ent-
+sprechenden Sätze, Cap. 8: Vom Gleichgewichte
+an clastischen Fäden, Druck und Papicr sind lo-
+benswerth, 5.
+

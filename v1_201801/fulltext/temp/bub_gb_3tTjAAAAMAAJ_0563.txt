@@ -1,0 +1,140 @@
+1115
+
+Aus diefen beiden Gleichungen findet man leicht
+die Werthe von x und y, und aus diefen die Wetr-
+the von & und «. Alles Uebrige ilt in ihnen bekannt,
+oder kann als bekannt angenommen werden. Nun
+läfst fich auch aus den vier erlien Gleichungen. der
+Werth von $' bellimmen:
+findet man auch aus den vier letzten Gleichungen
+die Werthe von 5“, 8 und «”, u. f.f.— Da unfre
+Erde aber ein Sphäroid if, fo können auch auf ihrer
+Oberfläche die Punkte A, B, C, ...., durch die
+entwickelten acht Gleichungen nicht vollkommen
+befimmt werden. Die hierdurch entflehenden Feh-
+ler Gnd zwar unbedeutend, Ge laffen Geh aber ver-
+meiden. Anfiatt die Seiten s, s, s”, ...., mittelft
+des mittlern Krümmungshalbmeflers der Erde in
+Bogenmaafs zu verwandeln, braucht diefe Verwand-
+Jung nur mittelft derjenigen Krümmungshalbmeffer
+vorgenommen zu werden, welche den Seiten auf
+dem Erd - Ellipfoid befonders zukommenr Aus die-
+fem Grunde lehrt der Vf, unter Nr. 5., den Krüm-
+mungshalbmeffer der Seiten s, s’, s", ...., auf einem
+Ellipfoid zu befüimmen. Sehr wahr fagt der Vf, in
+Nr. 4., dafs diefe Methode, Dreyeckspunkte auf dem
+Erd- Ellipfoid zu befüimmen, alle mögliche Schärfe
+und Genauigkeit gewähre. Da von diefer Schärfe
+und Genauigkeit fehr wenig aufgeopfert wird, fo
+‘gewährt es in den meifien Fällen Vortheil, wenn
+man, um die fphärilchen Dreyecke als geradlinichte
+berechnen zu können, auch noch den Legendre-
+fchen Satz mit in Verbindung bringt. Es ili nicht
+zu erwarten, dafs alle Lefer diefer Abhandlungen
+den Legendre’fchen Satz kennen, und es wäre daher
+wünfchenswerth gewefen, dafs Hr. B. denfelben kurz
+vorgetragen hätte. Die durch Anwendung diefes
+Satzes gefundnen Gleichungen laffen Gch auf eine
+ähnliche Weile, wie die Gleichungen unter Nr. 2.,
+leicht auflöfen. — Nr. 5. zeigt der Vf., dafs, wenn
+die Lage aller ’unkte 5, C, D, ...., gegen den
+Anfangspunkt „1 gefunden, und wenn defllen geo-
+
+aphifche La kannt if, es auch leicht fey,
+
+je geographiflche Lage von jenen Punkten mit
+Rücklicht auf die Ellipticität der Erde zu befüm-
+men. Damit aber nichts zu wünfchen übrig bleibe,
+lehrt er in Nr.6., wie bey der Beflimmung der Polar-
+coordinaten, wegen der fphäroidifchen Gelalt der
+Erde, auch an die Winkel, welche die geodätifchen
+Linien bilden, eine kleine Correction anzubringen
+fey, damit das fphäroidilche Nreyeck eben fo als
+- ein fphärifches betrachtet werden könne, wie nach
+dem Legendre’fchen Satze ein fphärifches als ein
+geradlinichtes angefehen wird, Um diefe Correction
+zu finden, confiruirt der Vf. ein fphäroidifches Drey-
+eck, deffen Seiten a, b, c, und deren gegenüber-
+ftehende Winkel a, 8, y. Um das Ellipfoid befchreibt
+er darauf mit dem Aequatorial- Durchmeffer a= 1
+eine Kugel, und auf diefer ein Dreyeck von denfel-
+ben Seiten a, b, c. Die Winkel in diefem fphäri-
+fchen Dreyecke find nun a+de, #+d8, y+dy.
+Für die Correstion da findet der Vf. eine Gleichung,
+aus welcher fich-die von v. Be/fel aufgeliellte Nähe-
+
+ERGÄNZUNGSBL R ZUR A L.Z.
+NGSBLÄTSER ZU
+
+Durch’ daffelbe Verfahren
+
+1116
+
+rungsformel ‘ableiten läfst. Die Beffel’fche Formel
+}enthält die Bedingung, ühter welcher die Correction
+
+DR oder negativ ausfällt, Nr. 7. wird zum Be-
+CMS noch ra die on eCllonen gehandelt, die
+an der achteten Polhköhe und dem Azintu
+nes auf der Erde  elenehan a
+fphäroidifchen Gelialt, anzubringen find, HierDey:
+ommt der Vf, zu dem fehr wichtigen Ref(ultate, „da
+man in allen vorkommenden Fällen, die ohnehin
+durch unfre Infiramente und Sinnenfähigkeit becingt
+find, die bey geodätifchen Vermeffuhgen beobachteten
+Winkel der Dreyecke’ als fphärifch anfehen könne.”
+Il. „Die griganenetri/chen Ehen af] engen.
+Die AbGcht des Vfs. bey  diefer Unterfuchung if:
+eine allgemeine Grundformel. für. die trigonometri-
+fche Toben penimmun eines irdifchen. .Gegen(iandes
+zu finden, welehe höchfi einfach und der Anwendung
+der Logarithmen fähig ifl,, und aus welcher alle
+übrigen Fälle, die fchon in diefer Grundformel in-
+volvirt find, auf eine einfache Weife abgeleitet wer-
+den können, Es (ey h die zu melfende Höhe eines
+Gegenüandes, C delfen Scheitel, D deflen Fufs,
+a die gemeffene Balısy, A und B dezen Endpunkte,
+die fowohl unter fch, als auch mit Y.nicht in einer-
+ley Horizont liegen; die nach unten verlängerte h
+ehe durch den Punkt X, welcher mit „A in ginerley
+Iorizont liegt. Man ziehe die Linjen „AB, AC, AD,
+BC und die Horizontale AE, und fetze < ABC = a",
+<BAC=u, <CAD=@, < DAE= q’. Hiernach if
+
+a Sin «' AC . Sin
+ACC u ray und daher CD =h = tag
+
+a Sin @ Sina‘ 41.
+
+= Top Sala)? eine Gleichung, durch welche
+der Vf, die aufgefiellte Aufgabe genügend 1öft.‘ Den
+Befchlufs diefer Abhandlung macht eine Unterfu-
+chung über den Eintllufs, welchen bey einer Höhen-
+vermeffung Kleine, unyvermeidliche Beobachtun
+fehler auf das Refultat haben, um dadarch im AlN-
+gemeinen die bey einer Vermeflung günfiügfien Um-
+iände zu finden. Der Vf. betrachtet in diefer Abfcht
+zuerfi ein rechtwinklichtes Dreyeck, und darauf ein
+fchiefwinklichtes, in welchen er den Seiten und
+Winkeln die ihnen zukommenden Incremente oder
+Decremente giebt. Vermittelfi der Lehre vom Maxi-
+mum und Minimum gelangt er alsdann zu dem ge-
+fuchten Refultate,
+
+1. „„Aufiöfung zweyer für die praktifche-Geo-
+metrie wichtigen Aufgaben, mittelft der analytifchen
+Geometrie,” Aufg. 1. „Drey Punktea, b, c find der
+Lage nach gegeben, und von einem vierten Punkte
+A, der mit den vorigen in derfelben Ehene liegt,
+find die beiden Winkela.A'b = «, b.4'c = f gemeflen:
+man foll die Lage diefes vierten Punkts 4’ befiimmen.”
+
+Aufg: 2. „Kinen Punkt D von der Befchaffen-
+heit zu finden, dafs fich die von ihm auf die Seiten
+BC und AB eines Dreyecks ABC gefälltten Perpen-
+dikel Da, Db eben fo, wie die Abfiände diefes Punkts
+von den Scheitelpunkten C und A, d. i.'wie DC zu
+UA verhalten.” — Die Wichtigkeit diefer ben
+
+v -
+

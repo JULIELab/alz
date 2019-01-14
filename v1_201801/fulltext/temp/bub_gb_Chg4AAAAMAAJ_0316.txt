@@ -1,0 +1,125 @@
+621
+Prof. Dr. Huschke. 12) Die Grossherzoglichen medi-
+zinischen praktischen Anstalten (nämlich die ambu-
+Jatorische Klinik, das Landkrankenhaus, das Entbin-
+dungs - und Hebammeninstitut , so wie das Landes-
+irreninstitut‘) vereinigt mit vielen durch die Erfahrung
+geprüften Bemerkungen über den allgemeinen Gesund-
+heitszustand zu Jena und den daselbst herrschenden
+Krankheitscharakter , von den Geheimen Hofräthen Dr.
+Stark T. und Suckow. Endlich 13) über die Klinik des
+Hu. Geh. Hofrath Dr. Kieser. — B’) Die Umgegend von
+Jena betreffend, und zwar 1) das Topographische,
+nämlich die allgemeine Physiognomie des merkwürdi-
+gen jena’schen TÄhles und die umliegenden Dorfschaf-
+ten , vom Pastor Schmid; 2) das Klima, vom Prof, Dr.
+Schrön; 3) die Mineralien und Gewässer, vom Prof,
+G. Suckow; erstere bestechen besonders in kohlensau-
+ren und schwefelsauren Erdsalzen (Kalkspath, Bitter-
+spath, Gyps, Cölostin u. s. f.) so wie in Quarz, und
+zwarin Individuen der Flötzmuschelkalk- , der Flötz-
+dolomit - und Flötzsandformation. 4) Die Profogaea
+jenensis , nämlich die Architektonik der jena’schen Ber-
+ge, das Petrefaktologische und Geologische ( mit ei-
+nem idealen, geognostischen Profile ), und 5) die Flora
+gjenensis so wie 6) die Fauna jenensis , vom Heraus-
+geber, und zwar die Fauna mit dem in der That recht
+dankenswerthem Beistande des Pastor Brehm, des Pa-
+stor Krause und des Prof. Dr. Thon. Endlich ein
+
+P[a,) Azy...AT An LA 5,..06%
+
+t
+
+Num. 78. SEPTEMBER 1839.
+
+622
+
+treues, vom Pastor Schmid verfertigtes Sachregister
+erleichtert den Gebrauch dieser musterhaften Topogra-
+phie,
+
+Der Verlagshandlung gebührt wegen des correk-
+ten Druckes, des weissen Papieres und der fast neuen
+Lettern ein ausgezeichnetes Lob,
+
+MATHEMATIK.
+
+FazgısurRG , b. Gebrüder Groos: Die Lehre von den
+Combinationen nach einem neuen Systeme bear-
+beitet und erweitert von Dr. Ludwig Oettinger
+u. 8. W.
+
+(Beschluss von Nr. 77.)
+
+Die zweite, Ende vorigen Stücks angeführte
+Methode rührt übrigens nicht, wie der Vf. zu
+glauben scheint, von Rothe her, sondern ist be-
+kanntlich schon in Cramer's Introd, & Tanalyse des
+courbes zu finden; Rothe hat nur einen strengen Be-
+weis dazu gegeben. Wir können nicht umhin, bei die-
+ser Gelegenheit auf eine vortreffliche Abhandlung des
+Hn, Dr. Reiss aufmerksam zu machen, die neulich in
+der Correspondance mathematique von Quetelet er-
+schienen ist und unter vielem anderen auch eine schr
+elegante Darstellung der "Theorie der Elimination ent-
+hält. In $. 33 bespricht der Vf. in der Kürze die Ver-
+setzungen mit beschränkten Wiederholungen, die
+durch Verbindung der Gruppen verschiedener Ele-
+mentenreihen erzeugt werden, Es ergiebt sich
+
+$ . k,}
+„5 Gig 6a000444C 5 „JO
+
+Mt Cm a) Co—h—k)1 3
+
+AR AT
+wobei jedoch wieder die bereits früher gemachte
+Bemerkung in Beziehung auf den Fall, wenn
+m<h, o<h+Kist, stattfindet. In $. 34 finden
+sich die Versetzungen mit Wicderholungen, welche
+
+aus verschiedenen Elementenreihen gebildet werden.
+
+Es werden hier zwei Arten unterschieden , nämlich
+1) solche Versetzungen, in welchen die Elemente ei-
+ner jeden Reihe mit den ähnlichen und unähnlichen
+der übrigen Elementenreihen zusammentreten, wobei
+die Stellenzahlen ähnlicher Elemente wiederholt er-
+scheinen und 2) solche, bei welchen die Elemente
+einer jeden Reihe nicht nur mit allen Elementen der
+übrigen, sondern auch mit sich selbst zusammentreten,
+Die erste Art wird durch P" bezeichnet und es er-
+giebt sich
+A > —
+P[a,, Ay...0n; Ö,, Ö3...8n] x nn . BP :
+
+woraus alsdann auch leicht die allgemeinere Formel
+für den Fall, dass mehr als zwei Elementenreihen gc-
+
+“
+
+4...
+
+geben sind, gefunden wird, Die zweite Art wird
+durch P! bezeichnet und es ergiebt sich
+hık h k
+PI[8,, Azy.ı.An; 5, Oz...) = nn m
+
+Es giebt hier offenbar noch einen anderen Fall, der in
+der Mitte zwischen den Versetzungen ohne Wieder-
+holungen und mit Wiederholungen liegt, nämlich
+wenn die Wiederholungen in sofern beschränkt sind,
+dass nicht alle ähnlichen Elemente, sondern nur ein
+Theil derselben zusammentreten darf, Der Vf. hat
+ihn nicht aufgenommen.
+
+Im folgenden $. finden sich Anwendungen des
+vorhergehenden auf die Entwickelung der Polynomien.
+Der Vf. bemerkt, dass ein Fall bis jetzt noch nicht in
+der Entwickelung der combinatorischen Analysis be-
+trachtet worden ist, wenn nämlich mehrere Polygone
+von beschränkter aber ungleicher Gliederanzahl mit
+einander verbunden werden. Besprochen ist dieser
+Fall schon allerdiogs z. B, in Thibaut’s Analysis.
+

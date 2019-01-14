@@ -1,0 +1,142 @@
+11193 Ef ud:
+
+"abc
+
+ALLGEMEINEN LI
+
+ 
+
+MATHEMATIK.
+
+Wir, b. Wimmer: Abhandlungen über ‚einige
+wichtige Gegen ftände der praktifchen Geometrie;
+als: genaue Beltiimmung der Lage der Dreyecks-
+
+nkte bey einer Landesvermelfung, trigono-
+metrifche Höhenmeffung, Auflöfung zweyer Auf-
+gaben der praktifchen Geometrie mittel(t der
+analytifchen, nebfi einem Anhange von einigen
+trigonometrifchen Reihen, einer neuen, fehr
+
+convergenten Reihe für die Rectification des f
+
+Kreifes, ünd endlich eines fehr einfachen Be-
+weifes des für den Durchgang des Lichtes durch
+verfchiedenartige Mittel bekannten Ooptifchen
+Satzes, von .A4. Burg, Öffentl, Repetitor u. L. w.
+am k. k. polytechn, Inflitute in Wien,
+905. gr. 8. M. 1 Kpft. (16 gGr.)
+
+- M:: froher Erwartung nahm Rec, vorliegende Ab-
+handlungen in die Hände. Was Hr, Burg zu 'leilien
+vermag, das hat er fchon gezeigt durch die Heraus-
+gabe feiner analytifchen Geometrie und durch meh-
+rere Abhandlungen, welche fich in den {either er-
+fchienenen Bänden der Jahrbücher des k.k. olytech-
+nifchen In(iituts in Wien eingerückt. befinden ; und
+
+diefe Erwartung fand er beym aufmerkfamen.Durch-.
+
+lefen nicht getäufcht., Die hier. gelieferten Abhandlun-
+
+en beurkunden auf's Neue die ralilole und glückliche
+
+'hätigkeit des Vfs. Die Grenzen der Wilfenfchaft
+nd drch diefe Ayhandlungen zwar nicht weiter
+hinausgerückt worden; das Verdienft hat fch aber
+der Vf. erworben, einzelne Difeiplinen der Mathe-
+matik in materieller und formeller HinGcht vervoll-
+kommnet zu haben. — Rec. wendet fich zu den ein-
+zelnen Abhandlungen.
+
+1. Beflimmung der Lage der Dreyeckspunkte bey
+einer Landesverme mit Berürkficht zung der
+fphäroidifchen Geftalt unfrer Erde, — iefe Auf-
+
+abe if, wie der Vf. im Vorbericht bemerkt, eine
+Ber fchönfien und fchwieriglien in der praktilchen
+Geometrie. Durch ‚den Director Littrow auf die
+{fchönen Formeln aufmerkfam gemacht, die der Prof,
+
+v. Beffel im erfien Bande der von v. Schumacher her-,
+
+ausgegebenen afıronom. Nachrichten, jedoch ohne
+Ableitung, aufgeßellt hat, verfucht Hr, B. diefe Aufgabe
+zu löfen. Zu em Ende flellt der Vf. in 1, die Aufgabe
+auf; „Eine Reihe von geraden Linien a, a, a", ...,,
+deren Endpunkte mit einander verbunden find , fo
+wie auch die innern Winkel a, «‘, u“, ‚...2 welche
+Ergänz. Bl. zur A. L. Z. 1827, ;
+
+ERGÄNZUNGSBLÄTTER
+' ' ZUR
+
+TERATUR - ZEITUNG
+
+1825,
+
+7
+
+RU 4114
+
+ 
+
+December 1827.
+
+a mit-a‘, a' mit a” u. f. w. bilden, find eben:
+es follen die rechtwinklichten Coordinates er
+Durchfchnittspunkte diefer Linien befümmt werden.”
+Die in der Auflöfung gefundenen.Gleichungen rei-
+chen zu, die Abflände der ip einer Ebene liegenden
+Punkte von beiden rechtwinklichten Coordinaten,
+wenn der Anfangspunkt derfelben bekannt if, zu
+beßiimmen; die durch diele Formeln erhaltnen Ab-
+fände werden aber fehlerhaft, wie der Vf. unter
+Nr. 2. zeigt, wenn jene Punkte nicht in einer Ebene,
+ondern auf der Oberfläche einer Kugel liegen, Der
+Prof. v. De//el fchlägt hier vor, ‚jene Punkte ‚nicht
+auf rechtwinklichte, fondern auf Polarcoordinaten
+zu beziehen, worin ihm unfer Vf, folgt. Die Auf-
+abe geht nunin Folgendes über: „s, s’, s“, ...., feyen
+
+je Seiten eines fphärifchen Polygons, a, a‘, a” "die
+dazwifchen liegenden Winkel. Bezeichnet man die
+Anfangspunkte der zufammenhängenden Seiten s, s’,
+8, ..4.5 durch 4, B, C, zieht,von 4 nach B den
+gröfsten Bogen S, von.d nach C den grülsten Bogen
+&S', u. f, w., nennt den zwifchen s und S liegenden
+Winkel 5, den zwilchen ss’ und S' liegenden Winkel
+&‘, den zwifchen s“ und S” liegenden Winkel 4“,
+u, f. w., und endlich die Winkel, welche die Bogen
+S x SS, Sing Fefpertive N em Meridian AY ma-
+chen, &, u’, 4", ....: 10 wird verlangt,. die Größen
+5, S', S*..005 6, U, Oz ..0.3 und  U® @, yı0mg ZU
+befüimmen.” Diele Aufgabe l1öß der Vf, durch acht
+Gleichungen; welche er mittelf der vom Hofrath
+Gaufs gefundenen Gleichungen
+
+ax Sin A—RB SR aß.
+‚Sin 5 Co( #7) = Sin (3)
+
+%
+
+Cos zz Sin A+ B | a+FB Cos C
+
+‚3 Cos ( 2, ) = Cos ( Sin Z
+entwickelt, in welchen Gaufs’fchen Gleichungen 4
+B, C die drey Winkel «, 8, 7, die diefen gegenü erfie-
+henden Seiten in einem {phärifchen Dreyecke bezeich-
+nen. Setzt man in die vier erfien Gleichungen des
+Hn. Burg x für 6 +«’, y für 8‘ — a‘, dividirt darauf
+die erfie durch die zweyte, die dritte durch "die
+
+vierte, fo erhält man:
+Sin 3 (S—s)
+
+tang 3 («+y) = Cotang 3 @ Sin 3 (S-F9)
+
+Cos ©
+Sin Z
+
+B (7 Aus
+

@@ -1,0 +1,123 @@
+1838
+
+die damit zusammenhängende Beurtheilung der Con-
+vergenz und Divergenz der Reihen in jedem einzelnen
+Falle, zu einer besonderen Aufgabe. Auch der Dar-
+stellung der Lehre von den Maximis und Minimis, von
+den unbestimmt zu seyn scheinenden Werthen der
+Functionen, von der Differentiation der imaginären
+Functionen besondere Aufmerksamkeit gewidmet, ein
+möglichst reicher Vorrath von Vebungsbeispielen bei-
+gegeben, und. auch auf praktische Anwendungen, die
+sich von der Differentialrechnung machen lassen,
+Rücksicht genommen worden, Doch gedenkt der Vf.
+alle diese Gegenstände in einem besonderen Werke,
+über die Differentialrechnung und deren Anwendung
+auf die Theorie der krummen Linien und krummen
+Flächen, ausführlicher bearbeitet, herauszugeben,
+wenn das vorstehende Elementarwerk sich einer gün-
+sugen Aufnahme erfreuen sollte. Das wird nach un-
+serer Ueberzeugung gewiss der Fall seyn, da das
+Buch, wie die Lehrbücher des Vfs, sämmtlich, bei
+weitem zu den besseren gehört. Je allgemeiner aber
+bereits Hr. Gr. als ein tüchtiger mathematischer
+Schriftsteller anerkannt ist, desto mehr hätten wir
+den Schluss der Vorrede hiaweggewünscht: einem
+Anfänger mag eine solche captatio benevolentiae ge-
+stattet seyn, bei einem Manne, wie Hr. Gr,, macht
+sie nicht den angenehmsten Eindruck. — Der erste
+Theil begreift vierzehn Capitel, nämlich Cap. 1:
+Allgemeine Begriffe von den Functionen, Cap. ®:
+Von den Differenzen der Functionen, Cap. 3: Von den
+Differentialen der Functionen mit einer veränderlichen
+Grösse. Cap. 4: Von den höheren Differentialen der
+Funetionen mit einer veränderlichen Grösse, Cap. 5:
+Der Maclaurin’sche und "Taylor’sche Lehrsatz für
+Funetionen mit einer veränderlichen Grösse, Cap. 6:
+Entwickelung der Funcetionen in Reihen vermittelst
+des Maclaurin’schen Satzcs. Kins der am besten be-
+arbeiteten Capitel. Wir theilen daraus die Berech-
+nung der Zahl z mit, wo zugleich der Vf. des schö-
+nen Kunstgriffes von Euler gedenkt. „Bezeichnet
+nämlich Arc tang £ den Tangente x” entsprechenden
+Bogen, welcher den kleinsten absoluten Werth hat,
+so dass also, weil der absolute Werth von x die Ein-
+heit nicht übersteigen darf, der absolute Werth von
+Arc tang 7 nicht grösser als } 7% ist: so gelangt dor
+Vf. zu der Gleichung: ($. 124)
+
+Arc tang =T— 3X 34H IX EXT IX u
+
+(1=X=+1]}
+
+ERGÄNZUNGSBLÄTTER Num. 23. MÄRZ 1839.
+
+154
+
+Setzt man nun in dieser Gleichung zuerst == 1 ,
+so erhält man:
+ia=l1—3+i—htiegrten-.,
+eine Reihe, welche man, wie leicht erhellen wird,
+auch unter folgender Form darstellen kann:
+
+zn=2l 1.4.1.1 1 1 !
+Ps treu Fans 0
+1 1 1 1
+= tan aaa tr
+Ferner ist, wie leicht gezeigt werden kann,
+1
+tang 67 =),
+
+uud folglich nach der oben gegebenen Gleichung
+1 1 | 1 1 1 1
+= Al rt ta
+Durch einen sehr merkwürdigen Kunstgriff‘ hat
+Euler Ausdrücke gefunden , welche zur Berechnung
+von 7 vorzüglich bequem sind. Dieser Kunstgriff
+besteht im Allgemeinen darin, dass Kuler cinen Bo-
+gen, dessen Verhältniss zur Peripherie rational ist,
+in zwei oder mehrere andere Bogen zerlegt, deren
+Tangenten rational. sind. Entwickelt man dann diese
+Bogen (wie oben gezeigt ist) in Reihen, so wird man
+durch deren Vereinigung mit einander für den zerleg-
+ten Bogen einen Ausdruck erhalten, der zwar aus
+mehreren unendlichen Reihen zusammengesetzt ist;
+diese Reihen werden aber oft schr stark convergiren,
+und auch sonst eine leichte numerische Rechnung ge-
+statten. Kinige der hierher gehörenden Formeln sind
+folgende:
+1. Arc tang 3 + Arc tang }== 4 m.
+Um die Richtigkeit dieser Gleichung zu beweisen,
+scize man
+Arc tang 5 =, Arc tang + = wW; so is
+tang p= 3, lang = 3, ;
+Weil nun bekanntlich
+fi
+tang (9 +wW)= Dt Ten ist, So ist
++3
+1—3.3
+
+*
+
+ 
+
+ 
+
+tang (9 +W) =
+
+Pp+U=3m, d. 1.
+
+Arc lang } + Arc tang } = 17, was bewiesen
+werden sollte; u. s. w. Ebenso bewoist der Vf. die
+Richtigkeit der Gleichungen
+
+2) 2 Arc tang 1 — Arctang1i1= 1m
+3) 2 Arc tang 3 + Arc tang 1= 37
+4) 4 Arc tang + — Arc lang 3, = 1m
+
+= 1 und folglich
+
+(Der Beschluss folgt.)
+
+ 
+

@@ -1,0 +1,123 @@
+607
+
+MATHEMATIK.
+
+FazınUunG, b, Gebrüder Groos: Die Lehre von den
+Combinationen nach einem neuen Systeme hear-
+beitet‘ und erweitert von Dr. Ludwig Oettinger ,
+ord, Prof. der Mathematık an der Universität zu
+Freiburg. 1837. 12858. in 8. (16 gGr.)
+
+Der Vf. ist bei Bearbeitung dieses Werkes von ei-
+nem doppelten Gesichtspunkte ausgegangen. Erstens
+hatte er die Absicht die Combinationslehre systema-'
+tisch zu entwickeln und ihr dadurch den wissen-
+schaftlichen Charakter zu verleihen, der ihr im Ver-
+hältniss zu der Art, wie andere Theile der Mathema-
+tik bereits bearbeitet sind, noch sehr fehlt. Zweitens
+aber soll die Schrift als eine Vorbereitung und Grund-
+lage für die Bearbeitung der Wahrscheinlichkeitsrech-
+nung auf combinatorischem Wege gelten, wiewohl
+hier selbst noch keine Anwendungen auf diese Rech-
+nung gemacht sind. Der Vf, behält es sich vielmehr
+vor, später den Beweis zu führen, dass die Wahr-
+scheinlichkeitsrechnung von der Combinationslchre
+auf einfachem, olementarem und zugleich allgemeinem
+Wege Antworten erhalten kann,
+dem geheimnissvollen Gange des höheren Calculs
+entnahm. Wir bezweifeln nicht, dass dieser Beweis
+gelingen wird und wünschen, dass Hr. Prof. 0. ihn
+nicht zu lange zurückhalten möge. Der Begründer
+der Wahrscheinlichkeitsrechnung Jakob Bernoulli hat-
+te schon die Wichtigkeit der Combinationslehre er-
+kannt. Laplace aber, der wie fast alle Franzosen bis
+auf die neueste Zeit von der Combinationslehre selten
+Gebrauch machte, hat sie auch bei Bearbeitung der
+Wahrscheinlichkeitsrechnung beinahe gänzlich ausser
+Acht gelassen, worin ihm auch Spätere gefolgt sind,
+Die Combinationslchre ist dadurch in den Ruf gekom-
+
+men, als sey sie bei der gegenwärtigen Ausbildung der .
+
+Wahrscheinlichkeitsrechnung nicht mehr geeignet,
+dieser bedeutenden Vorschub zu leisten, und man
+wird daher ihr und der Wissenschaft überhaupt
+grossen Nutzen leisten, wenn man das Gegentheil
+durch die "That nachweist,
+
+In der Kinleitung wird zuerst eine Uebersicht der
+verschiedenen Arten von Zusammenstellungen der
+Elemente gegeben $. 1— 6. Unter Combinationen
+versteht der Vf, nicht, wie man sonst thut, eine be-
+sondere Art von Zusammenstellung, sondern allge=
+mein alle Zusammenstellungen, in welchen die Ele-
+
+ 
+
+ERGÄNZUNGSBLATTER Num. 76,
+
+die sie bisher nur,
+
+- nungsart,
+
+SEPTEMBER 1839. 608
+
+mente zu gleichen‘ Anzahlen neben einander er-
+scheinen können. Die Combinationen zerfallen als-
+dann in Versetzungen und Verbindungen, je nachdem
+die Verschiedenheit der Stellung der Elemente oder
+die Verschicdenheit der Elemente in don Gruppen
+berücksichtigt wird. Indem nun noch einzelne Be-
+dingungen bei der Bildung der Gruppen hervorgeho-
+hen werden können, so ergiebt sich hieraus eine Rei-
+he von Fällen, welche der Vf, durch folgendes Sche-
+ma, das wir abgekürzt wiedergeben, veranschau-
+licht.
+I. Combinationen im Allgemeinen.
+1) Versetzungen
+
+a) ohne Wiederholung,
+
+6) mit Wiederholung,
+
+«) mit beschränkten Wiederholungen,
+
+#) mit unbeschränkten Wiederholungen,
+
+?) Verbindungen
+
+a) olıne Wiederholungen,
+
+5) mit Wiederholungen,
+
+a‘) mit beschränkteirt Wiederholungen,’
+
+#) mit unbeschräukten Wiederholungen.
+
+U. Combinationen zu bestimmten Summen.
+
+1) Versetzungen zu bestimmten Summen,
+
+2) Verbindungen zu bestimmten Summen,
+wobei sich jedesmal die vier Unterabtheilungen «), 5),
+a), #) wiederholen,
+
+Il. Combinationen zu bestimmten Unter-
+schieden.
+
+Es wicderholen sich alle Fälle aus IL Hierzu kom-
+men nun noch viertens die Produkten - Summen der
+Combinationen, wenn man nämlich die Elemente der
+Gruppen einer Combinationsclasse als Faktoren be-
+trachtet und aus ihnen alle möglichen Produkte bildet.
+Dass cs noch manche andere Betrachtungsweiso giebt,
+ist dem Vf, nicht entgangen, er schliesst sie aber vor-
+läufig aus, Der $. 7 beschäftigt sich mit der Bezeich-
+Dieser Gegenstand muss nothwendig ei-
+nem jeden, der sich für die Combinationslehre in-
+teressirt, schr wichtig erscheinen, da es sich leider
+nicht leugnen lässt , dass durch die Confusion, welche
+bis jetzt hierin geherrscht hat, der Combinationslchre
+ein unberechenbarer Schaden zugefügt worden ist.
+(Die Fortsetzung folgt.)
+

@@ -1,0 +1,126 @@
+943
+
+chifchen Mathematikers. Nachdem diefer berichtigt
+ift, zeigt der Vf., dafs man für die Parallellinien
+nach keiner beffern Theorie (Rec. fetzt nach feiner
+völligiten Ueberzeugung hinzu, nach keiner fchick-
+lichern Theorie) zu fuchen hat, als diejenige ift, die
+man beym Euklides vorfindet. In dem Zufatze hat
+der Vf. auch einiges gegen Hoffmanns Kritik der Pa-
+rallelentheorie, nach‘ des Rec. Urtheil ebenfalls voll-
+kommen richtig erinnert. Dafs in der neueften Aus-
+abe des Karflenfchen Auszuges, durch den würdigen
+Sohn diefes‘ verdienftvollen Mathematikers , jenes
+Axiom mit Bündigkeit zum T’heorem erhoben feyn
+foll, wenig(tens Käffner felbft, der Karflens frühere
+Verfuche jedesmal widerlegte, diefes endliche Gelin-
+en noch eingeftanden hat, hätte der Vf. wohl mit
+Beybringen {ollen , da er einmal über diefen Gegenftand
+Ychrieb. Rec. freylich, fo fehr er für Verbefflerung
+der mathematifchen Methode fich geftimmt findet, hat
+jenen Beweis noch nicht prüfen mögen, weil feiner
+feflten Ueberzeugung nach, hier keine Verbeflerung
+der Methode im Ganzen zu erwarten ift, fondern
+durch jede Abänderung der Euklidifchen Parallelentheo-
+rie die jetzt fo {fchickliche Anordnung des übrigen geo-
+metrifchen Syftems fehr übel geftört werden müfste,
+
+; Zweyte "Abk. Hier fcheint es wohl, als ob des
+Vfs. Vorliebe für das Aeltere in der Wiffen{chaft
+ihn verhindert habe, das Anftöfsige im 4 des gewöh-
+lichen trigonometrifchen Syftemes gehörig zu bemer-
+ken; Er fndet es ı) gar nicht anftölsig, dafs z.B. die
+Tangente von 90 Grad, als Tangente des gröfsten
+fpitzen Winkels = + ®, und als Tangente des klein-
+ten ftumpfen Winkels fogleich = — co feyn {foll!
+2) Er erlaubt fich noch den Ausdruck bejahte, ver-
+neinte Lage, dadoch in bekannten, hierher gehörigen
+neuern Krörterungen es unwiderfprechlich darge-
+‘than ift, dafs das 4 in Linien durch entgegengefetzte
+Richtungen muß conftruirt werden. Obgleich die Ver-
+wechfelung beider Begriffe bey den Sinus und Tangen-
+ten, wie © orthogonen Coordinaten, aus dem in
+Buffens Algebra 2te Aufl. $. 251, dar eftellten Grunde
+unbemerkt bleiben kann; fo ift es doch fogleich bey
+dem Querfnus einleuchtend, dafs bey ihm verneinte
+und bejahte Lage gar nicht Statt findet. . Auch bat
+hierin der Vf. feßr einleuchtend abermals gefehlt.
+Nachdem er S. 5ı eingefteht, dafs er einft Scheffelt,
+wegen deffen Beitimmung des Querfinus mit Unrecht
+
+ 
+
+LITERARISCHE
+Beförderungen und Ehrenbezeugungen,
+
+D. Linzer Bisthum, das durch Gas Tod verwailt
+war, hat ein gelehrter Geiltlicher erhalten, Sigmund
+v. Hohenwarth , zeither General Vicar des Bifchofs zu
+Gurk, ein Kenner der Naturgefchichte und eifriger
+Sammler der Naturproducte.
+
+' - A.L.Z. Num. 116. APRIL 1809.
+
+44
+getadelt habe (was er gegen Scheffelt behauptet habe,
+
+weifs Rec. nach wiederholtem Lefen nicht zu verfte-
+hen); fo fagt er jetzt, alle Querfinus fangen in E an.
+Keinesweges! fondern alle Querlinus in E; in-
+dem nach des Vfs, Figuren € E der erflen trigonome-
+trilche Halbmeffer ift, in deffen Ende E£ nämlich die
+Bogen aller Sinus und Tagenten für alle vier Quadran-
+ten ihren gemeinfchaftlichen Anfang haben. Von dem
+Vf. und von allen Lehrern wird mit Recht diefer echte
+trigonometrifche Halbmeller als bejaht angenommen.
+Ganz allgemein richtig, auch allem gewöhnlichen und
+fchicklichen Gebrauche des QuerGnus angemeflen ift
+dann, vermittel(t diefes erften Halbmeflers CE die Er-
+klärung des Querfinus, dafs er = —cobn +CE ilt, dafs
+heifst, die Gegengröße des Cofinus zum erften Halbmef-
+fer algebraifch addirt,giebt den Querfinus. Der Cohayus
+A a CN den Figuren des Buches, CM.
+ag er bejaht, mag er verneint gerichtet feyn: fo ift
+feine Gegengröfse = — CM = MC, das heifst, eine
+von M aus nach C hingerichtete Linie. Daher ganz all-
+Fon auch der Querfinus = MC+CE=M E;
+olglich jeder Querlinus eine Linie, die in M ihren
+Anfang, in E ihr Ende hat, alfo bejaht gerichtet, und
+zwar dem erften Halbmeffer gemäfs gerichtet ilt. Eben
+fo ergiebt fch, dafs auch jeder Quercofinus bejaht,
+aber dem zweyten trigonometrifchen Halbmefler CH
+gleichartig bejaht gerichtet ift. Wenn man nun eine ähn-
+liche Beftimmtheit im + auch für die übrigen trigono-
+metrifchen Linien verlangt (und dazu hat man eben
+fo gewifs Recht, als ins Rechtere, Linkere gerich-
+tet, und ins Höhere, Tiefere gerichtet, zwey ss-
+leichartige F ünd): fo wird man 3) des Vfs, Con-
+truction mit #mherwandernden Drehungsfcalen durch-
+aus nicht befriedigend finden können. Aus dem Be-
+griff von Drehungsfcalen ift in den newern Erörterun-
+gen über Plus, Minus die Sache erörtert, dort „fezeigt,
+dafs die Natur der Drehung eigentlich zwey "Langen-
+ten und zwey Cofecanten -Scalen verlangt. Aus die-
+fen anfchaulich richtigen Scalen aber ift dann das +
+des gewöhnlichern trigonometrifchen Formularfy(te-
+mes als eines /olchen, durch die Forderung des allge-
+mein bejahten Halbme(lers gerechtfertigt. 4) Der wür-
+dige Vf. fcheint fogar auch in dem 4 der Cofecanten
+nicht den Knoten vxorzufinden , den fchon Köäflner zwar
+nicht gelöfet , aber doch zerhauen , alfo doch als wirk-
+lich vorhanden gefehen hat,
+
+ 
+
+NACHRICHTEN.
+
+Die Profeffur der Theologie am Reform- Colle-
+gium zu Debreczin hat H. Frams Koväts angetreten:
+
+Dem Benediktiner in Ktemsmünf[ter, P. Thaddseut
+Derflinzger , Rector des Convicts und Altrorom dafelblt,
+ift wegen feiner nützlichen 36jährigen Schuldienlte
+die mittlere goldene Ehrenmedaille verlichen worden.
+
+ 
+

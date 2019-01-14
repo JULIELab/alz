@@ -1,0 +1,138 @@
+211
+
+werde, Dies konnte leicht geschehn, da der Vf, ja
+die Lehre von den Potenzen bereits als bekannt vor-
+aussetzt, Weils nämlich der Schüler einmal, dafs
+(a’)3= al, n?,a?=:a?*2*2 — a5, allgemein also, dals
+(ab) = abc, und umgekehrt, dafs man aus einer Po-
+tenz die c®* Wurzel zieht, wenn man ihren Exponen-
+ten durch c dividirt, so konnte er darauf aufmerksam
+gemacht werden, wie dieses Verfahren eigentlich
+nur da anwendbar sey, wo der Exponent der Potenz
+durch den Exponenten der Wurzel theilbar ist, z. B.
+
+Var a%:?2— a3, da a3,a?3 = a%, dafs man es
+aber auch da beizubehalten pflege, wo der Exponent
+der Wurzel in dem Exponenten der Potenz nicht
+
+2 —— n — m
+
+aufgeht, z, B. V’a% = a? und allgemein V’am = a5,
+m
+
+So erscheint a* als ein uneigentlicher Ausdruck her-
+
+n
+
+vorgegangen aus V’am, Das zweite Kapitel ist gut
+bearbeitet. Bei dem dritten Kap. setzt der Vf, vor-
+aus, dafs der Schüler mit der Entstehung und der
+Natur der Kettenbrüche bereits bekannt sey, und
+führt diese Lehre hier nur etwas weiter aus, als in
+den meisten Lehrbüchern zu geschehn pflegt. Auch
+dieses Kap, ist sargfältig bearbeitet, und namentlich
+die Methode, durch Hülfe der Kettenbrüche aus ei-
+ner unvollkommenen Quadratzahl die Wurzel annä-
+hernd zu bestimmen, gut ausgeführt, Das Kap. von
+den Gleichungen zerfällt in zwei Abschnitte. Der
+erste enthält die einfachen Gleichungen, die qua-
+dratischen mit einer und mehreren unbekannten Grö-
+fsen , die cubischen Gleichungen, die Cardanische Re-
+gel, das Fortschaffen der Brüche aus euhischen Glei-
+chungen, die Formeln des Bombelli und Descartes,
+Bdider einzelnen Lehre schickt der Vf, erst solche
+
+eichungen voraus, die im Atan4xo gehen sind,
+und Jäfst dann Beispiele in erzählenden Aufgaben
+folgen. Gleich im Anfange hat der Vf, sich hier ei-
+ner Uebereilung schuldig gemacht, Er sagt nämlich
+S. 46: ‚erscheinen die unbekannten Größen in einer
+Gleichung nur mit dem Exponenten 1, so heifst die
+Gleichung eine Gleichung vom ersten Grade,” Dem-
+
+nach wäre also x+2 = g eine Gleichung des ersten
+
+Grades, Der zweite Abschnitt der Algebra enthält
+eine Belehrung über das Wesen der unbestimmten
+Gleichungen, die Auflösung unbestimmter Aufgaben
+mit einer Gleichung und zwei unbekannten Gröfsen,
+mit zwei Gleichungen und drei unbekannten Gröfsen,
+und endlich mit drei Gleichungen und vier unbekann-
+ten Gröfsen, Dann folgt eine Anweisung, in der
+Gleichun Ka die Werthe für x zu fin-
+den, welche den Ausdruck rational machen, und
+endlich die Methode, eine Gleichung von der Form
+ax’?+ bıy+ex+dy= aufzulösen, wo alle Grö-
+fsen positive Zahlen sind. Dieser zweite Abschnitt,
+dessen Lehren dem Schüler gewöhnlich gar viele
+Mühe machen, könnte etwas ausführlicher seyn, er
+füllt nur 20 Seiten, Sehr reichhaltig ist das Kapitel
+
+ALLG, LITERATUR - ZEITUNG
+
+zu
+
+von den Reihen, deren ‘Anwendung in mehreren
+zweckmäfsig gewählten Aufgaben gezeigt wird. Die
+Lehre von den figurirten Reihen, Te Pyramidalzah-
+len und der Berechnung der Kugelhaufen wird hier‘
+aufgenommen, Das Kapitel schliefst mit den Difle-
+renz- und recurrenten Keihen, Gefallen hat uns das,
+was der Vf, über die approximative Wurzelbestim-
+np einer Gleichung mit einer, so wie einer höhe-
+ren Gleichung mit zwei unbekannten Grölßsen sagt,
+Weniger ausführlich sind die Logarithmen behan-
+delt, doch ist, wenn auch kurz, ihre Entwickelun;
+durch Hülfe der ‘unendlichen Reihen, so wie dı
+Hülfe der Kettenbrüche neben der durch Interpols-
+tion gezeigt worden. Zum Selbstunterrichte möchte
+dieses Kapitel am wenigsten dienen können, da Man-
+ches nur mit wenigen Worten angedeutet ist, So
+hätte die Entstehung negativer Exponenten, wenn
+sie auch, als bereits früher dem Schüler bekannt
+
+eworden, vorausgesetzt werden konnte, kurz ihm
+in das Gedüächtnils zurückgerufen werden können,
+Veberhaupt scheint uns der Vf, die Grenze sich nicht
+bestimmt genug gedacht zu haben, bis zu welcher
+vorgeschritten seyn müsse, für den er sein Buch be-
+stimmte, da die einzelnen Kapitel bald mehr, bald
+weniger Kenntnifs der Elementarmathematik voraus-
+setzen. Falls das Buch Beifall finden sollte, so ist
+der Vf. gesonnen, einige wichtige Kapitel der Geo-
+metrie auf ähnliche Art zu bearbeiten, Der Druck
+ist deutlich, M.
+
+NEUERE LATEINISCHE LITERATUR,
+
+Frıorenz: Poggii Epistolae editas collegit et emen-
+davit plerasque ex Codd, Mspt, eruit ordine cro-
+nologico disposuit notisque illustravit Equ, Tho-
+mas de Tonellis, 31, Vol. 1.1832, XVI u.3678,8
+
+Der an ausgezeichneten Männern vielleicht vor al
+Jen anderen reichsten Zeit, der Zeit des Wiederauf-
+blühens der klassischen Literatur in Italien, gehörte
+der Mann an, dessen köstlicher Briefwechsel vor-
+liegt — Poggio Bracciolini., Die zunächst folgenden
+Jahrhunderte haben die Früchte der Bemühungen
+dieser Personen eingeärntet, wenn ihre Schriften
+auch jetzt nicht mehr unmittelbar gesuchte sind!
+Bringt dies doch der Korfgang der menschlichen
+Kenntnisse so mit sich! "Nur wenige Classiker kön-
+nen als Muster de# guten Geschmackes fortdauernd
+allgemein Lehrer der Nachwelt bleiben, in späteren
+Zeiten „theilt sich alles in Sprachen und Zungen,
+der Schriftsteller wirkt nur auf sein und das nächste
+Zeitalter, weiterhin welken Namen und Schriften
+dahin, wenn nicht aufserordentliche Umstände zu
+Statten kommen. Jemehr sich die Literatur selbst
+ausbreitet, desto mehr theilt sich der literarische
+Ruhm in schmale Kanäle,” —
+
+Der Ruhm auf Poggio als auf eine literarisch
+merkwürdige Erscheinung zuerst im Besonderen auf-
+merksam gemacht zu haben, gebührt dem als Kinder
+
+n
+

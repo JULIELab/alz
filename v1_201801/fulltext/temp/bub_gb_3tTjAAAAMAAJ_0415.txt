@@ -1,0 +1,134 @@
+819
+
+Cofin. u. f. w., die hier, obgleich diefe $. 251 vor-
+kommen, nicht fehlen follten. Die Lehre vom
+Maximum und Minimum der Function finden wir in
+$ 233. ganz kurz behandelt. Hr, S. verweiß des-
+alb auf feine geometrilchen Aufgaben, welche
+einen Verluch enthalten, das Maximum und Mi-
+nimum veränderlicher Gröfsen ohne Differential-
+rechnung zu beflimmen. Es würde aber, meinen
+wir, doch beffer gewefen feyn, wenn S. auch hier
+den vollGiändigen Gebrauch der Differentialrechnung
+gezeigt hätte, weil die Anwendung der Differential-
+rechnung befonders auf vielförmige Functionen und
+auf Functionen zweyer veränderlicher Gröfsen nicht
+ohne Schwierigkeiten ift. Der XIL und letzte Ab-
+fchnitt diefes er/ten Theils 6. 235 — 269.) enthält die
+Integralrechnung. Der belchränkte Raum (S. 231
+bis 286.), welchen der Vf. der Abhandlung der Inte-
+lrechnung widmet, hat zwar auf die Klarheit der
+arlellun Klbk keinen nachtheiligen Einflufls ge-
+habt, wohl aber dürfte diefs hinlüchtlich der Voll-
+fündigkeit der Fall feyn, Bey der Integration der
+Differentiale gebrochner rationaler Functionen wer-
+den 3 Fälle unterfchieden, nämlich 1)durch Zurück-
+führung auf Fundamental - Integral - Formeln; 2)
+durch Zerfällung in einfache Brüche, und 8) durch
+die Reiben, Wir vermiffen hierbey nicht nur den
+Yall, wenn in dem Nenner der Bruchfunction ein
+einfacher Factor mehrere Male vorkommt, fondern
+auch den Fall, wenn unter den einfachen Factoren
+des Nenners imaginäre, welche, mit einander mul-
+tiplicirt, einen reellen quadratifchen oder Trinomial-
+factor geben. Die Integration folcher Differential-
+formen, in welchen logarithmifche und Kreisfunctio-
+nen vorkommen, find etwas zu kurz behandelt.' Die
+Integration der Differentialgleichungen ($. 253—261.)
+finden wir wie gewöhnlich abgehandelt. Es bleibt
+uns jedoch auch hier zu wünfchen übrig, dafs von
+den befondern Auflöfungen und particulären Inte-
+gralen gewiller Differentialgleichungen mehre ange-
+geben wären, und die Unterfuchung, ob eine ge-
+gebne Differentialgleichung eine befondre Auflöfung
+zuläfst,‘ und wie diefe zu finden, nicht fehlte. —
+Hyd, wo y= f(x) if, entwickelt Hr. 5. in 6.260 wie
+oh, Bernoulli Opp. Tom, 11'p.488. Die Integration
+der höhern Differentiale behandeln die $$. 262 u. 269
+in den beiden Aufgaben: ($ 268.) die Integralglei-
+chung zu finden, wenn die reducirte Gleichung
+V' = 0 nicht alle vier veränderlichen Gröfsen x, y,
+P» 9, enthält; ($. 269.) die Integralgleichung zu fin-
+den, wenn /'=0 alle vier veränderlichen Gröfsen
+enthält.
+
+Der zweyte Theil des vorliegenden Buchs um-
+falst die höhere Geometrie (S, 287— 638). Mit dem
+erfien Abfehnitt ($. 1—11.), welcher die Grundbe-
+griffe enthält, verbinden wir den Grundfatz, auf
+welchen S, feine höhere Geometrie fiützt, wel-
+cher fich in der Vorrede (S. V.), wie folgt, findet:
+„Was berechnet werden foll, ‘die Gröfse nämlich,
+mufs nach allen ihren Theilen und der Zulammen-
+fetzung und Verbindung derfelben erkannt werden
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z
+
+‚Vf, verwirft zunäch(t die Definition ,
+
+820
+
+können; if diefes nicht möglich, fo kann die Gröfse
+unmöglich ein Gegenfand der Rechnung feyn.” Der
+welche die
+krumme Linie blofs als eine Linie erklärt, woran
+kein Theil gerade ifiz und fiützt auf den angeführten
+Grund(atz den Satz: „Das Krumme belieht aus Ele-
+menten des Geraden und des Winkels,” „Ich bin
+nicht der Erfie, der diefen Satz aufliellt, er ifi nur
+durch die Exhauftionsmethode verdrängt worden.”
+Hr. S. gelfieht-zu , dafs von der geraden Linie deshalb
+keine Definition gegeben werden könne, weil Ge
+ein einfacher Begriff fey, der fich nicht analyfren
+Jäfst. Im $. 1 nr. 8. wird daher geflagt: „Wenn fch
+der Punkt in dem Längenraume bewegt, fo befchreibt
+er die gerade Linie. Denn der Längenraum if felbft
+die gerade Linie, von welcher der fich bewegende
+Punkt einen Theil befchreibt.” Welche Erklärun
+
+der krummen Linie— fagt der Vf. — man
+immer verfuchen mag, es ii keine, die dem Ver-
+fiande fo genügt, wie die folgende, welche in $. 1.
+nr. 4, enthalten ii: Ein Punkt bewegt fch und be-
+fehreibt eine gerade Linie, ändert dann auf einmal
+feine Kichtung um einen gewilfen Winkel, und be-
+fchreibt nun wieder eine gerade Linie u, [. w., als-
+dann befchreibt der Punkt eine gebrochne Linie,
+welche aus geraden Linien, die unter gewiffen
+Winkeln verbunden find, beficht. Die geraden Li-
+nien, welche der Punkt fo befchreibt, werden un-
+endlich klein, und auch die Winkel, um welche er
+feine Richtung verändert, werden unendlich klein,
+fo dafs er nicht fortgeht, ohne auch feine Richtung
+zu verändern; alsdann befchreibt der Punkt eine
+krumme Linie. Die Curve if allo eine letige Ver-
+bindung der geraden Linie und des Winkels; Ge
+hat Länge, weil fe die gerade Linie, fe hat Form,
+weil ie den Winkel enthält; ohne gerade Linie iflt
+aber keine Länge, ohne Winkel keine Form denk-
+bar. — Wir können nicht umhin, hier zu fragen:
+ob man die Bewegung in das Gebiet der reinen Ma-
+thematik einführen dürfe? Wir Gnd der Meinung,
+dafs wenn man die Bewegung in das Gebiet der Geo-
+metrie einführt, dadurch zugleich ein zweyter die-
+fer Wilfflenfchaft fremdartiger Begriff, die Zeit, mit
+eingeführt werde, Denn bey dem Entlüehen einer
+Gröfse mufls irgend eine Zeit verhiefsen, welche wir
+nothgedrungen als Gelegenheit zum Werden anfe-
+hen mülfen. Unferer Meinung zufolge legen die
+Elemente des Euklides — obgleich diele, wie von
+Han, S., fo auch von Andern vielfältig getadelt wer-
+den, — dennoch den Grund zur geometrifchen Er-
+kenntnifs am befien, und find bis jetzt in Ablicht auf
+Methode noch nicht übertroffen worden. Die pho-
+ronomilche Geometrie fcheint uns zu der irrigen
+Anülcht, die Linie befiehe aus Punkten, Veranlaf-
+fung zu geben. Der Vf. fucht diefer falfchen Anücht
+dadurch vorzubeugen, dafs er unendlich kleine Ele-
+mente annimmt; allein diefe Elemente find nichts
+anders, als die Punkte des Fontaine. — Der Il. Ab-
+fchnitt ($. 12 — 87.) behandelt die Linien der erlien
+und zweyten Ordnung, , Die $$. 21—80 befchäfti nl
+
+c
+

@@ -1,0 +1,125 @@
+6it'
+
+der der Uebelstand ein, dass die Anzahl der Elemen-
+tenreihen, wie die der Buchstaben, beschränkt. ist,
+und dass man, um zu wissen, mit welcher Elemen-
+tenreihe man es zu thun hat, die Stelle, die der sie
+vertretende Buchstab im Alphabet einnimmt, kennen
+muss, Wir sehlagen daher vor, dass man die Buch-
+staben ganz weglasse und die Elemente einer Reihe
+durch 1, 2, 3... bezeichne. Wo aber mehrere Elc-
+mentenreihen vorkommen, bezeichne man die Kle-
+mente der ersten durch 1, , 2, , 3, +.., die der zweiten
+durch 1,, 2,,3,..., die der dritten durch 1, , 2, , 3,...
+u, 8. W., So dass jedes KEiement unmittelbar zeigt, zu
+welcher Reihe es gehört und welche Stellung es in
+derselben einnimmt, Was nun ferner die Bezeich-
+nung der verschiedenen combinatorischen Operationen
+betrifft, so glauben wir, dass ‘auch diese noch einer
+weiteren Vereinfuchung fähig ist. Der Vf. bezeichnet
+die Verbindungen olıne Wiederholung und die mit be-
+schräukten Wiederholungen durch denselben Buch-
+staben, nur dass er im letzteren Falle an dem Ele-
+mente selbst andeutet , wie oft es wiederholt werden
+kann; die Verbindungen mit Wiederholungen dage-
+gen werden auf besondere Weise bezeichnet, Da
+aber diese letzteren sich von den Verbindungen mit
+beschränkten Wiederholungen nur dadurch unter-
+
+scheiden, dass hier jedes Element, so oft es die Na- '
+
+tur der Operation erlaubt, wiederholt werden kann,
+so müsste man, wenn man Consequent seyn will, auch
+für diesen Fall dasselbe Zeichen beibehalten und an
+den Elcmenten selbst andeuten, wie oft sie vorkom-
+men können, Wir würden also z. B die Verbindun«
+gen mit Wiederholungen zur dritten Klasse aus den
+Elementen @,, 4, ...dn nicht durch G'(@, , @, ...an)*,
+sondern durch (7(@,3, #23... an?)?3 bezeichnen. Vebri-
+gens können wir es nicht. unberührt lassen, dass der
+Vf. den Ausdruck beschränkte Wiederholung bei den
+Verbindungen in einem ganz anderen Sinne braucht
+als bei den Versetzungen, was uns nicht passend
+scheint. Während er nämlich unter Verbindungen mit
+beschränkten Wiederholungen solche versteht, bei
+
+; #* nın+t
+C'[0,.. au. ]3 = i 1.2
+
+Der jeinfachste Weg scheint mir aber der zu seyn,
+dessen sich Hr. von Ettingshausen in seiner Combi
+nationsiehre bedient , wir hätten gewünscht, dass der
+Vf. darauf Rücksicht genommen hätte. Der zweite
+Abschnitt behandelt die Coinbinationen zu bestimmten
+Summen $. 14-— 22. Zur Bestimmung der Grüp-
+penanzahl der Verbindungen mit Wiederholungen giebt
+er mehrere zurücklaufentde Methodeir, in Beziehung
+
+ 
+
+ERGÄNZUNGSBLÄTTER ZUR A.L.Z.
+
+1.32%
+
+612
+
+welchen ein oder mehrere Elemente mehrere Mal vor-
+kommen können, nennt. er Versetzungen mit be-
+schränkten‘ Wiederholungen solche, in welchen ein
+oder mehrere Elemente gleich viel Mal wiederholt vor-
+kommen müssen, Den Fall aber, wo bei den Vers
+setzungen ein oder mehrere Elemente bis zu einem
+Maximum der Wiederholung wiederholt werden kön-
+nen, hat er gar nicht untersucht. Ref, hat schon frü-
+her in diesen Blättern den Vf. auf mögliche Abkür-
+zungen aufmerksam gemacht und beispielsweise die
+Bezeichnung die Schweins in seiner Analysis (S.3,
+nicht $, 88) anwendet, angeführt; er ist noch immer
+dieser Meinung und muss bekennen, dass er die hierauf
+bezügliche Bemerkung des Vfs, in der Vorrede hicht
+verstanden hat, namentlich nicht weiss, was mit der
+bestimmten Bedeutung dieser Bezeichnung gemeint ist.
+
+Nach dem früher angegebenen Schema werden
+nun im ersten Abschuitt die Combinationen im Allge-
+meinen behandelt und zwar $ 8 — 10 die Versetzun-
+gen, Bildung und Anzahl der Gruppen jeder Klasse
+und auf dieselbe Weise $. 11 — 13 die Verbindungen.
+Die Gruppenanzahl der Verbindungen mit Wiederho—
+lungen wird auf zwei Wegen bestimmt, einmal durch
+ein bereits von Euler angewandtes Verfahren und damm
+durch die Summation einer Reihe, indem die Gruppen-
+anzahl jeder späteren Klasse aus derjenigen der vor—
+hergehenden abgeleitet wird. So findet man
+
+ 
+
+“ont (n-—1)9- 1 19=— 1/4
+C'[a,... an ]9 = 19-—1/1 19-1/1 + Zi s
+
+g/l
+Dass aber die Summe dieser Reihe = a ist, hat
+
+14/1 >
+der Vf. nur angedeutet und nicht bewiesen, Setzt
+man die Gruppenanzahl der Verbindungen ohne Wie=
+derholung als bekannt voraus, so kann man auch die
+der Verbindungen mit, Wiederholungen vermittelst des
+neuerlich im Crelle’schen Journ, f.d, M, (Bd, 18. Hf1. 4
+S. 375) mitgetheilten Satzes durch eine Reihe Enden,
+So erhielte man z, B,
+
+r.n— ln 2 mn \ä
+.H+ 17273 (1)
+
+ 
+
+auf einen allgemeinen unabhängigen Ausdruck für ih-
+re Bestimmung sagt er aber, dass es einen solchen
+wohl nicht gäbe. Wir hütten gewünscht, dass er sich
+eines anderen Ausdrucks bedient hätte, Eiwas durch=
+aus Gesetzmässiges, was sich ‚in jedem einzelnen
+Falle, oline alles Probieren sicher angeben lässt, muss
+sich ivohl auch ‚im Allgemeinen ausdrücken lassen,
+Die Augübo dieses Ausdrucks mag allerdings schwie-
+

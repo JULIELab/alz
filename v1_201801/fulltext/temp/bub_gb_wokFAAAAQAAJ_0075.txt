@@ -1,0 +1,164 @@
+141
+
+soll Joch wohl keine Erklärung seyn? Da die Lehre
+von den Potenzen erst später abgehandelt wird, so
+erscheint $. 6, worin der Ausdruck Exponent erklärt
+wird, hier am unrechten Orte. Bei der Multiplica-
+tion der Buchstabengröfsen ist zwar gesagt, das Pro-
+‚duct zweier gleichen Vorzeichen gebe +), das Product
+zweier verschiedenen Vorzeichen gebe —, aber be-
+wiesen ist das nicht; eben so auch hei der Division,
+Der Vf. giebt nur Regeln, und so darf es denn nicht
+‚hefremden, wenn $. 17 bei der Division der Buchsta-
+bengröfsen es so heifst: „haben gleiche Buchstaben Ex-
+ponenten, so zieht man den kleineren Exponenten
+„vom gröfsern ab, wonach diese Gröfse blos im Nenner
+oder Zähler erscheint.”
+‚mathematische. Strenge, da auf das warum? auch
+
+-nicht die entfernteste Rücksicht genommen ist, Im -
+
+dritten und vierten Kapitel ist von den Gleichungen
+„des ersten Grades die Rede. Man vermifst hier die
+„Augabe der Grundsätze, worauf jedes algebraische
+Verfahren beraht; der Vf, beginnt gleich mit erzäh-
+enden Aufgaben, statt dafs der Schüler vorher in
+der Auflösung gegebener Gleichungen, namentlich ge-
+‚gebener Literalgleichungen hätte geübt werden sol-
+en. Doch sind, abgesehen von diesem Mangel, diese
+beiden Kapitel recht gut bearbeitet, die Beispiele
+zithlreich und zweckmäßig gewählt. Im sechsten-Ka-
+bin $. 39 heifst es „wenn Potenzen als Nenner von
+
+rüchen. vorkommen, so pflegt man sich, um der
+Gleichheit in der Bezeichnung willen, der negativen
+‚Exponenten zu bedienen, Eine Potenz. mit negati-
+vem Exponenten ist daher gleich einem Bruche, dessen
+Zähler der Coefficient der Potenz, und dessen Nen-
+ner die Potenz selbst mit positivem Exponenten ist.”
+‚Wissenschaftliche Begründung konnte diels erst aus
+der Lehre von der Division der Potenzen von gleichen
+Wurzeln erhalten. Eben so $. 40 „,Potenzen mit ge-
+brochenen Exponenten haben dieselbe Bedeutung , wie
+
+"die Potenzen mit ganzen Exponenten, "So deutet a3
+“auf einen Werth hin, der mit sich selbst multiplicirt,
+‘a gibt,” Das versteht kein Schüler, weil er den Aus-
+
+“druck «3 selbst nicht versteht. Dieser uneigentliche
+"Ausdruck erhält erst seine Bedeutung aus der Lehre
+“yon der Ausziehung der Wurzeln aus Potenzen, und
+“wird erst verständlich, wenn der Schüler weifs, dafs
+
+g% nur uneigentliche Bezeichnung für Vaist. Der -
+
+‚$.47, in welchem von der Ausziehung der Qua-
+‚dratwurzeldie Rede ist, enthehrt aller mathematischen
+‚Schärfe. Es heifst da so: „da das Quadrat der höch-
+„eten Ziffer (soll. wohl heifsen, der höchsten einziff-
+‚rigen Zahl) nämlich 9, 81 ist, so mufs man auf jede
+Stelle der Wurzel zwei Stellen der Potenz rechnen,
+
+denn die gesuchte Wurzel könnte aus lauter Neunen be- -
+ebene Potenz, von ı
+
+‚afchen.. Theilt man daher eine ge
+der rechten nach der linken ol. n Klassen von zwei
+Siellen;-so erfährt man dadurch , aus wie vielen Stel-
+Quadratwurzel dieser Potenz bestehe.
+ı Klasse auch nur eine Ziffer enthalten
+
+nz, ist von selbst klar,” Wissenschaftlich Kilst
+sich das nur begründen durch den Lehrsatz, daß die
+
+  
+    
+    
+
+Num, 944, MAI 1834,
+
+Das ist doch warlich keine -
+
+. fsen ist gelungen zu nennen,
+
+.Jeisten auf alle wissenschaftliche SCRER:
+t;
+
+Dals -
+
+A42
+
+nie Potenz einer Zahl höchstens » mal-soviel, und
+wenigstens » mal soviel, weniger n—J1 Stellen ha-
+
+‚ben müsse, als die Zahl selbst. Eben so hätte das
+
+Auffinden des zweiten Theiles der Wurzel deutlicher
+und in seinen Gründen gezeigt werden sollen, was
+
+‚nur dadurch möglich wird, wenn man den Schüler
+auf den eigentlichen Werth von «?, 2ab und 5? stets
+
+Rücksicht nehmen läfst. Auch der Grund des Ver-
+fahrens, wo aus einer Zahl von mehr als vier Ziffern
+die Quadratwurzel zu ziehen ist, wird nur dann dem
+
+‚Schüler verständlich seyn, wenn man ihm zuvor ge-
+
+zeigt hat, dafs jede dreiziffrige Zahl, z. B. 347, auf
+folgende Art in das Quadrat erhoben werden kann:
+3i0=a, 7= bb, also:
+3477 — 340? + 2.340.747?
+(a+06)=a?+24b + 67, Y
+Es ist aber 340 selbst wieder eine zweitheilige Zahl,
+und = 300 + 40, und setzt man nun 300 = a, 40 = ß,
+
+80 ist:
+340? — 300? + 2- 300. 40 + 402
+(a+B)?=a?=a?+2aß +ß,
+
+Der Fall, wo b oder ß in der Wurzel als Null
+erscheint, und der den Anfängern gewöhnlich zu
+schaffen macht, ist vom Vf, gar nicht berücksichtigt
+worden. Der Grund des Verfahrens in diesem Falle
+wird dem Schüler gleichfalls nur dann deutlich seyn,
+wenn er jene Zerlegung vorher gefafst hat. Die Lehre
+von den quadratischen und unbestimmten Gleichungen
+
+‚ist gut bearbeitet, In $. 76 wird gelehrt, wie man
+
+die Summe einer arithmetischen, Progressios finde,
+Dabei hätte bewiesen werden sollen, dafs die Sum-
+men je zweier Glieder, die gleich weit vom Anfang
+und Ende der Progression entfernt sind, stets einan-
+der gleich seyen, Die Lehre von den Kettenbrüchen
+und von der Versetzung und Verbindung der Grö-
+Eben so die Anwen-
+dung des algebraischen Calculs auf Decimalbrüche,
+die Disconto - Zins - und Terminrechnung. Der
+zweite, sowie der dritte Theil des Buches, welche
+die Geometrie und die ebene Trigonometrie ones
+und allen
+
+systematischen Gang gänzlich Verzic enthalten
+
+. übrigens für das praktische Leben manche brauchbare
+
+Hindeutungen, uck und Papier sind sehr gut.
+. M,
+
+ERBAUUNGSSCHRIFTEN.
+
+Beeren, b. Ochmigke: Postille oder Predigt - Samm-
+lung ber die Episteln der sämmtlichen Sonn - und
+Festtage des christlichen Kirchenjahres zum Ge-
+brauch bei der häuslichen Andacht und zum Vor-
+lesen in evangelischen Kirchen von E. S, F, Schultz,
+Superint, d. Berliner Stadt - Diöces und _er-
+stem Prediger an d. Sophienkirche, 1833. 5719,
+4. (2 Rthlr. 8 gGr.)
+
+Die Postille, welche der Vf. vor mehreren Jah-
+ren über die evangelischen Perikopen herausgab, fand
+die verdiente Auerkennung, und so veranlälste I
+

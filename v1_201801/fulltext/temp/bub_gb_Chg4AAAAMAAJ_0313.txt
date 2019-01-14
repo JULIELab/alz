@@ -1,0 +1,153 @@
+615 ERGÄNZUNGSBLÄTTER
+
+sowohl wie der frühere vorkommen kann. Sollte z.B.
+._. Pay, Ag, 03; 01, 6,]5 7
+gebildet werden, so erhält man
+
+aa, 6, a, a,b,
+a, a,b, a,a,b,
+d. h. vier Gruppen während die erwähnte Formel
+
+2/—1 1l—14
+
+0 = 0 geben würde, Dieser Fall bedarf of-
+
+hy k
+Pf[a,, a, ‚4. An; bs ba... ] = P[6,, Da... Bm; Ay3 Ay...0,]
+
+ist, wenn daher m < hist, so nimmt man die zweite
+Form und findet mithin für die Anzahl ‚der Gruppen
+. Aj—1 Ai—1
+m . (n—Kk). In dem oben angeführten Beispiel
+warn=3, m= 2, A=2?2, k=1 und die Formel giebt
+1|—1 2|—1
+2 . 2 = 4, wie dies auch wirklich der Fall ist.
+Dieselben Bemerkungen würden auch auf den Fall
+auszudchnen seyn, wenn aus mehr als zwei Reihen
+Versetzungen gebildet werden sollen. In $. 32 wird
+vermittielst dieser Versetzungen die allgemeine Auf-
+lösung der Gleichungen vom ersten Grade mit mehre-
+ren unbekannten Grössen gegeben. Der Vf. betrach-
+tet zuerst drei Gleichungen
+; a, +6, YA 3=d,
+a, S+b,y+c,23=d,
+a, c+b,y+c,z=d,
+und fiudet durch das gewöhnliche Eliminationsverfah-
+ren, dass sich die Werthe von r, y, % durch die
+drei Formeln
+x Pld,, d,, d,; O5 O5, Os) Cis Ca, e,]uu
+Pfa,, a,, 0,; 5,, 6,, 6,; Ci Ca, e, 1b
+y= FI: d,, dz; &,) 8,3) Az; Gy 62, Ey Ib41
+P[b,, 04, 0,35 0,, 62, Gy; Gy) 62, 6; ] bh)
+P[d,, d,, d,; A,) Az, Ay; by Oz, 6,1601
+[6:5 62, 6,3 @, 6, a,; 0,, 0,, 6,15%
+darstellen lassen, wo in den Produkten - Aggregaten
+die Zeichenfolge
+
+ 
+
+ 
+
+Z=
+
+beobachtet werden muss, Diese Ausdrücke verwan-
+delt er nun in drei andere, in welchen die Nenner
+identisch sind, nämlich
+
+__P(d,, d,, d;; bis Oz, By) Ci Can Ci) 01
+
+X =
+(a,, A, A;;3 ö,, Ö,, 35 Ci Ca) e,)bb1
+
+ 
+ 
+
+1) X =
+
+ 
+
+oder
+2) X, =
+
+ 
+
+4’(Q,) Ar... Op;
+
+_P(&,, Ay). Am My Main} Cry Cass Cm;
+F(Q,y Az...Am3 0, ,
+
+Num, 77. SEPTEMBER 1839,
+
+616
+
+fenbar einer besonderen Behandlung; wir begnügen
+ns hier mit der Andeutung, dass man.die Bestimmung
+der Gruppenanzahl jedesmal aus der von dem Vf, ge-
+gebenen Formel ableiten kann, indem der Fall, wenn
+
+m< h, jedesmal auf den zurückgeführt werden kann,
+
+wenn m > A ist, Man braucht nämlich nur zu bemer-
+ken, dass allgemein
+
+k,h
+
+_P(a,, a, , d,; cz d,, d,; Cy &, e, Jh)
+y= (a 8 ad, .: © ce, ) MM .
+> "25 “393 7195 745 733 "m “33 "3
+z— Pla, A,, a,; b,, 5,, hö d,, d,, d,)741
+P(a,, a,, 0,5 6,, 0,, 5,; 0, 625 cz)
+wo wieder dieselbe Zeichenfolge wie früher beobach-=
+tet werden muss. Der Vf. fährt hierauf fort: „die hier
+efundenen Darstellungen . lassen sich nun ohne
+hwierigkeit auf die Auflösung der Gleichungen mit
+vier und mehr unbekannten Grössen ausdehnen, denn
+man erkennt leicht , dass die gemachten Schlüsse sich
+auf jeden einzelnen Fall übertragen lassen und allge-
+mein sind.” Ref, muss indessen bekennen, dass er
+in dem Vorhergehenden gar Nichts von Schlüssen be-
+merkt hat. Es kommt Alles, wie gesagt, ‚darauf
+hinaus, dass der Vf. durch das gewöhnliche Elimina-
+tionsverfahren die Formeln für den Fall findet, wo 3
+Gleichungen mit drei unbekannien Grössen gegeben
+sind, und es ist nicht wohl einzuschen, was man
+hieraus für den allgemeinen Fall schliessen-soll. Wir
+können vielmehr nicht umhin es auszusprechen, dass
+die allgemeinen Formeln durchaus nicht bewiesen
+sind. Solcher Formeln giebt der Vf. drei, wovon je=
+doch die zweite nur cine cinfache Entwickelung der
+ersten ist, weswegen wir sie übergehen;, ‚die zwei
+anderen sind im Grunde auch nur durch die Stellung
+der Gruppen verschieden. Sind nämlich m unbekann-=
+te Grössen X,, zz Sys... S, durch die m Gilei-
+chungen
+
+a8, u FM Am= 9,
+a, X, br, 6, I, +. EM dm= 0
+
+Gy X; +ömzs; Cm; + 4.. + My Zn = Am
+gegeben, so findet man entweder
+
+My... Mm) 11
+
+P(8,, Az00 Az Oi5 Öge000mz er Myy Mzsıı May) 11
+
+CyzarsCm3 +:-Myy My... Min)
+u.8. W.
+
+    
+ 
+
+a4 Op) 045 PL) My- Mg )*
+
+«+ -M,) Ma... Man)
+adj Op) Cars Cm} My MayeıMm), 8,
+
+ 
+
+  
+
+(Der Beschluss folgt.)
+
+TE
+

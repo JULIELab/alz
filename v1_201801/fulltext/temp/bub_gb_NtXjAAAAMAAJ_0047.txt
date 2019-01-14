@@ -1,0 +1,126 @@
+79 A. L. Z. Num, 10.
+
+befchreibende Geometrie bewiefenen Satzes, Ge-
+gen diefe Beweife als folche läfst fich nichts ein-
+wenden. Allein Rec. fcheinen fie doch der Natur
+der Sache nicht ganz angemeflen. Durch die Theo-
+rie der Transverfalen, die leider in unfren Lehrbü-
+chern bis jetzt noch allzufehr vernachläfligt worden
+ift, Jaffen Geh diefe und ähnliche Sätze unter einen
+viel allgemeinern Gefichtspunkt faffen, und ihre
+Beweife vereinfachen. Zwar empfehlen fich die
+Beweife, welche der Yf. giebt, ebenfalls durch Kür-
+ze; allein vergleicht man damit die, welche Carnot
+in feiner Geometrie de pafition , und lan! in fei-
+nem Recueil de diverfes propofitions de GEom. etc. ge-
+ben; fo gewahrt man doch bald, dafs letztere in-
+ftructiver ind, indem fie mehr Licht auf den Zu-
+fammenhang der dabey in Betracht kommenden
+Gröfsen werfen, und zugleich den Weg zeigen, wie
+andere ähnliche Sätze zu behandeln find. — Noch
+theilt der V£. in diefem Anhange eine Methode mit,
+Tangenten an die Kegelfchnitte zu führen. Sie ilt
+
+folgende. Die GNIENE der Geraden, die durch
+2 Punkte geht, deren Abfeiffen «, «', Ordinaten
+fs 8‘ find, ift
+1 al? — an
+vl + AZ G
+
+Unterwirft man nun diefe Punkte der Bedingung,
+dafs fe im Umfange einer Ellipfe oder Hyperbel
+liegen, und fetzt man «= & cof; g, a‘ = & cof. g'
+
+a_ al = a
+cof. cf
+
+je Hyperbel, fo findet man aus den Mittelpunkts-
+Techn en diefer Curven 3 = 6 fin. m, f EL Jin. g*
+ür die Ellipfe ‚ und P= btang.g, 8‘ = btang. q*
+für die Hyperbel. Diefe Werthe in die Gleichung
+
+für die Ellipfe, und «= für
+
+JANUAR 1827. 80
+
+(1) fubftituirt, findet man die Gleichung der Gera-
+den, welche 2 Punkte im Umfange der Ellipfe und
+Hyperbel hat. Setzt man nun @ = gg", fo fallen
+beide Punkte offenbar in einen zulammen und man
+hat als Tangentengleichung
+
+b b 4 .
+ys— zn Tg für die Ellipfe, und
+
+bxz
+afın. @
+
+y — bcot. @ für die Hyperbel.
+
+Für die Parabel findet man: y = 3x cot. @ + 3ptang.
+
+> wo lang, 9 = 5 und die rechtwinklichten
+Coordinaten ihren Anfangspunkt im Scheitel ha-
+ben, Hieraus leitet nun der Vf, aufser einer einfa-
+chen geometrifchen Methode, Tangenten an eine
+Ellipfe oder Hyperbel zu führen, die beiden Sätze,
+dafs die Summe der Quadrate der conjugirten
+Durchmeffer der Ellipfe, und der Flächeninhalt des
+die Ellipfe berührenden Parallelogramms conftante
+Gröfsen find, fehr kurz ab.
+
+Schliefslich wird noch bewiefen, dafs der“
+geometrifche Ort für den MDurchfchnittspunkt
+zweyer fich rechtwinklich fchneidender Tangenten
+der Ellipfe und Hyperbel ein Kreis ift, deflen
+Mittelpunkt in dem Mittelpunkte jener Curven
+liegt, und deflfen Kadius = (a? +6°) für die
+Ellipfe, und = (a — 6°) für die Hyperbel ift,
+wenn 2a und 25d die Axen bezeichnen,
+
+Die Correctur il (orgfältig gewefen; doch kom-
+men mehrere finnftörende Druckfehler vor, die ei-
+ner Anzeige bedurft hätten.
+
+S,
+
+ 
+
+LITERARISCHE
+
+Todesfall.
+
+Am 16. Dechr. v. J. ftarb zu Wolfenbüttel der
+Doctor der Theologie und Confilt, - Vice - Prölfident
+‚Auguft Chriftian Bartels im 78. Jahr feines Alters, Er
+glückte ihm als Prediger an der Martinskirche zu
+Braunfchweig, was fo vielen mifsglückte , ' feine Be-
+kanntfchaft ınit der Kantifchen Philofophie in feine
+Predigten zu übertragen, olıne die Herzlichkeit und
+Verltändlichkeit derfelben zu fchwächen, er kam
+aber in einen Streit über die Lehre vom Teufel, Er
+war und hlieb Zeit feines Lebens ein glühend eifriger
+Proteftant wider alle Unvernunft; fo zeigte er fich in
+feinen Predigten, die viel befucht und gröfstentheils
+gedruckt wurden , in feinen Abhandlungen für Zeit-
+
+NACHRICHTEN.
+
+fchriften, und noch zuletzt in (einer Rede hey der Ge-
+dächtnifsfeyer der Univer(ität Helınfiedt, Der Herzog
+Karl Wilhelm Ferdinand zu Braunfehweig erkannte
+und benutzte den Mann voll Geift und Kraft zu Ratlı
+und That, ernavpnte ihn zum Hofprediger, zum Abt
+von Riddagshaufen, und Mitgliede des Confiftoriums
+zu Wolfenbüttel, als Bartels noch zu den jüngliten
+Geiltlichen gehörte. Seit'em und vierzig Jahre hin-
+durch war er die Seele deffen, was für Kirchen und
+Schulen im hiefigen Lande gefchah; und wenn er in
+den letzten Jahren felten Jie Manzel beftieg , fo en-
+digle feine Thätigkeit als Vicepräfident des Confi-
+ftoriums erft in feiner Todeskrankheit, — In frü-
+hern Jahren lieferte er fchüätzbare Beyträge zu unle-
+rer Allg. Lit. Zeit,
+
+ 
+

@@ -1,0 +1,114 @@
+In den $8. 36 und 37 werden die Verbindungen
+mit und ohne Wiederholungen betrachtet, welche
+durch Verbindung der Gruppen verschiedener Ele-
+mentenreihen erzeugt werden. Die letzteren werden
+durch C bezeichnet und es ergiebt sich
+Ah lfm Pk —1
+C[8,> 0z...0n; 01, O3.+.bm] dA
+Doch güt auch hier die Bemerkung dass die Formel
+nur für den Fall richtig ist, wenn m > A. Die ersteren
+werden in zwei Fälle abgetheilt 1) Verbindungen, in
+denen die Elemente jeder Reihe mit ähnlichen oder
+unähnlichen der übrigen Reihen zusammentreten, das
+Zeichen für diese Bildungen ist C. 2) Verbindungen,
+in denen die Elemente jeder Reihe nicht nur mit allen
+Elementen der übrigen, sondern auch mit sich zu-
+sammentreten, das Zeichen ist (*. Die Gruppenan-
+zahl der ersten Art ist ;
+
+C’[@,> Ay...0n; Ö,, Oz... Bm; Ci) CayewnCoz uns
+Duo u— —
+al 2 m) z ol! . 1
+A[1 „k]1L Hl
+ALL
+
+gt
+
+Die Gruppenanzahl der zweiten Art ist
+C'[&,) Az... 8n; Oz dz.000m;z Cry Car Coz ++]
+„Al2 mA 11 PL .
+En,
+Auch hier sind noch mehrere Zwischenfälle denkbar,
+die nicht weiter erwähnt sind.
+
+Im sechsten Abschnitt , $.38— 40, wird die Ver-
+theilung der Elemente in Fächer behandelt, Der Vf,
+versteht hierunter die Gesammtheit aller möglichen
+Zusammenstellungen von Gruppen, die dadurch ent-
+stehen, dass man zwei oder mehrere Fächer annimmt
+und in sie, der Reihe nach, eine gegebene Elemen-
+tenanzahl gruppenweise so bringt, dass in jedem Fa-
+che immer eine gleich grosse Zahl von den Elementen
+erscheint. Es können hierbei die Elemente aus einer
+oder aus mehreren Reihen genommen werden, es
+kann zugleich die Bedingung gemacht werden, dass
+die Elemente wiederholt oder nicht wiederholt werden
+dürfen. Für alle diese Fälle wird die Anzahl der Ver-
+theilungen gegehen, Hieran schliesst sich im sieben-
+ten Abschnitt $. 41 und 42 die Untersuchung über die
+Zerstreuung der Elemente in Fücher, wenn nämlich
+eine Klementenanzahl so in Fächer vertheilt wird,
+dass immer nur ein Element in jedem Fache erscheint,
+die Elemente selbst aber nach und nach alle mögli-
+chen Zusammenstellungen in den Fächern einnehmen,
+
+hyk,8
+
+ERGÄNZUNGSBLÄTTER Num, 78. SEPTEMBER 1839.
+
+624
+
+Hier können wieder dio Elemente aus ciner oder meh-
+reren Reihen mit und ohne Wiederholung genommen
+werden, Für alle diese Fälle ist die Anzahl der Zer=
+streuungen gegeben. Wir hätten gewünscht, dass
+der Vf. die Verdienste des Hn, Hofr. Schweins um
+diese Lehre erwähnt hätte. Eine besonders interes-
+sante Untersuchung ist die über die Stellenelemente
+bei Versetzungen im achten Abschnitt $. 43 — 46.
+Man denke sich zuerst die Elemente einer Reihe
+Q,y Ay, Oys.. Op
+
+Nimmt man bei diesen Elementen auf die Ordnung, in
+welcher sie erscheinen, Rücksicht, so dass also das
+Element a, die erste, das Element a, die zweite Stel-
+le u. s. w. einnimmt und man bildet Versetzungen zu
+irgend einer Klasse, so werden die einzelnen Ele-
+mente alle möglichen Stellen neben einander einneh-
+men. Nennt man nun die Stelle , die einem Elemente,
+nach Angabe seiner Stellenzahl, zukommt, die ilim
+zugehörige Stelle, so kann man fragen, wie oft ein
+jedes Element die ihm zugehörige Stelle einnimmt;
+oder, wenn man dies Element selbst, in sofern es
+diese Stelle einnimmt, ein Stellenelement nennt, wie
+gross die Anzahl der Stellenelemente bei irgend einer
+Versetzungsklasse ist. Die Formel, welche diese
+Frage beantwortet, hat die Gestalt einer Reihe und
+lässt sich, wie der Vf. zeigt, wenn n sehr gross ist,
+durch einen kurzen eleganten Ausdruek ersetzen. Es
+ergiebt sich daraus auch zugleich die Beantwortung
+der Frage, wie gross die Anzahl der Gruppen ist, in
+welchen kein Stellenelement erscheint, so wie der
+Frage, wie gross die Anzahl der Gruppen ist, bei wel-
+chen gerade r Elemente auf ihren Stellen erscheinen.
+Dieselbe Untersuchung kann auch für den Fall ge-
+führt werden, wenn die Versetzungen durch Ele-
+mente mehrerer Reihen erzeugt werden, worüber
+man in $. 45 und 46 Erörterungen findet.
+
+Der letzte Abschnitt , $. 47 und 48, ist der Un-
+tersuchung über die Näherungswerthe sehr grosser
+Facultäten gewidmet, Dieser Gegenstand ist be=
+sonders in der Wahrscheinlichkeitsrechnung von
+grosser Wichtigkeit, gehört aber eigentlich nicht in
+die Combinationslehre. Der Vf, zieht ihn hierher,
+weil bei der Bestimmung der Gruppenanzahl der
+Combinationen oft Facultäten von sehr grossen Zah-
+Jen vorkommen, Wir werden bei Besprechung eines
+anderen Werkes des Vfs, auf den Inhalt dieses Ab-
+schnitts zurückkommen.
+
+Sn.
+
+ 
+

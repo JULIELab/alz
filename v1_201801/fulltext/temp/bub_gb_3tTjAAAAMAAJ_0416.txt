@@ -1,0 +1,132 @@
+821
+
+fich mit der Auffiellung der Gleichung. Die Entfiehun
+
+der Parabel, Ellipfe und Hyperbel ($. 21. 51. 43.) fin
+
+die, welche Robert Simfon angiebt, Die $6$.81— 87
+führen die befondre Ueberfehrift: Von den Kegel-
+fchnitten. Der Vf, gedenkt in $. 81 der alten Geo
+meter, wo es nicht unzweckmäfsig gewefen feyh
+würde, wenn er die Benennungen, welcher fich
+die Alten bedienten, angeführt und die gewühn-
+lichen Benennungen gerechtfertigt hätte. Die Me-
+thode, welche die Gleichungen der Kegelfchnitte
+aus den Durchfchnitten des Kegels herleitet, nennt
+Hr. S. weniger einleuchtend, als die feinige; auch
+fehle derfelben das Allgemeine, weil fie nicht auf
+alle Curven anwendbar fey. In den genannten $$.
+bemüht er fich nachträglich zu zeigen, wie jene
+Gleichungen aus der Betrachtung der Schnitte des
+Kegels gefunden werden. KE$ würde aber ficher-
+lich zweckmäfsiger feyn, wenn der Vf, eine allge-
+meine Gleichung für diefe Curven aufgeliellt' und
+diefer den Lehrlatz: Jede Linie der zweyten Ord-
+nung if ein Kegelfchnitt, beygefügt hätte. 6. 87.
+Anmerkung 3. enthält eine ünnreiche Conliruction
+eines (ogenannten Conifectors, ähnlich der von Mär-
+tens angegebenen. — Der 11, Abfchnitt ($. 88 — 95.)
+führt die Ueberfchrift: Von den Tangenten der Li-
+nien der zweyten Ordnung, ($. 88.) Tangent einer
+krummen Linie i(t eine gerade Linie, welche einen
+Punkt mit der krammen gemein hat, von wel-
+chem Punkt aus beide Bogen der krummen Linie
+ganz auf einer Seite der geraden liegen. Die Tan-
+gente, Subtangente, Normale, Subnormale, nennt
+der Vf. geormetrifche Hülfslinien. In $. 89 zeigt
+der Vf, die bekannte fynthetifche Methode, an ei-
+nem gegebnen Punkte einer Linie der zweyten Ord-
+nung eine Tangente zu ziehen, und lehrt in $. 92
+die Tangente u. £ w. aus der Abfeiffe zu berech-
+nen. —  Abfcho, LV. ($. 96 — 121) . Von den Linien
+der dritten und vierten Ordnung, Die Ciffoide wird
+in $. 96 — 108 behandelt, $. 109 und 110 enthalten
+die bekannten Anwendungen auf das Delifche Pro-
+blem. $. 111 —118 behandeln Conchoide; auch
+hier wird die Anwendung diefer Curve zur ’Auflö-
+fung des Delifchen Problems ($. 119.) und auch auf
+die Trifection des Winkels ($. 121.) gezeigt. —  Ab-
+Ächnitt V. ($. 122 — 157) Von den Transcendenten -
+Linien. . Wir. finden. in diefem Abfchnitt die (ua-
+dratrix ($ 122 -— 133), die Spiralen ($. 134— 142),
+die Cycloide ($. 143 — 152.) und die Epicycloide
+($- 155 — 157.) ‚abgehandelt. Die Darfellung aller
+im Ab(chnitt 1V und V. behandelten Curven und
+auch die Entwickelung der Gleichungen if eben fo
+vollGändig als klar, Im VI. Abfchnitt ($. 158 — 168.)
+behandelt der Vf. die arithmetilchen Linien, Im
+$. 158 macht der Vf. die Bemerkung, dafs fich
+das Gefetz, nach welchem ein Punkt, der he be-
+fchreibt , lich im Raume bewegt, nicht angeben
+Jäfst. Die logarithmifche Linie wird $. 161— 164,
+die Jogarithmilche Spirale $. 165— 168 behandelt. —
+VIL Abfchn, ($. 169 — 184) Von den krummen Li-
+nien überhaupt. Wir finden in dielem Ab(chnitt
+
+Num, 103. SEPTEMBER 1827,
+
+822
+
+die Transformation der Coordinaten, die Auffiel-
+Jung der Polargleichungen , Unterfuchungen über
+die‘ Durchfchnittspunkte , über Gleichheit und
+Aehnlichkeit abgehandelt. In Beziehung auf $. 172,
+wo der Satz aufgeftellt wird: Zwey Linien, "von
+welchen die eine von der mten, die andre von der
+nten Ordnung it, können fich höchfiens in mn
+Punkten fehneiden, und höchliens in 4mn Punk-
+ten berühren, wo der erfie Theil, wie gewöhnlich,
+analytifch, der andre aber phoronomifch bewielen
+wird, bemerken wir, dafs es doch wohl beffer ge*
+welen feyn dürfte, wenn beide Theile entweder
+zugleich phoronomifch, oder zugleich analytifch be=
+wiefen worden wären. VI. Abfchnitt. ($. 185 bis
+194). Von der Confiruetion der Functionen ($. 187
+bis 189), der Gleichungen ($. 190 — 192), und der
+Erfindung krummer Linien ($. 193—194). $. 195
+heifst es: „... man darf nur Kegeln fefifetzen , näch
+welchen der Punkt fich bewegen foll, fo if feine
+Bahn, wofern die fefigefetzten Regeln nicht felbft
+die Bewegung unmöglich machen, eine krumme
+Linie, welche man, {fo wie jede andre, unterfuchen
+und deren Eigenfchaften beliimmen kann.” — Der
+1X. Abfchnitt ($. 195— 208.) führt die Ueberfchrift:
+Von den geometrifchen Hülfslinien. 6. 198 enthält
+den Lehrfatz: Eine gerade Linie und eine krumme
+Linie, welche fch berühren, haben am Berührungs-
+punkte einen unendlich kleinen Theil oder ein Ele-
+ment gemein{chaftlich, Hr, S. fagt von diefem Satze,
+dafs es nicht nur durch ihn möglich werde, die
+eigne Natur der Krümmung zu erforfchen, fondern
+dauls er zugleich auch eine befümmte Anlıcht von der
+Curve gebe, 6. 206 lehrt die geometrifchen Hülfs-
+linien jeder Curve zu beflimmen, und 6.207 diefe Li-
+nien für jeden Punkt der Curve zu ziehen. —
+(Der Befchlufs folgt.)
+
+GESCHICHTE,
+
+OsvannücrK, gedruckt b. Kifsling: Gef/chichte der
+Stadt Osnabrück. Aus Urkunden ‚und Acten.
+1826, VIlLu. 8155, 8.
+
+Der Vf., Dr. C. Stüve in Osnabrück, Deputirter
+diefer Stadt bey der allgemeinen Ständeverfammlung
+des Königreichs Hannover, dem wir fcehon die Er-
+
+änzung der Osnabrück’/chen Gefchichte , von Juftus
+
+Jöfer , aus deflen handichriftlichem Nachlaffe (Ber
+lin 1824. 8.) verdanken, liefert in dem vorliegenden
+Buche eine ähnliche Ergänzung der von feinem ver-
+fiorbenen Bruder und einem Freunde deffelben im
+J. 1817 herausgegebenen Gefchichte der Stadt Os-
+nabrück, weshalb. denn diefes Buch als der dritte
+Theil jener Gefchichte bezeichnet worden ifiz die-
+fesmal aber nicht aus deren literarifchem Nachlaffe,
+foandern als felbfüifändiges, durch ihn allein ver-
+fafstes Werk, deflen Plan von jenem wefentlich _
+abweicht. „Was den Plan diefer Gefchichte be-
+trifft, fagt der Vf. in der Vorrede, fo lag den Freun-
+den, welche die erlien beiden Theile gemeinfchaft
+

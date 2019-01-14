@@ -1,0 +1,157 @@
+von, der vollkommnen Reinheit
+brauchbar: bleiben follen. ufzählung der, ge-
+wöhnlichften temperirten Intervalle, —) T atur-
+komma. Welche man dazu rechne; nämlich: das di-
+tonilche Komma, die gröfsere und die kleinere Die-
+fis. Vergleichung derfelben nach Zwülfteln von dem
+ditonilchen Komma. — Die vorzüglichften Kigen-
+
+fen dürfe,  wenD- fe
+
+fchaften. einer. guten Temperatur, -— ”" Dräyzehntes"
+
+Kap. Von der gleichfchwebenden Temperatur insbe-
+fondere. Verlchiedene Arten, fie zu berechnen;
+theils durch Inte theils vermittellt des
+Onlenotals s kömmt hierbey darauf an, das
+
+erhältnifs der Octave in zwölf geometrifch gelbe
+Theile zu theilen, indem bey der gleichfchwebenden
+"Temperatur alle zwölf halben Töne der Octave vöh
+lig gleich {eyn follen. — Art und Weife, eine gleich-
+ohehends Temperatur zu prüfen; ingleichen auch,
+zwey gegebne Temperaturen mit einander zu verglei-
+chen. — Fierzehntes Kap. Erklärung und Beurthei-
+Jung mehrerer fa#@ gleichfchwebender Temperaturen
+von Neidhardt, Sorge v.a., auch der von Schrüter,
+deflen Methode mit grofsem Kechte ganz eigenthüm-
+lich und finnreich genannt wird. — Erklärung der
+“Temperaturplane, welche der letztere in (einer Klei-
+xen Schrift: Letzte Befchäftigung mit mofikalifchen
+Dingen, aufgeltellt hat. — Funfzehntes Kap. Von
+den ungleichfchwebenden T’emperatures., Erklärung,
+Berechnung und Beurtheilung 1ı) der Kirnberger-
+‚ fchen; 2) derer von Neidhardt, Werkmeißer, Silber-
+mann, Kepler, Euler, v. Wiefe u. a..— * Sechzehntes
+Kap. Von einigen unharmonifchen Tonleitern und
+deren Berechnung. — Von der Art und Weife, wie
+man eine Temperatur auf das Monochord aufträgt. —
+Ein Anhang erklärt noch mehrere Stellen; die ir
+Kirnberger's Kunft des reinen Satzes vorkommen,
+
+Die Art und Weile, wie alle diefe Materien aus-
+
+eführt find, entfpricht vollkommen der Erwartung,
+
+ie man von dem gelehrten Vf, zu haben berech';
+wor. Allenthalben herrfchen Beftimmitheit, Gründ-
+lichkeit und {(trenge Ordnung. Eine Menge lKiterari-
+fcher und Kritifcher Bemerkungen find gehörigen
+Orts eingewebt, und der Vartrag ilt durchgängig fo
+lichtvollz dafs auch die Ungeübtern diefes Werk zu
+ihrer Belhrang benutzen können.
+
+In der Lehre von der harmonifchen Theilung
+der Tonverhältniffe ift der Vf. blofs fo weit Bag
+gen, dafs er zeigt, wie ein gegebnes Verhälmmi(ls in
+‚zwey Theile harmonifch getheilt, wie allo zu zwey
+gegebnen Zahlen‘ die mittlere harmonifche Propar-
+tionalzahl gefunden werde, Die Aufgabe: ein Ver-
+hältnifs in mehrere Theile harmonifch zu theilen,
+und allo mehrere harmonifche Mittelproportionalen
+zwifchen zwey gegebnen zu finden, mufsıe derfelbe
+unberührt laffen. nn es follen ausdrücklich ($. 1.)
+nur die ühlichften Tonberechnungen erklärt werden,
+Die Auflöfung der eıJachten Aufgabe aber iflt, wie
+der Vf, fehr richtig  Bemerkt, bis jetzt noch von kei-
+nem Gebrauche in der Tonlehre, Indellen könnte
+fie es vielleicht noch werden. Wir benutzen daher
+diefe Gelegenheit, eine Methode ibrer Auflöfung Kurz
+
+Jation,
+
+ALLG. LITERATUR - ZEITUNG
+
+84
+-zu entwickeln, und behalten‘ uns vor, an einem an-
+dern Orte mehr davon. zu fagen. . .
+a) Es-ift bekannt, und z. B. in Wolf’s Algeb
+eigt, wie aus dem erften und zweyten Gliede einer
+armonifchen Progrefßon jedes folgende gefunden
+
+werde. Wenn nämlich a@ das erfte und b das zweyte
+Glied ift, fo.ift $ nr
+a
+
+das mt Glied = nn
+; | (n— 1) a-— (n—2)b
+
+Folglich das (g— 1) = ——
+(n—2)a— (n—3) 0
+£) In einer harmonifchen Progreffon ift das Verhält:
+nifs zwifchen dem Producte und der Differenz jeder
+zwey unmitelbar auf einander folgenden Glieder durch-
+gängig einerley, Denn wenn ga, x, y, z, d in harmo-
+nifcher Progreißon find: fo ift
+(eu) : Cl) = 8:
+xy)ılgy—z)=x!Z
+„zz
+Folglich: {a—x):(z—d) = axy:yzd = ax :zıd
+Oder:
+
+(a—x): ax = (z—d): zd
+
+3) Wenn von einer harmonilchen Pr
+erfte und letzte Glied gegeben find: fo kann daraus
+das zweyte gefunden werden. Bedeutet nämlich @
+das erfte, x das zweyte, z das vorletzte,.d das letzte
+Glied, und ® den Zeiger des letzten Gliedes: fo ift
+
+_ _(s—1ı) ad
+
+0 a+(n—2)d
+Denn weil (nach Nr. 1.)
+
+reffion das
+
+ 
+
+" (n—2)a—(n—3) x
+fo ift (nach Nr. 2.)
+ax:(a—x)
+
+axd ax ”
+Zn vn ————>——— SD ( ————————>— SP
+(n— 2)0— (n—3) * (G=5r0=0
+axd „ax — (#— 2) ad +(n—3) xd
+
+az 3z)= (na) a —(n—3) x
+= axd: (ax — (n—2) ad + (n—3) xd);
+
+und wenn man alfo das erfte und letzte diefer Ver-
+
+hältniffe zufammen nimmt, und in diefer Proportion
+
+die-äufsern, ingleichen die mittlern. Glieder multipli-
+
+cirt: fo ift ‚
+
+a*x?— (n—2) #’"xd + (n—3) ad = a’rd— ax?d;
+
+Folglich: : ;
+
+‚n ax— (n—2) ad + (n—3) 2d = ad—xd;
+
+Folglich: .°
+
+. ax + (n—a)xd = (n—1) ad;
+
+Folglich: A
+
+; f Era & (n— 11) ad’
+
+‘i 4 IS ven SEE EEE . ‘
+
+a+r(in—a)d -
+“4 A ‚+ m 4)
+

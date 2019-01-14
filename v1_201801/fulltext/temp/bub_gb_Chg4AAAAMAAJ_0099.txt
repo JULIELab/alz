@@ -1,0 +1,133 @@
+187
+
+det, und es giebt also (wie der Vf, früher gezeigt hat)
+weder Maxima, noch Minima der gegebenen Function.
+Ist aber 5 eine reelle Wurzel der Gleichung f(x) =0;
+so setze man dieselbe für & in die Differentialquo-
+tienten
+f*0), FO, FÜ fs
+wodurch man die Reihe
+FÜ FO, SO, FO...
+
+erhält, und bleibe in dieser Reihe bei dem ersten nicht
+verschwindenden Gliede, wofern es ein solches Glied
+giebt, stehn. Ist nun f(S) dieses erste nicht ver-
+schwindende Glied, so ist
+
+1. wenn » eine ungerade Zahl ist , f(F) weder ein
+Maxim noch ein Mininum der gegebenen Function;
+dagegen ist
+
+2. wenn n eine gerade Zahl ist, f(£) ein Maxi-
+mum oder ein Minimum der gegebenen Function, je
+nachdem f“)(£) negativ oder positiv ist. Dieselbe
+Untersuchung muss man mit allen reellen Wurzeln der
+Gleichung f(x) = 0, soviel es deren giebt, anstellen,
+Vebrigens gilt alles Obige uur unter der Voraussetzung,
+dass die Functionen .
+
+FÜ, FO, 1°C, fa)... O0)
+in der Nähe des bestimmten Werthes 5 von wr stetig
+sind, wovon man sich also streng genommen in jedem
+einzelnen Falle besouders überzeugen muss, Jedoch
+leuchtet die Stetigkeit der in Rede stehenden Functio-
+nen in der Nähe des bestimmten Werthes & der unab-
+hängigen veränderlichen Grösse in den meisten vor-
+kommenden Fällen so leicht und von selbst ein, dass
+man eine besondere Untersuchung in der angedeuteten
+
+{ d%p 822g
+2 A A|
+a2y VE PSzar
+dur qgi
+
+Da nun für die nach der vorher gegebenen An-
+weisung gefundenen Werthe von x
+
+ya
+Tax dr
+ist, so ist für diese Werthe von x
+d2p __ „924
+a2y AM Sri U Parı
+Dr? On q?
+
+Weil es nun aber bekanntlich blos darauf ankommt,
+ob der zweite Differentialquotient für die in Rede ste-
+henden Werthe von x, vorausgesetzt, dass derselbe
+für diese Werthe von x nicht verschwindet, positiv
+oder negativ ist; so braucht man, weil g? immer po-
+sitiv ist, diese Werthe blos in die Grösse
+9? pp a? q
+Yazı Pazr
+
+*
+
+ERGÄNZUNGSBLÄTTER ZUR A.L.Z.
+
+erste Differentialquotient verschwindet,
+
+,’
+
+155
+
+Beziehung gewöhnlich nicht anstellt, wenn es nicht
+anders die Natur der Sache unbedingt erfordert. —
+Bei gebrochenen Funclionen kann man sich die Auf=-
+suchung der Maxima und Mınima auf folgende Art er-
+leichtern, wobei wir jedoch blos den Fall näher be-
+trachten wollen, wenn der zweite Differentialquotient
+der gegebenen Function in der Reihe der Differential-
+quotienten der erste ist, welcher für den Werth der
+unabhängigen veränderlichen Grösse, für welchen der
+nicht ver-
+
+. . io D
+schwindet. Sey zu diesem Ende überhaupt y = n ; Wo
+
+p uud g Functionen von £ bezeichnen, die gegebene
+Function; 80 ist bekanntlich
+
+©p wi
+au _ Tür Par
+
+or qy:
+. „2 84
+
+und es ist folglich — =0, wenn
+ar
+
+ps
+Ar Ör
+ist, Vorausgesetzt, dass für denselben Werth von vr,
+welcher vorstehender Gleichung genügt, nicht auch 4
+verschwindet. Man wird also jederzeit die reellen
+
+Wurzeln der Gleichung 4 a —p ud = Oaufzusuchen,
+
+sich zugleich aber auch bei jeder dieser Wurzeln zu
+versichern haben, dass für dielbe q nicht verschwin—
+det. Durch Entwickelung des zweiten Differential-
+quotieuten der gegebenen Function ergiebt sich
+forner
+
+(. dqg dq 124
+—M\1 5x Paz lör
+
+für r zu setzen, und zu untersuchen, ob die entspre-
+chenden Werthe dieser Grösse positiv oder negativ
+sind. Im ersten Falle wird jederzeit ein Minimum,
+im zweiten ein Maximum statt finden. — ZZ. B. Auf-
+gabe: Die Werthe von x zu finden, für welche die
+Function y= x? +35 + 2 ein Maximum oder ein Mi-
+nimum wird. Durch Entwickelung des ersten Dif-
+
+* + * D «
+ferentialquotieuten ergiebt sich x =2r+3, und man
+
+hat folglich zur Bestimmung von. = die Gleichung
+2r+3=0, welche die eine reelle Wurzel - = —3
+hat, Für den zweiten Differentialquotienten erhält
+man Sr = 2. Da nun dieser Differentialquotient
+für jedes r, folglich auch für z=—1, = 2ist, für
+den in Rede stehenden Worth von x also nicht ver-
+

@@ -1,0 +1,131 @@
+818
+
+I@ aber diefs der Fall, wird dadurch nicht $. 2 wi-
+derfprochen ? Die Combination der Gröfsen wird
+im Ihten Abfchnitt ($. 5) in'kurzer aber klarer
+Darfiellung gelehrt. Die combinatorifche Operation,
+welche man gewöhnlich mit dem Worte /ariation
+bezeichnete, nennt Hr. S. (6. 42) weitläuftige Com-
+bination, Die Zufammenfetzung der Gröfse aus ihren
+Dimenfionen’ ift im 1lten Ab(chnitt ($. 50—78) ent-
+halten. ($.50.) Eine Gröfse aus Dimenfhonen zu-
+fammenfetzen, heifst eine Gröfse bilden, welche die
+gegebene Dimenlion enthält. $. 54 enthält das Bino-
+mialtheorem für ganze und poftive, $. 62 daffelbe
+für negative und gebrochene Expoönenten, In der
+1fien' Anmerkung ($.66.) wird gefagt: „Der hier ge-
+führte Beweis für die Allgemeinheit der Binomial-
+formel, wenn der Exponent negativ oder gebrochen
+ii; ift einfach und einleuchtend.” Diefs geben wir
+zu.‘ Wenn aber ferner gefagt wird: „es Jäfst fich
+nicht wohl ein andrer (Beweis) ohne Vorausfetzung
+analytifcher Lehren, die hier noch nicht vorkommen
+können, geben,” fo find wir andrer Meinung, und
+behaupten, dafs der Beweis von Euler, wie ihn Lo-
+renz  (Liehrbegriff der Syntactik $. 291) giebt, fo-
+wohl hinfichtlich feiner Strenge und Einfachheit,
+wie auch feiner Kürze, den Vorzug vor dem des Hn.
+S. verdient, In der 2ten Anmerkung werden die Be-
+weile für die Allgemeinheit des Binomialtheoremes
+durck Differentialrechnung als unlogifche getadelt.
+Am Schlufle heifst es: „Wie diefer/ Beweis geführt
+wird, findet man in Kälfiners Analyfs: des Unend-
+lichen. 46.” Soll diefls Käftnern zum Vorwurfe ge-
+reichen, {o bitten. wir,‘ in der angeführten: Schrift
+48 zu berücklichtigen. — Die befondern Beziehun-
+gen der Binomiakcoefhcienten finden wir als Zufätze
+zum Theil angegeben; wir: würden.diefe. als befon-
+dere Lehrfätzerhervorgehoben haben. — S. X heilfst
+es ferner: „Auf dielem Grundfätze beruhet ferner
+die Theorie der Zahlenreihen; dann aber yorzüglich
+die Theorie der Fünetion, als der allgemeinen Dar-
+fiellung, wie die Gröfse berechnet wird.” — Die
+Lehre von den Zahlenreihen finden wir in dem IVten
+Abf({chnitte ($. 79 — 112) behandelt, und zwar behan-
+deln die $$. 855—91 die geometrifchen, die $$.92—96
+die arithmetifchen ‘ ProgrefGonen; jene werden als
+durch Multiplication oder Divifion, diefe als durch
+Addition und” Subtraction entüanden  angefehen;
+$$. 97 — 98 behandeln die Polygonalzahlen; ©. 99 —
+102 enthalten die Summenreihen, Das allgemeine
+Glied und die Summe diefer Reihe werden durch
+Hülfe der Combination gefunden. Die $$. 103 — 112
+handeln von den Differenzreihen und den {ummirten
+Reihen. Die'Darfiellung if eben fo klarals bündig.
+Der Vte Abfchnitt ($. 113—133) handelt’ von‘ den
+Functionen. . Wir finden-hier anfser der Eintheilung
+der Functionen auch die erften und wichtiglien Sätze
+von denfelben aufgefiellt und bewiefen. Der VIte
+Abfchnitt ($. 134— 141) befchäftigt fich” mit der
+Transformation der Functionen, Die für die Inte-
+Tr fo wichtige Zerlegung der gebrochenen
+
+unctianen in einfache Brüche if in 6. 137 enthalten.
+
+Num, 102, SEPTEMBER 1827,
+
+814
+
+In Beziehung auf den Fall, wo ax ++ yY-—1
+ein einfacher Factor if, finden wir die Verwandlung
+deffelben in’ax + ß (1 +tang. gg Y—1) u. £L ww. mit
+Stilllchweigen übergangen, Die Entwickelung der
+Furictionen zu unendlichen Reihen finden wir im
+VIilten Abfchnitte {$ 142— 150) abgehandelt. Der
+Vf.'geht hier von der einfachen Verwandlung einer
+Function durch die Divifion zu der durch den bino-
+mifchen Lehrfatz und der durch die unbefiimmten
+Coefhcienten über. Das Reverfionprobfem behan-
+delt $. 147. Die Gefialt einer unendlichen Reihe
+wird in $. 150 beftimmt, Der VIlIte Abfchnitt ($.151
+bis 167) enthält die Lehre von den Logarithmen in
+der bekannten Darfiellungsart durch unendliche Rei-
+hen. — 5S.X heifst es ferner: „Aus der Theorie
+der Function entwickelt fich die Differenzenrech-
+nung, und aus der Differenzenrechnung geht die
+Differentialrechnung als Berechnung eines Gliedes
+der Differenz hervor. Die Differenzenrechnung und
+die Differehtialrechnung verbinden fich durch die
+Ergänzungsrechnung , welche die Differenz aus dem
+Vilferentiale finden lehrt. Die Integralfechnung
+verbindet die Differentialrechnung mit der Function
+felbft, indem fe aus dem Differentiale die Function
+herleitet.” Um hier eine bequeme Ueberlficht von
+den Principien der Differentialrechnung des Ho, S,
+zu ui — denn die gewöhnlichen Grundlätze der
+Differentialrechnung find falfch und unrichtig; New-
+ton und Leibnitz haben die gröfsten Irrthümer be-
+gangen, indem ‘fie diefe Grundf(ätze aufliellten. S. V
+— theilen wir‘ unfern Lefern folgendes mit: Die
+nachfolgenden Abfchnitte bilden die Infinitefimal-
+rechnung. S. 142—153 enthält eine Einleitung aus
+11 $$. beliehend. Hr. S, betrachtet das Differential
+als ein vorzugsweife, gewähltes Glied der Differenz;
+warum man gerade das erlie Glied derfelben wählt,
+wird ($. 5. S, 143), wie folgt, dargethan: Wird in
+4y=nxz2-" 4m +Bou-214x=2,..., n als eine
+Ca Zahl genommen , {fo werden einige Glieder = 0.
+
+te z. B, das zweyte genommen werden, fo wäre
+diefes Glied =o, wenn n=1 if; aus o läfst fich aber
+die Function nicht herleiten, allo mufs das erlie
+Glied genommen werden, Dafs man übrigens auch
+das zweyte Glied in dem Falle, wenn x nicht = 1 il,
+nehmen kann, wird Seite 151 $. 10 gezeigt. Damit
+aber diefes einzelne Glied, diefer Theil von der Dif-
+ferenz, nicht etwa für die ganze Differenz der Fun-
+ction angefehen werden möge, fetzt Hr. S. das Zei
+chen d anfiätt 4. Der IXte Abfchnitt ($. 161—181)
+handelt die Differenzen der Functionen in einer kla-
+ren Darfiellung ab... Der Xte Abfchnitt ($. 165—221)
+enthält die Differentiälrechnung. 6. 182 fiellt das
+allgemeine Grundgefetz auf: „dasjenige Glied der
+Differenz, welches nur eine einzige Dimenfhon der
+veränderlichen Gröfse enthält , foll allein berechnet,
+und alle übrigen Glieder follen nicht berechnet wer-
+den.” "Auf diels Grundgefetz geliützt wird d. X"
+
+=nXa="dXundd. X. Y, d hergeleitet. — Das
+Differential kann den Umftänden nach fo grofs Siler
+o
+

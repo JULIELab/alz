@@ -1,0 +1,131 @@
+817
+
+818
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LIT
+
+ERATUR - ZEITUNG
+
+ 
+
+September 1827.
+
+ 
+
+MATHEMATIK.
+
+OunzxsaurG, b, Schulz: Follfiändiger Lehrbegriff
+
+der hühern, auf Combination der Gröfsen ge-
+
+ründeten, Analyfis, und der höhern phorono-
+mifchen Geometrie. Von J. F, Schaffer u. ww.
+
+(Fortfetzung der im vorigen Stück abgebrochenen Recenfion.)
+
+W ir theilen mit andern Mathematikern die Anficht,
+dafs es für den Verliand befriedigender ii, wenn
+
+wir uns unter 5 = nzr— 1, die unendliche Annähe-
+rung von A =nz— + za, dar Oz Oz
+Ax)! +.... zu' dem Werth non—ı denken. Die
+’ermeidung des Begriffs des unendlich Kleinen in
+der Theorie der Differenzialrechnung führt nur zu
+neuen Hypothefen, und es dürften die Vertheidiger
+diefes Begriffs völlig Recht haben, wenn fie die Noth-
+wendigkeit deffelben behaupten, Denn obgleich wir
+das Unendliche zwar nicht anfchanen, aber doch
+denken können, fo if der Begriff deffelben ficher-
+lich ein reines Product der Denkkraft (kein Hirnge-
+fpinnft der Phantafie), auf welchen wir durch die
+unbegrenzte Möglichkeit in der Vervielfältigung und
+“Xheilung einer Gröfse nothwendig geleitet werden,
+Es dürfte aber auch der Vorwürf, welchen man de-
+nen macht, die fıich bemühen, diefen Begriff zu
+meiden: dafs fie fıch in Weitläufgkeiten verlieren
+. und dennoch diefen Begriff nur verhüllen, nicht un-
+egründet feyn, Die Befchuldigung der Weitläufg-
+Ka trifft Hn. S. nicht; vielmehr führt fein Grund-
+Es, diefo neue Hypothefe, eine Abkürzung her-
+ey, die bey der Annahme des Begriffs von unend-
+lich Klein allerdings nicht möglich ili. — _Verlangt
+man nun einmal von dem Begriff des Differentials
+eine materiale Bedeutung, fo Icheint es uns, als ob
+die Ideen, die den grofsen Newton leiteten , diejeni-
+en feyen, welche der Wiflenfchaft als Fundament
+Bienen mülfen. . Wir können nicht umhin, bey die-
+fer Gelegenheit die Frage aufzuwerfen: Würde Hr. 5,.
+feinem Syliem der Di ferentialrechnung, wenn er
+von Newton’s Ideen ACER nicht einen genauern
+Zuflammenhang mit feiner höhern Geometrie ver-
+fchafft haben? — Einen von den Irrthümern, die
+Newton und Leibnitz aufliellten, findet Hr. S, ($. 209.)
+darin, dafs fe dy = nzn—ı1dx als richtige Glei-
+chung anfahen. Den hierbey zum Grunde liegenden
+Ergänz. Bl. zur A, L. Z. 1827.
+
+%
+
+‚Bey
+
+Trugfehlufs findet er, wie folgt: „Es fey w das T
+endlich Kleine, co das nen iiiehe, Die Analyflin
+fchliefsen, da co + 06? (1+x ) © = w?if, weil
+1 gegen das Unendliche verfchwindet, fo if auch
+w+w* = (14 w) w=@, weil w gegen 1 verfchwin-
+det. Diefes ift aber nicht wahr: das unendlich klei-
+ne w if eine Gröfse, wie 1 eine Gröfse it, und 1+w
+ilt durchaus gröfser als 1; dagegen ifi das Unend-
+liche 0 keine Gröfse, fondern ein Etwas, gegen
+weiches jede Gröfse verfchwindet, und 1 + co kann
+nicht mehr feyn als co, weil fonf das Unendliche
+zunehmen könnte, alfo nicht unendlich wärd.” Das
+Unendliche nimmt Hr. S, (S. 4. $. 8.) als durch Zu-
+fammenf{etzungentfiehend an. Setzen wir nun 1+1+1
+und ohne Ende fort 1, {fo entfieht offenbar dadurch
+eine Gröfse, gröfser als jede gegebene Gröfse, Diele
+Gröfse, das unbefüimmbar Grofse, if das unendlich
+Grofse, das Unendliche der Zufammenfetzung, das
+Etwas des Hn. S. Das unendlich Kleine muis dem
+Begriff nach nothwendig das Entgegengefetzte des
+unendlich Grofsen feyn. War nun jenes das Un-
+endliche der Zufammenfetzung, fo mufs diefes dasUn-
+endliche der Theilung feyn, Bezeichnen wir mit Hn.
+S, das Unendliche der Zufammenfetzung durch c&
+
+fo find wir gezwungen, das Unendliche der Thei-
+lung durch 2} zu bezeichnen. Diefs vorausgefetzt,
+
+finden wir in der Schlufsreihe: w +0 = (1+w)w
+
+== (1+ 2%) 2 = (= 42)2 = X = w_ keinen
+Trugfchlufs, Auffallend ift es übrigens, wenn S.
+behauptet: „das unendlich Kleine il eine Gröfse
+wie 1 eine Gröfse ifi,” Nehmen wir die unendlich
+kleine Gröfse als eine wirkliche Gröfse, fo kann
+diefs nur eine /chr kleine Grüöfse feyn, zwifchen wel-
+cher und der unendlich kleinen Gröfse noch eine
+grofse Kluft if.
+
+Der XI, Abfchnitt ($. 222-—284.) führt die Ueber-
+fchrift: Von der EDER OSTEN Die Rec
+nungsart nämlich, welche aus dem Differentiale der
+Function ihre zu gehMTiDr vollfändige Differenz her-
+leitet, nennt S, Ergänzungsrechnung. Bey der Be-
+handlung des Taylor’fchen Lehrfatzes (4.223. 224.)
+vermiffen wir den Fall; Wenn z= f(x, y), den
+WW erth der Function zu fuchen, wenn x Geh in x+c
+und nn y-+K% verwandelt. Unter den angeführten
+
+pielen der Anwendung des Taylor’fchen Lehr-
+fatzes findet fich weder die Ertwickelun von efV”—1,
+noch die Herleitung der bekannten Reihen für Sin,
+
+L (6) Co-
+
+ 
+

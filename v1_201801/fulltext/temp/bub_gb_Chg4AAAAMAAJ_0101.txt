@@ -1,0 +1,138 @@
+191
+
+d.i. der Einheit, ausgedrückt gedacht werden müssen.
+
+Sind dagegen 3B und SC in Secunden ausgedrückt;
+
+80 muss man in die vorigen Formeln statt OB und DC
+
+respective die Grössen sin 1“ 3B und sin 1“ 2C ein-
+
+führen, wodurch dieselben folgende Gestalt er-
+halten:
+
+ab
+
+13. —
+
+Ö
+2
+
+14.
+
+C
+
+® + M sin 1“ 3B— Nsin 1" 3C,
+
+d ; F
++ M'’sin 1" 3C— Nain 1" 3B.
+
+Um den Gebrauch der vorhergehenden Formeln an
+einem Beispiele zu erläutern, wollen wir annehmen,
+dass man durch Messung die Seite @ und die beiden
+an derselben liegenden Winkel B,C eines Dreiecks
+respective 100 Ruthen und 30° 6’, 140° 8‘ gefunden
+habe, dass man aber aus der Natur der gebrauchten
+Lustrumente , aus der auf die Messung gewandten
+Sorgfalt, überhaupt aus den Verhältnissen und Um-
+ständen, unter denen die Messung angestellt. wurde,
+zu schliessen berechtigt sey, dass die Seite a wohl
+um 2 Fuss, der Winkel B um 5‘, der Winkel C um 4‘
+fehlerhaft gemessen seyn könne, und wollen nun den
+Einfluss zu beurtheilen suchen, welchen diese Fehler
+auf die Bestimmung der Seite 6 ausüben, Setzen wir
+a= 100, B = 30° 6’, C = 140° 8’ und nehmen an,
+dass alle gemessenen Stücke zu klein sind; so müs-
+sen wir
+
+da= 2,38 = 300”, 3C = 240” setzen.
+
+„4: Da an x
+Keh ist tz 0,002. Ferner ist
+
+log sin C = 0,5068602 — 1
+log 2B = 2,4771213
+log sin 1” = 0,6855749 — 6
+0,9695564 — 4
+log sin B = 0,7002802 — 1
+log sin (B+C0) = 0,2295185 — 1
+0,9297987 — 2
+log Msin 1“ 3B = 0,0397577 — ?
+M sin 1“ 9B = 0,0109587
+log| —cot (B+C)}= 0,7641411
+log 00 = 2,3802112
+log sin 1" = 0,6835749 —6
+log (— NV sin 1“ 80) = 0,8299272-— 3
+N sin1” 3C = — 0,0067597.
+
+€ /
+Folglich = 0,002 +0,0109587 + 0,0067597
+
+d.i. 57 = 0,0197184, oder nahe = 0,02. Auf 50Ru-
+
+Folg-
+
+then würde also der Fehler schon eine gauze Ruthe
+
+ERGÄNZUNGSBLÄTTER Num. 24, MÄRZ 1839.
+
+ 
+
+192
+
+betragen. Will man 90 selbst finden, So muss mau
+zuerst aus a, B, C die Seite b berechnen, und muss
+dann den Bruch 5 mit & multipliciren, Die hierzu nö=
+thige einfache Rechnung führt man auf folgende Art:
+log a = 3,0000000
+
+log sin B = 0,7002802 — 1
+
+. 2,7002802
+log sin (B+C) = 0,2295185 — 1
+
+log b = 3,4707617
+
+log X = 0,2948717 — 2
+
+lug db = 1,7656334
+
+db = 58,295 = 59°, 8295.
+
+Der Fehler in der Seite 6 ist also unter den gemachten
+Voraussetzungen sehr beträchtlich” u, 8, w.. Vom
+zweiten Theile, weicher die Integralrcchnung ent-
+hält, können wir aus Mangel an Raum, nur eine
+Vebersicht des Inhalts geben, Cap. 1: Allgemeine
+Begriffe und Sätze. Cap. 2: Von der Zerlegung der
+gebrochenen rationalen algebraischen Functionen in
+Partialbrüche, Cap, 3: Eniwickelung der wichtigsten
+Reductionsformeln. Cap. 4: Integration der rationa-
+len algebraischen Differentiale, €, 5: Integration der
+irrationalen algebraischen Differentiale, Cap. 6: In-
+tegration der Differentiale, welche Kreisfunctionen
+enthalten, Cap, 7; Integration der Differentiale, wel-
+che Logarithmen und Exponentialgrössen enthalten,
+Cap. 8: Auwendung der Integralrechnung auf die
+Yheorie der in einer Ebene liegenden Curven oder der
+sogenannten Curven von einfacher Krümmung. * A.
+Quadratur. ZB. Rectification, €, Cubatur der durch
+Umdrehung ebener Curven um feste Axen entstande-
+nen Körper, f, Complanation dieser Körper. Cap. 9:
+Von den bestimmten Integralen, CU. 10: Integr. der
+höhern Differentiale, Cap. 11: Integr. der vollstän-
+digen Differentiale mit mehreren veränderlichen Grös-
+sen. Cap, 12: Integr. der Differentialgleichungen
+der ersten Ordnung und des ersten Grades zwischen
+zwei veränderlichen Grössen, Cap. 13: Integr. der
+Differentialgleichungen der ersten Ordnung und des
+unten Grades zwischen zwei veründerlichen Grössen.
+Cap. 14: Partieuläre Auflösungen der Differential-
+gleichungen. Cap, 15: Auflösung einiger geometri-
+schen Aufgaben. Cap. 16: Integr. der Differential-
+gleichungen der zweiten Ordnung zwischen zwei ver-
+änderlichen Grössen. Kin Anhang enthält sodann
+noch Einiges über Curven von doppelter Krümmung
+und über krumme Flächen. Papier und Druck sind
+recht gut, 3.
+

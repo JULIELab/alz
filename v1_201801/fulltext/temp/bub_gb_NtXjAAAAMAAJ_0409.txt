@@ -1,0 +1,138 @@
+779
+; Von da ‘geht die fünfte Abhandlung zu den
+Factoriell
+Kramp’s
+ckelt den Algorithmus derfelben für ganze Werthe
+von n in grofser Allgemeinheit, mit vielen dem Vf,
+eigenen Erweiterungen, Er entwickelt in. Reiben
+a®/® nach den Potenzen von a und r; a® nach
+Factoriellen, die durch a, n und r beftimmt wer-
+den, mit den Coefficienten durch m; (a +6) "/t nach
+Factoriellen mit den Bafen a, b; a”/t nach den Por
+tenzen von m»; endlich Zog. (ar/r) nach den Potenzen
+von n, nach denen von r, auch nach den Loga-
+‚rithmen‘ von w und a+nr nebft der ergänzenden
+Reihe, Ein Anhang behandelt die combinatorifche
+Entwicklung vom Producten aus Factoren in der
+Form (1+a), wenn die verfchiedenen Werthe von
+a nur durch Stellenzahlen (a ,, @,, a,..) mit ein-
+ander verbunden find, — Die /echste Abhandlung
+führt für die Combinationen ein bequemes Zeichen-
+fyltem ein, um aus einer Combinationsklaffe alle die
+Complexionen fordern und mit den übrigen verglei-
+chen zu können, .in denen beftimmte N reente deh-
+Jen. Der Vf. bezeichnet die Combinationsklaffe p
+aus » Elementen ohne Wiederholungen mit (p, 7; 0)
+mit Wiederholungen [P; n; °] und fetzt dann für
+@ die Elemente, Sie ehlen follen. So gelangt er
+
+Gleichungen zwifchen allen Complexionen der
+Klaffe und denen, in welchen beftimmte Elemente
+fehlen, welche im Folgenden von wichtiger Anwen-
+dung find. :
+
+Diele Anwendung zeigt vorzüglich die /iebente
+Abhandlung, deren Gegenftand der Vf, Producte
+aus Factoren mit wiederkehrenden Elementen
+nennt, Poffelt hat (in di/fertatio analyt. de funct,
+
+uibusdam fymmetricis) den früher von Euler und
+Faß entwickelten Algorithmus mit Producten von
+
+1 1
+der Fo (a—b) (a—c) (a—d)’ (6 -a) (6-0) (6—d)?
+Ta =0 =D ‚„... Weiter entwickelt, unfer
+
+Vf. giebt hier diefem Algorithmus eine noch viel
+allgemeinere Geftalt und die derfelben entfprechen-
+den Entwicklungen. — Die achte Abhandlung giebt
+einen faft ganz neuen Algorithmus, in welchem
+On dem der Factoriellen Producte aus Binomien
+gebildet werden, deren Zunahmen nach den Poten-
+zen einer Hauptgröfse (1+ wx*) fortlaufen. Der
+Vf. fagt darüber, nachdem er angeführt hat, was
+Ealer , Rothe und befonders Gent und Poffelt für
+fein Thema früher geleiftet haben: „in der Abhand-
+‚hang, welche ’ich hier vorlege, glaube ich zuerft
+die Grundlage zu einer Theorie diefer Producte zu
+geben, '1) indem ich den Algorithmus für die Reihe
+diefer Producte feftftelle, welcher fowohl in dem
+Gefetz der Bezeichnung, als in dem Gefletz, nach
+welchem die fpätern Producte aus den vorhergehen-
+den und diefe wieder, aus jenen gebildet werden,
+und in der Beftimmung des Mittelgliedes, welches
+der 1 entfpricht, befteht; 2) indem ich ferner die
+
+ALLG, LITERATUR = ZEITUNG
+
+‚ter fortzubilden,
+
+780
+OCT DEDLCn dB nicht allein für die Producte mit
+
+zeichnungsweife: a/" über Und, entri- neinteh Sıklienzaht Nerbehtee und Dede Bene
+
+lungen gemeinfamnen Gefetzen unterwerfe; und 3)in-
+dem ich zuletzt mehrere zum Theil neue befondere
+Entt®icklungen in Reihen vornehme, welche nicht.
+in der allgemeinen enthalten find,” = ;
+Die Tetzte zeunte Abhandlung ift Summirun
+
+der Reihen überlchrieben, Der Vf. behandelt au
+eine ihm ganz eigenthümliche Weife belonders Rei-
+hen; deren ‚Glipder aus Factoriellen verbunden (mit
+Producten aus, Factoren, mit. wiederkehrenden. Ele-
+menten gebildet find, Hier findet fich z, B.y um nur
+eine kleine Folgerung-auszuheben, ‚für die: Summe
+1n 42430, I = Sy anftatt der Formel mit
+Bernoulli’s Zahlen eine ‚Mannichfaltigkeit gefchloffe-
+ner Ausdrücke, in welchen diefe Summe Sürch eine
+Summe von. Factorjellen, deren, jede, mit. einem
+durch Combinationen befüimmten Coefhcienten ver-
+bunden ift,. dargeftellt wird. Es iftz. B.
+
+ 
+
+Satz Mag 1 1 ee (a — 2)
+1.2 1.21 °
+1.2.2 11.5
+2.2.2 2,2
+2,8
+3,83
+A N]
+2 ; .
+3
+4
+
++} 2(x— 1) (2—2) (@—8) (x—4)-
+=c4+ 4r.0— 14 rl.
++ cl —3
+A a
+
+Aus diefem Bericht über die Analyfıs des Vfgs,
+wird erhellen, : dafs feine Abficht befonders darauf
+erichtet ilt, fehr verwickelte und zufammengeletzte
+“ormen in gröfster Allgemeinheit feinem Algorith-
+mus zu unterwerfen und darin die Wiffenfchaft wei-
+Diefer Zweck fordert fehr weit-
+läuftige Formeln und viele neue Bezeichnungen und
+macht es uns daher unmöglich hier näher auf das
+Einzelne einzugehen, zwingt den’Rec. vielmehr, un-
+fere Lefer durch diefe Anzeige mehr nur auf den
+reichen Gehalt des Werkes aufmerkfam zu machen,
+ohne ihnen jedesmal eine Einficht in diefen Inhalt
+felbft gewähren zu können. Diefes gilt noch mehr
+von Nr. 2, oder der Theorie der Differenzen und
+Vifferentiale unfers Vfs, — Kr ‚giebt zuerft
+die Theorie der Differenzen, und zweytens die
+Theorie der Differentiale. Die Theorie der Diffe-
+renzen befteht aus drey Abtheilungen, von denen
+die erften beiden die Lehren von den endlichen
+Differenzen der Functionen und ihren Integralen
+behandeln, die dritte aber eine dem Vf, eigenthüm—-
+liche Vorbereitung zum Algorithmus der Dilferen.
+tiale enthält. Er definirt nämlich die Aufgabe der
+VDifferentialrechnung fo, dafs man in ihr den Werth
+
+- von
+

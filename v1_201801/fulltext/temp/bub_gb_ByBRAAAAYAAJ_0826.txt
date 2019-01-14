@@ -1,0 +1,137 @@
+513 en Num, 198.
+anftöfsigften Folgen jener. Theorie fcheint es ihm,
+dafs man die mehreren Gleichungswurzeln, wie fie
+durch die bejahten und verneinten Werthe der Wur-
+zeln-entftehn, als fo viel unmittelbar brauchbare Auf-
+löfungen, oder fchickliche Antworten für die Auf-
+be, welche durch die Gleichungen umfalst werden
+ollte, zu betrachten und auszudeuten fucht, Auch un-
+fer Vf. ift überzeugt, dafs diefe Verfuche in der ge-
+fammten angawandien Algebra meiftens febr übel aus-
+gefallen find. Carnot hat aber zwifchen reiner und an-
+ewwandter Algebra nicht ufiterfehieden und von der
+eretern hauptfächlich nur die geometrifche ins Auge ge-
+fafst, dabey aber allerdings ganz unwiderfprechlich
+dargetban, dafs ihre bisherige Methode dadurch in
+offenbare Un(chicklichkeiten verfällt, dafs Ge durch
+das + und — der Wurzeln die mehrern verfchiede-
+nen Lagen der gefuchten Gröfse angedeutet glaubt.
+Da es nun gleichwohl ein fprechendes Bedürfnifs der
+neuern Geometrie ift, in Hinfcht der verfchiedenen
+Lagen ungleich mehr umfaffend als die Geometrie der
+Alten zu feyn: fo erfand er zu diefem Behufe feine
+Correlationsmethode. Unfer Vf. fah indefs gleich beym
+erften Blicke, dafs fich Carnot in feiner Anfıcht und
+Beurtheilung übereilt, und zwifchen den” durchaus
+wahren Gründen und Lehren der reinen Algebra auf
+der einen, und ihrer bisherigen fehlerhaften Anwen-
+dung auf der andern Seite, nicht gehörig unterfchie-
+den, auch den einzigen Grund der fehlerhaften An-
+wendung auf die Geometrie , nicht erkannt habe.
+Vorerft erinnert Hr. Buße an das , was er vor mehrern
+Jahren fchon in feinen zwey Schriften: Formulae li-
+nearum fubtangentium u. 1. w, 7 Leipzig 1798.) , und Neue
+Erört| en über Plus und Minus u, {. w. (Cöthen 1801.)
+über diefen Gegenftand dem Publicum bereits vorge-
+legt hat. Hr. Buße glaubt, dafs wenn Carnot jene
+beiden Schriften, wenigftens nur die erftere, lateini-
+fche, gekannt hätte, er feine Einwürfe zurückgehal-
+ten und fein neues Syftem der Correlationen, ein blo-
+fses Surrogat, ftatt einer wirklich algebraifch - geo-
+metri{chen hode, nicht gefchrieben haben würde.
+Vebrigens fey beym Correlstionsfyftem felbft Alügel
+in (einer Abhandlung über die Lehre von den entge-
+gen gefetzten Gröfsen im dritten Heft des Hindenbur-
+ilchen Archivs 1795., als Vorgänger anzufehn. Eine
+auptfache ift, die Zeichen + und —, als Additions-
+und Subtractionszeichen oder in ihrer operativen Be-
+deutung, von ihnen als Zeichen der bejahten und ver-
+neinten Gröfsen, oder in ihrer indicativen Bedeutung
+zu unterfcheiden, In diefer letztern gebraucht fie
+der Vf. mit Einklammerungen. Diefs gilt aber wie-
+der nur für die reine Algebra, denn in der angewwand.
+im find fie meiftens als eine Umfaffung von mehr
+verfchiedenen entgegengefetzten, fächlichen Bezie-
+hungen. zu betrachten und in diefe zu zerlegen. Hier-
+zu ergriff der Vf. die Punkte, die. er aufser der Ein-
+klammerung noch über + und — fetzte, um die Ver-
+fchiedenheit in den Richtungen (nicht ERgm) der geome-
+trifchen Gröfsen anzudeutep. So unterfcheidet der
+Vf. Seiten- und Höhenrichtungspaare, fowohl nach
+der rechten als nach der linken Seite. Was nach der
+rechten und nach oben geht, wird als bejaht, und
+
+JULIUS 1809.
+
+614
+
+das Entgegengefetzte als verneint angenommen. So
+ift z, B. in feiner Fig. 1. und 3. 4 XA eine bejahte
+Sriennicht DES ÄfSer — KA eine folche verneinte;
++ KM eine bejahte Höhenrichtungsgröfse, — KM
+eine folche verneinte. Da die Linien auf dem Papiere
+fer ohnlich nur in einer Ebene angenommen werden,
+o kann die Seiten- und Höhenrichtung zureichen;
+wollte man aber auch, wie z. B. bey der Lehre vörni
+der Lage der Linien und Ebenen gegen einander, Li-
+nien, die fich über das Papier erhüben, betrachten;
+fo mülsten auch /or- und her. Richtungspaate ans
+enommen, und die bejahten Gröfsen nach des Vfs;
+offchlage durch 4, und die verneinten durch an-
+ß eutet werden. Aehnliche Bezeichnungen durch
+unkte liefsen fich auch für Flächen - und Körpergrö*
+fsen, oder die von zweyen und dreyen Abmefflungen
+wären, erdenken. m nicht abzufchrecken, be
+merkt auch der Vf., dafs alle diefe Unterfcheidungen
+zuvörderft zwifchen dem operativen, ledig gefchriebe-
+nen + —, und dem blofs indicativen eingeklammer-
+ten (+) (—) der reinen Algebra, und des letztern fer-
+nerern Vieldeutigkeit für die punktirten fächlichen Be-
+ziehungen , nur bey der erften e des Calculs, und
+bey der letzten TATEN feines
+wären, während des Calculirens aber das operative +
+— völlig hinreichend fey. Bezeichnungen diefer Art;
+die indeffen dem Vf. nicht näher bekannt geworden
+find, hat auch fchon Wilkens in feiner Lehre von ent-
+ygengefetzien Größen in einem neuen Gewande, gebraucht.
+er Vf. wünfcht, dafs Carnot von der gegenwärtigen
+Schrift Kenntnifs bekommen und mit ihm gemein-
+{chafılich an der weitern Verbefferung arbeiten möge.
+Er glaubt, dafs diefes nicht fchwer fey, und dafs Car-
+wot’s Correlationsmethode an ch betrachtet, allers
+diogs richtig und zutreffend werden müffe, wenn
+ftreng darauf gehalten würde, dafs kein + u, — der
+Algebra unmittelbar durch entgegengefetzte Lagen dar-
+geftellt angenommen, fondern auf die gefuchte Lage
+nur vermittel(t der gefundenen Kichtungen und ihren
+anz natürlichen Frvererungen, ge/chloflfen würde,
+enn, fagt der Vf, feyerlich: „Wenn man nach bishe-
+riger Gewohnheit die bejahten und verneinten Grö-
+fsen der Algebra, z. B. durch rechts und links gele-
+gene Linien darzuftellen fucht, fo hat man einen un-
+ereimten Grund gelegt.” Indeffen fetzt er ausdrück-
+fh hinzu, - und geht von einen Vorgängern darin
+ab, dafs diefe und ähnliche Unrichtigkeiten des bis-
+herigen Syltems erft in der angewandten Algebra ih-
+ren Anfang nehmen, erft da ent{tehn, wo man die
+allgemeinen Begriffe des Bejahten und Verneinten in
+der Algebra auf die entgegengefetzten fogenannten
+Lagen in der Geometrie, oder auf anderweitige fich
+em gehörig entgegengefetzte Beziehungen anzuwen-
+Schon d’Alembert, von welchem Carnot
+vornehmlich aufmerkfam gemacht worden war, und
+in deffen Geifte er diefen enftand weiter verfolgte,
+hatte den Unterfchied zwilchen Richtung und Lage
+nicht gehörig aufgefafst, und ging aus einer richti-
+gen allgemeinen Erklärung zu einer fehlerhaften ein-
+zelnen Anwendung derfelben auf die Geometrie über,
+Indem Carnot die angeführten Unfchicklichkeiten vor
+
+Au-
+
+den fuche;
+
+®
+
+efultates , nöthig
+

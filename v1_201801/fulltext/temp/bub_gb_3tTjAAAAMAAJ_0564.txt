@@ -1,0 +1,137 @@
+17
+Aufgaben if ahbelireitbary id (ungern unterlälst
+Rec. , weil er Tonfil’zu weitläufig en würde) die
+
+glückliche Auflöfungsmethode'"des V£s. näher zu be-
+zeichnen... k En
+
+IV. ,, Entwickelung‘ einiger. trigonometrifchen
+Reihen. "Der: V£. EI FOR beiden Theilen der
+Gleichung‘ . |
+
+; x? NE A ode
+Core rLG UT WE TAT x
+
+Cos x s 1 —(1 — Cos x)
+den Logarithmus, wodurch er
+— log. Cos x =(1— Cos x) +3(1— Cosz)
+2. (1— Cos zz A...
+erhält. Durch Differenziation diefer Gleichung fin-
+det er:
+tang. x = Sin x [1 +(1— Cosx) + (1— Cos x)?
++(1— Cosx)} + ....]
+Aus diefer Gleichung erhält er für tang, x noch
+. Zwey Gleichungen, indem er das eine Mal Sin. x
+und das andre Mal 2 Sin? %x für 1— Cosm fetzt,
+Durch eine fehr einfache Subflitution ergeben Gch
+aus diefen Gleichungen elegante Reihen für Sec, x,
+Cot x und Cosec. x. Durch Umkehrung diefer Rei-
+hen entwickelt der Vf. Gleichungen für Sin x, Sino x,
+Cos x und Cosino x; Diele Reihen könnten, wie in
+der Anmerkung gefagt wird, auch folgendermaafsen
+
+entwickelt werden: es ill: f
+m 1 1 1-0 _ 1 + Sin. x
+Secx = os + Cox 1— Sin. Ds
+
+=1 + Sin.x + Sin.?x + Sin,3Z +... U. f.w.
+
+Zu Ende der Abhandlung lehrt der Vf, eine fehr
+gute Methode für die EntwirKOlung der bekannten:
+Reihe, welche die Tangente durch ihren Bogen aus-
+drückt, und.der Reihe, welche den Bogen durch
+feine-Tangente giebt. Als Bahs für die Entwicke-
+lung beider Reihen dient ihm die Differenzial- Glei-
+chung'd.tangx = dx.(1+ tang? x).
+
+V.. Entwickel einer neuen, fehr convergi-
+renden Reihe für die Rectification des Kreifes, Ver
+Vf. letzt tang u = +5, lang Ö = sy, und hiernach
+wird, wenn c = 7a +6 —45, tang € = 13a
+Nach der bekannten Gleichung:
+
+x = lang x — 3 langix +4 lang 5D— 4.44
+findet er hierauf: \
+
+x nt u
+Z=4 =Ta+b—0=1( 5 at =>»
+
++ — a) FG) — ee]
+
+— (nititer — 4 GpHitite)) +4]
+
+VI. Ein fehr einfacher Beweis des Satzes: „dafs
+beym Durchgange des Lichtfirahls durch zwey be-
+flimmte Mittel der Sinus des Einfallswinkels zum
+Sinus des Brechungswinkels ein befländiges Verhält-
+nifs habe.” Der einfallende Lichtfirahl oder die Ge-
+fchwindigkeit def/felben fey p, fein Einfallswinkel a, *
+der im zweyten Mittel gebrochene Lichtlirahl, oder
+
+681 MAIL: Nach. 4240. "DECEMBER "1689."
+
+SAT 2 {118
+deflen Gefchwindigkeit #, ’der"gebrochene” Winkels
+das’ Efnfallslöth' pp‘, das” über” die ‚Scheidüungshäche
+verlängerte Einfallsloth“#" "Wet man mit'dem Vf:
+dieGeichwindigkeit p’in die beiden rechtwinklichtern
+Seiten - Gefchwihdigkeiten p'und’p" dieGefchwins
+digkeit x indie beiden rechtwinklichten Seiten 4 Ge+
+fehwindigkeiten x‘ und '%" zerlegt) von welchen p
+und +" in der Scheidungsfläche üch behnden, 6}
+9 pP" = pSino, = u Sin
+
+Nach -der :Natur..der Sache find die beiden Ge-
+fchwindigkeiten.p* und x",‚nicht voneinander. ver-
+{chiedens. und. es muf{s, daher p“ =="; ‚oder
+
+Sina = nn Sin w' feyaı“ Aus’ diefer Gleichung
+folgert der V£. den Satz,‘ dafs der Sinus des’ Kinfalls-
+winkels fich zum Sinus: des gebrochenen‘ Winkels
+wie die Gefchwindigkeit des Lichtfirahls im zweyten
+Mittel zur Gefchwindigkeit deflelben im erfien Mittel
+verhalte; und dafs diefes Verhältnifs für zwey be-
+fimmte Mittel, da ihre Anziehung gegen das Licht
+diefelbe bleibe, auch confiant fey.”
+
+RECHTSGELAHRTHEIT.
+
+ILyesat , b, Voigt: Ge/ammelte Rechtsfälle, Cri-
+minalge/chichten und rechtliche Bedenken aus
+dem Civil - und Criminalrechte. Von G. P. F.
+Thon, Grofsherzogl. Sächl. Jußlizrathe und Amt-
+mann auch Stadtrichter und Stadtdirector zu
+Ilmenau. Krfier Band. 1827. 418 S. 8, (1 Rthl.
+12 gGr.)
+
+Ein Buch‘, welches föglich ungedruckt hätte
+bleiben mögen, da die Wiffenfchaft wenig oder
+nichts dadurch gewinnt. Mit Ausnahme eines recht-
+lichen Gutachtens des verfiorb. Puütter’s und einer an
+den Herausg. gerichteten brieflichen Belehrung des
+Geh, Jufüzraths Martin enthält es nichts, als fol-
+che gerichtliche Vorträge, die nur aus ‚einer kur-
+zen /pecies facltı und dem Actenauszuge beliehen,
+aber nicht einmal das /otum, fo wie:es deın gericht-
+lichen Referenten zur Pflicht gemacht wird, fondern
+fiatt deffen das erfolgte Erkenntnifs, und dabey ilt
+es noch als ein Glück zu betrachten, wenn es ein
+Facultätserkenntnifs mit vollliäändigen Entfcheidungs-
+
+ründen il, weil in diefem Falle doch noch etwas
+toff zu wilfenfchaftlichen Erörterungen mitgetheilt
+wurde, Höchliens läfst Gch daher Biete Sammluog
+nur angehenden Jurilien empfehlen, weil diele et-
+was Gelfchäftsroutine aus derfelben lernen können.
+Höchf naiv ili die Entfchuldigung des Herausg., dafs
+feine Sammlung um fo mehr Nutzen bringen werde,
+je weniger in diefen Tagen clafüifche Schriftlieller in
+dem Gebiete der Rechtswiflenfchaft Mufe (ic!) ge-
+nug haben, grofse Werke im Fache der Jurispru-
+denz zu liefern, und dadurch die noch immer un-
+zählig vorkonımenden Zweifel und Controverfen in
+diefer vieläfigen Lehre (/ic!) zu löfen, «wie ehemals
+ein Schilder, Berlich, Carpzov, Werner, Pufendurf,
+Leyfer , Sıryck, Böhmer, Cocceji, Hommel” u. On
+enn
+

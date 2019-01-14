@@ -1,0 +1,135 @@
+717
+
+ALLG
+
+m 07 A a“ N
+EMEINE LITERATUR-ZEITUNG
+
+ 
+
+April 1827. ;
+
+ 
+
+MATHEMATIK.
+
+1) Axıneusero, a. K.d. Vfs., in Comm. b. Mohr
+u. Winter: Analyfis von Ferd. Schweins, 1820,
+XXXI u, 8387 S. 4. (9 Rthlr.) £ ;
+
+2) Ebend., b. Winter: Theorie der Differenzen
+und Differentiale, der gedoppelten Ferbindun-
+gen, der Producte mit Verfetzungen, der Rei-
+
+‚ der wiederholenden Functionen, der all-
+emeinfien Facultäten und der fortlaufenden
+üche, von Ferd. Schweins, Doctor der Phil,,
+Grofsh. Bad. Hofrathe und ordent], öffentl. Prof.
+der Mathematik zu Heidelberg. 1825, VIu. 6635.
+4. (9 Rthir.)
+
+er durch feine Verdienfte um die Mathematik
+rühmlich bekannte Vf. theilt uns hier die Ergebniffe
+feiner lange fortgefetzten Forfchungen im Gebiet
+der combinatorifchen Analyls mit, dürch die er
+feiner Wiffenfchaft viele bedeutende Bereicherungen
+giebt. — Auch find diefe Werke fo wohl geordnet
+und fo ftreng mit dem Gefchichtlichen jedes Theils
+der Lehre verbunden, dafs wir unferen Bericht über
+den Gehalt derfelben und des Vfs, Verdien{t dabey
+falt ganz mit feinen eignen Worten zu entlehnen
+vermögen,
+
+Nr. 1. behandelt, nachdem die Einleitung die
+Grundbegriffe der‘ Combinationslehre entwickelt
+hat, in neun einzelnen Abhandlungen fehr allgemein
+die Hauptaufgaben der combinatorifchen Analyfıs, —
+Die ale Abhandlung- betrifft den polynomifchen
+Lehrfatz und die mie Der Vf,
+
+hrung der Reihen.
+
+nt eine elegante und höchft allgemeine ganz in,
+
+ocalformeln der combinatorifchen Analyhs gehal-
+tene eo uwicklung 7 Rechnung mit Folynomien
+fowohl in zurücklaufenden als. unabhängigen For-
+men und leitet nach gleicher Methode die Hinden-
+burgifche und die E/chenbachifche Yormel für die
+Umkehrun der Reihen ab, — Mit diefen Hülfsmit-
+teln behandelt die zweyte Abhandlung die Exponen-
+tialgröfsen. Wieder in gröfster Allgemeinheit wer-
+den die Localformeln zum Theil auf eine neue Weile
+entwickelt, um für abz+es24+dzd.,. _ 1+ Az
++ Bz? + Cx3,... Die Coefücienten A, B, C.. durch
+b, c, d.., und umgekehrt zu beltimmen, zum
+Schlufs folgen die befondern Fälle ax, ex, log. (14x)
+mit einigen neuen Modihcationen der Reihen für
+Jg. (1+x) und log. (9 — In der drit-
+ten Abhandlung befchäftigt Gich der Vf. mit der
+
+A. L. Z. 1827. Erfier Band.
+
+ 
+
+Anwendung des vorigen auf (+2)1 +10)
+(41), (er— 1), (— Dog. (1—x))', und
+
+8 + dle+f)
+(+ et ME) +
+ala+f) (a+ f) y
+DA.
+De Ay (+24) *
+wobey vorzüglich die mit Bernoulli’s Zahlen in
+Verbindung ftehenden Entwicklungen von (ex-— 1)
+zu beachten find, — Die wierte' Abhandlung giebt
+nach Analogie der Kreisfunctionen einen dem Vf,
+eigenthümlichen Algorithmus aus der Theilung des
+Binomiums nach geraden und ungeraden Potenzen.
+Der Vf. fagt: „es ift bekannt, dafs man, um die
+Kreisfunctionen in die allgemeine Gröfsenlehre zu
+verpflanzen, in der Entwicklung von &# x VI
+anftatt x gefetzt hat, Diefes Verfahren ift fehr
+efucht... Z7ralles hat in den Abhandlungen der
+Berl. Akad. (J. 1812 —13. S. 161.) zuerft zwey an-
+dere Wege bekannt gemacht; der eine führt durch
+Bildung f etrifcher Functionen, der andere
+durch die Auflöfung der Frage: wie müffen die
+Functionen befchaffen feyn, wenn ihre Werthe
+zwilchen & 1 und — 1 fallen follen? zu den
+Kreisfunctionen. 'So finnreich auch das Verfahren
+von Tralles ift (immer bleibt ihm das Verdienf{t, aus
+neuen Gefchtspunkten den Gegenftand betrachtet zu
+haben), fo glaubte ich doch, dafs es der Natur der
+Sache angemeffen fey, nicht erft das zu fuchen,
+was {chon gegeben ift, nämlich das Binomium und
+feine Theile, Diefe Bemerkung ging aus der Ver-
+leichung der Reihen für die Cofinus und Sinus mit
+em Binomium (a +6)" hervor und bezeichnete mir
+den Weg, den ich DT. einer neuen Bearbeitun
+des Gegenftandes einzulchlagen hatte, Es wird
+nicht mit V’”ZT fondern mit einer willkürlichen
+Gröfse i, welche jeden Werth annehmen kann,
+verbunden. Das Binomium wird in zwey Theile
+und zwar in jenen mit den geraden und in jenen
+mit den ungeraden Potenzen von & zerlegt, und je-
+ner durch @ (m diefer durch w{(n) bezeichnet. So
+gelangt der Vf, auf einen fehr allgemeinen Algo-
+rithmus, von dem die Kreisfunctionen nur ein befon-
+derer fehr untergeordneter Fall find, indem er von
+(n)+i.w(n)=(a-+b)" ausgeht und in g(n) ein
+Kömlogon des Cohnus, in (n) ein Analogon des Sinus,
+w(n)
+p (m)
+E (5)
+
+im
+
+ 
+
+ein Analogon der Tangente nachweiflt.
+
+Von
+
+778 .
+

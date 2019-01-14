@@ -1,0 +1,129 @@
+587
+
+renzt find, fallen entweder 1) auch die beiden
+‘andern Endpunkte auf einander, dann find die bei-
+den geraden Linien, nach dem Grundfatz von Grö-
+fsen, die einander decken, gleich; oder 2) der
+Endpunkt der 2ten geht über den Endpunkt der
+1fen hinaus, dann iflt die 2te Linie gröfser als die
+1fe; oder der Endpunkt der 2ten reicht nicht bis an
+den Endpunkt der 1lien hin, dann if die erfie Gröfse
+röfser als die 2te, Diefe 3 Fälle werden in den
+„3. 4. 5. behandelt, Dann kommen in $$. 6.7.8,
+die umgekehrten Sätze: 1) wenn die 1fie Linie der
+Zten gleich if, fo fällt bey obigem Aufeinanderlegen
+auch der 2te Endpunkt der 1fien auf den 2ten End-
+punkt der 2ten: wenn 2) die 2te gröfser ili, als die
+ifte, fo fällt der Endpunkt der 2ten über den der
+1fien hinaus: wenn 3) die 1fie gröfser if als die Zte,
+fo fällt der Endpunkt der 2ten diesfeits des KEnd-
+punkts der 1fien, was immer durch Ausfchlufs der
+entgegengefetzten Fälle bewiefen wird, Schon das
+Bisherige wird einen Begriff von der Behandlungsart
+und Auseinanderfetzung des V fs, geben. Mit derfel-
+ben forgfältigen Umfiändlichkeit werden dann die
+Präliminarien über das Aufeinanderlegen geradlinich-
+ter Winkel, $$.9— 17, und über das Aufeinander-
+legen zweyer Dreyecke, $$. 18—20, behandelt,
+Nun wird $. 21. der Beweis des 4ten Satzes des 1lien
+Buchs vorgetragen, in feinen einzelnen Theilen er-
+Jäutert und bewiefen, zuerfi in allgemeinen Aus-
+drücken, dann durch Hinweifen auf eine beflimm-
+te Figur, und endlich werden $$. 22—24 noch ei-
+nige kurze Scholien beygefügt.
+Jetzt folgen im zweyten und dritten Kapitel von
+S. 31 — 116 Theoremata Confectaria, oder Lehr-
+fätze, die aus der unmittelbaren Anwendung des
+Satzes Elem. I, 4 hervorgehen, Der Vf. glaubt näm-
+lich, und beruft fich hiebey fchon in der Vorrede auf
+die übereinfiimmende Anfıcht des Profeffors (jetzt
+Ephorus) /Wunderlichs zu Schönthal, dafs, wenn
+gleich Köpfe wie Paftal und Newton den Zuflam-
+menhang und die Ableitung geometrifcher Sätze von
+einander leicht von felßfi finden, doch fär gewöhn-
+liche Köpfe der Uebergang von Euklids 4tem Satz
+auf den öten, 6ten, 7ten und 8ten nicht fo leicht fey,
+weil in dem Beweis des %en mehrere Schlufsreihen
+hinter einander, und im 6ten, 7ten und 8ten indi-
+recte Beweife gebraucht werden, Darum hielt er es
+für zweckmäfsig, den 4ten Satz und feine unmittel-
+baren Folgerungen durch Anwendung auf fpecielle
+Fälle noch mehr zu erläutern, und Anfänger dadurch
+im folgerechten Schliefsen zu üben. Es ifuns, um
+nicht allzuweitläuftig zu werden, nicht möglich, dem
+Vf. in dem ganzen Detail feiner Auseinanderfetzun-
+gen zu folgen, wir wollen nur verfuchen , in einzel-
+nen Beyfpielen einen kurzen Begriff davon zu geben,
+Euklids Satz ifi;: Wenn in 2 Dreyecken ABC, aßy,
+AB=uß, AC= ay, und. Ad = ailß; fo ili auch
+BC=ßy7, B=ß, = 7, und A ABC = Aaßy,
+Nun if aber z.B. der Fall denkbar, dafs AB und «ß,
+oder 2 der in beiden Dreyecken als gleich voraus-
+gefetzten Seiteh nicht nur gleich, fondern dafs Ge
+
+ALLG. LITERATUR - ZEITUNG
+
+588
+
+eine und cben diefelbe Linie ausmachen, nämlich
+A mit «, und B mit # zufammenfele, und übrigens
+C und y nach entgegengefetzten Seiten von der ge-
+meinfchaftlichen A oder « 8 lägen; fo entlände eine
+4feitige Figur ACBy, oder «C7/7, in welcher 2 an-
+liegenden ‚Seiten A C, «7 gleich wären, und die
+Diagonale (2) den Winkel (3 in zwey gleiche -
+Theile theilte, und nach dem 4ten Satz’wäre dann
+BC B 7: B
+auch (3 ce) = (57) C=y, der Winkel (8) eben-
+falls von der Diagonale halbirt, und eben fo das ganze
+Viereck (1687) Statt ACBy als eine 4feitige Fi-
+gur zu betrachten, kann man diefelbe auch als 2 zu
+beiden Seiten von 4 B neben einander gelegte Drey-
+ecke von befagten Eigenfehaften anfehen , und hier-
+
+nach den Satz ausdrücken. Auch könnte der Fall
+vorkommen, dafs A Bund AC einen rechten, und
+
+eben fo 415) und «y einen rechten Winkel mit
+
+einander machten, und deflswegen AC und «y in
+einer geraden Linie nach entgegengefetzten Rich-
+tungen lägen. Ferner, wenn man Cy gezogen denkt,
+kann man die Fälle unterfcheiden, je nachdem der
+Punkt £ auf der Linie Cy, oder unter ihr, auf
+der „A entgegengefetzten Seite, oder über ihr, auf
+einerley Seite mit „A liegt, und für alle diefe ver-
+fchiedene Fälle den Satz angemeffen ausdrücken,
+und zwar zuer(t allgemein, dann in befonderem
+Bezug auf eine mit belflimmten Buchliaben be-
+zeichnete Figur ausfprechen, oder auch, wie der Vf,
+erinnert, und öfters thut, umgekehrt zuerfi die Fi-
+gur nach gewilffen Eigenfchaften zeichnen, und dann
+erfi.den Schüler finden laffen, wie Gch diefe Figur
+auf den 4ten Satz beziehe, Ferner liefse Ghch auch
+die mit AB einerley feyende Seite «7 in einer fol-
+chen Lage denken, dafs # mit 4, und « mit B zu-
+fammentreffe, und AC und «y auf verfchiedenen
+Seiten von .4 B lägen, was dann ein Viereck gäbe,
+in welchem 2 gegenüberliegende Seiten parallel und
+leich wären, wobey lich die Sache wieder an fıch,
+und für verfchiedene Fälle mehrfach ‚ausdrucken
+liefse: oder auch dafs alles bliebe wie vorhin, aus-
+genommen, dafs 4 C und « y auf einerley Seiten von
+ABlägen. KEben fo nun, wie bisher eine der Seiten
+in dem einen Ureyeck nicht nur als gleich mit einer
+correfpondirenden in dem andern, fondern als Ei-
+nerley mit ihr betrachtet wurde, könnte auch der
+Winkel, der in beiden als.gleich vorausgefetzt wird,
+nicht nur gleich, fondern Ein und ebenderfelbe feyn,
+wie z. B. bey Euklid im Sten Satz des ifien Buchs
+bey den Dreyecken ACF, A4BG (nach Lorenz Fi-
+gur) der Fall iii, was dann wieder verfchiedene
+Ausdrücke und einen leichten Uebergang ehen auf
+Euklids 5, 1 darbietet.. So weit im zweyten Kapitel.
+Nun könnte man die 2 Dreyecke ferner fo be-
+trachten, dafs eine der. Seiten des 1fien nicht, wie
+bisher, auf der correfpondirenden des andern, fon-
+dern in einerley Richtung entweder enmAtelür. an
+T,
+
