@@ -1,0 +1,124 @@
+749
+- 75o
+Num. 9. APRIL 1816.
+rechnung der Ebenen und Körper. – „III. Elemente
+der ebenen Trigonometrie. 1) Etwas Vorbereitendes
+über den Begriff, Umfang und die Functionen der
+Trigonometrie. – 2) von der Berechnung der tri-
+konómetriſchen Linien und von den trigonom. Ta-
+eln. – 3) Berechnung und Auflöſung der Trian-
+el. – IV. Die gemeine Algebra;, die apolloniſchen
+egelſchnitte. – 1) Gemene Algebra; die einfa
+chen Gleichungen, quadratiſchen, kubiſchen und
+unbeſtimmten Gleichungen, und algebr. Auflöſung
+geometr. Aufgaben; (Letzteres wäre wohl eigentlic
+als ein Anhang zu behandeln.) – 2) die apolloni-
+ſchen Kegelſchnitte; die Parabel, Ellipſe, Hyperbel.
+- Man ſieht, in welcher trefflichen Ordnung das
+Ganze dargelegt iſt, wobey durchaus nichts zur
+Wiſſenſchaft Gehöriges übergangen wird, und dieſe
+ſchöne Ordnung, in der man alles ſo leicht und zu-
+ſammenhängend öÄ kann, macht einen Haupt-
+vorzug dieſes Buchs aus. Derſelben Ordnung folgen
+auch die Erläuterüngen, welche gleichſam als Noten
+zum Text des Leitfadens für den Lehrer zu betrach-
+ten ſind; man kann mit ihnen den Text genau be-
+gleiten. Und dieſe Ordnung iſt nicht allein eine Zierde
+des Ganzen, ſondern auch des Einzelnen, ſowohl im
+Leitfaden, als auch in den Erläuterungen. Es würde
+zu weit führen, wenn von dem allen hier Beyſpiele
+und Beweiſe gegeben werden ſollten; der Leſer kann
+leicht nach dem ſo eben Ä Ganzen von dem
+Allgemeinen auf das Einzelne ſchlieſsen; er wird hier
+fich nicht irren, und bey eignem Studium des Buchs,
+das wir ihm recht ſehr empfehlen, es bald alſo
+finden. -
+Die mathematiſchen Lehrſätze darzuthun, be-
+dient ſich der Vf. theils der directen, theils der in-
+directen und Ä iſchen Beweisart. Auf die letz-
+tere legt er im Allgemeinen mit Recht ein vorzüg-
+liches Gewicht, denn welcher Beweis kann ſchärfer
+und eindringender Ä als der, aus welchem die
+Unmöglichkeit und Ungereimtheit des Gegentheils
+von dem, was man beweiſen ſoll, hervorgeht? Aber
+dieſe Beweisart hat das Gefährliche, daſs ſie, wenn
+man nicht überall die Augen auf ihre Grenzen offen
+hät, gar leicht zu weit führt, und die Schärfe des Be-
+weiſes, den man zu führen gedenkt, verloren giebt.
+- Auf die Art ging es dem wackern Baumgarten, als er
+in ſeiner Metaphyſik apagogiſch beweiſen wollte, „daſs
+nichts ohne Grund und ohne Folge ſey." Es iſt bey
+dieſer Beweisart die Hauptkunſt, daſs man zur rech-
+ten Zeit, oder vielmehr auf dem rechten Punkte des
+Beweiſes ſtill ſteht. Mehrmals iſt es dem Vf, damit
+wohl Ä doch auch hin und wieder nicht.
+So z. B. (S. 67.) bey dem 43ſten Lehrſatze, der alſo
+lautet: „Betragen zwey Winkel zuſammen zwey
+rechte, und werden ſie ſo an einander gefügt, daſs
+fie den Scheitel und einen Schenkel gemeinſam erhal-
+ten: ſo fallen die übrigen zwey Schenkel in eine ge-
+rade Linie am Scheitel an einander." Nun iſt der
+Beweispunkt ſchon im Leitfaden nicht ganz der Figur
+Ä aufgeſtellt. Es müſste beſtimmter, nach der
+Fig: I., heiſsen: »wenn dbc + abc (nicht hbc, denn
+bbe macht wirklich mit db nicht zwey rechte Win-
+kel)= 2 R an einander gefügt, den Scheitel h, und
+Schenkel bc gemeinſam erhalten, was würde folgen,
+wenn man ſich vorftellte, die Schenkel db und bas
+(nicht bh) machten nicht eine gerade Linie aus, ſon-
+dern ba wiche nach bh hin ab." Es würde
+nehmlich folgen, daſs auf dem Scheitel b, wenn man
+db nach a hin verlängerte, noch ein dritter Neben-
+winkel, nehmlich hba, ſich bilden, und mithin nicht
+die beiden Nebenwinkel cbd und cbh, ſondern erſt
+cbd+ cbh+hba, alſo 3 Nebenwinkel = 2 R. wären,
+was einen Widerſpruch gegen die erſte Hauptbedin-
+gung des Lehrſatzes ſelbſt ergiebt. Hiernach müſste
+denn der Beweis (Erläut. 2te Abth. S. 2o.) abgeändert
+werden; er müſste heiſsen: „Wenn Jemand behaup-
+tete, daſs die Schenkel db und ba (nicht h) nicht eine
+gerade Linie machten, ſondern etwa ba nach bh hin
+abwiche – wie würden wir ihn überzeugen können,
+daſs ſeine Behauptung unrichtig wäre? – In dieſem
+Falle würde nämlich hbd einen ſtumpfen Winkel
+- machen; und könnte man dann nicht nach a hin
+verlängern ? wären dann nicht die Nebenwinkel
+abe und dbc entſtanden, die beide gleich 2 R. ſind?
+Wenn das aber iſt, wie können auch hbc und cbd
+= 2 R. ſeyn, da ihnen abh fehlt?" – Hier offen-
+bart ſich der Widerfpruch, und hier ſteht der Be-
+weis. Das Folgende, was der Vf. hinzuſetzt: Nun
+giebſt du ja die Bedingung u. ſ. w., verirrt den Be-
+weis wieder und iſt vergebens, weil damit, daſs abc-
++dbc = 2 R. iſt, nicht zugegeben iſt, und nicht zuge-
+geben werden kann, daſs auch hbc + dhc = 2 R ſeyen,
+da abh ihnen fehlt. – Solcher und ähnlicher Un-
+deutlichkeiten und Verirrungen findet man übrigens
+nur äuſserſt wenige – in den mehreften Fällen ſind
+die Sätze und Aufgaben mit der nöthigen Klarheit
+dargeſtellt, und in den Erläuterungen ſehr lichtvoll
+entwickelt und erörtert. So ſind vorzüglich gut dar-
+geſtellt und treffend erläutert, die Ä von den
+Triangeln und Parallellogrammen, die Lehre von den
+Winkeln im Kreiſe (bef S. 81. 121. 122. 123.), eben
+ſo die ganze Stereometrie. Dieſelbe Deutlichkeit mit
+Gründlichkeit verbunden, trifft man auch in den
+übrigen Abtheilungen, und Rec. kann dieſs nament-
+lich von der Trigonometrie verſichern, welche er mit
+beſonderer Aufmerkſamkeit durchgeſehen hat. Das
+Eine, was dabey noch gewünſcht werden möchte,
+wäre wohl das, daſs der Vf, doch einige Hauptlehr-
+ſätze, die nach der dem Buche eigenen Ordnung ge-
+Ä die andern eine veränderte Stellung erhalten ha-
+en, um der beſſern Vergleichung Ä auch et-
+was mehr ausgezeichnet hätte – dahin gehört z. B.
+der Lehrſatz, daſs die Summe aller innern Winkel
+eines Triangels = 2 R ſey – daſs Triangel und Pa-
+rallellogramme auf einerley Grundlinie und zwiſchen
+einerley Parallelen (oder von einerley Höhe) einan-
+der gleich ſind, u. dgl. m. -
+ine Haupteigenſchaft des mathematiſchen Vor-
+trags iſt unſtreitig Kürze und Präciſion, ſowohl in
+Lehrbüchern, als auch ſelbſt im mündlichen Vor-
+trage. Uebertriebene Deutlichkeit, die weiten
+E-

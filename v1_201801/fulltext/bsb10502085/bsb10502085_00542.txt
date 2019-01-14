@@ -1,0 +1,118 @@
+I59
+16o
+A. L. Z. Num. 129. MAY 1 822.
+che die Beſtimmung gilt, anführt - und ſie zugleich
+j verſchiedene Zeiten angiebt, um die jährliche
+Äenderung der Lage kennen zu lernen. . Dieſe Aen-
+derung hat für den erſten nördlichen Pol, der in der
+Gegend der Hudſonsbay liegt, in einem Jahrhun-
+de mehr als 20 Längengrade betragen, und iſt
+jh für die übrigen Pole ſehr bedeutend. Beide
+Nordpole rücken vom Weſten nach Oſten, beide
+Südpóle von Oſten nach Weſten fort, aber keiner
+ſcheint genau auf einen Parallelkreiſe fortzugehen.
+Doch müſſen wir hier noch genauere Beſtimmungen
+abwarten, da die ältern Beobachtungen leicht irre
+leiten könnten.
+Dieſe ſorgfältige Unterſuchung der Beobachtun-
+en führt alſo zu der Ueberzeugung, daſs allem An-
+Ä nach zwey magnetiſche Axen der Erde müſ–
+ſen angenommen werden, deren eine durch den er–
+ften Nordpol und erſten Südpol, die zweyte durch
+den zweyten Nordpol und zweyten Südpol geht:
+Dieſe Axen find keine Durchmeſſer der Erde, und
+müſſen ohne Zweifel eine Bewegung haben, die aus
+einer genauern Kenntniſs der Bewegung der Pole
+näher erkannt werden würde.
+Hier befinden wir uns nun auf dem Punkte, wo
+der mathematiſche Naturforſcher mit Recht die Frage
+aufwirft, ob denn nicht die Declinationen und In–
+clinationen der Magnetnadel für jeden Punkt der Erde
+ſich berechnen lieſsen, wenn man dic magnetiſchen
+Axen kennt, und Mittel auffindet, um das Verhält-
+niſs der Ä beider zu beſtimmen?– Es läſst
+ſich leicht überſehen, daſs dieſe Beſtimmung noch
+nähere Kenntniſſe von dem Geſetze, nach welchem
+jeder einzelne Punkt der Axen wirkt - und nach wel–
+chem dieſe Wirkung bey gröſserer Entfernung des
+angezogenen Punkts abnimmt, fodert, und Hr. H.
+theilt daher, um die Ueberzeugung zu befeſtigen»
+daſs eine genauere Berechnung wohl die daran ÄT
+wandte Mühe belohnen werde, eine vorläufige Be-
+rechnung mit, welche zeigt, daſs man zu der An-
+nahme zweyer magnetiſcher Axen noch durch meh-
+rere Gründé bewogen werde. Euler nämlich hat ſchon
+Formeln (an denen Hr. H. Einiges zu verbeſſern ſin-
+det) angegeben, um die Abweichung zu berechnen,
+wenn man nur eine magnetiſche Axe der Erde an-
+nimmt, und Hr. H. findet nach dieſen Formeln - wenn
+man in Beziehung auf die erſte Axe rechnet, daſs
+die Linien gleicher Abweichung in der Nähe der be-
+den erſten Pole durch die Rechnung ſehr nahe ſo
+herauskommen, wie die Beobachtung fie angiebt;
+rechnet man in Beziehung auf die zweyte Axe», ſo
+erhält man Linien gleicher Declination, die in der
+Nähe der zweyten Pole mit der Erfahrung gut über-
+einſtimmen; aber weiter entfernt von den magneti-
+ſchen Polen ſtimmt keines der ſo berechneten Syſteme
+von Linien gleicher Abweichung mit der Erfahrung
+überein, ſondern die beobachtete Abweichung fällt
+ºmmer zwiſchen die beiden Angaben der für die eine
+und für die andre Axe geführten Rechnung. Mit
+Recht zieht Hr. H. hieraus den Schluſs, daſs dieſes
+eine vereinte Wirkung beider magnetiſchen Axen
+anzudeuten ſcheine, indem da, wo die Einwirkung
+der entfernteren minder merklich iſt, (um die Pole
+der nähern Axe) alles ſo erfolgt, wie es die Einwir-
+kung einer Axe fodert, da hingegen, wo nicht die
+Einwirkung einer ſo ſehr vorwaltet, ungefähr die
+Erfahrung das Mittel zwiſchen dem giebt, was man
+als Einwirkung jeder einzelnen findet. Hr. H. theit
+mehr Vergleichungen für beſtimmte Punkte mit and
+macht ſelbſt auf die Differenzen aufmerkſam, die ſich -
+allerdings ergeben, – dabey können wir hier nicht
+verweilen.
+So in der Ueberzeugung etwas nicht ganz Un-
+begründetes zu unternehmen, geht der Vf, im 5ten
+Häuptſtück zu ſtrengern theoretiſchen Unterſuchun-
+genüber. Aber hier muſsten zunächſt jene zwºY
+Fragen beantwortet werden: welche eigenthümlich"
+Kraft müſſen wir jedem einzelnen Puncte einer Axe
+beylegen? – und: wie wirkt dieſe Kraft auf Punkte,
+dié ſich in ungleichen Entfernungen von dem anzie-
+henden Punkte befinden? -
+Bey unſern prismaiſchen Magneten, die wir
+als eine gerade Linie anſehen können, hat bekannt -
+ich, wenn die eine Hälfte der andern ganz gleich
+ift, der Mittelpunkt gar keine Kraft, und die Kraft
+jedes andern Punkts iſt deſto gröſser, je mehr er
+vom Mittelpunkte entfernt liegt. Wenn wir alſo
+den Abſtand eines ſolchen Punktes von der Mitte
+des Magnetes = wº nennen, ſo iſt es die einfachſte
+Verrnuthung, die wir aufſtellen können, daſs die
+Intenſität der Kraft irgend einer Potenz von ºr pro–
+portional: durch ar" ausgedrückt ſey, wo n noth-
+wendig eine poſitive Zahl iſt. Wird nun ein ent-
+fernter Punkt der Wirkung des Magnets ausgeſetzt,
+ſo wirken auf ihn zugleich die anziehenden Kräfte
+der einen und die abſtoſsenden Kräfte der andern
+Hälfte, Ja bekanntlich beide Hälften entgegenge-
+ſetzte Kräfte ausüben, und das Reſultat der geſamm-
+ten Wirkung wird aus der Differenz der Einwirr
+kungen aller einzelnen Punkte des Magnets hervor-
+gehen. Jener entfernte Punkt wird nun deſto ſchwä-
+cher angezogen oder abgeſtoſsen, je entfernter er
+iſt, und wenn man ſeinen Abſtand von irgend einem
+gegebenen Puncte des Magnets = z nennt, ſo wird
+man die von dieſem Punkte her auf ihn wirkende
+Kraft einer Potenz z - r proportional ſetzen kön-
+nen. Die weitere mathematiſche Betrachtung führt
+dann durch Integration zur Kenntniſs der geſamm-
+ten Einwirkung des ganzen Magnets. Hiebey li“
+gen zwey verſchiedene Hypotheſen zum Grunde º
+erſte, daſs die Intenſität der Kraft jedes Pu”
+durch r", angegeben werde; die zweyte- daſs die
+Wirkung in die Ferne umgekehrt der ſte Ä
+der Abſtände proportional ſey, und "-"» findl nun
+Zahlen, die manurch Verfüche beſtimmen "us-
+(Die Fortſetzung folgt.)

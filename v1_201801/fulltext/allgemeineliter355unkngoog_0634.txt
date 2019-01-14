@@ -1,0 +1,112 @@
+587
+den keine Construction statt fand, dass also die Auf-
+‚lösung unmöglich war;. und diess ereignete sich, sor
++ald eins der Data mit den übrigen unvereinbar war,
+und also einen Widerspruch enthielt. Wenn z. B.
+verlangt wurde , eine gegebene gerade Linie in Seg-
+mente zu theilen, deren Rechteck einer gegebenen
+Fläche gleich ist, so war es klar, dass die Con-
+struction nicht gemacht werden konnte, sobald die
+gegebene Fläche grösser war, als das Quadrat der
+halben Linie; die beiden Data, die Grösse der Linie
+und des Rechtecks, waren also mit einander unver-
+einbar. Hieraus ergab sich eine Menge schöner Auf-
+gaben über die «Maxima und Minima, oder über die
+Grenzen, welche ein Datum in Verbindung mit andern
+nicht überschreiten darf. Es traten aber auch Fälle
+ein, wo aus einem gerade entgegengesetzteu Grunde
+die Construction unmöglich schien. Wenn z.B. die
+Lösung einer: Aufgabe auf dem Durchschuoeiden
+zweier Linien beruhte, so traf es sich bisweilen, dass
+diese Linien ganz in einander fielen. Obwohl nun
+dieser Umstand die Geometer, welche. zuerst diese
+Bemerkung machten, anfangs in nicht geringe Ver-
+Jegenheit gesctzt haben mag, so ist es doch wahr-
+scheinlich, dass sie bald die richtige Erklärung fan-
+den. Denn da im Allgemeinen die Lösung der Auf-
+gabe von dem Durchschnitte der Linien abhing, das
+ist von den Punkten, welche beiden Linien gemein
+sind, so war es natürlich, dass, wenn die Linien zu-
+sammenfielen, und also beide alle Punkte gemein
+hatten, jeder dieser Punkte eine Auflösung liefern,
+und somit die Aufgabe eine bestimmte seyn musste.
+Wenn man nun die eigenthümliche Beschaffenheit der
+Data, welches dieses unerwartete Ergebniss herbei-
+führte, näher untersuchte, so entdeckte man bald,
+dass in solchen Fällen die eine Bedingung der Auf-
+gabe schon eine andere in sich schloss, wodurch
+beide zusammen in der That nur eine ausmachten,
+und dass also zu einer einzelnen Auflösung, oder zu
+einer begrenzten Zahl von Auflösungen eine hinrei-
+chende Menge von unabhängigen Bedingungen fehlte.
+Diese Fälle der Aufgaben enthielten, wie man bald
+einsah, besonders interessante Sätze, welche zwi-
+schen Aufgaben und Lehrsätzen in der Mitte standen,
+und liessen eine eigenthümliche Abfassung zu. Und
+solche Sätze auf diese Art ausgedrückt, nannten die
+Alten Porismen. ZZ. B. Aufgabe: Es ist ein Kreis
+CEF und 2 Punkte
+A, B gegeben; man
+soll in der Periphe-
+rie einen Punkt €
+
+ 
+
+ALLG. LITERATUR - ZEITUNG
+
+588
+
+finden, so dass die Linien AC, BC ein gegebenes Ver-
+
+hältaiss p:g zu einander haben, ‚Die Analysis giebt
+folgende Construction: theile AB in 6 und in ihrer
+
+' Verlängerung in H so, dass AG: GB = AH: HB
+
+= p:g ist, und beschreibe über GA: einen Halb-
+kreis, welcher den gegebenen Kreis in C schneide,
+so ist, bekanntlich. C der gesuchte Punkt. Offenbar
+ist diese Aufgabe unmöglich, wenn der Kreis GCH
+entweder ganz ausserhalb, oder ganz innerhalb des
+Kreises CEF liegt. Wenn es sich aber trifft, dass
+die Peripherien beider Kreise ganz in einauder fallen,
+so ist klar, dass ein jeder Punkt der Kreislinie CEF
+der Aufgabe genügt, dass also in diesem Falle die
+Aufgabe unzählige Auflösungen gestattet und somit
+in ein Porisma übergeht. Bei dieser Voraussetzung
+fällt der Durchmesser GM mit dem Durchmesser EF
+zusammen, und es ist, wenn D das Centrum des
+Kreises CEF ist, DE* (oder DG?) = m 4AD.DB,
+sowie AE:ED = p:q. Wenn also die Data cine
+solche Relation zu einander haben, dass die Punkte
+A, B in dem Durchmesser EF des gegebenen Kreises
+auf einer Seite dcs Mittelpunktes D licgen, das Qua-
+drat des Halbmessers gleich ist dem Rechteck aus den
+Entfernungen der Punkte 4, B8 vom Centrum, und
+zugleich das gegebene Verhältniss p : q gleich ist dem
+Verhältniss AE : EB, so lässt das Problem unzählige
+Auflösungen zu. Wird nun der Kreis CEF und der
+Punkt 4 gegeben, so lässt sich offenbar der Punkt ß
+und das Verhältniss p:qg finden, und wir haben also
+folgendes Porisma: wenn ein Kreis CEF und ein
+Punkt 4 gegeben ist, so lässt sich ein zweiter Puukt B
+finden, so dass die aus beiden Punkten nach einem
+beliebigen Punkte der Peripherie gezogenen Linien ein
+gegebenes Verhältniss zu einander haben, welches
+auch gefunden werden soll, — .., Die obige Aufgabe
+enthält verschiedene Bedingungen, durch deren Hülfe
+die Construction möglich gemacht wird: zwei Puukte
+A, B, aus welchen Linien gezogen werden , eine Pe-
+ripherie CEF, nach welcher diese Linien gehn, uud
+ein Verhältniss p:q4, welchem das Verhältniss der
+gezogenen Linien gleich ist. Diese Bedingungen sind
+alle von einander unabhängig, so dass irgend eine
+derselben sich ändern kann, ohne dass dadurch eiue
+Aenderung der übrigen hervorgebracht wird. Dies
+ist im Allgemeinen wahr, nur mit Ausnahme eines
+einzigen Falles; denn liegen die gegebenen Punkte in
+dem Durchmesser und ist das Rechteck ihrer Ab-
+stände vom Centrum gleich dem Quadrate des Halb-
+messers, So ergiebt sich aus dem Obigen, dass das
+Verhältniss p:4 nicht mehr beliebig genommen wer-
+

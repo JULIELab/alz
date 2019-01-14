@@ -1,0 +1,120 @@
+829
+
+wie man die im fortschreitenden‘ Wachsen erreich-
+ten Werthe der ‚veränderlichen Grössen als Resul-
+tate dieses Wachsens der Grössen und der in ihrem
+ganzen Verlauf sich kundgebenden verhältnissmäs-
+sigen Stärke des Wachsens hervorgehen lassen
+kann. Beides zuletzt Genannte ist das Wesen der
+Differential- und Integralrechnung, das erste ge-
+hört der Philosophie an. Bei der Art aber, wie
+man hier die Grössen in ihrem Wachsen betrachten
+muss, stellen sich offenbar zwei Klassen heraus.
+Entweder nämlich gehören bei einer Function einer
+Veränderlichen zu gleichen Zunahmen der willkür-
+lich Veränderlichen immer auch gleiche Zunahmen
+der abhäugig Veränderlichen, oder es sind mit
+gleichen Zunahmen der‘ einen Grösse immer und
+durchaus ungleiche Zunahmen der andern Grösse
+verbunden. Als leitende oder erklärende Symbole
+für die ersten, die gleichmässig wachsenden Grös-
+“sen sind durchweg die gerade Linie und die gleich-
+förmige Bewegung und als Symbol der ungleich-
+mässig wachsenden Grössen die Curven und die
+beschleunigte Bewegung angenommen.
+
+Bei den gleichmässig wachsenden Grössen er-
+gibt es sich offenbar, dass die Zahlenwerthe zweier
+zusammengehörigen Zunahmen derselben immer
+dasselbe Verhältniss unter einander haben, wie gross
+und wie klein auch die Zunahmen der willkürlich
+Veränderlichen angenommen werden, d. h. wenn
+y=f (x) ein Functionenverhältniss zweier gleich-
+mässig wachsenden Grössen bedeutet, So ist der
+
+I
+
+ER . A A717
+Differenz - Quotient immer constant: EZ Zn
+A
+
+‚ Dieser Differenz - Quotient gibt allgemein an, um
+wie viel Einheiten ihrer Art die abhängig verän-
+derliche Grösse wächst, wenn die willkürlich Ver-
+änderliche um die Zahl 1 wächst, d. h. er gibt die
+quantitative Bestimmung über das Wachsen der
+gleichmässig wachsenden Grössen an, welche man
+die Stärke des Wachsens nennen kann. Bei un-
+gleichmässig wachsenden Grössen, wird man nur
+von einer verhältnissmässigen Stärke des Wach-
+sens sprechen dürfen, da sie hier offenbar mit je-
+dem Augenblick oder mit jeder Aenderung der un-
+abhängig Veränderlichen eine andre wird. Umge-
+kehrt wird man aus der gegebenen Stärke des
+Wachsens zweier gleichmässig wachsenden Grössen
+die Natur ihrer gegenseitigen Abhängigkeit erken-
+
+n 7 ® ek Se Ay ;
+“nen können; es wird nämlich aus Ar = @ unmit-
+X
+
+telbar folgen y = «x oder auch y= ax -+c. Die
+
+Num. 248. NOVEMBER 1847.
+
+830
+
+Einfachheit der so gewonnenen Resultate schliesst
+ihre durchgreifende Wichtigkeit nicht, aus. Denn
+obgleich die ungleichmässig wachsenden Grössen
+das eigentliche Object der Differential - und Inte-
+gralrechnung bilden , so kann doch der Fundamen-
+talbegriff. dieser Wissenschaft, der Begriff der ver-
+hältnissmässigen Stärke des Wachsens, nur aus
+der Betrachtung der gleichmässig wachsenden
+Grössen gewonnen werden, indem man mit ihnen
+allein ursprünglich und unmittelbar die Vorstellung
+einer bestimmten Stärke des Wachsens verbinden
+kann. So wie man, wenn eine Linie ungleichför-
+mig gekrümmt ist und also ihre Krümmungsstärke
+sich verändert, von der in einem einzelnen Punkte
+derselben vorhandenen Krümmungsstärke sich durch-
+aus keinen Begriff machen könnte, wenn man nıcht
+eine gleichförmig gekrümmte Linie, die Kreislinie,
+zur Vergleichung hätte, bei welcher die die Krüm-
+mungsstärke bestimmenden KElemente, nämlich
+der Fortschritt auf der Linie und die Drehung
+aus einer Anfangsrichtung, gleichmässig wachsen,
+und sowie die in einem einzelnen Punkte vorhan-
+dene bestimmte Krümmungsstärke einer krummen
+Linie nur dadurch erfasst wird, dass sie als mit
+der constanten Krümmungsstärke irgend eines Krei-
+ses identisch erkannt, wird, so wird man sich über-
+haupt bei alien ungleichmässig wachsenden Grössen
+von der in einem einzelnen Punkt vorhandenen
+verhältnissmässigen Stärke des Wachsens nur da-
+durch einen Begriff machen können, dass man die=-
+selbe als mit der constanten Stärke des Wach-
+
+sens zweier gleichmässig Wachsenden identisch
+
+aufzeigt.
+
+Aus dem Begriff des ungleichmässigen Wach-
+sens zweier von einander abhängigen veränderlichen,
+aber stetigen Grössen (und von diesen kann hier
+nur die Rede seyn) folgt, dass die verhältniss-
+mässige Stärke des Wachsens derselben eine stetig
+veränderliche ist, die auch innerhalb der kleinsten
+Strecke oder Dauer nicht dieselbe bleiben kann.
+Dieser Begriff der stetigen Veränderung der ver-
+hältnissmässigen Stärke des Wachsens ist der we-
+sentlichste und wichtigste der ganzen Diff, - und
+Int. Rechnung. Es folgt zunächst daraus, dass
+die verhältnissmässige Stärke des Wachsens in je-
+dem Punkt oder Augenblick oder für jeden be-
+stimmten Zahlenwerth der willkürlich Veränder-
+lichen als eine bestimmte wirklich vorhanden seyn
+muss, dass sie zweitens für jeden andern noch so
+nahe liegenden Punkt oder Augenblick oder Zah-
+

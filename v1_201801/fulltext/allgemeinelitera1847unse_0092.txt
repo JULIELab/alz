@@ -1,0 +1,132 @@
+175 A. L. Z.
+
+dDr ADy dDz
+
+2 20Y;, D2wz,... -
+Dax, Doy; TU SH dw? dw? da
+
+Dh
+schreiben sollen,
+
+In $. 33 beschäftigt sich der Verfasser mit der
+Bestimmung der Maxima und Minima der Functio-
+nen mehrerer nicht ganz unabhängiger Veränder-
+lichen, d. h. wenn eine Function F(x, y, %,...)
+mit m Veränderlichen x, y, 3,... zu einem Ma-
+xzyimum oder Minimum gemacht werden soll, indem
+X, Yı Z,... zugleich % Bedingungsgleichungen :
+
+PL, Yı Z,...)=0, Vs, y, Z,...) =0,
+
+CE
+genügen müssen. Als den zunähst liegenden Ge-
+danken zur Lösung des fraglichen Problems führt
+der Verfasser ganz richtig an: n von den m Ver-
+änderlichen x, yY, 3,... aus der Function F(x, y,
+Z,...) zu eliminiren, wodurch man auf den früher
+betrachteten Fall einer Function von m-n unab-
+hängigen Veränderlichen zurückkommt. Er fügt aber
+die ganz unrichtige Bemerkung hinzu: dass die
+Ausführung dieses Gedankens ganz unmöglich seyn
+würde, wenn die Bedingungsgleichungen (d) von
+höhern Graden wären. Offenbar verwechselt hier
+der Verfasser die Elimination zwischen höhern Glei-
+chungen mit mehreren Unbekannten mit der Auf-
+lösung höherer Gleichungen. Die allgemeinen Leh-
+ren werden alsdann auf mehrere passende Beispiele
+angewandt.
+
+In Kapitel 8. handelt der Verfasser von dem
+Taylor’schen und Maclaurin’schen Lehrsatze. Er
+leitet zunächst aus den beiden Gleichungen:
+
+F(a+h)=F(a)+hF(a+0Oh),
+
+% hun
+
+fh) = Kae ff” (O.h);
+welche voraussetzen, dass F (x) und FF’ (x) von
+x=—a bis z=a+h, so wie f(x), f‘ (x), f(x)...
+ff“ (x) von x= 0 bis z= % endlich und stetig
+bleiben, f(0) = f‘ (0) = .... = f@—D (0) = 0
+sind und ©, ©. zwischen 0 und 1 liegen, die Tay-
+lor’sche Reihe, und aus dieser für x — 0, = x
+die Muaclaurin’sche Reihe ab.
+
+ 
+
+In $. 34 folgt eine heuristische Ableitung der-
+selben beiden Fundamentalreihen, wobei zunächst
+gezeigt wird, dass jede ganze rationale algebraische
+Function F(x)= Axc +Brß +CxY +... + Mau,
+wenn darin = + h für x gesetzt wird, auf die Form
+
+Gebauersche
+
+Num. 166, JULI 1847.
+
+ 
+
+176.
+der Taylor’schen Reihe führt; aber es wird auch
+ausdrücklich bemerkt, dass sich der in dieser letz-
+ten Formel ausgesprochene Satz nicht ohne Wei-
+teres auf beliebige Functionen erstrecken lasse. Um
+
+diesen Satz für eine beliebige Function F (x) zu
+erweisen, sucht der Verfasser die Summe der Reihe:
+
+Fe) + FC + FG...
+
+h n—1
+BE EN EN
+1.2.3...n— 1 FO (7)
+
++
+welche Summe alsdann von selbst ausweisen soll,
+in wie weit der fragliche Satz für eine beliebige
+Function Gültigkeit habe, Die Ableitung ist aber
+wegen der Umgehung der Integralrechnung ziem-
+
+lich gesucht und complicirt,
+
+In $. 36 wird der Maclaurin’sche Lehrsatz auf
+die Entwickelung der Reihen für (1+x)“)
+log (1 + x), e*”,sin x, cos x angewandt, und im
+$.37 wird alsdann untersucht, für welche Werthe von
+x die Schluss - oder Ergänzungsglieder dieser Rei-
+hen verschwinden, wenn n= « wird, d. h. für wel-
+che Werthe von x die entsprechenden unendlichen
+Reihen gelten, Bei dieser Untersuchung benutzt
+der Vf. einen allgemeinen Lehrsatz, welcher vorher
+bewiesen wird und folgendermassen lautet: „Wenn
+
+. Fn+1
+der Quotient RO
+
+the der Zahl % an stets kleiner als die Einheit
+bleibt, und ein % ins Unendliche zunimmt, so ist
+n= ©%
+
+lim. F(n) = 0.” Der Beweis, welchen der Vf.
+von diesem Lehrsatze giebt, ist gerade nicht ein-
+fach und setzt sogar die Kenntniss des binomischen
+Lehrsatzes voraus. — Wenn F (n) eine stelige
+Function von n” ist, so versteht sich dieser Satz
+von selbst. — Die strenge Nachweisung , dass das
+Ergünzungsglied (der Rest) einer durch Anwendung
+der Taylorschen oder Maclaurin’schen Reihe auf
+eine Function erhaltenen Reihe für n= % verschwin-
+det, ist durchaus nothwendig, wenn die’ unendliche
+Reihe als gleichbedeutend mit der entsprechenden
+Function soll betrachtet werden können, weil be-
+kanntlich die Nachweisung der Convergenz der un-
+endlichen Reihe nicht einmal immer hierzu hinrei=
+chend ist. —
+
+von irgend einem Wer-
+
+(Die Fortsetzung folgt.)
+
+Buchdruckerei.
+

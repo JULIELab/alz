@@ -1,0 +1,131 @@
+387
+
+verschwindet. In dem genannten Beispiel wird p= 4x,
+Ob nun aber dieses Verfahren, eine Grösse während
+der Integration als constant, nach der Integration
+aber als Function der unabhängig Veränderlichen
+zu betrachten, so unbedingt gestattet ist, dürfte
+doch wohl noch eines Beweises bedürfen, Ausser-
+dem ist dieses Verfahren von sehr ungewissem Nutzen,
+da man nicht vorher wissen kann, ob man eine con-
+vergirende Entwickelung dadurch erhält oder nicht.
+In demselben Aufsatz sagt der Vf, auf S. 258, dass
+
+ALLG. LITERATUR - ZEITUNG
+
+das Differential dx. /x+2Vz sich nicht direct inte-
+griren lasse, während es sich durch die sehr feicht
+
+— 3“
+zu findende Substitution zZ in das ratio=-
+
+nale Differential — m ‚dz verwans»
+
+delt, welches auf die einfachste Weise integrirt
+werden kann, Setzt man dann in das Resultat den
+
+Werth von 2z=1+VE —V5FRV zz, 8o erhält
+man ohne die geringste Mühe:
+
+SV dr=} VE (Ve +3) Vz van log + VE EEE }
+
+Von höherem Interesse und grösserem Gehalt
+sind die beiden Abhandlungen von Schlömilch, T. 1,
+p- 263 — 268 und T. I, p. 417 — 422, so wie die vom
+Herausgeber T. IL, p. 2%66—323, alle drei aus der
+Theorie der bestimmten Integrale, In der orsten
+dieser drei Aufsätze entwickelt der Vf. zuerst diese
+
+Formeln: Wenn 1+2.{cos 7 +cos 2x +cos3x+ ..b
+
+= 1+ 2 Scosnz = F(r) gesetzt wird, so ist
+1
+
+Sr@.den,
+eg .
+
+€
+
+wos hr. F(ix).dr=m,
+0
+c
+
+sin hr. F(x).dr=0,
+0
+c
+J’z".cos he. F(xz).dx=0,
+0
+
+SE sinhz. F(rx).dr=0,
+0
+
+c
+Sa F(x7).dr=0,
+0
+
+wenn € eine Mittelgrösse zwischen 0 und %r ist,
+
+und wenn m und A beliebige ganze Zahlen sind.
+Mit Hülfe dieser Formeln gelangt der Vf. zu
+
+folgenden schr allgemeinen Theoremen von Lagrange:
+
+2 *
+Setzt man — L sin nz. f(z)dz =a, und
+
+nr
+
+2 .
+x / coanz.f(z).dz=b ‚soistf(z)=Sa „sin nz
+® n 1ın
+=. ;
+und auch f(r)= 2b) + Sb ‚cos nz, so dass sich
+1
+
+jede Function f(r) in eine Reihe von den Formen
+a, Sin.r + Azsin2r +azsindr+....,
+oder 4 6g-+ 6, cos x + bzcos2.x + bzcos3r +...
+entwickeln lässt, sobald man a und 6 den erwähn-
+ten bestimmten Integralen gleich setzt.
+
+In der zweiten angezogenen Abhandlung des-
+selben Verfs. wird die Grenze untersucht, wel-
+
+cher sich das bestimmte Integral
+c
+
+SL. sin (2n + 1)9
+
+3 sin 6
+für ganze, positive, wachsende n» nähert, wenn €
+zwischen o und x liegt, welche sich = 7.f(0) fin-
+
+fr (6) .d6 :
+
+det, wie es schon aus einer Abhandlung von Le-
+jeune-Dirichlet in Crelle’s Journal IV, p. 157 be-
+
+kannt ist. Da nun
+sinn +1) 2
+1+2{co8 O + cos 20 +... + cos nO}— 5 4
+nz
+
+ist, so lässt sich jede Reihe summiren, deren all-
+c
+gemeines Glied f cosn©.f(9).dO ist. Man hat
+0
+
+nämlich
+
+c ©
+* sin(2n +1) zZ
+/ 6 CO).d0=
+
+ 
+
+2
+c ©
+
+/ 1c0).40+25 / wosn6.f(0).46
+0 0
+

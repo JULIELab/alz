@@ -1,0 +1,145 @@
+1
+gehörige Form gebrachte Gleichung auf die nte.Po-
+tenz erhebt, und dann durch Addirung gefchickter
+Ge nm (derch Förm er angiebt) mit unbeftimm-
+Coefheienten , die fich herr
+
+mäfs beftimmen laffen, alle diejenige. Glieder weg-
+fchaft, deren Exponenten kein Vielfaches von n find.
+Nach der zten Methode nimmt man‘, wenn'die gege-
+
+bene Gleichung diefe it: x 40x 4 ba! eu DEE
++q=—0o die gefuchte mit. unbeftimmten Coefficienten
+All 2 a
+
+ao Ar RE. HP” + Q=0
+{o mufs-die’ zte Gleichung alle Wurzeln der ıften ent-
+halten‘,valfo. die ıfte ein Factor der 2ten feyn. Divi-
+dirt ınan alfo die 2te Gleichung durch die ıfte To lan-
+ges-bis‘ im. Quotienten ein Glied’ vorkommt, das
+kein. x mehr venthält, fo mufs der fcheinbar übrig‘
+bleibenderReft Glied vor Glied —'o feyn.  Diefer
+Ref nun befteht aus :» Gliedern, welches mithin r
+Gleichungen für die zu beftimmenden A,B,C, etc.
+giebt. Diefe 2te’ Methode hat, wie der Vf. felbf be-
+merkt, mit Lamberts Methode in’ feinen Beyträgen
+1 Th. .ıfte Abtk. 'Aehnlichkeit: Beide liefsen {ich
+zum Theil durch den Gebrauch combinatorifcher Zei-
+chen/fehr einfach darftellen, die der Vf. abfichtlich
+nicht brauchen wollte, um defto allgemeiner verftänd-
+lich zu werden; doch wird freylich bey höhern Wur-
+zelzeichen auch die einfachfte Regel nicht gegen die
+Weitrläuftigkeit der Rechnung ganz fchützen können.
+Da übrigens namentlich auch diefe Aufgabe unter die-
+jenige‘ gehört, deren Auflöfung Hr. Hindenburg in fei-
+nen: prim. Lin. ‘Nov. Syffen. Permutationum etc. ver-
+fprochen hat, fo dürfen wir vielleicht diefen würdi-
+gen Gelehrten“ bitten „in. einem der folgenden Hefte
+uns ‚auch? feine Methode hierüber mitzutheilen, 6)
+Rothe über die‘ Ausvechnung chief abgefchnittener Prif-
+men. R. findet 1) für ein fenkrechtes oben fchief
+abgefchnittenes* Prifma folgenden Lehrfatz: wenn
+man auf dem Schwerpunkt der Grundfläche eine Li-
+nie fenkrecht errichtet, fo geht fie auch durch den
+Schwerpunkt der entgegehgefetzten fchiefen Fläche,
+und. der Inhalt-des Prifma ift gleich dem Producte
+aus ’der Grundfläche in diefe zwifchen den Schwer-
+punkten der - beiden Flächen abgefchnittene Linie,
+und 2) für ein auf beiden Seiten fchief abgefchnitte-
+nes Prifma: derInhalt eines folchen Prifina ift gleich
+dem Producte aus einem fenkrecht durch die Kanten
+des Prifma gehenden Schnitt deffelben in den Abftand
+der Schwerpunkte der beiden Grundflächen, oder
+auch gleich dem Producte einer der beiden Grundflä-
+chen in das Perpendikel, welches auf fie aus dem
+Schwerpunkt der andern Grundfläche gefällt wird,
+7) Lüdicke über eine-beftimmte Aufgabe aus der un-
+beitimmten Analytik. Die Aufgabe, die ein Freund
+von Hn. Lüdicke fehr‘ mühfam fand, if diefe:' eine
+Zahl zu finden, die durch 2, 3,5, 6,9», 19 getheilt
+der Ordnung nach folgende Refte übrig Jaffe: x, 2w
+4, 5,5, 9; durch 11 getheilt aber aufgehe, und zwi-
+fchen 14 und 15 Schock d. h. zwifchen 840 und 900
+falle. Hr. Lüdicke zeigt, wie fich die Aufgabe ver-
+
+ihrem Zweck ge"
+
+ALLG. LITERATUR - ZEITUNG 444.
+
+mittel& der Hindenburgifchen Lehre. von cyklifchen -
+Perioden fehr leicht auflöfen laffe, giebt aber,auch
+zugleich / eine Abkürzungs - Methode für das fonft-
+weitläuftige Eulerifche erfahren "an. Hr. Hinderz-
+burg zeigt nun in einem Anhang, wie die letzte Be-
+dingung die fonft unbeftimmte Aufgabe eigentlich be-
+ftimme, und, wenn: man von diefer anfange, eine
+äufserft leichte Auflöfung gebe, Da dies wohl die
+Abficht deffen , der die Aufgabe vorlegte, nicht war ;
+fo erinnert H. die nähere Beftimmung der Zahl hätte,
+mit Weglafung der letzten Bedingung, auch noch
+auf andere Art z.B. foerhalten werden können, wenn
+man gefagt hätte, die Zahl.fey gerade die kleinßa un-
+ter allen, die den übrigen Bedingungen Genüge lei-
+fen. Rec. fcheint überhaupt die Aufgabe nicht gut
+ausgedrückt zu feyn, indem darin fehr wiele ganzt
+überfüfßige., nichts. beftimmende” Bedin En0 VOr-
+kommen. Iu,der That, fo bald man weifs, dafsı ei®*
+ne Zahl.durch 10 getheilt 9 zum Reft lifst , fo weifs
+man zugleich; auch , dafs fie durch 2, oder 5 getheilt
+1, oder. 4 zum Reft Jäfst. ‚Eben fo folgt aus der Be-
+dingung, dafs fie durch 9 getheilt 5 übrig lafe, fehon,
+dafs fie durch, 3 gerheilt 2 übrig laffe, ‚und aus die-
+fem zufammen folgt denn auch, dafs fie durch 6 ges
+theilt 5 zum Reft Jaffe. Es kommt alfo. alles. blofs
+auf die Theilungen durch 9,10 und z1 und,die hie-
+bey übrig bleibende Refte, und die-weitere zur völ-
+Jigen Bettimmung hinzugefügte Bedingung an.  Hie-
+nach. läfst fich die Aefgabe, felbit wie H: fie vor:
+trägt, auch auf die gewöhnliche Merhode ganz leicht
+auflöfen. Sieht man nämlich blofs auf die Bedingun-
+
+en der Theilung durch ır und durch. 10, fo läfst
+fh die gefuchte Zahl fo ausdrücken: 11x, oder auch
+10y+9- Mithin iß 11x= 20y+9 oder 11x—9 =
+
+X—9
+10y, daher X+
+10
+
+ 
+
+=y. Es mufs alfo, wenn
+
+man nur. auf diefe Bedingung fieht‘, x fo befchaffen
+feyn, dafsıx— fich durch zo’theilemn läfst, d. h. es
+mufs x in der Reihe der Zahlen feyn: 19,29, 30
+49x 59; 69» 79, 89 u« f. w. oder die gefuchte Zal
+11x mufs eine der Zahlen feyn; 209, 319, 429; 539:
+649; 759; 869, 979 u-f.w. (welches mithin, wen
+die Bedingung angegeben wird, die Zahl'foll zwi-
+fchen. 8340 und goo fallen ,/ fchon- hinreichen würde) -
+mithin 10y eine der Zahlen: 206, 310, 420, 530,"
+640, 7505 860, 970 u. f.w. oder y eine‘ der Zahlen
+20x 31» 42» 53, 64, 75» 86, 97 u. f.w. Wegen
+der Theilung durch 9 kann man aber die‘ gefuchte
+Zahl auch noch fo ausdrücken gz + 5: mithin ift
+10y+9= 9z+5 Oder 10y — 5=92-—09, mithin
+
+y+ yY—5
+
+theilen laffen. Es ift aber ya eine den Zahlenn
+26,37» 48, 59; 70, 81, 96 u- £. w. und nun, fieht
+man Gicht den 8x der ante Werth fey, der die: .
+fer Bedingung Genüge leiftet , alfo 86 der Kleinfte
+Werth für y , oder 869 die gefuchte Zahl. — Noch
+find lehrreiche. Recenfionen von Langsdorfs Lehr,
+buch der Hydraulik ‚und Piazzi della ‚Specola aftrono-
+
+micd
+
+ 
+
+= z—I, allo mufs fich y—5 durch 9
+
+ 
+

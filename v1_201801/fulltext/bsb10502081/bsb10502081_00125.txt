@@ -1,0 +1,113 @@
+24 I - - - - - -
+-- ZI --- : 242
+- - - - -
+" – – – Y -
+E R GÄN z U N G S BLÄT T ER
+- -
+- ZUR -
+ALLG EM E 1 N EN L 1 T E RAT U R - z E IT U N G
+f
+März
+-
+1 82 O.
+MATHEMATIK. -
+Paris, b. Courcier: Leçons ſur le Calcul des fon-
+ctions. Par J. L. Lagrange. – Nouvelle édition,
+revue, corrigée et augmentée par l'Auteur.
+1806. so S. gr. 8.
+De gegenwärtigen Werkes, einer der ſchätzbar-
+*- ſten Gaben aus der fleiſsigen Hand des Vfs-, iſt
+ſchon bey Veranlaſſung der Anzeige der Fºco
+nen-Theorie vom nämlichen Vf. in Nr. 94 ff. des
+vorigen Jahrganges dieſer Blätter vorläufig als eines,
+über den ganzen erſten Theil dieſer Theorie ſich er-
+ſtreckenden Commentars Erwähnung geſchehen.
+Indeſſen iſt dieſer Geſichtspunct noch zu eng. Man
+findet hier nicht nur eine Erläuterung, ſondern
+auch eine Bereicherung jener früheren Arbeit; und
+überhaupt einen ſolchen analytiſchen Reichthum,
+daſs wir den Leſern der Theorie dringend den be-
+ſtändigen Rückblick auf dieſe ,, Leçons" empfeh-
+1en müſſen, welcher durch die, im erſteren Werke
+enthaltenen dieſsfallſigen Nachweiſungen erleichtert
+wird. Mit doppeltem Bedauern führen wir deſswe-
+en an, daſs, ſo weit unſere Erfahrungen reichen,
+s Buch in Deutſchland nicht nach Ä fei-
+nes Verdienſtes gekannt und genutzt wird; und wir
+üben nur eine Pflicht gegen die Wiſſenſchaft und ge-
+ÄÄ den Vf., indem wir, durch eine ausführliche
+nzeige, mehr Aufmerkſamkeit für daſſelbe zu
+erregen beſtrebt ſind. Der Born mathematiſchen
+Wiſſens quillt – Deutſchland muſs ſich dieſs mit
+Beſchämung geſtehen! – ſeit einer Anzahl von Jah-
+ren ſpärlicher bey uns, als bey unfern transrhena-
+niſchen Nachbarn; und Rec. würde ſich in Verle-
+genheit befinden, wenn er aus dem letzten Decen-
+nio ein vaterländiſches Werk über höhere Analyſis
+angeben ſollte, welches, nach ſeiner individuellen
+Ueberzeugung, dem gegenwärtigen, an gründlicher
+Neuheit der Ideen, Klarheit und Fülle, würdig zur
+Seite geſetzt werden dürfte. -
+Der Hauptzweck des Buchs, derjenige, den
+es mit der Théorie des fünctions analytiques gemein
+hat, iſt: durch Aufſtellung eines vollkommen deut-
+lichen Princips, Licht in das undurchdringliche
+Dunkel zu bringen, womit das Poſtulat unendlicher
+Kleinheit, als letzten Erklärungsgrundes des Ver-
+fahrens der Differential-Rechnung, das ganze Ge-
+biet der Ä erfüllt f. ,,Die Fun-
+ctionen - Rechnung", heiſst es in der 1ſten Leçon
+Ergänz. Bl. ZL/" A. L. Z. I82O. -
+- - - - -
+(ſur l'objet du Calcul des Fonctions, et ſur les Fon:
+ctions en général – das Werk iſt in 22 ſolcher
+Lectionen getheilt, welche den ganzen theoretiſchen
+Theil der Ä - Lehre umfaſſen) „hat mit
+der Differentialrechnung, dieſelbe in der weiteſten
+Bedeutung genommen, den nämlichen Gegenſtand
+gemein, ohne jedoch den Schwierigkeiten unter-
+worfen zu ſeyn, die ſich bey Adoption der Grund:
+ſätze Letzterer und Befolgung des darauf gebaueten
+Verfahrens aufzeigen, Sie knüpft überdieſs die Dif-
+ferentialrechnung unmittelbar an die Algebra an,
+ſtatt daſs man erſtere bis jetzt (durch ſtrenge Schei-
+dung der ſogenannten höheren und niedern Analy-
+fis) behutſam von der letztern abgeſondert hat. Die
+Schwierigkeiten, welche Leibnitz durch Einfüh-
+rung des Princips unendlicher Kleinheit, in die Dif-
+ferential - Rechnung gebracht hat, ſind hinlänglich
+bekannt. Um Ä zu entgehen, betrachtete
+Euler die Differentiale als Nullen, dem zu Folge ſich
+ihr Verhältniſs als der Quotient der Diviſion von
+Null durch Null darſtellt; eine Anſicht, welche gar
+keinen Begriff gewährt. Maclaurin und d'Alem-
+bert wenden die Betrachtung der Grenzverhältniſſe
+an, indem ſie das Differentialverhältniſs als die
+Grenze des Verhältniſſes der endlichen Differenzen
+im Augenblick ihres Verſchwindens betrachten.
+Allein dieſer Geſichtspunct hebe die Schwierigkeit
+nicht, ſondern rückt ſie nur weiter in die Ferne,
+indem das Verhältniſs verſchwindender Differenzen
+am Ende auch nur auf die Anſicht eines Quotienten
+von Null durch Null führt. „Ueberdieſs enthält die-
+ſer Begriff von Grenze etwas Unzuläſſiges, da die
+Abnahme einer Gröſse bis auf Null, ihre nachheri-
+e fernere Veränderung in negativem Sinne nicht
+ausſchlieſst; und im geometriſchen Verſtande iſt es
+eben ſo unzuläſſig, z. B. die Subtangente als die
+Grenze der Subſecante zu betrachten, da Nichts die
+Letztere verhindert, fortzuwachſen, obwohl ſie je
+ne angebliche Grenze bereits erreicht hat. Die uewah:
+ren Grenzen, nach den Begriffen der alten Geome-
+ter (und wir möchten die ganze Aufmerkſamkeit
+unſerer Leſer auf dieſen Punkt des hinc illae lacry-
+mae richten), ſind ſolche Gröſsen, die man nicht
+überſchreiten kann, ob wohl man ſich ihnen fort-
+dauernd nähert: wie z. B. der Kreis mit dem um -
+und inbeſchriebenen Polygon, von denes, wie oft
+man die Zahl der Seiten verdoppeln, das Erſtere
+nie in, das Letztere nie aus den Kreis treten wird,
+– Gleiche Schwierigkeiten bietet die von Newton
+- *
+H ( 1 ) - T» er-
+-

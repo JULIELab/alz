@@ -1,0 +1,126 @@
+637
+638
+Num. 184. AUGUST 1 825.
+gen die vorausſetzung), oder es wären für jedes
+eld nur zwey Ausgänge vorhanden (folglich entwe-
+der keine Complexioa; oder nach den zweyten Zu-
+ge, keine Wahl möglich (§ 15); oder endlich es
+bliebe für das letzte Feld ein dazu untauglich es übrig,
+was ebenfalls unmöglich iſt vermöge der Vorausſe-
+tzung in der Aus- Ge-" . .
+j Da nun bewieſen iſt, daſs man jedesmal gegen
+die Regel gefehlt haben müſſe, wenn man bey einem
+gemachten Verſuche die Auflöſung nicht findet, und
+daſs man eben deswegen nicht zur Auflöſung ge-
+langte, weil man gegen die Regel gefehlt hat: ſo iſt
+auch bewieſen, das man durch ºben der
+Regel immer zu der Auflöſung gelangen müſſe.'
+Unlere Leſer brauchen ſich nicht zu bemühen,
+um die beiden er/en Abſätze dieſes Beweiſes ver/te-
+hcn zu lernen; ſie dürfen nur den dritten betrachten,
+um von der Unhaltbarkeit des Beweiſes ſich zu über-
+zeugen. Zugegeben, daſs man, bey verunglücktem
+mechaniſchen Verſuche, im Zurückgehen noth wen–
+dig auf einen Zug kommen müſſe, wo man gegen
+die Warnsdorf/je Regel gefehlt hat, ſo folgt doch
+daraus keinesweges, daſs der mechaniſche Verſuch
+eber (ctas ſoll doch wohl heiſsen: blo/s) deswegen
+miſslang, weil man gegen dieſe Regel fehlte. Es
+kann ja noch eine andere Regel geben, durch deren
+Beobachtung der Verfuch auch gelungen ſeyn würde
+(†aſs die feinige die einzige ſey hat der Vf. icht ein-
+mal behauptet, geſchweige denn bewieſen ) und in
+dieſem Falle wär offenbar der Verſuch miſslungen,
+nicht bloſs, weil man gegen Yarnsdoº/'s Regel,
+ſondern weil man gegen beide Regeln fehlte, weil
+man weder die eine noch die andere befolgte, und
+ſei ſt das ſetzt ſchon die Unfehlbarkeit der Parns-
+dorf/chen Regel voraus, die doch eben bewieſen
+werden ſoll. Wie mag aber aus dem Satze , den wir
+oben zugegeben haben: du muſst gegen Y's. Regel
+gefehlt haben, wenn du bey’m meclaniſchen Verlu-
+che nicht zum Ziele gelangteſt, gefolgert werden,
+daſs man durch Beobachtung derſelben immer zum
+Ziele gelangen müſſe. Es iſt unſtreitig eine richtige
+Jagdregel: Triff das Wild; gleichwohl kann das
+Wild getroffen ſeyn, und doch dem Schützen entge-
+hen. Angenommen alſo auch, man bewieſe einem
+Jäger, daſs ihm ein Wild entgangen, weil er es ge–
+fehlt; ſo hat man ihm doch noch lange nicht be-
+wieſen, daſs er jeden Wildes, das er treffen wird,
+auch nothwendig habhaft werden müſſe. -
+Hr. v. Y. hat die ſchon oben gerügte Unſicher–
+heit ſeiner Regel wohl gefühlt, und darum § 21. die
+Aufgabe auch auf den Fall erſtreckt, „wenn auch
+rs ht jedes Feld entgegengeſetzter Farbe zum Au-
+angsfelde taºgt." Aber hier iſt ſchon die Auflö–
+/zzig (die legel), die er giebt, unmathematiſch.
+Man ſoll nach der vorigen Regel verfahren, aber zu-
+gleich jene Züge», bey welchen ſie freye Wahl lieſs,
+bemerken. „Gelangt man zu keiner Auflöſung, ſo
+wähle man nach und nach andere Felder für die will–
+kürlichen Züge. Auf dieſe Art muſs man zu einer
+Auflöſung gelangen, wenn eine möglich iſt." Was
+-
+-
+heiſst das anders, als: Yerſic/e das Ding auf alle
+mögliche Arten, ſo muſs es dir, wenn's überhaupt
+möglich iſt, gelingen. Das geben wir, ohne Beweis
+zu; aber was iſt da nit gewonnen für den Zweck,
+eine Auflöſ: gsregel zu finden, die ohne Probiren,
+ohne Rückſ rie zum Ziele führt, wie eine Rcc/-
+nungs – Regel ?
+Hn. 's. Regel iſt, mit einem Worte, plauſible,
+und weiter nichts. Wenn die Elemente a, b, c, d,
+e, fetc., von denen jedes nur mit einigen ander!
+combinirbar iſt, zu einer ſtetigen Reihe von Anben
+(Springerzügen) verbunden werden ſollen; ſo iſt es
+unſtreitig der ſicherſte Weg, daſs man immer dieje-
+nigen zuerſt in die Reihe aufnehme, für welche noch
+die wenigſten, zur Combination mit ihnen taugli-
+chen Elemente übrig ſind. Sobald man aber auf zwey
+oder mehrere ſtöſst, für deren Combination gleich-
+viele Elemente noch da ſind; ſo wird der Weg unfi--
+cher, weil der Weg, den man wählt, zu unüber-
+windlichen Schwierigkeiten führen kann, denen man
+auf den andern Wege nicht begegnet wäre.
+Für den Röſſelſprung kennen wir im allgemei-
+nen nur eine unüberwindliche Schwierigkeit: er iſt
+unmöglich, wenn auf der noch zu beſetzendem Tafel
+mehr als zug) Felder vorhanden ſind, die nur noch
+einen Ausgang haben. Denn ſolche Felder taugen
+nur zu Enden der Bahn, und deren kann ſie nur
+zwey haben. Daraus folgt die, ihrer Natur nach
+freylch nur negative Regel: Führe den Springer im–
+mer ſo, daſs auf denn jedesmaligen, aus noch unbe–
+ſetzten Feldern beſtehenden Reſte der Tafel, nie
+mehr als zwey Felder auf einen einzigen Ausgang
+redert werden. Aber leider kann ein einziger Zug
+den Hºf der Tafel in dieſen Zuſtand der Üntaog-
+lichkeit verſetzen, und dieſer Zug kann nothwendig
+werden durch ein Verſehen, welches lange vor ihm
+auf der beſetzten Tafel vorgegangen iſt. Darin liegt
+die Schwierigkeit von der Aufſtellung einer mathè–
+matiſch ſichern Regel für die Ausführung des Röſ-
+ſelſprungs auf jeder Tafel, die von Haus aus dazu
+tauglich iſt. Die unſeres Vfs. aber, wenn auch ihre
+Unfehlbarkeit mathematiſch erweislich wäre, war–
+de immer noch in ſofern unbefriedigend ſeyn, als
+ihre Befolgung bloſs zu den ſogenannten radläuf-
+gen Bahnen führt; weil ſie, da die Randfeller we–
+niger Ausgänge haben, als die Binnenfelder, den
+Springer immer nach dem Rande drängt. Daſs man
+das Gegentheil davon thun, die Mittelfelder, welche
+die meiſten Ausgänge haben, und nach Warnsdorfs
+Regel zuletzt an die Reihe kommen, zuerſt bee-
+tzen - und doch zum Ziele kommen kann, folgt
+ſchon aus dem Satze, daſs man jede gefundene Bahn
+rein umkehren kann; würde jedoch der Entdeckung
+des Vfs. keinen Abbruch thun, wenn ſie nur ſonſ
+geeignet wäre, die combinatoriſche Analy/s zu ſor-
+dern. Das iſt der Zweck, welchen ſowohl Parler-
+monde als Euler im Auge hatten, als ſie mit dieſem
+Ä- ſich beſchäftigten. On convient a/s -
+"ent, ſagt der Letztgenannte, de l'excellence.de
+'-Analyſe, mais on la croit communément bornée d'
+de:

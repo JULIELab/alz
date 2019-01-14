@@ -1,0 +1,107 @@
+667
+658
+– 290 ---
+A LL GEM E IN E LITE RATUR - z E IT U N G
+December 1826. f
+MATHEMATIK.
+BERLIr, in d. Maurer. Buchh:: Handbuch der
+analytiſchen Trigonometrie., Herausgegeben von
+Emil HWilde, Doctor der Philoſophie und Pro-
+feſſor am Berliniſchen Gymnaſium zum grauen
+Kloſter. 1825. XII u. 334 S. 8. Mit 3 Kupfern.
+(1 Rthlr. 12 gGr.)
+Ein ſehr gut geſchriebenes Buch, welches die
+Hauptſätze der analytiſchen Trigonometrie in ihrem
+Zuſammenhange mäch einem wohl durchdachten
+Plane mit einiger Vollſtändigkeit und groſser Präci-
+fion des Vortrags klar und gründlich darſtellt, ein
+Buch, zu der kleinen Zahl derer gehörig, die ohne
+rade viel Neues zu enthalten, doch dem Studium
+Ä Mathematik weſentlich nützlich find. Noch ſehr
+würde nach unſerer Meinung der Vf, den Werth
+ſeiner verdienſtlichen und Ä Arbeit
+erhöht haben, wenn er ſeinen Plan etwas erweitert,
+und nicht allein die Gegenſtände in ihrem ganzen
+Umfange vorgetragen, ſondern auch bey den wichti-
+erell Ä auf die verſchiedenen Methoden der
+arſtellung aufmerkſam gemacht, und hiſtoriſche
+Details, die dem angehenden Analyſten nützlich ſind,
+und zur Geſchichte dieſes ſo wichtigen, vielfach
+von den gröſsten Mathematikern bearbeiteten und
+doch j manchen nicht ganz gehobenen Beden-
+ken ausgeſetzten Theils der Mathematik dienen
+könnten mitgetheilt hätte. Das Werk nach dieſem
+Plane ausgeführt, würde zwar ſtärker und koſtſpie--
+liger geworden ſeyn, aber auch für dieſe ſo Ä
+Disciplin den Nichtbeſitz gröſserer Werke, die
+nicht jedern zu Gebote ſtehen, minder empfindlich
+emacht haben, und ſchon dadurch vielen unent-
+5ehrlich, allen aber, auch dem geübten Mathema-
+tiker, angenehm und nützlich geworden ſeyn. Denn
+fo lange der ſchon von Bertrand in der Vörrede S.
+XXVII zu ſeinem Développement nouveau de la par-
+tie clémentaire des Ä ausgeſprochene
+Wunſch: ,, qu'il ſe formát une Académié dont le
+but unique Ä de faire rédiger et fondre enſemble
+tous les materiaux dont le monde mathématique e/t
+en poſſeſſion, e/rte, qu'on eilt un Corps de boctrº-
+ne oi chaque choſe füt á /aplace et oi 'on pitt
+/"in/truire/ans étre obligé d chercher dans une
+multitude d'ouvrages qu'on ne connoit pas les mem-
+bres épars d'une /cience morcelée dont l'Enſemble
+/eroit magnifique” – ſo lange dieſer Wunſch zu
+den frommen Wünſchen gehört, wird jeder Schrift-
+ſteller, der es unternimmt, was Bertrand für die
+A. L. Z. 1 826. Dritter Hend.
+geſammte Mathematik wünſchte, wenigſtens für ei-
+nen Theil derſelben zu leiſten, ſich um die mathe-
+matiſchen Wiſſenſchaften Verdienſt erwerben. Al-
+lein unſer Vf. hat in dieſer Hinſicht noch viel zu
+wünſchen Ä gelaſſen; und es befremdet, daſs er
+Ä VII), wo die von ihm benutzten Werke ange-
+ührt werden, gerade das vollſtändigſte, was wir
+über die Entwickelung der Kreisfunctionen in Rei-
+hen beſitzen, nicht erwähnt, nämlich Schweins's
+Geometrie, II. Bd. Göttingen 1808. – Doch wir
+wollen mit dem Vf, nicht Ä rechten, was er
+hätte geben müſſen, um einen Zweck zu erreichen,
+den er nicht erreichen wollte (S. VI.). Nur auf
+einzelne Punkte, denen nach unſerer Meinung in
+einem Handbuche der analytiſchen Trigonometrie
+nach dem Ä Zuſtande der Wiſſenſchaft
+eine ausführlichere Behandlung zu Theil werden
+muſste, werden wir im Verlaufe dieſer Anzeige auf-
+merkſam machen. - * - -
+Das Ganze beſteht aus ſieben Abſchnitten nebſt
+einem Ä zum fünften und ſechsten Abſchnitte.
+Im erſten Abſchnitte (S. 1–50) werden die gonio-
+metriſchen Grundformeln und die zwiſchen den Bo–
+gen und ihren Functionen ſtatt findenden Relationen
+im Allgemeinen entwickelt. Der Vf, geht bey der
+Definition der Kreisfunctionen vom Radius 1 aus
+und macht (S. 7) die Bemerkung, daſs dieſs, um
+vielfachen Verwirrungen zu entgehen, durchaus
+nöthig ſey. Denn wo dieſs nicht geſchehe, drücke
+man z. B. den Coſinus des Winkels A in einem mit
+dem Radius r beſchriebenen Kreiſe durch r co/ A.
+aus, wo offenbar co/ A aus dem mit dem Radius 1
+beſchriebenen Kreiſe entlehnt ſey. Eine ſeltſame
+Verwechſelung! Nicht deswegen muſs man bey der
+Definition den Radius 1 zu Grunde legen, weil man
+z. B. den /inus von A in einem mit dem Radius r
+beſchriebenen Kreiſe durch r/in. A bezeichnet, ſon-
+dern man muſs dieſen ſo bezeichnen, wenn man den
+Radius 1 zu Grunde gelegt hat. Es iſt allgemein
+(l - - -
+z. B. ſin. A = F , wo es dann am einfachſten iſt,
+r= 1 zu ſetzen. – S. 15. wo gezeigt wird, daſs
+die Cotangente im dritten Quadranten poſitiv iſt,
+wird irrig tang. snt = – “s geſetzt. Es iſt tang.
+snt = rs; da aber snt = 90° + p, p < 90°, ſo iſt
+tang. snt = rs = tang. (90°-+ 1) = – tang. v= – «;
+folglich tang. – snt =– tang. si. F cot. mst
+= – rs = + «, wie es ſeyn muſs. S. 42-47. be-
+trachtet der Vf, die Reihen: Sin. 4+./in. 2 A + ...
++/in. (n–1) A + ſin.n-, und co/- + co/ 2- +..
++co/(n – 1) –1 + co/ n -4, und leitet ihre Sum-
+N (4) II EI)

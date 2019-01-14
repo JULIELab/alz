@@ -1,0 +1,109 @@
+h25
+IO4. -- sºs
+N um.
+ALLGEMEINE LITERATUR - zEITUNG
+Montags,
+Mathematik.
+MüNCHEN, b. LINDAUER: Théorie et tables d'une
+-- nouvelle fonction tranſcendante, par &F. Soldner.
+1809. 5o S. 4.
+De Function, wovon hier die Rede iſt, iſt nichts
+anderes, als das ſchon von Bernoulli's Zei-
+ten her berühmte Integral von **, welches in der Ge-
+„C
+ſchichte der Mathematik eine nicht unbedeutende
+Rolle ſpielt. Dieſes Integral kann, ſo wie viele an-
+dere, nicht durch endliche Ausdrücke erhalten wer-
+den: es bildet alſo eine tranſcendente Function, de-
+ren Natur die Mathematiker ſchon öfter zu ergrün-
+den ſuchten. Es führt auf Schwierigkeiten, bey wel-
+chen ſelbſt Euler vorbeyging, ohne ſie aus dem Wege
+zu räumen. Maſcheroni war, wie es ſcheint, der
+erſte, der ſie, wenigſtens zum Theil, überſtieg; al-
+lein ſeine Arbeit iſt in Deutſchland weniger bekannt
+(dem Rec. nur aus Lacroix Traité des Différences
+et des ſéries, welches Werk hier nicht ganz vollſtän-
+dig zu ſeyn ſcheint), und auch dem Vf, blieb ſie
+ganz fremd.
+Hr. S. tritt alſo als Eigenthümer, deſſen, was er
+uns giebt, auf, und von dieſem Geſichtspunkte müſ-
+fen wir ſeine Schrift beurtheilen. Im erſten Kapitel
+zeigt der Vf, den Nutzen, der dem Integralcalcul aus
+der Einführung neuer Tranſcendenten erwachſen
+kann; er belegt dieſes mit dem Beyſpiele der Loga-
+rithmen und trigonometriſchen Linien, die man zu
+einem ganz anderen Zwecke berechnet hatte, allein
+nach der Erfindung des Integralcalculs, unzählige Mal
+in dieſem anwandte. Jedoch iſt das von Hn. S. zum
+Beweiſe der Unentbehrlichkeit der Logarithmentafeln
+angeführte Problem, die Erfindung des Integrals von
+“ –, von x=o bis zu x = einer ſehr groſsen Zahl,
+-- ac -
+Äh ſehr geeignet, dieſe fühlen zu laſſen. Er nennt
+dieſes Problem eins der ſchwierigſten, welche die
+Analyſe, wäre ſie nicht von den Logarithmentafeln
+unterſtützt, darbieten könne; – das iſt es nun in der
+That nicht: denn ſetzt man ſtatt 1 +x, z“, folg-
+dz
+lich das Differential = m. #: ſo wird man ſein Inte-
+- Z - -
+gral leicht in die Reihe
+"L(- 1) – (z– 1)'+#(2–1)”–...]
+verwandeln können, bey welcher alle Schwierigkeit
+- - - I
+vegfällt, wenn man n ſo groſs nimmt, daſs (1 + x)F
+A. L. Z. 1811. Erſter Band. d (I + x)
+den 15. April I 8 1 I.
+kleiner wird als 2 – Doch dieſe Bemerkung geht
+den eigentlichen Gegenſtand der vorliegenden Schrift
+nicht an. – Dep Vf, giebt gleich auf der 3ten Seite
+ein ſchönes Theorem über die Integration aller Dif-
+ferentiale, entweder durch endliche Ausdrücke, oder
+Reihen; ſetzt dann im Allgemeinen die Methoden
+auseinander, die man benutzen kann, eine tranſcen-
+dente Quantität zu berechnen, und ſchlieſst das Kapi-
+tel mit einer Anführung der Ä Aeuſserun-
+Ä über das Integral. Bekanntlich entwickelte es
+uler in die Reihe - -
+2 3 -
+C+ llx + lx + (“2+-+–(*2° --.....
+1 - 2 -2 I -2-3-3
+bemerkte aber, daſs man die Natur der Tranſcen-
+dente daraus nicht erkennen könne, indem für x = o,
+und x = I die Conſtante unendlich, und im erſten
+Falle auch imaginär werde; er hält es nichts deſto
+weniger für evident, daſs, wenn die Function für
+die x auf einer Seite der Einheit reell iſt, ſie auf der
+andern imaginär ſeyn muſs. Hr. S. beſtreitet dieſes
+mit Recht, allein, wie es dem Rec. ſcheint, nicht
+mit ganz völlwichtigen Gründen. Die Urſach, war-
+um Eulers Reihe für x < 1 imaginär wird, liegt aller-
+dings darin, daſs ſie nicht für Ä Fall paſst; Hr. S.
+ſagt: „ il faut en chercher d'autres" – aber wer ver-
+bürgt uns denn, daſs die anderen, wenn ſie einen re-
+ellen Werth geben, die richtigen find? – Die Euler-
+ſche Reihe giebt nur unrichtige Reſultate, weil man
+fie einer unrechtmäſsigen Bedingung unterwarf, und
+d. lx -
+– = llx ſetz-
+- C.
+te, da es doch eben ſo gut (–lx) ſeyn kann Euler
+hätte alſo die Reihe T. -
+- (lx)* -
+c+(tlz)+*+Ä+.........,
+ſtillſchweigend bey der Integration
+ſchreiben müſſen; in dieſer Form würde es klar ge-
+worden ſeyn, daſs die Entſcheidung, ob die Function
+reell oder imaginär iſt, auſser ihrem Gebiete liegt.
+Umgekehrt aber zeigt die Reihe, daſs, wenn die
+Function in ihrem ganzen Umfange eine reelle Gröſse
+haben ſoll, l(+lx) für x > 1 und ( - 1x) für x < 1
+genommen werden muſs. Die Stetigkeit des analy-
+tiſchen Ausdrucks darf man hier nicht ununterbro-
+chen vorausſetzen, da die Curve, deren Quadratur
+man ſucht, für x= 1 – Ä negative, für x = 1 + #
+aber poſitive unendliche Ordinaten hat. – Die Aeu-
+ſserung des Vfs.: „daſs man nach einer einzigen Reihe
+nie über die Natur einer Function entſcheiden könne,"
+(5) M läſst
+-

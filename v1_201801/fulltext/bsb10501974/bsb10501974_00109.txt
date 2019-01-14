@@ -1,0 +1,142 @@
+IUSU19/4
+
+sr
+
+197 ı
+Logaritchmen und ihrem Gebraüche, und fetzt den
+neuen von Eulern entdeckten Algorithmus der
+Kreis- und Winkelgröfsen ins Licht, Im zweyten
+Theile findet man die allgemeine Lehre von den
+krummen Linien mit ihren Abtheilungen und Un-
+terabtheilungen, und in einem Zufatze die Theo-
+rie der Körper und ihrer Oberflächen , nebft der
+daraus entf{tehenden Gleichungen mit drey verän-
+derlichen Gröfsen. Den Befchlufs macht die Ent-
+wickelung des Begriffs, der doppelt g: krü nmten
+Linien , die aus der Durchfchneidung zweyer krum-
+men Flächen entftehen. Ein {olches Werk verdien-
+te in alle Sprachen überfezt zu werden, da unter
+denen, für welche es brauchbar ift, doch auch
+mancher fich befindet, der es in feiner Mutterfpra-
+che lieber, als im Original lefen wird. Insbefonde-
+re aber würde die Ueberfetzung verdierMtlich (eyn,
+wenn darin nicht nur die häufigen Druckfehler des
+Originals verbeffert, und mancher von Eulern zu
+kurz behandelte Gegenftand durch einige Anmer-
+kungen in ein helleres Licht gefetzt , oder weiter
+fortgeführt würde. Was nun die gegenwärtige Ue-
+berfetzung betrifft , fo find derfelben allerdings
+verfchiedene erläuternde Anmerkungen , z. B. $.
+48. 49. 50. 114. 225, fo wie auch einige ander-
+weitige Zufätze , als bey $. 36. 61. 199, und zum
+zehnten Kapitel S. 160 — 163 beygefügt worden,
+und noch mehrere follen nach der Vorrede in ei-
+nem dritten Bande folgen. Allein dagegen ift die
+Veberfetzung felbft mit einer Freyheit , wofern
+man nicht lieber Nachläfligkeit fagen (ollte , ge-
+macht worden, welche nirgends und bey einem
+folchen Buche am wenigften - gebilliget werden
+kann. So findet man einmal faf alle Druckfehler
+des Originals getreulich in der Ueberfetzung bey-
+behalten, und die ganz auffallenden , die allein
+verbeffert worden , find durch viel wichtigere
+reichlich erfetzt worden. Um nur einige anzufüh-
+ren, fo ift $..1ı2 ($. 131 im Original) bey der
+Beftimmung der cot. *(a—b) und cot. * (ab)
+das fehlerhafte fin a-+ fina, und fin. a — fin.a an-
+ftatt eh Tel und fin. a — fin.b, und $, 143
+($. 162 im Original) fi on multiplie la feconde for-
+mule par la quatrieme anftatt par la’ troifieme (tehen
+geblieben. Ferner hat Euler, $. 226, A = A'p-+B'q
+anftatt B = A’p + B'q, und $& 229 Y =
+—BBP: + 28AP0 -+« (B— x A) 00 anftatt Y=—
+“BB = AB-FBAA
+—BBP* +BAPO+(B-—zA)0O, und
+BB—xAB-+BAA
+auch diefes findet man in der Veberfetzung $. 207
+und 210. In Eulers 3%ften $., den Hr. Pezzi $. 34
+auf folgende Art überfetzt: Si /e plus grand expo-
+
+ 
+
+Sant de z dans Zefl un nombre pair‘, et que la quan-
+
+tite conflante y foit affettee du figne +, la fonftion
+aura au Mmoins deux cur reels, tteht + anftatt
+—, wodurch denn der Satz ganz falfch wird; Auch
+fteht im Original duo faftores fimplices-reales. Wie
+treu die Veberfetzung fey? mögen folgende Pro-
+
+OCTOBER 1787.-
+
+398
+
+ben zeugen. Euler fagt 8.53: Hinc a pofteriort
+intelligitur, cujusmodi aequationes, quibus
+valor FungFionis'y per z determinatur,» hoc modo no-
+vam variabilem x introducendo - queant. Hr. Pezzi
+fagt dagegen $. 50: On compren maintenant , com-
+ment on peut refoudre les Equations, 04 P’on deter-
+mine en z la valeur de la funttion y, par V’introduc-
+tion d’une nouvelle variable x. ‘Am Ende des 55ften
+$. fagt Euler: Ceterum hi cafus in fuperioribus for-
+mulis $. 53 continentur: at quia formulae generales
+non tam facile ad hujusmodi cafus faepius occurren-
+tes accommodantur , vifum efl horum ’aliquos Torf
+evolvere. Nichts deftoweniger läfst Hr. Pezzi den
+54, und 55lten 6. des Originals ganz weg, weil
+nachher denn doch das allgemeine folge ; und ähn-
+liche Auslaffungen finden fich mehrere, daher Hr.
+Pezzi auch nur 358 $$., Euler hingegen 382, oder
+eigentlich 383 hat, denn an einem Orte ift eine
+Zahl zweyer $$. gegeben. Ungeachtet dies alles
+Hr. Pezz’s Arbeit nicht empfiehlt, fo hat man denn
+doch in dem dreyzehnten Kapitel , welches von
+den wiederkehrenden Reihen handelt, noch mehr
+Gründe zur Unzufriedenheit. Euler braucht in
+diefem Kapitel zweyerley grofse lateinifche Buch-
+ftaben, die fich durch ihre Geltalt fehr von einan-
+der unterfcheiden. Hr. Pezzi mufs 'es wohl feiner
+unwürdig gehalten haben, auf dergleichen Klei-
+nigkeiten zu fehen, denn in feiner Ueberfetzung
+ift diefer Unterfchied gar nicht beobachtet. Frey-
+lich entfteht daher für Köpfe, die fich nicht fo
+hoch fchwingen können, dafs folche Kleinigkeiten
+ihren Augen unbemerkbar werden , die Schwie-
+rigkeit, dafs fie anftofsen, wenn A=— A -+B,
+und B doch nicht —o feyn foll, indefs beweifen auch
+mehrere andere Stellen, dafs Hr. Pezzi {fchreiben
+kann ohne zu denken , obgleich damit nicht gefagt
+werden f{oll, dafs er es allezeit thue. Auch hätte
+Rec, anftatt der Anmerkung zum 209ten $. lieber
+die gefehen, dafs in der erften Beftimmung von X
+in diefem $. der Ueberfetzung und im 228[ten des
+Originals ein Druckfehler vorkomme. Euler findet
+nemlich X— (2 AB— «B) P?+ (2 B-«A)PQ—Aßn
+BB—x«AB-+ AA
+es ift aber das A in Aßn bey ihnt nicht das ’er-
+fte Glied der Reihe , A + Bz +Cz?+Dz? +
+Ez* + u. f. fi, wie es feyn mufs, fondern der
+Zähler des Bruchs _A , Wird-diefer Druckfeh-
+
+ 
+
+1— pz
+
+ler bemerkt, fo hat man ; um die folgende Be-
+ftimmung von X aus der,angeführten abzuleiten ,
+blofs nöthig‘;, für 8" dem dafür im vorhergenden
+$, gefundenen Werth zu fetzen. Was die voran-
+gefchickte Lobrede des Hn. de Condorcet auf Eu-
+lern betrifft , fo wird diefelbe auch denen lieb
+feyn, die Hrn. Fufs Lobrede gelefen haben , in-
+dem Condorcet manches berührt, was Hr. Fufs ent-
+weder nicht berühren konnte, oder nicht wollte.
+Das vollftändige Verzeichnifs aller Ewulerfchen
+Schriften. bey Hn. Fufs findet man indefs hier
+nicht, ;
+
+Bb 2 Ge-
+
+-
+

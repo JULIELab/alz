@@ -1,0 +1,125 @@
+77
+772
+ALLG. LITERATUR - ZEITUNG
+Formel das Gewicht des nten oder 4oſten Bogen-
+theils ſchon = 1, 68. Q, der 4oſte Gewölbſtein (wenn
+jeder einen Grad einnähme) müſste alſo ſchon etwa
+1, 68 mal ſo ſtark lothrecht drücken und daher in
+dieſem Verhältniſſe höher ſeyn als der oberſte oder
+erſte. Für noch tiefer liegende Stellen wäre der Un-
+terſchied immer bedeutender, und für den 9oſten Ge-
+wölbſtein (wenn der Gewölbbogen einen vollen Halb-
+kreis bildete) würde eine unermeſsliche Höhe er-
+fordert. Damit nun dennoch die Mittellinie des Ge-
+wölbbogens der Vorausſetzung gemäſs nach einem
+Kreisbogen gekrümmt ſeyn könnte, ſo müſste die
+Maſſe des Gewölbes nicht nur auf der unteren dem
+Waſſer zugekehrten, ſondern auch auf der oberen
+dem Himmel zugekehrten Seite concav ſeyn. Auſser-
+dem aber, daſs eine ſolche Geſtalt einer Brücken-
+ſtraſse nicht angemeſſen, und auf Bogen von mehr als
+o° ganz unanwendbar wäre, würden ſich auch die
+eſultate der obigen Berechnungen ſchon darum ab-
+ändern, weil bey einem wirklichen Gewölbbogen die
+Unterſtützungspunkte nicht in den mittleren Bogen,
+ſondern in die untere Wölbungslinie fallen, die dann
+keine Kreislinie wäre. Da indeſſen die Feſtigkeit des
+Bogens dadurch beträchtlich gewinnt, daſs man bey
+Ä Bogendicke die ganze Concavität auf der
+unteren Seite des Bogens anbringt, ſo daſs ſeine obere
+convex wird, auch hier eigentlich nur von flachen
+Bogen die Rede ſeyn ſoll, deren Weite nicht über 25°
+hinausgeht, und bey dieſen die gröſste Dicke nach
+obiger Formel nicht über mehr als die am Scheitel
+beträgt, ſo kann man bis zu ſolchen Weiten auch
+wohl noch bis zu Bogen von 30° Weite, die obigen
+Sätze für die Ausübung als hinlänglich ficher anneh-
+men, wobey dann der Zuſammenhang der einzelnen
+Bogentheile, wovon jeder d Grade hält, ganz bey
+Seite geſetzt wird. Der Vf. dér ſeine Formeln an.
+Ä nur auf ſchwere Bogenlinien, nicht auf mate-
+rielle Bogen, anwendet, erinnert nur noch S. 7, daſs
+ſogar ein durch ſeine ganze Länge gleichförmig
+ſchwerer Bogen von 90°, wenn er nur Ä
+habe, gar wohl beſtehen könne, wenn gleich die
+Formel für dieſen Fall die im Scheitel erforderliche
+Kraft W= oc gebe. Das iſt freylich aus der Er-
+fahrung hinlänglich bekannt; aber die bisherigen
+Sätze geben zu dieſer Behauptung keine theoretiſche
+Begründung; auch iſt der Satz ſelbſt noch zu unbe-
+ſtimmt, weil man erſt noch wiſſen muſs, was hier
+dick genug ſey. Der Ausdruck, welchen man S. 8
+für R oder für die Gröſse des Drucks auf das Wider-
+lager nach der Tangente des aufſtehenden Bogens
+findet, iſt nur für die vom Vf. angenommene Stelle
+des Schwerpunkts richtig, die aber nur für einen
+Bogen Statt findet, deſſen Theile vom Scheitel
+herab immer ſchwerer werden. Die Mechanik
+lehrt, daſs der Schwerpunkt des in allen Theilen
+gleichſchweren Bogens Cd in dem Halbmeſſer M b
+unterhalb b liegt; die durch dieſen Schwerpunkt ge-
+zogene lothrechte Linie könnte daher, wenn C dei-
+IlerIn ſehr beträchtlichen Winkel zugehörte, ſehr
+merklich zur Rechten der lothrechten ofallen, und
+enug
+dann könnte der hier angegebene Werth von R ſehr
+weit von der Wahrheit abweichen; er gilt alſo nicht
+für jeden beliebigen (nach ſeiner ganzen Länge gleich
+ſchweren) Bogen, wohl aber noch gut genug bis zu
+Bogen von 25 bis 30 Graden. Jetzt (S. 8 u. 9) kommt
+der Vf. zur Betrachtung gemauerter oder aus Thei-
+len zuſammengelegter maſſiver gleichdicker Gewölbe.
+Die Forderung der von oben herab zunehmenden
+Schwere einer Bogenlinie konnte zwar unmittelbar zu
+der Anwendung auf maſſive Gewölbe führen, weil
+das zunehmende Gewicht in der Ausübung nur durch
+die zunehmende Maſſe erhalten werden kann, und
+Rec. hat deſshalb oben ſchon hierhergehörige Be-
+merkungen beygefügt; aber der Vf. ſpricht eigent-
+lich jetzt zum erſtenmal von maſſiven Gewölben. Er
+ſpringt dabey, plötzlich von der vorhergehenden
+Äe feſtſtehender Bogenlinien ab, und ſtellt hier
+einen neuen Satz auf, der mit den vorhergehenden
+ar nicht zuſammenhängt. Es kommt hiernach auf
+# Lage der Richtungslinie des Drucks an, welchen
+der Bogen auf die Stelle des Widerlagers ausübt, auf
+welcher der äußere Umfang des Gewölbbogens auf-
+ſitzt; wenn dieſe Richtungslinie den innern Umfang
+des Gewölbbogens Ä ſo kann nach des
+Vfs. Behauptung das Gewölbe nicht beſtehen; falle
+jene Linie zwiſchen den innern und äuſsern Umfang,
+ſo ſey das Gewölbe hinlänglich geſichert; werde aber
+jene Linie eine Tangente am innern Umfange, ſo
+ſtehe das Gewölbe gerade im Gleichgewicht. Er be-
+rechnet hierauf die für den letzten Fall, alſo für das
+Gleichgewicht, erforderliche Dicke des Gewölbes,
+und findet für einen Bogen von 40°, vom Scheitel
+herabgerechnet, die erforderliche Dicke = o, co12
+wenn der Halbmeſſer des äuſsern Umfangs = 1 ge-
+ſetzt wird. Weil nun, ſagt er, in der Ausübung die
+Bogendicke allemal vielmal gröſser genommen wer-
+de, ſo erhalte der Gewölbbogen, auch bey einem
+durchaus gleich ſchweren Kreisgewölbe, hinlängliche
+Feſtigkeit (H). Rec. geſteht, daſs er in dieſen Sätzen
+die mathematiſche Klarheit vermiſst; wozu dienen
+die vorhergehenden Beſtimmungen der erforderlichen
+Gewichte R, S, T u. ſ. w. ? Aus welchem Grunde
+ſoll das Gewölbe brechen, wenn die Richtungslinie
+des auf das Widerlager wirkenden Drucks durch
+den unteren Umfang des Gewölbbogens durchgeht?
+Wohl iſt es offenbar, daſs für die Feſtigkeit deſto-
+mehr geſorgt iſt, je dicker man den Bogen macht,
+alſo auch je weiter jene Richtungslinie ſich vom un-
+teren Umfange gegen den äuſsern hin entfernt; aber
+daraus folgt noch nichts zur Beſtimmung einer
+Grenze für den Einſturz, auch nichts für die Beſtim-
+mung der erforderlichen Ä Vielmehr iſt
+nach Rec. Ermeſſen, für die hier angenommene Vor-
+ausſetzung eines ſeiner ganzen Länge nach gleich
+dicken Bögens von einerley Material, bis hierhin
+vom Vf. noch gar nichts zur Beſtimmung des dabey
+eintretenden Verhältniſſes zwiſchen Kraft und Wider-
+ſtand geſagt worden. Ueberhaupt hat der Vf., nach
+Rec. Einſicht, bis hierhin ſeine Unterſuchung noch
+zuſehr beſchränkt, indem er gleich anfänglich die
+ElIl

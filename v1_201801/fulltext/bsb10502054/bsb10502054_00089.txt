@@ -1,0 +1,124 @@
+I57
+I58
+Num. 20. JANUAR 1814.
+Was wir in einer fremden, uns weniger geläufigen,
+als unſere Mutterſprache, leſen, behalten wir, wenn
+wir es einmal aufgefaſst haben, leichter. - Rec:
+wünſchte, daſs der Vf, ſich ausführlicher, als es von
+ihm S. 22. u. f. geſchehen iſt, über die von ihm vor-
+eſchlagenen combinatoriſchen Tafeln erklärt hätte.
+ine Ä Tafel ſoll „aus einer Reihe von Wörtern,
+mathematiſchen Figuren, Bildern oder andern Zei-
+chen, welche die Elemente der zu combinirenden Vor-
+ſtellungen ausdrücken, und denen Buchſtaben oder
+Zahlen zur Seite geſetzt ſind", beſtehen. Damit muſs
+ein Regulativ verbunden ſeyn, wie man aus jenen
+Zahlen und Buchſtaben, die auf die angegebene Art
+ihre Bedeutung erhalten, Complexionen formren
+ſoll, welche, wenn ſie bloſse Combinationen ſind,
+die Zahl und Qualitat der Theile einer zuſammenge-
+ſetzten Vorſtellung, und wenn ſie Permutationen (d.
+h. Combinationen, bey welchen die Anordnung der
+Zeichenelemente in Betrachtung kommt) ſind, über-
+dieſs die Anordnung jener Theilvorſtellungen in den
+Vorſtellungen, Ä jene Complexionen angeben
+ſollen, bezeichnen. – Ehe Rec. den Vf. weiter
+begleitet, bemerkt er: daſs allerdings den Elementen
+jener Zeichen - Complexionen vorher eine Bedeutung,
+die nur durch andere Zeichen angegeben werden
+kann, gegeben werden müſſe; aber nicht abzuſehen
+iſt, warum dieſes nicht jedesmal durch Worte ge-
+ſchehen könne und ſolle. Ebenſo hätte Rec. ge-
+wünſcht, daſs der Vf, ſich über die von ihm gege-
+bene Regel, in einer ſolchen Tafel die Elemente nicht
+in zu langen Reihen aufzuſtellen, und zur Vermei-
+dung einer unnützen Menge und durch ihre Nlenge
+hinderlicher Combinationen, ſie nach Gattungen und
+Arten in mehrere kleinere Reihen zu vertheilen, nä-
+her erklärt hätte. Auch dem nachdenkenden Leſer,
+für den der Vf. doch nur geſchrieben hat, würden
+Beyſpiele und Regeln für die Wahl des Einteilung
+rundes, der jenen Eintheilungen zum Grunde zu
+egen wäre, willkommen ſeyn, wenn gleich die fol-
+enden Abſchnitte, ſolche Regeln zu abſtrahiren,
+elbſt Veranlaſſung geben. Denn in den übrigen
+drey Abſchnitten Ä der Vf. von dem Gebrauche
+der combinatoriſchen Methode zur Ueberſicht einer
+gröſsern Menge von Complexionen, aus welchen man
+eine oder mehrere auszuwahlen wünſcht; zur Ueber-
+ficht aller Zuſammenſetzungen aus gegebenen Begrif-
+fen, wenn man alle bey einer wiſſenſchaftlichen Un-
+terſuchung durchgehen will; und von dem Gebrau-
+Cle Ä zur Larſtellung einer Anzahl zuſam-
+mengeſetzter vorſtellungen in der gröſsten Aürze. –
+Rec. kann ſich, um ſeine Anzeige nicht zu ſehr zu
+verlängern, hier nur auf einige Bemerkungen ein-
+ſchränken. – So ſehr er denjenigen, was der Vf.
+im vierten Abſchnitte, welcher ihm überhaupt der
+lehrreichſte zu ſeyn ſcheint, über die Eintheilungen,
+ihren Unterſchied von den Partitionen, ihre Benu-
+tzung, und - zum Behufe dieſer Benutzung, von
+dem Gebrauche der combinatoriſchen Bezeichnung
+insbeſondere bey den Codiviſionen ſagt, beyſtimmt;
+ſo hatte er doch gewünſcht, daſs der Vf, ſicn iierbey
+auf Regeln, durch welche, bey der Anwendung der
+combinatoriſchen Methode, die unnützen Combina-
+tionen (combinationes inutiles) möglichſt vermieden,
+oder am leichteſten weggeſchafft werden, eingelaſſen
+hätte. Denn die Möglichkeit einer Combination von
+Zeichen, beweiſet noch nichts für die Wahrheit des
+Begriffs, der durch ſie angezeigt wird. Denn hat
+man z. B. nur fünf zweygliedrige Nebeneintheilun-
+gen, ſo geben dieſe ſchon 32 Combinationen von fünf
+Elementen, aber nur dann eben ſo viel Begriffe,
+wenn, wie es gerade in dem von dem Vf. S. 86. ge-
+wählten Beyſpiele der Fall iſt, jedes Glied der einen
+Eintheilung nicht allein mit jedem Gliede der übri-
+gen Eintheilungen, ſondern auch der Combinatio-
+nen, die ſie geben, coordinirt iſt. (Coordinirt nennt
+Rec., wie er gewiſſer Leſer wegen bemerkt, mit
+Segner, der die Lehre von den Verhältniſſen der Be-
+griffe in Anſehung ihrer Uebereinſtimmung und Ent-
+egenſetzung zuerſt am gründlichſten abgehandelt
+at, ſolche übereinſtimmige Begriffe, deren keiner
+den andern einſchlieſst). Allein ein Fall, wie dieſer,
+möchte nur ſelten Statt finden; weshalb Regeln der
+vorerwähnten Art hier um ſo wünſchenswerther ſind.
+Am zweckmäſsigſten wäre es wohl hier den dem
+Anſcheine nach längern Weg einzuſchlagen, und ſtu-
+fenweiſe von den einfachern zu den zuſammengeſetz-
+tern Begriffen fortzugehen. Denn wenn z. B. die
+Combination ab einen falſchen Begriff ausdrückte;
+ſo würden alle Termionen, Quaternionen u. ſ. w.,
+in welchen ab enthalten wären, wegfallen. Zudem
+erhielte man auf dieſem Wege nicht allein die niedrig-
+ften Begriffe, welche die Verbindung jener Einthei-
+lungen giebt, ſondern auch die höhern. Aus dem
+erlten Grunde würde dieſes Verfahren, ungeachtet
+es ausgedehnter ſcheint, doch das kürzeſte ſeyn,
+wenn man anders nur Begriffe ſucht, von deren in-
+neren Wahrheit man verſichert iſt. – Die Beyſpiele,
+deren der Vf, ſich in dieſem und den folgenden Ab-
+ſchnitten bedient, zeugen eben ſo ſehr von einer Man-
+nichfaltigkeit von Kenntniſſen, als gründlichen Ein-
+fichten in mehrere Wiſſenſchaften. Rec. erlaubt ſich
+um ſo mehr, einige derſelben anzuführen, da ſie ſei-
+ne vorher aufgeſtellte Behauptung beſtätigt, daſs
+nämlich in den meiſten Fällen die unmittelbare An-
+wendung der combinatoriſchen Kunſt weniger leiſte,
+als die aus der öftern Uebung derſelben entſtandene
+Fertigkeit. – S. 67. fordert der Vf. es mit Recht
+von einem Syſteme der Ethik, daſs es, ſo weit es nur
+möglich iſt, über alle Colliſionsfälle entſcheide, und
+tadelt es, daſs in dieſer Hinſicht ſo wenig geleiſtet iſt.
+Rec. ſtimmt ihm hierin um ſo mehr bey, da in der
+Ethik, wie ſie gewöhnlich gelehrt wird, die einzel-
+nen Pflichten zwar iſolirt, aber gewiſs nicht hinläng-
+lich in ihrer Verbindung, wo ſie ſich gegenſeitig ver-
+ſtärken, aber auch einſchränken, betrachtet wer-
+den. Für die Lollifionsfalle werden zwar Regeln,
+allein gewöhnlich nur ſo allgemein aufgeſtellt, daſs
+fie zu keinen belehrenden Reſultaten führen. Hier
+kommt es allerdings darauf an, wie der Vf, es aus-
+drückt, jede gedenkbare Weiſe wie eine anº,VOIl
+- Zwe-

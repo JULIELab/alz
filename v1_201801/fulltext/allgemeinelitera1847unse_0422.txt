@@ -1,0 +1,72 @@
+835 ALLG. LITERATUR-ZEITUNG 836
+
+beitet zu seyn scheinen. Zunächst ist dieses die f (log x), wobei man viele interessante Entwicke-
+independente Darstellung ‚der Differentialquotienten lungen lesen kann. Hier kann Ref, aber nicht un-
+höherer Ordnung, Es finden sich ausser den höhern terlassen zu bemerken, dass das Differential, wel-
+Differentialquotienten der einfachsten Functionen, ches sich auf Seite 65 Nr. 13 findet, nämlich
+
+noch die von den allgemeinern () f(.”) und
+
+N 1. 3. 5... (2n—1) 67 1..n -
+1 UN a-Fbz Man Er n 1 —-
+D C== ) 2 (a? — b?x?)n Ve x? | C ) 2n—1 (a-+ 0x) (a— dx)
+
+1.3. nn
+tan @n 3) @+b2)" 2 (a day We
+
+nicht in der zweckmässigsten Gestalt erscheint. kennt man hier durchaus nicht, dass für ein gera-
+
+Denn es ist nicht nach den Potenzen von x ge- des n die ungeraden Potenzen von x, und für ein’
+
+ordnet, sondern fordert für einen besondern Zahlen- ungerades n die geraden Potenzen von x heraus-
+werth von % noch besondre Reductionen; auch er- fallen. Die Vollständige Bestimmung ist folgende :
+
+2n 1 EN 2u an an
+D za Ken Ca For at a0 | A UN warf
+„2n—+1 1
+
+D (73)
+bd?n—+1 2n+1 2n+A1 2n—+1
+= (+1 WE | 2b an, FAR a
+( ) (a? F ba) ALS ara A, a I+ Ar — A” n ZT n-+
+
+worin allgemein:
+
+2n 2 )
+4, = [2@n—1)@n—2) 0... @—P+D} (für p= 0, wird der Nenner = 2:2)
+1,23. 2 P
+
+ 
+
+2n-+1 2
+A = {@2+D. 20 Cn—D.... M—p+ n}
+N 1.2. 3... (2p-+1)2" 22?
+Auch findet man leicht :
+2n
+
+Din =
+
+(Fe)
+
+CL BEENDEN N | Bent 8: an ha Br at paar, CE DA nn ann }
+(a? Fb? ae V a’ bla? \ 0 1 2 na
+
+’
+
+D (7 FE)
+
+han 2n+1 , 2n—-1 2n-+1 2n
+ze n u } 24 n Da 1 < 2
+= (41). (a? F Vz n+FL VE Fur (8, a BB; an BB an hagatr ..+E CEDR B. a?b sat)
+
+worin allgemein:
+
+BB = 1 . f@n+1 @n) On—1) .... CN
+pP  @m—PnCRF1) © 12.3... (pn.
+2n+1 1 f@n+2) (2n+1) Cm)... (n+ 1-m (für p=0 ist der Nenner des zweiten
+PD Y (n +1—m (n +1) @n-+1) N a ” Bruchs = 2-4).
+
+Der zweite Punkt, auf welchen Ref, aufmerk- für den Fall, dass die Variable unter der Form
+sam machen wollte, ist die Bestimmung der An- o{ cos T +0. sin. 7} vorausgesetzt wird. Diese
+wendbarkeit des Mac Laurin- schen Lehrsatzes ganze Untersuchung basirt auf den Satz, dass
+

@@ -1,0 +1,115 @@
+möglich behalten, ohne sich zu verwirren,
+
+1109 Num. 283.
+
+Uebri-
+gens spricht hier noch ein anderer Grund mit. Eine
+Menge von Gebilden können, streng logisch zenom-
+men, hier'noch gar nicht stehen. Ein Gegenstand
+kann nämlich nicht füglich eher erklärt werden, als
+bis die Möglichkeit seiner Existenz vor Augen ge-
+Jegt ist. Wie kanı nun von rechtwinkligen, stumpf-
+winkligen, spitzwinkligen Dreiecken, von Quadra-
+ten, Rechtecken, Rhomben, von Sekanten, Tan-
+genten, von ähnlichen Figuren etc. gesprochen wer-
+den, ehe man weiss, dass ein Dreieck nur einen
+rechten und nur einen stumpfen Winkel, wohl aber
+drei spitze enthalten kann, ferner dass im Viereck
+‚alle Winkel 4 Rechte betragen , dass eine Linie
+den Kreis entweder gar nicht, oder in einem Punkte
+oder in 2 Punkten schneidet, ferner ehe‘ nachge-
+wiesen ist, dass in zwei Figuren wirklich die Sei-
+ten proportional und die Winkel gleich seyn kön-
+nen. Was Letzteres betrifft, so weiss der Schüler
+hier noch nicht einmal was proporlionale Seiten
+
+sind. Der Vf. hat doch nicht etwa die Meinung,
+
+dass man die Planimetrie erst beginnen solle, wenn
+man in seiner Arithmetik bis zur Proportionslehre
+gekommen ist? Aber es finden sich hier auch noch
+andere Missgriffe. Die Kreislinie wird als krum-
+me Linie definirt. Das ist durchaus unwissen-
+schaftlich, denn das erfordert eines Beweises, der
+erst geführt werden kann, wenn man gezeigt hat,
+dass eine Gerade mit der Kreislinie höchstens nur
+zwei Punkte gemein haben könne. Diesen Beweis
+bleibt der Vf. aber ebenfalls schuldig. Denn die
+Stelle S. 15: „Eine Gerade, welche durch den
+Kreis geht, schneidet ihn, und zwar, da die Gerade
+ins Unbestimmte verlängert vorgestellt wird und da
+die Kreislinie von allen Seiten gleich geschlossen
+ist, nur in zwei Punkten”, kann doch nimmermehr
+als ein Beweis gelten. Ganz dasselbe gilt vom Be-
+rühren und Schneiden zweier Kreise, wo auch die
+nöthigen. Erörterungen gänzlich fehlen.
+
+Noch mehr als über die Definitionen muss man
+sich wundern, wie die Betrachtung der Winkel
+(Nebenwinkel, Scheitelwinkel) in die Einleitung
+kommt. Vom Winkel wird nur S. 10 erwähnt, dass
+er entstehe, wenn zwei Linien zusammenstossen,
+Eine Realerklärung vom Winkel, welche aussagte,
+was man unter einem Winkel nun wirklich zu ver-
+stehen habe, sucht man dagegen vergeblich. Und
+diese gerade ist so ungemein wichtig, weil man ja
+gar nicht berechtigt ist, von der Summe, Differenz
+zweier Winkel zu sprechen, sie der Grösse nach
+
+DECEMBER 1847.
+
+1110
+
+mit einander zu vergleichen etc., wenn man nicht
+weiss, was ein Winkel ist. Doch kommen wir zum
+ersten Hauptabschnitte der Planimetrie selbst. Der
+erste Lehrsatz heisst: » Zwei Dreiecke sind con-
+gruent, wenn zwei Seiten und der eingeschlossene
+Winkel in beiden wechselsweise gleich sind”.
+
+Hierauf folgen die Sätze vom gleichschenkli-
+gen Dreiecke, dann der Congruenzsatz, der sich
+auf die Gleichheit der drei Seiten stützt, mit einem
+ungemein langen indirecten Beweise; dann Aufga-
+ben über Halbirung eines Winkels, einer Geraden,
+über Loth errichten, Dreiecksconstructionen , hieran
+reihen sich die Sätze vom Aussenwinkel uud der
+Winkelsumme im Dreieck, dann kommt der Con-
+gruenzsatz,, der Sich auf «die Gleichheit zweier
+Winkel und einer Seite stützt. Der vierte Con-
+gruenzsatz endlich wird als Folgesatz hingestellt
+von dem Satze: Aus zwei Seiten und dem Gegen-
+winkel der einen lassen sich entweder zwei oder
+ein oder kein Dreieck construiren, Hierauf folgt
+nun die Lehre von den Parallelen. Das gauz Un-
+systematische dieser Anordnung der Sätze ist schon
+so oft gerügt worden, dass es mir überflüssig er-
+scheint, hier die Gründe dagegen noch einmal an-
+zugeben. Wie ist es aber um die Parallelen-
+"Yheorie bestellt 2? Ach traurig! müssen wir ant-
+worten. Auf S. 33 sagt der Vf. in der Erläute-
+rung: Bei zwei gegen einander geneigten Geraden
+sind die Senkrechten aus zwei Punkten der einen
+auf die andere ungleich und bei zwei Parallelen sind
+die Senhrechten von jeden zwei Punkten der einen
+auf die andere gleich. Das ist das vom Vf. versteckt
+‚an die Spitze gestellte Axiom der Parallelentheorie.
+Mit. der Evidenz desselben sieht es aber schlimm genug
+aus, und wir müssen die nachfolgende Bemerkung:
+„Dieser Ausdruck ist dem Begriff von Geneigt-
+und Parallelseyn der Geraden so angemessen, dass
+er für das unterscheidende Merkmal der Verschie-
+denheit der Lage zweier Geraden gegen einander
+genommen werden kann”, als eine irrige bezeich-
+nen. Das Unterscheidende ist und bleibt hier der
+Winkel.
+
+Den Abschnitt über Commensurabilität und Iu-
+commensurabilität finden wir zwar nicht in der
+mangelhaften Weise behandelt, wie ihn die grösste
+Zahl der vorhandenen geometrischen Lehrbücher
+abfertigt; gleichwohl erfüllt die Darstellung die For-
+derungen der Wissenschaft noch keineswegs. Es
+findet sich hier noch gar manches Gewaltsame Vor.
+Dasselbe ist auch von der Ausmessung des Kreises
+

@@ -1,0 +1,143 @@
+389
+oder wenn man #=— ® und links 20 für © setzt:
+
+na] inet sin (2a +1) 9
+m. 2 sin ©
+
+f’1om.d0+23 SD
+
+0
+wo die linke Seite z.f(0) wird.
+
+Die dritte, der oben genannten Abhandlungen
+aus der Theorie der bestimmten Integrale, ist vom
+Herausgeber und soll eine Reihe von Abhandlun-
+gen eröffnen, in denen nach und nach die neuesten
+wichtigern Erfindungen in dieser Theorie mitgetheilt
+werden sollen. In dem ersten Abschnitt dieses
+Aufsatzes giebt der Vf, die wichtigsten allgemei-
+nen Hauptsätze von den bestimmten Integralen.
+Der zweite Abschnitt handelt von den bestimmten
+
+® a—1 Pa 1
+Integralen /* 2 ‚dx und /_z ‚dx
+oO 1+2 6 1—=
+
+Zuerst werden hier die sich leicht ergebenden
+vorbereitenden Sätze abgoleitet:
+
++
+
+P—a
+
+Vz ar
+
+A BD
+
+1 m
+| ‚dr=—
+. +
+SA A—B.YZ1
+z—a—ß, Te 1
+
+++
+
+A
+z-+a
+
+—.
+
+woraus dann das Integral fie 1 ‚dx ohne Schwie-
+
+‚f@0).d0=
+
+ 
+
+_A+B.YV- Ya dr= 22B
+Da
+
+‚dr=0
+
+ 
+
+ 
+
+rigkeit entwickelt werden. kann, wenn man den
+
+Bruch RR Rn} wo der Zähler wenigstens um eine
+
+Dimension niedriger ist, als der Nenner, in Partial-
+brüche zerlegt. Auf diese Weise erhält man dann
+
+bald
+” a—ı
+F. Bude
+o 1+z sinan
+%5—3
+und S-z re
+1—7 ‚dr = Tr
+
+ 
+
+Num. 204. NOVEMBER 1843.
+
+Der dritte Abschnitt beschäftigt sich mit den
+Eulerschen Integralen
+
+S\ na b—1 ® a—1
+al“ ff ww, Ud—) . da = m ul .
+9 o +)
+1
+= 4 +,  G—
+und I’(a) JACHE a S I
+0 0
+
+worin a@ und & stets als positive Grössen angenom-
+men woerden.. Die hier mitgetheilto Behandlung
+dieser Integrale schliesst sich vorzüglich an die
+von Lejeune-Dirichlet in Crelle’s Journal T. XV.
+p- 258 gegebene an. Es werden zuerst die Euler-
+schen Integrale der zweiten Art behandelt und da-
+beidie bekannten Sätze I (1) =1,7(a + 1)= a. T(a),
+also I(n)=1.2.3.4...(n—1) gefunden. Sodann
+werden die Relationen zwischen den beiden Arten
+der Eulerschen Integrale abgeleitet, nämlich
+
+(4)=" Ro
+
+A
+5) (© Re) (m ) ze
+
+Darauf folgt der schöne‘ von Dirichlet a, a. 0.
+
+gelieferte Beweis der merkwürdigen von Gauss
+
+und
+
+‚und Legendre gegebenen Gleichung
+
+(a). Ta+1).T(a+*)...T(a+*71) =
+n—1 41
+
+zz 5 — na
+(2) * T'(na)
+
+Den Beschluss dieser Anhandioag bildet eine
+interessante Untersuchung über ein vielfaches In-
+tegral, welche zuerst von Dirichlet angestellt und
+von Liowville und Catalan weiter verfolgt ist, Da
+aber der Herausgeber diese Darstellung als eine
+vorläufige bezeichnet und auf eine spätere Abhand-
+lung verweist, so soll die genauere Anführung die-
+808 Gegenstandes auch verschoben bleiben.
+
+Diese, so wie alle übrigen Aufsätze, welche
+der Hr. Herausgeber selbst geliefert hat, sind mit
+der äussersten Strenge und Genauigkeit gearbeitet,
+wobei Ref, nur die zu} grosse Ausführlichkeit ta-
+deln möchte. Der Selbstthätigkeit des Lesers ist
+Nichts, auch nicht das Geringste übrig gelassen,
+er findet schon Alles vor, die geringfügigsten und
+leichtesten Entwickelungen sind bis ins Detail
+durchgeführt. So wird z. B. in der zuletzt ge«
+

@@ -1,0 +1,125 @@
+363
+864
+ALLG. LITERATUR – ZEITUNG
+die Beweisgründe ſolcher Sätze laſſen ſich die
+Schachbücher nicht - ein, oder gehen wenigſtens
+nicht auf deren logiſche Quellen, auf die Axiomen
+zurück. Gleichwohl laſſen ſich die obenangeführten
+Theoreme ſämmtlich aus den axiomatiſchen Wahr-
+heiten deduciren: daſs der König von einem Eck-
+felde nur drey, von jedem anderen Randfelde fünf,
+und von jedem Binnenfelde acht Ausgänge hat. Soll
+der König Mat geſetzt werden, ſo muſs ihm ein
+feindlicher Stein Schach bieten können, während
+alle Ausgänge ſeines Standfeldes bedroht ?
+ſind. Hat dieſs Standfeld nur 3 Ausgänge (d. h. i
+es ein Eckfeld) ſo kann der feindliche König deren
+nur 2 decken, der Springer aber keinen, denn er
+muſs das Schach geben, dazu taugen ihm nur 2
+Standfelder, und weder von dem einen noch von
+dem andern aus kann er einen Ausgang des Eckfel-
+des bedrohen, weil zwey davon von gleicher Farbe
+mit ſeinem Standfelde ſind, das dritte aber unmit-
+telbar daneben liegt. Daraus ergiebt ſich die Un–
+möglichkeit des Mat mit einem Springer a priori,
+und eben ſo die Möglichkeit deſſelben mit 2 Sprin-
+gern, oder 2 Läufern, oder Springer und Läufer:
+denn in beiden Fällen iſt ein Officier zum Schach-
+eben, und ein zweyter zum Bedrohen des dritten
+usgangsfeldes vorhänden. Steht der König, der
+Mafgeſetzt werden ſoll, auf einem Randfelde, das
+nicht zugleich Eckfeld iſt; ſo iſt wiederum die Un–
+möglichkeit erweislich für zwey Springer, und für
+Spr. und Läufer falls das Standfeld des Königs nicht
+von der Farbe des Läufers iſt. Denn in dieſem Falle
+ſind fünf Ausgänge zu bedrohen. Nun kann zwar
+der König deren 3 bedrohen, aber dann muſs er
+mit dem feindlichen König auf gleicher Farbe, und
+gerade vor ihm ſtehen. In dieſem Falle aber kann
+der Springer keines der beiden übrigen decken; er
+taugt bloſs zum Schachgeben. Der Läufer hingegen
+kann dieſe übrigen beiden nur decken, wenn er
+zwiſchen den beiden Königen ſteht, und dann hätte
+der dépouillirte König ſchon Pat geſeſſen, bevor ihm
+das Schach Ä werden konnte. Steht hingegen
+der König auf einem Felde von der Farbe des feind-
+lichen Läufers, ſo wird das Bedecken aller 5 Aus-
+gangsfelder möglich: Schw: K. D8; Wss. K. C 6,
+Spr D 6, Lf. G 5. Hier deckt zwar der w. König
+nur 2 Ausgangsfelder des Schwarzen, aber der Spr.
+auch 2, und der Lf. das 5te, indem er zugleich
+Schach giebt. Was endlich den Fall anlangt, wo
+der König auf einem Binnenfelde ſteht (welches alle-
+zeit 8 Ausgänge hat); ſo iſt klar, daſs ihm, wenn er
+an den Rand getrieben werden ſoll, immer fünf
+Ausgänge genommen werden müſſen, und zwar die
+vor und neben ihm liegenden. Mit 2 Läufern iſt das
+leicht, weil ſie eine diagonal liegende Doppellinie
+beſtreichen können, über welche der König nicht
+hinweg kann. Mit zwey Springern iſt es unmöglich.
+Zwar können ſie ihn nöthigen an den Rand zu ge-
+hen, z. B. in dieſer Stellung: Schwarzer K. auf Ü 7.
+Weiſser K. auf D 5, Spr. auf C6 und E6; aber er
+kann nicht gezwungen werden, am Rande zu blei-
+-
+ben, der nächſte Zug des Weiſsen muſs ihm noth-
+wendig wieder einr Binnenfeld öffmen: > Mit Läufer
+und Springer endlich iſt das Treiben des Königs an
+den Rand und in die Ecke ein Problem, zwar ver-
+wickelt genug, aber auf mathematiſch ſchejweiſe
+auflösbar. Werden nun dergleichen Probleme auf
+empiriſchem Wege gelöſet, wie die Schachmeiſter
+zu thun pflegen, und wie z. B. mit dem Rö//el-
+Ä die Franzoſen Monmort, Mloivre
+und Mairan gethan; ſo ergiebt ſich daraus kein wei–
+teres Reſultat, als Spielendungen, wie dieſelben nä-
+mentlich in Hinſicht des ſchwierigen Matſetzens mit
+Laufer und Springer Philidor, Stein u. a. geliefert
+haben. (S. den K. Cod. Thl. 2. S. 102–108.) Ver-
+ſucht man es hingegen auf analytiſchem Wege (wie
+Euler beyºm Röſſelſprunge gethan); ſo kann es nicht
+fehlen, daſs man auf allgemeine Grundwahrheiten
+kommt, welche nicht nur für die Schachſpielkunſt,
+ſondern auch zugleich für die combinatoriſche Ana-
+yfis, inſonderheit für das Kapitel von den Situations-
+roblemen, VWerth haben, und vielleicht nur darum
+von den Mathematikern unerkannt geblieben ſind,
+weil ſie dieſelben in der Anwendung ihrer Wiſſen-
+ſchaft auf minder verwickelte Situationen noch
+nicht nöthig gehabt haben.
+Auch giebt es auſser den Problemen dieſer Art
+noch Lehrſätze in der Schachſpielkunſt, die ge-
+glaubt werden, ohne daſs man je ihren Beweis ver-
+ucht hätte. Philidor u. a. hat behauptet, wenn von
+keiner Seite ein Fehler begangen werde, müſſe der-
+jenige ſiegen, welcher den Auszug hat. Die combi-
+natöriſch-analytiſche Unterſuchung ſcheint unend-
+liche Schwierigkeiten zu haben, weil die Schachge-
+ſetze in ihren Ä unendlich verwickelte Situa-
+tionen erzeugen können. Aber die des Damen/piels
+ſind ungleich einfacher; ſie ſind denen des ſogenann-
+ten Bauernſchachs verwandt; und wenn man in
+Bezug auf eines von dieſen minder complicirten
+Spielen die obgedachte Frage analytiſch zu unterſu-
+chen begönne; ſo würde man ſich unfehlbar dem er-
+wähnten Ziele nähern, und unterweges ebenfalls
+Aufſchlüſſe antreffen, welche der Fortbildung der
+ernſten Wiſſenſchaft frommen könnten. Gewinn
+enug, wenn man es auch niemals bis zu einer voll-
+tändigen mathematiſchen Schach–Theorie brächte!
+Daſs Ä in der Welt ſehr entbehrlich iſt, hat Rec.
+dadurch, daſs er ſie oben deſiderirte, keinesweges
+leugnen wollen. Aber ludendo discere juvat. Wenn
+einmal über das Schachſpiel voluminöſe Bücherge-
+ſchrieben werden, ſo ſollte es billig ſo Ä
+daſs man mehr daraus lernen könnte, als Schach
+ſpielen. Müllner,
+SCHÖNE KÜNSTE.
+STUTTGART u. Tün1NGEN, in d. Cotta. Buchh.:
+Sechszehn Umriſſe zu Schiller's Kampf mit dem
+Drachen von Moritz Retz/ch, mit einigen Andeu-
+tungen. 1824. kl. qu. Fol. (2 Rthlr. 15 gGr.)
+Hr. R., ſeit mehreren Jahren ſchon durch eine
+Reihe geiſtreicher Darſtellungen aus Göthe's Ä.
+rühm-
+*

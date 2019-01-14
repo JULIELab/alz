@@ -1,0 +1,126 @@
+- Y
+349
+MATHEMATIK.
+LANps Hur, b. Weber: Mathematiſches Lehrbuch
+zum Gebrauche öffentlicher Vorleſungen auf der
+kurfürſtl.
+Landshut, verfaſst von Maurus Magold, Bene-
+dictiner von Tegernſee, kurf. geiſtl. Rache und
+öffentl. crd. Prof. d. Math. Erfter Theil welcher
+die Arithmetik enthält. 18e2. 493 S. gr. 8.
+In den erſten drey Hauptſtücken werden die Leb-
+ren von den ganzen und gebrochenen Zahlen, von
+den Potenzen und Wurzelgröſsen und darunter auch
+der binoniſche Lehrſatz und die Lehre von den Permu-
+tationen and Combinationen de «tlich, gründlich und,
+ohne Weitſchweifigkeit, vollſtändig abgehandelt. Beym
+Vertrag des binomiſchen Lehrſatzes iſt der Vf. nicht
+beyin Beweiſe für ganze bejahte Exponenten ſtehen
+geblieben, ſondern hat ihn ſogleich für gebrochene
+ſowohl bejahte als verneinte Exponenten mitgerheilt.
+Im IV. Hauptſtück wird von den einfachen, quadra-
+tiſchen und höhern Gleichungen und zuletzt von
+den Functionen gehandelt. Die Aufgabe (S. 2 I 2)
+,, Anzugeben, ob und welche ganze Zahlen eine gege-
+bene Gleichung zu l/urzeln hat“ hätte Rec. in dieſem
+in der That trefflichen Lehrbuch nicht erwartet. Ih-
+re Auflöſung iſt entweder falſch, oder ſie ſagt nichts
+weiter als : man mache alle mögliche Proben mit
+allen möglichen ganzen Zahlen, bis man eine findet,
+die der Gleichung Genüge thut. Rec. legt dem
+Vf. die Gleichung x 3 – 6oo, 52.x * + 312, or. +– 6
+– o als Beyſpiel zur Aufloſung vor. Es wäre falſch,
+die 1, 2, 3, 6 für die alleinigen Factoren des letzter
+Gliedes zu halten; auch die Zahlen 6oo, , und #
+ſind Factoren deſſelben und ſind gerade die hierher
+gekörigen. Sonſt ſind auch die Lehren dieſes Haupt-
+-ſtücks gut abgehandelt. Daſſelbe gilt vom WIten
+Hauptſtück, das die Lehre von den Logarithraen
+enthält. Das VII. Hauptft. lehrt die praktiſche Re-
+chenakunſt, wo die Anwendungen der geºmetriſchen
+Reiken die wichtigſten ſind. Nur iſt die Beinerkung
+(S. 367) zur Berechnung der Leibrenten unrichtig:
+,, Bey Leibrenten, ſagt der Vf, geſchieht die Berech-
+nung nach den nämlichen Formeln; nur muſs die
+Zeit 1.
+Rentenirers nach Mortalitätslisten beſtimmt werden;
+je gröſser nun die Anzahl der Rentenirer iſt, deſto
+zu -erläſſigere Wahrſcheinlichkeit erhält man aus die-
+ſen Liſten im Allgemeinen für die Lebensdauer.“
+Bekanntlich ſind wahrſcheinliche und mittlere Lebens-
+dauer von einander verſchieden, und gerade die
+erſte darf beys Berechnung der Leibrenten für eine
+Geſellſchaft nicht zum Grunde gelegt werden. Aber
+auch ſelbſt die letzte darf, wo es um ſichere Rech-
+nung zu thun iſt , -icht geradehin in der Formel für
+die Zeitrenten ſubſtituirt werden, in der Mey nung,
+daſs die ſo berechnete Zeitrente der richtige Werth
+der Leibrente ey. Der Vf. ſcheint Florencourts und
+Tete11s hierher gehörige Schriften nicht zu kennen.
+Das VIIlte Hauptitück fürt die Ueberſchrift: Infini-
+No. 228. AUGUST 1 802.
+bayriſchen Landes - Univerſität zu
+das iſt die wahrſcheinliebe Lebensdauer des
+v
+35D
+teſimalrechnung, zwar eine fehr gewöhnliche aber
+ganz unfchickliche Benennung, die aus den mathe-
+matifchen Lehrbüchern ganz verbannt zu werden
+verdiente. Der Vf. geht hier von folgendem Satze
+aus: „Jede Veränderung einer Gröſse geſchieht nach
+dem Geſetze der Stetigkeit d. i. wenn man einer ver-
+änderlichen Gröſse nach einander zwey verſchiedene
+l'erthe beylegt, ſo laſſen ſich unendlich viele Zwiſchen-
+werthe angeben, die ihr zukommen, ehe ſie von erflen
+zum zweyten Werthe gelanget ;“ und er nennt die-
+ſen Satz ſogar ein Acion, wofür ihn Rec. ſe wenig
+anzunehmen vermag, daſs er ihn, ſo wie er da ſteht,
+nicht einmal für ein erweiſsliches Theoren anerken-
+nen kann. Denn nicht jede Veränderung einer Grö-
+fse muſs nothwendig nach dem Geſetze der Steig-
+keit erfolgen. Es ſollte alſe wohl heiſsen: ...wofer-
+ne die Veränderung einer Gröſse nach dem Geſetze
+der Stetigkeit erfolgt: ſo laſſen ſich zwiſchen zweyen
+verſchiedenen Werchen derfelben unendlich viele
+Zwiſchenwerthe angeben.“ Aber auch ſo verbeſſert
+iſt der Satz noch keineswegs ein Axion, indem ſich
+blofs dieſes behaupten läſst: ,,eine Gröſse, die ſich
+nach dem Geſetze der Stetigkeit ändert, kann aus
+keinem Zuſtande in irgend einen andern kommen,
+ohne durch alle mögliche Zwiſchenzuſtände durch-
+zugehen, deren jeder vora nächſtfolgenden ſo wenig
+verſchiedsn wäre, daſs mit Verminderung dieſer
+Verſchiedenheit völlige Gleichheit hergeſtellt würde.“
+Daſs dieſer möglichen Zwiſchenzuſtände unendlich
+viele ſeyen, iſt doch wohl kein Axiom ? Der ſcharf-
+ſichtige Wf. wird es wohl ſelbſt fühlen, daſs einer
+Lehre, die jenes Satzes als eines Axioms bedürfte,
+keineswegs diejenige Evidenz beygelegt werden
+könnte, die den Lehren der reinen Mathematik
+vorzüglich eigen ſeyn ſcll. Um die Fruchtbarkeit
+dieſes Axioms zu zeigen, folgen nun diejenigen
+Erklärungen und Lehrfätze, die Carnot in ſeinen
+Betrachtungen über die Theorie der Infiniteſimal-
+rechnung zum Grunde gelegt hat, um dieſen Calcul
+die höchſte Evidenz zu verſchaffen. Inzwiſchen iſt
+Rec. - sanz"und gar nicht der Meynung, daſs dieſe
+Carnotſche Darſtellung völlig befriedigend ſey; ſie
+bedarf bey ihren mannigfaltigen Anwendungen in-
+mer wieder neuer Rechtfertigungen, die dann auch
+immer wieder neuen Erinnerungen ausgeſetzt ſind,
+woven ſich der Vf. beym künftigen Vortrage der
+höhern Geometrie bald überzeugen wird. Zugleich
+erläutert der Vf. auch die GiäR zumethode, die er mit
+dem aller Evidenz extfagenden Satze ſchliefst: ,, Plan,
+kann alſo dx, dy u. ſ. w. wenn ſie nit andern Gro-
+ſsen durch + oder – verbunden ſind, als wahre Nullen
+weglaſſen, und iſt doch berechtiget, ihnen nach den
+Geſetze der Stetigkeit ein befiimmtes endliches Verhält-
+miſs beyzulegen – man betrachtet nanlich sicht die
+Gröſsen, ſondern nur ihr lerhalt ifs.“ Von der In-
+tegralrechnung findet man hier ſo viel, als ohne Vor-
+ausſetzung der Elementargeometrie gefodert wer-
+den kann; von Integrationen, die mit Kreisbögen,
+Quadraturen und Rc ctificationen zuſammenhängen
+konnte hier nicht gehandelt werden. Ein Ä
+dere T

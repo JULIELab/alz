@@ -1,0 +1,118 @@
+177
+
+EEG
+
+178
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+Monat Juli, |
+
+1847. :
+
+Halle, in der Expedition
+der Allg, Lit, Zeitung,
+
+ 
+
+Mathematik.
+
+S Handbuch der Differenzialrechnung und Integral-
+rechnung. Von O0. Schlömilch u. s. W.
+
+(Fortsetzung von Nr, 166.)
+
+Zeum Schlusse dieses $. bemerkt der Vf. noch:
+dass aus den letzten Betrachtungen erhelle, dass
+die Bedingungen , unter welchen sich der Rest oder
+die Ergänzuug der durch Anwendung der Maclau-
+rin’schen Formel auf die Reihenentwickelung einer
+Function F (x) erhaltenen Reihe der Grenze /Vull
+‚unendlich nähert, lediglich von der Form der Fun-
+ction F (x) abhängen, wodurch für die Anwendung
+des so fruchtbaren Maclaurin’schen Lehrsatzes eine
+nicht geringe Unbequemlichkeit entstehe, weil man
+bei jeder neuen Function die Untersuchung des Re-
+stes auch wieder von neuem anstellen müsse. Es
+sey daher sehr wünschenswerth, ein allgemeines
+Kennzeichen zu haben, vermittelst dessen man
+schon aus der Betrachtung der Function F (x)
+selbst bestimmen kann; ob das Ergänzungsglied der
+dieser Function entsprechenden Reihe für gewisse
+Wertke von &' bei fortwährend zunehmenden Wer-
+then von % verschwinden.kann oder nicht. Zu die-
+sem Zwecke sei zu. untersuchen, welche Eigen-
+schaften die Function F (x) besitzen und. welchen
+Bedingungen x genügen muss, wenn die Gleichung:
+F(z)= F(0o)+ x F‘ (0) + x? F" (0) +... in inf.
+1 1?
+stattfinden soll? Nun fügt der Vf. hinzu: er habe
+sich in dem Frühern nicht darauf beschränkt, die
+Veränderlichen in den Functionen als blos reell an-
+zusehen, sondern auch imaginüäre Werthe derselben
+zugelassen, und es müsse daher auch die jetzige
+Untersuchung so allgemein gehalten werden, dass
+sie den Fall imaginärer Veränderlicher in sich
+schliesse, also x von der Form u + v V—1
+
+= 0 (cos tı+ V 1 sin z) ist. Wir finden jedoch
+nicht, dass der Vf, die in dem Frühern abgeleiteten
+Formeln und Resultate auch auf den Fall imagind-
+rer Veränderlicher erstreckt hätte; denn in $. 10
+
+A. L. Z. 1847. Zweiter Band.
+
+zeigt er blos, dass aus F (x) = (x) +V 1 w(x)
+folgt F1(r) = gg! (x) + V 1 ww! (x). Allein
+er hat weder bewiesen: dass sich jede reelle Fun-
+ction F (x) auf die Form @ (x) + V’—1 w (x)
+muss zurückführen lassen, wenn z=u + v V 1
+wird, noch dass die Gleichungen:
+
+w=0 w=0 I W=—0
+lim aw—1 = log a, lim (1+w) 0, lim(1+0w)“ —1
+Nr @
+wW—00
+== Au mi sinke V== 4 a
+w
+
+wenn w imaginär wird, noch gelten, so wie, dass
+die Formeln:
+Dr‘ )p (2) £ v (z)) =" @ +41 (x), De (2-0)
+_ 9%) w! (x) — 9 (x) v' x)
+v @OP. Mt
+Do (x) = u x“ 71, Dr (a) = log a. a?
+D- (log x) = 1 loge,
+DD
+
+ 
+
+Dx (sin x) = cos x, Dr (cos X) =— siNX,....
+ihre Gültigkeit behalten, wenn x'imagindär und nicht
+reell ist. — Kurz, der Vf. hat bei allen frühern
+Untersuchungen die Veränderlichen stets als reell
+vorausgesetzt und nirgend gezeigt, 0b, oder dass
+die gewonnenen Resultate auch für imaginäre Ver-
+änderliche richtig bleiben, oder einer ModiGcation
+bedürfen. Es wird hier zum ersten Male die Un-
+tersuchung in/dieser Allgemeinheit unternommen.
+
+Im $. 38 wird nun zunächst gezeigt, dass,
+wenn F (sr) und F' (x) stetige und endliche Fun-
+ctionen von = @ bis zx= b bleiben, die Glei-
+chung (3) auch dann noch stattfindet, wenn, für die
+reelle Veränderliche x die imaginäre Veränderliche
+r (cos x + V —T sin x) = re” = z gesetzt wird,
+wodurch folgender Satz gewonnen wird:
+
+Oo Tim JE ALSO Ener
+n
+
+welche letzte Grösse der Vf. die Mittelyrenze von
+F (z) für vr als Modulus nennt, und mit M, [F(z)]
+bezeichnet.
+
+167
+

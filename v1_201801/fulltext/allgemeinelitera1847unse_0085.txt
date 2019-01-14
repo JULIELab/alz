@@ -1,0 +1,129 @@
+161
+
+a
+
+162
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+Monat Juli.
+
+1847.
+
+Halle, in der Expedition
+der Allg. Lit. Zeitung.
+
+ 
+
+Mathematik.
+
+Handbuch der Differenzialrechnung und Integral-
+rechnung. Von Dr. O0. Schlömilch, Prof. in
+Jena. 1. Theil. 8. (10'!/2 Bog.) Greifswald,
+Otte. 1847. (2? Thlr.)
+
+I: der Einleitung wird zunächst der Begriff der
+Function angegeben; allein der Verfasser spricht
+weder von der Steiigkeit der Functionen, noch von
+den Unterbrechungen der Stetigkeit, noch von der
+Klassification der Functionen. Jedoch bemerkt er
+später (S. 130), dass F (x) eine stelige Function
+w— 0 :
+ist, wenn lim. [F (x-w)— F (x + w)]= 0 ist,
+während gewöhnlich das Merkmal der Stetigkeit
+
+w=0
+durch lim. [F (x + w) — F(x)] = 0 ausge-
+drückt‘wird, was aber nicht so richtig ist. Ebenso
+wenig wird der Unterschied und die zu treffende Wahl
+zwischen unabhängigen und abhängigen Veränderli-
+chen gehörig erläutert. Die Erörterungen des Vf.’s
+sind hier sehr dürftig, so dass der Anfänger sich nach
+dem Gesagten schwerlich einen gehörigen Begriff von
+dem in Rede stehenden Gegenstande wird verschaffen
+
+ 
+
+können. Es werden dann im Allgemeinen nach
+7 N SUNG —“M
+Cuuchy die Grenzwerthe lim. — 4 lm.
+
+Tanga Tem x © :
+—7 —1, Um. (A+0)« e als Vorbereitun-
+gen zur Differenzialrechnung abgeleitet. Der
+
+Beweis, welchen der Verfasser in einer Note von
+
+dem Binomialtheoreme giebt, hat keinen pädagogi-
+
+schen Werth. Denn wie kommt der Verfasser da-
+
+zu, zu Setzen:
+
+m (m—1)
+A
+
+m (m—1) (m—2?) „3
+
+a8 Bea
+
+um daraus Sn =(1+x)” abzuleiten? Offenbar weil
+
+er schon wusste , was er suchte. Alsdann werden
+
+ 
+
+a=0 ra a0 a
+abgeleitet lim. (1+au)«= e , Gm. ( a )= log.
+und es wird mit Recht ausdrücklich bemerkt, dass die
+
+A. L. Z. 1847. Zweiter Band,
+
+beiden letzten Gleichungen, abgesehen von ihrer
+Wichtigkeit für die Differenzialrechnung , schon an
+und für sich eine eigenthümliche Bedeutung haben,
+indem sie die Mittel an die Hand geben, vermittelst
+einer Grenzbestimmung von einer Function zu einer
+andern den Uebergang zu machen, z. B. von einer
+Potenz zu einer Exponentialgrösse oder Lagarith=
+mus, was unseres Wissens ebenfalls zuerst von
+Cauchy gezeigt ist. Hierauf bemerkt der Vf.; die
+Wissenschaft sei dem Gedanken: Beziehungen zwi-
+schen anscheinend verschiedenen Functionen aufzu-
+suchen , noch weiter nachgegangen, und so glück-
+lich gewesen, auch zwischen Exponentialgrössen
+und goniometrischen Functionen, so wie zwischen
+Lagarithmen und cyclometrischen Functionen Relatio-
+nen zu entdecken, welche dasselbe leisten, wie
+die beiden zuletzt angeführten Grenzgleichungen;
+das verbindende Mittelglied sei hier aber nicht ein
+Vebergang zur Grenze, sondern das eine numerische
+A NS
+was zur Folge habe, dass die betreffenden Rela-
+tionen nicht wie jene zur numerischen Berechnung
+geeignet, aber in analytischer Hinsicht von hoher
+Wichtigkeit seien. Es ist uns fast unbegreiflich,
+wie der Vf., von dem wir nach seinen bisherigen
+Arbeiten annehmen dürfen, dass er den‘Fortschrit-
+ten der mathematischen Wissenschaft mit Eifer
+folgt, und auch auf die Kriuk der Methoden etwas
+hält, noch immer die alte Thorheit: dass / —1=@
+etwas Unmögliches andeute, aussprechen kann, da
+Gauss schon seit 15 Jahren die wahre und reelle
+Bedeutung von V —T in den Göttingischen Ge-
+Jehrtenanzeigen Stück 64 von 1831 angegeben hat! —
+
+Es werden jetzt die bekannten Formeln:
+
+e* — cos x + U sin x,
+ei — cos x — sin x,
+abgeleitet und die nächsten Folgerungen daraus
+
+gezogen.
+
+In dem nun folgenden Theile der Einleitung
+tritt der Vf. den Methoden der Differenzial- und
+165
+

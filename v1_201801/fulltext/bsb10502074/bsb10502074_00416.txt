@@ -1,0 +1,119 @@
+763
+ALLG. LITERATUR - ZEITUNG
+ſich immer angeben. Methoden, um Differential-
+Gleichungen, welche nicht linear ſind, durch Subſti-
+tutionen auf dieſe Geſtalt zu bringen, als eine Erwei-
+terung des oben gelehrten unſchätzbaren Eliminations-
+Verfahrens. ey y = 2 . fy“ + Fy“; man erhält
+durch eine zweyte Differentiation und abermalige
+Diviſion mit Ax: y“ = x f' y“.y“ + fy“ + Fºy“.y“;
+und wenn man y“ =z ſetzt, hiernächſt aber x als
+IFunction von z betrachtet, weſshalb, wie oben
+gezeigt worden iſt, # an die Stelle von z“ geſetzt
+werden muſs: x.f"z + (fz – z) x“ + Fz = o, wel-
+ghe Gleichung in x“ linear und zugleich erſten Gra-
+des iſt, und deren Primitive alſo, nach Maaſsgabe
+des unmittelbar Vorangehenden, anzugeben ſteht.
+JDer aus dieſen Primitiven herflieſsende Werth von
+z, d. h. von y“ in x, iſt hiernächſt in die Gegebe-
+A1E Ä. + Fy“, zu ſubſtituiren, womit die
+geſuchte Relation zwiſchen y und x gefunden iſt.
+Rec. hat die Rechnung abſichtlich ganz in den
+von L. eingeführten Zeichen hieher geſetzt, um ſie
+als einen Beweis ſeiner, Eingangs dieſer Recenſion
+ausgeſprochenen Behauptung wegen der Schwierig-
+keiten zu benutzen, die ſich beym Gebrauche der-
+ſelben den durch die alte Symbolik verwöhnten Le-
+fer entgegenſtellen. Dieſe neue Notation ſetzt, was
+Gewohnheits-Uebereinkommen iſt, nämlich daſs ae
+gewöhnlich diejenige Gröſse (Grundgröſse) iſt, von
+welcher die übrigen als Functionen auftreten, ſtill-
+fchweigend voraus, und avertirt nur dann, wenn ſie
+Ausnahmen macht. Rec., der ſich zur Verzichtung
+auf die alte Symbolik nicht entſchlieſsen kann, be-
+zeichnet die Veränderung der Grundgröſse, welche
+in der That nicht Ä , ſondern Differenz iſt,
+mit dem Zeichen der Letzteren (A). Beides kommt
+freylich auf Eins hinaus; noch mehr, L. Notation iſt
+gewiſs preciſer und eleganter: aber wenn ſich hier-
+Äach gegen ihre Form, den Vorwurf der Ungewohn
+heit abgerechnet, nichts einwenden lieſse, ſo läſst
+ſich dagegen eine, in dieſer Recenſion ſchon berühr-
+1e, trifftige Einwendung gegen ihre Natur machen,
+nämlich das Abſtracte der ſogenannten Primen, wel-
+che, indem ſie aus den Differentialen durch Diviſion
+mit der Differenz der Grundgröſse entſtehen, und
+alſo Gröſsen ohne Dimenſion Ä als das analytiſche
+Skelett der Differentiale erſcheinen. Der Leſer fin-
+det z. B. in dem angewandten Theile dieſes Werks
+einen vortrefflichen Beweis der allgemeinen Geſtalt,
+welche die Prime des Bogens einer beliebigen Curve
+haben muſs: die Differential- Rechnung conſtruirt
+aber ihr dy und ds unmittelbar geometriſch, und ver-
+gleicht, wenn ſie z. B. ds in x beym Kreiſe verlangt,
+nur die zwey entſtehenden ähnlichen Triangel, de-
+ren einen r, r –x und y; den andern aber ds, dy
+und Ax bilden, und deren bloſser Anblick ihr ſo-
+gleich: ds: Ax = r: y, alſo:
+r“. Ax r. Ax
+ds = – S- (rrx-FSI
+764
+ohne alle weitere Rechnung, giebt. --- -
+That leicht zu überſehen, Ä Ä #
+gel zur Herabſetzung der analytiſchen Differenzjf
+das analytiſche Differential, eine allgemeine Regel
+der geometriſchen Geſtalts - Verſchiedenheit » Ä
+ſchen F(x + Ax)– Fx, und d (Fr) entſprechen
+müſſe;, und die Grundzüge dieſer Theorie ſchjj
+dem Rec. in einer, vor ſeinen Augen Hiegenden
+Schrift: „die letzten Gründe der höheren Äj
+Ä- Renger 1815," beſtimmt genug angedeutet z
+eyn. -
+PHYSIK.
+DoRPAr, b: Meinshauſen: Ueber die Capillarität.
+Eine Kritik der Theorie des Grafen la Place von
+G. F. Parrot. 1817. 72 S. m. 1 Kpfr. 8.
+Der Vf, erhebt in der Vorrede eine Klage gegen
+Hn. Gilbert, der eine Abhandlung über die Capilla-
+rität, welche der Vf, ihm für die Annalen der Phy-
+fik zuſchickte, nicht allein nicht abdrucken lieſs,
+ſondern auch auf die wiederholte Frage, warum die-
+ſes nicht geſchehe, keine Antwort gab. Zurückſenden
+muſste freylich Hr. Gilbert die Abhandlung auf Ver-
+langen. ber es iſt ein Recht, welches jeder Her-
+ausgeber einer Zeitſchrift hat, und welches ihm nie-
+mand nehmen kann, zugeſandte Abhandlungen nicht
+abdrucken zu laſſen, ohne darüber Rede und Ant-
+wort zu geben. Die läſtige Arbeit, welche die Her-
+ausgabe einer ſolchen zu beſtimmten Zeiten erſchei-
+nenden Schrift erfodert, würde noch mühſamer - ja
+faſt unausſtehlich werden, wenn der Herausg. in ei-
+nem ſolchen Falle die Abhandlung ſtudiren und ſeine
+Weigerung mit Gründen belegen ſollte. Eine Ab-
+handlung kann Wahrheiten enthalten, und doch
+kann der Herausgeber finden, daſs ihre Bekanntma-
+chung ſo zweckmäſsig, als die mancher andern, nicht
+iſt; eine Abhandlung kann durch Einſeitigkeit,
+Rechthaberey, und Empfindlichkeit, daſs man des
+Vfs. Meinungen keiner Aufmerkſamkeit würdigte,
+einen ſo unangenehmen Eindruck machen, daſs man
+ſie zurücklegt, ohne ſich auf den Gegenſtand ſelbſt
+einzulaſſen. Auch der Herausgeber einer Zeitſchrift
+iſt Herr ſeiner Unternehmung. Wahrſcheinlich hat
+Hn. Ps. Schrift auf Hn. Gilbert einen unangenehmen
+Eindruck gemacht, und er ſcheute ſich, einem ge-
+ſchätzten Gelehrten die Abhandlung zurück zu ſchi-
+cken. – Rec. geſteht, daſs er nicht weniger einen
+unangenehmen Ä von dieſer Abhandlung ge-
+habt, und vorzüglich von dem Ende der Vorrede,
+wo der Vf, ſagt: „Es mag auch in der Ordnung der
+Dinge liegen, daſs ein Rec. - doch nein. Kein
+Wort davon. Der beſtochene Rec. wird an ſeiner
+Ärbeit erkannt werden." Alſo möchte der Vf, rie-
+leicht den Rec., der ihn tadelt, für beſtochen.erklä-
+ren. Hr. P. hat ſo viele Verdienſte um die Wiſſen-
+ſchaft, daſs er es ruhig anſehen kann, ob man e*
+ſeiner Theorieen oder Kritiken Beyfall gebt ºder
+nicht, und es bedarf ſolcher Rede nicht - als er Är
+hält. Doch wir wenden uns zur Sache ſº.“
+Per

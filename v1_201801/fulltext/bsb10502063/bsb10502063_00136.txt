@@ -1,0 +1,108 @@
+235
+236
+ALLG. LITERATUR-ZEITUNG
+ſtimmen, nicht angenommen werden kann, und Prak-
+tiker durch ſolche ſehr irre geleitet werden können,
+da es überdieſs die Kräfte der Hydraulik überfteigt,
+durch bloſs theoretiſche Betrachtungen hier zu einer
+etwas genauen Beſtimmung zu gelangen, in ſolchen
+Fällen der Ausübung aber auch nicht ſowohl genaue,
+als höchſt ſichere Beſtimmungen nöthig ſind, ſo iſt
+man genöthigt, einen ganz andern Weg einzuſchla-
+en, der uns für die Sicherheit hinlängliche Bürg-
+Ät leiſtet, und für die Mannichfaltigkeit eintre-
+tender Umſtände immer dieſelbe Sicherheit gewährt.
+* Chap. II. De la déſeription des arches des ponts.
+Sect. I. Des arches en plein cintre (S. 245.). Nür die
+Bemerkung, daſs ihre Conſtruction durch die Weite
+der Oeffnung beſtimmt Ä Sect. II. Des arches en
+anſe de panier (Von den Korbbogen S. 246 – 254.).
+Hier - nur von geom. Conſtructionen. Zuerſt Ver-
+zeichnung für zweyerley Halbmeſſer, aber nur für
+einen beſtimmten Fall; dann für eine gröſsere An-
+zahl von Mittelpunkten. Was er noch von paraboli-
+ſcher Wölbung ſagt, wird von ihm ſelbſt verworfen.
+Sect. III. Des arches en arc de cercle (S. 255. Gewölb-
+bogen nach einem Kreisabſchnitt.) Hiervon und von
+der Beſchränktheit ihres Gebrauchs nur wenige
+Zeilen.
+Chap. III. De 'épaiſſeur qu'on doit donner aux-
+voltes des ponts (S. 257 – Ä Das Reſultat der
+verſchiedenen Bemerkungen bleibt doch am Ende
+auch hier nur dieſes, daſs man gut gebaute Brücken
+beobachten müſſe; es verſteht ſich ſolche, welche
+Bey ſchwächeren Abmeſſungen ſich durch die Halt-
+darkeit hinlänglich erprobt haben. Die vom Vfer-
+wähnten fünf Beyſpiele ſtimmen ziemlich genau darin
+zuſammen, daſs
+3. A Sin. halben Bogens von 5
+Z“FT Sinv. halben Bogens von b
+-: VT Sin- halben Bogens von B
+"Sinv. halben Bogens von B
+ey. Dabey ift º die Gewölddicke Ä der Bogen-
+weite h, A'die Gewölbdickedey der Bogenweite B.
+Bezeichnen wir die zu 8 gehörige Ä mit k»
+die zu A gehörige mit H., ſo hat man auch
+- *
+d B b _ B.
+" . – - FV - «V –
+. . . bA. Y Yº
+- - - - 3. A h -
+Z“ EYFF'
+Z. B. Für die Brücke zu Neuilly iſt A=5', B- 120,
+H=30“; für eine andere Brücke ſey nun = 60-
+= 15', ſo wird hiernach
+- - – 5
+12 O T5 -Ä
+„ . . . und? + 2,5“ -
+Üebrigens muſs ich bemerken, daſs man hier die Ab-
+meſſungen von Korbbogen unter einander vergli-
+-
+Legt man die zum Muſter dienende Brücke
+Neuilly zum Grunde, ſo erhält man“ ucKeyon
+- - - - - - - - *=-...y* *2
+- * - 2Q 102. k -
+oder -
+-------- *= ..5.v.“
+48 k (h
+Für einen Halbkreis wird = 2, alſo 3 = -4t. 2 r,
+wenn r den Halbm. bezeichnet, oder 3 = 4. r
+24
+Für r= 18“ wird hiernach 3 = . 1,41 = 1,06'. Meine
+Formel giebt 3 = 1,1“, welches nur um 0,04“ oder
+kaum “ mehr iſt.
+Man kann aber hier die Formel (5) beybehalten,
+weil ſie auf die beiden weſentlichen Beſtimmungs-
+ſtüeke b und k Rückſicht nimmt. Bey ungeändertem
+Verhältniſſe b: k verhält ſich ä ſchlechthin wie b;
+aber bey einem abgeänderten Werthe von kann
+auch bey demſelben Werthe von b der vorige Werth
+von à nicht beybehalten werden. Bey der Brücke
+zu Neuilly iſt d==r. b, nämlich *== .v. WO
+– 4 iſt; es wäre aber darum nicht geſtattet, allge-
+"mein 3 = Äx bzu nehmen. Wäre z. B. = 9, ſo
+1hätte man 3 = .. d= .. b- rar – 1o und b = 46
+(wie bey der Brücke von Valenze über den Quadal-
+I26,4
+quivir) findet man à = -4o V 1o = 48 = 2,63".
+Will man in Bezug auf dieſe wichtige Erfahrung, wo
+die wirkliche Höhe des Schluſsſteins 3“ beträgt, noch
+o,37“ zuſetzen, ſo wird.
+%
+*=937'+ by
+Dieſe Gleichung iſt um ſo viel genügender, weil ſie
+uns auch für engere Bogen befriedigende Werthe für
+d giebt, z. B. für b=8' erhält man bey einem Halbr
+kreiſe 3 =o, st-Ä
+Hérault unweit Nizza iſt b = 98, k=14', die Formel
+giebt
+& =z -98. Y ? = 5,39
+Bey der Marmorbrücke zu Florenz iſt b= 130,
+IRO
+'k=28; die Formel giebt d = 's: 139-Y ?=6, 06.
+= 0,6. Für die Brücke von
+-- u»
+chen hak-
+28
+Wiebek.
+- - - -

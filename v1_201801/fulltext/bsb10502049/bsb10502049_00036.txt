@@ -1,0 +1,125 @@
+- - -
+SI ;
+Elaſticicät verloren. Ueber den Sinn dieſes Ausdrucks
+erklärt er ſich gleich näher: ,, wenn z. B. ein Balken
+durch eine Kraft von 900 Pfund um 16 Zolle gebogen
+und der Balken geht nachgehends um 4 Zolle zurück,
+ſo iſt ſeine Reaction noch . 9oo = 225 Pfund."
+Aber dieſer Satz kann nach Rec. Einſicht keineswegs
+als Axiom aufgeſtellt werden; er iſt nicht einmal wahr.
+Wäre z. B. ein noch friſcher Balken von grünem
+Holze durch 900 Pfund 16“ tief herabgebogen worden:
+ſo würde ſolcher nach der obigen Ä Q
+F : C von 225 Pfund um 4 Zolle gebögen werden;
+die Beugung wird ſich nur beyläufig ſo ergeben. Wird
+aber derſelbe Balken jehrere Äöñätéjºchin
+Sommerluft ſehr ausgetrocknet, ſo wird ſeine Beug-
+ſamkeit dadurch auſserordentlich vermindert, er wird .
+fehr ſtarr und widerſetzt ſich der Beugung mit weit
+gröſserer Kraft als im grünen Zuſtande; er wird jetzt
+an beiden Enden weit mehr als 225 Pfund bedürfen,
+vielleicht über 45o Pfund, um auf 4 Zolle niedergezo-
+zu werden. Der auf gleiche Weiſe ausgetrock-
+nete 16 Zoll tief gebogene Balken, welcher nach fei-
+ner Losſpannung nur um 4 Zolle zurück tritt, alſo
+jetzt als 12 Zoll tief gekrümmter Balken ſtarr ſtehen
+leibt, iſt von jenem geradlinigen ausgetrockneten Bal-
+ken in Bezug auf Starrheit ſo gut aſs gar nicht ver-
+ſchieden, er wird alſo gleichfalls weit mehr als 225
+vielleicht über 45o Pfund an jedem Ende bedürfen,
+um auf 4 Zolle tiefer herabgezogen zu werden, ſo daſs
+feine Beugung wieder 16 Zoile beträgt; eben dieſes
+Gewicht iſt aber zugleich die Gröſse ſeiner Reaction in
+der gezwängten Beugung von 16 Zollen. Rec. kann
+daher den Satz (S. 48.): „ein durch die Kraft P. auf
+die liefe T niedergedruckter Balken, der nach ſei-
+I
+ner Losſpannung um * * T zurück weiche, werde
+1. - - - -
+durch einc Kraft = “ P wieder bis zur Tiefe T nie-
+dergezogen werden" nicht gelten laſſen, nicht einmal
+als nur beyläufig wahr. Eben darum kann auch nicht
+die hieraufgebaute Formel S. 48., und noch weniger
+die S. 49. gelten, weil letztere nicht einmal angenom-
+men werden könnte, wenn auch erſtere richtig wäre.
+In einem beſondern Beyſpiele berechnet der Vfje
+Reaction des Bogens zu 156 Pfund, und fügt hinzu,
+daſs alſo dieſer Bogen jedes der beiden Widerlager,
+auf dem er aufgerichtet ſtehe, durch ſeine Reaction
+mit einer Kraft von 1456 Pfunden drucke. Dieſes iſt
+ſo unbeſtimmt als möglich, und eigentlich nichts ge-
+ſagt. Er hätte auf die vereinten Preſſungen des loth-
+rechten Drucks und der Reaction und auf die daraus
+entſtehenden Wirkungen nach lothrechter und wag-
+rechter Richtung Rückſicht nehmen müſſen; auſser-
+dem hätte er aber auch erwägen und erinnern ſollen,-
+daſs dieſe Wirkungen nur für die Zeit der Erbauung
+einer Brücke gelten, und daſs ſolche von Jahr zu Jahr
+einen bedeutenden Abgang in Bezug auf die Elaſtici-
+tät der Balken leiden. Er geht nunmehr zur Unter-
+ſuchung über die Function der natürlichen Tragbarkeit
+eines Balkens über. Werden die Tragbarkeiten mit p, q
+ALLG. LITERATUR - ZEITUNG
+52
+und die ſpecifiſchen Feſtigkeiten mit n, m bezeichnet,
+ſo findet der Vf, der Erfahrung entſprechend genug
+m . h*. b m . H* . B.
+F: =-TFT- TT
+Mehr Schwierigkeit hat es mit Beſtimmung der Trag-
+barkeit vierkantiger Balken in geſpanntem Zuſtande.
+Was der Vf, in Bezug auf den phyſikaliſchen Grund
+der durch die Krümmung vergröſserten Tragbarkeit
+der Balken angiebt, verdient keine Aufmerkſamkeit;
+den wahren Grund hat er ganz überſehen. In Erman-.
+gelung hierher gehöriger Verſuche ſtellte er nun ſelbſt
+welche mit einem nur o, 3 Zoll dicken, o,9 Zoll brei-
+ten und 5,6 Fuſs langen Stabe an, die er hier mit-
+theilt. Für das Verhältniſs der Tragbarkeit eines Bal-
+kens bey verſchiedenen Beugungen nimmt er das um-
+ekehrte Verhältniſs der Tiefen, um welche ein be-
+timmtes in der Mitte des Bogens aufgelegtes Gewicht
+den Bogen niederdrückt. In demſelben Sinne iſt das
+Verhältniſs der Tragbarkeit verſchiedener Balken ei-
+nerley mit dem umgekehrten Verhältniſſe der Tie-
+fen, um welche ſie durch einerley in der Mitte aufge-
+legte Laſt niedergedruckt werden. Aus ſeinen im
+Kleinen angeſtellten Verſuchen findet er nun in Ueber-
+einſtimmung mit einer Wiebekingſchen Beobachtung
+c. h. b C. H“. B -
+die Proportion K : 0 = – –; dabeyiſt
+K die Tragbarkeit eines Balkens von der Länge 1, der
+Breite b und der Dicke h, welcher die Krümmungs-
+höhe c hat, und O die Tragbarkeit eines andern Bal-
+kens von derſelben Materie, wozu die Abmeſſungen
+L; B und H gehören. Hierbey iſt zugleich. Keine
+Zahl, welche anzeigt, wie groſs die Tragbarkeit des
+Balkens, deſſen Krümmungshöhe c ausdruckt, iſt,
+wenn ſeine Tragbarkeit im natürlichen d. h. unge-
+krümmten Zuſtande = 1 geſetzt wird; einen gleichen
+Bezug hat O auf den andern Balken. Hiermit ſind
+nun alle zur Theorie der hölzernen Bogenbrücken ge-
+fuchten Grundformeln angegeben, denen aber in
+Rückſicht auf ihre Deduction die bisher bemerkten
+Fehler ankleben. In den folgenden Unterſuchungen
+kommt der Vf, zu ihrer nähern Anwendung auf die
+Brückenbögen, die aus mehreren einzelnen der Länge
+nach zuſammengeſchiffteten gebogenen Balken zuſam-
+mengeſetzt ſind. Daher jetzt zuerſt von der Tragbar-
+keit hölzerner Brickenbogen. Wenn S, T in der vori-
+gen Bedeutung die Tragbarkeiten von Brückenbºgen
+bezeichnen, welche aus einzelnen gebogenen Balken
+von einerley Holzart zuſammengeſchifftet ſind, ſo hat
+3 b H3 B
+TNT Ä . C, wo der
+Vf. unter Nund M die halben. Bogenweiten # 1, L
+–7-
+man nunmehr S: T = • C .
+verſteht. Soll ſich Tauf einen Bogen beziehen, be
+welchem q dergleichen (zuſammengeſchifftete) Bogen
+über = d. h. auf einander liegen, ſo ſetzt der Vf.
+hºb q H”. B
+S: T = T-. c.: ++ T-. C.
+AM
+Gegen dieſes Verfahren ſind oben ſchon Erinnerungen
+gemacht worden; wenn indeſſen bey Beſtimmungen
+- für

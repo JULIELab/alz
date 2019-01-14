@@ -1,0 +1,125 @@
+963
+964
+ERGÄNZUNGSBLÄTTER zUR A. L. Z.
+in den Lehrbüchern bloſs mit klaren Begriffen oder
+blaſsen Beſchreibungen der geraden und krummen
+Linien begnügte, aus welchen ſich keine Axiomen
+entnehmen lieſsen, ſo muſste auch jeder Verſuch
+den XI. Euklidiſchen Grundſatz zu beweiſen, miſslin-
+gen. Die erſten Verſuche, wirkliche logiſche Deſini-
+tionen von gerader und krummer Linie aufzuſtellen.»
+finden ſich in J. H. Voigt Tentamen, ex notioneline-
+ae rectae diſtincta et completa, Axiomatis XI. Eu-
+clidis, veritaten demonſtrandi, Jenae 1789; und in
+deſſelben Vfs Gründeje reijn Mähejati,
+Jena 1791, S. 205, wo aber bey dieſen Linien auſser
+Puncten, auch noch Elemente angenommen werden
+muſsten. Stöſst man ſich bey den letztern nicht an
+den Umſtand, daſs die Gröſse eines ſolchen Elements
+durch kein Maaſs angegeben werden kann, welches
+zu jenem Behuf auch gar nicht nöthig iſt, ſo wird ſich
+an dem Beweiſe welcher a. a. O. gegeben wird, und
+welchen der Vf, der gegenwärtigen Schrift nicht mit
+unter die von ihm geprüften aufgenommen hat,
+nichts mit Grunde einwenden laſſen. – Die Theorie
+von Hauff in Hindenb. ÄÄ Heft 9. enthält zuerſt
+einen indirecten Beweis Gºes Satzes, daſs die 3 W. im
+geradl. Dreyeck = 2 R, wo der Vf. zeigt, daſs ſich
+derſelbe auf die willkürliche Annahme der Lage ei-
+Res Perpendikels gründet. In einem Nachtrage hat
+alsdann Hauff auch einen directen gegeben, der aber
+ebenfalls die Prüfung nicht aushält. Bey der Theor.
+von Bo/ſue prüft der Vf. zuerſt die ältere, wo er be-
+merkt, daſs die Definition der Parallelen zu enge ſey,
+aber auch davon abgeſehen, da der Beweis des zum
+Grunde gelegten Satzes deshalb nicht genüge, weil
+Boſſut hatte zeigen müſſen, wie ſich jede ſchiefe Lage
+der Richtungslinie CD, feiner Figur 5, auf eine ſenk-
+rechte zurück bringen laſſe. Ueberhaupt zeigt ſich,
+daſs Boſſut die Schwierigkeit mehr zu verſtecken,
+als zu heben geſucht hat. Die neue Theorie findet
+ſich in Boſſut Cours de Mathematiques T II. c. 4.
+Sie iſt eben ſo ungenügend, weil eine petitio pinci-
+ii zum Grunde liegt. Was Käſtner in ſeinem Lehr-
+Ä über dieſe Lehre vorgetragen hat, iſt vom Vf.
+nicht allein Ä Ä ſondern auch
+noch in einer engern Zuſammenſtellung vorgetragen
+und mit prüfenden Bemerkungen verſehen worden.
+Wirft man, ſagt er hierauf, einen unparteyiſchen
+Blick auf die bisherigen Bemerkungen, ſo muſs man
+freymüthig bekennen, daſs es auch dem groſsen
+Käſtner nicht gelungen ſey, das Mangelhafte zu er-
+änzen, was in der Parallelen - Theorie herrſcht. Ge-
+tehen muſs man aber zugleich, daſs ſeine Darſtel-
+lung zu jenen gehöre, Ä ſich in Anſehung des
+Beſtrebens, hier den höchſten Grad von Evidenz zu
+erreichen, vor andern Syſtemen ſehr vortheilhaft
+auszeichnen." Der Rec. muſs hieley bemerken, daſs
+ihn die Käſtneriſche Darſtellung nie lo vorgekommen
+ſey, als habe ſie die Stelle eines ſtrengen Beweiſes
+vertreten ſollen, ſondern, daſs Käftner bloſs die Be-
+denklichkeit, den Satz als ein Axiom anzufehen, ver-
+mifdern, oder vielleicht gänzlich heben wollte. Von
+Simyons Theorie wird bemerkt, daſs bey den Sätzen,
+worauf ſie gegründet iſt, mehr auf den Augenſchein,
+als auf wahre geometriſche Evidenz gerechnet wor-
+den ſey, ohne übrigens dem Syſteme ſelbſt den
+groſsen Scharfſinn abzuſprechen, der ſich in ſeiner
+fernern Ausführung zu Tage legt. Lacroix ſetzt
+bey ſeiner Theorie voraus, Ä man den Begriff der.
+Ä Linis habe, und ſein Begriff davon iſt, daſs
+e der kürzeſte Weg zwiſchen zwey Puncten ſey, –
+woraus ſich aber nichts für die geometriſche Evidenz
+folgern läſst, und er iſt deshalb genöthigt an Ende
+ſich auf die Senſation einzuſchränken. Für diejenigen,
+die einen förmlichen Beweis verlangen, theilt La-
+croix die Bertrandiſche Darſtellung aus defſen Deve-
+loppement nouveau de lapartie elem. Mathem. als die
+beſte von ihm gekannte, mit, welche aber auf einem
+Schluſſe beruht, deſſen Unrichtigkeit unſer Vfzeigt.
+Bey der Lorenziſchen Theorie liegt verzüglich d
+y gt verzüglich der
+Satz zum Grunde: Jede gerade Linie durch einen,
+innerhalb der Oeffnung eines Winkels gegebenen
+Punkt ſchneidet bey genugfamer Verlängerung we-
+nigſtens Einen ſeiner Schenkel; – welcher aber of-
+fenbar noch weniger Evidenz hat, als der Euklidiſche.
+Die Segnerſche Theorie iſt von ihrem Urheber nicht
+im Zuſammenhange vorgetragen worden, und es hat
+deshalb unſer Vf. die Grundlagen derſelben vorerſt
+aufgeſucht und die daraus folgenden Sätze und Schlüſſe
+aneinander gereiht, vorgetragen. Der erſte Lehrſatz
+iſt dieſer: „Wenn man innerhalb der Schenkel eines
+Winkels einen Punkt annimmt, ſo läſst ſich immer
+ein Dreyeck verzeichnen, welches dieſen Punkt in
+in ſeine Ä einſchlieſst,“ – und auf dieſem beruht
+die ganze Theorie. Utſer Vf. bemerkt richtig, daſs
+ſein Beweis ebenfalls auf den bloſsen Augenſchein be-
+rechnet iſt, und ihm daher eben das entgegen ſteht,
+was bey der Lorenziſchen Theorie deshalb erinnert
+worden iſt. – Die Theorie von Naſſareddin iſt aus
+Käſtners Geſch. d. Math. B. I.S. 367 u. f. mit den nö-
+thigen Veränderungen und Abkürzungen entlehnt.
+Auch hier findet fich etwas Angenommenes, was
+hätte bewieſen werden ſollen, wodurch die Abſicht
+vereitelt worden iſt. Die Theorie von Adolph
+Kircher befindet ſich in deſſ nouvelle Theorie des Pa-
+ralleles etc. Paris 18o3. Sie ſtützt ſich auf den be-
+wieſenen Satz, daſs jedes folgende Perpendikel, wel-
+ches in einem Winkel von dem Puncte eines Schen-
+kels deſſelben auf den andern gefällt wird, gröſser,
+als das vorhergehende fey und will daraus die Folge
+ableiten, daſs einmal ein folgendes Perpendikel grö-
+ſser werden müſſe, als jede gegebne gerade Linie; –
+welche Folge aber offenbar weiter als die Behauptung
+des vorher erwieſenen Lehrſatzes geht. Die Theorie
+von Ge. Gottlieb Schmidt ſteht in deſſen Anfangs-
+gründen der Mathem. I S. 13 : . Auch ihr liegt der
+bloſs klare (nicht logiſch- deutliche) Begriff der gra-
+den Linie zum Gründe; denn der Satz des Vfs-
+2: Zwey gerade Linien, welche ſich in Eimer Ebne be-
+finden, ſchneiden entweder einander, oder ſind Pa“
+rallel" ſoll als Grundſatz aus dem Begriff der geraden
+Linie flieſsen, welchen Begriff aber der Vf, nicht auf-
+geſtellt, und folglich auch nicht hat zeigen können,
+JE/6.

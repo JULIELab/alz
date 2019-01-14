@@ -1,0 +1,132 @@
+165
+
+die entsprechenden Functionen F(x) zu bestim-
+‚men, welche gleichsam die Grundlage des ganzen
+neuen Calculs bilden würden. Aber da stosse man
+schon bei der ersten Function f (x) = x“ auf eine
+grosse Schwierigkeit, nämlich die Summirung der
+Reihe:
+10 +24 +3%+.... (n—1)“,
+
+und ebenso stehe es für f (x) = arc. sin x, arc.
+tang X, +.
+
+Statt der nutzlosen Bemühungen zur Beseiti-
+gung dieser Schwierigkeiten schlägt der Vf. eine
+Umgehung derselben durch Umkehrung der Aufgabe
+vor, und zeigt zugleich, dass die Operationen, ver-
+mittelst welcher man f(x) aus F (x) ableiten kann,
+einfacher sind, als die, durch welche F (x) aus
+f (x) gefunden wird, indem er durch Betrachtungen
+an Curven darthut, dass stets:
+
+d=0
+f (x) = lim. [*@FIZLO @)
+
+“ist. Während also die Ableitung von F(yx) aus
+F(x) die Summirung einer Reihe und einen Grenz-
+Übergang erfordert, verlangt die von f(x) aus F (x)
+nur die Bildung einer Differenz und einen gleichen
+Grenzübergang , welche Operation offenbar einfacher
+ist, weshalb sich der Vf. zunächst mit der Herlei-
+tung von f(x) aus F (x), d. h. mit der Differen-
+zialrechnung, beschäftigen will. Ehe wir ihm aber
+dorthin folgen, haben wir über das im zweiten Ab-
+satze der Einleitung Gesagte mehrere wesentliche
+Bemerkungen zu machen.
+
+Es ist zunächst eine ganz irrige Ansicht des
+Vf.’s, wenn er meint, dass die Stetigkeit der Grös-
+sen ihre mathematische Behandlung erschwere;
+man führt vielmehr im Gegentheil bei manchen Un-
+tersuchungen, z. B. in der Physik, Mechanik, Wahr-
+scheinlichkeitsrechnung , und selbst im gemeinen
+Leben, eine fingirte Stetigkeit ein, um sie zu ver-
+einfachen. In logischer Beziehung bietet der Be-
+griff der Stetigkeit und der stetigen Veränderung
+allerdings Schwierigkeiten dar; allein diese igno-
+rirt ja unser Vf. ganz, und er redet überall nur
+von rein malhemalischen Schwierigkeiten. — Wenn
+x eine stetige Veränderliche und y = F(x) eine
+stetige Function derselben ist, so kommt es in der
+höhern Analysis zunächst darauf an: das Gesetz
+der stetigen Veränderung von y zu finden, wenn
+x als stetig Vveränderlich gedacht wird, welches
+offenbar in der Bistimmung des Verhältnisses dy
+
+OF m+w)— F@)_ m
+w
+
+=— Jim. (%) besteht , und zwar
+
+Num. -165. ' JULI 1847,
+
+166
+
+sowohl, wenn die Functionen f(x) gegeben, als
+wenn sie unbekannt ist. welcher letzte Fall gerade
+der wichtigste ist und das Wesen der Differenzial-
+rechnung am besten characterisirt. In der Bestim-
+dy
+dx
+Reihe wichtiger Probleme, wie das der Tangenten,
+der Maxima und Minima ‚, etc. etc. Diese Klasse
+von Problemen, welche gerade diejemigen Sind,
+die zunächst zur Erfindung der Differenzialrechnung
+Veranlassung gegeben haben, hat unser Vf. ganz
+übersehen. Bei einer zweiten Klasse von Aufga-
+ben hat man aus dem bereits gefundenen Ausdrucke
+dy
+
+m F’(x) oder dy = F‘'(x)dx des Gesetzes der
+
+stetigen Veränderung ‚der Function y = F (x) noch
+die endliche Gesammtänderung zu bestimmen, wel-
+che diese Function erfährt, wenn sich x von einem
+gegebenen Werthe « bis zu einem anderen gege-
+benen Werthe 6 stetig ändert, wohin namentlich
+die Probleme der Quadratur, Rectification , etc. etc.
+gehören. Dieser Gesammlbetrag oder diese end-
+liche Aenderung der Function y= f(x) wird er-
+halten, wenn man in dy = F (x) dx die unabhän-
+gige Veränderliche x nach unendlich kleinen Incre-
+menten von = a bis x = sich ändern lässt und
+die Summe aller Werthe von dy bildet, d. h. das
+
+mung von — allein besteht schon die Lösung einer
+
+b
+bestimmte Integral / F' (x) dx nimmt, welches
+a
+
+bekanntlich durch f(b6)— f(«a) ausgedrückt wird.
+Lässt sich also das unbestimmte Integral / F‘ (x) dx
+angeben, so ist die wirkliche Summirung einer un-
+endlichen Reihe umgangen und auf eine Subtraction
+zurückgeführt. Man hat daher zunächst allein zu
+
+. w—0 F(x +0) — F (x)
+zeigen, dass 7, En
+
+bestimmte Grösse ist, so lange für x kein speciel-
+ler Werth gesetzt wird, und dann den Werth die-
+ser Grenze für die wichtigsten einfachen Functio-
+nen x", a”, log. x, sin X, ..., SO Wie für die ein-
+fachsten Verbindungen derselben, als Summen , Dif-
+ferenzen, Producte , Quotienten , etc. zu bestimmen.
+Hierdurch erhält man zugleich die Grundlage für
+die Interpretation, d. h. für den Rückschluss von
+
+2 = F (x) oder dy = F(x) dx auf F(x), und da
+
+Ww
+dx
+auch wenn y = F(x) unbekannt ist, so sieht man
+leicht ein, wie die Differenzial- und Integralrech-
+nung zur Bestimmung von Grössenbeziehungen die-
+nen können. Da, wie schon gesagt, unser Vf,
+
+eine endliche und
+
+in vielen Fällen direct gefunden werden kann,
+

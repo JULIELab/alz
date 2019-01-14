@@ -1,0 +1,144 @@
+   
+
+  
+
+a ei MATHEMATIK
+* .Görrınoen, ‘b.. Vandenhök u. Ruprecht: Weitere
+; Ausführung „der. ;mathematifchen Geographie ‚etc.
+4 (Befechlufs der im "vorigen Stücke abgebFochenen Hecehfioh.)
+ Yım Sechflen Kapiteb, dem weitläuftigken unter allen (S.
+e A a Ar, K., wie die Schüf-
+. auf einem elliptifchen Sphäroid von der Schiffahrt
+l auf einer 1.fich unterfcheidet, ‚und, ‚was.die fphä-
+t
+
+roidifche Geitalt der Erde. auf die Loxodromien und See-
+3 karten mit wachfenden Graden für Einflufs ‚hat. , Diefer
+
+Fr
+
+}+ wichtige Theil der Schiffahrtskunde fchien vorzüglich -
+
+4 einer folchen umftändlichen und zufammenhängenden
+uw Behandlung. ;zu bedürfen. as. in ‚den ‚nautifchen
+‚/ Lehrbüchern faft ohne alle ‚Theorie, am allerwenigften
+# ‚analytifch, vorgetragen wird, findet man hier aus den
+‚Gründen. der InfiniteGmalrechnung methodifch und
+‚nicht weniger fafslich als ‚die, vorigen Maäterien ent-
+‚wäckelt; ‚und hieher würde Rec. einen Seemann. ver-
+weifen, der nach. gehöriger Bekanntfchaft mit der Ma-
+ö ‚ehematik fich über die Gründe der nautifchen, Vorfchrif-
+ten Belehrung wünfchte. ..., Befonders intereflant und
+‚Jichtvoll wird diefe ganze Unterfuchung. durch. die ftete
+) ‚Vergleichung aller Beftimmungen auf .dem ‚elliptifchen
+‚Sphäroid mit denen auf der Kugel, und durch. die chro-
+‚mologifche und Kkritifche Literatur der Loxodromifchen-
+ji „und Meridionaltafeln, womit Hr. K. diefes Kapitel be-
+5 li — If „die Breite des Orts, nachrwelchem
+_ _man feegelt, fo kömmt es, um den rechten loxodromi-
+ji "fehen Winkel oder Curs zu finden, darauf an, bey, der
+ Kugel.die Gleichung fec. ». dy (beym elliptifchen Sphä-
+‚zoid die ähnliche Gleichung fec. „3%. dy) zu integriren.
+_Bey der Entwerfungsart der. Meridiane auf den „Seekar-
+(wo ‘alle Längengrade ‚fämmtlicher ‚Parallelkreife
+gleich gezeichnet, die Breitengrade hingegen im gehö-
+zen erhältniffe gegen die Längengrade-wachfend
+"worgeftellt‘ werden,)- wird die Länge jedes Meridian-
+Aheils vom /Aequator bis zur Breite y grade durch die-
+„selbe Difereeelgleichune gegeben. Tafeln der. Meri-
+4 ‚dionaltheile für “alle Grade und Minuten ‚der Breite
+‚find daher in den nautifchen Aufgaben „wobey;es auf
+Vergleichung von Breiten, Längen und loxodromi-
+4 Achen Winkeln ankömmt, vom gröfsten Nutzen. Die
+_ältelte folcher Tafeln für Meridionaltheile auf der Ku-
+gel if von Edward Wright noch aus dem z6ten Jahr-
+hundert; die erfte für Meridiopaltheile auf dem-ellip-
+‚' -tifchen Sphäroid von Mürdoch, Lond, 1741. Die äl-
+tern Mathematiker verfertigten fie aus den Secantenta-
+— _£eln durch beftändiges Addiren;der Secanten von Mi-
+_ nutg zu Minute, konnten alfo kein Glied.ohne alle. vor-
+A. L. Z. 1796. Dritter Band.
+
+ 
+ 
+  
+  
+     
+   
+ 
+  
+   
+ 
+ 
+ 
+
+9 VAN DE
+
+NE LITER
+
+UR-ZEITUNG
+
+ 
+
+ 
+
+ 
+
+Mittwochs, dem 17. August 1796. x
+
+ 
+
+hergehenden, finden, und häuften. die kleinen Feh-
+ler zuletzt zu beträchtlichen Unrichtigkeiten.an. ‚Wie
+man durch Integration der erwähnten Gleichung. je-
+den beliebigen Meridionaltheil unabhängig von allem
+vorhergehenden finden könne, entwickelt unfer Vf.
+Sehr gut, ‚berechnet fo verfchiedene Meridionaltheile,
+und prüft wmittelft derfelben die Tafeln. Dem, Meri-
+dionaltheil von 89° 58’, den er 27992,099 findet, giebt
+Patouns: Tafel 27958 und Wrights Tafel, 289107811.
+Bey geringern Breiten, ‚z. B. bey.50°; (timmen beide
+mit der Berechnung, unfers V£, überein. : (Zwar fcheint
+K. felbft S. 421. ungewifs, ob er fich, nicht in jenem
+‚Meridionaltheil. verrechnet‘ habe; Rec, aber hat ihm
+nachgerechnet, und findet alles richtig.) — Dem See-
+‚mann kömmt,es darauf-an., die Breite zweyer Oerter,
+den. Unter[fchied ihrer Längen, ihren loxodromifchen Win-
+rel und „die. Länge‘ des loxodromifchen Wegs zwifchen
+‚beiden fo, vergleichen zu können, dafs wenn je drey
+gegeben find, er die andern. beiden ohne Weitläuftig-
+keit finde. . Dazu. dienen zwey Gleichungen, die mit-
+‚telft der. Tafel. der. Meridionaltheile‘ zu ganz leichten
+Vorfchriften führen, Nurwenn man eine Breite und den
+loxedromifchen Winkel fucht, reichen die beiden Glei-
+chungen nicht ‚bin... Dann mofs man fich at ein bla-
+fses/Probiren' oder eine Regulam falßf halten, zu der
+doch felbit Hr. K. keine. beitimmte Anleitung /zu ge-
+ben.weifs. Recht gut und fafslich wird die artigeIdee
+der departure. (das Oft-und IVeftwärtskommen, oder: das
+latıs mecodynamicum, wie Wolt, durch Snellius veran-
+lafst, es nennt) entwickelt, und gezeigt, wie die loxe@-
+‚dromi[chen Tafeln dienen „- diefe Gröfse mit: dem: Curs
+‚und der Aenderung‘ der Breiten zu vergleichen... Zu
+„Hn, K. Literatur loxodr. Tafeln-kann Rec.‘ folgenden
+-Zufatz liefern... Arithmetical Navigation — — by Tho-
+‚mas Addifon, Practicioner in the art of navigation, Lond.
+1625. 4- (fängt an mit 2 loxodrom, Tafeln, ‚deren eine
+‚die departure und Aenderung der Breiten für. Curfe
+nach Viertel@richen, die andere für Curfe nach Gra-
+den, von x -bis. 10. Meilen: in z0,000,000tel‘. einer
+‚Meile angiebt.  Addifono nennt fie two protractikg
+«tables , ‚und das, was in ihnen aus der. Meilenzahl, die
+‚nach einem ‚gewiffen Curs durchfegelt it, gefunden
+‚wird, feparation from the Meridian (Käftners departure)
+und. alteration ef Latitude. Dann folgt eine Tafel Ne-
+sperfcher ‚Logarithmen für alle Zahlen von ı bis 1000.
+Endlich eine Tafel der Meridionaltheile von Minute zu
+Minüte bis auf 60 Breite, in 10,000 einer Minute. Bey
+50° fteht 34746007, indefs K. den Meridionaltheil für
+diefe Breite (S.:357:) zu 3474,5 berechnet; bey 60°
+145276876, wofür in Patouns Tafel‘ 4527 ,4 (teht.  We-
+gen Mabgel an Zeit, fagt Addifon, habe er def Me:
+
+ii ridional-
+

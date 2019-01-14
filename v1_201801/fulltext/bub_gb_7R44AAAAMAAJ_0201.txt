@@ -1,0 +1,124 @@
+391
+
+nannten Abhandlung T. II, 283 weitläufig ent-
+
+wickelt, weshalb /7 (30) qr= Log (s— u)! +5
+
+za) +
+T—n \
+
+und arc (tang =— 7 )ist wäh-
+
+1 1
+GH =
+rend doch diese Integrale in jedem Lehrbuche über
+Integralrechnung behandelt werden, Ebenso wer-
+den S, 257 ff. die » Wurzeln von z7r + 1= 0 und
+x” —1=0, die gewiss jeder, der sich nur irgend
+einige mathematische Kenntnisse angeeignet hat,
+hinlänglich kennt, in extenso abgeleitet. Eine sol-
+che Ausführlichkeit vorhindert die leichte Ueber=
+sicht über den Gegenstand und zerstört gerade
+das, was sie bezweckt, die Deutlichkeit.
+
+ 
+
+Was zweitens die Geometrie betrifft so sind
+die meisten Abhandlungen analytisch-geometrisch,
+sehr wenig construirend gehalten, Ref, neunt zu-
+nächst den Aufsatz T, I, p. 193—203 vom Her-
+ausgeber, Es ist- derselbe. hervorgerufen durch
+mehrere Behandlungen, welche die von Euler ge-
+stellte Aufgabe: „die Anzahl -der verschiedenen
+Arten zu bestimmen, auf welche sich ein beliebi-
+ges Vieleck durch Diagonalen im Dreiecke zerle-
+geu lässt” in dem dritten und vierten Bande des
+Journal de Mathem, pur, et appliq. von Liowville
+gefunden hat; er liefert aber die von Nicolaus Fuss
+gegebene Auflösung der weit allgemeinern, von
+Pfaff gestellten Aufgabe:” die Anzahl der ver-
+
+schiedenen Arten zu bestimmen, auf welche sich
+
+ein »* eck durch Diagonalen in Jauter mecke zer-
+Jegen Jüsst.” Es wird hier cine durch Induction ge-
+fundene Formel zur Bestimmung der gesuchten
+Anzahl, aber ohne Beweis, mitgetheiltz nur für
+den Fall der Zerfällung iu Dreiecke wird ihre Rich-
+tigkeit nachgewiesen. Im zweiten Bande vorlie-
+genden Archivs, S. 117—122 liefert darauf Prof.
+Tellkampf in Hannover eine combinatorische Lö-
+sung derselben Aufgabe. Dieser leitet nicht nur
+eine vollkommen begründete allgemeine Formel ab,
+deren Uebereinstimmung mit der vorhin erwähnten
+sich leicht ergiebt, sondern er löst sogar noch fol=
+gende viel allgemeinere Aufgabe auf:” die Anzahl
+der verschiedenen Arten zu bestimmen, auf welche
+sich ein» eck durch 7 Diagonalen in (g+1) Figu-
+ren zerlegen lässt, unter denen a Dreiecke, h Vier-
+ecke, c Fünfecke u. 8. w. enthalten sind.” Es wird
+
+A. L. Z. Num, 204, NOVEMBER 1843.
+
+für diese letzte Aufgabe die gesuchte Anzahl ge-
+funden: .
+
+a nn + Dn+2)0n-4+3)....(n+4—1)
+
+ U.2.3...0)(1.2.3...06)(1.2.3...C)... *
+
+Auf S. 136—144 löst der Herausgeber die
+nicht uninteressante Aufgabe:” die Gleichungen ei-
+ner geraden Linie zu finden, welche vier gerade
+Linien im Raume, deren Gleichungen gegeben sind,
+schneidet, ” und macht’davon eine Anwendung auf
+die annähernde Bestimmung einer Cometenbahn,
+wenn man Vier aus Beobachtungen abgeleitete geo-
+centrische Längen und Breiten des Cometen kennt.
+
+Tom, I. S. 89 — 95 findet der Herausgeber
+eine merkwürdige Relation zwischen den recht-
+winkligen Coordinaten von vier Punkten in einer
+Ebene, und den drei Winkeln, welche die vier von
+diesen Punkten pach einem fünften Punkte in der-
+selben Ebene gezogenen geraden Livien mit ein-
+ander einschliessen.
+
+T. I. S, 322—330 stellt der Herausgbr. zwei
+Sätze über die Parabel und Ellipso auf, Wenn
+F,r1,F2 drei aufeinanderfolgende rudii vectures einer
+Parabel sind und man -bezeichnet den Winkel zwi-
+schen dem ersten und zweiten Radius durch (rr)
+und ebenso den zwischen dem zweiten und dritten
+durch (rıra) und den zwischen dem ersten und
+dritten durch (rrg) so findet folgende Relation statt:
+
+sin 4 (rr, sin 4 (rır, sin 1 (rr
+Sinz(rra) _ sin3(rıra) sin} (Fri)
+vr vr vor*
+
+Nimmt man ebenso in einer Ellipse vier auf
+einanderfolgende radii vecfores r,r,,ra,r, und be-,
+zeichnet die zwischenliegenden Winkel ebenso wie
+vorhin, so ergiebt sich:
+
+0 =— sin ACrı re) sin 4 (rar3) sin 4(rarı)
+EZ ol sin£ (rra)sin 4(r, rg) sin 4 (rsr)
+ı
++ N sin (rr,)sin4(rıra)sin (rar)
+
+1 . * Y
+— — sin (rr,)sin 4(r, r.)siu Arar)
+va n
+
+T. I. 8. 337 — 360 giebt Hr. Mossbrugger, Leh-
+rer an der Kantonsschule zu Aarau, in einer le-
+senswerthen Abhandlung interessante Untersuchun-
+gen über die geometrische Bedeutung der constan-
+ten Coeffieienten in den allgemeinen Gleichungen
+der Flächen des zweiten und dritten Grades.
+
+CDer Beschluss Folgt.)
+
+be EEE A
+

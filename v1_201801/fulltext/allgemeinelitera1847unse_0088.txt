@@ -1,0 +1,118 @@
+167 A. L. Z, Num.
+
+sich auf die begrifflichen Schwierigkeiten der höhern
+Analysis nicht einlässt, so haben wir keinen Grund, uns
+hier dabei aufzuhalten. — Man sieht hieraus, wie ein-
+seitig und zum Theil ganz unrichtig der Vf. das Wesen
+der Differenzial- und Integralrechnung in der Zin-
+leitung characterisirt, wenn er sogar behauptet:
+diese Rechnung habe es mit Relationen zwischen
+ungleichartigen Grössen zu: thun, dass hier eine
+Grösse durch die Veränderung einer andern, mit
+ihr ungleichartigen Grösse erzeugt werde, während
+sich die algebraische Analysis mit Relationen zwi-
+schen gleichartigen Grössen beschäftige — (?!).
+Wie kann wohl eine Linie dadurch, dass sie sich
+ändert, eine Fläche erzeugen? In wiefern drückt
+
+die Rectificationsformel ds = da” +dy“ eine Re-
+lation zwischen wngleichartigen Grössen aus? —
+u.s.f, Andererseits stellt ja doch in diesem Sinne
+auch die Elementargeometrie Relationen zwischen
+ungleichartigen Grössen auf, z. B. zwischen dem
+Halbmesser und der Fläche des Kreises, zwischen
+der Grundlinie, Höhe und Fläche des Dreieckes,
+Parallelogrammes etc. Es ist hierbei blos erfor-
+derlich, dass die Gleichungen homogen sind. Auch
+das angeführte mechanische Problem und die Pa-
+rallele mit der mechanischen Anhäufung und dem
+organischen Prozesse finden wir gar nicht passend.
+— Man muss nicht Einfaches durch Zusammenge-
+setztes erläutern wollen. Um das mechanische Pro-
+blem zu verstehen, muss man die Grundlehren der
+Differenzial- und Integralrechnung schon kennen,
+Der Begriff des organischen Prozesses ist ein viel
+zu complicirter und schwankender, als dass er hier
+als Erläuterungsbeispiel dienen könnte. Die umge-
+kehrt mechanische Aufgabe kann eben so wohl zur
+Lösung vorgelegt werden, — Die Methoden der
+neuern algebraischen Analysis, wobei der Begriff
+der stetigen Veränderlichen, der Function derselben
+und der Grenze zum Grunde liegt, sind nicht we-
+senilich von denen der höhern Analysis verschie-
+den. — Baco sagt ganz richtig: ,, Der menschliche
+Geist dichtet gern Parallelen und correspondirende
+Verhältnisse, die nicht vorhanden sind,” und -es
+will uns scheinen, als hätte unser Verfasser auch
+einen kleinen Anflug von diesem Bestreben. —
+Veberhaupt holt der Vf. oft etwas zu weit aus.
+Auch die Parallele: dass sich die Differenzial- und
+Integralrechnung ungefähr wie Subtraction und Ad-
+dition verhalten sollen, so wie die Behauptung:
+
+ 
+
+168
+
+dass die Probleme der Integralrechnung die dire-
+cten, die der Differenzialrechnung dagegen die indi-
+recten und dafür leichter lösbaren seyen, finden
+wir nicht begründet. Denn einmal erfordern viele
+wichtige Probleme zu ihrer Lösung gar keine In-
+tegralrechnung und dann besteht gerade das Haupt-
+geschäft der höhern Analysis, wie schon gesagt,
+
+165. JULI 1847.
+
+i " E Aa 0 EM wi
+darin: das Differenzialverhältniss az = F(x) einer
+
+d
+unbekannten Function F(x) direct zu finden, um
+daraus alsdann durch Interpretion diese unbekannte
+Function selbst abzuleiten, wozu bekanntlich noch
+erfordert wird, dass der Werth F(a) von F(x) für
+irgend einen Werth z=ua der unabhängigen Ver-
+änderlichen bekannt sey. Wären die Probleme der
+Differentialrechnung die indirecten ( umgekehrten) ,
+so wären sie auch die schwierigern, weil bekannt-
+lich die umgekehrten Operationen immer schwieriger
+sind, als die directen.
+
+Die erste Abtheilung des Werkes behandelt die
+Theorie der Differenzialrechnung , und das erste Ka-
+pitel zunächst die allgemeinen Begriffe und Funda-
+mentalsätze derselben. Als Hauptaufgabe der Dif-
+ferentialrechnung bezeichnet der Verfasser dem
+Frühern gemäss; aus einer gegebenen Function F(x).
+eine andere F(x) der Art abzuleiten , dass
+
+F(x) A dimW FF +0) — FF
+w
+ist. Sonderbarerweise fügt aber der Verfasser hin-
+zu: „Entweder lässt sich das w im Nenner gegen
+
+ein möglicherweise im Zähler vorkommendes w he-
+ben, und dann muss die Vollführung des Grenz-
+überganges zu einer völlig bestimmten Function
+F(x7) führen, die selbst stetig und endlich ist, wenn
+F(x) es war, wie unmittelbar aus der Einleitung
+hervorgeht, oder man kann oder will auch vielleicht
+w im Nenner nicht gegen ein w@ im Zähler haben,
+in welchem Falle man aber auf eine unmittelbare
+Angabe der fraglichen Grenze selbst verzichten
+muss, weil sich dieselbe, wenn man wirklich noch
+w bis zur Grenze Null abnehmen lassen wollte, un-
+
+ter der unbestimmten Form — darstellen würde.
+
+Diese zwei verschiedenen Fälle führen von selbst
+zu einer doppelten Bezeichnungsweise. Im ersten
+Falle nennt man die sich ergebende Function F(zx)
+die aus F(x) derivirte Function und bezeichnet sie
+mit F' (x). |
+
+(Die Fortsetzung folgt.)
+
+Gebauersche Buchdruckerei.
+

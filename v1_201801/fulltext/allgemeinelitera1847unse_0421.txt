@@ -1,0 +1,117 @@
+833
+
+Sy
+
+834
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+ 
+
+Monat November.
+
+1847.
+
+Halle, in der Kxpedition
+der Allg. Lit, Zeitung.
+
+ 
+
+Einleitung in die Differential - und Pater ech-
+* nung. Von Karl Snell u. s. w.
+
+(Beschluss von Nr. 248.)
+
+Man schliesst daher allgemein so: Wäh-
+rend einerseits aus der Natur der ungleichmässig
+wachsenden Grössen folgt, dass der Zahlenwerth
+des Quotienten der von einem bestimmten Punkte
+aus genommenen Zunahmen, als’ Ausdruck für die
+in diesem Punkt vorhandene verhältnissmässige
+Stärke des Wachsens, sich bei fortgesetzter Ver-
+kleinerung dieser Zunahme ohne Ende der Wahr-
+heit nähert und während andrerseits aus der arith-
+metischen Form der Quotienten der Zunahme ein
+gewisser Zahlenwerth als die Grenze ‚ersichtlich
+ist, welcher sich dieser Quotient bei forgesetzter
+Verkleinerung der Zunahmen ebenfalls ohne Ende
+nähert, So ist es klar, dass dieser Zahlenwerth mit
+der Wahrheit zusammenfäll't, Es bedarf also über-
+all nur der Auffindung eines solchen Grenzzahlen-
+werthes für den Quotienten der sich verkleinernden
+Zunahmen, um demselben ohne Weiteres die Be-
+deutung unterzulegen, dass er die momentane ver-
+hältnissmässige Stärke des Wachsens in dem Sinne
+‚angibt, um wie viel Einheiten die abhängig Verän-
+derliche zunehmen würde „ bei einer Zunahme der
+willkürlich Veränderlichen = 1, wenn die momen-
+tane Stärke des. Wachsens unverändert bliebe. Und
+dieser Grenzzahlenwerth heisst der Differential-
+quolient.
+
+Das Wachsen der Continua für sich betrachtet
+liefert einen Inhalt, der keine Grössenbestimmung
+zulässt und das Wachsen der Zahlen in der Function
+betrachtet liefert einen Grössenwerth, der keinen
+Inhalt hat und nur die Beziehung beider auf ein-
+ander und die Nachweisung, dass beide sich decken,
+gibt einen nach Form und Inhalt, nach Grösse und
+Bedeutung völlig bestimmten Ausdruck, nämlich
+den die momentane Stärke des Wachsens ‚ange-
+benden Grenzzahlenwerth des Differenzquotienten,
+
+A. L. %. 1847. Zweiter Band,
+
+Aus dieser ganz oberflächlichen Darstellung
+wird man doch schon erkennen können, auf wel-
+che Weise der Vf. die Principien der. Differential-
+rechnung behandelt hat, Dass sie nur zu loben
+sey und dass man ihr gern beipflichte, wird Nie=
+mand leugnen können. Die Einzelnheiten, wie z.B.
+die ntwickelung, dass Zähler und Nenner des
+Differentialquotienten ‚nicht verschwindende sondern
+bestimmte , endliche Grössen sind, so wie die wei-
+tere Ausführung und Anwendung der Grundidee
+auf den spätern Verfolg der Wissenschaft würden
+hier genauer anzuführen zu Weitläufig werden, Ref.
+muss die Leser auf‘ das Werk selbst verweisen.
+Nur so viel kann er versichern, dass Niemanden
+die Lectüre gereuen wird, wenn er sich ‘nur über
+die mitunter lästige Weitschweifigkeit und die nicht
+seltenen Wiederholungen hinwegsetzen kann,
+
+Die höheren Differentiale und Differentialquo=-
+tiente sind eipem zweiten Bande vorbehalten,
+
+Es ist Ref. unmöglich die Anzeige des ge-
+nannien Buches zu Schliessen, ohne zugleich an
+ein andres Werk über denselben Gegenstand zu
+erinnern, Welches ungefähr zu gleicher Zeit und
+ebenfalls von einem Lehrer der Universität Jena
+erschien, nämlich: die Differentialrechnung von
+Schloemilch. Es sind nämlich diesem Werke die-
+selben Prineipien und Ansichten als im vorhin ge-
+nannten zu Grunde gelegt, aber nur in sehr kurzen
+Umrissen \im Vorwort und in der Einleitung aus-
+einandergesetzt. Es’ ist so zu sagen die unum-
+gänglich nothwendige Ergänzung zu jenem. Der
+Hauptzweck des Vf.’s war ein Buch zur wirklichen
+Erlernung des Differentiirens zu schreiben, durch
+
+dessen Studium sich der Leser nicht allein die
+technische Fertigkeit in dieser: Rechnungsweise
+sondern auch Gewandtheit und Eleganz in ihrer
+
+Anwendung auf dahin gehörige Aufgaben aneignen
+
+könne, — Wenn auch besondere Rücksichten es
+
+verbieten auf das Detail dieser sehr tüchtigen Ar-
+
+beit einzugehen, so kann sich Ref. doch nicht ent-
+
+müssigen auf zwei Pünkte aufmerksam zu machen;
+
+welche von dem Vf. mit besonderer Vorliebe bear-
+249
+

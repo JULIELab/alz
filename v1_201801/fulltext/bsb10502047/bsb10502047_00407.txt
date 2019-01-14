@@ -1,0 +1,109 @@
+N U m.
+33 Ö.
+778
+ALLGEMEINE LITERATUR - ZEITUNG
+Freytags,
+T E C H N OL OGI E.
+MüNcHEN, b. Lindauer: Theorie der Brückenbogen,
+und Vorſchläge zu eiſernen Brücken in jeder belie-
+bigen Größe. Von Georg Reichenbach u. f. w.
+(Beſchluſs der in Num. 335. abgebrochenen Recenſion.)
+Nºgº kommt der Vf. ſeinem Zwecke näher.
+Er ſchlägt eiſerne Brücken vor, wo die Brücken-
+ſtraſse auf Bogen ruhen ſoll, die aus zuſammenge-
+ſchrobenen eiſernen Röhren beſtehen ſollen. So ſehr
+ſich dieſe Idee jedem, der nur einige mechaniſche
+Kenntniſſe hat, augenblicklich empfehlen muſs, ſo
+viele Bewunderung verdient auch die Pünktlichkeit
+und Schärfe, womit er die wirkliche Conſtruction
+ſeiner Theorie anzupaſſen ſucht, und die in der That
+allen Baumeiſtern zurn Muſter und zugleich zur Be-
+lehrung dient, wie Theorie in der Ausübung nütz-
+lich werden kann und was man durch ſie geleitet mit
+Hinſicht auf manche unſichere Vorausſetzung in der
+Ausübung wagen darf. Die abſolute Feſtigkeit von
+mittelmäſsigem Guſseiſen beſtimmt dieſer groſse Künſt-
+ler, auf deſſen Autorität man in ſolchen Angaben
+wohl bauen darf, für eiſerne Stäbe zu 1 Q. Zoll ſtark,
+auf 76 Bair. Zentner, und für eben ſo dicke eiſerne
+Stäbe von mittelmäſsig gutem geſchmiedeten Eiſen zu
+× 76 = 229 B. Ztr., beides nach ſeinen eigenen Ver-
+uchen. Hieraus findet er das Zerbrechungsmoment
+wenn der Halbmeſſer der Röhren bis zur Mitte der
+Wanddicke gemeſſen in Zollen = b und die Wand-
+dicke = a geſetzt wird) = 48o ab”, alſo in der obi-
+gen Gleichung für Q den Quotient 2 W 2.48o ab?
+y- Y“
+wo dann auch r in Zollen ausgedruckt ſeyn müſste.
+Weil aber r gewöhnlich in Fuſsen ausgedrückt wird,
+und er ſelbſt dieſe Vorausſetzung beybehält, ſo muſs
+man in gedachter Gleichung 12.r ſtatt r ſchreiben;
+und weil man daſſelbe Reſultat erhält, wenn man r
+im Nenner in Bezug auf Fuſse ſtehen läſst, dafür aber
+im Zähler 40 ſtatt 48o ſchreibt, ſo giebt dieſes dem
+Vf. Anlaſs zu ſagen, das eigentliche Zerbrechungs-
+moment W ſey (weil a und b in Zollen, r aber in
+Fuſsen ausgedruckt ſeyn ſoll) = 4o - ab”, welches
+aber offenbar uneigentlich zu nehmen iſt. Er nimmt
+nun für alle Röhren eines jeden Bogens die Wand-
+dicke zu 1 Zoll an, und fordert, daſs ſich nach Ver-
+ſchiedenheit der Bogen nur der Durchmeſſer der Röh-
+ren ändern ſolle. So wird alſo W= 4o. b?. Die Ent-
+fernung der Schrauben, welche durch die angegoſſe-
+nen Kränze durchgehen, von der Röhrenaxe ſetzt er
+in Zollen ein - für allemal =b + 2, 5, und findet nun
+A. L. Z. 1811. Dritter Band.
+dem 2o. December I 8 II.
+für die Forderung, daſs ſämmtliche Schrauben in je-
+dem Kranze zuſammen genommen mit den Röhren
+gleiche Haltbarkeit haben ſollen, zwiſchen dem Durch-
+meſſer der Schraubenz und der für jeden Kranzjº
+forderlichen Anzahl von Schrauben n die Gleichung
+- 2,666 - -
+Z= / Ä Z5' Jetzt iſt alles zur unmittelbaren
+Anwendung der für das Tragvermögen eines aus ſol-
+chen eiſernen Röhren zuſammengeſetzten Bogens ge-
+fundenen Formel Q= *_“.–G“ (*+*)“ –
+7- Coſ. (J Sin. Sir A 9 Ya
+vorbereitet, die dann für p = « Ä Ä
+wird. Für r = 4oo', «= 45 und b= 8“ findet j
+hiernach das Tragvermögen für die ſchwächſte Sj
+= 183,44 Zentner. Sechs ſolche parallele Bogen wür-
+den alſo ſchon 1 oo B. Ztr. zu tragen vermögen, alſo
+gewiſs ſchon mehr, als das j Gewichjdj
+der ſchwerſten Frachtwagen. Aber der Vf Ä
+das Tragvermögen ſolle nie weniger als das zejj
+vom Gewicht der gröſsten Laſt betragen. Die Öj
+de, welche er für dieſe ſtarke Forderung in der Vor-
+rede und in der Schrift ſelbſt (S. 30.) anführt, ſchj.
+nen eine ſo auſserordentliche Vergröſserung nicht zu
+rechtfertigen, vielmehr legt ſie Miſstrauen in jaj
+YÄndbarkeit der vorgetragenen Theorie. jr
+That ſcheint ſie auch Rec. jenes Miſstrauen zj Ver-
+dienen - welches in den oben gemachten Erinnerj-
+gen begründet iſt, nämlich in dem Umſtande, js
+der Vf, jeden Bogen für ſich als im Gleichjj
+beſtehend anſieht. Vielmehr wird der Theil vom Ge-
+wicht des Ä welcher auf jede der angenomme-
+nen Bruchſtellen mitwirkt, ſchön als eine Äf den Bo-
+gen gelegte Laſt betrachtet werden müſſen, ujj
+dem groſsen Ueberſchuſs der Tragkraft jej
+hier verlangt wird, dient es zur Sicherheide Rech-
+nung, wenn man dafür die Hälfte vom Gewichj
+ganzen Bogens in Rechnung bringt. Iſt alſo jej
+ganze Gewicht = P, und der nach obiger Theorie
+beſtimmte kleinſte Werth von Q=Q“, hätte man
+Q= Q– P. Wäre z. B. der ganze 306 Fuſs lange
+Bogen = 5oo Ztr., ſo wäre hiernach ſein Tragvermö-
+gen nicht = 18344 Ztr., ſondern = I83,44 - 25o =
+beyläufig – 67 Ztr. Nähme man aber b doppelt ſo
+groſs als vorhin d.i. = 16 Zoll, ſo würde Q' =4'83,44
+= 733,76 Ztr., und P = 2 . 250 = 5ôo Zj
+d
+Q =733:76 – 5oo = beyläufig 234 Ztr.;a
+6 ſolche Bogen = 1404 Ztr. Ä Ä #
+dem einmal Ä Werthe von b ſtehen bleiben
+und die Vergröſserung der Tragkraft durch Vergrö
+ſserung der Dicke der Röhrenwand erhalten.
+s # bemerkt ſehr richtig, daſs es ÄÄ
+5 VOI-

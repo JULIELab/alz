@@ -1,0 +1,146 @@
+Z
+
+189 — Num., 104. JUNIUS 1880 ; 190
+
+im ersten Abschnitt von der Verwandlung einer Fi-
+_ gur in eine andere vom gleichem Inhalt, zuerst einer
+geradlinigen in eine. geradlinige, und zwar eines
+Y Ecks in ein Y Eck, namentlich eines Dreyecks in
+ein Dreyeck, eines Vierecks in ein Viereck, eines
+Vielecks in ein Vieleck; oder eines Y' Ecks in ein
+Y+M) Eck; dann einer per 1inigen in eine
+ummlinige und eine gemischtlinige. Es folgt die
+Verwandlung einer krummlinigen in geradlinige, oder
+krummlinige, oder gemischtlinige, endlich einer
+En Schinigen in eine gerad - krumm - gemischt —
+ige,
+
+Um die Anordnung, den Reichthum und die
+Behandlung mit den Aufgaben dieser Abtheilung nä-
+her zu bezeichnen, giebt Rec. nur die Aufgaben an,
+welche sich auf die Verwandlung eines Dreyecks in
+ein anderes beziehen, und legt die Behandlung einer
+auf ein Paralleltraptrium sich beziehenden Aufgabe
+vor. Es wird ein Dreyeck in ein anderes von glei-
+chem Flächeninhalt verwandeln gelehrt, wenn ein
+Winkel desselben, oder eine Seite, oder ein Win-
+kel und eine Seite, oder ein Winkel und eine Höhe,
+oder zwey Winkel, oder zwey Seiten, oder zwey
+Höhen von gegebener Gröfse seyn sollen.
+
+Bezeichnet man die parallelen Seiten eines Pa-
+ralleltrapezimus mit a, c, die Entfernung dersel-
+ben mit A, eine der nicht parallelen Seiten mit 6,
+und soll dasselbe in ein anderes von der gegebenen
+Grundlinie a‘ verwandelt werden, so ist, wenn die der
+Seite a' parallele Seite c‘ beliebig gewählt, die Höhe
+mit Ah‘, die der Seite 6 correspondirende Seite mit
+b“ bezeichnet wird, (a'+c') h" = (a + c) h und
+(a + c) 8" = (a+c) d, also A“ = OR, zu
+
+a’!
+
+ 
+
+Or mithin auch 3 A” = 3 (04904 und 36 =
+
+a’ + c’ ; 3 (a’-++c‘) W
+
+EZ Ss welche Werthe demnach construirt
+a c
+
+werden.
+
+In dem Theile, welcher sich mit der Verwand-
+lung geradliniger Figuren in krumm - oder gemischt-
+linige und umgekehrt beschäftigt, lehrt der Vf. vor-
+zöglich ein Quadrat in einen Kreis, oder einen Kreis-
+ring, oder einen Kreisabschnitt, oder einen Kreis-
+qusschnitt und umgekehrt verwandeln. Bezeichnet
+er iz. |B. idie Halbmesser zweyer concentrischer
+Kreise mit op, po’ und die Seite eines gegebenen Qua-
+drates mit a, So ist, wenn der Kreisring dem Qua-
+
+drate gleich werden Soll, (0 — 0?) nz = a?,- also
+0 a3 i
+e Y +7
+Der zweyte Abschnitt der zweyten Abtheilung
+zeigt die Verwandlung zweyer, oder mehrerer Fi-
+guren in Eine von bestimmter Form, durch Summi-
+rung und Differentiirung der Flächeninhalte. Er
+schliefst sich an den vorhergehenden nahe an, und
+lehrt, wie die Summen und Differenzen von Qua-
+
+draten ‚Kreisen , Kreisabschnitten , Kreisausschnitten
+und Kreisringen in einander zu verwandeln seyen.
+
+Die dritte Abtheilung handelt von der Theilung
+von Linien und Figuren. Erster Abschnitt, Theilung
+gerader Linien und geradliniger Figuren,
+
+I. Theilung gerader Linien nach einfachen, qua-
+dratischen und Wurzelverhältnissen, und nach äu-
+fserem und mittlerem Verhältnifs.
+
+Rec. findet dieses arithmetisch und geometrisch
+wohl behandelt. Bey der letzteren Aufgabe nur
+hätte er eine Betrachtung des durch das negative
+Zeichen vor dem Quadratwurzelzeichen angedeuteten
+negativen Werthes der gesuchten Linie, wie er
+= —14— /a?+4+3a? sich darstellt, gewünscht.
+Wenn auch der in dem Buche ;anzegebene Werth
+—3ja+/at-+1a? der einzige ist, welcher die
+Aufgabe in dem speciellen Sinn auflöset, in wel-
+chem sie in Worte gefafst ist, so ist doch der nega-
+tive Werth eine zweyte Auflösung für die Aufgabe
+in der Allgemeinheit , in welcher sie der Algebra in
+
+der Gleichung (@ — a’) a = a!” vorgelegt wurde. Und
+die Betrachtung solcher Fälle ist auch für die Geo-
+metrie von besonderem Werthe. Eine rein geome-
+trische Behandlung dieser Aufgabe führt gleichfalls
+auf eine doppelte Auflösung der Aufgabe, wenn sie
+in der gehörigen Allgemeinheit aufgefafst wird.
+
+il. Theilung geradliniger Figuren nach einfa-
+chen, quadratischen und Wurzelverhältnissen, je
+nachdem die Theilungslinien von einem in einer
+Winkelspitze oder einer Seite, oder einem inner-
+halb, oder einem aufserhalb der Figur gegebenen
+Punkte auslaufen, oder sämmtliche 1 Heilungslinien
+durch zwey Seiten der Figur begrenzt werden und
+stetig auf einander folgen, oder einer gegebenen
+Richtungslinie parallel laufen sollen, oder je nach-
+dem sämmtliche Theilungslinien den Seiten der Figur
+parallel und dergestalt um einen Punkt liegen sollen,
+dafs sie von den geraden Linien begrenzt werden,
+welche jenen Punkt mit den Winkelspitzen der Fi-
+gur verknüpfen.
+
+Die kurze Angabe des Inhaltes dieses Theiles
+der Schrift läfst hinlänglich den Reichthum und die
+systematische Zusammenstellung der hier behandel-
+
+ten Aufgaben erkennen, welche sämmtlich eine sehr '
+
+gelungene Bearbeitung gefunden haben.
+
+Zweyter Abschnitt. Beurtheilungen, mit Rück-
+sicht auf die Construction regulärer Vielecke. Zu-
+erst wird die Eintheilung des Kreisumfanges in 3 und
+8.2», in 4 und 4.2", inS5 und 10 und 10.2", in 15
+und 15.22, in n gleiche, oder in gegebenen Ver-
+hältnissen stehende Theile, genau, oder annähernd
+gelehrt , und den Halbmesser des Kreises bestimmt,
+welcher einer gegebenen Vielecks - Seite zugehört.
+Darauf folgen Anweisungen, einen gegehenen Bogen
+in 2°, und in n gleiche, oder in gegebenen Verhält-
+nissen stehende Theile, eine gegebene Kreisfläche,
+einen gegebenen Kreisring, und einen gegebenen
+Kreisausschnitt, durch Halbmesser, oder concen-
+trische Kreise in gleiche, oder gegebenen Verhält-
+
+nis-
+
+SP
+

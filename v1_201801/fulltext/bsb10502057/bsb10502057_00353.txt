@@ -1,0 +1,120 @@
+687 ERGÄNZUNGSBLÄTTER
+Num. 86. AUGUST 1 8 14. 688
+ction, und gleich hinterher den umgekehrten Satz:
+Wenn in einem Triangel (X) das Quadrat einer ſei-
+ner Seiten den Quadraten der übrigen Seiten gleich
+iſt, ſo iſt der von dieſen übrigen Seiten eingeſchloſſe-
+ne Winkel ein rechter; ebenfalls vermittelſt einer
+Conſtruction. Von beiden Sätzen enthält jeder die
+-beiden Sätze des Vfs.; allein dieſe folgen ja nicht aus
+einander, ſondern die Wahrheit, daſs wenn das eine
+Statt findet, auch das andere iſt, folget aus der Con-
+ſtruction. Da nun die Logik nichts von dem Inhalte
+der Urtheile weiſs, ſo kann ſie auch nicht zwey Ur-
+theile, die durch mathematiſche Conſtruction hypo-
+thetiſch verknüpft ſind, für gleichgeltend oder äqui-
+ollent erklären, eben weil hier die Richtigkeit der
+Ä beider Urtheile nicht in der bloſsen lo-
+giſchen Form, ſondern in der Conſtruction, als einer
+der Logik unbekannten Sache, liegt. Sonſt wäre
+ja auch an einem hypothetiſchen Urtheile jeder Vor-
+derſatz mit ſeinem Nachſatze gleichgeltend, welches
+denn der Vf, auch behauptet, wenn das Urtheil reci-
+rocabel ſey, d. i. wenn es ein allgemein bejahendes
+Ä ſey, das ſich allgemein umkehren laſſe, ſo
+daſs der Nachſatz der Vorderſatz werden könne. Ein
+Triangel X, welcher rechtwinklicht iſt, und ein Tri-
+angel X, von dem das Quadrat der dem rechten Win-
+keſ gegenüber liegenden Seite u. ſ. w., iſt einerley
+Object, wenn man dabey von allem übrigen abſtra-
+hirt, das lehrt die Conſtruction; aber die beiden Sä-
+tze folgen nicht auseinander und ſind alſo auch nicht
+leichgeltend. Der Vf. ſtellt nun eine weitere Unter-
+uchung über die gleichgeltenden und reciprocabeln
+Urtheiſe an. Er ſtöſst dabey, wie es einem ſo geüb-
+ten Denker zuzutrauen iſt, auf manche richtige logi-
+ſche Bemerkung; nur was er behauptet, kann Rec.
+nicht zugeben, daſs der nach der Ä Metho-
+de zu beweiſende Satz darum wahr ſey, weil man
+auf einen wahren Satz komme, welcher mit dem zu
+beweiſenden Satze gleichgeltend ſey; ſondern Rec.
+muſs gegen den Vf. behaupten, daſs der zu bewei-
+ſende Satz darum wahr ſey, weil er einen Satz vor-
+ausſetzt, welcher unumſtöſslich wahr iſt. Der ganze
+lrrthum des Vfs. beſteht darin, daſs er ſich die Ana-
+lyſis ſo vorſtellt: « iſt wahr, alſo iſt 3 wahr, alſo iſt
+y wahr, alſo iſt d wahr, alſo iſt « wahr; « aber iſt als
+wahr gegeben. Daraus würde nun freylich nicht
+folgen, daſs y, der zu beweiſende Satz, wahr wäre.
+Und darum, meynt der Vf.; gehöre meiſtentheils
+noch eine Synthéfis zu der Anäyſis, nämlich « iſt
+wahr, alſo iſt A wahr, alſo iſt « wahr, alſo iſt v wahr,
+und alſo iſt - wahr. Das iſt aber grundfalſch. Die
+Analyſis heiſst ſo: geſetzt, x wäre wahr, ſo kann
+dieſs nur Statt finden oder es ſetzt nothwendig vor-
+aus, daſs 3 wahr iſt; iſt nämlich 3 wahr, ſo muſs
+« nothwendig wahr ſeyn; eben ſo ſetzt aber 3 voraus,
+daſs Y wahr iſt, iſt y wahr, ſo muſs 6 wahr ſeyn;
+eben ſo ſetzt Y voraus, daſs d wahr iſt; eben ſo ſetzt
+3 voraus, daſs « wahr iſt; nun iſt aber «unumſtöſs-
+lich wahr, alſo iſt es auch d, alſo iſt es auch y, alſo
+iſt es auch 3, und folglich auch x, welches letztere
+zu beweiſen war. Das Wiederzurückgehen von « auf
+x kann man keine Syntheſis nennen: denn es wird
+ja hier nicht von « auf d, und von d auf y u. ſ. f. ge-
+fchloſſen, ſondern es iſt nur ein Wiederdurchgehen
+der Sätze, um ſich an die Abhängigkeit des d von «,
+des y von d, des 3 von y, und des « von 3 zu erin-
+nern, um ſo zu folgern, daſs « wahr ſeyn müſſe. Und
+ſo ſpielt in der That die Aequipollenz der Sätze hier
+gar keine Rolle, indem die Abhängigkeit der Sätze
+in der Mathematik auf der Anſchauung beruhet. So
+aber wie Hr. H. die Analyſis vorſtellt, iſt ſie eine
+Syntheſis, die nichts beweiſet: denn weil x als wahr
+angenommen, und nach ſeiner Meinung daraus 3,
+und y, und d und « gefolgert wird, ſo iſt freylich x
+nicht bewieſen.
+Im zweyten Zuſatz hebt der Vf, einen anſchei-
+nenden Widerſpruch zwiſchen einer Behauptung in
+ſeiner vorhergehenden Schrift und dem, was er hier
+Ä hat, welches wir übergehen. Der dritte
+uſatz enthält Bemerkungen über das Problem der
+Philoſophie, welches nach dem Vf, iſt, alles auf ſeine
+erſten Ä zurückführen; und über das eigentli-
+che Problem der beſondern philoſophiſchen Wiſſen-
+ſchaften, welches ſich darin von dem der Philoſophie
+überhaupt unterſcheide, daſs jede beſondere philo-
+ſophiſche Wiſſenſchaft von einer Vorausſetzung aus-
+gehe, deren Wahrheit ſie als gegeben betrachte. Der
+vierte Zuſatz iſt überſchrieben: Ueber die Conſtru-
+ction logiſcher Begriffe, die emblematiſche Darſtel-
+lung derſelben und die logiſchen Poſtulate. Der Vf.
+erklärt hier die Darſtellungen des Umfangs der Ur-
+theile und die Zeichnungen der Schlüſſe von Lam-
+bert, Ploucquet und Euler durch Linien, Rectangel
+und Kreiſe für keine Conſtructionen; wohl aber die
+Formeln der Urtheile und Schlüſſe, und daſs es lo-
+giſche Poſtulate geben müſſen, deren Segner auch
+drey angegeben hat. Endlich ſchlieſst Hr. P. H. mit
+einém fünften Zuſatz über die zweckmäſsigere An-
+wendung des ſynthetiſchen oder analytiſchen Vor-
+trags, welchen er damit endigt, daſs er ſagt: Aus
+einem noch zu beweiſenden Satze ſchlieſst die Ana-
+l;ſis einen andern Satz; aus eben dieſem andern Sa-
+tze beweiſet alsdann die Syntheſis jenen erſten Satz.
+Dieſer Cirkel ſey nur ſcheinbar: denn die Analyſis
+ſoll keinesweges den Satz, den ſie folgert, darthun,
+ſondern nur zeigen, daſs er eahr ſeyn würde, zeenn
+der zu beueeiſende Satz, von dem die Analyſis aus-
+ging, als wahr gegeben uáre. Da die Wahrheit die-
+fes Satzes indeſſen aus andern Gründen gegeben ſey,
+ſo könne die Syntheſis richtig aus ihm den zu bewei-
+ſenden Satz beweiſen.
+Uebrigens vertraut Rec. dem Hrn. Vf, daſs er alle
+dieſe Bemerkungen über beide Schriften als herge-
+floſſen aus reinen Intereſſe für die Wiſſenſchaft auf-
+nehmen werde: denn ſie ſoien ſo wenig die Achtung
+vermindern, die Rec. dem denkenden und kenntniſs-
+reichen Vf, gewidmet hat, als ſeinem zu feſt ſtehen -
+den Verdienſte um die philoſophiſchen Wiſſenſchaf-
+ten Eintrag thun.

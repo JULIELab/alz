@@ -1,0 +1,114 @@
+191
+
+a priori nach den in den beiden vorhergehenden S$
+entwickelten Regeln entscheiden. Ist z. B.:
+
+F@O= Ara) ran,
+so zeigt der Vf., dass diese Gleichung für jedes
+gilt, so lange 1 >x >—1 ist; aber für x = 1
+muss ® >u >—1 und für 7 = — 1 muss wu zZ 0
+seyn, und der vorhergehende Lehrsatz wird dann
+auch auf mehrere Beispiele angewandt. ‘Der $. 52
+handelt von dem Taylor’schen Lehrsatze für Funclio-
+nen mehrerer Veränderlichen.
+
+In Kapitel 9 behandelt der Vf. den Langrange-
+schen Lehrsatz, welcher sich bekanntlich im All-
+gemeinen damit beschäftigt: wenn zwischen x und
+y eine Gleichung © (x, y) = 0 gegeben ist, so dass
+implicite y=g@ (7) ist, diese Function y, oder noch
+allgemeiner, eine gegebene Function von y, wie
+F(y)=F(9X%)), wo möglich in eine Reihe von
+der Form A+Bx+Cx? +Dx3 + zu... entwickeln.
+Der Vf. untersucht nun zunächst die Bedingungen,
+unter welchen die Lösung dieser Aufgabe überhaupt
+möglich ist und geht dabei von der Gleichung
+y—xf(y)=0 aus. Er findet, dass sich die Meinste
+Wurzel y‘ der Gleichung y—xf(y)=0, d.h. die
+Wurzel, welche mit x zugleich verschwindet, in
+eine Reihe von der Form A+ Br+C6z2 +...
+entwickeln lässt, sobald der Modulus von x klei-
+ner ist, als der von %, wo & den kleinsten
+der Werthe von x bezeichnet, welche den Gleichungen
+y—xf(y)=0, 1—xf y)=0 gleichzeitig genü-
+gen. Die abgeleitete allgemeine Formel wird als-
+dann auf mehrere Beispiele angewandt.
+
+In $. 55 wird das Frühere noch mehr verall-
+gemeinert, indem nicht blos die kleinste Wurzel y'
+der Gleichung y — f(x) y = 0, sondern eine gege-
+bene explicite Function F‘ (y) derselben in eine
+Reihe von der Form A+ Br + Cr? +... ent-
+wickelt wird,
+
+Endlich erhebt sich der Vf. zu noch grösserer
+Allgemeinheit, indem er y=z+y<f(y) setzt.
+
+In $. 56 wird von der Umkehrung der Reihen
+gehandelt. Das 10. Kapitel beschäftigt mit den
+
+nächsten Anwendungen der Differenzialrechnung auf
+
+Geometrie, und zwar handelt $. 57 von den Tangen-
+ten und Normalen ebener Curven, $. 58 von den
+Asymptoten ebener Curven, $. 59 von den Tangen-
+ten und INormalebenen der Curven . von doppelter
+
+A. L. Z. Num., ‚168.
+
+192
+
+Krümmung, und endlich $. 60 von den Page
+lialebenen und Normalen der Flächen.
+
+In der Vorrede, welche erst mit der zweiten
+Lieferung erschienen ist, spricht sich der Vf.. über
+das Wesen der höhern Analysis nochmals im Gan-
+zen ebenso aus, wie in der zweiten Abtheilung der
+Einleitung , indem er ausserdem ganz derselben
+Meinung ist, wie sie Snell in dem ersten Theile
+seiner einige Wochen früher erschienenen Kinlei-
+tung in die Differential- und Integralrechnung aus-
+spricht; nämlich dass die Schwierigkeiten der höhern
+Analysis in logische oder metaphysische und mathe-
+malische unterschieden werden müssen, und der
+Mathematiker als solcher habe sich, wenn er seine
+Sphäre nicht verkennen wolle, um erstere gar nicht
+zu kümmern. Ein Mathematiker aber, der auf die
+philosophischen Grundlagen seiner Wissenschaft
+verzichtet, weil er sie zu Erlangung gewisser Re-
+sultate nicht absolut bedarf, gleicht einem blossen
+Praktiker , der auf die wissenschaftliche Begründung
+mathemathischer Wahrheiten verzichtet , weil er
+nur die Endresultate für seine Praxis nöthig hat.
+Von dem Vf. hätten wir ein solches Urtheil nicht
+erwartet, da er ein Schüler von Fries ist, der die
+begrifflichen Grundlagen der höhern Analysis in
+seiner mathematischen Naturphilosophie „schon vor
+länger als 20 Jahren so treffend und ausführlich
+erörtert hat. Wir sind im Gegentheile der Mei-
+nung, dass philosophische, oder wenn man lieber
+will, begriffliche Erörterungen und Entwickelungen
+bei der Bearbeitung des ın Rede stehenden Gegen-
+standes unvermeidlich sind, wenn es sich um eine
+wirkliche Einsicht in das Wesen desselben und nicht
+blos um ein bewusstloses Erlangen von Resultaten
+handelt. Wie schon früher bemerkt, ist das, was
+der Vf. in der Einleitung über den Zweck und das
+Wesen der höhern Analysis mittheilt, ungenügend.
+Snell hat diese Aufgabe besser gelös’t, wogegen
+das vorliegende Werk in rein analytischer Bezie-
+hung vor dem von Snell entschiedene Vorzüge hat.
+Es ist im Sinne der Cauchy’schen Schule aufgefasst,
+und entspricht den neuen und neuesten Fortschrit-
+ten der analytischen Wissenschaft vollkommen, wie
+jeder Sachkundige schon aus dem ersehen wird,
+was wir von dem Inhalte desselben angeführt haben.
+Wir sehen dem zweiten Theile , welcher die In-
+tegralrechnung enthalten wird, mit Interesse ent-
+gegen. Dr. Schnuse,
+
+JULI 1847,
+
+Gebauersche Buchdruckerei.
+

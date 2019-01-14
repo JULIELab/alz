@@ -1,0 +1,124 @@
+621
+622
+Num. 271. NOVEMBER 181 4.
+verſchieden iſt. Die gerade ſelbſt würde gar keiner
+dergleichen Deformirung fähig ſeyn, weil ſie ſelbſt
+ſchön die kürzeſte zwiſchen 2 Punkten iſt. Darin
+liegt alſo der Grund, daſs die Reichenb. Formel die
+zum Brechen erforderliche Kraft Q deſto gröſser an-
+iebt, je flacher der Bogen iſt, oder je weniger Gra-
+# er bey gegebener Weite enthält. Der Vf, des
+Comment. macht die gegründete Erinnerung gegen
+R's. Darſtellung, daſs ſich nicht geradezu vier gleich-
+zeitige Brüche beym Einbrechen eines Bogens für
+jeden Werth von Sannehmen laſſen, iſt aber doch
+der Meynung (S. 22), daſs man für Bogen von 35-55°
+mit Funk Ä Reichenbachſche Formel beybehalten
+könne. Soviel iſt wenigſtens aus dem gefundenen
+werthe Q== * – klar, daſs ſie für ſehr klei-
+Bogenweite
+ne S nicht gelten Ä Daſs für gröſsere S die For-
+mel der Wahrheit näher kommen werde, iſt gleich-
+falls aus allgemeinen Erfahrungen bekannt; wie ſie
+fich aber der Erfahrung nähere, läſst ſich nicht ent-
+ſcheiden, wenn man nicht etwa Funk's Angaben als
+richtig annehmen will, welche ihre Anwendbarkeit
+für 35° bis 55° geſtatten. Der Vf. des Comm. weiſs
+auch hierüber nichts Näheres zu ſagen. Inzwiſchen
+ſucht er durch eigene Berechnungen die brechende
+Kraft für die verſchiedenen, d. h. für die vier Steilen,
+welche R. als Stellen gleichzeitiger Brüche annimmt,
+welche durch eine aufgelegte Laſt bewirkt würden.
+Die Reſultate fallen mit denen der Rſchen Formel
+genau genug zuſammen. Seine Berechnung des Trag-
+vermögens Q unterſcheidet ſich aber dennoch von
+der R'ſchen dadurch ſehr bedeutend, daſs er für den
+Werth von Q nicht die Summe jener Kräfte, wie K.
+thut, ſondern von dieſen vieren die kleinſte 4mal ge-
+nommen als Werth von Q annimmt, weil man das
+gleichzeitige Brechen an allen 4 Stellen nicht verbür-
+gen kann. Dieſes Verfahren iſt der Sicherheit, wel-
+che man für die Ausübung fordern muſs, vollkom-
+nnen angemeſſen, und ein praktiſcher Ingenieur wür-
+de ſelbſt von der ſo berechneten Tragkraft etwa nur
+# in Rechnung bringen, alſo nur den berechneten
+Widerſtand der ſchwächſten Stelle, welcher dann
+mit der Kºſchen Forderung für die Ausübung (von 's
+des ganzen Q) auf eins hinausläuft. Unſeres Erach-
+tens iſt aber überhaupt die Statik der Bogen in Be-
+zug auf mögliche Brüche hiermit noch nicht vollen-
+det, und es bleiben dem Scharffinne darin noch wich-
+- tige Verbeſſerungen vorbehalten, deren Sicherheit
+aber erſt noch eine Mannichfaltigkeit von Verſuchen
+vorausſetzt, die uns über die Art des Brechens bey
+verſchiedenem Material näher belehren. Dabey kön-
+nen die ſchönen Unterſuchungen von Hn. v. R. und
+vom Vf, gute Dienſte leiſten, und es wäre zu wün-
+fchen, daſs die Arbeit vorzüglich von Erſterem über-
+nommen würde, weil er als groſser Künſtler, vor
+Andern in den Stand geſetzt iſt ſich die zu den hier-
+her gehörigen Verſuchen dienliche Anſtalten ſelbſt
+zu verſchaffen. Der Vf. kommt nunmehr auf die
+Frage, ob die Schwere des Fahrbettes bey Berech-
+nung der Tragbarkeit des Bogens in Betrachtung
+komme? Hn. v. R's. Satz, daſs der Erfolg von dem
+Gewicht des Fahrbettes derſelbe ſey, als ob das ſpe-
+cifiſche Gewicht der Bogenmaſſe um ſo viel gröſser
+wäre, behält dabey ſeine vollkommene Richtigkeit,
+in ſofern das Gewicht des Fahrbettes ſo gut als gleich-
+förmig vertheilt iſt. Aber daraus läſst ſich nichts
+für die Unſchädlichkeit des Fahrbettes folgern. Der
+Vf. dieſes Comm. läſst ſich in keine tiefe Kritik dieſes
+Ä ein; er ſagt nur (S. 29.), was ihm wahr
+zu feyn ſcheine, und hiernach wäre in den gewöhnli-
+chen Fällen der Ausübung von der Schädlichkeit
+des Fahrbettes wenig zu fürchten. Inzwiſchen fehlt
+hier noch ſehr viel zu einer allgemeinen und gründ-
+lichen Behandlung dieſes Gegenſtandes. Denn für
+ungewölbte horizontale Bogen erhellet der groſse
+Nachtheil vom Gewicht des Fahrbettes von ſelbſt,
+weil da keine entgegengeſetzten Formänderungen,
+die durch entgegenwirkende Preſſungen aufgehoben
+würden, Statt finden. Es müſste alſo gezeigt wer-
+den, in welchem Verhältniſſe dieſe Schädlichkeit mit
+zunehmender Wölbung abnehme. Ueberdieſser-
+hält ein auch in allen Punkten gleichförmig gedruck-
+ter Bogen nothwendig ein Streben, ſich nach beiden
+Enden auszudehnen; das Gewicht des Fahrbettes
+wird alſo für die äuſseren Widerlager allemal mach-
+theilig, und in dieſer Hinſicht auch für den Bogen
+ſelbſt, weil ein ſehr geringes Ausweichen der Wider-
+lager ſchon eine bedeutende Formänderung des Bogens
+zur Folge haben kann. Ob die vorgeſchlagene Wie-
+bekingſche Brücke, auf die Länge von 305 gepflaſtert,
+ihre eigne Laſt zu tragen vermögend wäre? Der Vf.
+fertigt (S. 29) einen Rec, der Wiebeking'ſchen Schrift,
+welcher jene Frage mit Nein beantwortet, kurz da-
+mit ab, daſs jener Rec. fich in keinen Beweis ſeines
+Ausſpruchs eingelaſſen habe. Wir nehmen indeſſen
+keinen Anſtand, die Frage gleichfalls zu verneinen,
+das heiſst, um uns eines Ausſpruchs zu bedienen,
+den ſich der Vf. des Comm. (S. 29.) ſelbſt erlaubt: es
+ſcheint uns wahr zu ſeyn, daſs die Behauptung jenes
+Rec. deſto gegründeter iſt, je weniger uns hinlängli-
+che Data aus der Erfahrung in den Stand ſetzen, die
+Haltbarkeit der Brücke als ausgemacht beweiſen zu
+können; wo aber folche nicht bewieſen werden kann,
+dürfen wir die Erbauung nicht wagen. Betrachten
+wir aber überdieſs die wirklichen Erfolge bey eini-
+gen bey weitem nicht ſo weit geſprengten, auf man-
+nichfaltige Weiſe recht zweckmäſsig verſpannten höl-
+zernen Bogenbrücken, und erwägen, daſs nach Ey-
+telwein (Stat. II. B. S. 262.) die abſolute Feſtigkeit des
+Eiſens nur 3 mal ſo groſs, als die des Forlenholzes
+iſt, ſo ſcheint uns die Behauptung jenes Rec. keines-
+weges ſo willkürlich, als dem Vf. dieſes Comm.
+Was übrigens das ſo hinterliſtig, wie der Vf, es nennt,
+von Neuburg vor den letzten Truppenmärſchen ver-
+breitete Gerücht betrifft, als ſey die dortige Brücke
+die ſchweren Artillerietrains nicht zu tragen im Stan-
+de, ſo habe, ſagt der Vf,, jener Rec. dieſes Gerücht
+ohne die Aufklärung mitgetheilt, daſs dieſes von
+Neuburg und der umliegenden Gegend, in der Hoff-
+nung, dadurch den Truppenzug von ſich abzuhalten,
+VOY-

@@ -1,0 +1,139 @@
+171
+
+D" log (a@a+e"”), $21 besondere Transformationen
+in / 1
+
+für Dr (a+e7)“" und D"(a+e")«, D" (re)
+$ 22 Ableitung von D" (ra) und
+
+DD” (ee) $. 23 höhere Differentialquo-
+tienten der "Tangente, Cotangente, Secante und
+Cosecante , $ 24 independente Bestimmung von
+D" f (log x) und D" (log x)“ Kapitel 5 handelt
+von einigen höchst wichtigen Relationen zwischen
+verschiedenen Functionen und ihren höhern Differen-
+zialquotienten, und zwar $ 26 von Beziehungen
+zwischen einer Function und ihrer ersten Ableitung,
+wobei der Verfasser bemerkt: dass in dieser Re-
+gion der Wissenschaft weniger die Kunst, als die
+Metaphysik (?*) des höhern Calculs hervortrete. —
+Es ist ja aber von Metaphysik dieses Calculs , d. h.
+von der Beleuchtung und Erörterung der Schwie-
+rigkeiten und Wiedersprüche in den Grundbegriffen
+der in Rede stehenden Wissenschaft bei ihm gar
+keine Rede! — Zunächst bringt der Verfasser die
+beiden obigen Gleichungen (1) und (2) wieder in
+Erinnerung.
+
+Aus der Gleichung (2) ergibt sich sofort, we-
+gen f(x)= F' (x) wenn man für x successive die
+Werthe a, a+0, a+20, ... a+(n—1)0 setzt und
+die erhaltenen Resultate addirt: ;
+
+(3) F(a+h) — F(a) =
+I=o T[F'(a)+F'(a+d0)+F'(a +20)
+lim . 0 [ + +... +F'(a+ (n—1) d) )
+
+Wo b=a+h und d=— ist.
+
+Es wird hierauf gezeigt: dass eine beliebige
+Function in einem gegebenen Intervalle stets zu-
+oder abnimmt, jenach die Ableitung derselben in
+diesem Intervalle stets positiv, oder stets nega-
+Ziv ist.
+
+Endlich wird am Schlusse der ersten Abthei-
+lung noch ein von Cauchy herrührender höchst
+wichtiger Lehrsatz bewiesen, woraus sich die
+Gleichung:
+
+hr
+p(a+h) = p(a)+ 1.2.3
+ergibt, und für a=0:
+hr
+EB
+
+ 
+
+gO (a+0O,h). (4)
+
+...n
+
+ 
+
+Dieser höchst wichtige Lehrsatz bildet die
+Grundlage fast aller Anwendungen der Differenzial-
+
+ALLG. LITERATUR - ZEITUNG
+
+172
+
+rechnung, wovon der Verfasser nun in der zweiten
+Abtheilung seines besonders in calculatorischer Hin-
+sicht vortrefflichen Werkes handelt. Den Beweis
+des fraglichen Lehrsatzes hat der Verfasser jedoch
+nicht nach Cauchy, sondern nach Duhamel ge-
+geben. —
+
+Die zweite Abtheilung des vorliegenden ersten
+Theiles beschäftigt sich mit den Anwendungen der
+Differenzialrechnung. Das 6. Kapitel handelt von
+den unbestimmt scheinenden Werthen mancher Fun-
+
+clionen, und zwar wird in $. 28 zunächst von den
+Oo
+
+Symbolen 3 und zz gehandelt, unter welchen un-
+P (x)
+V ww (7)
+erscheint, wenn die Functionen @ (x), w(x) für
+
+einen besondern Werth x = a verschwinden, oder
+unendlich werden. Zur Bestimmung des wahren
+Werthes von Q geht der Verfasser von der kurz
+
+ 
+
+bestimmten Formen eine gebrochene Function
+
+vorher abgeleiteten Gleichung:
+
+ 
+
+3 + h) _ P’‘@+0M («)
+U @ + DB ‘m +09
+aus, welche für x = a@ und h= 0 übergeht in:
+pa) __ 0° _ pm
+(a) 0... War
+
+bemerkt aber dann mit Recht, dass man denselben
+Zweck auch unabhängig von der Gleichung («) er-
+reichen könne, [ f
+
+Die übrigen unbestimmten Formen &, 0. x,
+
+u. s. W. werden alsdann auf & zurückgeführt. —
+Diese ebenso einfache, als directe und gründliche
+Behandlung des fraglichen Gegenstandes rührt eben-
+falls von Cauchy her. UVebrigens ist der Verfasser
+sehr im Irrthum, wenn er behauptet: dass sich in
+jedem speciellen Falle der wahre Werth unbestimm-
+ter Formen mit Hülfe der Differenzialrechnung be-
+stimmen lasse; denn wenn @ (a) = p’ (a) = p“ (a)
+(ee {iS und w (a) = ww‘ (a) = w" («)
+=w“(a)...= 0, oder g(a) =0, y(a) =0
+und @’(@) = ®, w’(a)= x würden, so wären
+die obigen Regeln nicht mehr anwendbar, und man
+müsste zu besondern Methoden seine Zuflucht neh-
+men. Auch hätten wir hier mindestens noch die
+Betrachtung des Falles erwartet, wo ‚eine Function
+
+x, y)
+fe Da
+durch eine Gleichung © (x, y) = 0 verbundener
+Veränderlichen x, y für die besondern Werthe x = @,
+
+yYy = 6 unter der unbestimmten Form 2 erscheint.
+
+zweier völlig unabhängigen, oder
+

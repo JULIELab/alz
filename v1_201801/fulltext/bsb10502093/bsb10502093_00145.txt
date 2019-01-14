@@ -1,0 +1,124 @@
+277
+278
+Num. 3s. MÄRZ 182 s.
+und für Militär- und Baugewerkſchulen, be-
+arbeitet von Karl Friedrich Traugote Härtell,
+Königl. Oberlehrer der Mathematik und Phy
+fik am Gymnaſium zu Marienwerder. 1821. VI
+und 263 S. 8. Mit einer Formeltafel und 7o
+eingedruckten Holzſchnitten. (1 Thlr.)
+Der Vf. „ fand unter allen ihm bekannten Lehrbü-
+chern auch nicht ein einziges, das nach ſeiner Meinung
+das wahre Weſen der Trigonometrie recht faſslich
+zum erſten Unterrieht dargeſtellt hätte." Er hielt
+daher für nöthig, vorliegendes Lehrbuch auszuar-
+beiten. Ein lobenswerthes Streben nach Populari-
+tät iſt darin nicht zu verkennen. Seine Methode
+unterſcheidet ſich von andern vorzüglich dadurch,
+daſs er ſtets vom Beſondern zum Allgemeinen über-
+geht; daher fein Vortrag alle Vorzüge und Mängel
+an ſich trägt, welche mit dieſer Methode gewöhn-
+lich verknüpft ſind; dahin gehört z. B. die anziehen-
+dere Darſtellung, aber auch die minder ſyſtemati-
+ſche Anordnung, wodurch dann eben bewirkt wird,
+daſs ſich das Ganze ſchwerer überſehen läſst, und
+daſs Weitſchweifigkeit und Wiederholungen oft nicht
+vermieden werden können. Obgleich demnach Rec.
+ſchwerlich je nach dieſem Lehrbuche unterrichten
+würde, fo muſs er doch dem Vf. die Gerechtigkeit
+widerfahren laſſen, daſs ſein Buch origineller iſt,
+als viele neue Lehrbücher ähnlichen Inhalts, und
+dafs, nach demſelben zu urtheilen, der Vf. ein ge-
+ſchickter Lehrer, wenn auch kein ausgezeichneter
+mathematiſcher Schriftſteller iſt. Folgendes iſt eine
+Ueberſicht des Inhaltes.
+Erſter Abſchnitt. Hr. H. geht feiner Methode
+gemäſs, vom rechtwinkligen Dreyeck aus, und
+erklärt daran die goniometriſchen Linien. Rec.
+hat gegen dieſs Verfahren ſich ſchon in dieſer
+A. L. Z. ausgeſprochen. – 2ter Abſchn. Von den
+trigonometriſchen Tafeln. Hier wird vom Gebrau-
+che ſolcher Tafeln geſprochen, ohne daſs gezeigt
+worden wäre, wie dieſelben verfertigt werden kön-
+nen, welches offenbar unſyſtematiſch ift. – 3ter
+Abſchn. Von der Berechnung des rechtwinkligen
+Dreyecks durch die natürlichen und künftlichen
+Sinuſe und Tangenten. – 4ter Abſchn. Von der
+Berechnung des ſchiefwinkligen Dreyecks, wenn
+die gegebenen Stücke den erſten Congruenz-
+fall ausſprechen. – Der Beweis für den Satz
+„fin A : fn B = a : b wird hier durch Umſchrei-
+bung eines Kreiſes um das Dreyeck geführt, ge:
+en welche Beweisart ſich Rec. auch ſchon in die-
+er A. L. Z. geäuſsert hat. Daſs zwey Seiten und
+der der einen gegenüber liegende Äj nur dann
+zur Auflöſung eines Dreyecks taugen ſollen, wenn
+die dem Winkel gegenüber liegende Seite die grö.
+ſsere von den beiden gegebenen iſt (§. 37.), iſt zu
+viel behauptet. – 5ee: Abföhn. Von der Entwicke-
+lung derjenigen Formeln, die zur Berechnung der
+natürlichen Sioustafeln nöthig waren. Die ange-
+ebenen Formeln ſind nicht allgemein genug bewie.
+en, wie ſie doch ſo leicht bewieſen werden kön-
+nen und werden müffen, wenn man fich ihrerin
+der Analvßs bedienen will. – Die von Hrn. H.
+und von Mehrern angenommene Ableitung des Wor-
+tes fnus aus Zuſammenziehung der Abbreviatur /ins-
+(ſemiſſis Ä möchte ſehwerlich richtig ſeyn,
+da viel wahrſcheinlicher der Name wie die Sache
+uns von den Arabern zugekommen und erſterer eine
+wörtliche Ueberſetzung des arabiſchen Kunſtworts
+5 c / .
+- iſt.
+"Sphäriſche Trigonomeerte. Erſter Ab-
+ſchnitt. Erklärungen. – Die allgemeinen Eigen-
+ſchaften ſphäriſcher Dreyecke werden hier Ä.
+ben. Unrichtig iſt es, wenn der Vf. (S. 98.) ſagt:
+die zur Auflöſung eines ſphäriſchen Dreyecks gege-
+benen Stücke müſsten ſo beſchaffen ſeyn, daſs die
+daraus conſtruirten Dreyecke congruent ſeyen. Dieſe
+Stücke können bekanntlich auch von der Art ſeyn »
+daſs die daraus zu bildenden Dreyecke bloſs ſymme-
+trifch oder auch ſelbſt (in den zweydeutigen Fällen)
+nicht einmal dieſs ſind. Freylich ſchlieſst Hr. H.,
+wie man hinterher fieht, die zweydeutigen Fälle von
+feinem Vortrage ganz aus. Auch zeigt ſich (S. 106
+und 107. und nachher wiederholentlich) deutlich»
+dafs der Vf. in dem Irrthume befangen iſt, zwey
+ſphäriſche Dreyecke ſeyen ſtets congruent, wenn
+die drey Seiten des einen denen des andern, jede
+für ſich gleich ſind. Er ſucht dieſs durch die Con-
+gruenz der Sehnen - Dreyecke zu beweiſen, ein Be-
+weis, der aber unſtatthaft iſt, da die Sehnen-Drey-
+ecke ſich umgewendet auf einander legen laſſen, wel-
+ches bey den Kugel - Dreyecken nicht angeht. Den
+bekannten Satz, daſs die Winkel eines ſphäriſchen
+Dreyecks gröſser als 2, aber kleiner als 6 Rechte
+ſind, leitet der Vf. aus der gleich Anfangs von ihm
+bewieſenen Formel für den Inhalt eines ſphäriſchen
+Dreyecks ab. Er kommt dann auf die Conſtruction
+des Supplementär - Dreyecks (wo es aber nach ſei-
+ner Darſtellungsweiſe ſcheint, als liefse ſich nur für
+ein Dreyeck, an dem jede Seite kleiner als 90° iſt,
+das Supplementar - Dreyeck conſtruiren), und fol-
+gert, daſs ein ſphäriſches Dreyeck beſtimmt werde;
+1) durch drey gegebene Seiten; 2) durch drey gege-
+bene Winkel und 3) durch zwey Seiten und den ein-
+geſchloſſenen Winkel, wo wenigſtens, wenn die zwey-
+deutigen Fälle nicht mit zu den beſtimmten gezählt
+werden ſollen, der Fall 4) durch eine Seite und
+zwey daran liegende Winkel, nicht übergangen wer-
+den durfte. Bey der nun folgenden ſpeciellen Be-
+trachtung der rechtwinkligen fphäriſchen Dreyecke
+(§ 11 u. folgende) hat der Vf. auſser Acht gelaſſen,
+daſs ein rechtwinkliges ſphäriſches Breyeck auch
+einen oder fogar zwey ſtumpfe Winkel und Seiten,
+die mehr als 90“ betragen, Ä kann, daher ſei-
+ne Beweiſe der bekannten Relationen zwiſchen den
+goniometriſchen Functionen der Seiten und Winkel
+eines rechtwinkligen ſphäriſchen Dreyeckes unvoll-
+ſtändig ſind. – 2eer Abſchn. Anwendung der bis-
+her entwickelten Formeln auf Rechenfälle der ſphä-
+riſchen Aſtronomie-– Rec. findet hier rnanche
+klei-
+Y

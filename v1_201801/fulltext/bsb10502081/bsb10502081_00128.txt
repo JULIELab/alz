@@ -1,0 +1,96 @@
+247 ERGÄNZUNGSBLÄTTER Num. 31. MÄRZ 182 o. 248
+daſs man, wenn Nenner und Zähler einer Function
+von x, für einen beſondern Werth der Veränderli-.
+chen, gleichzeitig = o werden, die Derivirten bis
+zu demjenigen Grade ſuchen muſs, wo unter der
+nämlichen Vorausſetzung ein beſtimmter Werther-:
+halten wird, an einem Beyſpiele ausführer. Die
+Gleichung (y –x)* = (x – a)* (x – b) giebt:
+A - 2 (x - a) . (x - b) + (x - a)* .
+y = 1 + 2 (y – x)
+und für x = a = y, y“ = -#-. Man muſs alſo
+die Seconde ſuchen; und eine zweyte Differentia-
+tion giebt die Gleichung: -
+2 (y–x)y“ + 2 (y“– 1)* = 4 (x – a) + 2 (x –b).
+oder, für die nämliche Vorausſetzung:
+(y“ – 1)* = a – b und y“ = 1 + Ya – b.
+2. Dieſe Analyſe", ſagt der Vf. zum Schluſſe des
+Kapitels, „iſt nothwendig, um über die Natur der
+derivirten Functionen keine Zweifel übrig zu laſſen,
+ohne übrigens einen Einfluſs auf die Allgemeinheit
+der vorgetragenen Theorie zu haben, welche von
+particularen Werthen abſieht." Und in der That
+werden ſich die Leſer bey einigem Nachdenken
+leicht überzeugen, daſs jene ſpeciellen Erörterun-
+gen keinen Einfluſs auf die Geſtalt der allgemeinen
+Antwort haben können, welche die Analyſis zu er-
+theilen hat, wenn man ihr die Frage nach der Ent-
+wickelungsform von f(x +i), ohne jene Einſchrän-
+kungen vorlegt. – Die 9te Vorleſung commentirt
+das 6te Kapitel der Theorie, daher wir die Leſer
+in der Hauptſache auf den entſprechenden Abſchnitt
+unſerer Anzeige letzteren Werkes verweiſen; und
+unſerm Plane getreu hier nur dasjenige hinzufügen,
+was zur Ergänzung derſelben dienen kann. Die aus
+Entwickelungen von f(x + ) entſpringende Reihe
+bricht nur in denjenigen Fällen ab, da fx eine ra-
+tionale und ganze Function von x iſt; und geht in
+allen andern Fällen in's Unendliche fort. Dieſs iſt
+leichgültig, ſo lange dieſe Entwickelung nur die
+Ä der Form der derivirten Functionen zum
+Zwecke hat, oder nur als eine analytiſche Trans-
+formation benutzt wird: wogegen es, in einzelnen
+und beſtimmten Fällen, und wo nur eine gröſsere
+oder geringere Zahl von Gliedern der Reihe entwi-
+ckelt worden iſt, allerdings ſehr darauf ankommen
+kann, die Grenzen des Irrthums anzugeben; in wel-
+chen man durch Vernachläſſigung des Reſtes verfällt.
+Dieſs führt den Vf. auf das, in der Anzeige der
+Théorie p. dargeſtellte Theorem, welches hier mit
+gröſserer Ausführlichkeit und mit Rückblicken auf
+die Mangelhaftigkeit der Anſichten des Infiniteſi-
+mal - Calculs entwickelt wird. Dieſes Theorem
+nun, ſammt den damit in Verbindung ſtehenden
+Sätzen: 1) daſs man dem i, in der Entwickelun
+von f (x + i), jederzeit einen ſo kleinen Ä
+belegen könne, daſs jedes beliebige Glied der Reihe
+gröſser ausfalle, als die Summe aller folgenden Glie-
+der; und 2) daſs, wenn die m erſten Glieder der
+Entwickelung von f (x + i), im Betrage den mer-
+ſten Gliedern von f(x +i) gleich ſind, man durch
+hinreichende Verkleinerung von i jederzeit bewir-
+ken könne, daſs keine dritte Function (0 (x + i)
+zwiſchen jene beiden erſten falle, wofern nicht ihre
+m erſten Glieder gleichergeſtalt mit jenen erſteren
+zuſammenfallen: dieſe drey Sätze nun, ſagen wir,
+ſind die Grundlage der Anwendung von der Fun-
+ctionen-Theorie, auf alle diejenigen geometriſchen
+und mechaniſchen Probleme, zu deren Löſung man
+ſich ſonſt des Infiniteſimal-Calcul's, mit der ganzen
+Unvollkommenheit ſeiner, Eingangs dargeſtellten
+Anſichten bedient hat. – Zum Schluſſe des Ab-
+ſchnitts macht der Vf. Anwendung auf die Theorie
+des Krümmungshalbmeſſers, und zum Beweiſe des
+Satzes, daſs, wenn der Raum in Function der Zeit
+gegeben iſt, die Ä durch die Prime
+dargeſtellt werde (was die Differential - Rechnung
+ſymboliſch durch ihr ds =ydt, aurdrückt);, Ge-
+enſtände, über welche ſich die Theorie p. und un-
+Ä Anzeige derſelben ausführlich verbreiten.
+(Die Fortſetzung /os ..?
+STAATSWISSENSCHAFTEN.
+ERLANGEN: Charakteriſtik der Gefängniſſe von
+Dr. J. P. Harl, Profeſſor der Kameralwiſſen-
+ſchaften zu-Erlangen u. f. w. Aus dem zueey-
+ten Bde. ſeines allgemeinen Repertoriums be-
+ſonders abgedruckt. 19 S. 8.
+Dieſer Abdruck dient zugleich zu einer Probe
+der angekündigten 2ten Auflage des allgemeinen
+Repertoriums, deſſen Nützlichkeit ſich durch den
+ſchnellen Abſatz der 1ſten Auflage hinlänglich be-
+währt hat. Die Ä Abhandlung be-
+ſchreibt das Gefängniſshaus von Philadelphia, die
+Strafanſtalten in München und Linz, und giebt von
+der zu St. Petersburg errichteten Geſellſchaft zur
+Äsierung des Zuſtandes der Gefangenen Nach-
+richt.

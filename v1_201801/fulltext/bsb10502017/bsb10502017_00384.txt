@@ -1,0 +1,122 @@
+499
+5OO
+ALL G. LITERATUR - ZEITUNG
+Hin und wieder ſcheint dieſes überhaupt ſehr
+brauchhare Buch noch einiger Berichtigungen zu be-
+dürfen. - Der Beweis des Satzes (S. 8.), daſs die Ge-
+ſchwindigkeit des aus einem immer voll erhaltenen
+prismatiſchen Gefäſse durch eine kleine Oeffnung aus-
+flieſsenden Waſſers der Höhe des Waſſers zugehöre,
+Ihat gar keine Bündigkeit. Es iſt eine willkürliche
+Annahme, daſs die beſchleunigende Kraft in dem
+ausflieſsenden Waſſer ſich zu der Schwerkraft verhal-
+te, wie die Höhe des Waſſers zu der Länge, der ausge-
+laufenen Waſſerprisma; und wenn auch dieſes zuge-
+geben wird, ſo ſind ja die in derſelben Zeit durch
+beide Kräfte erzeugten Geſchwindigkeiten nicht die-
+ſelben, wie in der Rechnung angenommen wird.
+Ohne Integralrechnung kann man hier nicht fertig
+werden, und es iſt beſſer, in einem elementariſchen
+Werke Sätze hiſtoriſch anführen, und ſie durch Er-
+fahrungen erläutern, als unvollkommene Beweiſe,
+die nur verwirren, geben. Auch die Anmerkung
+H. 9. welche erklären ſoll, wie bey, einer Oeffnung
+von einer endlichen Gröſse noch daſſelbe gelte, was
+in jenem Beweiſe für eine unendlich kleine darge-
+than ſeyn ſoll, bedarf einer Berichtigung. Wenn
+alle Tropfen ſenkrecht zu der Oeffnung herabſänken,
+ſo möchte es einerley ſeyn, ob ſie erſt in der Oeff-
+nung ihre ganze Geſchwindigkeit erhielten, oder
+zum Theil ſchon in dem Gefäſse. Allein auf die Sei-
+tenbewegung wird Kraft angewandt, die der, nach
+verticaler Richtung nicht zu gute kommt. Das iſt die
+Haupturſache der Abweichung der Erfahrung von
+der Theorie, welche die Seitenbewegung der Rech-
+1nung nicht unterwerfen kann. Die Adhäſion des
+Waſſers an den Rand der Oeffnung oder an die Wand
+der Ausfluſsröhre, welcher der Vf, einen beträchtli-
+chen Einfluſs auf die Verminderung der Geſchwindig-
+keit zuſchreibt, möchte nur wenig dazu beytragen,
+da die Waſſertheilchen eine unabhängige Beweglich-
+keit haben. Man könnte ſie als eine Reibung an den
+Ungleichheiten der Röhre betrachten, welche der Vf.
+für unbedeutend hält. Die Adhäſion oder die anzie-
+hende Kraft der Röhrenwände ſieht der Vf, als eine
+der vorzüglichſten Urſachen der Verzögerung des
+Waſſers in Röhrenleitungen an. Sie mag ein weni-
+ges dazu beytragen, allein offenbar rührt der Unter-
+ſchied der wirklichen Geſchwindigkeit und der zu
+der Druckhöhe gehörigen von der Meſſe des beweg-
+ten Waſſers her, auf eine ähnliche Art wie die Ver-
+zögerung eines fallenden Gewichts, das ein anderes
+in die Höhe ziehen muſs. – Ueber die Höhe des
+aus einer langen horizontalen Röhre durch Oeffnun-
+gen auf derſelben hervorſpringenden Waſſers, in dem
+zugleich Waſſer aus der Röhre läuft, hat Hr. S. Ver-
+ſuche angeſtellt. Er findet, daſs die Langsdorfiſche
+Berechnungsart den Druck auf die verſchiedenen
+Stellen einer Röhrenleitung ungleich genauer dar-
+ſtellt als die gewöhnliche Theorie, welche ihn auf
+alle Stellen einer wagrechten Röhrenleitung gleich
+Ä macht. Von welchen Verfaſſern hat Hr. S. die
+ier als die gewöhnliche angegebene Theorie genom-
+men? Wer die Fundamentalforumel der Hydraulik
+kennt, wird dergleichen nicht behaupten. – Die
+Formel S. I 32. welche die zur vorteilhafteſten Ge-
+ſchwindigkeit gehörige beſchleunigende Kraft bey der
+Ueberwucht beſtimmen ſoll, bezieht ſich nicht auf
+die vortheilafteſte , ſendern iſt ganz allgemein. –
+Einer Kurbel kann man kein Beharrungsvermögen
+zuſchreiben, das von irgend einer Bedeutung wäre,
+wie S. 133. geſchieht. – Das mechaniſche FMoment
+wird S.139. und mehrmals in Pfunden angegeben;
+es iſt eine bloſse Proportionalgröſse. – Der Carte-
+fiſche Grundſatz Ader Bewegung möchte bey der Be-
+rechnung der Reibung zwiſchen Zahn und Getriebe
+nicht anwendbar ſeyn. Es ſind hier auch Rechnungs-
+fehler begangen, die ſich aufheben. – Es wird
+S. 162. richtig bemerkt, daſs die gemeine Theorie
+den unterſchlächtigen Rädern zu wenige Schaufeln
+giebt, allein die Vorſchrift, welche der Vf, für die
+Anordnung der Schaufeln mittheilt, iſt nndeutlich
+und nicht befriedigend. Die leichtefte und ſicherſte
+Regel möchte ſeyn, die Schaufeln ſo nahe an einan-
+der zu legen, daſs das auffallende Waſſer nirgends
+einen Durchweg finde. Nur wo ein ganzer Strom
+ohne Schütz auf das Rad fällt, wird man ſie weiter
+auseinander zu ſetzen haben. – Als vortheilhaft
+wird es S. 187. angegeben, daſs mehrere Zähne des
+Getriebes (Triebſtecken) zugleich in das Rad eingrei-
+fen. Das kann aber leicht Kleinnung verurſachen,
+– Ob die Formeln zur Berechnung der Saug- und
+Druckwerke für die Praxis hinlängliche Genauigkeit
+haben, hat Rec. nicht unterſucht. – Von den Zu-
+bringern bey Feuerſpritzen ſcheint Hr. S. nicht die
+rechte Vorſtellung zu haben. Er verſteht darunter
+ein Saugwerk, das mit dem Druckwerk in den Ka-
+ſten der Spritze verbunden iſt. Dieſe ſind freylich
+nicht anzurathen. Aber die abgeſonderten Zubrin-
+ger, als Saugpumpen, welche das Waſſer aus einem
+Kanal oder Behälter pumpen, und durch Leitſchlan-
+gen es der Druckſpritze beym Feuer zuführen, ſind
+ſehr nützlich, daher in Hamburg jede Feuerſpritze
+ihren eigenen Zubringer hat. Man findet einen ſol-
+chen Zubringer in Karſtens Lehrbegriff Th. V. 22.Ab-
+fchnitt beſchrieben und Taf. VIII. abgebildet.
+GöTTINGEN, b. Vandenhöck und Ruprecht: An-
+fangsgründe der Analyſis des Unendlichen. Von
+Abr. Gotth. Käſtner. Der mathem. Anfangsgr.
+IIIter Th. zweyte Abth. dritte, ſtark vermehrte
+Auflage. 1799. XXXVI. und 876 S. 5 Kupf. (z
+Rthlr. 12 gr.
+Die zweyte Auflage, welche 1770 herauskam, war
+612 S. ſtark. Die Anwendung der Integralrechnung
+auf die Kepleriſche Theorie, am Ende der erſten bei-
+den Ausgaben, 2o S. lang, iſt dabey noch wegge-
+laſſen. Dagegen ſind die dahin gehörigen analyti-
+ſchen Lehren, abgekürzt und verändert, mit Anzei-
+ge ihrer Beziehung auf die Aftronomie, in die Mitte
+des Buchs gebracht, wo auch die Rectificationen der
+Kegelſchnitte beygefügt ſind. Die wichtigſten Zu-
+ſätze iB dieſer neuen Auflage ſind: Nachrichten zur
+- - - Ge-

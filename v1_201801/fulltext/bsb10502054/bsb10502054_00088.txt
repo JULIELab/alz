@@ -1,0 +1,122 @@
+I55 ALLG. LITERATUR - zEITUNG I56
+het auf einer kleinern Zahl Gröſsenverhältniſſe im
+weiteſten Sinne, die, wenigſtens unter gewiſſen Be-
+dingungen, gegenſeitig aus einander folgen. Solchen
+ähnliche Grundverhältniſſe möchten die Gegenſtände
+anderer Wiſſenſchaften zu wenig darbieten, als daſs
+darauf ein Calcul für ſie gegründet werden könnte.
+Noch weniger Hoffnung möchte vorhanden ſeyn, ei-
+nen allgemeinen Calcul zu erfinden, weil zum Behufe
+deſſelben alle Grundverhältniſſe, und die Bedingun-
+en, unter welchen ſie gegenſeitig von einander ab-
+ängen, aufgefunden ſeyn müſsten. Die Combina-
+tionslehre an ſich führt auf nichts weiter, als alle
+Combinationen, die ein Inbegriff von Dingen giebt,
+wenn jedes derſelben mit jedem andern und jeder aus
+den übrigen dieſer Dinge genommenen Combination
+vereinbar iſt, zu finden, indem die Möglichkeit,
+gewiſſe Zeichenelemente mit einander zu verbinden,
+noch nichts für die Möglichkeit der Verbindung der
+dadurch bezeichneten öÄ beweiſet. Dieſes wä-
+re, im Vorbeygehen, der allgemeinere Calcul, auf
+welchen die Combinationslehre an ſich führt. Daſs
+dem Vf. es keineswegs unbekannt ſey, daſs die Mög-
+lichkeit, gewiſſe Zeichenelemente auf eine beſtimmte
+Art. zu verbinden, nichts für die Möglichkeit der
+durch dieſe Verbindungen bezeichneten Begriffe be-
+weiſe, ſondern daſs er dieſes vielmehr vorausſetzt,
+laubt Rec. kaum bemerken zu dürfen. Allein dieſs
+Ä doch den Nutzen der combinatoriſchen
+Zeichenkunſt zu ſehr, als daſs es bey der Würdigun
+derſelben nicht in Betrachtung kommen ſollte. Doc
+wenn man auch von der Möglichkeit aller Fälle, die
+man nach der cÄ gefunden hat, ge-
+wiſs iſt: ſo iſt die logiſche Benutzung derſelben,
+wenn Rec. es ſo nennen ſoll, noch einer, von dem
+Vf. wohl nicht hinlänglich gewürdigten Schwierig-
+heit unterworfen. Was die Ä der Combi-
+nationslehre unmittelbar giebt, ſtellt ſie uns nämlich
+zunächſt ſymboliſch, nicht intuitiv dar, und zwar in
+Zeichen, die nur für den gegenwärtigen Fall ge-
+wählt und daher nicht ſo geeignet ſind, uns ihre Be-
+deutung zu vergegenwärtigen, als die gewöhnlichen
+Zeichen. Daher wird, wo es darauf ankommt,
+mehrere Fälle mit einander zu vergleichen, beſonders
+wenn derſelben eine bedeutende Zahl iſt, zu geſchwei-
+gen, daſs alsdann die Darſtellung derſelben durch
+die Combinationskunſt ſchon ein ausgedehntes Ge-
+ſchäft iſt, die unmittelbare Anwendung dieſer Kunſt
+zur Auflöſung einer Aufgabe, wobey es darauf an-
+käme, eine gröſsere Anzahl von Fällen zu überſehen,
+wohl weniger leiſten, als der Vf., der übrigens ihre
+Anwendung auch nicht uneingeſchränkt empfiehlt,
+von ihr hofft. Dennoch hält Ä dieſe Kunſt und
+ihre öftere Uebung, insbeſondere auch zu dem ange-
+ebenen Behufe, für ſehr nützlich, indem der Ver-
+Ä dadurch eine combinatoriſche Fertigkeit ge-
+winnt, die meiſtens in einem vorgegebenen Falle
+ſchneller zum Ziele führt, als die unmittelbare An-
+wendung der combinatoriſchen Regeln auf denſelben,
+Der Verſtand wird nämlich, wenn. er zu jener Fer-
+tigkeit gelangt iſt, die Objecte, auf welche es in ei-
+nem ſolchen Falle ankommt, in den Zeichen, durch
+welche er ſie ſonſt zu decken gewohnt iſt, ohne dieſe
+erſt mit Buchſtaben, Ziffern oder andern Zeichen,
+deren die combinatoriſche Bezeichnung ſich als ihrer
+Elementarzeichen bedienen mag, zu vertauſchen, ſich
+vergegenwärtigen, und daher alle Fälle, auf welche
+es nicht ankommt, ſchneller bey Seite ſetzen, ſo wie
+die von der entgegengeſetzten Art ausheben, und
+alles, was dabey näher zu erwägen iſt, gehörig in
+Betrachtung ziehen können. Um nicht zu weitläuf-
+tig über diefen Punkt zu werden, glaubt Rec. jene
+combinatoriſche Fertigkeit mit der Fertigkeit des
+Kopfrechners, da beide denjenigen, die in dem Be-
+ſitze derſelben ſind, ähnliche Vortheile gewähren,
+vergleichen zu dürfen. Der Kopfrechner nämlich
+abſtrahirt ſich bald manche Rechnungsvortheile, und
+benutzt ſie, wo davon Gebrauch zu machen iſt, oft
+ſchneller, als der geübteſte Rechner mit der Feder,
+weil er auf die Eigenthümlichkeiten der zu berech-
+nenden Fälle zu merken gewohnt iſt. So wird auch
+derjenige, der ſich jene combinatoriſche Fertigkeit
+erworben, jeden Fall, der ihm vorkommt, nach der
+ihm eigenthümlichen Beſchaffenheit leichter auffaſ-
+ſen, und dadurch in der Behandlung deſſelben unter-
+ſtützt werden. Beide Fertigkeiten, die des Kopf-
+rechners und die combinatoriſche, wenn dieſe letzte
+auf die oben angegebene Art erworben wird, gehen
+zwar in der Regel von entgegengeſetzten Punkten
+aus, indem jene ohne alle Kenntniſs der Rechnungs-
+regeln anfängt, dieſe hingegen von der Kenntniſs der
+combinatoriſchen Regeln ausgeht; allein in dem Punk-
+te, auf welchen es ankommt, kommen ſie überein.
+Man hat in dem einen, wie in dem andern, den zu
+behandelnden Gegenſtand in Zeichen, durch welche
+man gewöhnlich denkt, gegenwärtig. Einige Be-
+merkungen, zu welchen ſich der Rec. im Folgenden
+veranlaſst ſieht, werden dieſes vielleicht noch mehr
+beſtätigen. – Der Vf. unterſcheidet im zweyten Ab-
+ſchnitte den didaktiſchen und heuriſtiſchen Ä
+der combinatoriſchen Methode, und legt mit Recht
+jenem einen ausgedehntern Nutzen, als dieſem bey.
+Nicht allein die gedrängte Kürze, mit der ſich das
+zu Lehrende darſtellen läſst, und die Sicherheit, daſs
+man ſeinen Gegenſtand erſchöpfe, welche die combi-
+natoriſche Methode, wo ſie zun didaktiſchen Gebrau-
+che angewandt wird, gewährt, empfehlen ſie, wie
+der Vf. mit Recht behauptet, wo ſie ſonſt anwend-
+bar iſt, zu demſelben; ſondern ſie gewährt überdieſs
+auch, wie Rec. hinzuſetzt, für den Lehrling einen,
+ewöhnlich nicht genug beachteten, beträchtlichen
+utzen. Soll dieſer nämlich dasjenige, was gelehrt
+wird, nicht allein auffaſſen, ſondern auch feſthalten:
+ſo ſorgt man für ihn gewiſs nicht immer am beſten,
+wenn man ihm das Auffaſſen zu ſehr erleichtert;
+geſetzt auch, daſs dieſes übrigens der Gründlichkeit
+unbeſchadet geſchieht. Die dem Anſcheine nach
+ſelbſt zweckwidrige Anſtrengung, die es dem Anfan-
+ger koſten 1mag, das in combinatoriſchen Zeichen
+Dargeſtellte aufzufaſſen, wir ihm durch as feſtere
+Behalten des einmal Gefaſsten hinreichend vergolten.
+Was

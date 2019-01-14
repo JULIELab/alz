@@ -1,0 +1,189 @@
+mkdir allgemeineliter00jahrgoog
+cp allgemeineliter00jahrgoog*.txt allgemeineliter00jahrgoog/
+mkdir allgemeineliter00schugoog
+cp allgemeineliter00schugoog*.txt allgemeineliter00schugoog/
+mkdir allgemeineliter01goog
+cp allgemeineliter01goog*.txt allgemeineliter01goog/
+mkdir allgemeineliter05jahrgoog
+cp allgemeineliter05jahrgoog*.txt allgemeineliter05jahrgoog/
+mkdir allgemeineliter10unkngoog
+cp allgemeineliter10unkngoog*.txt allgemeineliter10unkngoog/
+mkdir allgemeineliter115unkngoog
+cp allgemeineliter115unkngoog*.txt allgemeineliter115unkngoog/
+mkdir allgemeineliter136unkngoog
+cp allgemeineliter136unkngoog*.txt allgemeineliter136unkngoog/
+mkdir allgemeineliter13jahrgoog
+cp allgemeineliter13jahrgoog*.txt allgemeineliter13jahrgoog/
+mkdir allgemeineliter13unkngoog
+cp allgemeineliter13unkngoog*.txt allgemeineliter13unkngoog/
+mkdir allgemeineliter152unkngoog
+cp allgemeineliter152unkngoog*.txt allgemeineliter152unkngoog/
+mkdir allgemeineliter15jahrgoog
+cp allgemeineliter15jahrgoog*.txt allgemeineliter15jahrgoog/
+mkdir allgemeineliter161unkngoog
+cp allgemeineliter161unkngoog*.txt allgemeineliter161unkngoog/
+mkdir allgemeineliter162unkngoog
+cp allgemeineliter162unkngoog*.txt allgemeineliter162unkngoog/
+mkdir allgemeineliter163unkngoog
+cp allgemeineliter163unkngoog*.txt allgemeineliter163unkngoog/
+mkdir allgemeineliter16unkngoog
+cp allgemeineliter16unkngoog*.txt allgemeineliter16unkngoog/
+mkdir allgemeineliter170unkngoog
+cp allgemeineliter170unkngoog*.txt allgemeineliter170unkngoog/
+mkdir allgemeineliter181unkngoog
+cp allgemeineliter181unkngoog*.txt allgemeineliter181unkngoog/
+mkdir allgemeineliter183unkngoog
+cp allgemeineliter183unkngoog*.txt allgemeineliter183unkngoog/
+mkdir allgemeineliter186unkngoog
+cp allgemeineliter186unkngoog*.txt allgemeineliter186unkngoog/
+mkdir allgemeineliter196unkngoog
+cp allgemeineliter196unkngoog*.txt allgemeineliter196unkngoog/
+mkdir allgemeineliter201unkngoog
+cp allgemeineliter201unkngoog*.txt allgemeineliter201unkngoog/
+mkdir allgemeineliter208unkngoog
+cp allgemeineliter208unkngoog*.txt allgemeineliter208unkngoog/
+mkdir allgemeineliter211unkngoog
+cp allgemeineliter211unkngoog*.txt allgemeineliter211unkngoog/
+mkdir allgemeineliter216unkngoog
+cp allgemeineliter216unkngoog*.txt allgemeineliter216unkngoog/
+mkdir allgemeineliter226unkngoog
+cp allgemeineliter226unkngoog*.txt allgemeineliter226unkngoog/
+mkdir allgemeineliter23unkngoog
+cp allgemeineliter23unkngoog*.txt allgemeineliter23unkngoog/
+mkdir allgemeineliter245unkngoog
+cp allgemeineliter245unkngoog*.txt allgemeineliter245unkngoog/
+mkdir allgemeineliter24unkngoog
+cp allgemeineliter24unkngoog*.txt allgemeineliter24unkngoog/
+mkdir allgemeineliter253unkngoog
+cp allgemeineliter253unkngoog*.txt allgemeineliter253unkngoog/
+mkdir allgemeineliter262unkngoog
+cp allgemeineliter262unkngoog*.txt allgemeineliter262unkngoog/
+mkdir allgemeineliter276unkngoog
+cp allgemeineliter276unkngoog*.txt allgemeineliter276unkngoog/
+mkdir allgemeineliter297unkngoog
+cp allgemeineliter297unkngoog*.txt allgemeineliter297unkngoog/
+mkdir allgemeineliter298unkngoog
+cp allgemeineliter298unkngoog*.txt allgemeineliter298unkngoog/
+mkdir allgemeineliter30unkngoog
+cp allgemeineliter30unkngoog*.txt allgemeineliter30unkngoog/
+mkdir allgemeineliter32unkngoog
+cp allgemeineliter32unkngoog*.txt allgemeineliter32unkngoog/
+mkdir allgemeineliter33unkngoog
+cp allgemeineliter33unkngoog*.txt allgemeineliter33unkngoog/
+mkdir allgemeineliter34unkngoog
+cp allgemeineliter34unkngoog*.txt allgemeineliter34unkngoog/
+mkdir allgemeineliter355unkngoog
+cp allgemeineliter355unkngoog*.txt allgemeineliter355unkngoog/
+mkdir allgemeineliter42unkngoog
+cp allgemeineliter42unkngoog*.txt allgemeineliter42unkngoog/
+mkdir allgemeineliter43unkngoog
+cp allgemeineliter43unkngoog*.txt allgemeineliter43unkngoog/
+mkdir allgemeineliter46unkngoog
+cp allgemeineliter46unkngoog*.txt allgemeineliter46unkngoog/
+mkdir allgemeineliter48unkngoog
+cp allgemeineliter48unkngoog*.txt allgemeineliter48unkngoog/
+mkdir allgemeineliter55unkngoog
+cp allgemeineliter55unkngoog*.txt allgemeineliter55unkngoog/
+mkdir allgemeineliter64unkngoog
+cp allgemeineliter64unkngoog*.txt allgemeineliter64unkngoog/
+mkdir allgemeineliter66unkngoog
+cp allgemeineliter66unkngoog*.txt allgemeineliter66unkngoog/
+mkdir allgemeineliter77unkngoog
+cp allgemeineliter77unkngoog*.txt allgemeineliter77unkngoog/
+mkdir allgemeineliter82unkngoog
+cp allgemeineliter82unkngoog*.txt allgemeineliter82unkngoog/
+mkdir allgemeineliter83unkngoog
+cp allgemeineliter83unkngoog*.txt allgemeineliter83unkngoog/
+mkdir allgemeineliter96unkngoog
+cp allgemeineliter96unkngoog*.txt allgemeineliter96unkngoog/
+mkdir allgemeinelitera1845unse
+cp allgemeinelitera1845unse*.txt allgemeinelitera1845unse/
+mkdir allgemeinelitera1847unse
+cp allgemeinelitera1847unse*.txt allgemeinelitera1847unse/
+mkdir bub_gb__ClRAAAAYAAJ
+cp bub_gb__ClRAAAAYAAJ*.txt bub_gb__ClRAAAAYAAJ/
+mkdir bub_gb_3tTjAAAAMAAJ
+cp bub_gb_3tTjAAAAMAAJ*.txt bub_gb_3tTjAAAAMAAJ/
+mkdir bub_gb_7R44AAAAMAAJ
+cp bub_gb_7R44AAAAMAAJ*.txt bub_gb_7R44AAAAMAAJ/
+mkdir bub_gb_aDI4AAAAMAAJ
+cp bub_gb_aDI4AAAAMAAJ*.txt bub_gb_aDI4AAAAMAAJ/
+mkdir bub_gb_BB04AAAAMAAJ
+cp bub_gb_BB04AAAAMAAJ*.txt bub_gb_BB04AAAAMAAJ/
+mkdir bub_gb_BdCEAAAAIAAJ
+cp bub_gb_BdCEAAAAIAAJ*.txt bub_gb_BdCEAAAAIAAJ/
+mkdir bub_gb_ByBRAAAAYAAJ
+cp bub_gb_ByBRAAAAYAAJ*.txt bub_gb_ByBRAAAAYAAJ/
+mkdir bub_gb_cCQ4AAAAMAAJ
+cp bub_gb_cCQ4AAAAMAAJ*.txt bub_gb_cCQ4AAAAMAAJ/
+mkdir bub_gb_Chg4AAAAMAAJ
+cp bub_gb_Chg4AAAAMAAJ*.txt bub_gb_Chg4AAAAMAAJ/
+mkdir bub_gb_cR44AAAAMAAJ
+cp bub_gb_cR44AAAAMAAJ*.txt bub_gb_cR44AAAAMAAJ/
+mkdir bub_gb_fCg4AAAAMAAJ
+cp bub_gb_fCg4AAAAMAAJ*.txt bub_gb_fCg4AAAAMAAJ/
+mkdir bub_gb_fSM4AAAAMAAJ
+cp bub_gb_fSM4AAAAMAAJ*.txt bub_gb_fSM4AAAAMAAJ/
+mkdir bub_gb_Fy9RAAAAYAAJ
+cp bub_gb_Fy9RAAAAYAAJ*.txt bub_gb_Fy9RAAAAYAAJ/
+mkdir bub_gb_gR5RAAAAYAAJ
+cp bub_gb_gR5RAAAAYAAJ*.txt bub_gb_gR5RAAAAYAAJ/
+mkdir bub_gb_Hig4AAAAMAAJ
+cp bub_gb_Hig4AAAAMAAJ*.txt bub_gb_Hig4AAAAMAAJ/
+mkdir bub_gb_-hk4AAAAMAAJ
+cp bub_gb_-hk4AAAAMAAJ*.txt bub_gb_-hk4AAAAMAAJ/
+mkdir bub_gb_lyFRAAAAYAAJ
+cp bub_gb_lyFRAAAAYAAJ*.txt bub_gb_lyFRAAAAYAAJ/
+mkdir bub_gb_MSlRAAAAYAAJ
+cp bub_gb_MSlRAAAAYAAJ*.txt bub_gb_MSlRAAAAYAAJ/
+mkdir bub_gb_M-XjAAAAMAAJ
+cp bub_gb_M-XjAAAAMAAJ*.txt bub_gb_M-XjAAAAMAAJ/
+mkdir bub_gb_mxs4AAAAMAAJ
+cp bub_gb_mxs4AAAAMAAJ*.txt bub_gb_mxs4AAAAMAAJ/
+mkdir bub_gb_NhI4AAAAMAAJ
+cp bub_gb_NhI4AAAAMAAJ*.txt bub_gb_NhI4AAAAMAAJ/
+mkdir bub_gb_nNXjAAAAMAAJ
+cp bub_gb_nNXjAAAAMAAJ*.txt bub_gb_nNXjAAAAMAAJ/
+mkdir bub_gb_NtXjAAAAMAAJ
+cp bub_gb_NtXjAAAAMAAJ*.txt bub_gb_NtXjAAAAMAAJ/
+mkdir bub_gb_ogs4AAAAMAAJ
+cp bub_gb_ogs4AAAAMAAJ*.txt bub_gb_ogs4AAAAMAAJ/
+mkdir bub_gb_ohI4AAAAMAAJ
+cp bub_gb_ohI4AAAAMAAJ*.txt bub_gb_ohI4AAAAMAAJ/
+mkdir bub_gb_PRU4AAAAMAAJ
+cp bub_gb_PRU4AAAAMAAJ*.txt bub_gb_PRU4AAAAMAAJ/
+mkdir bub_gb_Pww4AAAAMAAJ
+cp bub_gb_Pww4AAAAMAAJ*.txt bub_gb_Pww4AAAAMAAJ/
+mkdir bub_gb_Qiw4AAAAMAAJ
+cp bub_gb_Qiw4AAAAMAAJ*.txt bub_gb_Qiw4AAAAMAAJ/
+mkdir bub_gb_qsaEAAAAIAAJ
+cp bub_gb_qsaEAAAAIAAJ*.txt bub_gb_qsaEAAAAIAAJ/
+mkdir bub_gb_quXjAAAAMAAJ
+cp bub_gb_quXjAAAAMAAJ*.txt bub_gb_quXjAAAAMAAJ/
+mkdir bub_gb_rzA4AAAAMAAJ
+cp bub_gb_rzA4AAAAMAAJ*.txt bub_gb_rzA4AAAAMAAJ/
+mkdir bub_gb_s4crAAAAYAAJ
+cp bub_gb_s4crAAAAYAAJ*.txt bub_gb_s4crAAAAYAAJ/
+mkdir bub_gb_sBE4AAAAMAAJ
+cp bub_gb_sBE4AAAAMAAJ*.txt bub_gb_sBE4AAAAMAAJ/
+mkdir bub_gb_t9fjAAAAMAAJ
+cp bub_gb_t9fjAAAAMAAJ*.txt bub_gb_t9fjAAAAMAAJ/
+mkdir bub_gb_uhE4AAAAMAAJ
+cp bub_gb_uhE4AAAAMAAJ*.txt bub_gb_uhE4AAAAMAAJ/
+mkdir bub_gb_whY4AAAAMAAJ
+cp bub_gb_whY4AAAAMAAJ*.txt bub_gb_whY4AAAAMAAJ/
+mkdir bub_gb_wokFAAAAQAAJ
+cp bub_gb_wokFAAAAQAAJ*.txt bub_gb_wokFAAAAQAAJ/
+mkdir bub_gb_Wx04AAAAMAAJ
+cp bub_gb_Wx04AAAAMAAJ*.txt bub_gb_Wx04AAAAMAAJ/
+mkdir bub_gb_XdzjAAAAMAAJ
+cp bub_gb_XdzjAAAAMAAJ*.txt bub_gb_XdzjAAAAMAAJ/
+mkdir bub_gb_Yxg4AAAAMAAJ
+cp bub_gb_Yxg4AAAAMAAJ*.txt bub_gb_Yxg4AAAAMAAJ/
+mkdir bub_gb_zDQ4AAAAMAAJ
+cp bub_gb_zDQ4AAAAMAAJ*.txt bub_gb_zDQ4AAAAMAAJ/
+mkdir bub_gb_ZRs4AAAAMAAJ
+cp bub_gb_ZRs4AAAAMAAJ*.txt bub_gb_ZRs4AAAAMAAJ/
+mkdir bub_gb_ZTQ4AAAAMAAJ
+cp bub_gb_ZTQ4AAAAMAAJ*.txt bub_gb_ZTQ4AAAAMAAJ/
+

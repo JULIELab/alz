@@ -1,0 +1,134 @@
+‚ 393
+
+205 —
+
+3941
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+ 
+
+Monat November.
+
+1843.
+
+Halle, in der Expedition
+der Allg. Lit. Zeitung.
+
+ 
+
+Mathematik.
+
+Archiv der Mathematik und Physik, mit beson-
+derer Rücksicht auf die Bedürfnisse der Leh-
+rer an höheren Unterrichtsanstalten, Heraus-
+gegeben von Prof, J, A. Grunert u, 8. wW.
+
+(Beschluss von Nr, 204.)
+
+Arsser den hier genannten, finden sich noch
+viele audre, meistens kürzere Aufsätze geometri-
+schen Inhalts, die alle hier aufzuführen zu weit-
+Jläufig werden dürfte, obgleich sie viele interessante
+Sätze und Betrachtungen enthalten. Ref, nennt
+nur Eines. T, 1. S, 324 giebt Hr. Prof, und Dir.
+Strehlke für das ebene Viereck folgenden neuen
+Satz. Wenn A4,B,C,D die aufeinanderfolgenden
+Ecken des Vierecks sind, AB=a, BC=b,CD=c,
+DA=d die Seiten desselben, a-+b+c-+d=s und
+F die Fläche, so ist:
+F!=(38—0) ($ s—b) (5 s—0) (& s—d)
+
+— abecd, cos 24 cos EP
+
+ 
+
+welche Formel noch etwas an Symmetrie gewinnen
+dürfte, wenn man statt des einen Faktors cos 4-40
+
+den ihm gleichen — cos 4 setzte, wodurch sie
+wird:
+Pı=(}8—a) (3s—8) (4s—c) (4 s—d)
+
++ abcd cos m, cos ad
+
+Herr Strehlke stellt hierbei die Frage auf, wie
+die Relation zwischen der Fläche, und den Seiten
+und Winkeln, bei einem sphärischen Viereck seyn
+möchte, Hierauf dürfte vielleicht folgendes eine
+Antwort seyn, Wenn dieselben Bezeichnungen,
+als vorhin gelten und ansserdem noch 4 + B
++C+D=S und u = S—360 ist, so wird doch der
+Flächeninhalt des sphärischen Vierecks bekanntlich
+
+= ie r? x, Alsdann erhält man folgende Formel:
+
+2. sin £ u = 2 sin (A 90°)
+=tg4d.tg 3 a.sin(4S-A) + 1g 4 a.1g3 6. sin (} S-B)
++19% 6.193 e. sin(3S-C) +1g4c. tg 4 d. sin(4S-D)
+
+oder 19 4u = 19% dtg5 asin A +tg%atg £6 sin B+4g% big csinC+g4etgLdsirD
+° +ig% dig£acos AT 1gLalgt beosB +1y Z big ccosG +1igE£ectgEdeosD
+
+-
+
+Die Symmetrie dieser Formel ist ersichtlich,
+wenn man beachtet, dass in jedem Gliede unterm
+Sinus - oder Cosinuszeichen derjenige Winkel steht,
+für welchen die Tangenten der halben ihn einschlios-
+senden Seiten als Faktoren vorstehen.
+
+Von den trigonometrischen Abhandlungen hebt
+Ref. zwei durch ihren besonderes Interesse erregen-
+den Inhalt beachtenswerthe, hübsche Aufsätze vom
+Hrn, Prof. Bretschneider in Gotha heraus. In
+T. 11. S, 132 ff, giebt der genannte Vf, trigonome-
+trische Relationen zwischen den Seiten und Win-
+keln zweier ebenen oder sphärischen Dreiecke, die
+' eine ganz beliebige Lage gegen einander haben.
+Andem er die Seiten und Winkel des einen Dreiecks
+durch &@, 5, c, und 4, B7 C und die entsprechen-
+den Stücke des andern durch @, by, ci, und A,
+B;, Ci bezeichnet, erhält er mehrere Grundrela=
+tionen zwischen diesen zwölf Grössen, von denen
+‚die erste folgende ist, für ebene Dreiecke:
+
+A, L, Z. 1843, Dritter Band,
+
+COS #4 Co8 a, + sin asina, cos U cos C,
+
+= cos(b+b,)fcosccosc, sin csinc, cos A cos A}
+
++ sin (6 F 6, ) 'sin ccos c, cos A F cos csin c, cos Ay}
+Die übrigen Grundformeln leitet man durch pas-
+
+sende Vertauschung der Buchstaben ab. Vermit-
+
+telst dieser und anderer aus ihnen hergeleiteten
+
+allgemeinen Relationen gelangt man durch Specia-
+
+lisirung zu interessanten Resultaten. Setzt man
+
+z. B. für ebene Dreiecke a, = 5, =c,, So geht die
+
+angezogene Formel in folgende über:
+
+a* +52 — 2a bcos (60° 4 €)
+
+= 0 +0? — 2accos (60° + 8)
+
+= +c?—2be cos (60° + B),
+
+welche offenbar, geometrisch gedeutet, dieses
+
+heisst: Wenn man über den drei Seiten eines ge-
+
+radlinigen Dreiecks gleichseitigo Dreiecke so con-
+
+siruirt , dass dieselben entweder sämmtlich auf den
+
+äussern oder sämmtlich auf den innern Seiten liegen,
+
+und yo man dann jede Spitze des Urdreiecks mit
+

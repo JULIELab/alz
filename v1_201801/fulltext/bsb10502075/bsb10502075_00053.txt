@@ -1,0 +1,129 @@
+5 Z6
+- 117. MAY 1819.
+- *
+Wir müſſen alſo die Methode X = o zu ſetzen,
+folänge für unzuläſſig halten, bis der Vf, ihren rech-
+ten Gebrauch näher gezeigt, und ihre Richtigkeit
+bewieſen hat; und Ä Ä als bloſsen Zufall oder
+als Folge des Nullſetzens nach Belieben, wie es zum
+vorgenommenen Ziele führt, anſehen, wenn mitunter
+auch richtige Reſultate daraus entſpringen. -
+Faſt hat ſich Rec, zu lange bey dieſem Puncte
+aufgehalten, doch er iſt eine Hauptfäche in der gan-
+zen Methode, und es ſoll dafür das Folgende deſto
+kürzer berührt werden. -
+In §. 16 geht der Vf, zu ſolchen Differenzialen
+- dar
+über, wie # ; wo, wie er ſagt, X im Nenner iſt.
+Es bringt einige Verwicklung in die Sache, daſs nicht
+dx
+lieber der allgemeine Ausdruck Fgewählt und ge-
+- -
+ſagt iſt, es ſolle von Fällen die Rede ſeyn, wo
+X = Fey. Eine üble Folge davon, daſs dieſs
+nicht geſchieht, iſt, daſs der Vf. ſagt, PX werde nun
+and P werde – P. Eigentlich muſs es heiſsen:
+P d. Ä. –d
+PX wird nun F = V _ V
+-
+-
+X
+-T- und
+da TV?dx un Wel Ä=",
+; z. - - -
+ſo werde P = – F; es komme alſo für P bey der
+Berechnung eine negative Gräſse. Weil der Vf.–P
+ſtatt Pſetzt, ſo verwandelt ſich die Formel
+"
+-
+P– Q
+oder hier I in - I . Dieſ füh
+TTFT- (A'– Q) V (P+ Q) V e führt
+zu Etwas Falſchem, wenn man P berechnet, es
+- -
+- V - - - I
+* - 777 findet, und dah
+Fnndet, um "er FFTWF
+- - -,” -
+Pº -
+-, - F+ Orea Dieſes zu heben, ſetzt
+- - - - - - - - - -
+V“ * C-
+Hr. Meli. P = TF (alſo poſitiv), welches zwar den
+Nachtheil hier aufhebt, aber an ſich nicht richtig iſt.
+V
+Beſſer wäre P= –
+r- ?
+–
+-
+- 1 -
+F zu laſſen, und die Formel
+- - 1. - ºh . .
+FTGTF-7 zu be .. - -
+TFTz - eher
+- -
+- * -
+-
+Äer zze geſetzt für F-
+e, wo 7 nicht gleiche
+gleiche Faktoren hat. Äj ia-
+der.A =5; mamere dieſe zweyte wÄ
+- Hier bekommt man denn zur Integräfj
+Num. I -
+TFF -TFT und weil – =–* =log.o iſt; Yaber
+- I
+-
+=o genommen wurde, ſo ſetzt der Vf. Py"
+- -
+= TFF- es Y, da denn die neue Integralformel
+log V dx . - - .
+TFFT für 7 in ſolchen Fällen wird, wo V nicht
+gleiche Faktoren hat. Mit Nichts iſt aber hier V= o,
+ſo wie log. o = log V gerechtfertigt. Es ſtammt
+- I
+ja o in –Ä– nicht unmittelbar von V=o her, ſon-
+dern von 1 – 1; denn die obige Formel hieſs früher
+- I - -
+FTTTST- Wir bitten auch den Vf, die Rechnung
+des 16. und 17. § noch einmal durchzugehen; jedoch
+- . - - - -
+- V ---- -
+mit Rückſicht darauf, daſs P= ––z iſt, wobey al-
+. V -
+ſ di F l I - - sº
+O C1E FOTIYe TFSF beybehalten werden muſs
+V - y
+Auch für P = – 7 wird Q = – –F- und die
+- I - -
+ren wird (– j +- TT V = TFTEYZ
+1 –– – –
+FTTSF - FF a
+zweyte Faktor = + oo; wie kann er = logo und
+I -
+= log V ſeyn? «Er könnte = log TFT ſeyn. Alſo
+Im
+da wird ja der
+–log Y.
+PV - 1
+folgenden ſucht der Vf, die Richtigkeit der Ford
+«" - I
+hieſse die Formel PV " log. F =
+log V - - -
+-Ä- durch Differenziiren zu beweiſen. Es
+würde äher zu weitläuftig werden; das willkürliche
+Verfahren aufzuweiſen, wodurch hier das urſprüng-
+liche Differenzial erhalten wird.
+"In 5 4o win der vr die Integralforme Ä-
+Er findet danach
+mel
+durch ein Beyſpiel bewähren.
+
+dx. * -- A - - - -
+=og (º“-- x + B) + C. und um
+x* + Ax: + B 2 x + A
+deſſen Richtigkeit zu beweiſen, differenziirt er es
+wieder, bekommt auch das erſte Differenzial, aber
+wieder dadurch, daſs er in der Rechnung V =o ſo
+ſetzt, daſs das Verlangte herauskommen muß.
+Wir wollen dem Vf bey der BehaupÄ
+AIS

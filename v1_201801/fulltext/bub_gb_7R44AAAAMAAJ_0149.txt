@@ -1,0 +1,115 @@
+267
+
+haben. Uebrigens ist dieser Theil des Werks mit
+einem ausserordentlichen Fleisse bearbeitet, die vor-
+handenen Thatsachen und herrschenden Ansichten
+sind mit grosser Belesenheit gesammelt und neben
+einander ‚gestellt, so dass Rec. für die Wahrheit
+seiner Behauptung , dass dieses einzig sichere Fun-
+dument der Statik der Landw. noch sehr schwan-
+kend und unsicher sey, keinen besseren Beleg bei-
+zubringen wüsste, als gerade diesen Theil der
+Schrift selbst. Man vergleiche beispielsweise nur
+gleich, was Abschnitt I. über das Leben und na-
+mentlich über die Ernährung der Pflanzen beige-
+bracht ist. Dass von so verschiednen Ausichten
+diejenige, welche dem Vf, die richtigste scheint,
+und von ihm seinen Berechnungen zum Grunde ge-
+legt wird, auch objectiv stets die richtige und wahre
+scy — ist eine Annahme, welche wohl. der Vf,
+selbst Niemandem zumuthen wird. Rec. gesteht,
+dass er in vielen Stücken nicht mit ihm überein-=
+stimmen kann, worüber unten noch einige Beispie-
+je. — Die 2. Einwendung hat der Vf. nicht so
+glücklich beseitigt, auch glaubt Rec, nickt, dass sie
+sich werde beseitigen lassen, Wenn der Vf. in
+Betreff der Anwendbarkeit der streng mathemati-
+schen Methode auf die Statik der Landw. die „ma-
+thematikscheuen Landwirthe” auf die Werke von
+Pascal, Fermet, Laplace, Quetelet (über das Wür-
+felspiel, die Theorie der Wahrscheinlichkeit, die
+Berechnung der menschlichen Fähigkeiten, Verbre-
+chen u. 8. w.) verweist, so kann Rec, diesen Ver-
+gleich nur etwa in so fern treffend finden, als es
+sich darum handelt, aus ciner grossen Zahl einzel-
+ner landw. Erfahrungen allgemeine Sätze (cigent-
+lich mittlere Werthe) abzuleiten, Diese können
+allerdings wichtige Anwendbarkeit im Grossen z. B,
+auf die Resultate der Landwirthschaft eines ganzen
+Staates besitzen, ohne desshalb für den einzelnen
+Landwirth anwendbar zu seyn, selbst wenn sie in
+allgemeinen Grössen (in algebraischen Formeln)
+ausgedrückt sind. Gewiss liegt darin der Grand,
+wesshalb, wie der Vf. ganz richtig bemerkt: „der
+volkswirthschaftliche Theil der Landwirthschafts-
+Jehre viele schützbare Daten zur Entwerfung einer
+Jandw. Statik im weitesten Sinne geliefert” pag. 3
+während „kaum Spuren eines Versuchs” zu einer
+Statik im Sinne des Vf.s vorhanden sind. Die
+Wahrscheinlichkeits-Rechnung berechnet das Alter
+der Menschen, die Zahl der Feuersbrünste ganzer
+Länder, der Hagelschläge, Schiffbrüche etc, mit
+
+A. IL. Z. Num. 191;
+
+solcher Zuverlässigkeit, dass unsere Assocuranz-
+Anstalıen darauf gegründet werden können; aber
+diese sind nur sicher, wenn die Zahl der Versi-
+cherten so gross ist, dass der frühere Todesfall des
+einen durch das längere Leben des anderen etc, etc.
+gedeckt wird, sie sind um so unsicherer, je kleiner
+die Anzahl der Theilnehmer ist, und die Resullate
+dieser Rechnungen leiden natürlich auf einzelne
+Fälle gar keine Anwendung, Sollte es nicht mit
+vielen Formeln unserer landw, Statik eben so oder
+doch ganz ähnlich seyn? Kin Beispiel wird den
+Leser in den Stand setzen, ein eignes Urtheil dar-
+über zu fällen und zugleich die Art der mathema-
+tischen Methode des Vf.s anschaulich machen.
+Rec. wählt absichtlich eine der kürzeren uud we-
+niger complicirten Berechnungen, nämlich die Be-
+rechnung des Verhältnisses des Futters zur Milch-
+production (Abschnitt VI. $$., 237, 242 sq.): „Die
+Erfahrungen, worauf sich der Calcul beim ausge-
+wachsenen Rind stützen kann und muss, sind: a) dass
+mit 100 Pfund Heu oder auf Heu reducirten Fut-
+terstoffen 8 Pf, Fleiseh und. Fett oder SO Pf, Milch,
+nebst der Ernährung des Kalbs erzeugt werden
+können und b) dass das Conservations- oder Kr-
+haltungsfutier 1%, pCt. des lebenden Gewichts
+und ebensoviel das Productions- oder Nutzungsfutter
+beträgt,” ‚..... ferner „dass bei einer gut melken-
+den ausgewachsenen Kuh das gesammte Produ-
+cfionsfutter oder p zur Erzeugung von Milch und
+der Ernährung des Fötus verwendet wird. Ist g
+das Gewicht einer Kuh, so ist das tägliche Conser-
+vationsfutter (12, pCt. des lebenden Gewichts) oder
+
+C = A also für n Tage = E Da das tägliche Fut-
+
+OCTOBER 1843.
+
+ter = f, aber das ganze Futter = nf ist, so ist das
+
+Produgtionsfutter oder p = nf — I Aare fm 5
+
+Z (60f—g). Da ferner mit 100 N Heuwerth nebst
+
+der Ernährung des Fötus S0 U Milch producirt wor-
+den, so hat man, wenn die gesammte Milchprodu-
+ction m m bezeichnet wird: 100: 80 = p:m also
+
+m = DDP = =; p. Setzt man für p den Werth, so
+
+erhält man: m = %/, = (60f—g)= = (60 f—
+g) als die allgemeine Gleichung zur Berechnung
+
+der Milchproduction aus einer besimmten Menge
+Futters, —
+
+(Der Deschluss folgt.)
+
+Sn nn
+
+x
+

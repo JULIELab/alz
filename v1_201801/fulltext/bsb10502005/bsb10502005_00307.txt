@@ -1,0 +1,133 @@
+Sa s j „Freytags, dew 19. Februar 1796.
+
+ 
+
+@ MATHEMATIK.
+
+Lewzic, im Schwikertfichen Verlage: Erlä ex
+der Käftnerifchen Anfangsgründe der mechanifchen
+und optifchen Wifenfchaften , von Chriflian Heinrich
+Ernft‘ Rücker,. nebfit einer Vorrede vom Hn. Hof-
+ratlı Käflner. 1795: 2485. 8- uebit 3 Kupfertafelu.
+
+Kton ınehreremal find die beliebten Käftnerfchen
+NY Lehrbücher, hauptfächlich über reine Mathematik
+mit befondern Erläuterungen verfehen, worden. Eben
+diefen Dienft leiftet nun Hr. Rücker einem Theil des
+Käftnerfchen Lehrbuchs über angewandte Mathematik.
+Seine Abficht dabey geht nicht, oder nur äufserft fel-
+ten, auf neue Darftellung der vorkommenden Begriffe,
+auf eine andere Anficht und Entwicklung derfelben,
+oder auf Verfuche anderer Beweisarten, fondern bey-
+nahe allein auf weitere Auseinanderfetzung der Rech-
+nungen, und auf Anwendungen des allgemeinen Kal-
+'Kuls auf befondere Fälle. Diefe Auseinanderfetzung
+gefchieht bey ihm wirklich mit einer faft zu grofsen
+Ausführlichkeit, und wird auch dem erften Anfänger
+fchwerlich irgendwo etwas zu wünfchen übrig laflen.
+So kommt, um nur Ein Beyfpiel anzuführen, in ‚der
+Statik f. 40. I. die Aufgabe vor: Es find 2 Kräfte P,
+Q, nebit den StellenB, D gegeben, an welchen fie an
+einem Hebel der erften Art angebracht find; man. foll
+den Ort A der Unterlage für das Gleichgewicht finden,
+Käftner führt dabey feine Rechnung fo. Man hat
+Q. AD = P.AB = P.DB — P.AD, alfo (Q+P) AD
+
+= P. DB, oder AD = Z-D5.. Dies follte nun doch
+
+auch für den Anfänger keine Schwierigkeit haben. Hr.
+R. aber fetzt die Rechnung noch weiter auseinander,
+Wie folget. Man- hat
+
+Q. AD=P. AB
+AB — DB AD (nach der Figur)
+
+Q. AD= P, (DB— AD)
+
+—Q. AD = P. DB— P. AD
+P; AD addirt
+
+a A!
+70. AD:;P. AD=P. DB —P. AD+P. AD
+a
+
+Q.AD+P. AD=P. DB
+
+a
+(Q7P) AD=P.DB
+A Q+P dividirt
+(Q+P). AD \_. P. DB
+Q-+P  Q+P
+A
+4. L. Z. 1796. Enfter Band.
+
+ 
+
+ 
+
+449 ; ‚Numero 57. 450
+
+GEMEINE LITERATUR - ZEITUNG
+
+ 
+
+AD P. DB
+
++ 1
+Ein folches Vorbuchftabiren follte in der That doch bey
+keinem. Lefer; der ; angewandte‘ Mathematik fudiren
+will, nöthig feyn, und es ift vielleicht auch für den
+erften Anfänger, nicht ganz gut geforgt, wenu. man
+ihm gar nichts. felbfi zu denken übrig läfst. Eben fo
+werden nun. immer Multiplicationen, . Ausziehüngen
+der Quadratwurzeln, logarithmifche Rechnungen u..dgl,
+ganze Seiten hindurch ausführlich vorgemacht, und bey
+den letztern insbefondere die Auffuchung der Propor-
+tionaltheile jedesmal aufs neue mit ermüdender Weit.
+Jäuftigkeit gelehrt. * Inzwifchen mag es freylich, wie
+
+: auch Hr. K. in der Vorrede fagt, Leute geben, denen
+
+eine folche Bemühung dienen kann, Ganz artig ift die
+Methode, welche Hr. R. angiebt, einen Kreis in eine
+beliebige Anzahl, z.B. in 61. Theile zu theilen. Er
+berechnet zuerft den Centriwinkel des in den Kreis ein-
+züfchreibenden Polygons, hier des Einundfechzigecks,
+Nun fucht er {ftatt der gegebenen Anzahl Theile eine
+andere von ihr wenig verfchiedene, die fich mehrere
+Mal gerade "durch 2 theilen läfsr, z. B. ftätt 61 nimmt
+er 64. Er fellt fich dann vor, man habe, anftatt deu
+Kreis in 61. Theile zu theilen , vielmehr den Kreis + Re
+des Kreifes in 64. Theile zu theilen, welches offenbar
+auf einerley hinausläuft. Es kommt alfo nur. darauf
+an, vön einem angenommenen Puncte an, diefe Zr auf
+dem Umfang des Kreifes abzufchneiden, und danu
+den Kreis +», des‘Kreifes fortgefetzt zu halbiren , oder
+gleich die Hälfte des Kreifes + 7. , des Kreifes zu. neh-
+men, und diefen Bogen fortgefetzt zu halbiren. Den
+Bogen nun, der — 3, 7; des Kreifes, erhält er durch
+Berechuung feier Sehne vermittelt‘ der Sinustafeln,
+folglich kann alles übrige blofs durch forgefetztes Hal-
+biren bewerkftelligt- werden.‘  Diefes Verfahren wird
+immer gröfsere Genauigkeit geben, als wenn man die
+Seite eines Einundfechzigecks aus den Sinustafeln be-
+rechnen, und 61mal im Kreife herumtragen wollte.
+
+Auf die Erläuterungen, welche beynahe allen Käft-
+nerfchen Paragraphen‘, in denen nur irgend von Rech-
+nung die Rede ift, der Ordnung nach folgen , kommen
+noch einige Zugaben, die neben andern weitern Er-
+läuterungen befonders auch analytifche Beweife der
+vornehm{ten dioptrifchen Sätze enthalten, und mit ei-
+ner Anzeige der Druckfehler in der dritten und vierten
+Auflage des Käftnerfchen Lehrbuchs fchliefsen.
+
+Hr. Hofr. Käftner handelt in der Vorrede von de
+Hamels Verfahren, das Gewicht eines Kubikfufses Waf-
+fers zu finden. ‚Dies Verfahren beftand kürzlich darinn,
+Du H. wog einen Kubikfufs Holz in freyer Luft, und
+
+LI
+
+fand
+

@@ -1,0 +1,113 @@
+911
+- 912
+ERGÄNZUNGSBLÄTTER Num. 114. OCTOBER 1826.
+riger Verlängerung in einem Punkte G treffen", und
+endlich dieſer bey der Demonſtration des oben gedach-
+ten Theorems, die Winkel eines Triangels können
+nicht weniger als 2 R. betragen, angewendet. Der
+Beweis des Satzes: die Winkel eines Triangels be-
+tragen 2 R., iſt ſonnit ſelbſt von dem erwähnten als
+Axiom aufgeſtellten Satz S. 9. abhängig, und es cha-
+Äkteriſirt ſich dieſer daher als das Fundament der
+ganzen vorliegenden Theorien, gegen die ſich in der
+hat nichts von Erheblichkeit würde einwenden laſ-
+ſen, dafern jenem Satze die Gültigkeit einer Grund-
+wahrheit zugeſianden werden dürfte.
+VWas nun aber dieſen ſelbſt anlangt, ſo iſt zuerſt
+klar, daſs derſelbe nur einen ſpeciellen Fall des all-
+gemeinern Satzes: „Wenn eine gerade Linie die eine
+von zwey Parallelen ſchneidet, ſo ſchneidet ſie auch
+die andere“, ausſpricht, eines Satzes, welcher be-
+kanntlich mit Euklid's XItem Axiom zuſammenfällt,
+und gleich demſelben eines Beweiſes bedarf. Indeſ-
+jen Äürde dieſes kein Grund ſeyn, dem erwähnten
+Satz I. die Gültigkeit eines Axioms abzuſprechen,
+da ein allgemeiner Satz recht gut ein Theorem ſeyn
+kann, Ä einem ſpeciellen Fall deſſelben axio-
+metriſche Evidenz zukommt. – Ein Axiom ſoll
+aber ein unmittelbar einleuchtender Satz ſeyn, und
+es muſs daher ein ſolches immer die unmittelbar an-
+ſchaulich klare Verbindung zweyer Begriffe ausſpre-
+chen. Nun iſt der eine von den bey Satz I. gebrauch-
+ten Begriffen, der Begriff der parallelen Linien, of-
+fenbar ein negativer Begriff, dem eben als ſolchem
+keine unmittelbare Anſchaulichkeit zukommt, und
+es kann darum jener Satz I. ſelbſt in keiner Weiſe
+die Gültigkeit eines Axioms beſitzen; ja wir möchten
+ihn nicht einmal dem Euklidiſchen Axiom vorziehen,
+indem bey letzterm kein negativer Begriff angewen-
+det wird. Auch wird man für Satz S. 9. einen Be-
+weis offenbar ſchon darum zu fordern berechtigt
+ſeyn, weil der ihm verwandte und ſehr ähnliche Satz:
+Ä einem in einer geraden Linie liegenden Punkt
+ann auf eine dieſer parallel gezogenen Linie ein
+Perpendikel gefällt werden", einen ſolchen zuläſst.
+Der fragliche Satz S. 9, kann demnach durchaus nicht
+als Axiom gelten, und die vorliegende Theorie, die
+ſomit ihre weſentlichſte Stütze verliert, erſcheint
+daher in keiner Weiſe als ein vollendetes Syſtem der
+Lehre von den Parallelen. Noch müſſen wir übri-
+gens auf einen andern Mangel von geringerer Bedeu-
+tung aufmerkſam machen, den der Vf, leicht hätte
+vermeiden können. S. 17. wird nämlich folgender
+Lehrſatz: „Ueber der Grundlinie jedes Triangels
+ABC (fig. 12.) können beliebig viele andre Triangel
+ABF, ABH, ABK u. ſw., ſo errichtet werden,
+daſs 1) die Summe der Winkel eines jeden gleich iſt
+der Summe der Winkel des Triangels ABC, daſs
+2) jeder der Winkel F, H, K u. ſ. w., die der Grund-
+linie gegenüberliegen, kleiner wird, als der unmit-
+telbar vorhergehende, und zwar in der Art, daſs
+5) einer dieſer Winkel endlich kleiner wird, als jeder
+gegebene Winkel", aufgeſtellt, der 3te Fall deſſelben
+aber nur unter der Vorausſetzung, daſs ABC> C,
+folglich ACS-AB ſey, keineswegs alſo in der Allge-
+meinheit bewieſen, in der ihn Hr. H. hier ausſpricht,
+und bey ſpätern Demonſtrationen anwendet. Es
+würde demnach noch zu zeigen ſeyn, daſs jener dritte
+Fall auch dann Stattfinde, wenn der Triangel-ABC
+ein gleichſeitiger iſt, was ſehr einfach folgender-
+maaſsen geſchehen kann. Geſetzt, es würde keiner
+der Winkel F, H, K u. ſ. w. kleiner, als irgend ein
+gegebner Winkel X, ſo mache man N: X = OPV
+> CAB. Iſt dann N die Zahl der immer kleiner und
+kleiner werdenden Winkel F, H, K u. ſ.w., ſo muſs
+die Summe dieſer Winkel gröſser ſeyn, als OPY,
+und folglich auch gröſser, als CAB. Da nun CA=AB,
+ſo iſt auch AB = FB, und daher FAB = F. Wird
+demnach vom Winkel BAC, F=CAF hinwegge-
+nommen, ſo bleibt FAB >H übrig Es iſt aber offen-
+bar F<ABF, folglich AB<AF, d. h. AB< BH,
+und daher H< HAB. Wird demnach von FAB der
+Winkel H= FAH hinweggenommen, ſo bleibt HAB
+gröſser, als der hinweggenommene Winkel. Ebenſo
+wird bewieſen, daſs wenn ferner von HAB, K hin-
+weggenommen wird, KAB > K zurückbleibe u. ſ. w.
+VWenn man demnach die ſämmtlichen N VWinkel F,
+H, K u. f. w. zugleich von CAB hinwegnimmt, ſo wird
+ein VW inkel übrig bleiben, und es iſt daher die Summe
+der gedachten Winkel kleiner, als CAB. Dieſs aber
+widerſtreitet dem Vorigen, und es ergiebt ſich ſo,
+daſs endlich einer der Äe F, H, Ku. ſ.w. klei-
+ner werden müſſe, als X.
+Der in dem Frühern nachgewieſenen Mängel
+ungeachtet, glauben wir indeſſen ſchlieſslich Hn. H.
+die Erklärung ſchuldig zu ſeyn, daſs ſeine Theorie
+ſich vor der Mehrzahl der vorhandnen Paralleltheorien
+ſehr vortheilhaft durch Bündigkeit, Strenge und
+Eleganz der Darſtellung auszeichnet, und daſs ſie
+eben darum vorzugsweiſe von denen beachtet zu
+werden verdient, die eine wiſſenſchaftliche Begrün-
+dung der Lehre von den Parallelen ferner verſuchen
+wollen.
+Druck und Papier ſind bey beiden Schriften vor-
+züglich.
+NEUE AUFLAGE.
+DaEsDEN, b. Hilſcher: Selecta Di/ceptation im Jo-
+renſium capita. Tomus primus cum indicibus.
+Scripſt ac"deciſiones Sax. ſupremiProvocatº-
+numtribunalis addidit D. Car. Aug. Gottſchalk,
+pot. regis Saxon; a conſiliis provocationum. Ei-
+fio /ecünda multis partibus auctior et, emenda-
+tior. 1826. XXXIIu.456 S. gr. 8. (2 Rthl. 18gGr.)
+(ſiehe d. Recenſ. Erg-Bl. 1819. Nr.140)

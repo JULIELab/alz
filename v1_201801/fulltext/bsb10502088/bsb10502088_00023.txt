@@ -1,0 +1,133 @@
+457
+- - -
+458
+I66 -
+'-
+– - + T
+ALLGEMEINE LITERATUR - z E IT UNG
+, . – - - - - - – -
+Julius
+- - - - -- --
+s e
+. . MATHEMATIx. - -
+Arosa, b. Hammerich: Mathematiſche Abhand-
+Tiungen von Dr. Joh.Aug. Grunert u. ſw. . .
+(Beſchluſs der im vorigen Stück abgebrochenen Recen/on. )
+bſchn. 3
+der natürlichen Zahlen. -
+Summirung der reciproken Potenzen
+r. Gr. zeigt zu-
+1 - 2 -
+nächſt, daſs, wenn B» B» š u. f. w. die Bernoulli-
+ſchen Zahlen nach ihrer Folge bedeuten, ſtets
+11 * 11-1
+2 an- B 2 an-5B - I - -
+°“ ...an T. (an-º) T23 - ,
+“ n-2 " 1
+2 an-5B I 42° I
+- -–- - - « vºn –. –-
++TTGT5 I - -5 “- 1.2 I ..(2 n– 1)
+Il
+-
+FFTT5er- woraus nun in Verbindung mit
+der oben angeführten Gleichung
+I Tr? > I +- r“ > I
+OF > - - 211-2 Il
+yº. 1:2-3 y - “s yan-
+.. s abgeleitet
+I 22n- Tran B
+,2n "T
+wird, daſs 2 I - . . 2 In Dem Vf, kommt das
+Verdienſt zu, dieſe, aus Pfaff's Verſuch u. f. w.,
+entlehnte Relation hier recht klar bewieſen zu ha–
+ben. – Es iſt
+T - - I „ I ,
+- F+F +
+-
+11
+B
+1.2n 2
+TT2n
+I I
+– . . . = - 2- = - *
+62n
+T 22n yan
+1 1
+- I
+F--- * F +
+a - z - I I I
+folglich ==- F + F ::
+– - Il 2P1 - - *
+= Gº-pºº – Ferner iſt mit Hülfe der frü–
+-I . . . 211 | 2
+I I
+her bewieſenen Gleichung 1 T F + FTF:::
+an-1 -
+- 2 - I - I .. „. . . . . I
+= TFT * F die Summe der Reihe –F +#
+I
+-1 -
+Ä-, - n - . . .
+– F--- =TT" B. Endlich werden hier auch
+4 • • - -
+nach Euler Ausdrücke für die Summen der recipro-
+ken ungeraden Potenzen der natürlichen Zahlen mit
+abwechfelnden Vorzeichen zu finden gelehrt.
+* In einem Anhange zu dieſer erſten Abhandlung
+zeigt der Vf, noch, wie man den von Euler gefunde- .
+24. L. Z. 1823. Zweyter Band.
+**
+18 23-
+A
+nen Ausdruck X =finx ſec #xſec #xfec #x... be-
+weiſen könne, ohne dabey, wie Euler, das Unend –
+liche zu gebrauchen.
+II. Einige Bemerkungen über die Reihe: -
+nm– A (n– 1)"+ B (n–2)" –ºC (n–3)m +....
+wo "A, "Bu. ſ. w. die Binomial-Coefficienten nach
+gewöhnlicher Bezeichnung bedeuten. Der Kürze
+halber werde dieſe Reihe für die Baſis 1, und den Ex-
+II.
+ponenten m durch A, für die Baſis 2 und den Ex-
+II - -
+ponenten m durch Bu. ſ. w. für die Baſis n und den
+- 111
+Exponenten m durch N, für die Baſis n+k und den
+II.
+Exponenten m durch [N+k] angedeutet, ſo iſt alſo
+IM. IT. m Z Z-2
+A = 1", B=2".–2.1", G=3*– 2"-+# Im
+In “
+u. ſ. w. (Nºk–G+9-–#
+G+96 Ek–). . "
++=Ä–(a+k–2)"... Hr. Grunert
+(n + k– 1)-
+-
+- rn IY-1 - In -1 NA
+beweiſt nun zuerſt (§ 3), daſs N= nQ[N–1]+ N ).
+für jedes n und m fey. Mittelſt dieſer recurriren-
+den Formel iſt es leicht eine Tafel für die Werthe
+II. - - - - - -
+der Reihen N bey poſitiven ganzen Grundzahlen und
+Exponenten zu entwerfen, von welcher Tafel hier
+der Anfang für n =o bis n = 7, und für m=o bis
+m=8 gegeben wird. Auch folgt aus jener Formel
+II.
+daſs, für n»o, F-nºfN-1+nº-CN-1
+- - - *- m – -–
+2 IY1-2 R
++n"-* [N –1]... + n* [N – 1] + n[N–1) und
+O - 11-1 - Il
+daraus, daſsN=o, N=o, ... N =o, N= 1-2-3.n.
+Aus dem Satze in § 3 folgt ferner F–n.(a–).
+II - II - -
+. . . (n–k+ 1)CN-I=Än(n–ONÄ...
++n-G-9GTAF.: +"G-9(a–*)...
+m - - - .
+(n–k+ 1)[N–k + 1]: für jedes ganze poſiti-
+vek. Iſt nun n =k fo erhält man F = 12.3.:
+m – n m-n m –n + 1
+"A-1+ 2:3 na:3 nº+3.4. es sº s
+m-n-- a - m- 1 : . N m- "-
+„n C . . . + n N- daherF = ÄÄ-Ä“,
+Mmm * +-

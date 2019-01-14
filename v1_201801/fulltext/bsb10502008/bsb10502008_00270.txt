@@ -1,0 +1,168 @@
+ 
+
+Funktionen mehrerer veränderlichen Gröfsen. Homoge-
+‚ne Funktion, und, dafs es oft leichter fey, bey Funk-
+tionen. von zwey veränderlichen Gröfsen, jede dürch
+-eine neue, angenommene Gröfse auszudrücken, als ei-
+ne der urfprünglich gegebenen, dürch die andere dar-
+zußellen, x En
+Das dritte Kapel it dem erften. Kap. der. älteren
+\Ausgabe völlig gleich, bis auf einige geringe Abände-
+rungen, in der Folge einiger Sätze, und dafs die Grün-
+de der Variations- Rechnung, die in der erften Ausga-
+be im VIten Kapitel $. 57. enthalten find, hier‘ fchon
+bey No. 1:7. 121: vorkommen. |
+„Das IVrte Kapitel, handelt wie das Ilte der ält,
+‚Ausg. über die Methode der Gränzenverhältniffe, allein
+hier find aus folgenden Urfachen mehrere Abänderun-
+gen entftanden. Erflens; Hr. Coufin hatte fich erlaubt
+d* N
+» zz ...... zu gebrau-
+chen, ob er ihnen gleich nicht die gewöhnlichen Na-
+men gab; dies thut er jetzt nicht, fondern braucht da-
+für die’Buchftaben p,q,..... Zweytens. Die "Theorie
+der krummen Linien im erften Kapitel diefer Ausgabe,
+werftattete jetzt in den Anwendungen diefer Methode,
+auf Beitimmung der Tangenten, Afymptoten, vielfachen
+Punkten , Krümmungs’-Halbmeffer, weit mehrere Cur-
+ven betrachten zu können.
+
+Das Vte Kapitel enthält die Sätze $.27 und 28, der
+
+ält. Ausgabe, über Schwerpunkt, befchleunigte Bewe-
+gung, Kepplerifche und Newtonifche Gefetze und ‚Bah-
+nen. der Himmels - Körper, am Ende etwas von der Ket-
+ten - Linie, und der Bernoullifchen Courbes €laftiques,
+auch diefe Sätze find in gegenwärtiger Ausgabe mehr
+ausgeführt worden,
+“Es fängt nun mit S. 151. N:219. Traite de Calcub
+Qiffremtieh: et‘ de Calcul integral’an. I Partie, Chapitre
+JT. Ueber Differenzial - Rechnung, refpondirt genau dem
+Hlten Kap. der älteren Edition, fo wie das 1lte Kapitel,
+die Anwendung diefer Rechnung“, mit dem IVren Kap.
+refpondirt; aufser folgenden Abänderungen , dafs nam-
+lich, die Ausdrüke für Tangenter, Krümmungshalb-
+mefler u. ff: aus den‘ Zeichen des IVten Kapitels ip
+die. gewöhnliche Bezeichnifsart ‘der Differenzial-
+Rechnung &£bertragen worden, Die Entwickelungven
+Funktionen in Reihen, im 35 $. der älteren ‚Ausgabe,
+befinder fich hier volltändiger im IIlten Kapitel ausge-
+führt, Das IHte Kapitel handelt von der Integral - Kech-
+zung überhaupt; von den verfchiedenen Formen‘, die
+man allemal Differenziel - Gleichungen geben kann;
+von der Abfonderung der veränderlichen Gröfsen, in
+Differenzial - Gleichungen von höheren Ordnungen;
+verfchiedene Methoden zu integriren, Leibnitz’s Lehr-
+fatz unter dem Integralzeichen zu differenzieren, Ni-
+colas Bernouilli Anwendung deffelben auf das bekann-
+te: Problem des Trajectoires, und auf andere mecha-
+nifche Aufgaben. Dies Kapitel refpondirt mir dem Vren
+der erften Ausgabe,
+
+Das‘ IVte Kapitel; von der Variations - Methode,
+vorzügliche Anwendung derfelben, auf das berühmte,
+von Jacob Beznoulli aufgegebene Probleme des 1Juperi-
+
+dy
+£chon-hier die Zeichen -—
+Fr dx
+
+ALLG.. LITERATUR - ZEITUNG -
+
+  
+     
+    
+  
+ 
+ 
+ 
+  
+   
+  
+   
+  
+  
+   
+ 
+    
+   
+ 
+   
+ 
+ 
+   
+  
+  
+  
+  
+    
+    
+    
+   
+    
+ 
+
+zw
+
+metres; La Grange gab in den. Turiner Memoiren 1762
+noch eine allgemeinere Methode, Borda und Frifi zeig
+ten, dafs man durch die Eulerifche Merhode auf diel
+ben Refultate gelange, aber Coufin zeigt, dafs dadur
+nichts dem Verdienit der de la Grangifchen. Merho
+benommen wird, die einfacher und allzemeiner ift. „Die
+fes Kapitel ftimmt genau mit dem Vfen Kap. der eriten
+Ausgabe, womir fich diefer ‚erite Band {chliefst; bloß
+S. 266. No. 313: (S. 305. der ält, Ausg‘) verdient fol
+gende Verbefferung bemerkt zu werden in der älteren
+Ausgabe ftehet, D’Alembert habe 1747 zuerit den Geo- ı
+metern gezeigt & integrer complettement les, equations 4
+aux differences partielles, dafür itehet jetzt, Euler, und
+das Jahr 1734, dabey wird der VIL'Tome, des anciens
+Memoives de Petersbourg citirt, und gefapt, dafs D’Alem-
+bert einige Jahre darauf, von diefer wichtigen Erfin-
+dung (decouverte importunte) den fchöuften Gebrauch:
+emacht habe, In dem difcours preliminaire der Introd,
+G Petude de l Afr. phyf. Paris 1787: deflelben Verfallers,
+wird S, XV, die Ehre diefer Erfindung} zwifchen die-
+fen beiden Gelehrten getheilt. ST Ca
+Im zweyten Bande, (Seconde wartie) find die 1, I
+und IH Kapitel vollkommen gleich den Vil, VIH und
+IX Kapitel der älteren Ausgabe, und enthalten, die
+tegration, der Differenzial- Formeln, die nur eine
+zige veränderliche Gröfse haben; die Abfonderung €
+veränderlichen Gröfse in den Differenzial- Gleichung
+und die Methode Differenzial- Gleichungen mit Mul
+plicirung durch Faktoren zu integriren. Das IVte Kapi
+von der Integration des equations aux differences‘
+tielles it mit dem Xten Kapitel der älteren Ausgabe,
+auf No, 87. gleichlautend; den Schlufs diefes Kapi
+macht aber (No. 512— 516.) ein Lehrfatz, der. weit a
+gemeiner,_als die vorhergehenden diefes Kapitels ty)
+von Coufin erfunden, und io den Memvites der parifer
+Academie des Sciences für 1783 und 1784 zuerft bekannt _
+gemacht worden. Das Vte Kapitel ift überfchriebi
+„De Integration des Equations aux differences ii
+„qui ont ‚point d’integrales fwscefives“ enfpricht €
+69. 88. und 89. des Xten Kapitels der erlten Edi
+aber natürlich mit vielen Abänderungen, weil der”
+fich, auf feinen neuerfundenen Lehrfatz (am Ende dı
+1Vten Kap.) immer bezieht, Das VIte Kap. ift
+neu, und enthält, die Differenzial+ Gleichungen der 2ten
+gten und höheren Ordnungen, betrachtet als Gleich
+gen mir partiellen Differenzialen‘ (equations aux diffe
+ces partielles) der ztcn, 2ten und höheren Ordnungen
+Das V!lte Kapitel, von der Integration der, Glei_hungen‘
+mir endlichen Differenzen, ift‘ völlig gleich dem alte“
+ren XIten Kapitel. Den Befchlufs macht das, VilLte Kap,
+das mit dem X!lten Kap. der alten Ausgabe ftimmt, 6
+viel’ reichhaltiger als diefes ift;z es enthält la Grang,
+Umkehrungs - Forine! aus dem Paylorifchen Lehrfatz-ers
+wiefen; Anwendung derfelben die Relation zwifchen
+wahrer und mittlerer Auomalie zu finden, und aufdas |
+umgekehrte, fozenannte, Kepplerifche, Problem; die |
+Appreximation ift nicht weirer als auf die 4te-Portenzen
+der Exceutricität'getrieben, Cagnoli (Traitede Trigona-
+snetrie (j.771.) brachte diefe Reihe. bis zur gten Potenze
+und brauchte hierzu nach feiner Meihode (G, 371
+U und
+

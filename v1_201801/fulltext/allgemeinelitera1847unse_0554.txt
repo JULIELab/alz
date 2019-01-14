@@ -1,0 +1,122 @@
+1107
+
+hält die arithmetische und geometrische Proportions-
+lehre, die Lehre von'den arithmetischen und geo-
+metrischen Progressionen , die Logarithmen , den bi-
+nomischen Lehrsatz für ganze positive Exponenten,
+die Kombinationslehre, die Elemente der Wahr-
+
+scheinlichkeitsrechnung, so wie die Lösung dio-
+
+phantischer Gleichungen,
+
+Was zunächst diese Anordnung des Lehrstoffs
+betrifft, so können wir uns mit derselben nicht ganz
+einverstanden erklären. Zuvörderst gehört wohl die
+Proportionslehre ihrem Wesen nach hinter die Lehre
+von der Division, unbestreitbar aber mussten die
+Logarithmen ihre Stelle nach der Lehre von den
+Wurzeln erhalten. Ist der Werth einer Potenz und
+zugleich der Exponent gegeben, so führt die Auf-
+suchung der Grundzahl auf die Lehre von den Wur-
+zeln, ist aber ausser dem Potenzwerthe die Grund-
+zahl gegeben, so führt. die Aufsuchung des Expo-
+nenten ‚auf die Logarithmen. Die Lehren von den
+
+Wurzeln und Logarithmen laufen also neben ein-'
+
+ander parallel von der Potenzlehre aus und müssen
+schlechterdings auch nebeneinander behandelt wer-
+den. | So wäre wohl auch der binomische Lehrsatz
+passender hinter die Kombinationslehre gebracht,
+und mit deren Hülfe erwiesen worden. So wie er
+hier behandelt, wird, erscheinen dem Schüler die
+Binomialcoefficienten wie durch ein Kunststück her-
+vorgezaubert, während er sie hingegen aus der Kom-
+binationslehre naturgemäss entstehen sieht.
+
+In Betreff der Behandlung der einzelnen Lehr-
+gegenstände müssen wir den "Tadel ausspre-
+chen, dass sich der Vf. etwas zu sehr ins Breite
+verliert, ohne doch dadurch der Deutlichkeit Vor-
+schub zu leisten. "Tadeln müssen wir auch, dass
+der Vf. die Hauptlehren der Arithmetik, nicht scharf
+genug hervortreten lässt, so wie wir auch die sy-
+stematische Anordnung der Sätze für die schwäch-
+ste Seite des Buchs erklären müssen. Bei der Ad-
+dition und Subtraction waren die Hauptsätze, welche
+sich an die Formeln
+
+(a+5) +c = (a+c) +0 = a+(b+ec)
+
+(a+d)—e = (a—c) +0 = a + (b—c)
+(a—b) +C = (a+c)—c = a—(b—e)
+(ae«—b)— € = (a—c)—b = a—(b6+c)
+
+a+(b+c) = (a+b) +C = (a+c) +0
+a—(b+c) = (a«—b)—e = (a—c)—b
+a+(b—c) = (a+b)—e = (a—c) +0
+a—(b—c) = (a—b) +C = (a«+c) — 0.
+anschliessen , scharf hervorzuheben und ebenso die
+Hauptsätze der übrigen Rechnungsoperationen. Das
+
+ALLG. LITERATUR - ZEITUNG
+
+1
+
+1108
+
+Auftreten der entgegengesetzten Zahlen finden wir
+nicht gehörig vermittelt. Die Proportionslehre ist
+ausführlicher behandelt, als es gewöhnlich in an-
+dern Lehrbüchern geschieht, und müssen wir das
+loben, namentlich ist es dankenswerth, dass der
+Vf. ihre Anwendung auf das praktische Rechnen
+nachweist und durch Beispiele erläutert.
+
+5) Anfangsgründe der Geometrie zum Leitfaden
+für Lehrer der Gymnasien wie auch zum Selbst-
+unterrichte , verfasst von Prof. S. F. Lubbe,
+Dr. und Privatdocent zu Berlin. Mit 12 Figu-
+rentafeln. gr. 8. 20 Bog. Berlin, Hermann
+Schultze. 1846. (12% Rthlr.)
+
+Der Vf. schickt seiner Schrift eine Einleitung 4,
+in die Mathematik überhaupt, B. in die Geometrie,
+C. in die niedere Planimetrie voraus und handelt
+dann von S. 18 bis 195 die Planimetrie, von S. 196
+bis 226 die ebene Trigonometrie und von 227 bis
+279 die Stereometrie. Betrachten wir zunächst die
+
+Planimetrie.
+Sie wird in die beiden Hauptabschnitte X. Gleich-
+heit und Congruenz und B. Proportionalität und
+Aehnlichkeit geschieden. Der erstere enthält wieder
+die Unterabtheilungen A. Gebilde von 3 Geraden.
+B. Vierecke, Parallelogramme, C. von den Viel-
+ccken, D. von den Kreisen, E. von den in und um
+den Kreis beschriebenen Vielecken. Der zweite
+Hauptabschnitt zerfällt wieder in die Unterabthei-
+Jungen, A. Proportionalität der geraden Linien;
+B. Proportionalität geradliniger Figuren und Aehn-
+lichkeit derselben. C. Proportionalıtät ‘der Geraden
+in Kreisen; D. Verhältnisse der geradlinigen Figu-
+ren; E. Vergleichung des Kreises mit den ein-
+und umgeschriebenen Vielecken. Maass des Kreis-
+bogens und der Kreisfläche. Der getroffenen Ein-
+theilung des Lehrstoffs ist das Lob vollkommener
+Symmetrie nicht abzusprechen. Das ist aber auch
+fast das Einzige, was an ihr zu rühmen'ist. Zu-
+nächst wird Jeder fragen, wo stecken denn die
+Gebilde von 2 Geraden? Die sind in der Einleitung
+untergebracht worden, weil sonst die erste Unter-
+abtheilung 6 Kapitel erhalten hätte und die schöne
+Symmetrie gestört worden wäre, VUebrigens hätte
+denn auch die Hauptüberschrift Gleichheit und Con-
+gruenz nicht recht mehr gepasst. Doch kommen
+wir zur näheren Prüfung der Behandlung im Ein-
+zelnen. In die Einleitung sind die Definitionen aller
+geometrischen Gebilde in der Ebene aufgenommen
+worden. Wir müssen das entschieden tadeln. Die-
+sen Wust von Erklärungen kann der Schüler un-
+

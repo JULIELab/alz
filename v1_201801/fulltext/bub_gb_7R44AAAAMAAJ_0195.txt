@@ -1,0 +1,123 @@
+379
+
+sächlich Rücksicht nimmt, seibst wenn sie an Orten
+leben, wo keine grössern Bibliotheken und Journal-
+zirkel existiren, dennoch mit den neuesten Erzeug-
+nissen und Entdeckungen in der Wissenschaft be-
+kannt werden können, Unter diesen Abhandlungen
+neunt Ref, folgende, und zwar zunächst aus der
+Theorie der Gleichungen:
+
+T. L pag. 19—56, Veber die Bestimmung der
+Anzahl der zwischen gegebenen Grenzen liegenden
+reellen oder imaginären Wurzeln der algebraischen
+Gleichungen, Nach einer Abhandlung des Hrn, Abbe
+Moigno in dem Journal de Mathematiques pures et
+appliquees publie par Joseph Liouville, Fevrier, 1840,
+P- 75, frei bearbeitet von dem Herausgeber, Nach-
+dem zuerst mehrere bekannte Sätze über die deri-
+virten Functionen einer Grösse f(z7)= 009 +41 +
+az? ...+0n x” ohne Hülfe der Differentialrech-=
+nung entwickelt sind, handelt der Vf. von dem Ex-
+cess der gebrochenen rationalen algebraischen Fun-
+
+ctionen. Wenn der Bruch 71)
+ÖY (m)?
+
+gr) ganze rationale algebraische Functionen sind,
+indem die Variable x sich von a bis & stetig ändert,
+nunmal unendlich wird und dabei vom Negativen zum
+Positiven übergeht, und ausserdem n!mal unendlich
+wird und dabei vom Positiven zum Negativen über-
+geht, so nennt Muigno die Differenz n—n1= E den
+Excess der gebrochenen rationalen algebraischen
+
+Function —- für die Grenzen @ und &. Cauchy
+
+nennt dieselbe Grösse indice integral. Mit Hülfe
+verschiedener Sätze über diesen Excess wird dann
+die Anzahl der zwischen gegebenen Grenzen lie-
+genden reellen und imaginären Wurzeln einer ge-
+gebenen Gleichung bestimmt, d. h. es werden die
+herrlichen Sätze von Sturm und Cauchy bewiesen,
+Hicran schliesst sich unmittelbar die Abhandlung in
+demselben Bande des Archivs S. 126 — 136, deren
+Uceberschrift sogleich den Inhalt genau angiebt: Ab«-
+leitung der Sätze von Rolle, Fourier und Descartes
+über die Anzahl der zwischen gegebenen Grenzen
+liegenden reellen Wurzeln einer algebraischen Glei-
+chung aus der Lehre vom Excess der gebrochenen
+rationalen ‚algebraischen Funetionen; vom Heraus-
+geber. Beide Abhandluugen sind schr interessanto
+Deductionen, für deren klare und präcise Darstellung
+dem Herausgeber der grösste Dank gebührt.
+
+Auf S, 81—89, T. I., theilt der Herausgeber
+aus Liouville’s Journal den hübschen geometrischen
+Beweis von Mourey mit, dass jede algebraische Glei-
+chung, deren Coefficienten die Form «+6i haben, min-
+destens eine Wurzel von derselben Form haben muss.
+
+worin @ (x) und
+
+ALLG. LITERATUR - ZEITUNG
+
+380
+
+T, I. pag. 225— 237. Eine Inhaltsanzeige der
+bekannten Werke von Fourier und Drobisch von
+Prof. Gartz in Halle,
+
+T, II. pag. 76—105 und T. IL pag. 315—377.
+Veber die Theorie der Elimination, vom Heraus-
+geber. In der erstern sind mehrere schon scit län-
+gerer Zeit bekannte Eliminationsmethoden angegeben,
+welche hier nur der vollständigern Uebersicht wegen
+mit aufgenommen sind; und zwar zunächst die ältere
+Untersuchung Cauchy’s über die Elimination der un-
+bekannten Grössen aus Gleichungen des ersten Gra-
+des; sodann die Methode Eulers, um aus zwei Glei-
+chungen höherer Grade eine der beiden darin vor-
+kommenden unbekannten zu eliminiren, die aber be-
+kanntlich zu einer Endgleichung führt, deren Grad
+zu hoch ist, weil sie mehrere überflüssige Factoren
+enthält; und endlich noch zwei Methoden von Euler
+(vervollständigt von Sylvester und Kichelot) und von
+Bezout, welche im Wesentlichen darin bestchen,
+dass sio die Aufgabe auf die Auflösung einer An-
+zahl lineärer Gleichungen zurückführt, deren Deter-
+minante die gesuchte Endgleichung ist. So sinnreich
+diese Verfahrungsarten aber auch sind, so sind sie
+doch in der Praxis, wegen der grossen Weitläufig-
+keit, beinahe unausführbar, In der zweiten Abhand-
+Jung theilt der Herausgeber die Kliminationsmethode
+mit, die sich hauptsächlich auf der Theorie der
+symmetrischen Funclionen gründet und welche Cauchy
+iu seinen Exrercices d’Analyse et de Physique mathe
+matique, TY. I. p. 397 dargestellt hat, Diese Me-
+thode reducirt sich dem Wesentlichen nach auf die
+Aufgabe: Jede symmetrische Function der Wurzeln
+einer Gleichung durch die Coeffcienten dieser Glei=
+chung auszudrücken, ohne die Wurzeln selbst zu
+kennen, Hierbei kommt man auf folgendes sehr
+wichtige Theorem: Die Wurzeln der Gleichung
+
+zZ + Ar 4 Ba ru +Cr+N=0
+
+seyen a, 5, c, d..... €, k, und f (a, b, c, d ...i, k)
+sey eine beliebige ganze rationale symmetrische
+Function der Wurzeln, welche, ohne die Wurzeln
+selbst zu kennen, durch die Coefficienten der ge-
+gebenen Gleichungen, die ganz beliebige reelle oder
+imaginäre Grössen seyn können, ausgedrückt wer-
+den soll. Zu dem Kude seize man
+
+N EN AH
+und
+
+F (x) = F(z)— F(«@),
+
+X— «a
+RO=AO— A003,
+z—b
+

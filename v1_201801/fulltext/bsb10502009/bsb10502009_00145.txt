@@ -1,0 +1,156 @@
+ 
+
+Ks
+
+   
+
+den können, näher erwägt. Hr. Töpfer findet ver-
+mittelft der Combinationstheorie folgende Regel; wenn‘
+die Seite eines Quadrats in: eine gerade Anzahl Theile“
+= 7n, alfo-das Quadrat felbft in 4n? Kleine Quadrate”
+getheilt its fo,jit die Anzahl der verfchiedenen mög-
+Tichen Gitter, die dafür ausgefchnitten. werden kön
+
+nen =— nix; Dies giebt, wenn jede, Seite dess
+‚Quadrats/nur ing Theile, alfo-das Quadrat, in: 64. Fä-
+cher ‚dbgetheilt. its fchom 1073741,824 yerfchiedene‘
+Gitter. rathe nun /einer.das: richtige heraus! Wer!
+auch nicht mit ‚der Combinationstheörie bekannt if,
+wird Geh leicht, die Sache auf folgende Art.vorfellen
+können. Es feye z. B. wieder die Seite eines. Qua-
+drats’ in,8, Theile, mithin, das Quadrat in, 64 Fächer!
+
+eingetheilt. ‚Nun betrachtehnan zuerft nur die äufse«
+ren; Banden des Quadrats,, indem man nämlich dasi
+
+innere Quadrat‘, / deßen’Seiten: noch'in 6 Theile eins
+gerheilt find, herabsgenommen-fch voritellt, > farent-
+fieht ‚dadurch-folgenude Figur:
+
+a a
+
+A
+241 3:1 3:19416- 1.6.17. | 1-
+
+    
+
+7
+S
+51
+Ei
+3
+5
+ı
+
+ 
+
+EN
+1615144312
+cc *
+
+Nun ift begreiflich, dafs‘ von den mit gleichen Zah-
+len bezeichneten 4 Fächern immer nür in Eins eine
+Oefnung,gefchnitten werden darf, indem.durch. das
+Umdrehen der Pappe die bey, einem. Fach: gemachte
+efnung nothwendig. auf. alle. ‚gleichnamige Zahlen
+nach und nach fällt. Es ift alfo z. B. völlig gleich,
+welches der mit 2 bezeichneten Fächer man durchlö--
+chern will, aber que davon mufs ‚es werden. Ge-
+-fetzt.nun, man habe in” der mit a bezeichneten Seite
+das Fach ı durchlöchert, fo kann man offenbär 4 ver-
+fchiedene mit 2 bezeichnete Fächer. durchlöchern.
+Welche Art man aber-auch-wählen mag; fo -kanızman-
+wieder. 4 verfchiedene mit 3. bezeichnete. Fächer
+
+„+ durchlöchern. Dies giebt alfo in Verbindung" mit den
+
+4 vorhergehenden Fällen fchon 4. 4716 verfchiede-
+ne Arten. Kommt.hiezu noch das nit 4. bezeichnete
+Fach, fo hat man 4.44. 4 64 Arten; in Verbiludung
+nit. dem Fach.s. hatıman 4 4 4-4. 25635 in. Ver-
+bindung mit dem, Fach 6. hat man’ 45 = 10245 end«
+Yich in Verbindung mit dem Fach 7 hat man 4“ = 40096
+verfchiedene Fälle, und’ doch hat man"jetzt nur erft
+die.vier äufserften. Banden in; Betracht gezogen. . Be-
+trachtet‘ man nun auch die 4 hächflen inneren anlie-
+genden Banden, deren jede noch 6-Theile Hat; fger:
+hält man wieder 4° = 1724 verfchiedene Fälle, die in
+Verbindung mit den vorigen jetzt 4 — 4»1947304 ver-
+
+a Sa AA
+
+a © GEN Non FEBRUAR 1797
+“ zerftreut, und‘ fölglich auch wieder‘ verbunden wer.
+
+A
+
+278
+
+fchiedene Fälle ausmächen; Tome geben ch
+ften.innern anliegenden Banden, deren jede Seite 4
+recht Meder = 64 neue Fälle, | er
+ung mit den vorigen jetzt 268435 ve es
+dene Fälle, Endlich giebt das era item, von«
+dem jede Seite noch 2 Theile hat, 4 neue Fälle: alfor
+-hat’man, im’ Ganzer Tr 0S verfchiedene Fähe;:
+wie’ obeh angegeben it. Eben‘(o‘ läfst fich die Sache!
+auch‘ im Allg ‚einen‘ herleiten: Auf älimliche‘ Artı
+findet fich’nun die Anzahl der @öglichen Gitter, wenn!
+das Quadrat (215 + 1) * oder eine ungerade Anzahl Stel:
+
+len, hat = 4 +2 — 1, So wäre für ein Quadrat
+von 81 Fächern, die Anzahl aller eng hen Gen
+„27458775 Freylich find nicht alle, der an fich.
+Eee deswegen. anch für Geheimfchreibe- .
+rey brauchbar, z.B. alle diejenigen nicht, bey. wel-
+cher, die Folge, der Oeffnungen-eine von der gewöhn:
+lichen Lefeordnung nur fehr wenig abweichende Otd-
+aung geben würde; allein diefer ift doch in Ver“
+gleich mit den fo äufserft zahlreichen überhaupt
+möglichen Gitter‘ nur eine geringe Anzahl. Uebri-
+gens macht der Ungenannte Hoffnung, Künftig Pro-
+ben: zu geben, wie dergleichen Gitter auf inehrere
+und nützlichere Gegenftände als das, blofse Geheim-
+fchreiben angewendet werden können. Rec, will nur
+noch eine Bemerkung beyfügen.  Es.iftbey. dem Format
+mäncher- Briefe: nicht bequem, gerade ein Quadrat
+oder: fonft: eine. reguläre. Figur brauchen zu müflen;,
+ein Rectangel wäre. hiezu, eine Ichicklichere Form,
+Freylich aber’kann man’ ein,Rectangel,. weil nur die’
+zwey gegenüberftehenden Seiten gleich find, nicht
+mehr 4mal,. fohdern nur zweymal umdrehen. Allein
+dafür kann man nun die ganze: durchlöcherte Pappe
+auf. die andere Seite mmnwenden , und auch dort: 2mal
+umdrehen, alfo kommen: doch. auch 4 verfchiedene
+Lagen der Pappe heraus, Nur: müffen die Oeffnun-
+gen nach einer etwas andern’ Regel, die man fich
+leicht aus Leyftehender Figur. abitrahiren wird, ge-
+macht. werden. z
+
+(KEN 4143: 20 EA
+. > x .
+
+In 2 U 3 la a D3 12.12
+Nämlich hier‘ kommen nur immer die oberfte und
+unterfie, und überhaupt die von der Mitte des Rect-
+anigels gleich weit abitehenden Banden in Vergleich
+miteinander; weil auch ‚nur diefe‘ einander decken,
+Die Zahlen, wie’ hier‘ gefchrieben; darf mon von"den
+gleichnamigen Fächern immer wieder nur” eihs durch)
+löchern,. welches alfo eine ähnliche, leicht zu hberech:
+nende Mannichfaltigkeit yon Fällen ‚giebt. Diefe Ein-
+richtung gewährt auch'den Vortheily dafs die OeiNann-
+gen, weil die Pappe nicht umgedreht) fonderr nur
+umgeweldet wird, nicht Kreisförmig werden müfen,
+fondern-reetangular feyn können, welches für das
+Einfihreiben bequemer if. Telegraphie,. von der es
+wicder ganz ftille ift, könnte in leichte Verbin
+Mm hef
+
+ 
+
+ 
+
+ 
+  
+

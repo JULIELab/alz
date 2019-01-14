@@ -1,0 +1,127 @@
+189
+I90
+Num. 128. MAY 1 81 8. .
+-
+Der ſiebente Abſchnitt handelt von dem Princip
+der virtuellen Ä deſſen Auffindung
+zuerſt an leichten Beyſpielen; dann aber auch allge-
+mein gezeigt wird. * - ,
+weytes Buch. Dynamik. S. 261–472. Erſter
+Abfchnitt. Von der gradlinigten Bewegung. Gleich-
+förmige Bewegung. Die Bemerkungen S. 262 und
+265 ſcheinen uns nicht ganz zweckmäſsig. So gut
+und nothwendig es iſt, auf die Gleichartigkeit der
+einzelnen Glieder einer Gleichung aufmerkſam zu
+machen, ſo iſt es doch hier gar nicht nöthig die
+Gröſsee, a, b, wo e, b Linien und a die Geſchwin-
+digkeit bedeutet, auf Zahlen zurückgebracht zu den-
+ken; das Einzige was hier nöthig iſt, aber auch ſich
+von ſelbſt verſteht, iſt, daſs man die Zeit t als eine
+Zahl anſieht: denn da a der in einem Zeittheile oder
+in der Zeit-Einheit durchlaufene Weg iſt, ſo iſt a. t -
+Ä die in t Zeit- Einheiten Ä Linie.
+ie Bemerkung S. 265, obgleich ſie an fich nicht un-
+richtig iſt, kann dennoch den Anfänger verwirren.
+Woher die anfängliche Geſchwindigkeit bey einer
+Bewegung, deren nachherige Beſchleunigung man
+betrachten will, rührt, iſt ganz gleichgültig, und um
+keine Verwirrung zu veranlaſſen, iſt es beſſer von
+der etwa einmal thätig geweſenen Kraft, welcher ſie
+ihr Entſtehen verdankt, gar nicht zu reden. Dieſes
+könnte um ſo eher unterbleiben, da wir von Kräften
+die auf die Körper pendant un tems, dont la durée ef
+inappréciable, oder unendlich kurze Zeit, wirken
+(Nr. 195) keinen deutlichen Begriff haben. Alle-
+mal ſind wir doch genöthiget, uns die Kräfte, ſelbſt
+des Stoſses, als in der Zeit wirkend zu denken, und
+folglich können wir nur ſofern die Kräfte der her-
+vorgebrachten Geſchwindigkeiten proportional ſe-
+1zen, als dieſe Geſchwindigkeiten durch eine gleich
+lange dauernde Einwirkung der Kraft hervorge-
+bracht werden. -
+* Die Lehren von der gleichförmigen Bewegung,
+von der gleichförmig beſchleunigten und ungleich-
+förmig beſchleunigten Bewegung werden auf die be-
+kannte Weiſe abgehandelt, und man wird leicht ver-
+muthen, daſs der Vf. bey Lehren, die in der That
+ſehr leicht ſind, den Leſer ganz befriedigt. Zur Er-
+läuterung dieſer Lehren ſind drey Beyſpiele ausführ-
+Iicher durchgerechnet; erſtlich die Geſetze eines aus
+ſsen Höhen gegen die Oberfläche der Erde fallen-
+en, und dann nach dem – bekanntlich innerhalb
+der Erde veränderten – Anziehungsgeſetze gegen
+den Mittelpunct fortgehenden Körpers; (von der
+Schwierigkeit, welche die Darſtellung findet, wenn
+man bey einer den Quadraten des Abſtandes umge-
+kehrt Ä Anziehung den Körper bis
+ZUITl" MÄ puncte und über ihn hinaus verfolgen
+will, ſagt der Vf, nichts); zweytens, die Bewegung
+eines von zwey anziehenden Puncten zur Bewegung
+angetriebenen Körpers, wenn er ſich auf der zwi-
+ſchen ihnen gezogenen graden Linie befindet; drit-
+tens die Bewegung eines in der widerſtehenden Luft
+vertical aufwärts oder niederwärts geworfenen Kör-
+Pers, - wo jedoch der Fall nicht betrachtet wird,
+da der Körper aus ſehr
+die Ä Dic
+herabfällt.
+Zweyter Abſchnitt. Von der krummlinigen
+Bewegung eines freyen Punctes. Die allgemeine
+Ä Bewegungen hat uns nicht ſo ge-
+lungen geſchienen, wie wir es ſonſt bey Hn. P. ge-
+wohnt ſind. Das iſt ganz richtig, daſs mit der Be-
+ſtimmung der Geſchwºpdi keit und Richtung, die
+ein von zwey Kräften nach verſchiedenen Richtun-
+gen getriebener Pufct annehmen wird, angefangen
+iſt; aber es lieſse ſich wohl ein kürzerer Uebergang
+zu dem Hauptſatze finden, daſs bey Zerlegung der
+auf den bewegten Punct Äj Kräfte nach
+Richtungen den drey Hauptaxen parallel, die Pro-
+jectionen jenes Punces auf jede dieſer Axen ſich ſo
+bewegen als ob ſie von den Ä beſtimmten Axe pa-
+rallelen Kräften beſchleunigt würden. Auch könnnnt
+es uns doch vor, als ob der Schluſs Nr. 221, daſs die
+Richtung der Geſchwindigkeit v mit der Tangente
+der Curve zuſammenfalle, als Schluſs oder als eine
+aus den Formeln Ä neue Folgerung ſehr
+unbedeutend ſey, und allenfalls nur in der Form er-
+wähnt werden durfte, als ſich hier zeigt, daſs auch
+die algebraiſche Darſtellung dieſen Satz ausſpricht,
+den man ſchon aus der Natur der Sache wiſſen konnte.
+Die Anwendung auf die Bahn geworfener Kör-
+per im leeren Raume enthält das Bekannte vollkom-
+nen gut. Die Bahn geworfener Körper in wider-
+ſtehenden Medio wird durch die ſchon in Legendre's
+Preisſchrift vorkommenden Gleichungen dargeſtellt,
+und die Theorie der Curve iſt nicht nur hier nicht
+weiter gebracht, ſondern es iſt vielmehr manches
+Merkwürdige übergangen, was ſchon Legendre an-
+führt, und was in einem Buche wie dieſes wohl ei-
+nen Platz verdient hätte; doch das hier mitgetheilte
+iſt ſehr zweckmäſsig dargeſtellt. Endlich folgt noch
+die Theorie der elliptiſchen Bewegung der Planeten.
+: - Dritter Abſchnitt. Bewegung eines Punctes auf
+einer vorgeſchriebenen Curve. Ä hier die allge-
+meinen Formeln für dieſe Bewegung und ihre An-
+wendungen auf die Oſcillationen des Pendels vorkom-
+men, verſteht ſich von ſelbſt; zugleich wird noch ge-
+zeigt, daſs bey ſehr kleinen Oſcillationen durch den
+Widerſtand der Luft die ganze Oſcillationszeit nicht
+merklich geändert wird; es wird die Zeitbeſtimmung
+für gröſsere Schwingungen gegeben, und gezeigt,
+daſs die Cycloide nicht nur eine Tautochrone, ſon-
+dern auch die Brachyſtochrone fey. Die letzte Un-
+terſuchung iſt durch einige Betrachtungen aus der
+Variations-Rechnung eingeleitet, die, indem ſie
+kurz, bloſs das eigentlich Wichtige ausheben, ſehr
+Ä ſind, um Anfänger mit dieſen Lehren nä-
+er bekannt zu machen. Die Beſtimmung der Bra-
+chyſtochrone für zwey feſte Endpuncte wird ganz
+ſo dargeſtellt, daſs jeder, dem die Variations-Rech-
+nung nicht ganz unbekannt iſt, ſie verſtehen wird;
+bey den Beſtimmungen, wo veränderliche Endpuncte
+angenommen werden, möchte es wohl zweckmäſsi-
+ger geweſen ſeyn, ſogleich nur bey einem Beyſpiele
+- ZU.
+Ä Höhen, wo man auf
+tigkeit der Luft ſehen muſs,

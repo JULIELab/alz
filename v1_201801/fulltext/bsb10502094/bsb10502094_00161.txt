@@ -1,0 +1,105 @@
+281
+282
+-- 34 -
+A LL GE M E IN E LI T E RAT UR - ZEITUNG
+Februar 1826.
+MATHEMATIK.
+HALIr, b. Kümmel: Statik feſter Körper – –
+von IDr. Joh. Auguſt Grunert u. ſ. w.
+(Beſchluſs der im vorigen Stück abgebrochenen Recenfon.)
+VIII. Kap. Eiärung des Schwerpunktes. Allge-
+meine Sätze über denſelben – Sätze, welche Jich
+durch die bloſse Elementarmathematik ohne Hülfe der
+Differential- und Integralrechnung bereiſen laſſen,
+bij S. 293. Eine ſinnreiche Art, den Schwerpunkt
+eines Dreyecks durch Summirung unendlicher Reihen
+zu finden, theilt der Vf, hier S. 243–245 aus den Elé-
+mens de Statique par Poin/ot mit. Ueberhaupt iſt
+dieſes Kapitel ſehr reich an analytiſchen Ableitun-
+en merkwürdiger Relationen, ſowohl in geometri-
+Ä als Ä Rückſicht, worunter ſich auch
+einige von Gauſs, Pfaff, Eytelein, L'Huilier und
+Monge auszeichnen. IX. Kap. Von der Beſtimmung
+des Schwerpunktes krummlinger Figuren, bis S. 340.
+Hier dient überall die Differential – und Integral-
+rechnung zur Begleitung und Wegweiſerin. Nur
+wenige Äufgaben bedürfen dieſer Hülfe nicht. Selbſt
+hier hatte Archimedes, deſſen groſse Verdienſte der
+Vf. auch in vorhergegangenen Unterſuchungen an
+mehreren Stellen ins Gedächtniſs zurückruft, ſchon
+etwas geleiſtet, und gewiſs würde derſelbe darin
+noch mehr geleiſtet haben, wenn es ihm nicht darum
+zu thun geweſen wäre, ſeine Geiſteskräfte bey nütz-
+licheren Entdeckungen zu verſuchen. So urtheilt ſelbſt
+IIontucla in ſeiner Hiſ. des Illathem. in einer vom Vf.
+S. 316, aber ohne Zweifel in anderem Bezuge, an-
+esführten Stelle. Der groſsen Menge ſchöner ana-
+ysiſcher Deductionen ſchaltet der Vf, auch S. 320
+u. f. f. die Hauptgleichungen ein, welche zur Cy-
+cloidc., zur archimed. Spirale u. a. gehören, verweiſt
+aber dennoch am Ende den etwa noch nicht geſät–
+tigten Leſer auf Eytelweins Lehrbuch der Statik.
+Als Anhang ſind noch einige Integrationen beygefügt,
+bis S. 344. X. Kap. Von der Beſtimmung des Schwer-
+punktes durch Umdrehung um eine Aa rzeugter
+Körper, bis S. 358: XI. Kap. Von der Beſtimmung
+des Schircrpunktes krummer Linien, bis S. 385. Für IBe-
+ſitzer des Handb. der Statik von Eytchccin, welche die
+vorliegende Schrift etwa nicht beſitzen ſollten, be-
+merkt Rec. hier einen in jenem Handb. Th. I. S. 124
+vom Vf. aufgefundenen Rechnungsfehler, welcher
+fch dort durch die ganze Rechnung fortgepflanzt
+hat, indem Ehtelwein a + x = # Y(a? +y“) ſtatt
+A. L. Z. 1826. Erſter Band.
+-
+-
+a + r = - y(b? +y”) findet. XII. Kap. Beſim-
+mung des Schwerpunktes durch Umdrehung erzeug-
+ter Flächen, bis S. 425 . Unter den mannigfaltigen
+hier vorkommenden Unterſuchungen findet man
+auch die ſchwierige Aufgabe vom Schwerpunkte ei-
+nes ſphäriſchen Dreyecks (S. 392 u. f. f). Hier als
+Hülfsmittel zur Aufſöſung vier höchſt merkwürdige
+Formeln zur ſphär. Ä von Gauſs und Delanije
+(S. 395 u. 396). Es fehlt aber auch nicht an andern -
+merkwürdigen Relationen in dieſem Kapitel. Bey-
+gefügt iſt noch (S. 426 bis 428) Anhang über Gul-
+din's Regel. XIII. Kap. Formeln für den Schwer-
+unkt der Curven von doppelter Krümmung; für
+Flächen, die auf drey coordinirte Ebenen bezogen
+werden, und für durch ſolche Flächen begrenzte
+Körper, bis S. 445. Der in fortlaufender Zähl der
+Kapitel jetzt folgende Abſchnitt hat zum Gegen-
+ſtande: Gleichgewicht der Kräfte an biegſamen Sci-
+len und elaſtiſchen Ruthen; Curven des Gleichge-
+wichts; Yertheilung des Drucks; und Stabilität.
+XIV. Kap. Von dem Gleichgewichte an einer biegſa-
+men und unausdehnbaren geraden Linie wirkender
+Kräfte, bis S. 470. XV. Kap. Von der Kettenlinie,
+bis S. 538. Zuerſt einige intereſſante geſchichtliché
+Notizen, dann von der gemeinen Kettenlinie, be
+welcher nämlich die voſj beugſame Kette
+durchaus gleichwichtig iſt, ſo daſs gleich lange
+Stücke derſelben, ſo kurz man ſie auch nehmen
+Ä gleiches Gewicht haben. Man findet hier
+auch noch Ergänzungen zur Lehre vom Schwer-
+punkte, nämlich in Bezug auf ſeine Beſtimmung be
+der Kettenlinie. XY... Kap Yon den elaſtiſche L“
+nien, bis S. 553. XVII. Kap. Curven des Gleichge–
+ichts, bis S. 563. Als Beyſpiel hierher gehöriger
+Aufgaben mag die S. 560 genannte dienen: „Uméi–
+nen Punkt ſey eine Brücke - weglich, in deren
+Schwerpunkte ein Seil befeſtigt iſt, welches über eine
+vertical über dem Drehpunkte der Brücke befindl-
+liche Rolle geſchlagen iſt; an dem andern Ende die-
+fes Seils wirkt ein Gewicht: man ſoll die krumme
+Linie finden, auf welcher dieſes Gewicht mit der
+Brücke überall im Gleichgewicht iſt." Dieſe Auf-
+gabe, mit der ſich auch die Bernoullis und Leibnitz
+beſchäftigten, wurde von de l'Hoſpital aufgelöſt.
+Möglichen praktiſchen Nutzen, den ſich der Vj
+denkt, muſs Rec. ſehr bezweifeln. XVIII. Kap. Von
+der Wertheilung des Drucks auf die Unterſtützungs-
+unkte, bis S 610. XIX. Kap. Von der Stabij,
+is S. 618. Dann folgen in einem Anhange j
+Ll Ei–

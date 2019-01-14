@@ -1,0 +1,115 @@
+1111 A. 14 Z.
+
+zu sagen, Um Jedoch noch für die Trigonometrie
+und Stereometrie einigen Platz zu gewinnen, kön-
+nen wir nicht weiter darauf eingehen und fügen nur
+den tadelnden Bemerkungen noch die lobende hin-
+zu, dass sich das Streben des Vf.’s, deutlich zu
+werden, wenigstens nicht verkennen lässt.
+
+In noch geringerem Grade als der Planimetrie
+können wir der
+
+Trigonometrie
+
+unseren Beifall schenken. Zunächst tadeln wir es,
+dass der Vf. die Definition der goniometrischen Fun-
+clionen an den Kreis anknüpft und nicht an das
+rechtwinklige Dreieck, Der Grund dafür ist schon
+so oft öffentlich ausgesprochen worden, dass wir
+es für unnöthig halten, nochmals darauf hinzuwWei-
+sen. Ebenso ist es nicht zu billigen, wenn der Vf,
+sagt: „Zieht man aus dem einen Endpunkte des
+Bogens auf den Durchmesser, der durch den an-
+dern Endpunkt des Bogens geht, eine Senkrechte,
+so heisst diese der Sinus des Bogens”. Die Linie
+ist der Sinus nicht, sondern die Maasszahl der Li-
+nie für den Radius als Maasseinheit. Ebenso ist
+es mit den andern Functionen. Recht traurig sieht
+es aus mit der Bestimmung der Vorzeichen der Fun-
+ctionen in den einzelnen Quadranten. Es heisst da
+S.202: „In den beiden erstern Quadranten ist die Stel-
+lung des Sinus auf den Durchmesser AB der Stellung
+desselben in den beiden letzten Quadranten gerade
+oder direct entgegengesetzt. IVennt man nun die er-
+stere Lage positiv und bezeichnet sie durch.» +”, so
+ist die entgegengesetzte Lage negativ zu nennen und
+durch „—” zu bezeichnen.” Wäre es nicht unbe-
+scheiden, So möchte ich Sie, Hr. Professor, hier
+auf mein Lehrburch der ebenen "Trigonometrie ver-
+weisen; doch Sie sollen es bequemer haben. Vor
+7 Jahren ist ebenfalls bei Ihrem Verleger Herrmann
+Schultze in Berlin ein I,‚ehrbuch der Geometrie vom
+Director Looff erschienen, das lassen Sie sich doch
+einmal geben, und sehen Sie da im II. Cursus nach,
+da werden Sie ebenfalls Belehrung finden,
+
+Die schönen Beweise für die Sätze sin («+ ß)
+und cos (x+ß), welche Prof. Paucker in seinen
+Fundamenten der Geometrie mittheilte, scheint der
+Vf. ebenfalls nicht zu kennen, sonst würde er wohl
+die S. 204 und 5 gegebenen reponirt haben. Vebri-
+
+Num. 283. DECEMBER 1817.
+
+ 
+
+2
+
+1112
+
+gens beweisen letztere die Sätze nicht allgemein.
+Die am Ende der 205ten Seite angefügte Anmer-
+kung: „Diese Sätze sind einsichtlich (?) wahr,
+die Bogen a, b, haben jedwede Grösse. Man hat
+nur für den Sinus und Kosinus die in Erkl. 4. an-
+gegebenen Zeichen für diese Lininen in den ver-
+schiedenen Quadranten zu setzen,” macht dies
+keineswegs wieder gut.
+
+S. 212 findet sich der Satz: In einem Drei-
+ecke verhält sich der Kosinus eines Winkels zum
+sin. tot., wie die Summe der Quadrate der ein-
+schliessenden Seiten, weniger dem Quadrat der
+gegenüberstehenden Seite sich verhält zum doppel-
+ten Rechteck der beiden ersteren Seiten.” Warum
+diese ungeschickte Form dieses Satzes? Dass der
+Satz eine Erweiterung des pythagoräischen Lehr-
+
+satzes ist, wird hieraus dem Schüler sicher nicht
+
+klar. Der höchst interessante Beweis dieses Satzes,
+welchen der Hr. Dr. Rädell (ebenfalls ein Berliner)
+im 1. Theile des Grunertschen Archivs für Mathe-
+matik und Physik S. 444 mittheilt , scheint unserm
+Vf. ebenfalls unbekannt geblieben zu seyn. Bei
+der Lösung der sich auf diesen Sätz stützenden
+Aufgabe: „Aus zwei Seiten und dem eingeschlos-
+senen Winkel die dritte Seite ‚zu finden” hätte
+S. 218. die bemerkenswerthe Formel des Hrn. Prof.
+v. Schulten aus der Acta Societatis scientiarum
+Fennicae T. 1., welche Hr. Dr. Stern zu Göttingen
+ebenfalls im Grunertschen Archiv mittheilt, wohl
+auch eine Berücksichtigung verdient.
+
+Stereometrie.
+
+Auf S. 228. findet sich die Erklärung: „Drei
+oder mehrere Ebenen, welche sämmtlich in einem
+Punkte zusammentreffen, bilden hier ‚einen körper-
+lichen Winkel, oder eine körperliche Eche. Eine
+körperliche Ecke heisst konvex, wenn alle die Ecke
+bildenden Ebenen auf derselben Seite von der Ecke
+liegen. Im folgenden soll nur von solchen konvexen
+körperlichen Ecken gehandelt werden.” Abgesehen
+
+davon, dass man hier nicht erfährt, was eine Ecke-
+
+ist, sondern nur wo sie entsteht, so ist die nach-
+folgende Definition der KOnvexen Ecke nieht nur
+unklar, sondern geradezu falsch.
+
+(Der Beschluss folgt.)
+
+Gebauersche Buachdruckerei.
+

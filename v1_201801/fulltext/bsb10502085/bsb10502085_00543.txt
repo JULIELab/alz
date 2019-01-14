@@ -1,0 +1,108 @@
+16. -
+– 13o – I62
+A LL GE M E I
+N E LITERATUR - z E IT U N G
+May 1 822.
+PHYSIK.
+KorzynAGEN, in d. Gyldendal. Buchh:: Unterſu–
+chungen über den Magnetismus der Erde von
+Chriſtopher Hanſteen – Ueberſetzt von P. Tre–
+ſchow Han/ön u. ſ. w. 7
+(Fortſetzung der im vorigen Stück abgebrochenen Recenſion.)
+De Formeln werden am einfachſten, wenn man
+den angezognen Punkt als in der Richtung des
+gradlinigen Magnetes ſelbſt liegend anſieht, und Hr.
+H. ſtellt daher die Verſuche zuerſt ſo an, daſs dieſes
+Statt fand. Er ſtellte den Mittelpunkt einer ſehr
+genauen und empfindlichen Magnetnadel (von nur
+2 Zoll Länge) in die verlängerte Richtung eines
+Magnets, während dieſer eine
+Ä gegen den
+magnetiſchen Meridian ſenkrechte, horizontale Rich–
+- tung hatte. Die Magnetnadel wurde durch den
+Magnet von der Nordlinie abgezogen und der Ab-
+weichungswinkel, ſo wie er ſich bey verſchiedenen
+Entfernungen des Magnets fand , angemerkt. Da
+ſich nun mathematiſch zeigen läſst, daſs die trigo-
+nometriſche Tangente dieſes Winkels der von dem
+Magnete auf die Nadel ausgeübten Kraft proportio-
+enal iſt, ſo Ä dieſe Verſuche Zahlenwerihe an,
+- welche zur Beſtimmung von n und r dienen können;
+–die Formeln nämlich gehen, wenn man n = 1, r = 1,
+oder n = 12 r = 2, oder n-2, r = 1 , oder n = 2,
+r = 2 und ſo ferner, ſetzt, an, welche Wirkungen
+- ſich bey verſchiedenen Stellungen der Nadel zeigen
+müſſen, und wenn man dieſe Reſultate der verſchie-
+denen Hypotheſen mit den Verſuchen vergleicht, fo
+ſieht man, daſs man r = 2 annehmen muſs, die An–
+ziehungskraft dem Quadrate der Abſtände umge–
+kehrt prºportional, indem dann Rechnung und Er–
+fahrung ſehr gut übereinſtimmen. Weniger deut-
+lich iſt die Entſcheidung, welche die Verſuche über
+den Wert von " geben, weil die Verſchiedenhei-
+ten, wecneº“ 3 = 2, n = 3 geſetzt, in die Re-
+ſultate der Fºrmel bringt, nicht ſo bedeutend iſt;
+indeſs ſcheint n = 2 der richtigſte Werth zu ſeyn.
+Eine zweyte Reihe von Verſuchen, bev welcher
+- das Centrum der Magnetnadel ſich in Ä die
+Mitte des Magnets ſenkrecht auf ſeine Richtung ge-
+zogenen Horizontallinie befand, gab in Beziehung auf
+n eben ſo wenig eine entſcheidende Beſtimmung,
+aber der Werth von r = 2 fand ſich auch hier beſtj
+tigt. Der Vf. ſtellte daher noch eine neue Reihe
+Verſuche an, um jenes Geſetz - wie die Stärke des
+4. L. Z. 1822 Zweyter Band.
+weil be
+- -,
+Magnets von der Mitte nach der Erde zunimmt, zu
+beſtimmen. Er brachte in die verlängerte Richtung
+eines vertical ſtehenden gradlinigen Magnets einen
+andern, gleichfalls vertical an einer feinen Waage
+hängenden Magnet; er beobachtete nun bey verſchie-
+denen Entfernungen der Magnete von einander,
+welche Gegengewichte erfoderlich waren, um dem
+durch die anziehende Kraft des andern Magnets ver–
+mehrtem oder durch ſeine abſtoſsende Kraft vermin-
+dertem Gewichte des hängenden Magnets das Gleich–
+gewicht zu halten. Dieſe Verſuche ſind allerdings
+bedeutenden Schwierigkeiten unterworfen, theils
+weil die Aenderung der erfoderlichen Gegengewich–
+te, oder die Gröſse der den Attractionen und Re–
+pulſionen entſprechenden Gegengewichte ſehr klein,
+zumal bey etwas gröſseren Entfernungen iſt, theils
+y" länger fortgeſetzten Verſuchen die Stärke
+der Magnete ſelbſt durch ihre gegenſeitige Einwir–
+kung auf einander Aenderungen leidet. Indeſsfchei–
+nen ſie doch, dieſer Schwierigkeiten ungeachtet, den
+Werth von n mit einiger Sicherheit zu beſtimmen,
+und anzugeben, daſs n nicht kleiner als 2 iſt.
+Dieſe Ueberzeugung gründet ſich wieder auf die An-
+wendung allgemeiner Formeln, deren Zahlenwer-
+the für n = 1 und n = 2 berechnet wurden, und die
+ſo zu Vergleichungen mit den Angaben der Verſu–
+ehe führten Bey der Entwickefung der hier ge-
+brauchten Formeln leuchtet es dem Rec. nicht ein,
+warum Hr. H. vor der Integration die Gröſse y weg-
+zuſchaffen ſucht; es ſcheint uns, daſs die Rechnung
+lichtvoller dargeſtellt Ä Änn man y beybehält
+T"Y". (
+Die Formel d'v= # JO - » auf deren Integra-
+tion es ankommt, muſs nämlich zwey Mal integrirt
+werden; betrachtet, man bey der erſten Integration
+x als unveränderlich, ſo heiſst das, man ſucht die
+geſammte Attraction, welche die nächſte Hälfte des
+andern Magnets auf das einzige Theilchen dr des
+erſten Magnets (welches nämlich um die Entfernung
+= x von ſeiner Mitte entfernt iſt) ausübt, und fj
+die volle Häfte des andern Magnets, die =f ſeyn
+mag, giebt die Integration
+(a–x –f)
+- ſºr -- -
+dv= xdaclog z-Ä- + a–f-ar"
+die zweyte Integration lehrt, nun, indem ſie jene
+Wirkung auf die einzelnen Punkte des erſten Ma-
+nets ſummirt, mit welcher Kraft die ganze nächſte
+älfte des erſten Magnets =f“ von der ganzen
+nächſten Hälfte des andern angezogen wird; dieſe
+z iſt -
+V =-

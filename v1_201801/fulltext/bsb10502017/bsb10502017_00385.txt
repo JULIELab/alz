@@ -1,0 +1,136 @@
+501
+502
+No. 63. MÄRZ 1 800.
+cº
+kei
+en
+ſ
+es.
+ge
+e,
+ke
+Zu
+ſie
+ſagen: der Sinuſſe erſte Verhältniſs ſey, 2 :
+Geſchichte des Streits über die Erfindung der Diffe-
+rentialrechnung; über die erſten und letzten Ver-
+hältniſſe; über den Zuſammenhang der Neperiſchen
+Logarithmen mit den natürlichen; Machins Reihe für
+den Kreis; die ſchon genanaten Rectificationen; et-
+was von den partialen Differentialen, aber ſehr we-
+nig, ohne Anwendungen und Literatur; Berechnung
+der Oberflächen, die durch Umdrehung der einzel-
+nen Kegelſchnitte entſtehen, von S. 695–718., wel-
+che in den erſten Ausgaben nur im Allgemeinen vor-
+getragen iſt; endlich die Variationsrechnung mit ih-
+rer Anwendung, der ſtärkſte Zuſatz von S. 760–876.
+Es iſt nicht nöthig, dieſes reichhaltige Lehrbuch
+den Liebhabern der höhern Mathematik zu empfeh-
+len, da die beiden erſten Ausgaben ſo lange Zeit
+ſchon eine vorzügliche und allgemein gebrauchte
+Quelle des Unterrichts in der Analyſis des Unendli-
+chen für die Deutſchen geweſen ſind. Wer die höhe-
+re Mathematik nicht bloſs erlernt, ſondern ſie ſelbſt-
+thätig ſtudirt, wird ſchon die darin vorgetragenen
+Lehren nach der ihm bequemſten Art anordnen, und
+ihre Beweiſe bisweilen abändern können. Einige,
+aber faſt nur zufällige Bemerkungen, die hier fol-
+gen, mögen zum Gebrauch des Buchs nicht undien-
+lich ſeyn. Sie betreffen faſt nur die Zuſätze. -
+Zür Erläuterung der Ausdrücke, erſte und letzte
+Verhältniſs, wird S. 53. angeführt die Verhältnifs
+fing : ſin . Dieſe ändert ſich von 2: I bis V 2:1,
+indem ſich der Winkel & von 0 bis 90 Grändert.
+Betrachtet man alſo nur dieſe Reihe von Aenderun-
+gen des Winkels T., ſo kann man, nach unſerm Vf,
+I , letz-
+te V 2 : 1. Allein die hier gemachte Anwendung
+des Ausdrucks, letzte Verhältniſs, iſt dem Sinne
+Newtons nicht gemäſs. Dieſer gebraucht ihn theils
+bey der Vergleichung endlicher Gröſsen, deren Ver-
+hältniſs ſich einer gewiſſen beſtimmten immer mehr
+nähert, (dergleichen auch das hier, IV. angefährte
+Beyſpiel iſt), theils bey der Vergleichung ohne Ende
+abnehmender Gröſsen. – Wegen des Differential-
+zeichens d wird S. 5I. bemerkt, daſs Euler vorge-
+ſchlagen habe, den Buchſtaben etwas anders zu bil-
+den, damit er nicht für einen Factor angeſehen wer-
+den möge. Hr. K. ſagt, die Miſsdeutung laſſe ſich
+leicht verhüten, wenn man nur annehme, als Factor
+werde der Buchſtabe d nie vor einer andern geſetzt,
+als mit dem Puncte . dem Multiplicationszeichen.
+Ä iſt, freylich, ein Auskunftsmittel, wenn man
+n Buchſtaben d nebſt andern aus den lateiniſchen
+kleinen Alphabet zur Bezeichnung eines Coefficienten
+rothwendig gebraucht; allein es iſt doch der Ge-
+brauch des Multiplicationszeichens in dieſem Falle et-
+was von der Regel abweichendes und befremdendes,
+daher Eulers Vorſchlag allerdings befolgt zu werden
+verdient, und auch leicht ausgeführt werden kann,
+da es nur auf den Guſs eines einzigen Buchſtabens
+für Druckereyen ankommt. Auch findet man ſchon
+in neuen franzöſiſchen Schriften ein anders gebilde-
+tes d als Differentialzeichen. – Die Auflöſung der
+Aufgabe H. 98., die Verhältniſs der Winkel, welche
+die Linien aus den Brennpuncten einer Ellipſe an ei-
+nein Puncte des Umfanges unit der berührenden Li-
+nie machen, zu finden, kann viel kürzer gemacht
+werden. In den Dreyecken FN M und GM N erge-
+ben ſich die Werthe der Sinus der halben Winkel
+bey N und M durch eine bekannte Formel aus den
+drey Seiten, und das letzte Verhältniſs der Winkel
+bey N und des äuſsern bey M in dem Dreyecke FNMI
+ift die Verhältniſs der Gleichheit. – Von dem Satze
+über die Uebereinſtimmung der Abwechslungen und
+Folgen der Zeichen von den Terminis einer Gleichung
+1mit der Anzahl ihrer poſitiven und negativen Wur-
+zeln, wenn ſie alle möglich ſind, heiſst es, wie in
+der vorigen Ausgabe, man ſchreibe ihn insgemein
+dem Harriot zu, daher er auch unter dem Namen
+Harriots Lehrſatz bekannt ſey. Gua aber eigne ihn
+den Descartes zu. Es wird auch hier nicht entſchie-
+den, welchem er gebühre, oder ob keiner von bei-
+den der Erfinder ſey. In der Geſchichte der Mathe-
+matik, Th. III. S. 43. ſagt Hr. K. er habe damals, als
+er den Beweis des Satzes in einer beſondern Schrift
+(1745) gegeben, den Namen aus der gemeinen Sage
+beybehalten, jetzt aber, da er Harriot's Werk kenne,
+finde er den Satz nicht darin, ſondern gegentheils,
+daſs Harriot an verneinte Wurzeln nicht gedacht
+habe. (Rec. hat den Satz auch nicht in Harriots Ar-
+tis anal. praxi finden können. Sein groſser Lobred-
+11er, Wallis, ſelbſt giebt zu, daſs H. die Regel nicht
+vorgetragen habe, ſie rühre vom Descartes her, ſey
+aber trüglieh, Harriot gebe zuverläſſigere Regeln, die
+Anzahl der poſitiven und negativen Wurzeln zu fin-
+den. Von dem Begriffe, negative Wurzeln, findet
+Rec.bey H. auch keine Spur. Er hat zwar Gleichun-
+gen mit negativen Wurzeln, die er aber als poſitive,
+oder als abſolute Gröſsen behandelt, da er ihnen ein
+anderes Zeichen als den poſitiven giebt, und jeden
+Fall beſonders entwickelt, alſo das Negative nicht
+nöthig hat.) – Daſs Nepers Verfahren ſeine Loga-
+rithmen zu berechnen in einer nach deſſelben Tode
+1719 herausgekommenen Ausgabe erklärt ſey, wird
+S. 244 nur aus Karſtens Lehrbegriff angeführt. Da-
+her iit bloſs aus deſſelben erſten Werk, der deſcriptio-
+ne canonis Logarithmorum, die Beſchaffenheit der
+Neperiſchen Logarithmen erklärt, und daraus durch
+Integralrechnung ihre Verhältniſs gegen die natürli-
+chen dargethan worden. Die Neperiſche Methode zur
+Berechnung der Logarithmen iſt aber ſo ſinnreich, daſs
+1nan ſie auch in einem Lehrbuche der neuen Analyſis
+neben den neuen Methoden zu haben wünſchen wird,
+Indes Vf. Geſchichte der Mathematik 3tem Bande iſt
+das Neperiſche Verfahren beſchrieben. (In der Ein-
+Heitung zu Urfini magno Log. Canone iſt es auch zu
+finden). Die Schrift: conftructio Logarithm. iſt ſel-
+ten, da auch Hr. K. erſt 1798 ſie erhalten hat, und
+nur einen Nachdruck. – Die Rectification der El-
+lipſe wird bequemer als in H. 346. vorgenommen wer-
+- den können, wenn in der Differentialformel bloſs der
+Zähler in eine Reihe verwandelt wird. Hier iſt der
+Bruch ſelbſt in eine Reihe verwandelt, welches ver-
+urſacht, daſs nur zwey Glieder der Reihe anges Ä
+d.
+

@@ -1,0 +1,124 @@
+299
+ZOG.
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+ren. – Prof. Harding in Göttigen giebt vorläufige
+Nachricht von einem neu bemerkten veränderlichen
+Sterne unter 353* 22“ gerader Aufſteigung, und
+16° 23 ſüdlicher Abweichung. Ä eobach-
+tung der Breite und Länge von Schnackenburg. –
+Ueber Höhenmeſſung durch Barometer, von Hof-
+rath Horner in Zürich. (Die Fortſetzung im 3ten
+Stücke des zueeyten Bandes.) Der Vf. rechtfertigt
+die von ihm gewählten Elemente bey ſeinen baro-
+metriſchen Tafeln. Für den barometriſchen Coäffi-
+cienten nimmt er 9410 Toiſen. Der Laplaceſche
+Quotient für die Ausdehnung der Luft z# ſcheine
+bloſs für einen mittleren Feuchtigkeitszuſtand der
+Luft zu paſſen; bey groſsen Höhen und nach Ver-
+hältniſs der Tages- und Jahreszeiten dürfte noch
+eine jej Correction nöthig ſeyn; über-
+haupt dürften die zufälligen Aenderungen in der
+Temperatur künftig noch mehrere Correctionen
+herbeyführen. Der Vf. theilt noch eine Reihe ba-
+rometriſcher Höhenbeſtimmungen in Graubündten
+mit. – Molluveide's Auflöſung einer trigonometri-
+fchen Aufgabe. – Santini's Ä für die Störun-
+gen der Veſta durch Jupiter; ein mit Dank anzu-
+nehmender Beytrag zu den verwickelten Störungs-
+rechnungen für die neuen Planeten. – Verzeich-
+niſs der Schriften von ÄÄ Preiſe der achronn.
+Fernröhre, welche der Hofopticus Oechsle in Eſs-
+kingen verfertigt.
+Zuweyter Band. Erſtes Stück. (Jul. und Aug.)
+– Ueber die Verbeſſerung der mittlern Strahlen-
+brechung durch das Thermometer, von Littrouw in
+Ofen. Die Verbeſſerung der mittlern Refraction
+hängt unter andern auch von der Groſse der Aus-
+dehnung der Luft durch Wärme ab. Den Coëffi-
+eienten dieſer Ausdehnung ſetzt die La Placeſche
+Refractionsformel = o, oo375 nach Gay Lu/Jac
+und Biot voraus. Allein andere Beobachter geben
+ihn anders, und zum Theil beträchtlich verſchie-
+den: z. B. Bradley fetzt ihn o, oo44, Preſtl
+d, oo937, Delambre o, oo44, Roy o, oo484, Tob.
+Mayer o, oo366, Dalton o, oo398 u. f. w. Eine
+geringe Aenderung dieſes Coëfficienten kann indeſs
+bey Reinen Hénecht mehrere Secunden für
+die Refraction betragen. Da man bisher dieſe Grö-
+fse nur durch phyſiſche Verſuche beſtimmt hat, bey
+welchen es ſehr ſchwer iſt, die Feuchtigkeit der
+Luft vollig Ä ſo hielt der Vf. es mit
+Recht der Mlühe werth, dieſs dern Aſtronomen
+wichtige Element auf einem andern Wege einer
+neuen Prüfung zu unterwerfen. Er wählte dazu
+aſtronomiſche Beobachtungen, nämlich Zenitdiſtan-
+zen eines niedrig culminirenden Sterns, die in
+zwey fehr verſchiedenen Temperaturen beobachtet
+vorien, und die man mittelſt der Aenderungen des
+fcheinbaren Orts des Sterns in der Zwiſchenzeit
+auf den einen der beiden Zeitpuncte der Beobach-
+tung relucirt hat. Man braucht dabey bloſs die
+Unterſchiede der mittlern Refraction, ſo wie die
+Juterſchiede «ler Aberration und Nutation in jener
+Zwiſchenzeit, aber nicht die abſolute Gröſse dieſer
+drey Elemente ſelbſt zu kennen. Setzt man z. B.
+für das Klima von Deutſchland die in demſelben
+"nicht ungewöhnlichen Thermometerſtände, inn
+Sommer # 15“, im Winter – 15“ Reaum. vor-
+aus, ſo geben dieſe beiden Temperaturen eine Dif-
+ferenz der wahren Refraction von 16“ für 40° Hö-
+he, und von 22“ für 2o° Höhe: dieſe Differenz
+ſteigt bey denſelben Höhen auf 31“ und 49“ für ein
+Maximum der Tenºperatur von + 26° und – 3o*
+wie der Vf. ſolche in Caſan beobachtet hat. Dieſs
+praktiſch ſehr gut brauchbare Verfahren hat nun
+der Vf, da ihm keine zweckmäſsigeren, bey ei-
+nem gröſseren Temperaturunterſchied angeſtellten
+Beobachtungen zu Gebote ſtanden, auf 44 an einem
+Multiplicationskreiſe gemachten Beobachtungen an-
+gewendet, die ſich in Delambres Baſe du Jyſteme
+métruque, Vol. II. angeführt finden, und vön Mè-
+chain in Paris angeſtellt ſind. Er entwickelt hier-
+aus 43 Bedingungsgleichungen, aus denen als Re-
+ſultat von 1555 einzelnen Beobachtungen, ſtatt der
+Laplaceſchen Correctionsformel F= – o, oo49185
+C # o, oooo23 09 a” die vom Vf. rectificirte F =
+I o, oo391 16 a + o, oooo66899 a” hervorgeht,
+wobey F die Gröſse, womit, wegen Ausdehnung
+der Luft durch Wärme, die durch den Stand des
+Barometers verbeſſerte Refractiou zu multipliciren
+iſt, und a die Höhe des Reaum. Thermometers
+über Null bezeichnet. Es folgt daraus, daſs der
+Gay-Luſſacſche Coëfficient noch in etwas vermin-
+dert werden ſollte; da indes der Temperaturunter-
+ſchied der hier benutzten Beobachtungen ſich nur
+auf 17° beſchränkt, ſo wäre ſehr zu wünſchen, daſs,
+zumal in höhern Breiten, wo die Temperatur ſich
+ſtärker ändert, von den Aſtronomen Refractions-
+beobachtungen angeſtellt würden, bey denen die
+Methode des Vfs. ein noch fichereres Reſultat ge-
+währen müſste. Der Vf. hat übrigens die Laplace-
+fche Correctionstafel nach ſeinen Elementen umge-
+arbeitet, und zugleich in jener die Druckfehler ver-
+beſſert. – Ueber einige Vortheile beym Gebrauch
+mathematiſcher Tafeln, von Prof. Büzengeiger in
+Anſpach. Die vom Vf. hier mitgetheilten Formeln
+lehren, wenn man Log. Sin aber nicht p ſelbſt
+kennt, den Log. Cos. P und Lºg. Tang. p oder
+auch den Log. Än und Lºg és p und eben
+ſo durch Log. cosp den Log. Sin p, Log. Tang p.
+a. ſ. w. zu finden; ferner, wenn a eine gegebene
+Gröſse, und Log. p, aber nicht p, bekannt iſt,
+daraus Log. (p + a) oder Log. (p – a) oder
+auch, wenn Lög. m und Log.n, aber nicht m und
+n, bekannt ſind, daraus Log. (m n) und Log.
+(m n) herzuleiten. In einigen dieſer Formen
+fac Rec. die Zeichen irrig. Statt des Zeichens +
+vor dem zweyten Gliede rechter Hand bey Nr. 9.
+S. 3 ſollte + ſtehen, und eben ſo vor dem zwey-
+ten Gliede bey Nr. 11. aber – ſtatt + vor dem
+zweyten Gliede bey Nr. o. In dem Beyſpiel §. 32.
+Nr. 3. finden ſich mehrere Druckfehler, die übri-
+gens leicht zu verbeſſern ſind. – Beyträge zu reo-
+graphiſchen Längenbeſtimmungen von Wurm in
+* - - - Stutt-

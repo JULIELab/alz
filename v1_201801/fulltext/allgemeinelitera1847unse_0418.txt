@@ -1,0 +1,109 @@
+827
+
+Vorwurfe, als wäre sie nicht auf ganz scharfen
+Begriffen und evidenten Gründen erbaut, zu Vver-
+wahren. Er will das Fundament und das währe
+Wesen derDifferential - und Integralrechnung zwar
+philosophisch begründen, ohne jedoch eine Philo-
+sophie der Mathematik zu schreiben. Daraus ergibt
+sich denn unmittelbar, dass man hier. kein ins Detail
+eingehendes Lehrbuch über Differentialrechnung zu
+finden hoffen darf, so wie sich denn in der That
+nur die einfachsten Regeln des Differentiirens darin
+finden, die gerade zur Erklärung .des Wesens der
+Disciplin erforderlich waren, während ‚die. vielen
+praktischen Regeln, nebst ihren Anwendungen
+gänzlich fehlen. Es ‚ist vorzüglich auf die Auf-
+klärung und principielle Festsetzung der hergehöri-
+gen Grundbegriffe das Augenmerk gerichtet, weil
+gerade über Jiese Dinge, als nicht besonders zur
+Praxis erforderlich, die meisten Lehrbücher mit ei-
+ner gewissen Leichtigkeit, wenn nicht gar Leicht-
+fertigkeit , * hinüberschlüpfen. Hierdurch ist ohne
+Weiteres das unmittelbare Hereinziehn des Begriffs
+der Integration erklärlich; denn wie wäre es mög-
+lich über das wahre Wesen und die Anwendbar-
+keit der Differentialrechnung zu sprechen, ohne der
+Integralrechnung zu gedenken?
+
+Indem nun Ref. die Absicht des Vf/’s, eine
+wissenschaftlich streng begründete Einführung in
+die Differential - und Integralrechnung zu liefern,
+gewiss nur eine zeitgemässe und lobend anzuer-
+kennende nennen kann, so darf er ‚doch auch gleich
+von vorn herein den Tadel nicht Zzurückhalten, ‚dass
+zur Erreichung des vorgesteckten Ziels, des ma-
+teriellen Stoffs zu Viel gegeben ist. Die vier
+letzten Kapitel enthalten in der "That nur verschie-
+dene praktische Differentionsregeln, die man in je-
+dem Lehrbuch über Differentialrechnung finden kann
+und deren speciellere Durchführung hier wohl nicht
+mehr hingehörte, sondern füglich dem Privatstu-
+dium oder dem Privatunterricht überlassen werden
+konnte. Ebenso wird es auch schwer sich mit der
+Meinung des Vf.’s zu vereinigen, dass zur funda-
+mentalen sichern Bestimmung, zur klaren Exposi-
+tion der Principien der Differentialrechnung beinahe
+200 Seiten erforderlich wären, wenn ich andrer-
+seits nicht dem angeführten Satze Kant’s wider-
+sprechen will, dass man die Weitschichtigkeit ei-
+nes Buchs nicht nach der Seitenzahl beurtheilen
+dürfe, sondern nach der Zeit, die man zu dessen
+Verständniss nöthig. habe.
+
+ALLG. LITERATUR - ZEITUNG
+
+. 828
+
+Um nun aber von diesem ganz auf der äusse-
+ren Oberfläche liegenden "Tadel der Darstellung
+mehr in’s Wesen überzugehn, so beginnt der Vf£,,
+wie es ganz in der Ordnung ist, mit der Erklä-
+rung einer Function. Hier hätte sich.der Vf. wohl
+des etwas bagatellen Polemisirens enthalten kön-
+nen! Er tadelt z. B. die von Lacroix gege-
+bene Definition, dass jede Grösse, deren Werth
+von einer oder mehren Grössen abhängt, eine
+Function der Letztern heisse und führt als fehler-
+haft die sich hieraus ergebende Aussprache an,
+dass die Ordinate einer Curve eine Function. der
+Abscisse sey, während er es so ausgedrückt haben
+will: die Formel, durch welche der Zahlenwerth
+der Ordinate berechnet werden kann, ist eine
+Function derjenigen Zahl, welche die Länge der
+dieser Ordinate zugehörigen Abscisse angibt. Da
+möcht es doch wohl ziemlich auf Eins hinaus‘ kom-
+men, ob ich sage, ein mathematischer Ausdruck,
+oder eine Grösse, welche diesem mathematischen
+Ausdruck gleich ist, ist eine Function. — Wes-
+halb über solche Wortstreitigkeiten 25 Seiten voll
+schreiben ?
+
+Nach diesen und andern Worterklärungen folgt
+die Betrachtung der Differential - und Integralrech-
+nung selbst. Und hier kommen wir auf ein sehr
+reell und gediegen bearbeitetes Gebiet. Als der
+eigentliche Gegenstand dieser Disciplin wird die
+Aufstellung einer ganz allgemeinen Methode zur
+Auffindung der Gesetze der Abhängigkeit stetiger
+Grössen genannt. Die weitere Entwickelung dieser
+allgemeinen Idee ist in ihren äusserst skitzirten
+Umrissen, etwa folgende: Wenn man eine Function
+einer oder mehrer Veränderlichen hat, so fasst
+man dabei die Grössen nicht blos als daseyend,
+in einem bestimmten fertigen Zustande auf, sondern
+als, durch gemeinschaftlich fortschreitendes stetiges
+Wachsen von einem bestimmten Grössenzustande aus,
+erst werdend. Man hat dabei dreierlei zu unter-
+suchen, erstens wie man bei wachsenden Grössen
+sich bestimmte Begriffe bilden könne von der in
+einzelnen Momenten stattfindenden verhältnissmäs-
+sigen Stärke des Wachsens, welche doch offenbar,
+je nachdem mit einer gewissen Zunahme der einen
+Grösse eine grössere oder kleinere Zunahme der
+andern verbunden ist, selbst eine grössere oder
+kleinere seyn kann; zweitens wie man diese ver-
+hältnissmässige Stärke des Wachsens durchihre ein-
+zelnen Momente verfolgen und in einem allgemei-
+nen Gesetz aussprechen kann, und dann drittens,
+

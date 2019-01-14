@@ -1,0 +1,120 @@
+45S > A. L. Z. Num. 165.
+JULIUS 1823. - 456
+exv/"- -+- e-x-V"-* X? x *
+eox= – –= –TT + 1 .. 4 " " "
+Was ſin. und coſ. eines ſogenannten imaginären Bo-
+gens i betrifft, ſo wird hier mit Recht geſagt, daſs
+Äieſs eigentlich nur abgekürzte Bezeichnung der
+- i3 i5 i2 i4
+T+TT: und 1 T+ .4'“
+feyen; welche Bemerkung auch von tang«, Ä
+jfw. imaginärer Bögen gilt. Uebrigens bleibén
+alle Relationen, welche für ſin u. ſ. w.reeller Bögen
+Reihen i –
+gelten auch für ſin u. ſ. w.imaginärer Bögen gültig»-
+indem dieſe Relationen erweislich unabänderliche
+Eigenſchaften der Reihen ſind, zu deren Bezeich-
+nung die geometriſchen Ausdrücke hier dienen. –
+Die Reihe für den fin. verſ. x findet unſer Vf.un-
+mittelbar aus der für den coſx, die Reihe für
+die Cotangente aber, indem er in der Glei-
+1. 1 + coſx
+1. # K =
+chung, cot #x T2 Tinº
+X ? X4 X6
+2 –– + T – - ... -
+1 : 2 " : 4 --67 - --
+- X5 Tx5 x 7
+2 («–TÄ+Ä–Ä...)
+TTT + Ts 1. -7
+2
+A
+I -
+- sº
+X4 “
++ZT
+2 . . 2 - -4 F
+- 1,
+( x? + x* A -
+X I 1-2 3. Ä.) j
+den Quoº mittelſt der Methode der unbeſtimm-
+en Öoefficienten, die hier mit allem Rechte ge-
+braucht werden kann, findet, und die Bernouilliſchen
+Zahlen anwendet. Die Reihen für 5. coſec. und
+ſec. werden nachher wie in Eulers Differentialrech-
+nung (Th. 2. § 222 ) gefunden. - - -
+Abſchnitt 2. Ueber die Zerfällung der trans-
+ſcendenten Functionen e*+ e-”, e*+2coſ P +e“*,
+ſind, coſ . u. ſ. w. in Factoren. - Auch in dieſem
+Abſchnitte ſchlägt unſer Vf, einen Weg ein, welcher
+von den bekannten Joh. Bernouilli's, Euler's, L'hui-
+iier's, Lacroix's u. ſw.merklich verſchieden iſt, und
+wobey nur die leichteſten Elementarlehren von un-
+endlichen Reihen ins Spiel kommen. Sein Verfahren
+ſtützt ſich auf die Reihe 1 – 2 * "+ 3 ? " – 4*" + ....
+- Daſs dieſe Reihe für n = o die Summe 4 für jeden
+gröſsern Werth von n aber die Summe o hat, wird
+Ä suf zweyerley Art bewieſen. Die erſte Summa-
+jnsart iſt die, welche Klügel in ſeinen mathemat.
+Wörterbuche Art. Potenz vorträgt, die zweyte aber
+iſt minder bekannt». vielleicht Hn. Grunert eigen-
+- - - -
+-- ---
+--- --- -
+W - - /
+1.-L..
+thümlich, und gründet ſich auf die Gleichung
+coſ (n + 1) x = 2 coſnx gofx –coſ (n– 1)x. Bey-
+läufig wird auch die Summe der Reihe
+- - -- - 11
+- - - - 2?n – 1 B
+I –2*n- +3°n- – 4**-* . . = (2“- ) B
+- - - - - - - -
+*- - 2 I)
+(das obere Vorzeichen für ein ungerades, das untere
+für ein geradesº & die ate dernoulliſche Zah)
+mittelſt der Gleichung ſin (n+ 1)x = 2 ſinnx coſx
+-ſn (n-1)x gefunden. Der Vf. entlehnt hierauf aus
+n. Hofrath Pfaff's Ä einer neuen Summa-
+tionsmethode (Berlin 1788) den Beweis der Gleichung
+z- "Tr? 1 ., r* I
+O – F- IT*F+ IT*F“ WO
+- 1 . . . - - - - - 1-1 2:1 v.
+ZÄT die Summe der Reihe 1 + 27T
+(Äe tet. Sodann giebt Hr. Grunert einen eige-
+nen Beweis des Neuton'ſchen Satzes über die Coef-
+ficienten in dem Producte(1 + «z) (1 + 3 z) u. ſ. w.
+und beſtirnmt nun die numeriſchen Werthe der Coef-
+ienten in dem Producte " -
+-
+ZT 42n“
+-Ä–
+welche ſich durch die kurz vorher genannte Glei-
+chung finden laſſen ünd Ä ſind
++++ u. w. sº - -
+" . . 2-3 - Fs' Ts u. . w. tzt man in jenem
+Prages z=#9 entſteht (+#) (+Ä)
+(+ #)… -- Fr *-...
+".3?r Tr 1.2.3 1.51-.7
+ex – e“ K - . - - - - -
+= =Ä- woraus nun die Zerfüllung der Functio-
+-- e. V.-! –e-ºyſ-
+nen ex–e-, –Tz=T–- =fin und mit-
+telt der Gleichung e” – e-** = (e: + e-)
+(e*–e-*) auch die Zerfällung von e* + e-,
+e? V-+e- V- . . . . . . . .
+rx-tº-ex- A- cof augenblicklich folgt,
+ſo wie ſich dann die übrigen aus Eulers Introduct.
+Lib. I. cap. 9–11. bekannten Zerfällungen, nebſt
+einigen dämit verwandten leicht ableiten laſſen, bh–
+ne daſs irgendwo, wie bey Euler und Bernouilli,
+die Idee des Unendlichen, und - die Theorie der
+Gleichungen, noch auch, wie bey L'huilier, die
+s Thedrie der Grenzen gebraucht würde,
+-- €. - - -
+xº * : (DeF Be/ehluſs folge): v 2.
+f- - - -- -
+-! - - - - ------------ -- X :
+- -
+! -... Si si22. u .ets. ------ --
+

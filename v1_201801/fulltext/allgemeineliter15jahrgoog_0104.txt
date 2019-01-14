@@ -1,0 +1,148 @@
+187
+
+2) Wenn S. 18 ein Kreis gefunden werden soll,
+welcher einen gegebenen Kreis und eine gegebene
+Tangente desselben berühre, so geht aus dem Citat,
+welches der Vf. beybringt, hervor, dafs er sich den
+' Berührungspunkt der Tangente mit dem gegebenen
+
+Kreise als den Berührungspunkt des gesuchten- und
+des gegebenen Kreises gedachte, während der ge-
+suchte Kreis den gegebenen doch auch in einem von
+diesem Punkte verschiedenen Punkte, und zugleich
+die gegebene Tangente berühren kann. -
+
+8) Der Vf. sagt in der Vorrede zu seiner ana-
+lytischen Bearbeitung der Bücher des Apollonius de
+Sectione determinata, dafs die Anwendung des Cal-
+culs auf Geometrie, wie die neuere Zeit sie darbie-
+tet, weit einfachere; allgemeinere und defshalb wis-
+senschaftlichere Auflösungsmethoden geometrischer
+Aufgaben gewähre, als die geometrische Analysis der
+Griechen. Rec. möchte gerade die hier vorliegenden
+auf dem Wege des sehr wohl durchgeführten Calculs
+
+efundenen Constructionen der Aufgaben über die
+
+erührungen gebrauchen, um durch Vergleichung
+derselben mit den auf rein geometrischem Wege ge-
+fundenen, wie sie z. B. Vieta, Robert Simson, Tho-
+mas Simpson, Leslie u. a. geliefert haben, darzu-
+thun, dafs die rein geometrischen Constructionen
+von den auf algebraischem Wegeigefundenen an Ein-
+fachheit, Eleganz und Wissenschaftlichkeit keines-
+weges übertroffen, im Gegentheil nur selten er-
+reicht werden,
+
+4) Er drückt in der kurzen Vorrede das Ver-
+trauen zu der Schrift aus, da[ls sie die wesentlichen
+Ansprüche ihres Titels vor einer gewissenhaften Kri-
+tik rechtfertigen und eine unparteiische Würdigung
+erkennen lassen werde, was sie für die wissen-
+schaftliche Begründung einer geometrischen Con-
+strnctionslehre leiste. Mit Freude erkennt Rec. an,
+dafs die Constructionen, wie sie hier für die schwie-
+rigeren Fälle vorliegen, allerdings mit Scharfsinn
+und Zierlichkeit ausgeführt sind, und sich nicht
+leicht eine Schrift finden dürfte, welche Aehnliches
+in gleicher Vollkommenbheit leiste. Aber tes giebt
+doch noch eine andere rein geometrische Constru-
+
+ctionslehre, wie die Alten sie anwendeten, bey wel-
+
+cher die Constructionen auf geometrisch - analyti-
+schem Wege, ohne alle Beyhülfe des Calculs ‘ge-
+sucht werden, und welche so weit entfernt ist, von
+der auf algebraischem Wege gefundenen Constru-
+ctionsweise an Kleganz, Wissenschaftlichkeit und
+Bildungsfähigkeit übertroffen, und durch die An-
+wendung des Calculs antiquirt zu werden , dafs viel -
+mehr die neuere Zeit wenig ihr Gleiches zur Seite
+zu stellen hat.
+
+Der zweyte Abschnitt beschäftigt sich mit der
+Construction geradliniger Figuren nach gegebenen
+Bedingungen, zuerst eines Dreyecks, dann’ eines
+Vierecks, zuletzt eines Vielecks:
+
+Es wird nämlich ein Dreyeck zu construiren ge-
+
+Dr
+
+lehrt, wenn seine Seiten, o er _zwey Seiten und ein.
+
+Winkel, oder zwey Seiten und eine Höhe, oder
+zwey Seiten und der Halbmesser des umsehriebenen
+
+ALLG. LITERATUR - ZEITUNG
+
+188
+
+Kreises, oder zwey Winkel und einge Seite, oder
+zwey Winkel und eine Höhe, oder zwey Winkel
+und der Halbmesser des umschriebenen Kreises,
+oder zwey Höhen und eine Seite, oder zwey Höhen
+und ein Winkel, oder zwey Höhen und der Halb-
+messer des umschriebenen Kreises, oder eine Seite,
+ein Winkel und eine Höhe, oder eine Seite, ein
+Winkel und der Halbınesser des umschriebenen
+Kreises, oder eine Seite, eine Höhe und der Halb-
+messer des umschriebenen Kreises, oder ein Win-
+kel, eine Höhe und der Halbmesser des umschrie-
+benen Kreises , oder die drey Höhen gegeben sind.
+Man sieht, dafs der Vf. die Bestimmungsstücke
+eines Dreyecks, in so weit sie Seiten, oder Wio-
+kel, oder Höhen, oder der Radius des umschriebe-
+nen Kreises sind, combinirt, und sich so diesen
+Cyclus von Aufgaben gebildet hat. Er bemerkt
+selbst, dafs die Verbindung anderer Bestimmungs-
+stücke mit den genannten eine neue Reihe, welche
+unermelslich weit fortgesetzt werden kann, hervor-
+
+‚bringen würde, und beklagt es, dafs noch Niemand
+
+diesen Gegenstand weiter verfolgt habe. Rec. findet
+es auch wünschenswerth, dafs dergleichen Zusam-
+menstellungen öfter geliefert werden mögen, und
+erkennt solchen Arbeiten gerade einen besonderen
+Einflufs auf die Bildung des jungen Mathematikers
+zu. Doch scheinen ihm die geometrischen Aufgaben
+von Diesterweg in ZEN Bänden nicht bekannt ge-
+worden zu seyn, in welchen sich dieser Gegenstand,
+bey dem an eine absolute Vollständigkeit gar nicht
+zu denken ist , weiter ausgeführt findet, als in dem
+vorliegenden Werke. ; .
+
+Die Aufgaben sind gröfstentheils geometrisch ia
+kurzen Andeutungen aufgelöst. Die letzte, aus den
+drey Höhen das Dreyeck zu bestimmen, findet eine
+Behandlung durch Rechnung. Die Construction der
+für die Seiten gefundenen algebraischen Ausdrücke
+könnte auch zum Beweise dienen , dafs eine rein geo-
+metrische Behandlung dieser Aufgabe ein viel ein-
+facheres Resultat liefert.
+
+Vorzüglich wohlgefallen hat dem Rec. die sorß£-
+fältige combinatorische Aufzählung und rein geomt-
+trische Behandlung der auf die Construction €in&
+Vierecks, sey es ein Parallelogramm, oder ein Pa-
+ralleltrapezium, oder ein Viereck überhaupt, sich
+beziebenden Aufgaben. Als Bestimmungsstücke ei-
+nes Parallelogrammes oder Paralleltrapeziums gelten
+Seiten, Winkel, Diagonalen und die Abstände der
+parallelen Seiten, eines Vierecks überhaupt die Sei-
+ten, Winkel und Diagonalen. Darauf folgen e1n1ge
+Aufgaben - über die Construction eines Vieleckes
+aus den Seiten, Winkeln, den von einem gegebene?
+Punkte zu den Winkelpunkten gezogenen geraden
+Linien, und den von denselben eingeschlossert
+Winkeln, und aus den rechtwinkeligen CoordiaateP
+der Winkelpunkte. en mal
+
+In derseben systematischen Ordnung, 9 "el
+cher die Aufgabe der ersten Abtheilung abgehand“
+worden sit wird in der zweyten A theilung lt
+
+3 ; ; hande
+der Verwandiäng geometrischer Figuren ge".
+

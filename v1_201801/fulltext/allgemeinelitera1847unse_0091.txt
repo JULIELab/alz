@@ -1,0 +1,125 @@
+173 Num, 166.
+
+Auch die Bestimmung des Werthes der wunent-
+wickelten Functionen, wenn sie unter unbestimmten
+Formen erscheinen, gehört hieher. Wenn nämlich
+die Function y von X implicite durch eine Gleichung
+fx, y) = 0 bestimmt wird, welche bei jedem
+Werthe von y durch x = « erfüllt wird, so kann
+man den zugehörigen Werth y, von y nicht unmit-
+telbar aus dieser Gleichung ableiten, sondern aus
+
+der Gleichung f‘ (Xu, Ya) = 0, wo d. BO ”
+= f‘ (x, y) gesetzt ist. U. s. f.
+
+Die von dem Verfasser gegebenen Regeln wer-
+den übrigens jedesmal durch passende Beispiele er-
+läutert.
+
+In Kapitel 7 werden die Maxima und Minima
+abgehandelt, und zwar in $. 30 zunächst die der
+Functionen einer Veränderlichen, wobei sich der
+Verfasser auf die früher abgeleitete wichtige For-
+mel (4) stützt, und nicht auf Reihenentwickelungen,
+wie solches früher, und zuweilen auch wohl jetzt
+noch, unschicklicherweise geschehen ist. Kigent-
+lich bedarf man hier aber auch der Gleichung (4)
+nicht, sondern es lässt sich alles schon aus der
+
+Gleichung X = f‘ (x) oder dy = f‘ (x) dx, welche
+
+das Gesetz der stetigen Veränderung der stetigen
+Function f(x) vollständig ausdrückt, ableiten, und
+zwar auf die bündigste und directeste Weise. —
+Der Verfasser bemerkt zwar, dass auch die Wur-
+zeln der Gleichung f‘ (x) = ®% einem Maximum
+oder Minimum von f(x) entsprechen können; al-
+lein es fehlt hier die wesentliche ausdrückliche Be-
+merkung: dass man sich in diesem Falle durch die
+directe Untersuchung der Function f(x) überzeugen
+muss, ob f’(x) vom Positiven zum /Vegaliven , oder
+vom Negativen zum, Positiven übergeht, d. h. ein
+Maximum oder ein Minimum stattfindet, weil alle
+Ableitungen f‘ (x), f“ (x), f(x), ...... zugleich
+unendlich werden, und folglich die allgemeine Re-
+gel nicht mehr anwendbar ist. Wenn ferner die
+Wurzel der Gleichung f‘ (x) = 0 die Ableitung
+f“(x)= % machte, so müsste man wieder direct
+untersuchen, ‚ob die Function f‘ (x) vom Positiven
+zum /Vegativen, oder vom Vegativen zum Positiven
+übergeht, oder ob sie verschwindet, ohne ihr Zei-
+chen zu ändern, weil im ersten Falle ein Maxi-
+mum, im zweiten ein Minimum und endlich im
+dritten keins von beiden stattfinden würde; u. Ss, f,
+
+JULI 1847. 174
+
+Endlich ist die allgemeine Regel auch in dem Falle
+nicht anwendbar, wo f‘ (x) = f(x) = f(x) ....
+= 0 wird.
+
+In $. 31 werden 9 geometrische Aufgaben über
+Maxima und Minima gelöst. In $. 32 handelt der
+Verfasser von der Bestimmung der Maxima und
+Minima der Functionen mehrerer von einander un-
+abhängigen Veränderlichen. Wenn F(x, y, 3,....)
+eine Function von mehreren von einander unabhän-
+gigen Veränderlichen x, yY, Z,... ist, deren Maxi-
+mum oder Minimum bestimmt werden soll; so denkt
+sich der Verfasser x, yY, %,... als beliebige Fun-
+ctionen einer neuen Veränderlichen w, indem er
+= P(w), Yy= WV(@), zZz= (0), ... setzt, was
+offenbar erlaubt ist, weil dadurch keine gegenseitige
+Abhängigkeit der Grössen y,y, Z,... bestimmt
+wird. Alsdann ist f” eine Function der Veränder-
+lichen w allein, und die Bedingungsgleichung für
+
+das Maximum oder Minimum S = © ist:
+dF _dF dx dF dy dF dz 8
+ARE WO IE
+welche wegen der Willkürlichkeit der Grössen
+da a A a da 5
+IE = (0), IL = ww), DE = 70), in
+die folgenden zerfällt:
+
+dF dr dF
+
+dx —— ? day — 0, dz — 0, ..
+
+Es ist jedoch einfacher, wenn man y, Z,...
+sich als Functionen von y denkt. Wenn z, B. in
+F(x, y), y als eine Function von X betrachtet
+wird, so hat man:
+
+dr dF dy
+dx dy‘ dx
+
+für die Bedingungsgleichung des Maximums oder
+Minimums, und wenn man jetzt ausdrückt, dass
+sie unabhängig von der zwischen y und x willkür-
+lich angenommenen Relation, d. h. bei jedem Wer-
+
+the von ZZ stattfinden soll; so erhält man:
+de den
+MEN I
+
+für die Bedingungsgleichungen des Maximums oder
+Minimums in der Voraussetzung der Unabhängig-
+keit der Veränderlichen x, y. U. s. f. Wenn fer-
+
+day Dy
+= ’
+
+. dx
+ner der Verfasser einmal DE Dr,
+
+dz
+——— nA
+dw D ?
+
+Dozyal
+
+setzt, oder besser Dox, Day,
+
+so hätte er auch consequenter Weise
+

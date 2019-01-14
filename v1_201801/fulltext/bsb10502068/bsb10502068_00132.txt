@@ -1,0 +1,127 @@
+227
+228
+ALLG. LITERATUR - ZEITUNG
+auf, daſs ſehr nahe p =
+immer in den Händen der Privat-Mathematiker und
+Steuerleute von Profeſſon geweſen, die weniger jene
+Wiſſenſchaft methbdiſch auf Univerſitäten erſernten,
+als vielmehr auf das Anſehn ihrer Vorgänger und der
+- - - - -
+von dieſen aus Erfahrungen abſtrahirten Theorien,
+dieſelbe gleichſam praktiſch vortrugen, alle-bisheri-
+gen Anleitungen zur Steuermannskunſt, von Simon
+Stevinan- bis auf unſern Vf, faſt einen une-deneiben
+Gang beobachten. Vortheilhafte Ausnahmen finden
+allerdings in dieſem Fache der holländiſchen Litera-
+tur ſtatt, wovon die berühmten Werke von Gerhard
+Kinkhuyſen, Claas Kenbrand van Nierop, Abraham
+de Graaf, Gietermaker», Landsberg, Claas Jansz.
+Woogt, de Vries und mehr Andre bis auf Douwens
+fich vorzüglich auszeichnen; aber mitunter kommen
+auch Schriften der Art vor, die einander ſo ähnlich
+ſich ſehen, wie ein Ey dem andern. Dieſer Schluſs
+findet aber bey dem Büche des Hn. B. nicht die ent-
+fernteſte Anwendung; vielmehr finden wir in den
+eometriſchen und trigonometriſchen Aufgaben, wenn
+ieſelben erklärt und aufgelöſet werden, einen rein
+mathematiſchen Gang beobachtet. Schade daſs un-
+fer Vf, manche neuere Methode für die rechnende
+Schifffahrtskunde nicht gekannt oder doch nicht ge-
+braucht hat. So wird z. B. die Aufg: S. 35–37. In
+einem ſchiefwinkligen Dreyecke, wovon die drey Seiten
+bekannt ſind, ſoll man die drey Winkel finden – in der
+bekannten Art, durch die logarithmiſchen Sinusta-
+feln aufgelöſt. Und doch hat beynahe vor 200 Jah-
+ren der berühmte Holländer, Prof. Willebrord Snel-
+litts derartige Aufgaben, ohne trigonometriſche Ta-
+feln aufzulöſen gelehrt. Die Methode dazu, findet
+ſich im Anhange ſeines Werks: Cyclometricus, de
+Circuli dimenſione ſecund. logiſt. abacos et ad mecha-
+nicem accurat etc. etc. pag. 95–1oo. Probl. V. et VI.
+Lugd. Bat. 1621, 4. Snellius Regel gründet ſich dar-
+3 Sin. (p
+- 2 + Coſ. d
+ſchon der Cardinal Nicolaus de Cuſa kannte, wie aus
+Käſtner's Geſch. der Mathemat. r Bd. S.415. fg. § 22.
+hervorgeht, aber aüch am Ende dieſes Paragraphs
+hinzuſetzt: des Cardinals Beweis ſey ſehr dunkel aus-
+gedrückt. Nach des Rec. Anſicht kann indeſſen
+auch der 2. von Snellius geführte Beweis zu keiner
+völligen Ueberzeugung führen. Das hat ſchon
+Huyge angemerkt (ſ. De Circuli magnitud. inventu;
+Lugd. Bat.1654, 4.), wo er den Satz mit einem
+ftringenten Beweiſe auseinander ſetzt. Dieſen kann
+man auf die Formel reduciren, daſs nahe
+« – sºg. * + * * * Sin. 0 ( 1 + 2 Coſ. D )
+- 3 Coſ. P s
+Unſere deutſchen Mathematiker Lambert und
+Klügel haben zwar dieſe Formel etwas anders ausge-
+drückt, aber im Weſentlichen kommen ſie doch mit
+dem hier gegebenen Ausdruck überein. Gieterma-
+kers Methode, wie derartige Probleme aufzulöſen
+find, werden unſerm Vf, aus dem Vergulden Licht
+der Zeevart, ofte Konft der Stuurlieden gewiſs eben
+ſo bekannt, als die von Henrich Wilſon Navigation etc.etc.
+ift, welchen Satz
+-
+Lond. 1715, 8. vorgetragene Verfahrungsart, ihm
+nicht entgangen fest. 's-vastie Krier ſchon
+vor 16 - entarier ſagen, ſo t-ºnn in den
+Aet. Er ... ab 22 76; p“: f. geanmelt;
+ſelbſt in die neueſten Zeiten hat man aber die ö-
+"g bener Dººke, ohne Hilfe der trgonometriſchen
+7./n, vor Figc zum Gebrauche für Schiffer – eine
+treffliche Metinoie gezeigt (ſ. v. Zachs Mlömat. Corr.
+für die Erd- un Himmelskunde; 1ór Bd. S. 18–35.),
+und das, was ältere Mathematiker ſchon, zu jenem
+Zwecke, in Vorſchriften gegeben haben, nach der
+Zeitfolge aufgeſtellt. Dadurch werden die oft man-
+gelhaften Beweiſe jener früheren Verfaſſer, in der
+gehörigen Form ergänzt. Ueberdieſs werden daſelbſt
+die Regeln zunächſt auf rechtwinklige Dreyecke
+angewandt, ſo daſs, wenn ſchiefwinklige Dreyecke
+vorkommen, dieſelben zuvörderſt in rechtwinklige
+zerlegt werden. Dergleichen Methoden, und viele
+andere mathematiſche Auflöſungen wichtiger nauti-
+ſcher Probleme, kommen in mehreren Jahrgängen
+älterer und neuer Zeiten des Nautical Almanac – der
+Counoiſſance des temps – beſonders in dem ſpaniſchen
+Almanaque náutico y efémérides aſtronomicas – den
+Ephemerides Aironomicas de Coimbra – der Effeme-
+ridi aſtronomiche di Milano vor, die bey einem Lehr-
+buche über die Steuermannskunſt mit Nutzen zu ge-
+brauchen ſind. *
+. Was Hr. B. über die Unzulänglichkeit der künſt-
+lichen Erd- und Himmelskugeln zum Dienſt der
+Schifffahrt beybringt, iſt S. 142. fg. gegründet. Und
+doch bedienten Ä die alten Seefahrer, ſelbſt zur
+Zeit der Griechen im Alterthume, der Globen zu
+Auflöſung mancher, mitunter ſchwerer Probleme.
+So verfertigte z. B. der Atheniſche Mechaniker Leon-
+tius, Himmelskugeln, aus den Sphären des Aratus.
+entworfen, deren ſich die Schiffer bedienten, die
+aber, wie ſchon dieſer Künſtler klagt, nicht die er-
+forderliche Genauigkeit zur See lieferten. Auf der
+Himmelskugel löſten im 16. Jahrhundert Aſtrono-
+men und Seefahrer mehrere Aufgaben mechaniſch
+auf, wozu ſie, wie ſie glaubten, keine gar zu groſse
+Schärfe nöthig hatten. In den Schriften über ienen,
+Gegenſtand in gedachtem Zeitraume, findet man
+noch immer dergleichen Auflöſungen per globuman-
+gezeigt. Man findet ſogar in Robert Hues , oft
+in England, Frankreich, Holland und Deutſchland
+aufgelegten Werke: De globis et eorum ſt; Cap. 'I.
+p. 88. der engliſchen Ueberſ. Lond. 1759, 8. ie be-
+rühmte nautiſche Aufgabe: Aus zwei Sonnenhöhen
+und der beobachteten Zwiſchenzeit, die Breite des Orts-
+zu finden – (verglichen Bangma P 246. fg.) Ä ein-
+fach auf dem Globo mechaniſch aufgelöſet. Bekannt-
+lich hat dieſe Aufgabe, die auch in Blaauw's Verhand.
+over de Globen – in Scheibel's Anleit. zum Gebr. der
+künſtl- Erd- und Himmelskugel und in mehr andern
+ähnlichen Schriften vorkommt, in Rückſicht der
+aſtronomiſchen Rechnungskunſt, viele Aſtronomen
+und Seefahrer, ſelbſt vor einigen Jahren den ſpani-
+ſchen Schiffs- Capitän Mendoza - Kios, in den
+Engliſchen Philoſophical Transactions beſchäftiget, #
+EII).

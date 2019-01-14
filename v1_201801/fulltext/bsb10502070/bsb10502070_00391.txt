@@ -1,0 +1,118 @@
+709
+7Io
+Nunn. 89. APRIL 1 81 8.
+leichterung aller dieſer Berechnungen ſind ſehr müh-
+fam berechnete Tafeln Ä deren allgemeinen
+Gebrauch der Vf, wieder durch Beyſpiele erläutert.
+Deſſen ungeachtet muſs man ſich mit dem Vortrage
+des Vfs. ſehr vertraut gemacht haben, wenn man
+dieſe gehaltreiche Schrift in vorkommenden Fällen
+ſogleich zu benutzen im Stande ſeyn will. Bisher
+war immer nur von nackten Ä (Gurten)
+die Rede. Jetzt (S., 145 u. f) werden Gewölbe be-
+trachtet, welche mit horizontal ausgeglichenem Mauer-
+werke bedeckt ſind. Auch hier geben bedeutende Aen-
+derungen von z ſehr unbedeutende von F. Z. B.
+Für einen Bogen (vom Schei- iſt der Schub
+tel herab) von 6o° – – – – – = 21,42
+61 - - - - - = 21,45
+62 – – – – – = 21,48
+- 63 – – – – – = 21,46
+64 - - - - - = 21,45
+wo zu 62° das Max. gehört. Aber ſo kleine Unter-
+ſchiede verſchwinden für die Ausübung, und man
+kann in Bezug auf die für die Feſtigkeit zu treffen-
+den Maaſsregeln, welche man auf die Reſultate ſol-
+cher Berechnungen baut, ohne alles Bedenken die
+Gröſse des Schubes von Bogenſtücken von 55° (vom
+Scheitel abwärts) bis zu 70° als Äh anſe-
+hen. Der Vf, kommt nunmehr auf die Vergleichung
+des von der Tendenz zur Drehbewegung herrühren-
+den Schubes mit dem Schube von der Tendenz zum
+Gleiten. Seine Unterſuchungen geben erſtern allemal
+bedeutend gröſser als letztern. Seine Schlüſſe gelten
+aber im Allgemeinen doch nur von Bogen, die vom
+Scheitel herab mehr Grade enthalten, als dem Maxi-
+znum des Schubes zugehören. Bey einem ſehr flachen
+Bogen, der z. B. auf die Weite von 60“ nur 5 Grade
+hätte, könnte der von der Tendenz zum Gleiten her-
+rührende Schub jenen von dcr Tendenz zur Drehbe-
+wegung herrührenden bedeutend übertreffen. Jetzt
+folgt die Berechnung des ſenkrechten Drucks auf die
+Seitenflächen der Gewölbſteine. Der Vf. kommt auf
+den nachſtehenden allgemeinen Werth für die Gröſse
+dieſes Drucks (S. 153.)
+I. rs ----+(4+#). cs---
+Wo ar eine veränderliche Gröſse, nämlich die Gröſse
+des druckenden Bogens, iſt. Hieraus ſucht nun
+der Vf, die Gleichung für denjenigen Werth vonx,
+Yelcher das Maximum des Drucks giebt, und er
+findet
+F. Bog. Sin. a–B A. Bog. Sin. a
+TI. - »... sº.-2- -
+Bog. Sin. x B.tang. (a–x) B
+" der Anwendung auf ein Gewölbe nach einem hal-
+ben Kreiſe wird
+7,57. F– B -
+PII. Bog. Sn. x = g= - tang. r
+Alſo, ſchlieſst der vf., giebt es bey dem Gewölbe
+ºch dem Zirkel kein Gröſstes für den gedachten
+Druck. Wir müſſen aber bemerken, daſs F den ho-
+rizontalen Seitendruck bezeichnet; da nun deſſen
+Gröſse ſelbſt von x abhängt, ſo muſs F als eine
+Function von x in die Gleichung (I.) geſetzt, und
+hieraus die Gleichung für das Max abgeleitet werden.»
+da dann die Gleichungen II. und III. eine ganz andere
+Form erhalten. Der Vf. hat die Gleichung (I.) un-
+richtig beym Differentiiren ſo behandelt, als ob F
+eine unveränderliehe Gröſse wäre. Die Unrieh-
+tigkeit des Verfahrens ergiebt ſich auch noch, auf
+eine andere Weiſe. Für ein Gewölbe nach dem Halb-
+kreiſe wird die Länge a = 1,57, oder in Graden
+a= 90°, und I. verwandelt ſich, weil zugleich A =o
+wird, in
+B
+F. Coſx + Fx.s-
+oder (4 x) ſtatt F geſetzt, ſo daſs (pa) eine Function
+von x bezeichnet,
+B
+(px). Coſ. x + # --sº-CC
+alſo für das Max. des Drucks
+d (par
+Coſ.x. # – »sº-
+– O
+B -
++F (-cs-+ sº.- -
+welches von III. ſehr verſchieden iſt. Ueberhaupt
+dient hier die Differentialmethode zu nichts; am
+leichteſten findet man das Max. von (C) durch Prº-
+berechnungen, und dieſe geben r = o°, oder die
+Länge x = 1,57, ſo daſs der gröſste Werth von (C
+= B (= dem Gewicht des halben Ä W11'Cl»
+wie auch des Vfs. 25ſte Tabelle ausweiſt. Daſs übri-
+ens die Meinung, als ob der Schluſsſtein unter al-
+Ä Gewölbſteinen den ſtärkſten Druck auszuhalten
+habe, unrichtig iſt, wie der Vf. (S. 157.) bemerkt-
+davon hatte ſich Rec. ſchon vor der Erſcheinung die-
+ſes Werks überzeugt. Er kommt hiernächſt auf Un-
+terſuchungen über den Druck der Gewölbe auf die
+Lehrgerüſe. (Der Vf, ſchreibt Leergerüſte; da aber
+dieſe Gerüſte dazu dienen, die Gewölbſteine naeh ei-
+ner vorgeſchriebenen Form zu einem Gewölbe neben
+einander zu ſetzen, ſolche alſo hierbey zur Lehre
+dienen, weshalb alle dergleichen Formen Lehren
+genannt werden, ſo kann des Vfs Schreibart nicht
+Ängenommen werden.) Man denke ſich in einem
+nach einem Halbkreiſe aufgeführten Gewölbbogen
+unter einem beliebigen Stück deſſelben, deſſen Länge
+B ſeyn ſoll, eine horizontalc Sehne, deren Länge
+wir mit S bezeichnen, das Gewicht des über S ge-
+ſpannten Bogenſtücks = P, den Druck dieſes Ge-
+öbſtücks auf das Lehrgerüfte = p, ſo iſt nach
+Couplet
+p S- *.e- **- * B
+p= # B - B - -
+Weil aber Couplet die Reibung bey Seite ſetzt» und
+ſich überdieſs nur auf Kreiswölbungen beſchränkt,
+ſo ſtellt der Vf, eigue Unterſuchungen über Ä
+ET-

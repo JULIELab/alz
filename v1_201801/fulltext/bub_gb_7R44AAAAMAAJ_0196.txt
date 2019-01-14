@@ -1,0 +1,116 @@
+381
+“ B6)=k7-R(09,
+TS —C
+
+F_@=F_ GO) — FF, ©,
+T—3}
+Nun dividire man in f (a,b, c, d.... i, k), als
+Function von k betrachtet, mit F__ (Fk) hinein, be-
+merke den Rest, dividire in denselben, als Function
+von £ betrachtet, mit F__(i) hinein, bemerko den
+
+Rest, dividire in denselben, als Function von A be-
+trachtet, mit F__, (4) hinein u, 8. w., und setze
+
+dieses Verfahren so lange fort, bis man einen Rest,
+als Function von & betrachtet, durch Be, (5), und
+
+endlich den bei dieser Division bleibenden Rest, als
+Function von &@ betrachtet, durch F(@) dividirt hat;
+go ist der bei dieser letzten Division bleibende Rest
+der gesuchte durch die Coefficienten der gegebenen
+Gleichung ausgedrückte Werth von f (a, 5,0, d....4, X).
+
+Dass dieselbe Regel sich auch auf die Bestim-
+mung einer gebrochenen rationalen symmetrischen
+Function, indem man den Zähler für sich und den
+Nenner für sich als ganze Functionen betrachtet, an-
+wenden lässt, leuchtet von selbst ein, Wenn aber Hr.G.
+aus diesem Verfahren, indem er als Beispiel einer irra-=
+
+ 
+
+Num. 808, NOVEMBER 1843,
+
+382
+tionalen Function f Zalbı late FE
+
+annimmt, ohne Weiteres schliesst, dass jede sym-
+metrische Function der Wurzeln einer beliebigen
+Gleichung immer durch die Coeffcienten der Glei-
+chung ausgedrückt werden kann, Ohne dass man
+die Wurzeln selbst zu kennen braucht, so möchte
+das aus dem hier Gegebenen ein zu schneller Schluss
+seyn. Was das angeführte Beispiel vämlich betrifft,
+so hat man natürlich nichts weiter zu thun, als die
+unter dem Wurzelzeichen stehende rafionale Function
+durch die Coefficienten der kubischen Gleichung aus-
+zudrücken und dann dem gefundenen Resultat das
+Quadratwurzelzeichen vorzuschreiben, wenn aber
+nur die ganz einfache symmetrische Function Ya +
+Y5+V7 gesucht würde, so könnte man mit dem
+obigen Verfahren nichts anfangen, und es ist mir
+auch kein Weg bekannt, wie man ähnliche irratio=
+nale Functionen, in welchen die Irrationalität in den
+einzelnen Gliedern vorkommt, durch die Coefficien-
+ten ausdrücken könnte. Bei dem cben genannten
+Beispiel für eine kubische Gleichung 2%+ Ar +B=0
+kann man zwar den gesuchten Werth finden, aber
+nur dadurch, dass man die Werthe der drei Wurzeln
+
+kennt. Es wird nämlich, wenn man v0? +4 PR
+27 .
+
+setzt:
+
+ 
+
+Va+vYb+Ye= VY YO +1R— ViO+4R
+
+ 
+
+fr ———
+
+ 
+
++
+
+oder wenn man die beiden letzten Glieder zusammen
+zum Quadrat erhebt und hieraus wieder die Quadrat=
+
+Va+/b+0=
+
+IVO
+
+nn
+
+ZEV ER AS VOR
+
+wurzel zieht, um die imaginäre Grösse y—3 weg-
+zuschaffen:
+
+ 
+
+VZI0 7ER — VIO+ER
+
+ 
+
+ 
+
+” V/ 1301ER +VI0+4R +? vY 1P+2VCI07E +2 GOES
+
+Dieser Ausdruck, der keiner besondern Vereinfachung
+fähig zu seyn scheint, dürfte wohl nicht so leicht aus
+den Coeffcienten der gegebenen kubischen Gleichung
+unmittelbar abzuleiten seyn, wenn man nicht die Aus-
+drücke der Wurzeln durch die Coefficienten kennt; so
+dass es wohl noch ein ungelöstesProblem bleiben möch-
+
+te, diejenigen irrationalen Functionen der Wurzeln ei-
+ner Gleichung , in denen die Irrationalität in mehreren
+Termen vorkommt, durch die Coefflcienten der
+Gleichung auszudrücken, ohne deren Wurzeln zu
+kennen. —
+
+(Die Fortsetzung folgt.)
+

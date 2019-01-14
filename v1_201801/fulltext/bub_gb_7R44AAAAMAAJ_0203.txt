@@ -1,0 +1,113 @@
+der- gegenüberliegenden Spitzo des gleichseitigen
+Dreiecks über ihrer Gegenseite verbindet, so sind
+diese drei Verbindungslinien unter einander gleich.
+Beiläufig hätte noch können hinzugefügt werden,
+dass sich diese drei Linien in einem Punkte schnei-
+den. In T. 1. 8.225 ff, untersucht derselbe Verf.
+die trigonometrischen Relationen, welche zwischen
+den einzelnen Stücken eines geradlinigen vollstän-
+digen Vierecks stattfinden. Er entwickelt hier theils
+bekannte, theils aber auch viele neue Beziehungen
+zwischen den hier in Betracht kommenden Grössen,
+wobei besonders die geordnete und symmetri-
+sche Ableitungsart zu loben ist und auch der Um-
+stand noch das Interesso erhöht, dass jedo der
+Kürze oder Eleganz wegen eingeführte Grösse ihro
+geometrische Bedeutung erhält. Kin besonderes
+Hülfsmittel zur leichten Auffindung neuer Sätze
+sind dem Vf, die Beziehungen zwischen zwei belie-
+big liegenden Dreiecken, welche er in der kurz
+vorher genannten Abhandlung entwickelt hat. So
+Jeitet er z. B. mit grösster Leichtigkeit den Satz
+ab, dass in jedem einfachen Viereck das Quadrat
+des Productes beider Diagonaten gleich der Summe
+der Quadrate der Producte je zweier Gegenseiten,
+vermindert um das doppelte Product sämmtlicher
+vier Seiten in den Cosinus der Summe zweier Gegen-=
+winkel ist, welches der Pfwemaei’sche Lehrsatzin sei-
+ner ‚grössten Allgemeinheit ist. Kbenso wird die
+Aufgabe behandelt: aus irgend fünf von einander
+unabhängigen Stücken des vollständigen Vierecks
+alle in dieser Figur vorkommenden Seiten und
+Winkel zu bestimmen. Von der eben genannten
+Erweiterung des Pfolemaei’schen Lehrsatzes macht
+derselbe Vf. in einer andern Abhandlung TV, MM,
+8. 431 eine interessante Anwendung auf die Auflö-
+sung einer bekannten geodätischen Aufgabe: aus
+den drei Spitzen eines gegebenen Dreiecks wird
+ein Thurm gesehen, dessen Fuss mit dem Dreicck
+in einer Ebene liegt; die Winkel, unter welchen
+er aus denselben erscheint, sind gegeben; man soll
+die Entfernung des Thurmes von jedem dieser drei
+Punkte finden.
+
+Von den andern sich auf Geodäsie beziehenden
+Abhandlungen haben die meisten die Pufthenot"sche
+Aufgabe in grösserer oder geringerer Ausdehnung
+zu ihrem Gegenstand. Diese Aufgabe in ihrer ein-
+fachsten Gestalt, nämlich wenn drei Punkte ihrer
+Lage nach gegeben sind und man diese von einem
+vierten in derselben Ebene mit ihnen liegenden
+Punkt beobachten kann, die Lage dieses vierten
+
+ALLG, LITERATUR - ZEITUNG
+
+Punkts in Bezug auf die drei ersten zu bestimmen,
+
+haben der Hr. Herausgeber T, I, S.92 und T, I.
+
+S. 446, Hr. Major Müller zu Hannover T. I. S. 335
+
+(ein Auszug aus der Abhandlung im Journal f. r.
+
+u. a, Math. von Crelle T, XV. S. 255) und Hr,
+
+Bretschneider T, 11. S, 433 auf verschiedene Arten
+aufgelöst. Auf Veranlassung dieser Behandlungen
+
+giebt T. ILS, 210 der Herr Professor Verdam zu
+
+Leiden die interessante historische Notiz, dass diese
+Aufgabe den Namen der Pofhenot’schen in so fern
+mit Unrecht führt, als schon -früher als Pothenot
+der holländische Mathematiker WFillebrordus Snellius
+dieselbe Aufgabe graphisch und trigonometrisch ge-
+löst hat, weshalb auch in allen holländischen Wer-
+ken über Trigonometrie diese Aufgabe das Problem
+des Snellius genannt wird. In T.I. S, 238 stellt
+sich der Hr. Horausgeber dieselbe Aufgabe in er=
+weiterter Gestalt, indem er den vierten Punkt, des=
+sen Lage gegen die drei ersten bestimmt werden
+soll, als nicht in derselben Ebene mit diesen drei
+gegebenen annimmt, Ausserdem findet sich T. I,
+S. 219 vom Herausgeber eine Auflösung der aus
+den Astronomischen Nachrichten von Schumacher be=
+kannten Hansen’schen geodätischen Aufgabe: Wenn
+zwei Punkte ihrer Lage nach gegeben sind, so soll
+die Lage zweier andern Punkte durch blosse Win=
+kelmessungen an den letztern, ohne diese von den
+gegebenen Punkten aus zu beobachten, bestimmt
+werden... Der Vf. benutzt hierbei die bereits schon
+oben angegebene Abhandlung T,I, S. 89 über eine
+Relation zwischen den rechtwinkligen Coordinaten
+von vier Punkten in einer Ebene und den drei Win-
+kein, welche die vier von diesen Pankıen nach
+einem fünften Punkt in derselben Ebeno gezoge=-
+non geraden Linien mit einander einschliessen. Von
+derselben Aufgabe wird auch noch 'T, I. S, 441 die
+von Clausen in den astronomischen Nachrichten ge-
+gebene geometrische Auflösung mitgetheilt, die be-
+sonders deshalb wichtig ist, weil sie für die An=
+wendung des Messtisches eingerichtet ist.
+
+An Abhandlungen, die sich auf Physik, Me-
+chanik und Astronomie beziehen, finden sich ver=-
+hältnissmässig nur wenige, Ausser mehreren kleis
+nern, zum Theil recht iuteressanten Notizen, sind
+von grösseren, selbstständigen Abhandlung zu
+nennen: In T,F. S. 400 — 414, Auwendungen der
+Fremel’schen Formeln zur Bestimmung der von
+einer beliebigen Anzahl paralleler durchsichtiger
+Platten reflectirten und gebrochenen polarisirten
+Lichtintensitäten; vom Herrn Lehrer Flesch zu Düs-
+

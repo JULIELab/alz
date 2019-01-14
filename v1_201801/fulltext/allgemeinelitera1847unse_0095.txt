@@ -1,0 +1,127 @@
+181
+
+Verwandlung gegebener Functionen in Reihen das
+Problem der Summirung gegebener Reihen , d. h. der
+Auffindung der Function, durch deren Entwickelung
+nach der Maclaurinschen. Formel die }gegebene
+
+Reihe hervortreten würde, gegenüberstehe. Als
+.. } . . . . ; X x} >
+Erläuterungsbeispiel wird die Reihe AGs
+
+— = + .., dadurch summirt, dass daraus durch Dif-
+ferenzirung die Reihe 1 — y%? + z*— x +...
+1
+Fr + =?
+- 1
+kanntlich Er
+
+dass die gesuchte Summe = arc tangy x + G ist,
+woran der Verfasser die Bemerkung knüpft: dass
+das Problem der Summirung der Reihen der Inte-
+gralrechnung anheimfalle; es sey jedoch auch für
+die Differenzialrechnung von einiger Wichtigkeit,
+zuvor zu untersuchen, ob eine gegebene Reihe auch
+eine Summe haben könne, d. h. ob eine Function
+möglich sey, durch deren Entwickelung die gege-
+bene Reihe entstehen würde, damit man nicht et-
+was suche, was nirgends zu finden sey. Als Bei-
+spiel einer Reihe, die offenbar keine Summe hat,
+wird die Reihe:
+
+(@+D +6? +2 +6! +70 +.
+
+angeführt und dann nach den Bedingungen gefragt,
+welche eine gegebene Reihe erfüllen müsse, wenn
+sie einer bestimmten endlichen Function gleich seyn
+soll. Die Antwort auf diese Frage ist: dass die
+gegebene Reihe ug, Uı, Ua, U3,. 0. convergent seyn
+muss, d. h. die Summe ug +U1 + U + U Fe
+muss sich einer gewissen angebbaren Grenze unbe-
+schränkt nähern, jemehr Glieder der Keihe man
+summirt. Kennt man nun zum Voraus die Bedin-
+gungen, unter welchen sich eine gegebene Function
+F in eine ihr gleiche Reihe up + W1+W2+ +
+entwickeln lässt, so weiss man auch « priori die
+Bedingungen, unter welchen die Reihe convergirt ;
+ist dagegen die Function F nicht, sondern nur die
+Reihe ug + U + W2-+... gegeben, So muss man
+die Bedingungen ihrer Convergenz « posteriori auf-
+suchen. Für den ersten Fall gibt der Cauchy’sche
+Lehrsatz die fraglichen Bedingungen unmittelbar,
+und für den zweiten bleiben sie noch zu bestim-
+men. Für die Differenzialrechnung als solche ist
+aber die Betrachtung des zweiten Falles, nachdem
+der Cauchy’sche Lehrsatz bekannt ist, ganz über-
+flüssig; denn sie bedarf weder zu ihrer Begrün-
+
+‚für x < 1, abgeleitet wird, und da be-
+
+ 
+
+ 
+
+— D, (arc tang x) ist; so folgt,
+
+Num. 167. JULI 184%,
+
+182
+
+dung, noch für die Anwendung derselben auf Rei-
+henentwickelungen gegebener Functionen die Kennt-
+niss der Bedingungen der Convergenz gegebener
+Reihen, den weiter unten vorkommenden speciellen
+Fall ausgenommen; und da uns der Cauchy’sche
+Lehrsatz sogar die Untersuchung über die Bedin-
+gungen des Verschwindens des RKestes der Taylor’-
+schen und Maclaurin’schen Reihe erspart; so könnte
+man zur Ableitung dieser Beiden Reihen selbst den
+Lehrsatz in $. 27. S. 134 entbehren und zu der al-
+ten, einfachern Methode der unbestimmten Coeffi-
+cienten zurückkehren. Denn wenn man nach un-
+mittelbarer Betrachtung einer Function F(x) ent-
+scheiden kann, dass sie sich in eine Reihe von der
+Form A+ Br + Cx? + Dx3 +. .. entwickeln
+lässt , so ergeben sich leicht die Coefficienten
+
+A= FO, B=F 0), CH ©
+
+372045 SO dass
+
+man hat:
+
+F@)=FO+2FO + Z FO +...,
+wo 'die Reihe convergiren muss, woraus sich als-
+dann leicht die Taylor’sche Reihe ableiten lässt.
+Allein der Cauchy’sche Lieehrsatz bietet selbst un-
+mittelbar die Mittel zur Ableitung der Maclaurin-
+schen Reihe dar.
+
+Indessen kann man der Untersuchung über die
+Bedingungen der Convergenz gegebener Keihen, So-
+wohl als der über die Bedingungen des Verschwin-
+des des Restes der durch Anwendung des Taylor’-
+schen und Muclaurin’schen Satzes erhaltenen Rei-
+hen auch jetzt noch in der Differenzialrechnung im-
+merhin ihren Platz gönnen. Als erste Bedingung
+der Convergenz einer gegebenen Reihe;
+
+ot + Ua + Us Fo Un Foo
+
+weist der Verfasser nach, dass a. un — 0 seyn
+muss; aber es wird sogleich auch gezeigt, dass
+diese Bedingung zwar nothwendig, aber nicht hin-
+reichend ist. Als Grundsatz nimmt der Verfasser
+an: dass, wenn von den beiden aus lauter positli-
+ven Gliedern bestehenden Reihen:
+
+Ka A el
+
+U9o + Ur +uz + U3 + 00.
+die erste als convergent bekannt ist , auch die zweite,
+und zwar stärker convergirt , wenn ug<tog, U, <Tı,
+Uz< Ta, U3<(T3,-«- ist. Die 2te Reihe ist‘ of-
+fenbar noch convergent, wenn auch nicht gleich an-
+fangs ug < to, U1<1i, U3<t3,..., aber doch
+von einem gewissen Index m an Stets um < tm,
+

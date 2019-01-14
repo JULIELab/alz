@@ -1,0 +1,151 @@
+»
+
+®
+
+LITE
+
+% 4
+
+A
+
+VE N e
+
+——_-
+
+er 0.36.
+
+ 
+
+U”LGE MEUNE a
+RATUR-ZEITUNG
+
+Sonnabends, den I2ten Februar 1785-
+
+MATHEMATIK,
+
+Pasıs, aus Ph, D. Pierres Druckerey : Theörie
+© du Mouvement et de la Figure elliptique des-Pla-
+netes; Par M. de la Place % VAc, Roy, des Sc.
+dc, 1784- Br. 4. 152 S. die Vorrede 24 S, }
+
+Der !Vorbericht enthält eine, kurze räfonnirende
+Vorftellung der wichtigen Entdeckungen New-
+tons und.anderer Geometer nach ihm in ..der phy-
+fifchen Aftronomie. Alie fliefsen fie aus einer.
+
+Quelle, find blos Anwendungen des Gefetzes der®
+
+allgemeinen Schwere. Die daraus abgeleitete Theo,
+rie der Bewegung der himmlifchen Korper reitzte
+gleich anfangs durch ihre Simplicität, und ‚wurde
+gar bald durchgängig LEHE Je kleiner die An-
+| zahl der Vorausfetzungen, die bey einer Theorie.
+zum Grunde liegen ; je grüöfler die Menge ‚der, Er-
+fcheinungen, die, (ich durch fie erklären laflen : de,
+{to befler. und vollkommner die. Theorie, , Koper»
+nikus, um die fcheinbaren* Bewegungen der himm-
+lichen. Körper zu erklären, nahm, wie bekannt,
+für die. Erde eine dreyfache Bewegung ‚an; die
+_ Theorie der Schwere leitet fie alle aus einer ein;
+zigen her, die der Erde nach einer Richtung ger
+geben worden „{die nicht durch ihren Mittelpunkt
+der. Trägheit geht. Auf diefem Wege hat ‚man bey
+der unendlichen Mannichfaltigkeit der Erfcheinun,
+gen die Refultate derfelben auf die ‚beyden ‚wich,
+tigen. Stützen der
+Beobachtung und Rechnung, gegründet, Aber nicht
+nur dient. die Schwere, die ergung der ‚himmli-
+fchen Körper zu erklären; auch die Figur derfel-
+ben,hängt yon ihr ab; und fo zerfällt denn das
+Werk qanz, natürlich in; zween. Abfchnitte , „wie
+folche der Titel anzeigt. w )
+.Erfier Ablchnatt. I
+tifchen Bewegung 1
+fer ‚Theorie, aus den einfachften Sätzen abgelei-
+‚ tet, kurz beffmmen, Gleich anfangs werden,
+aus den anziehenden Kräften der Sonne und eines
+Planeten‘, und diefer Kräfte Zerlegungen, zwo
+Differenzialgleichungen der zweyten Ordnung ‚ge-
+folgert, und aus diefen fo einf: 1
+Ueiber die ganze Theorie der Bewegung der himm-
+lifchen Körper entwickelt, ‚Die doppelte Integra-
+tion
+
+Bewegung
+Aalen 1% diefe, ‚wie anfanı
+
+n
+
+des Planeten dadurch zu beftimmen, in
+Z. 1785. Erfler Ban
+
+enfchlichen Kenntnifle, auf,
+
+. ı. — 66) Theorie der ‚ellip- 1 d
+der Planeten. Die Elemente die-4 Planeten auf feiner Bahn: u = =" + 9815” 3. fin.
+
+en,Gründen wird
+
+‚der Gleichungen. giebt vier Conftanten, die,
+
+gs hier, yorausgefetzt.
+
+wird, auf die Ebene bezieht, in welcher feine
+Bahn liegt. „Bezieht man aber die Bewegung des
+Planeten auf irgend eine andere fefte Ebene, etwa
+auf die Ekliptik, fo findet man zu den erften bey.
+den noch eine dritte jenen vollkommen ähnliche
+Differenzialgleichung der A Ordnung, de
+ren fucceflive Integration. noch zwo andere, alle
+dr alfo zufammen ‚/zchs Conftanten, für die ge
+wöhnlich. fogenannten Elemente. der Bahn geben,
+Herr de /a Place erinnert aber, es fey einfacher und
+leichter, die Bewegung des Planeten anfänglich auf
+die Ebene feiner Bahn. zu beziehen, die Neigung
+der Bahn hingegen gegen eine andere feite Ebene
+„und die Lage des aufli eigenen Knotens nachher
+zu beitimmen. Methode, die Bewegung der himm,
+Jifchen Körper durch Annäherung (ehr fcharf zu
+finden, für (ehr kleine oder fehr ron Eccentri-
+citäten der Bahnen, wie,bey den Planeten oder Ko,
+meten in Betracbtung kommen, Secularverände-
+rungen, für irgend einen beftimmten Anfang, wo-
+von man fie rechnet, auf eine einfache für die
+Rechnung fehr bequeme Art dargeftellt, Hierb
+zeigt fich, dafs (die Einwirkung der Kometen nicht
+mit in Betrachtung gezogen) fich alles dahin, verei-
+nige, die Schiefe der Ekliptik zu vermindern, die
+© keinem Zweifel unterworfen ift, {ich fogaı
+nz genau durch. Rechnung würde beftimmen laf-
+en, wenn man die Maffen einiger Planeten, vor
+züglich der Venus, genau angeben könnte, Ele.
+mente des neuen Pe (wie fie in ns
+aftron. Jahrb. für 1787. S.140 aus Hrn. Mechains
+Briefe excerpirt Rehen und dertlben Vergleichung
+mit mehrern Beobachtungen (am Ende der Schrift
+S. 150 ,- 152) durch den Pater Dann. Nouet, einen
+fehr gefchickten Rechner. Wichtig find folgende‘
+Hauptgleichungen für die Bewegung'des neuen
+
+   
+
+a,
+tang. 4 v = 0,053493- tang. 37; I — 19,0818
++ 0,008045. cCöf: x; wo u die mittlere Bewegung‘
+des Planeten, x feine eccentrifche, ‚v feine wahre,
+Anomalie (alle drey vom Aphelio an gerechnet) und
+r den Radius yector bedeutet. Für die Kometen-
+berechnung nimmt Hr. de /a Place in den vorher,
+gefundenen drey Differenzialgleichungen die Maffe
+; des Kometen gegen die Sonne als unendlich klein”
+an. Zuletzt wird alles auf die zu findenden endlichen
+a vers
+ode, deren
+An.
+
+ 
+
+” Werthe einiger Differenzialausdrücke
+mittelft einer neuen. indireften Meth
+A
+

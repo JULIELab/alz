@@ -1,0 +1,128 @@
+397
+
+seldorf, In T. 1. 8. 145—187: Ueber die Grund-
+formeln der Dioptrik und Katoptrik vom Heraus-
+geber. Dieser an sich lesenswerthe Aufsatz leidet
+wieder an dem schon oben vom Ref, erwähnten
+VUebelstande, dass der Verf. zu viel deducirt. Es
+wird z.B, auf S. 164— 172, also auf acht vollen
+Octavseiten ein Satz aus der Theorie der soge-
+nannten umgekehrten Kettenbrüche weitläufig ent-
+wickelt, der sich mit wenigen Worten hätte ab-
+machen lassen, wenn man nicht ganz unwissende
+Leser voraussetzen will, was man bei einer solchen
+Zeitschrift nicht ohne Beleidigung thun darf. Wenn
+man nämlish setzt:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ft. 1
+Po a,+1 N
+& a,+_ 1
+ar,
+a .
+1
+a +
+k-1 @
+Yı _ 1 F
+ie m rs 1
+% k a Fı
+k-1 Br
+k-2
+1
++ Fi
+dp
+=.
+= a1 ;
+at 1
+a
+* 1
+Ta
+ix a
+k + q
+k
+
+so lautet der zu beweisende Satz:
+
+CH
+(9:65)
+
+Die Richtigkeit dieser Gleichung ergiebt sich
+
+ohne Weiteres aus der hinlänglich bekannten Theorie
+der Kettenbrüche, Man sche z.B, das compendiöse
+
+Nam. 205, NOVEMBER 1843,
+
+398
+
+brauchbare Handbuch von Minding: Anfangsgründe
+der höhern Arithmetik, S. 122 ff., wo sich mutatis
+mutandis diese Bedingungen finden:
+
+Ik+1 = 9x Sf
+
+IK = Pu
+Tu fa F fa
+Pk Fr
+k—1
+Prien Past fr=C-n
+
+Berücksichtigt man dieses, so erweist sich obige
+Gleichung geradezu als richtig.
+
+Ausserdem wären noch besonders hervorzuhe-
+ben T. I, S. 144—179, die verschiedenen Auflö-
+sungen des Sternschnuppen - Problems, aus einem
+allgemeinen Gesichtspunkte dargestellt; T. II. S. 41
+Cauchy’s Interpolationsmethode, entlehnt aus der
+Differentialrechnung von Moigno; und T, IL SS,
+377 —399, über Jucob Bernoulls Methode, die
+Höhe der Wolken zu bestimmen. Alle drei Ab-
+handlungen vom Herausgeber. In der ersten wird
+zunächst die Ansicht von Ol/bers verfolgt, von wel-
+cher dieser bei seiner Auflösung des Steruschnup+
+pen - Problems ausgegangen ist, Es werden dabei
+die geraden Linien bestimmt, welche von zwei
+Beobachtungsarten, deren gegenseitige geographi-
+sche Lage bekannt ist, nach dem Ort des ersten
+Erscheinens einer Sternschnuppe gezogen werden.
+Der Durchschnittspunkt dieser beiden Linien giebt
+den wahren Ort, von welchem die Sternschnuppe
+ausging. Da aber in den meisten Fällen, selbst bei
+erwiesen gleichzeitigen Beobachtungen, die Be-
+dingung, dass sich beide Linien schneiden, nur bä-=-
+herungsweise erfüllt werden wird, so bestimmt
+Brandes in beiden Linien diejenigen Punkte, deren
+Entfernung von einander ein Minimum ist. Den
+Gang der Sternschnuppe bestimmt man hernach da-
+durch, dass man auf Sternkarten den beobachteten
+Weg bezeichnet und für beide Beobachtungsorte
+regulirt, Da dieses Verfahren stets sehr unsicher
+bleibt, so haben Quetelet und Bessel eine andere
+Berechnungsart in Vorschlag gebracht, die sich be-
+sonders dadurch empfichlt, dass man nicht die von
+Bessel schr bezweifelte Voraussetzung machen
+darf, als fiele das ersto Erscheinen einer Stern-
+schnuppe für beide Beobachtungsorte in denselben
+Zeitmoment., Andrerseits aber ist es erforderlich,
+nicht allein den Punkt des Erscheinens, sondern
+auch den Punkt des Erlöschens der Sternschnuppe
+zu beobachten, Indem man alsdann als Weg der
+

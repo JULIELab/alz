@@ -1,0 +1,122 @@
+317
+A-
+Num. 49. APRIL 1815. - 318
+fallen, auf ſolche Anlagen Formeln aus der Theorie
+der Maſchinenlehre anwenden zu wollen? Und be-
+weiſen hier Abweichungen der Erfahrung von den
+Reſultaten der Formeln etwas gegen die Richtigkeit
+oder Brauchbarkeit der letztern? Der Mathematiker
+fordert regelmäſsige Anlagen zur Anwendung ſeiner
+Formeln, und je unregelmäſsiger ſolche ſind, deſto mehr
+müſſen ſich nothwendig die Reſultate ſolcher Formeln
+von denen der Erfahrung entfernen. Ebenſo verhält
+es ſich mit den Formeln für die Geſchwindigkeit flie-
+fsender Waſſer, die mothwendig von regulären Kanä-
+ien hergenommen ſeyn müſſen. Je mehr ſich die na-
+türliche Geſtalt der regulären nähert, deſto anwend-
+barer werden die dazu angegebenen Formeln. Auſser-
+denn iſt es ganz gegen die Natur dieſer Formeln, ſie
+auf Geſchwindigkeiten von mehr als 5' anwenden zu
+wollen, auch ſelbſt in ganz regelmäſsigen Betten; am
+wenigſten ſollen ſie für Waſſer gelten, das wegen des
+Abhangs des Bodens mit beſchleunigter Bewegung
+fortflieſst. Solche Beyſpiele, wie die vom Schiffs-
+durchlaſſe am Traunfall, und vom Fluſsdurchlaſſe am
+Lech bey Landsberg, (S. 191.) können daher nicht
+hieher gerechnet werden. Auch vermiſſen wir gera-
+de in dem Falle, wo von Vergleichung der Formeln
+mit der Erfahrung die Rede iſt, ſehr ungerne die An-
+gabe der Beſtimmungsſtücke, welche bey den Reſul-
+taten (S. 191.) zum Grunde liegen. Der verdienſt-
+volle Verf. wird -es uns darum auch nicht verargen,
+wenn wir in dieſer Hinſicht in die Richtigkeit der
+Grundbeſtimmungen einiges Miſstrauen ſetzen. Für
+die Salzach ſetzt der Vf. nach der Erfahrung die Ge-
+ſchwindigkeit = 507 Fuls, nach Chezy = 0,65; da-
+Ä beynn Fluſsdurchlaſskanal bey. Landsberg nach
+er Frfahrung = 15,8, und nach Chezy = 7,7. So
+gäbe alſo die Theorie im Erſtern Falle das Doppelte,
+im letztern nur die Hälfte von der Erfahrung! Be
+einer wirklich dreyfachen Geſchwindigkeit ſöll die
+Chezyſche Formel nur von der Geſchwindigkeit ge-
+ben, welche ſie bey, der einfachen Geſchwindigkeit
+Ä So ſoll eine Formel, die auf ſo vernünftigen
+Gründen, ganz auf analogiſchen Geſetzen beruht? Ä
+möglich! Es muſs alſo in den zum Grund gelegten
+Beſtimmungsſtücken, deren Angabe hier leider fehlt,
+ein Fehler begangen worden ſeyn; wie lieſse ſich
+ſonſt auch nur halb begreiflich machen, daſs bey dem
+Schiffdurchlaſſe am Traunfall in derſelben Tafel
+(S. 191.) eine Geſchwindigkeit, welche nach der Er-
+fahrung = 24,3 Fuſs gefunden wurde, nach der Che-
+Ä Formel = 25,2 Fuſs gefunden wird, alſo mit der
+rfahrung ſo # zuſammenſtimmend ? War hier
+]
+vielleicht wirklich Parallelismus zwiſchen Oberfläche
+des Waſſers und Grundfläche des Bodens? Uebrigens
+findet man hier die zur Beſtimmung der Geſchwin-
+digkeit des Waſſers in regulären Kä älen angegebe:
+nen Formeln von Chezy, Buat, Girard, Proñy und
+die neuſte aus der in den Denkſchriften der Akade-
+mie zu München (1812) befindliche Abhandlung von
+angsdorf über die Bewegung des Waffers in offenen
+Kanälen beygebracht, wo aber im zweyten Factor der
+Ausdruck – nicht im Zähler des Bruchs, ſondern
+-
+vor dem Bruch ſtehen muſs. Letztere iſt zwar nicht
+wie die übrigen auf den Parallelismus beſchränkt, doch
+aber keineswegs auf Kanäle ausgedehnt, in welchen
+das Waſſer vermöge des ſtarken Abhangs des Bodens
+eine beſchleunigte Bewegung annehmen muſs. Mit
+Vergnügen finden wir (§ 2 12) nachſtehende wichtige
+Bemerkung des Vfs. „ Die bey den Landsberger
+Floſskanal angeſtellte Beobachtung, ſo wie die hier
+folgenden Abmeſſungen, ſind mit der gröſsten Ge-
+nauigkeit genommen worden, und ſie verdient daher
+eine vorzügliche Aufmerkſam reit aller derer, welche
+die über die flieſsenden Gewäller vorhandenen Theo-
+rien ſtudiren. Die Abmeſſungen ſind folgende: Die
+Länge dieſes regelmäſsigen in vertikalen Balkenwän-
+den eingeſchloſſenen und mit Balken ausgedielten Ka-
+nals beträgt 23o bairiſche Schuhe; die Wände der
+Einmündung ſind 34 9“, die der Ausmündung 36 10“
+von einander entfernt; die rnittlere Breite des Kanals
+beträgt alſo 35 9 “; die Waſſertiefe bey der Einmün-
+dung war (bey 8 Zoll Pegel) 24“ 6“, die bey der Aus-
+mündung (da, wo die öÄ des Waſſers noch
+eine reguläre Neigung hat, welche weiter unten auf
+16/11“ vor dem Ende des Kanals in aufſpringende Wel-
+Jen übergeht) 12“6“. „ Der Abhang des ganzen Ka-
+nalbodens beträgt 84“, folglich verhält ſich dieſer zur
+Länge, wie 1 : 27,6. Die beobachtete mittlere Ge-
+ſchwindigkeit war bey dieſer Waſſerhöhe 15,8 in der
+Secunde." Für dieſe ſo genaue und in der That ein-
+zige höchſt wichtige Beobachtung verdient der Vf.
+Ä Dank. Wir müſſen aber einen ganz andern
+Sebrauch davon machen, als der Vf. Wenn wir nun
+in Par. Fuſsen nach Chezy c=91. V. –**– ſetzen,
+A. (b-+-2h)
+ſo iſt in Bair. Fuſsen c = 92,5 . YITÄTIG . Setzen
+- - I
+Wl TIU Il herb- 34,75'; h=294 #–zz b+2h -
+= 39,83; ſo wird c = 29,5 . vÄ–233
+Dafür giebt der Vf.7,7' an, alſo noch nicht des Gan-
+zen. Aber jenes Reſultat (23,3) kann nicht als Reſultat
+der Chezyſchen Theorie angenommen werden, da ſol-
+che gleichförmige Bewegung vorausſetzt, hier aber
+noch eine bechleunigte ſtatt findet. Eigentlich zeigt die
+Chezyſche Formel an, bey welcñer Geſchwindigkeit
+Waſſer in der Höhe h (hier von 2,04) bey der Breite b
+(hier von 34,75, wenn dieſe Breite durchaus bliebe)
+unter einem Gefälle von # ( hier von zz der Länge)
+mit gleichförmiger Bewegung fortflieſsen würde.
+Dieſe Geſchwindigkeit wird nun hier = 23,3 gefun-
+den, d. h. das bey einem ſolchen Abhange 2,04 hoch
+über dem Boden fortflieſsende Waſſer wird bey der
+Geſchwindigkeit von 23,3 durch den mit dieſer Ge-
+ſchwindigkeit verbundenen Widerſtand gerade um ſo
+viel verzögert werden, als es durch den Abhang be-
+ſchleunigt wird. Da aber wegen der beſchleunigten
+Bewegung die Waſſertiefe ſehr ſchnell abnimmt und
+mit dieſe Abnahme der Widerſtand zugleich wächſt,
+- lo

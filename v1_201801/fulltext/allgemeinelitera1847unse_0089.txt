@@ -1,0 +1,118 @@
+169
+
+SE
+
+170
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+ 
+
+ 
+
+Monat Juli,
+
+1847.
+
+Hallc, in der Expedition
+der Allg. Lit. Zeitung.
+
+ 
+
+Mathematik.
+
+Handbuch der Differenzialrechnung und Integral-
+rechnung. Von Dr. O0. Schlömilch u. s. w.
+
+(Fortsetzung von Nr. 165.)
+
+-
+Wi dagegen im zweiten Falle das «w im
+Nenner nicht gegen ein w im Zähler gehoben,
+So muss man die Operation des Grenzübergan-
+ges angedeutet lassen”, worauf es weiter heisst:
+„ Differenziale sind also Differenzen, auf welchen
+die Bedingung haftet, sie successive bis zur Grenze
+Null abnehmen zu lassen. Differentialquotient und
+derivirte Function bilden also zwei verschiedene An-
+sichten für ein und dieselbe Sache. Den Diffe-
+renzialquotienten erhält man dadurch, dass man
+4F(rT)
+4x
+im Einzelnen andeutet , die derivirte Function da-
+
+gegen, wenn man den fraglichen Grenzwerth im
+Ganzen wirklich bestimmt.” Das ist aber offenbar
+eine ganz überflüssige Unterscheidung und Weit-
+läufigkeit; denn wenn einmal ganz allgemein be-
+
+den Grenzwerth des Differenzenquotienten
+
+wiesen ist, dass jm. * C® + 0) -F (@) oxislirt :
+} w
+so muss sich der Differenzenquotient in jedem be-
+sondern Falle auch auf der Stelle so transformiren
+lassen, gleichviel auf welche Weise, oft giebt es
+deren sogar mehrere, dass man für den Grenzwerth
+desselben eine wöllig bestimmte Function erhält.
+Ferner ist es cine ganz falsche Behauptung des
+Verfassers: dass F’(x) immer endlich und stelig
+sey, wenn F(r) es war. — Jedoch müssen wir
+auch bemerken, dass der Verfasser diesen Irrthum
+später (S, 132) bemerkt zu haben scheint, indem
+er sagt, dass wenn F'(r) stetig und endlich ist,
+es auch F(r) sey, aber nicht umgekehrt. — Sehr
+viele Umstände macht der Vf. endlich mit der Be-
+zeichnung; denn statt der allgemein bekannten und
+üblichen 4x, 4y, 4z,... 4F(x), ... di)
+dx, dy, ... setzt er erst Öxr, dy, dZ, ... dann
+An Ay LE), dF(x), ... und erst zu-
+letzt bemerkt er, dass die erste zum practischen
+A, L. Z. 1847. Zweiter Band.
+
+Gebrauche bequemer sey. — Wozu aber solche
+
+Weitläufigkeiten? —
+
+In $ 2 werden die allgemeinen Regeln zur Dif-
+ferenzirung der Summen, Differenzen , Producte und
+Quotienten entwickelt. Im 2. Kapitel werden die
+Nifferenzialformeln für die einfachen Functionen
+abgeleitet. Kapitel 3 handelt von, der Differenzi-
+rung zusammengesetzter Functionen und der Fun-
+clionen mehrerer Veränderlichen, und zwar in $ 7
+Differenziale zusammengesetzter Functionen, in $ 8
+Differenzirung der Functionen mehrerer abhängigen
+Veränderlichen, in $ 9 Differenzirung der unentwik-
+kelten Functionen, in $ 10 Differenzirung imaginä-
+rer Functionen, in $ 11 Differenzirung der Functio-
+nen mehrerer unabhängigen Veränderlichen. Dieses
+Alles ist nicht nach dem alten Schlendrian der Me-
+thode der unbestimmten Coefficienten und der dar-
+auf beruhenden Reihenentwichkelungen , sondern nach
+dem neuesten Zustande der Wissenschaft, wie in
+den Werken von Cauchy, Moigno, Duhamel etc.
+behandelt. Das 4. Kapitel handelt von den abge-
+leiteten Functionen und Differentialquotienten höhe-
+rer Ordnungen , und zwar in $ 12 Begriff und geo-
+metrische Bedeutung der Ableitungen und Differen-
+zialquotienten höherer Ordnungen, in $. 13 höhere
+Differenzialquotienten der Summe, Differenz, des
+Productes und Quotienten zweier Functionen, $ 14
+die höheru Differenziale der wichtigsten algebrai-
+schen Functionen, $ 15 die höhern Differenziale
+der wichtigsten transcendenten Functionen, $ 16
+die höhern Differenzialquotienten den Functionen
+von Functionen, $ 17 independente Bestimmung
+
+von D' f(x”), $ 18 Entwickelung von D"(a+x")“,
+D' (e*"), Dr log (a + x"), D'(a+x")“, $ 19
+Entwickelung von D"f (+), D'f (x), Dre,
+DL + ka), D(1+ka?) Da
+Df(V®), DE), DA+kY =),
+
+D'eV“7, $ 20 independente Bestimmung von
+
+Drf(er), Dr(a+e”)“, D (ara) D(——)
+166
+

@@ -1,0 +1,156 @@
+889
+
+.‚Num. 267. ,
+
+890
+
+sr “ A
+
+ 
+
+ALLGEMEINE LITERATUR‘. ZEITUNG
+
+ 
+
+‘
+
+Sonnabends, den 7. November 1807.
+
+ 
+
+MATHEMATIK
+
+Grzessen, b; Tafche u. Müller: P. S. Girards — ana-
+Iytilche Abhandlung von dem Widerflande fefler Körper,
+und von den feßlen Körpern von überall gleichem Wider-
+filande. Nebit einer Menge Verfuche über die,
+_ Stärke und fpeeififiche Elafticität des Eichen - und
+Fichtenholzes. Aus dem Franzöf. überfetzt von
+C. Krönche. 1803. 211 S. 4., neblt 48 S. berech-
+neter Tafeln und XL S. Einleitung. Mit Kpfrn.
+
+(4 Rihir.)
+
+DD“: Vf. liefert hier ein Syftem analyti(cher Unter-
+
+fuchungen über einen.Gegen , an dem feit
+‚Galilei die gröfsten Köpfe, felhft Zuler und Lagrange,
+ihre Kräfte übten. I. Abfchn. Allgemeine Formeln von
+‚dem HWiderflande feßer Körper. Anwendung diefer Formeln
+auf die von Galilei, Leibnitz und Mariotte aufge-
+Aeliten Hypothefen. Für rechtwinklichte Coordinaten
+
+x, zZ, wo die Abfeilfen x auf der horizontalen Grund-
+
+linie der. Bruchebene genommen werden, ift der all-
+gemeine Ausdruck für den abfoluten Widerftand Q
+eines feften Körpers =r. /zd&x+C (Der Vf. letzt
+überall s fratt des allgemein eingefährten langen /;
+
+auch hat er nicht angemerkt, dafs hier r.dx den Wi: -
+
+derftand in einem einzelnen. Puncte der Bruchebene
+bedeuten mufs.)- Eine leichte Betrachtung giebt auch
+für den relativen Widerftand in der Bruchebene den
+allgemeinen Ausdruck /(dx.(/uzdz + 4)+ BB, wo
+eine ähnliche Bedeutung, wie vorhin r, hat. Nach
+Galilei ift u = r eine ünveränderliche Gröfse, aber nach
+Mariotte, Leibnitz und Bernoulli, welche in jedem
+Puncte der Bruchebeue Elafticität yoransfetzen ‚ ilte
+eine veränderliche Gröfse, die fich wie die Entfer-
+zung des Punectes von der Verdrehungsaxe der Bre-
+chungsebene verhält. Jene beiden Ausdrücke werden
+nun gedachten Vorausfetzungen gemälfs geformt, und
+clabey bemerkt, dafs bald der eine, bald der andere
+der Wahrheit näher komme, und feine Anwendbar-
+keit in der Ausübung erft durch Verfuche, die unten
+mitgetheilt werden, erhalte. Die Galileifche Voraus-
+fetzung giebt den relativen Widerftand um die Hälfte
+.gröfser als die Letbnitzifche. Nach dielen vorläufigen
+aligemejaen Beftimmungen, wohey der Vf., ftatt zu
+integriren, Reihen von beftimmten Formen (ummirt,
+
+folgen Unterfuc über den Widerfiand beflimmter Bre-
+chuugsebenen Dach Galilei A de der
+
+Vf. (wie bey der Leibnitzifchen) die Grundlinie der
+Brechungsebene allemal zugleich als die Umdrehungs-
+axe annimmt. * Man fieht die doppelte Ungewifsheit,
+die in den Formeln
+
+A. L. Z. 1807.
+
+liegt, auf welche diefe Unter-
+eylor_ B
+
+fuchungen führen: .ı) Ungewifsheit für die Stelle der
+Verdrehungsaxe; 2) Cngewilsheit oder vielmehr Un-
+richtigkeit der Galileifchen Hypotbefe, die allemal
+
+mehr‘ oder weniger von der Wahrheit abweicht.
+
+Aber fo fehleichen überall in der praktifchen Mathe-
+matik oder im phyffch - mathematifichen Unterfuchun-
+en Ungewifsheiten ein, deren Wegräumung oder
+erminderung von forgfältigen Veriuchen abhängt,
+
+welche richtig anzuftellen und anzuwenden wiederum '
+
+nur Sache des gründlichen Theoretikers ift. Der
+Vf. hat hier die allgemeine Formel {ehr mannichfalti-
+gen Formen von Körpern angepafst. Befonders ver-
+dient hier die Anwendung auf eine hohle Röhre aus-
+gezeichnet zu: werden. . Diefe Aufgabe wird in ihrer
+gröfsten Allgemeinheit abgefafst, fo dafs innerer und
+äufserer Umfang eines Röhrenquerfchnitts als excen-
+trifche Kreife angenommen werden, woraus die An-
+wendung auf Fälle, wo die gedachten Kreislinien
+concentrifich wären, von: felbit erkeilt. Die Formel
+ergiebt , dafs der relative Widerftand einer Röhre ein
+Maximum wird, wenn die beiden Kreislinien fch an
+der Umdrehungsaxe einander berühren; Aber eben
+diefes Refultat ‚giebt die Unvollkommenheit der Fun-
+
+‘
+
+damentalformel. zu erkennen, aus der es richtig ab-
+
+eleitet wird. Z.B. eine aus einer lothrechten Mauer
+Borizontal hervorragende bleyerne Röhre wird bey
+eginer Weite von 2
+wenn die Dicke ihrer Wand an diefer Lagerftelle = 0
+und an ihrer oberften Stelle = ı Fuls wäre, zuver-
+läfGg von einem geringeren Gewicht zerbrechen, als
+wenn derfelbe cylindrifche Körper eine durchaus
+3 Fuls dicke Wand hätte. Des Vfs, Vorausfetzungen
+nehmen. auf dergleichen partjiculäre Brüche gar keine
+Rückficht. Diefelben Unterfuchungen werden dana
+
+„auch für die Leibnitzifiche Hypothefe, weiche auf die
+
+Elafticität Rückfcht simmt, angeftellt. ‘Das Refultat
+
+für das Maximum des Röhrenwiderftandes ift wie für |
+
+die Galileifche Hypothefe. Hiernächft folgen Unter-
+fuchungen über den Widerf[tand nach Verfehiedenheit
+der Unterftützungen , die man an den Körpern, wel-
+che dem Zerbrechen ausgeletzt werden, anbringt.
+Sie beruhen auf leichten Anwendungen der Lehre
+vom Hebel. . Daraus wird dann auch auf eine leichte
+Weife das Verhältnifs des Widerftandes ähnlicher fe-
+{ter Körper abgeleitet, und die. Bedingung gefunden,
+unter weicher die Feftigkeit mit der Kraft im Gleich-
+
+ewicht ift, ‚welche ein. Körper blofs vermöge der
+Schwere feiner Theile zur Treusnung anwendet. Die
+
+ufs zu unterft, wo le aufliegt,
+
+weiter folgende Betrachtung des Widerftandes in Fäl
+
+len, wo Richtnbg der brechenden Kraft mit der‘
+
+Axe des ‚dem Bruche ausgefetzten Körpers nicht
+(5) U , 8 mehr,
+

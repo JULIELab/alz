@@ -1,0 +1,137 @@
+ 
+
+haupt dem Vf. das Lob der Deutlichkeit ertheilen
+mufs, fo wäre doch-hin pnd wieder eine gröfsere für
+Anfänger zu wünfchen. : Gleich anfangs ift der Zweck
+und die Nothwendigkeit der Buchftabenrechnung
+zwarnicht ganz übergangen, hätte aber ausführlicher
+und durch Beyfügung einiger Beyfpiele, die der Vf.
+fonft häufig gebraucht, noch mehr gezeigt werden
+
+können... In Abficht der pofitiven und negativen Be-
+
+ziehungen der Gröfsen bleibt Boffut bey der gewöhn-
+lichen Vorftellung ,‘ die doch in der That unbrauch-
+bar ift und die Sache’erfchwert. Bey‘der Erklärung
+der Regeln für das Zeichen eines Products könnte es
+fcheinen, als würde Vermögen mit Vermögen, und
+Schuld mit Schuld, oder diefes mit jenem multipli-
+eirt. Er eilt über die Sache hin, und läfst den An-
+fänger in Verlegenheit, oder verleitet ihn zum Nach-
+beten, Die Lehre von den Gleichungen des zweyten
+Grades ift viel zu abitract vorgetragen. Es wird.die
+allgemeine Gleichung , xx+pX+q —0 vorgelegt,
+bey welcher der Anfänger fich noch dazu eine oder
+die andere Gröfse negativ gedenken. mufs. So ift
+auch das Verfahren bey den Gleichungen vom dritten
+und ‚vierten Grade. 7
+Der zweyte Theil diefes Curfus ift ganz‘ der Geo-
+metrie gewidmet. Die Elementargeometrie ift. aus-
+führlicher abgehandelt , als in unfern Lehrbüchern zu
+gefchehen pflegt. Unter andern find hier Lehrfätze
+über die Maxima und Minima in den Figuren, wo aber
+der Beweis des 7. Theorems nicht überzeugend ift:
+In der Stereometrie kommen Lehrfätze über körper-
+liche Winkel vor, unter diefen ein Satz für die
+Steinhauerkunft , ‚aus den drey ebenen Winkeln
+eines körperlichen Winkels den Winkel zweyer der
+Winkelebenen durch Zeichnung zw finden. Auch
+die Beftimmung gewifler Abfchnitte auf der Oberfläche
+eines fenkrechten Kegels, doch unter‘ der Voraus:
+fetzung , dafs eine gewiffe Projection auf der Grund-
+fläche quadrabel fey. In der Lehre von'der Kugel if
+ein {ehr gutes und leichtes Verfahren die Oberfläche
+eines fphärifchen: Dreyecks zu finden: — Die ebene
+"Trigonometrie begreift die vornehmften trigonome-
+trifchen Formeln nebft den gewöhnlichen Aufgaben: —
+Die zweyte Abtheilung von S. 219—354 enthält die
+Anwendung der Algebra auf. die Geometrie, In dem
+Vorbergehenden war die Rechnung fparfam und nur
+zunt nothwendigften‘ Gebrauch angewandt; hier ift
+es Abficht, algebraifche Rechnung in die Geometrie
+zu bringen.‘ | Das’ dabey zu beobachtende Verfahren
+wird gut auseinander gefetzt. Zuerft Auflöfungen
+geometrifcher Aufgaben , die auf beftimmte Gleichun-
+gen vom erften und zweyten Grade führen. Eine
+Brauckbare Regel, um zu den möglichft einfachen
+Gleichungen bey diefer Art von Aufgaben zu gelan-
+gen, wird im f. 33 mitgetheilt. ,„Wern bey, einer
+geometrifchen Aufgabe zwey unbekannte Gröfsem
+vorkommen, deren Beziehung zu den gegebenen
+Gröfsen fo befchaffen ift, dafs jede derfelben welche
+man zur gefuchten Gröfse wählt, auf eimerley Glei-
+chung führt; oder dafs, wenn beide Gröfsen in die
+‚Rechnung aufgenommen werden, die Termini, im
+
+ALLG. LITERATUR + ZEITUNG -
+
+   
+    
+       
+
+welchen fie fich finden, ähnlich find, etwa nur
+Unterfchied in denVorzeichen: fo mufs man Ca
+die eine noch die andere zur gefuchten Gröfse.neh«
+men, fondern eine andere unbekannte Gröfse dazu a
+wählen, die zu jenen fich auf eine ähnliche Art ver- ai
+hält.“ Doch hat der Vf. diefe Regel bey einer Auf-
+gabe felbit nicht beobachtet. Sie it folgende: aus
+der Summe der Katheten und der Höhe eines- recht-
+winklichten Dreyecks das Dreyeck zu beftimmen. ®
+Hier nimmt der Vf. eine der Katheren zur gefuchten
+Gröfse, Daher kommt er auch auf eine vollftän dige
+Gleichung vom vierten Grade. Die eigentliche Con-
+fruction diefer Aufgabe ift mittelft einer Ellipfe, in
+welcher der Abftand der Brennpunkte der unbekann-
+ten Hypotenufe des ‚gefuchten Dreyecks ich if,
+Gegen einige andere Conftructionen des Vf. 1äfst fich
+auch noch etivas erinnern. Z.B. die Zeichnungeines
+Quadrats in ein Dreyeck ift unbequem, weil fie aus
+der algebraifchen Auflöfung hergeleitet it. _ Die geo-
+metrifche Betrachtung ‘giebt eine einfachere.‘ ‘Die
+Aufgabe, aus den Winkeln zweyer Linien und ihrem
+Neigungswinkeln gegen‘ den Horizont den Winkel
+ihrer horizontalen Projectionen zu finden, wird viel
+bequemer dureh die fphärifche Trigonometrie aufge-
+löfet: — Der zweyte Theil der analytifchen Geome-
+trie befchäftigt fich mit der Theorie der krummen Li-
+nien. -Zuerft wird an verlchiedenen Beyfpielen ge
+zeigt, wie ihre Natur durch Gleichungen ausgedrückt”
+wird; darauf werden die Kegelfchnitte abgehandelt,
+deren vornehmfte Eigenfchaften, auch die merkwür-
+digen der Durchmeffer entwickelt werden. Die Ab-
+handlung ift für Anfänger fehr lehrreich; nur möchte
+der Anfang, da die einfachern Gleichungen aus den
+allgemeinften hergeleitet werden , für diefe etwas‘
+Dunkelheit haben. Ein’ Anhang enthält eine Manier;
+ein gedrücktes Gewölbe aus drey Kreisbogen fo zu-
+fammen zu fetzen, dafs die Krümmungen fich mög-
+lichft nahe kommen. HR Ne
+Der dritte Theil, die Mechanik, ift mit vieler;
+Sorgfalt ausgearbeitet. Er hat zwey Abrheilungen,
+die Statik und Dynamik. - Die Statik fängt der Vf.
+nicht, wie bey uns gewöhnlich ift, mit der Lehre
+vom. Hebel an, fondern mit der Lehre von der Zu-
+fammenfetzung der Kräfte, nach allen‘ Fällen, die
+hier möglich find. Er felbft bemerkt in der Vorrede,
+dafs er für den Fall, da der Kräfte fo viele find, als-
+man will, und in welchen Richtungen es fey, die
+Bedingungen des Gleichgewichts‘ auf. eine neue ur -
+dargeftellt habe, (Nach dem Verfahren des Vf. wird 7
+eigentlich die Zufammenfetzung und Zerlegung der
+Bewegung dargerhan, nicht unmittelbar die der Kräf-
+te.) Von jenen Sätzen wird eine fehr gute und feine .
+Anwendung auf die Lehre von dem Schwerpunkte
+gemacht. Insbefondere-wird gezeigt, dafs der Mit-
+telpunkt, der parallel wirkenden Kräfte in jeder Lage
+des Körpers unverändert bleibt. Boffut fagr, dafs die
+meiften Schriftfteller‘ über die Mechanik diefen Satz
+nut behaupten, nicht beweifen. (Wennman von dem
+Gleichgewiehte’an einem Hebel auspehr, fo wird d
+Beweis keine Schwierigkeit machen, da’das Gleiche
+gewicht
+
+ 
+
+ 
+

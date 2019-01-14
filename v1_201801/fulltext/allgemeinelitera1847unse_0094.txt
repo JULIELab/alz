@@ -1,0 +1,159 @@
+179
+
+Im $. 39 werden hierauf die Mittelgrenzen ei-
+niger Functionen bestimmt.
+
+In $. 40 wird gezeigt: wie jede gewissen Be-
+dingungen Genüge leistende Function als Mittel-
+grenze eines sehr einfachen Ausdruckes angesehen
+werden darf, und dann der folgende wichtige Lehr-
+satz bewiesen:
+
+Wenn eine Function F (z) so beschaffen ist,
+dass sich für z=r (cos t + V —1 sin tt) ein In-
+tervall r= 0 bis r=r, angeben lässt, innerhalb
+dessen bei beliebigem t und vr, 7r 70 diese Function
+und alle ihre Differenzialquotienten endlich und ste-
+tig bleiben; so lässt sich dieselbe für alle diejenigen
+Werthe von x = 0 (cost V —1 sin z) in eine Reihe
+von der Form:
+
+AD Gr DES
+entwickeln, deren Modulus zwischen den Grenzen
+0 und r, liegt und deren Argument rt beliebig ist.
+
+Dieser wichtige Lehrsatz rührt ebenfalls von
+Cauchy her, was der Vf. wohl hätte bemerken
+können — und es wird dadurch gleichsam das Ge-
+setz der Convergenz der Reihen, oder vielmehr der
+Entwickelbarkeit der Functionen in Reihen, auf das
+Gesetz der Stetigkeit der Functionen zurückgeführt;
+denn man braucht‘nur zu untersuchen, für welche
+Werthe von x oder des Modulus von x die be-
+trachtete Function oder ihre Ableitungen aufhören,
+endlich und stetig zu sein. Cauchy zieht übrigens
+nur die erste Ableitung oder den ersten Differen-
+zialquotienten der betreffenden Function in Betracht,
+und spricht seinen Lehrsatz folgendermassen aus:
+
+Jede beliebige reelle oder imaginäre Function einer
+reellen oder imaginären Veränderlichen x lässt
+sich in eine nach den ganzen Potenzen von x
+fortschreitende Reihe entwickeln, so lange der
+Zahlenwerih oder der Modulus von x kleiner ist,
+als der kleinste der Werthe von x oder seines
+Modulus, für welche diese Function ‘oder ihre
+Ableitung der ersten Ordnung aufhört endlich und
+stelig zu sein,
+
+In $. 42 wird der in Rede stehende Lehrsatz
+auf die Functionen (1 + x)“, log (1+v) und e”
+angewandt, bei welcher Gelegenheit auch andere
+bemerkenswerthen Reihen abgeleitet werden.
+
+In $. 43 wird der Maclaurin’sche und der letzte
+Cauchy’sche Lehrsatz auf die Reihenentwickelung
+der Functionen:
+
+ 
+
+ 
+
+a. 1 2
+= OT A dt, wobei die
+I —x angewan
+e +1 e —1 e +e 5 )
+
+ALLG. LITERATUR - ZEITUNG
+
+180
+
+früher entwickelten independenten Formeln für die
+höheren Differenziale benutzt werden, und in $, 44
+werden hieraus ganz einfach die Reihenentwickelun-
+gen von tungx, colgxX, cosecX, sec.X, log.secxX,
+log. cosecx mit den Bernoullüschen Zahlen und den
+Secantencoefficienten abgeleitet , wobei zugleich die
+zur Bestimmung der Bernoull’schen Zahlen und
+Secantencoefficienten nöthigen Formeln ausführlich
+entwickelt werden.
+
+In’ $. 46 werden die Reihen für die cyclometri-
+schen Functionen are sinx, arccos x, arc lang, ..
+entwickelt; aber nicht dadurch, dass z.B. für F(x).
+= arc sinx erst dus F* (x) für x = 0 der Coefficient
+I ey des allgemeinen Gliedes der Maclaurin’-
+schen Reihe abgeleitet und dann darin successive
+n = 1,2, 3, gesetzt wird, sondern durch die ein-
+fache Bemerkung, dass:
+
+ 
+
+. = UA
+D. arcsin x = DV) (Fe)
+V 2
+
+1—x
+
+RS
+
+ist, folglich, wenn (1 a = @ (x) gesetzt wird;
+F* (x) = 9“ (x), also F" (0) = g“ 0),
+
+—z
+und aus: 9 (x) = de) 7
+
+ 
+
+ 
+
+Pr 1.3 1. 3. 5 ;
+A BE 2746 a
+folgt leicht:
+
+A 1.3.5... n—1
+(n—1) — —
+P (0) 2.65. 1m „1.8. N
+
+oder ="0), d
+jenachdem n” ungerade oder gerade ist, mithin we-
+gen F*° (0) = gp" (0):
+
+FÜ. (0). = 13 I
+DR an 2. 46.70 n
+
+Diese letzte Gleichung ist zwar für n=1 un-
+
+ist un-
+
+ 
+
+1
+brauchbar, allein wegen F' (x) = VS
+— x.
+
+mittelbar F* (o) = 1, und da ausserdem F (0) = 0
+ist; so giebt endlich die Maclaurin’sche Reihe,
+
+ 
+
+. zT 1 x} 1. 3 x5 14:3:15 7
+arcsin x — © << e = WS
+1.773 75 46. 2.46.
+EZ ;
+
+Aus den Reihen für arc sin x und arc tang x ergeben
+sich alsdann leicht die für arc cos x und arc cotg X,
+
+— arc sin x und arc colg & =
+
+U. ss: 1)
+
+In $. 47 wird zunächst von der Convergenz und
+Divergenz der Reihen im Allgemeinen gehandelt.
+Der Verfasser bemerkt, dass dem Probleme der
+
+weil arc cos x ==z
+
+z — arc tang x ist.
+

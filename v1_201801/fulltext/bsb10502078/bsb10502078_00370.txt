@@ -1,0 +1,118 @@
+69r
+692
+ALLG. LITERATUR - ZEITUNG
+ehende Kugel immer mehr nähern würde. Die
+age beider wird hier annähernd beſtimmt, und da-
+mit alſo die Kenntniſs der ganzen Curve, ſo weit als
+es bey einem ſo ſchwierigen Gegenſtande kann gefo-
+dert werden, völlig ins Licht geſetzt. Die Nähe-
+rungswert he für die Punkte, wo beide in die Abſciſ-
+ſenaxe einſchneiden, werden dadurch beſtimmt, daſs
+man ſtatt der zu verwickelten Formel für dx eine
+einfachere auf doppelte Weiſe ſich verſchafft, eine
+nämlich, welche immer dx zu groſs, und eine zwey-
+te, welche immer dx zu klein giebt; die Integrale
+beider geben alſo Grenzen, zwiſchen denen das
+wahre Integral liegen muſs, und da dieſe Grenzen
+in Beziehung auf die rationale Aſymptote einander
+nahe genug liegen, wenn man ſich ſchon für
+S = 75 Grad die Werthe von 5, 3., v verſchafft hat,
+ſo erhält man dadurch eine genügende Kenntniſs von
+der Lage dieſer, und auf ähnliche Weiſe von der
+Lage der andern Aſymptote. Der Vf. hat einen Fall
+in Zahlen berechnet, der für jeden, dem es nöthig
+ſchiene, mehrere zu berechnen, faſt alle nöthige An-
+leitung giebt.
+In dem Verfolge dieſes Theiles beſchäftigt ſich
+der Vf, mit einzelnen Formeln, namentlich mit dem
+I & = 1
+In sei./- (es) , auf welches ſich das
+Integral„ſt“ e– dt zurückführen läſst; mit
+- - äx Cofax
+I + x”
+zwiſchen den Grenzen x = o und x = 00
+men; mit / -- dx. Cofax und andern.
+Der vierte Theil enthält theils eine Fortſetzung
+des zweyten, wie wir ſchon erwähnt haben, theils
+einzelne Unterſuchungen, die ſich an den dritten
+Theil anſchlieſsen, unter andern kommen hier vor:
+Anleitung zu Interpolationen; Reihen, die ſich
+durch Potenzen von 7r ſummiren laſſen; Formeln
+zur Summirung von Reihen, deren allgemeines Glied
+bekannt iſt u. ſ. w.
+Der fünfte Theil beſchäftigt ſich meiſtens auch
+mit einzelnen Formeln, zeigt bequeme Reihenent-
+wicklungen u. dgl. Von dem zweyten Supplemente,
+welches die Tafeln für die elliptiſchen Ä ent-
+hält, haben wir ſchon geredet. Das dritte Supple-
+ment liefert eine Reihe von Integralformeln, die
+durch elliptiſche Bogen und hinzukommende, vom
+Kreiſe oder von Logarithmen abhängende Glieder
+können dargeſtellt werden.
+genom-
+ERDB ESC HR EI BUNG.
+- BREMEN, b. Heyſe: Vollſtändiges Lehrbuch der
+Geographie der Staaten des deutſchen Bundes mit
+einer Einleitung und hiſtoriſch- ſtatiſtiſchen Erläu-
+terungen von H. v. Kramer. R. (?) mehrerer
+gelehrten Geſellſchaften Mitglied. Erſte und
+- zweyte Abtheilung. 1818 u. 1819. gr. 8. XIII u-
+786 S. (1 Rthlr. 2o Gr.)
+Durch die Verlagshandlung aufgefodert arbeitete
+Hr. v. Kramer dieſes Lehrbuch der Geographie aus,
+das aber ſich nicht auf die Staaten des Ä Bun-
+des beſchränkt, ſondern dem auch die Beſchreibung
+der übrigen europäiſchen Staaten, mit verhältniſsmä-
+ſsiger Kürze behandelt, in zwey mäſsigen Bänden
+folgen ſoll. Zu dieſem Zweck und vielleicht auch
+zur Ausdehnung des Plans auf die geſammte Erde
+dient auch die in allen Geographieen vorgefundene
+Einleitung über mathematiſche, phyſikaliſche und
+politiſche Geographie, in der Rec. nichts Eigen-
+thümliches bemerkt hat. Erſt S. 78 beſchreibt der
+Vf. Europa, S. 91 Deutſchland und von S. 241 an die
+einzelnen deutſchen Staaten. Ein Hauptmangel des
+Buchs iſt, daſs der Vf. für gut gefunden hat, alle
+Literatur "wegzulaſſen. Wie wenig er aber den
+S. VIII dargelegten Vorzug ſeines Buchs, „daſs der
+topographiſche Theil deſſelben bedeutend ausführ-
+licher ſey, als er in irgend einem neuern Lehrbuch -
+der Erdbeſchreibung angetroffen wird, ſowohl in
+Rückſicht auf die Anzahl der angeführten Städte und
+Oerter, als auch au die von denſelben mitgetheilten
+Nachrichten," rechtfertigen kann, bezeugt jede
+Seite. Da der Raum nicht erlaubt, das ganze Werk
+einer ausführlichen Prüfung zu unterwerfen, ſo be-
+gnügen wir uns, dieſes Urtheil mit folgenden Be-
+merkungen zu belegen. Bey den Verwaltungsbe-
+hörden des Königreichs Sachſen (S. 51 1) übergeht
+Hr. v. K. gänzlich das geheime Rathscollegium und
+die Landesregierung. Wurzen S. 512) hat keine
+Fürſtenfchule; die dritte Fürſtenſchule Sachſens war
+die an Preuſsen abgetretene Schulpforte bey Naum-
+burg. Bey dem Meiſsner Kreiſe des Königreichs
+Sachſen (S. 512 f.) fehlen die in den meiſten geogra-
+3hiſchen Handbüchern genannten Städte: Wilsdruf,
+Ä Rieſsa, Rabenau, Dohna, Neugey-
+ſsing, Liebſtadt, Neuſalze, Radeburg, Zabeltitz,
+der Flecken Lohmen, und die Dörfer Plauen, Pot-
+ſchappel, Keſſelsdorf, Groſs Röhrsdorf, Kalkreuth-
+Die Städte Noſſen und Roſswein ſind mit dem gan-
+zen Amte Noſſen ſchon vor einigen Jahren von dem
+erzgebirgiſchen Kreiſe, wÖ ſie der Vf. (S. 519) auf-
+führt, zum Meiſsner Kreiſe gelegt worden. Bey
+Leipzig (S. 516) unterſcheidet der Vf, das Paulinum
+und die Univerſitätsgebäude, welche bekanntlich ſeit
+langer Zeit Paulinum heiſsen, auch haben letztere
+nicht die Sternwarte, die ſich vielmehr in dem nicht
+angeführten Schloſſe Pleiſsenburg befindet. Leipzig
+hat nicht 2, ſondern 3 Meſſen; nicht 8o, ſondern
+112 Preſſen. Bey der Univerſität fehlen das Königl.
+Seminar für Ä der griechiſche Verein, das
+Muſeum der Naturgeſchichte, der botaniſche Gar-
+ten, die kliniſche Anſtalt, das chemiſche Labºrato-
+rium, die Entbindungsſchule, das Convictorium
+u. f. w.; gänzlich übergangen ſind die Fürſtl. Jablo-
+mowskiſche Geſellſchaft der Wiſſenſchaften, die na-
+- TUI-
+v

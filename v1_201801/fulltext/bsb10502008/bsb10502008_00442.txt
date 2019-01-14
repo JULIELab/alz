@@ -1,0 +1,172 @@
+A
+
+“ Vollftändigkeitaus einander zu fetzen, und’zwar recht“
+
+die gute Folge‘ gehabt, dafs es den treflichen Mann’
+anfpornte, die Gründe. feines neuen Combinationsfy-
+ftems und der /combinatorifchen Analytik ngchmalsı
+ganz von vorm an, mit grofser Präcifion, Klarheit un
+
+eigentlich in der Abficht, um die unverkennbaren Var-
+züge derfelben vor dem Tetenfchen Verfahren, und
+ihre Unentbehrlichkeitsin der Analyfis, in ein helles
+Licht zu ferzen, und dabey die vielen Mifsverftänd-
+niffe, mit denen fie bisher kämpfen mufste, . zu zer-
+freuen. Das thut Hr. Hindenburg in feinem Auffatze,
+welcher die Hälfte diefes Werks füllt, und zwar zuletzt
+itehr, aber, als der wichtigite und lehrreichfte, die
+
+erfte Stelle verdient hätte, damit der Lefer mit frifcher _
+
+Luft und Kıafr, und nicht erlt durch fo vieles , was er
+doch vergeffen mufs, erfchöpft, an diefeo Auffatz käme,
+(Eine, ähnliche Oekonomie in Hu. H’s. Inf. Dign. ift
+ficher der combinatorifchen Analytik nicht wenig nach-
+theilig geworden. Vielen, die fie äus diefem Werke
+zu (tudiren unternahmen, entfank Luß und Murh, ehe
+fie fich durch die vielen fremden Bemühungen um das
+Polynomium Zu. der Hind. Methode durchfchlugen,
+was, nicht gefchehen feyn würde, wären fie gleich an
+diefe mit‘ frifchem Eifer gerathen.) Hr. H. giebt in
+feinem Auffatze zuerft einen treflichen Abrifs der Com-
+binationslehre, als einer völlig felbititändigen Grund-
+wiffen{chäft, und zeigt dabey ihre enge Verbindung
+mit der Analyfis, hauptfächlich durch eine intereffante
+neue Bearbeitung der allgemeinen Producten - und Po-
+tenzenprobleme der Reihen, Nachdem er dadurch den
+Lefer ımnit den nöthigften Momenten zur Beurtheilung
+der Vortrefflichkeit der Combinationsmethode unver-
+merkt bekannt gemacht hat, itellt er eine umitändliche
+Vergleichung des Tetenfchen Subftirutionsverfahrens
+mit der Combinationsigethode bey diefen Problemen
+an, woraus die Unzulänglichkeit des eritern und zu-
+gleich die Nothwendigkeit einer allgemeinen, in die
+Anahyfis einzuführenden, gröfstentheils combinatori.
+fchen Charakteriftik, unverkennbar in die Augen
+fpringt. Aus diefem letztern Theil des Hind. Auffatzes,
+hebemr wir hier fogleich die Hauptpunkte zur Rechtfer-
+tigung der Combina:ionsmethode gegen das vorgefchla-
+gene Surrogat derfelben, das Subftitutionsverfah-
+ren, aus, N
+Erflens, bemerkt der Vf, erhelle aus dem Auffatze
+des Hn. Tetens, dals er wegen der combinaterifchen
+Analytik fich lediglich an die erfte darüber erfchiene-
+ne Schrift (Infinitinomii. Dignitatum Hifloria Leges ac
+Formulae 1779) gehalten. habe, nicht.aber an die zwey-
+te, welche is Abficht auf combinatorifche Zeichen und
+Sätze viel völlkommner ift (Novi Syflematis Permuta-
+tionum_ Variationum ac Combinationum primae Lineae
+1781) noch weniger an die. fpätern, gröfstentheils aka-
+demifchen Schriften Hindenburgifcher Schüler und an
+die Auffätze im Archiv, durch welche die combinatori-
+fche Analytik erft recht entwickelt und vollendet wor-
+den ift. Hr. Tetens fey daher nicht vollitändig genug
+initruirt, um über Werth oder Unwerth der combina-
+torifchen Analytik öffentlich abzufprechen. . Zweytens
+leifte Hr, 7, durch fein fogenanntes blofs analytıfches
+
+SEE ALLG. LITERATUR: ZEITUNG r KA
+
+    
+    
+  
+   
+  
+   
+ 
+   
+  
+    
+    
+   
+    
+ 
+     
+    
+    
+   
+    
+  
+   
+  
+    
+   
+   
+  
+
+“ Verfahren alles, was die Analyfis auf dem bisher be
+kannten Wege zu leiften rin d’ fein
+Subiirprions perl ren ü HrEHE allerdinge. 1
+
+. Entwicklung und Darfiellung der Polynomialporenz
+
+alle übrigen nicht-- combinatorifchen“ Methoden be
+
+„weitem. (Hr. 7’. -telbit Yieht feine wieder
+
+ten über den Poly nomtalfatz dadurch als vollend
+
+Aber diefes Vertahren nähere iich unter ihnen
+
+mehriien der Cömbinationsmerhode, ja, gehe ım
+
+fer von einerley Grundformel aus‘, und untere
+fich nur durch die Anwendung. derfelben. Ha:
+neue Formel für den ‚Allgemeinen Ausdruck
+
+Gliedes eines. Poly numiums it nämlich in der,
+
+nichts alders als‘ die Hindenburgfche, fchon in
+
+Dign. aufgeiteilte Localformel für das allgemeine
+beiteht genau aus denfeiben Elementen ‚in de
+
+Osdnung, und umterfcheidet fich blofs durch die Z
+chen ‘und dadurch, dafs Hr. H.’die Elemente nach A
+leitung feiner zweyten (combinatori{chen) Formel, com-
+binatorifch zufjammenfetzt, Hr. T. hingegen fich da
+gewöhnlicher fortgefetzter Subflitutionen in die Loc
+mel bedient. In fo fern weichen die nun zwar well
+lich von einander ab ; welcher Merhode aber dabey-d
+Vorzug gebühre, das kann keinen Augenblick zwei-
+felhaft. bleiben, wean man auch nur einen llick auf di
+
+treitliche Nebeneinanderltellung 5.250; und auf die
+datige Auflöfung der Subititutionerm in combinatorifche
+Daritellungen wirft. Schon bey dem Polynomialpro-
+blem iit es unverkennbar, dafs die Combinationsme-.
+thode weit gröfsere Leichtigkeit im Entwickeln. u
+mehr Kürze im. Darftellen der einzelnen Glieder g
+währt; und diefe Vorzüge bewähren lich defto me
+je verwickelter die Unterfuchungen werden, z.B.
+Potenzirung, Multiplicarion und Divifion von Spruas
+weile fortichreitenden Reihen oder von Polynomi:
+tenzen , bey Umkehrungen, Subititutionen und |
+polationen von Reihen u: d. m., woyon.Hr. A,
+Schlufle feiner Abhandlung Proben aufitellt. ‚Die
+‚titutionen find zwar im einzelnen ohne Schwierij
+verwirren aber am Ende durch ihre Menge, und
+dern, weil man die einzelnen zerftreuten Etemente fl
+zufammenlefen mufs, eine läftige Aufmerkfam
+deren, man bey dem combinatorifchen Verfahren g
+entübrigt ift, und welche die Anwendbarkeit des
+ftituirens bey fchwierigern Unterfuchungen hindert.
+Drittens erinnert Hr, H., ey die Scheu vor den co
+binatorifchen Operationen und Zeichen, als feye
+Wunder wie fchwierig und verwickelt, fo dafs me
+alles aufbieten müfle fie zu umgehn, abs grun«
+Vielmehr find die Operationen leichter ’als felbi
+leichteiten arichmerifchen, folglich in gewiffem Befri C
+„leichter als alles, was man fich immer Leichtes
+
+ken mag,“ fo übertrieben auch diefe Behauprung
+den eriten Anblick fcheinen möchte. Die Ze
+aus wenigen einfachen Elementen nach feiten Reg
+zufammengefetzt, find welentliche Charaktere ,- welc
+das Bezeichnete itets aufs deurlichite anzeigen, mitd
+übrigen analyıifchen, ein wohlverbundnes leicht
+
+"überfehendes Ganzes bilden, die oft fo unbequem
+
+Wörtlicken Verordnungen völlig unnöthig. mach
+

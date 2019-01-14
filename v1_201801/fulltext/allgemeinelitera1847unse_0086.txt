@@ -1,0 +1,115 @@
+163
+
+Integralrechnung näher, und bemerkt zunächst: die
+grösste Schwierigkeit, welche die Mathematik im
+Verlaufe ihrer successiven Ausbildung zu überwin-
+den gehabt habe, sei die Lösung des Problems
+gewesen: Das Gesetz der Stetigkeit , nach welchem
+sich alle in Raum oder Zeit ausgedehnte Grössen
+bilden, auf mathematische Begriffe zu bringen und
+es so entweder durch Construction, oder durch Rech-
+nung in ihre Gebiete zu ziehen, Schon in der
+Arithmetik kommen einige Fälle vor, bei welchen
+sich die erwähnte Schwierigkeit zeige, und noch
+häufiger begegne man ihr in der algebraischen Ana-
+lysis, welche sich zur Ueberwindung derselben den
+eigenthümlichen Begriff der Grenze bilden müsse.
+Theile man z. B. eine stetige Grösse nach irgend
+einem Gesetze, etwa durch fortgesetzte Halbirung,
+in immer kleinere Theile, und versuche sie darauf
+wieder aus diesen Theilen zusammenzusetzen, so
+stosse man auf das beim ersten Anblicke paradoxe
+Problem der Summirung einer unendlichen Reihe,
+Weit verwickelter werde aber die Forderung,
+sich da des Stetigkeitsgesetzes mathematisch zu
+versichern, wo man es nicht mit einer einzelnen
+Grösse, sondern mit einem Systeme zweier oder
+mehrerer Grössen zu thun habe, welche hinsicht-
+lich ihres Grössenzustandes gegenseitig von einan-
+der abhängen. Betrachtungen dieser Art kämen
+besonders häufig in der Mechanik vor und gäben
+zu Problemen Veranlassung, wovon das Hauptsäch-
+lichste im Allgemeinen so laute: welches ist der
+Totaleffect einer Ursache, die eine gewisse Zeit hin-
+durch gewirkt hat, und zwar mit einer bekannten
+constanten Intensität , oder mit einer veränderlichen
+Intensität , deren anfänglicher Grad und deren Ge-
+setz der Veränderung bekannt ist. Es gebe aber
+auch ganz analoge Probleme der Geometrie, wohin
+namentlich das der Quadratur und Rectification der
+Curven, das der Cubatur der Körper, etc. gehöre,
+und namentlich macht der Vf. die Quadratur zum
+allgemeinen Schema dieser Klasse von Aufgaben,
+indem er sich denkt, dass die gesuchte Fläche durch
+eine parallel zu sich selbst fortrückende und nach
+einem gewissen gegebenen Gesetze veränderliche
+rechtwinklige Ordinate erzeugt werde. Es wird
+ferner bemerkt: dass, wenn man diese Entstehungs-
+weise einer Grösse mit der in der algebraischen
+Analysis vorkommenden vergleiche, sich zwischen
+beiden ein wesentlicher Unterschied zeige, indem
+dort die Fläche aus ihren Theilen, also wieder aus
+Flächen zusammengesetzt, oder überhaupt irgend
+
+ALLG. LITERATUR - ZEITUNG
+
+164
+
+eine Grösse als das Aggregat ihrer gleichartigen
+Theile betrachtet werde, während hier die Fläche
+durch die stetige Bewegung einer geraden Linie,
+und überhaupt eine beliebige Grösse , durch die
+stetige Veränderung (%) einer andern mit ihr un-
+gleichartigen Grösse erzeugt werde, Während sich
+also die algebraische Analysis vorzüglich mit Be-
+ziehungen zwischen gleichartigen Grössen beschäf-
+tige, bekomme man es in der Infinitesimalanalysis
+mit Relationen zwischen solchen Grössen zu thun,
+welche entweder gerade zu ungleichartig sind , oder
+es wenigstens werden, so bald man ihnen irgend
+eine geometrische oder physikalische Bedeutung
+unterlege.
+
+Der Vf, leitet nun mit ziemlicher Umständlich-
+keit für die zwischen den den Abscissen x = da,
+Xx= b entsprechenden Ordinaten, dem Abscissen-
+stücke b—«a und dem entsprechenden Bogen der
+Curve y= f(x) liegende Fläche F (x) die For-
+mel ab: |
+
+NnN—%
+(0 FF) = lm (aA) +)
+
+PA
+
+und bemerkt alsdann, dass die beiden Functionen
+F(x), f(x) ungleichartige Grössen hezeichnen,
+wovon die erste durch stetige Aenderung (%) der
+zweiten entstanden sey, woraus er den Lehrsatz
+ableitet: von den beiden gedachten Entstehungs-
+weisen einer Grösse , die sich etwa wie eine unorga-
+nische Anhäufung und ein organischer Prozess ver-
+halten sollen, lasse sich die zweite auf die erste
+zurückführen, wenn man mit dieser die Operalion
+eines Grenzüberganges verbinde.
+
+Es wird nun die letzte Formel auf die drei
+Beispiele f (7) = gx, f(x) = gx?, f(x) = a* an-
+gewandt, und resp. gefunden:
+
+2 3 MB m
+F@=9g. 5, F@=9g.5, FO=
+
+Hierauf bemerkt der Vf., dass die Nothwen-
+digkeit der Summirung einer endlichen Reihe nicht
+geringe Schwierigkeiten bei der Behandlung aller
+Aufgaben der in Rede stehenden Art verursache,
+da man nur von wenigen endlichen Reihen die
+Summen kenne und auch diese für die systemati-
+sche Bearbeitung der fraglichen Aufgaben von selbst
+untergeordneter Bedeutung seyen, weil es zunächst
+darauf ankäme, für die Functionen:
+
+f(x) = x“, a®, log x, sin x, cos x, tang X, ...
+arc. sin X, arc. cos X, rc. ung X, ....
+

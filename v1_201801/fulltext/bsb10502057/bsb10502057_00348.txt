@@ -1,0 +1,123 @@
+677
+678
+Num. 85. AUGUST 1 8 14. -
+Er ſchreitet wirklich von Nachſchlüſſen zu Vorſchlüſ-
+jen fort. Das gegebene Beyſpiel lehrt dieſes auch.
+jehemſelben will der Algebraiſt zwey Zahlen ſu“
+chen, zwiſchen denen die Differenz 8 , ihre Summe
+aber 1oo ſey. Er verfährt nun ganz analytiſch, das
+jſst jcht, nach der logiſchen Analyſis 2, ſondern
+nach der regreſſiven Methode er alten Geometer.
+Er ſagt nämlich die kleinere Zahl heiſse X, ſo iſt die
+röſsere nach der Annahme X+ 8 und beirie zu-
+jen oder 2 X + 8= 1oo , auch nach der Annah-
+je. Betrachtet man ſo das Geſuchte, als wäre es
+etwas Wirkliches, als wäre es ſchon gefunden; ſo
+juſs man auch ſeine Bedingung zugeb-n; es kann
+nämlich nur wirklich ſeyn, wenn man auf beiden Sei-
+ten die 8 wegnimmt, und das was dann übrig bleibt.»
+noch einander gleich iſt; wenn alſo 2 X = 92: oder
+jezwiefache kleinere Zahl 92 beträgt. Dieſes iſt
+nicht ein Nachſchluſs, ſondern ein Vorſchluſs, wenn
+2 X+ 8= 1oo Wahrheit iſt, ſo kann ſie es nur unter
+der Bedingung ſeyn, daſs 2 X= 2 ſt: weil auf bei-
+den Seite Gjeiches, nämlich die Differenz beider
+Zahlen abgezogen iſt. Hier iſt ein Rückſchreiten
+von den Folgen zu den Gründen. Soll aber, ſchlieſst
+der Algebräiſt weiter, 2 X=92 ſeyn wecÄs durch-
+j ſeyn muſs, wenn 2 X+8= coºyºo, ſº Äs
+jhe Bedingung der erſtern Gleichung wahr.»
+nämlich die kleinere Zahl die Hälfte von 92, oder
+X = 46 ſeyn. Wenn nun dieſe oberſte Bedingung feſt
+ſteht daſ die kleinere Zahl 46 iſt, ſo iſt die gröſsere
+54, und die Summe beider 100, und ſo das Geſuchte
+efunen.
+Aber ſelbſt von der geopetriſchen Analyſis der
+Alten mevnt der Vf., ſie nehme blºſs das Geſuchte
+als gefunden an, und ſchreite übrigens ſynthetch
+fort. Allein er bedenkt nicht, daſs das ein ogiſcher
+Cirkel ſeyn würde, wenn man die Wahrheit des Air-
+genommenen» aus der Annahme deſeiºn folgern
+wollte. Nein, die Analyſis der alten Geometer, wel-
+che übrigens gar nichts mit der logiſchen Analyſis zu
+thun hat, und etwas ganz anderes iſt, folgert die
+Wahrheit des Angenommenen aus ſeinen Beiingun-
+en, die es nicht anders zulaſſen, als daſs es wahr
+Ä muſs, wodurch ſich denn auch zugleich las Ge-
+ſuchte ergiebt oder gefunden wird. Beylä fig ſeys
+eſagt, daſs hier döch auch zeirkliche Erkenntni/s,
+iicht bloſs logiſche Vollkommenheit der eben be-
+zweckt und erreicht wird. Rec. kann nun die Wahr-
+heit ſeiner Behauptung an dem hier aus Klügels
+Wörterbuche Th. 1. S. 91. Aufg: 1. angeführten Bey-
+ſpiele leicht zeigen. Das Geſuchte, was in dieſen
+Beyſpiele, nach der analytiſchen Methode, als ge-
+funden betrachtet wird, iſt: eine gegebene Linie ſo
+zu ſchneiden, daſs das Rechteck aus der ganzen
+Linie und einen ihrer Abſchnitte, dem Quadrate des
+andern Abſchnitts gleich ſey. Dieſes folgt nun zu-
+nächſt aus dem Satze, daſs das Rechteck aus der
+anzen Linie und dem andern ihrer Abſchnitte zu-
+Ä dem Ouadrate dieſes andern Abſchnitts, wel-
+ches ein Parallelogramm giebt: ſo groſs ſey, als das
+Quadrat der ganzen gegebenen Linie. Dieſer letztere
+Satz folgt aber wieder zunächſt aus Euklides II, 6.
+und der Anwendung des Pythagoriſchen Lehrſatzes»
+und ſo trifft man endlich auf dieſem Rückwege dar-
+auf, als auf die oberſte Bedingung, daſs die Hypo-
+thenufe von dem rechtwinklichten Triangel, deſſen
+Katheten die gegebene zu ſchneidende Linie, und
+die Hälfte dieſer Linie, ſind (welcher Triangel, alſo
+auch ſeine Hypothenufe, mit den Quadrate der
+egebenen Linie auch gegeben iſt) ſo groſs iſt, als
+die Hälfte der gegebenen Linie zuſammt der Seite
+des Quadrats des andern Abſchnitts dieſer Linie, ſo
+daſs dadurch das Geſuchte das Gefundene wird.
+Hier iſt alſo keine Syntheſis oder kein Progreffus,
+ſondern Analyſis oder Regreffus. Aber alle Sätze
+dieſes ganzen mathematiſchen Regreſfus ſind ſynthe-
+tiſch, und folgen nicht etwa durch logiſche Analyſis
+aus einander; es iſt hier an gar keine Zergliederung
+von Urtheilen oder Begriffen oder eine logiſche Ana-
+lyſis zu denken. Wahrſcheinlich hat ſich der Vf durch
+die Worte des Pappus: „da man von dem Geſuchten,
+als zugeſtanden angenommen, durch die daraus ge-
+zogenen Folgerungen, auf etwas Gegebenes kommt,"
+drre führen laſſen; , Pappus meyrt aber, daraus,
+daſs man das Geſuchte annimmt, kann man die Be-
+dingung, d. i. das, woraus es zunächſt nothwendig
+folgt, folgern, weil es nämlich ohne dieſe Bedin-
+gung nicht möglich wäre, wie dieſes auch die fol-
+genden Worte des Pappus deutlich ſagen. Alles Be-
+weiſen nämlich Ä durch Folgern, folgern wir
+Bedingungen, ſo iſt der Gang des Beweiſes analy-
+tich , folgern wir etwas Bedingtes, ſo iſt er ſynthe-
+tiſch; wäre das Folgern allein ſchon das Merkmal
+der Art der Methode, ſo gäbe es gar keine analyti-
+fchen Beweiſe, wie auch der Vf, gefühlt hat, aber
+ſich damit zu helfen ſucht, daſs er die Annahme des
+Gefuchten allein zum ſpecifiſchen Merkmal des ana-
+lytiſchen Beweiſes macht. -
+Der Vf, ſucht nun wirklich zu zeigen, daſs ſich
+die analytiſche Methode, welche, wie er ſagt, die
+zufarniner geſetzten Begriffe in einfache auföſst, mit
+der analytiſchen bey den Beweiſen einerley ſey, weil
+dieſe auch von den zuſammengeſetzter Ernten
+der Gewiſsheit zu den einfachern fortſchreite. Aein
+auch das iſt nicht richtig, bey der analytiſcher Me-
+tbele lömrnt man nicht auf immer einfachere, fon-
+dern auf immer zeeniger Gründe, eie Z... der
+Grinde nimmt ab, bis man auf den letzten der
+Oberſºn könnt; aber bey der Zeraisfern - der
+Begriffe ihrem Inhalte nach iſt es gerate urg kehrt -
+die Zahl der Merkmale rizºnt irr, er rºt - , je
+weiter mir die Zergligerung treihingegen kºmmt
+man in der That auf immer eifachere Begriffe.
+Der Raum verſtattet es nicht, das, was der Vf,
+von der Induction, vom Fortſchreiten, vºn der for-
+mellen Bedingung zu der materiellen, nd davon,
+das man bey beiden Methoden vom Beſºndern zum
+Allgemeiner und umgekehrt fortſchreiten kan » A T-
+zu eigen d zu beurtheen. Nur ſo viel iſt grºſs,
+daſs der Vf, nicht den Begriff der Philoſophiſchen
+oder

@@ -1,0 +1,121 @@
+1119
+
+Um dies dem Verständniss näher zu bringen, hat
+man zunächst zu berücksichtigen, dass. die negative
+Linie aus der positiven durch eine halbe Umdrehung
+um den Nullpunkt des Systems und auf dieselbe
+Weise diese wieder aus jener erzeugt wird. Die
+Arithmetik bewirkt die entsprechende Operation
+durch Multiplication mit — 1. Es entspricht somit
+einer halben Umdrehung in der Geometrie eine
+Multiplication mit — 1 in der Arithmetik und einer
+ganzen Umdrehung in der Geometrie eine Multi-
+plication mit (—1)2= +1 in der Arithmetik,
+Hieraus muss man schliessen, dass wenn der Vier-
+telumdrehung arithmetisch « entspricht, letzteres
+so beschaffen seyn müsse, dass u? —-—1 also
+u=/ —1 ist. Entsprechend würde «3 die Um-
+drehung um %,x bezeichnen. Es folgt hieraus
+dass a” —1 ein Loth von der Länge « auf der
+Axe im Nullpunkte und — a /”—1 dessen gleiche
+Verlängerung bezeichnet. Die letztere ganze Linie
+würde passend die imaginäre Axe im Gegensatze
+zur ursprünglichen der reellen genannt werden.
+
+Aus diesen Betrachtungen leitet der Vf. nun
+ohne Schwierigkeit den Richtungscoefficienten ab.
+Ist nämlich @ das Zeichen, mit welchem die posi-
+tiven Grössen zu multipliciren sind, um Grössen zu
+erzeugen, welche die Geometrie durch Drehung um
+den n ten Theil einer halben Umdrehung erzeugt,
+
+1
+so muss 8” —1, also # = (—1)7 seyn und
+
+es folgt hieraus, dass allgemein durch die Multipli-
+cation der positiven Grössen mit dem Factor
+
+Br = (—1) = Solche Grössen erzeugt werden,
+
+welche die Geometrie durch eine Umdrehung um
+m, m x
+
+den Winkel 7 180%, oder „7 aus der positiven
+
+r m
+Richtung hervorbringt. Die Grösse (—1) nennt
+
+nun der Vf. passend den Richtungscoefficienten.
+Die Richtungscoefficienten mit negativen Exponenten
+entsprechen einer. Drehung des Halbmessers in ent-
+gegengesetzter Richtung.
+
+Kommen wir nun zu den Grundoperationen der
+der Arithmetik im allgemeinsten Sinne. Wenn
+durch (— )” kurz der Richtungscoefficient bezeich-
+net wird, so ergiebt sich ohne Schwierigkeit der
+Sinn von
+
+A. L. Z. Num. 284. DECEMBER 1847.
+
+ 
+
+"
+
+1120
+
+(—)'a +(—)Yb = (—)"(a+d).
+Ist dagegen die Richtung des zweiten Postens
+von der des ersten verschieden, also (—)” «a
+
++(—)”6 so geht die Strecke b von dem Endpunkte
+von @ unter dem Winkel, der dem Bogen nz ent-
+spricht ab, und die vom Nullpunkte nach dem
+Endpunkte von b gezogene Strecke ist die ver-
+langte Summe. Ist sz das Maass des Winkels,
+welcher letztere Strecke (Resultante des Kräfte-
+parallelogramms) mit der Axe macht, so ist, wenn
+c die absolute Länge der Strecke ist,
+(-)a+(—)YO=(—)6
+
+Die Bildung der Differenz ergiebt sich aualog,
+und wir gehen deshalb unmittelbar zur Multipli-
+cation über. Soll (—)"a><(—)b gebildet wer-
+den, so hat man dem gewöhnlichen Begriff der
+Multiplication gemäss a, bmal zu nehmen und die
+Strecke ab um den durch nz gemessenen ‚Winkel
+weiter zu drehen, wodurch man den Bogen
+(m-+n)xz für die Strecke a0 und also
+
+(—)a>(—)Yb=(—)"* "ab
+erhält, ein Resultat, welches den sonstigen Regeln
+der Multiplication von Potenzen Ein. und derselben
+Wurzel (—) vollkommen entspricht.
+
+In entsprechender Weise sind die . übrigen
+Operationen ausgeführt, auf welche weiter einzu-
+gehen der Raum uns verbietet. Ebenso wenig
+können wir bei dem übrigen reichen Inhalte der
+überaus werthvollen Schrift verweilen und deshalb
+nur noch weitere Abschnitte aufführen. Der dritte
+Abschnitt führt die Ueberschrift: Anwendung der
+Theorie der imaginären Zahlen auf die ebene Geo-
+metrie; der vierte: Arithmetische Darstellung der
+verschiedenen Linien im Raume und Anwendung der
+Resultate auf die Geometrie der drei Dimensionen ;
+der fünfte: Arithmetische Darstellung der Flächen-
+grössen nach ihrer Quantität und Lage im Raume;
+und endlich der sechste: Arithmetische Darstel-
+lung der Körpervolumen. ;
+
+Zum Schluss wiederholen wir nochmals die
+eingangs gemachte Bemerkung, dass wir die
+Schrift des Hrn. Scheffler für eine der wichtigsten
+Erscheinungen der neueren Zeit im Gebiete der
+Mathematik halten und sie der besonderen Beach-
+tung aller Mathematiker für werth erachten.
+
+D. WW.
+
+Gebauersche Buchdruckerei,
+

@@ -1,0 +1,123 @@
+243
+2.44
+ALLG. LITERATUR - ZEITUNG
+ſchon ſeine groſse Schwierigkeit. Dann kommt es
+aber noch darauf an, bey gegebener äuſserer Weite
+Kk die Breite BK ſo zu beſtimmen, daſs man wegen
+Hinlänglichkeit der Pfeilerclicke völlig geſichert ſey.
+Ueberdieſs wird Zerſtörung des Brückenbogens auch
+dadurch möglich, daſs die Pfeilerſteine horizontal
+weichen, es muſs alſo auch Ä Erfolg vorgebeugt
+werden. - Der Vf. gefteht ſelbſt die unendlichen Ver-
+wicklungen ein, in die man bey jeder ſolchen An-
+wendung auf einen beſtimmten Fäll geführt wird. Da-
+her folgt jetzt Note I. Sur la "namière de calculer l'épaif
+ſeur des culées et la poſtion des points de rupture dans
+les voltes (S. 332–338.). Aber man wird ſich am
+Ende überzeugt finden, daſs ein ſolches Verfahren
+nie von Praktikern angenommen werden wird, weil
+es auf Weitläufigkeiten ohne Ende führt, und ſo
+viele erbaute Brücken uns hinlängliche Belehrung in
+Bezug auf ſichere Dicke der Pfeiler gewähren. Wir
+müſſen aber noch hierbey bemerken, daſs die Feſtig-
+keit nicht geſtattet daſs für irgend eine Stelle D der
+obige Ausdruck = 1 werde, er muſs wenigſtens =5
+werden. Der Druck nach DQ in EF Ä nie
+Äh werden». weil durch den entgegengeſetz-
+ten nach d Q aufgehoben wird; es muſs alſo nur da-
+für geſorgt wetden, daſs wegen der Wirkungen nach
+auſsen, nach DU und du, nichts zu fürchten bleibt.
+Je gröſser aber jener Quotient wird, deſto weniger
+iſt zu fürchten. D iſt alſo eigentlich kein Brechungs-
+punkt (point de rupture) , wie ihn die Franzoſen nen-
+nen, ſondern der Punkt der größten Schwäche; man
+könnte ihn auch den virtuellen Brechungspunkt nen-
+men. Dieſer kann nie weit von der Stelle ſiegen, für
+welche die Bogenlänge FD=CB iſt. Und da hier
+ſcharfe Beſtimmungen ohnehin wegfallen, ſo kann
+man einen Brückenbogen verzeichnen, auf der innern
+Bogenlinie die Stelle D ſo nehmen, daſs beyläufig
+FD=CB wird, und nunmehr den obigen Quotient
+berechnen. Dann kann man FD z. B. =o,8 CB und
+ſo auch FD=122 : CB nehmen, und für dieſe beiden
+Werthe gleichfalls den obigen Quotient berechnen.
+Iſt der kleinſte dieſer 3 Quotienten z. B. nur = 3, ſo
+nehme man ſtatt der anfänglichen Breite KB (wie
+man ſie in der Zeichnung angenommen hatte) jetzt
+KB-V - Iſt aber jener Quotient > 5, z. B. = 8, ſo
+nehme man ſtatt KB jetzt KB. vré: Der Vf, fordert
+(S. 322.) einen Werth von KB, qui rende la valeur
+de . . KK + v . KS un peu plus grande que
+FÄ. KUafin que la voáte ait la ſabilité conve-
+nabte, d. h., er verlangt nur, daſs jener Quotient
+wenig > 1 ſeyn ſoll. Darin hat er ſich aber öffenbar
+geirrt: denn es ſähe ſchlimm um die Haltbarkeit ei-
+ner Brücke aus, wenn ihr Beſtand (ſabilité) auf das
+Gleichgewicht der, dabey einander entgegenwirken-
+den Ä wäre, wie die ruhige Lage ei-
+nes Wagbalkens. Wir müſſen daher noch weiter be-
+merken, daſs überdieſs die mögliche Belaſtung von
+E bis a noch mit zum Werthe von Pgerechnet wer-
+den muſs, die bey ſehr weiten Bogen 5oo und mehr
+-
+Zentner betragen könnte. Hierdurch würde ſchon
+ein ſolches Gleichgewicht oder nur kleines Ueber-
+gewicht mit bedeutender Ueberwucht aufgehoben.
+- Eben ſo wenig kann auch für den Scheitel in EFzwi-
+ſchen den Preſſungen von beiden Seiten wirkliches
+Gleichgewicht angenommen werden, da es für's erſte
+unmöglich wäre, den Steinen zu beiden Seiten ganz
+Ä zu geben, und für's andere das vor-
+hin erwähnte zufällige Gewicht auf der einen Seite
+noch hinzukommen und auf der andern fehlen kann.
+Geſetzt aber auch, daſs z. B. der Bogen KF ein be-
+deutendes Uebergewicht über den kF hätte, ſo würde
+hieräus doch nicht ſogleich Bewegung und Aufhe-
+bung des Beſtandes der Brücke entſtehen, denn KF
+kann ſich nicht gegen die Rechte neigen, ohne ſich
+um B. zu drehen, kF aber kann nicht weichen, ohne
+ſich um K zu drehen; es iſt aber der Unterſchied der
+Entfernungen CB und Ck bey weitem zu groſs, als
+daſs unvermeidliche Ungleichheit der Gewichte bei-
+der Bogenhälften, die übrigens ſymmetriſch gebaut
+ſind, und zufällige Belaſtung der Brückenſtraſse auf
+die Störung des feſten Standes einigen Einfluſs haben
+könnte. Wenn man dieſs alles erwägt, ſo wird man
+finden, daſs des Vfs. Beſtimmungsart der Pfeilerdicke
+weit von aller Anwendbarkeit entfernt iſt, daſs ängſt-
+liche Unterſuchungen über die Stelle des Schwer-
+unkts, die ihn ſehr beſchäftigt, hier ganz entbehr-
+Ä ſind, und daſs man auf eine Theorie, die uns
+die Pfeiler dicke für jeden Fall in der Ausübung ge-
+radezu beſtimmte, um ſo mehr ganz Verzicht ihun
+muſs, weil es doch immer noch dem Praktiker über-
+laſſen bleibt, feſtzuſetzen, um wie viel eine nach rei-
+ner Theorie vom Gleichgewicht berechnete Pfeiler-
+dicke in der Ausübung noch verſtärkt werden ſolle.
+Doch läſst ſich der Nutzen einer rein theoretiſchen
+Formel, die mit gehöriger Umſicht gefunden worden
+iſt, nicht ganz verkennen. Note II. Sur la force
+d'adhérence des mortiers de chaux et ciment et A le
+rapport du frottement à la preſſion pour des pierres,
+qui gliſſent les unes# les autres (S. 339 – 344.). Der
+Sandmörtel beſtand aus zwey Theilen durchgeſiebten
+Sand und einem Theil gelöſchten Kalk; eben ſo der
+Ziegelkalk aus zwey Theilen Ziegelmehl und einem
+Theil gelöſchten Kälk. Die mit dieſen Mörteln ver-
+bundenen Steine wurden 16 – 18 Tage lang bey ſehr
+uter Witterung der Luft zum Trocknen ausgeſetzt.
+Ä freyer Luft zeigte erſterer einen weit gröſseren Zu-
+ſammenhang als letzterer. Unter dem Waſſer war es
+umgekehrt. Uebrigens iſt dieſer Gegenſtand hier
+noch nicht gehörig erortert. Den Verſuchen fehlt es
+an Manniclifaltigkeit in Bezug auf alle die Umſtände,
+welche auf den Zuſammenhang Einfluſs haben. Die
+Steinart, mit welcher die Verſuche angeſtellt worden
+ſind, iſt gar nicht angegeben, da doch ſolche einen
+bedeutenien Einfluſs auf die Feſtigkeit der Bindung
+haben muſs. Die Reibung am Mörtel betrug bis
+des Drucks. Aber auch dieſe Verſuche ſind wenig
+belehrend.
+Chap. V. De fº et de la forme des piles
+(S. 3,5-366.). Sect.. “ 'épaiſeur des piles (S. 345-
+348.).

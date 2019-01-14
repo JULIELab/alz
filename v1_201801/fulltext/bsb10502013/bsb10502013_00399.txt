@@ -1,0 +1,138 @@
+ 
+
+ 
+
+773
+
+‚wicht am Hebel in jeder Lage deffelben ,' bey paral-
+Kr ‘Kräften, bleibt.) In dem 3 Kap. wird das Gleich-
+gewicht der Mafchinen ausführlich unterfucht, und
+
+‚zwar für die einfachen Mafchinem (eigentlich Heb-"
+
+zeuge). Der Vf. zählt fieben folcher Mafchinen, die
+Seilmafchine (Machine funiculaire) und die fechs ge-
+wöhnlichen. Die erfte ift diejenige, wo blofs Seile
+gebraucht werden, mehrere Kräfte ins Gleichgewicht
+zu fetzen. Der leichtefte Fall ift, da drey Kräfte an
+drey durch einen Knoten verbundenen Seiler wirken.
+Ein fchwerer, wenn Seile durch Knoten in Geftalt
+einer Kette verbunden find, und an den Knoten Kräfte
+mittelft Seile ziehen. Kurze Anwendung auf eine
+gleichförmig fchwere Kette. Fall, da an den Knoten
+zwey Kräfte wirken, eine nach lothrechter Richtung,
+die andere nach einer den Winkel zweyer \nächften
+Seile halbirenden Linie. Das Gefetz des Gleichge-
+wichts am Hebel wird aus dem Obigen hergeleitet.
+Anwendung auf die Zugbrücken, um in jeder Lage
+der Brücke ein Gleichgewicht zu erhalten. Der Vf.
+giebt drey etwas verfchiedene Gleichungen für diefe
+Beftimmung. In der erften wird das Gewicht der
+Ketten bey Seite gefetzt; in der zweyten werden fie
+als Stangen betrachtet , wobey aber ein Irrthum vor-
+gegangen feyn möchte , darin , dafs das Gewicht die-
+fer Stangen auf die Befeftigungspunkte vertheilt wird.
+Die Vorausfetzung bey der dritten ift die einfachite
+und brauchbarfte. — Von dem Widerftande, den das
+Reiben und die Steifigkeit der Seile verurfachen. Sehr
+
+te Methode, ‘beides bey Rollen‘ zu beftimmemr.
+Man nehme zwey Rollen von verfchiedenen Durch-
+meffern ,' und Jaffe über jede an einem Seile zwey Ge-
+wichte ziehen, von welchen das eine das andere ge-
+rade in Bewegung zu fetzen vermag. Aus den gege-
+benen Dimenfionen- und den Gewichten läfst fich das
+Reiben und der Widerftand wegen der Steifigkeit der
+Seile herleiten, wenn das wegen ‚des letztern ge+
+wöhnlich; angerommene Gefetz zu Hülfe genommen
+wird. Boffut hat darüber folgenden Verfach gemacht.
+Er nahm eine Rolle, im -Durchmeffer 102. 67 Lin. die
+Achfe 8 Lin. im Durchmeffer; ein neues, wenig ge-
+drehtes Seil, 9 Lin. dick, und ein anderes folches
+13 Lin. dick. ‘An jedem Ende des Seils wurde eim
+Gewicht von 100 Pf. z2U. aufgehangen. Zur Ueber-
+wucht waren am dem dünnern Seile nöthig 6 Pf. an
+dem dicken 7 Pf. 8 U. Die Rechnung giebt in dem
+erften Falle für die Friction 2, 251 Pf. für den Wider-
+fand wegen der Steifigkeit‘ 3,749 Pf. in dem zweyten
+Falle für jene 2,158 Pf. (etwas weniger als bey der ge-
+ringern Belaftung) für diefen 5,342 Pf.
+
+„ ‚Diezweyte Abtheilung enthält die Dynamik, oder
+die Lehre von der Bewegung. Zuerft von der gleich-
+förmigem, und der gleichförmig befchleunigten oder
+verminderten Bewegung. Ueber die Bewegung des
+Schwerpunkts eines Syitems. Directer Beweis des
+Satzes, dafs wenn mehrere Körper auf eine ähnliche
+Art, nach irgend welchen Richtungen , fich bewegen,
+der Schwerpunkt des Syftems fich auf gleiche Art be-
+wege oder in Ruhe bleibe. DerVf. zieht diefes den
+gewöhnlichen (leichtern). durch Zerfällung der Bewe-
+
+No/lg7. "MÄRZ 1798: 773
+
+gungen nach parallelen‘ Richtungen mit gegebenen
+Linien vor. Anwendung auf Ausmeffun; ‚von Flä-
+chen und Körpern nach ins Regel. Beyfpiel
+von dem Inhalte eines ebenen geradlinichten Dreyecks
+und einer Pyramide könnte verführen, bey Kkrumm-
+linichten Figuren und krummflächigen Körpern ein
+ähnliches Verfahren anzubringen. —- Stofs der Kör:
+per, auch der nicht leichte Fall, da ein Körper auf
+mehrere zugleich ftöfst. ‚Der Beweis des Mülfsfatzes
+G-442 ift nicht befriedigend ‚Auch ift. die Auflöfung
+von' dem fchiefen Stofse (. 443 zu verwickelt. Die
+Formel. für die Gefchwindigkeit nach dem Stofse
+kann netter gefafst werden, Bey der Auflöfung
+der Frage von dem Stöfse auf, mehrere Körper, er-
+hellt‘ nicht, ‚dafs die Verhältnife der Gefchwindig-
+keiten‘ nach dem Stofse diefelben. find, es mag der
+Körper A auf einen oder mehrere {tofsen. — Bewegung
+eines freyen Körpers, wenn die Richtung des Stofses
+nicht durch den Schwerpunkt geht, Gute Erklärung,
+wie eine Kanonenkugel, die ihre Gefchwindigkeit
+verloren zu.haben fcheint, plötzlich wieder auffprin-
+gen kann. Sie hatte eine Drehung um eine lothrech-
+te Axe, welche durch den Stofs gegen einen Wider?
+ftand eine horizontale Lage bekommt. — Ueber die
+Bewegung der Pendel, ‚einfacher und. zufammenge‘
+fetzter. Von dem Mittelpunkte des Stofses, diefer
+it derfelbe mit dem Mittelpunkte der Schwingung,
+Allein es wird hier nur gefunden ,. was die Richtung‘
+der aus den Kräften der verbundenen Maffen refulti-
+renden Kraft ift, nicht, dafs der Schwerpunkt der
+jenige Punkt fey, nach deffen Richtung die verbun-
+denen Maffen die gröfste Wirkung auf. einen- entge-
+gengefetzten Widerftand ausüben , was nach des Vf.
+Definition der Mittelpunkt des Stofses feyn fol. —
+Verfchiedene dynamifche Aufgaben, unter andern. die
+von der Trägheit der Rollen und Räder; eine zu der
+Lehre‘von der Schichtung. der Ladung eines Schiffes
+gehörige. — Kurze Bemerkungen über Mafchinen, fo
+fern fie wirklich in Bewegung gefetzt werden. — Ein
+Anhang enthält einige fchwerere mechanifche Unter-
+fuchungen , wnzu die Analyfis des Unendlichen erfo-
+dert wird, nebii einer volltändigen numerifchen Be-
+rechnung zu der Aufgabe über Zugbrücken,
+
+Zu diefem Curfus gehört noch die neue, fehr ver-
+mehrte Auflage der Hydrodynamik, die 1796 in zwey
+Bänden herausgekommen iit, von welcher künftig‘
+eine Anzeige erfolgen wird.
+
+VERMISCHTE SCHRIFTEN.
+
+GörTinGen, b. Dietrich: Heinrich Dornfelden, oder
+die Erbfchaft. Ein Lefebuch für’s Volk, von Sohanm
+Chrifloph Fröbing , Prediger zu Lehrte im Celli-
+fehen. 1797- ı Alphab. 8.
+
+Hannover, b. d. Gebrüdern Hahn: Gefpenfler- und
+Hexenbüchlein. Ein Gefchenk für feine bisheriger
+Lefer, von Johann Chrifloph Fröbing. 1798. 170 5-
+8- (10 gr.) : )
+
+No. x. Heinrich Dornfelden, ein Franenfchuk-
+macher in Breslau, erhält die unerwartete Nachricht,
+Eeeeez dafs
+

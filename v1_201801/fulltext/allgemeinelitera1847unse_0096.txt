@@ -1,0 +1,153 @@
+183
+
+um-+1<Tm-+1,:... ist, und der Verfasser zeigt
+weiter, dass die zweite Reihe convergent ist, wenn
+
+ 
+
+der Quotient En L von irgend einer Stelle an stets
+n
+kleiner bleibt, als ba ah $. 48 vergleicht der
+n
+
+Verfasser eine beliebige Reihe ug + u1 + Wo + 4.4
+mit der geometrischen Progression:
+
+ 
+
+ 
+
+1 N
+za, EN ZIEL
+1+1 + + En ra VE Da
+oder wenn = &% gesetzt wird:
+1+z + 7? 4 34 .... ininf. = —,, fürg< 1,
+und zeigt, dass die Reihe w9 je U +FUs +...
+convergirt, wenn von irgend einer Stelle an stets
+Un-+1 Un+ı
+BE
+un Un
+ist. Dieses. Kriterium ‚der Convergenz wird als-
+dann auf mehrere Reihen angewandt. Wenn aber
+uUun-+1 . x .
+% PER ist, so kann die Reihe sowohl con-
+n
+
+vergent, als divergent seyn, weshalb der Verfasser
+in $. 49 das neue Kriterium der Convergenz:
+
+a)
+Un-+1
+
+Lim.
+
+ableitet und auf die bekannte Gauss’sche Reihe für
+den Fall 7z = 1 anwendet, woraus sich ergiebt,
+dass dieselbe für y > + ß convergirt und folglich
+für y< «+ ß divergirt.
+
+In $. 50 spricht der Verfasser von den Reihen
+mit positiven und negativen Gliedern und ihrer Con-
+vergenz und Divergenz.
+
+In $. 51 kommt der Verfasser nochmals auf
+
+den Cauchy’schen Lehrsatz zurück, indem er be-
+merkt, dass die Gleichung:
+F(z) = FO) +2 F@ + ZOO) +.
+
+so lange besteht, als der  Modulas, von..x unter dem
+kleinsten von denjenigen liegt, für welche irgend
+eine der Functionen F(x), F‘(x), F“(x),... un-
+endlich oder unstetig Wird, und dass die Gültigkeit
+dieser Gleichung aufhört, sobald der Modulus vor x
+den erwähnten. Modulus übersteigt. Es frage sich
+nun noch, ob man nicht unter Umständen den Mo-
+dülus von X noch jenem Modulus gleich nehmen
+dürfe, wenn das Argument von x in diesem Falle
+
+A, L.'Z. Num. 167, JULI 1847.
+
+184
+
+einen, gewissen noch zu. bestimmenden. Werth hat
+So werde z. B die Function; | bl
+
+F(xz) = a WE
+
+füro = x und tz unstetig und unendlich, weil
+
+. Ve 1 I,
+sie alsdann = FI
+und N Gleichung:
+
+= At Art AR AH.
+
+gelte bei einem beliebigen t nur dann, wenn 0<rx
+ist; aber wenn man 7=0 und g=2z setze, so bleibe
+
+1 a
+= 5 werde,
+
+F(r) eine endliche = ,‚ und es frage sich,
+
+1
+er +1
+ob die letzte Gleichung nicht für z=0 und © nicht
+>= Gültigkeit behalte ?
+
+Ebenso gelte die Gleichung:
+
+I x} x?
+arc; Tanga =. —
+9 1 57.5
+
+vie vr
+
+nicht für x >1, weil D, (arc tang x) = für
+
+ 
+
+I 2
+= V —1 unendlich und unstetig werde, folglich
+der Modulus vom x< 1 bleiben möchte; aber wenn
+
+man zı= 1, d. ve o=1,fr=0 SetLEN so bleiben:
+
+noch endlich und stetig (oder
+
+ 
+
+arc tang x und
+g ur I z. 2
+
+vielmehr eine endliche constante Grösse) und es
+
+frage sich wieder, ob die Reihe («) nicht auch für
+x = 1 gelte?
+
+Der Vf. gelangt hierauf durch weitere Betrach-
+tungen zu dem Satze:
+
+Wenn z=0 (cost + V —1 sint) ist, so
+
+findet: die Gleichung:
+F@) = FO +2 FOL FO}
+
+unter folgenden  edn one SC Ist 7 der
+kleinste unter den Modulis, für welche irgend
+eine der Functionen F(x), F'(x), F’(x), ...
+aufhört endlich und stetig zu seyn, so nimmt
+man entweder o9<r, und dann ist 7 ganz belie-.
+big, oder o9=r und wählt z7 so, dass F (x) für
+dieses System von Werthen noch stetig (?) und
+endlich bleibt, zugleich aber die Reihe noch con-
+vergirt. Für e>r gilt die Function der Reihe,
+nicht mehr gleich.
+
+(Der Beschluss folgt.)
+
+ 
+
+Gebauersche Buchdruckerei,
+

@@ -1,0 +1,124 @@
+765 -
+766
+Num. 96. APRIL 1 8 1 1.
+auch dem Bodenſtein mehr nähern und einen ſtärke-
+ren Druck auf die Körner ausüben, als der halbe,
+und eben darum einen gröſseren Widerſtand leiden.
+Soll daher das Waſſerrad beym ganzen Steine eben
+ſo viel Umgänge in einer Minute machen, wie beym
+- halben: ſo muſs die Mühle bey erſterem etwas höher
+eſtellt werden, als bey letzterem, bis der Wider-
+tand für beide gleich groſs wird; und dann erhält
+man auch ungefähr gleichen Effect. Läſst man aber,
+wie bey obigem Verhältniſſe vorausgeſetzt wird, die
+Stellung der Mühle ungeändert: ſo erhält man für die-
+ſelbe Geſchwindigkeit ungefähr doppelten Widerſtand,
+und die dazu erforderliche Kraft iſt ungefähr die dop-
+elte, aber auch der Effect der doppelte. Hiernach
+erhält man alſo bey einem gegebenen Gefälle und ei-
+mer gegebenen Waſſermenge in einer Secunde allemal
+ungefahr dieſelbe Menge von Mehl, man mag den
+anzen oder den halben Stein gebrauchen. Der obige
+§Ä ſagt nichts weiter, als daſs man bey doppelter
+Kraft (alſo bey doppeltem Waſſerzufluffe oder dop-
+pelter Waſſerhöhe) auch beyläufig die doppelte Menge
+von Frucht in derſelben Zeit mahlen könne. So hat
+wenigſtens Langsdorf die Sache vorgetragen, daher
+auch bey ihrn die Ä des Räderwerks ſowe-
+nig, als die Menge der Frucht, welche man ſtündlich
+abmahlen kann, von der Höhe des Läufers abhängt,
+wie man beſonders im Bande ſeiner Erläuterung
+höch Ä Lehren der Technologie findet. Eben
+dieſe Unabhängigkeit verlangt aber auch der Vf. nach
+ſeinen Erfahrungen; folglich giebt der obige Satz,
+was die Erfahrung beſtätigt. Dieſes berechtigt aber
+dennoch nicht, die Höhe der Steine ganz auſser Acht
+zu laſſen, weil wir doch aus jenem Verhältniſſe er-
+kennen, wie wir in dem Falle, wo wir der Mühle
+einen gröſseren Zufluſs zu verſchaffen vermögen, den
+Effect bey derſelben Stellung der Mühle durch die
+Wahl höherer Läufer vergröſsern können. Rec.
+wünſcht ſehr, daſs der Vf, bey der Fortſetzung die-
+fes Werks das hier Geſagte in Erwägung ziehen und
+etwa in einer Vorrede ſich darüber erklären möge.
+Bey Berechnungen des mechaniſchen Moments der
+Kraft, mit welcher das Waſſer am Umfange eines
+Waſſerrades wirkt, gebraucht der Vf. das Eytelwein-
+ſche Handbuch der Mechanik und Hydraulik, und
+insbeſondere die Formel P= Ä+) My, wo P
+2
+die Kraft bezeichnet, mit welcher das Waſſer am Um-
+fange eines in einem Kropfe laufenden Rades wirkt,
+und M. das Gewicht der in einer Secunde beyflieſsen-
+den Waſſermenge ausdruckt; d iſt die Höhe des waſ-
+ſerhaltigen Ä c die Geſchwindigkeit, mit wel-
+cher das Waſſer die erſte Schaufel erreicht, und v
+die Geſchwindigkeit der Schaufeln. Für ein ſtill-
+ſtehendes Rad wäre alſo, v= o (Null) geſetzt,
+P–(+-). M =- Von Formeln, die den
+Gang der Natur einigermaſsen bezeichnen ſollen, for-
+dert man ſºnſt, daſs ſie wenigſtens für die beiden äu-
+ſserſten Gränzen richtig ſeyn, nicht unendlich ab-
+weichen ſollen. Vor allen Dingen hätte der Vf, die
+Formel, nämlich M =
+ſo Ä angenommene Formel erſt prüfen, ihre
+fehlerhafte Form entdecken und ſie berichtigen müſ-
+fen. Dann würde es ſich gezeigt haben, daſs ſie bey
+einer etwas bedeutenden Waſſermenge und bey einem
+nicht ſehr hohen Kropf in den gewöhnlichen Fällen
+der Ausübung, und daher in den von ihm beygefüg-
+ten Beyſpielen ohne groſsen Fehler gebraucht wer-
+den kann. Er giebt nun für M eine ſehr einfache
+Au. -, -
+FTZ- wo - für vier verſchie-
+dene Fälle vier verſchiedene, aus der Erfahrung abge-
+leitete Werthe hat, und H das ganze nutzbare Ge-
+fälle bezeichnet. Rec. hält die hiernach in einigen
+Beyſpielen berechneten Werthe von M für ſehr ge-
+nügend. In eben dieſem Kap. trägt der Vf, alles vor,
+was man in Bezug auf die Anlage mehrerer Räder
+entweder in Ä oder auch in einem Ge-
+rinne zu wiſſen verlangen kann. Es fehlt dabey nicht
+an nützlichen Bemerkungen. Im vierten Kap. wird
+von Beſtimmung der Größen des Räderwerks bey Mahl-
+mühlen gehandelt. Zu den Gröſsen, von welchen die
+Ueberſchrift redet, gehören auch Länge der Kämme
+und Länge der Triebſtöcke, wovon man aber hier
+noch nichts geſagt findet. Ohne Zweifel hat der Vf.
+dieſe Beſtimmungen dem neunten Kap., welches erſt
+im zweyten Hefte vorkommt, vorbehalten. Auch hier
+findet man noch die zwar unſchädliche, aber ganz
+unnütze Regel: „ die Anzahl der Kämme und Stöcke
+ſo zu ordnen, daſs dieſelben keine gemeinſchaftliche
+Factoren haben, weil ſonſt die Kämme und Stöcke
+nicht mit einander abwechſeln." Dieſes weil enthält
+durchaus keinen Grund der Forderung. Der Vf.
+hätte nämlich den Nutzen einer ſolchen Abwechſe-
+lung angeben müſſen, der dabey gar nicht abzuſehen
+iſt. Denn die etwanige Folge, daſs man bey Beob-
+achtung jener Regel eine gröſsere Anzahl von Trieb-
+ſtöcken auf einmal zu erneuern hat, als im entgegen-
+geſetzten Falle, wird man doch nicht als Nutzen und
+als Grund der Regel angeben wollen? Worin ſollte
+dann der Nutzen dieſes Erfolgs beſtehen? Vom Ein-
+fluſſe, den die Gröſse der in einander greifenden Rä-
+der auf den Widerſtand haben, findet man hier nichts
+geſagt, und doch iſt dieſer Umſtand ungleich wich-
+tiger, als die vorhin verlangte Abwechſelung. Im
+fünften Kap. handelt der Vf, von der Zuleitung des
+Wäſſers zu den Mühlen. Nach jenem in der That lehr-
+reichen Vortrage der vier erſten Kapitel muſste es
+Rec. nothwendig befremden, dieſes Kap. ſo gehalt-
+leer zu finden. Er glaubte hier noch die Ergänzung
+zum dritten Kap. zu finden, weil dort nichts von Be-
+ftimmung der Waſſermenge geſagt worden, welche
+uns ein Bach oder ein Fluſs liefert; aber auch hier
+iſt dieſe Unterſuchung ganz übergangen. Eben ſo we-
+nig findet man hier etwas vom Nivelliren; lag es auch
+im Plane des Vfs., nichts vom Nivelliren zu ſagen,
+welches doch von einem übrigens ſo ausführlichen
+Werke nicht wohl trennbar iſt: ſo hätte er doch
+Schriften nennen müſſen, wo man dieſen Unterricht
+findet. So iſt es auch beynahe unverzeihlich, daſs der
+Vf, die wichtigen Lehren, womit in neueren zÄ
+JS

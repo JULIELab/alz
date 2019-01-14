@@ -1,0 +1,134 @@
+459
+46o
+ALLG. LITERATUR - zEITUNG
+eles gepiſſent tre les valeurs de p, q, r..."
+j dieſer Gebereinſtimmung mir dem - angeführ-
+ten Ors, über dieſen Gegenſtand bereits Geſagten,
+iſt es leicht, die Anwendung auf den Fall zu ma-
+chen, da alle dieſe Gröſsen zweyter Dimenſion Null-
+wären; nd Rec: verweilt nicht länger dabey.
+Frage nach derjenigen Curve, in welcher K (dér
+Leſer vergleiche die Recenſion des 3ten Kapitels 2ten
+Abſchn.) für jeden Punkt ein Maximum oder Mini-
+mum iſt. Man bringe die dort gefundene Gleichung:
+- (2x – m – m) y T,
+* = –––. ! -
+- - 2 (m – a) ( – r) .""
+- 2 I - , - - -
+auf die Form: F- = und integrire.
+x –m x –n
+- - -
+Chap. 12.: Des queſtions.de maximis et minimis,
+qui ſe rapportent à la méthode des variations. Delé-
+quation commune an maximum et au minimum; et des
+caractères propres à diſtinguer les maxima des minima.
+Erhebt man ſich von der Theorie des Gröſsten und
+Kleinſten, in der bis hieher gewieſenen Ä.
+zu den wichtigeren und ſchwierigeren Fragen nach
+derjenigen oder denjenigens unter allen möglichen
+Curven, der oder denen gewiſſe Eigenſchaften vor-
+zugsweiſe im höchſten oder geringſten Grade zukom-
+men: fodert man, um durch ein Beyſpiel am deut-
+lichften zu werden, in dem berühmten Probleme
+von der Brachyſtochrone, diejenige aller krummen.
+Linien von gleicher Länge: welche ein von gege-
+benen Kräften getriebener Körper in der kürzeſten
+Zeit durchläuft, ſo führt die analytiſche Auflöſung,
+dieſer Frage auf die Methode der iriationen, welche
+daher als eine Ausdehnung der Theorie de maximis
+et minimis zu betrachten iſt. Die Modification : wel-
+che aus dieſer Ä der Fragen für die
+bisher vorgetragene Theorie entſpringt, wird von
+dem Vf, mit folgenden Wºrten dargeſtellt: „Sie
+maximum ou minimun, a lieu dºtre une fonction don-
+nie de c, y, y'. ... devait être la fonction primi-
+tiue de cette, ei, regardée comme une fon-
+ction prime, alors ins feroit plus permis, yaite“
+tes quatitésy, y'.: comme indépendantes et iſolées, pºe
+ue la fonction primitive d'une fotion de ces quantités
+Ä elle méme des rélations qu'elles peuvent avoiren-
+relles: les problèmes de ce genre ſont ceux qti ſº rp-
+portentat calcul commu ſous le nom de calett des
+jariations." In der Thät: und um dieſen Unter-
+ſchied zwiſchen beiden Methºden, mit Beziehung
+auf das zur Verdeutlichung ſchon oben gewählte
+Beyſpiel von der Brachyſtechrone, auf das anſchau-
+jfe herauszuheben, wie die Beſtimmung des Ma-
+j in der gewöhnlichen Bedeutung nichts als die
+Differentiation der vorgereichten Function fodert, um
+ÄDifferential =o ſetzen und bloſs hieraus die er-
+* -Y ichung ableiten zu können; ſo muſs bey
+Ä Ä. erſt Ä
+ferential des Bogens beſtimmt werden.» deſſen daraus
+j erſt noch herzuleitendes Integral ein Kleinſtes
+ſeyn ſoll. Dieſe wichtigen und ſchweren Unterſu-
+- -
+tien und folgenden 13ten
+méthode précédente aux fonction, den Hombr
+n den gegenwär-
+Kapitels Ä deÄ
+- quete
+Tººge ariable:. Probleme de la brachyjej Ca-
+ratere poir diſtinguerſ une fonction je eſ au
+"an “e fonction prime, oi en général une fonction j
+ée d'un certain, ordre; auf welche ſelbſt, um je
+Grenzen dieſer Anzeige nicht zu überſchreiten, j
+die Leſer verweiſen müſſen: Die Gleichungen, die
+der Vf, findet, ſind, wie ſich Rec. überzeugt hat, bis
+auf den Algorithmus, in nichts von denen verſchie-
+den, die andere Lehrbücher der Variationsrechnung
+chungen nun beſchäftigen dem Vf, i
+enthalten, unter denen Eulers Methodus inveniendl
+es erwas maximininimique proprietate gandentes
+beſonders zu empfehlen ſeyn möéhte; ſowie das
+ſpeciel erwähnte hieher gehörige Problem von der
+rachyſtochrone in Francôeur: Traite elémentaire.de
+mécanique. 4te Aufl. S Ä
+liche und möglichſt erleichterte Weiſe abgehandelt
+iſt und defswegen als eine Vorbereitung auf die ge-
+drängtere und eigenthümliche Darſtellung des nämli-
+chen Gegenſtandes durch unſern Vf, benutzt wer-
+den mag.
+ap. De la mure des ſolidits et desſurfa-
+es dº corps de figure donnée. Ätsdehnung des im
+6tºn Kapitel dieſes Abſchnitts gelehrten Verfahrens,
+ºdi Coºplanation und Cubatur jedes Körpers,
+deffen Oberfläche durch eine Gleichung zwiſchen ſei-
+nendrey Coordinaten gegeben iſt. Sey dieſe Glei-
+chung: z =f(x, y), des Körpers. Inhalt = FCx, y).
+die Oberfläche eines auf der Axe der x perpendicula-
+ren Durchſchnitts = P (x, y); man erhält, da das
+Differential des Körpers von dem Fortrücken dieſer
+Durchſchnitts-Ebene, ohne weitere eigene Verände-
+rung, abhängig iſt: * IF(x,y) = (º, y) : Ax,
+nach L's. Algorithmus: "F(x,y) = (x,y). Denkt
+man ſich ferner z, ohne weitere Ä.
+aufy um Ayperpendicülar fortrückend, ſo wird er-
+halten: - vd (P (w, y) = 2. Ay= Ä? Ä2 oder,
+mit Lagr.: , (xy) =f (x,y). Durch Differentia-
+tion der erſten dieſer beiden Gleichungen , nach K/s
+kommt hiernächſt: F., (x y) = P., (x, y), und
+durch Subſtitution endlich: F., (x, y)=f(r, t), als
+die Relation zwiſchen dem Ä und Gefºlºr-
+ten. Eine Analyſe, deren Weſen auf das männliche
+hinauskommt, giebt, wenn maf hiñºr Ä
+F(x,y) die öbeföch des betrachteten Körpersve“
+zeichnet - sº . . . . . .“
+- “---- - S. T.
+F, (x, y) = Ä # Ä .
+Änwendung auf Cubatur und Complanatiºn eines ir-
+Ä welchen Ellipſoids; und Schluſs dieſes Kapitels
+und Abſchnitts. - - -
+zo Troiſième Partie. Applications à la Wie
+mique. . . .“ –
+- Chap. 1. De 'objet de la mécaniqre. Die noyé-
+ment uniforme et du mouvement "niforºinent atcélére.
+Da mouvement rectiligne en général. Kela entre 'e-
+ſpace, la vitesse et la fore acellératie Patie Ä
+rechtwinklichten Coordinaten» welche e gºe
+- - - - - - nes
+- * * * - - -
+tºt - - - -
+- 3
+-
+- - - - -

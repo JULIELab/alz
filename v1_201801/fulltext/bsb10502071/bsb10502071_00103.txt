@@ -1,0 +1,111 @@
+185
+186
+- - I28 - - - - - -
+ALLGEMEINE LITERATUR - z E IT U N G
+May
+* -
+1 81 Z.
+MATHEMATIx.
+PARIs, b. d. Wwe. Courcier: Traité de Mé-
+canique, par S. D. Ä Prof. à l'Ecole Po-
+lytechnique etc. 18II. Tom. I. 5o7S. m. 5 Kpft.;
+om. II.5oo S. m. 3 Kpft. 8.
+Dº Lehrbuch iſt unſtreitig eines der vorzüg-
+licliſten, die wir über die ſogenannte höhere
+Mechanik beſitzen; aber, indem wir es unſern Le-
+ſern empfehlen, müſſen wir ſie zugleich vor allen
+Dingen auf die Vorkenntniſſe aufmerkſam machen,
+die man beſitzen muſs, um dieſes Buch mit Leichtig-
+keit und mit dem rechten Nutzen zu leſen. Wer es
+recht ernſtlich mit dem Studium der Mechanik meynt,
+muſs es faſt von ſelbſt ſehr bald einſehen, daſs er
+ohne ſehr gründliche und umfaſſende Kenntniſſe in
+der Analyſis und analytiſchen Geometrie nicht weit
+kommen kann; daher ſetzt der Vf., der nicht bloſs
+Anfangsgründe ſchreiben wollte, voraus, daſs der
+Leſer alle dieſe Kenntniſſe zur Hand habe, oder ſich
+über das ihm etwa nicht gegenwärtige ſelbſt-gu be-
+lehren wiſſe. Daſs er mit völligem Rechte ſolche
+Vorkenntniſſe fodert, können nur diejenigen bezwei-
+feln, die den ganzen Werth unſrer Ä chem Hülfs-
+mittel und die Leichtigkeit, welche ſie bey der Dar-
+ſtellung vorzüglich der Mechanik gewähren, nicht
+kennen. Eher könnte man darüber ungewiſs ſeyn,
+ob die Vorkenntniſſe, die Hr. P. in der Mechanik
+ſelbſt vorausſetzt, hinreichend ſind, um ſein Buch
+rnit dem rechten Nutzen zu leſen. Da Hr. P. die
+Sätze mit Sternchen bezeichnet hat, mit denen ſich
+die in die Ecole Polytechnique aufzunehmenden jungen
+Leute bekannt machen müſſen: ſo läſst ſich genau
+beurtheilen, wie viel derjenige wiſſen muſs, dem
+der Vf. das Studium des ganzen Buchs anempfiehlt,
+und da ſind wir wohl der Meinung, daſs der erſte
+Curſus der Statik zu dürftig iſt, um auf ihn ſogleich
+eihe ſo vollſtändige Darſtellung der ganzen Wiſſen-
+ſchaft folgen zu laſſen. -
+- Da unſers Vfs. Darſtellung ſehr oft ganz den ana-
+1ytiſchen Weg Ä , da ſich ſehr oft Formeln an For-
+afeln reihen - ſo ſcheint es uns nothwendig, daſs der
+Leſer über die Hauptgegenſtände, die er in dieſen
+Formeln wieder finden ſoll, ſchon unterrichtet Ä.
+damit er nicht, die an einander geknüpften Rech-
+nungen durchgehend, den eigentlichen Ä
+ſtand unter dem Rechnen aus den Augen verliere.
+Wir ſind daher der Meinung, daſs man dieſes Lehr-
+buch nicht eher leſen ſollte (ſelbſt dann kaum, wenn
+man mühdliche Erläuterungen eines guten Lehrers
+– A. L- Z. 1818. Zweyter Band.
+«
+h
+zu Hülfe nehmen kann), als bis man in allen Thei-
+len der ſtatiſchen und mechaniſchen Wiſſenſchaften
+ſchon die Ä, völlig gefaſst hat. Dieſe
+Hauptlehren ſollte man wohl in der Regel zuerſt aus
+einem Buche lernen, das mehr in Worten lehrt, als
+in Formeln; das, ſo viel möglich, dem Leſer über-
+all diejenigen Ueberlegungen klar vor Augen legt,
+die aus der Natur der Sache flieſsen, und das die För-
+meln, ſo weit es bey dieſer Lehrart möglich iſt, zwar
+mittheilt, aber ſie nur aus jenen Ueberlegungen her-
+leitet, und nie das Rechnen zu lange fortſetzt, ohne
+an den weſentlichſten Zweck zu erinnern. Um un-
+ſere Meinung, daſs die Formeln dem Anfänger naeh-
+theilig werden können, deutlicher zu machen, wol-
+len wir bey einem ziemlich bekannten Beyſpiele ver-
+weilen.
+Jeder, dem es an einiger Feſtigkeit im Integri
+ren nicht fehlt, weiſs, mit welcher Leichtigkeit ſich
+die Oſcillationszeit des einfachen Pendels für kleine
+Schwingungen durch Integralrechnung beſtimmen
+läſst; wir erhalten da, durch eine bekannte Integra-
+tionsform, die Zahl r in unſerm Ausdrucke, und
+ſehen mit Ueberzeugung, daſs jene Zeit von der Ver-
+hältniſszahl, die den Umfang des Kreiſes durch den
+Durchmeſſer ausdrückt, abhängt. Rechnend alſo
+hat der Schüler das ſehr wohl begriffen, indem er
+weiſs, daſs er richtig gerechnet hat; aber hat er ir-
+gend einen, in der Natur der Sache, in den Umſtä
+den der Beſchleunigung liegenden Grund gefaſst,
+warum es ſo ſey? – Das hat er nicht, und wenn es
+ihm alſo nicht üm todtes Wiſſen, ſondern um ein le-
+bendiges Ueberſchauen ſeiner Kenntniſſe zu thun iſt,
+ſo wird er wünſchen, nicht allein auf dieſem ſchnell-
+ſten Wege (denn das iſt faſt allemal der Weg der In-
+tegration) zu ſeinem Ziele zu gelangen, ſondern er
+wird lieber zuerſt überſehen wollen, wie der Zuſam-
+menklang zwiſchen jener Zeit und der Zahl t auf Um-
+ſtänden beruhe, die auch dem, bloſs überlegenden,
+nicht rechnenden Verſtande einleuchten. Das aber
+iſt nun auch nicht zu leugnen, daſs, wenn auf einem
+ſolchen Wege die Grundlehren Ä efaſst ſind,
+es durchaus nothwendig iſt, auch mit Hülfe aller der
+Erleichterungen, welche die Analyſis darbietet, das
+ganze Gebiet der Mechanik durchzuwandern, um
+da eben iſt es, wo unſer Vf, mit allem Rechte js FäÄ
+rer kann empfohlen werden. . . .
+Manche Abſchnitte ſind auch in dem vorliegen-
+den Werke ſelbſt für den nicht ſo gründlich Vorbe-
+reiteten verſtändlich, und erfüllen ganz die Fode-
+rung, die wir eben vorhin an das erſte vollſtändigere
+Lehrbuch machten; aber theils iſt das noch nicht
+Aa über-

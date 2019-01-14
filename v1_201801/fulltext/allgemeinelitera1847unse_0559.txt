@@ -1,0 +1,133 @@
+|
+
+ 
+
+11417 Num. 284.
+
+Gebiete ‚der Mathematik bezeichnet werden. Der
+Hr. Vf: hat durch Aufdeckung des Zusammenhangs
+zwischen Arithmetik, und. Geometrie, so wie durch
+die geometrische Darstellung arithmetischer Rech-
+gegenseitige Verhältniss beider
+klarste Licht gestellt, so dass
+wir sein Werk namentlich Lehrern der Mathematik
+auf das Dringendste empfehlen. Da wir darauf
+verzichten müssen, den reichen Inhalt desselben
+nur einigermassen übersichtlich vorzuführen, so be-
+schränken wir uns darauf die Basis anzugeben, auf
+welcher Hr. Scheffler scin Gebäude aufgeführt. Die
+dem Vf. eigenthümlichen Untersuchungen beginnen
+erst mit dem zweiten Abschnitte; der erste nämlich
+behandelt die arithmetischen Lehren in einem kur-
+zen Abrisse und war es hierbei dem Vf, nur um
+den systematischen Zusammenhang derselben mit
+den nachfolgenden Untersuchungen Zu thun. Der
+zweite Abschnitt beginnt zunächst mit Betrachtung
+der allgemeinen Bestimmung und des Gegenstandes
+der Arithmetik. Die Aufgabe, die er hier derselben
+stellt, ist keine andre als die, dass sie die räumli-
+chen Grössenverhältnisse in ihrer ganzen Allgemein-
+heit nuch Quantität, Stetigkeit und Richtung, dar-
+zustellen. habe. Nachdem er hierauf den Begriff
+der Quantität und Stetigkeit näher betrachtet hat,
+schliesst er mit der Bemerkung: „Da die Zablen
+auch die Repräsentanten der quantitativen. Verhält-
+nisse räumlicher Grössen in ihrer ganzen Allge-
+meinheit sind, und diesen Grössen das Merkmal der
+Richtung in einer solchen Weise zukommt, dass
+die ‚stufenweise Entwickelung der mannichfachen
+
+nungsresultate das
+Wissenschaften 1ns
+
+- Quantitätsverhältnisse jener Grössen nothwendig
+den Begriff der Richtung erzeugen‘ muss; SO
+kann man schon a priori den Schluss ziehen,
+
+dass sich in dem arithmetischen Zahlensysteme das
+Wesen der Richtung unzweideutig offenbaren wird,”
+und geht dann zur arithmetischen Bezeichnung der
+nach allen im Raum möglichen Richtungen gebil-
+deten Grössen über. Für eine und dieselbe Ebene
+erziebt sich für die von einem Punkte in einer festen
+Axe nach entgegengesetzten Richtungen umlau-
+fenden Strecken leicht die Bezeichnung durch
++ und —, für jede andre Richtung nimmt er je-
+doch als Maass gg + 2iz, wo @ ein Winkel unter
+260%, i eine ganze Zahl bezeichnet, beide aber
+positiv oder negativ seyn können, Handelt es sich
+um die Richtung einer Geraden, die durch den be-
+zeichneten Punkt geht, nicht aber in jener Ebene
+liegt, so ist durch Vergleichung dieser Sırccke mit
+
+DECEMBER 1847.
+
+/
+
+1118
+
+der‘ Richtung der Axe die Richtung der erstern
+nicht näher zu bestimmen, sondern es’ muss’ der
+Neigungswinkel jener Strecke mit der Ebene zuge-
+Auf diese Richtungen vor der Hand
+geht der Vf. zur arilh-
+
+zogen werden.
+nicht Rüchsicht nehmend,
+metischen. Darstellung der verschiedenen in Einer
+Ebene liegenden Richtungen über. Dass man hier
+zum Ziele komme, lässt sich erwarten, denn cs
+müsste ja befremden , wie die Arithmetik nur fähig
+seyn sollte, Grössen darzustellen, welche‘ das
+Merkmal der Entstehung in zwei einander direct
+entgegengesetztien Richtungen an sich trügen, ohne
+zugleich für Solche Grössen Begriffe zu haben,
+welche. den Übergang der Einen in die Andern, d. 1.
+der positiven. Grössen in die negativen, und umge-
+kehrt, allmählig vermitteln,
+
+Die Unzulänglichkeit des Begriffs der positiven
+und negativen Zahlen zur Darstellung aller Bil-
+dungsgesetze von Grössen stellt sich sehr schla-
+gend heraus, wenn man die Reihe der succesiven
+Poteazen einer negativen Zahl
+
+PC Che
+
+(af) % (u) A (Say .„  efC.
+
+d. ı
+BORN A KAT NS
+
+1 m WE vn a
+2 3 4
+“ A se „if Ste,
+
+betrachtet. Bei stetigem Wachsen der Exponenten
+wird hier ein arithmetisches Fortschreiten; durch die
+einzelnen Glieder dieser Reihe in geometrischem Sinne
+der stetigen Bewegung eines Punktes, welcher immer
+den Endpunkt einer durch den arithmetischen Aus-
+druck vertretenen Linie bildet, vollkommen ent-
+sprechen. Der Punkt, dessen Bewegung dem Fort-
+schreiten der Glieder entspricht, wird: sich nun; bald
+auf der positiven bald auf der negativen Seite des
+Nullpunkts befinden, und es ist ‚klar, dass jeder
+Ort desselben auf seinem Wege eine Linie be-
+die einem Gliede der Reihe entspricht.
+diese aber zum "Theil imaginär, Zum
+deshalb werden wir zu der An-
+nahme geführt, dass jene Glieder Strecken mit
+Zwischenrichtungen innerhalb der positiven und
+da ja der sich bewegende
+
+stimmt,
+Nun sind
+Theil irrational,
+
+negativen darstellen,
+Punkt nicht wie durch einen Zauberschlag von der
+
+positiven nach der negativen Seite gelangen kann.
+\
+
