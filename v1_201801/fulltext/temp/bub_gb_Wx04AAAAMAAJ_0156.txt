@@ -1,0 +1,130 @@
+& # 3 ‘ $
+& = * # # - ‘ . dm
+
+290
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+ 
+
+‚. Februar 1832.
+
+ 
+
+MECHANIK,
+
+Bean, in d. Druck. d. Königl. Akadem, d. Wis»
+sensch,.:' Ueber die mechanische Beschaffenheit
+der elastischen Flüssigkeiten, Von E. H, Dirk-
+sen, Prof, u. Ss. w. 1830. 275. 4.
+
+) ZZ. den interessanten Gegenständen, auf welche
+Newton und Laplace (Conn, ‚d.t. 1824. u. 25 Ann. d,
+Ch. et d, Ph. T. 18 und Mec..cel..T, V.) ihre grofsen
+Geisteskräfte verwandten, gehört unter andern auch
+die Ableitung der mechanischen Beschaffenheiten der
+Gasarten aus angenommenen Gesetzen der Anzie-
+hung und Repulsion, Es ist inzwischen nicht zu
+leugnen, dafs ihre Behandlungen-dieses Gegenstan-
+des ımehreres zu wünschen übrig lassen, wodurch
+denn mancherley Einwürfe gegen ihre Darstellun-
+gen und besonders die von Prevost (Memoire sur la
+constitution mecanique des fluides dlastiques. Geneve
+1828) wenigstens zum. Theil veranlafst sind. Unser,
+als sehr scharfdenkender Mathematiker bekannter
+Vf. stellte sich daher in, der vorliegenden Abhand-
+Jung die Aufgabe, die.ersten Grundbegriffe des frag-
+lichen Gegenstandes ganz genau festzusetzen, bey
+Entwickelung der daraus sich ergebenden Folgerun-
+gen eine völlig strenge Analyse anzuwenden, dem-
+nächst, wo die Natur Näherungsmethoden gestattet,
+
+anz scharf anzugeben, und hierdurch endlich die
+Finwarfe von Prevost zu widerlegen. Der dabey im
+Ganzen befolgte Ideengang und besonders die zum
+Grunde liegenden Bestimmungen dürften sich kurz
+ungefähr so bezeichnen’ Jassen 1) Ein materieller
+Körper ist ein System von Molecülen, deren jedes.aus
+der Substanz des Körpers und'einer Quantität Wärme
+besteht; 2) zwischen zwey:Molecülen wirken drey
+Kräfte, nämlich a. Attraction zwischen der Substanz
+beider, b. Attraction zwischen Substanz des einen
+und dem Wärmestoffe des andern, und c. Repulsion
+der free Wärme beider gegeneinander, Die Wir-
+kung dieser Kräfte ist 3) nur in unwahrnehmbarer
+Eotlernen ‚bemerklich und mit.der Entfernung
+nach unbekannten Gesetze; veränderlieh. 4) Die
+Ausstrahlung ist Folge der. Wirkung des freyen
+Wiärmestoffs der übrigen Molecüle auf den eines be-
+stimmten, und die, Quantität der ausstrahlenden
+Wärme dieser Wirkung proportional, 5) Die Quan-
+tität'der von jedem Molec@l absorbirten W,. ist der
+Dichtigkeit der strahlenden W, im, Raume propor-
+tional. 6) Temperatür.;pines Körpers, ist die Dich-
+tigkeit,.der W. des Raumes, in! welchem.des Körpers
+ausstrahlende und. absorbirte Wärme, der Quantität
+
+A. L. Z, 1832. Erster Band.
+
+nach einander gleich seyn würden. Diesen sechs
+Bestimmungen fügt der Vf, noch die beiden hinzu,
+dafs die Molecüle rücksichtlich ihrer Substanz und
+Masse einander gleich, und ibre Dimensionen so ge-
+ring seyn, dafs sie ohne merklichen Fehler als mate-
+rielle Punkte anzusehen sind. Nach Angabe von den
+vier virtuellen Momenten der obengenannten Kräfte
+kommt nur hier wie hey Leplace, zuerst die Wir-
+kung, welche diesen Anregungen zu Folge ein Theil
+des fraglichen KörDers vom andern, und dann die,
+welche die freye Wärme eines Molecüls von allen
+übrigen erleidet, zur Betrachtung. Gegen die Be
+handlung dieser beiden Punkte von Laplace ist je-
+go zu erinnern, dafs aus den obigen Begriffen und
+
+estimmungen, welche theils ausdrücklich, theils
+stillschweigend auch dieser Behandlung zum Grunde
+
+liegen, zunächst nur Summen discreter Gröfsen (der
+
+Wirkungen der einzelnen Molecüle) folgen, statt
+dieser (endlicher Integrale) aber sogleich eigentliche
+Integrale (des unendlich Kleinen) von Laplace ein-
+geführt "werden, welche letztere sich jedoch hier
+nicht sofort als Grenze von jenen Summen ansehen
+lassen, wie diefs bey anderen Untersuchungen z. PR,
+in der Geometrie Sehr häufig der Fall ist. Auch ist
+die Laplace’sche Vorstellung einer Schicht Gas zwi-
+schen zwey sphärischen Hüllen (enveloppes) hier wohl
+nicht die zweckmäfsigste, und wahrscheinlich nur
+gewählt, um diese Betrachtung an frühere Unter-
+suchungen (über Attraction und Repulsion von Sphä-
+ren) anzuknüpfen. Des Vfs Behandlungsweise ist
+dagaeen in analytischer ‘und allgemeiner Beziehun
+
+völlig jenen Grundbestimmungen entsprechend, un
+
+rücksichtlich der. Construction auch ganz der Natur
+des Gegenstandes angemessen , . indem er rücksicht-
+lich des ersten Punktes, die. Wirkung welche die
+auf der einen Seite. der Coordinaten  akbere Xy —
+in einem in dem Anfangspunkte der Coordina-
+ten errichteten Parallelepipedum von‘ der Grund-
+fläche = 1 befindlichen Molecüle Mu von den auf
+derandern Seite jener. Ebene befindlichen Mole-
+cülen Mo erlkiden , untersicht , zu - dem: Ende
+zuerst den: allgemeinen‘) summatorischen Ausdruck
+für die Wirkung aller M„, welche in dem Wirz
+kungskreise eines bestimmten. Mu liegen, auf
+dieses Mu durch eine-ebenso strenge als elegante
+Analyse aus dem angegebenen virtuellen Momenten
+ableitet, und demnächst ‚zur. weiteren Behandlun
+
+dieses Ausdrucks noch folgende, aus der Natur der
+Gasarten sich; «Yg*beolls nähere Bestimmungen: ein
+führt, dafs mämlich ‚1)die Differenz zwise en den
+Auantitäten, fu und,cg der freyen Wärme zwever
+
+0
+
+Mo-
+

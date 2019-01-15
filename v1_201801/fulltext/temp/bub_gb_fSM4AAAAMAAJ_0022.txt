@@ -1,0 +1,140 @@
+33
+
+ALL
+
+GEMEINE LITERATUR -ZEITUNG
+
+ 
+
+September 1834
+
+ 
+
+MATHEMATIK.
+‚ Beaums, gedr, in d. Druckerei der Königl. Acad,
+der Wissensch.: Ueber die Methoden den Werth
+
+näherungsweise zu be-
+„ Dirksen u, 8, w,
+
+eines bestimmten Int
+stimmen. Von E,
+
+(DBeschlufs von Nr, 156.)
+
+X: Bezug auf das zu Ende vorigen Stücks Angeführte
+wird zuerst mittelst der früher entwickelten Formel
+
+X s (2)
+S. Hesrn)dn =Xfad+ DZ Sf m
+—1 X n
++ A x + x” dx f Az +X-—x)
+9 1°°°n
+
+die Gleichung (XI), !bis zu den Gliedern von der
+(224 1) ıcn Ordnung aufser den Integranden entwi-
+ckelt, woraus sich dann die Bedingungs - Gleichun-
+
+1
+
+gen Tdt=0 und, von pg=2bis g=n-+1 ein-
+echlielslich
+
+-____ 1 1 79 a0
+DEE TE, Zr
+ind aus letzteren oder statt ihrer, nach der Eli-
+mination der A, mittelst (X) und der Einführung
+zweier ganzen Faunotionen Up und Vo beziehungs-
+
+weise von der Odaung (g—1) und n, so wie der
+Bedingung t#"+1 = TUg + Vo unterworfen, die
+
+1
+Gleichungen £ TUgdt=0o ergeben, von wel-
+@
+
+eben nun in Verbindung mit dem ersten obigen Be-
+dingungs - Gleichungen die n-+1 Gleichungen von
+
+1
+
+der Form / #Tdt= 0, von u=0 bis u=n,
+o
+
+abgeleitet werden. Offenbar würden sich hieraus
+
+durch Elimination die @ finden lassen; der Vf, giebt
+aber dazu einen bequemeren Weg an, indem er nach
+
+der Annahme S * Tat = 1” (t) allgemein
+
+Kup
+LS. MO (Hat me +91) bis g=n [wonach T
+gleich dem (n-+1)ten Differential- Quotienten den
+
+m” +1) (4)] zeigt, dafs letztere Function nebst ih-
+a L. Z. 1834. Dritter Band, :
+
+= 0,
+
+ren Diff; -Quot, bis zum n+1 für t=0o und t=1
+verschwinden, und sie daher und wegen der Ord-
+
+nung von 7 von der Form C(t— 1)" +1,4"+1, 80
+
+1
+wie & = (nF FD 3) und deshalb die a
+dio Wurzeln der Gleichung
+1 PH Gy
+eaFO Ca FD a m)
+
+(XII)
+seyn müssen, Durch die Annahme t= s+3 wird
+die Rechnung der a und KR abgekürzt. -Xst nämlich
++ b eine Wurzel der in s ausgedrückten Gleichung
+XII, so ist — & ebenfalls eine, und, wenn n gerade ist,
+
+eine Wurzel = 0, Sey diese alsdann = 62 und
+in beiden Fällen für n die übrigen b, b,. u.8.w., be-
+zeichnet man überdiefs das Product aller s° — 5% mit
+
+Ausschluls von s‘ — bes wenn » gerade ist, von
+(0)
+
+#=0 bis u =7> durch Ss , und, wenn % unge-
+Fr
+
+— 1
+rade ist, von tt = 0 bis u = "=, durch S‘ y. so
+Tr
+
+erhält man in jenem Falle.
+
+(o)
+Ran ds
+dm P
+3 a as
+und in diesem
+
+R.=R/_,= br
+
+1
+Ds
+a
+Wird demnach endlich n so bestimmt, dafs
+j2n+3 Hi n)
+PA
+(XII)
+Anz)
+axın+2
+von x = x, bis x = X, und X”) die gröfste Zahl
+
++5
+
+wird, wo oe +m den gröfsten Werth von
+
+„unter der anf n bezüglichen R bedeutet, so wird der aus
+
+iS R,f(zo+ ai)
+BE 7“ erhal-
+

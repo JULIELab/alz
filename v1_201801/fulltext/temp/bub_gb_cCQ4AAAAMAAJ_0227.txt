@@ -1,0 +1,147 @@
+443
+
+mente, Dann folgt das mbiniren zu. immten
+Summen, ebenfalls in Sn oppelten Hinsic
+Das Combiniren zu allen möglichen Klassen und z
+einer bestimmten Summe beschliefst den ersten A
+
+schnitt. Der, zweite Abschpitt hekandelt die combi-,
+
+natorischen perationen, woh@i mehrere Reihen von
+
+Elementen zu beachten seyn können; und zwar zu-
+erst das Variirenan sich, aus vollständigen sowohl,
+wie aus unvollständigen Reiben; dann das Variiren
+zu bestimmten Summen, und zwar 1) bei einer be-
+
+stimmten Klasse, und 2) das Variiren zu allen mög-,
+
+lichen Klassen und zu einer vorgeschriebenen Summe,
+Alle diese Lehren sind mit grofser mathematischer
+Schärfe vorgetragen. Von Druckfehlern ist nur ei-
+ner angegeben, die übrigen finden sich bei Nr, 2 an-
+gezeigt.| ;
+Nr. 2 zerfällt nach einer Einleitung , welche das
+Nöthigste über die Entstehung und das Wesen all-
+gemeiner Zahlenformen enthält, in 10 Abschnitte,
+wovon die 4 ersten sich mit der Addition, Subtraction,
+Multiplication und Division allgemeiner Zahlenfor-
+men beschäftigen. Der Ste behandelt die übrigen
+Fälle der Multiplication, nämlich 1) den Binomial-
+satz für ganze, positive Expouenten; -und 2) die Er-
+geugung des Products.aus einer gewissen Anzahl bi-
+nomischer Faetoren des ersten Grades von der Form:
+a+xs, b+xz, c4+ x, u. 8, W. Der 6te Abschnitt
+handelt von dem algemeinsten Falle der Multipliea-
+tion, und ist‘besonders gut durchgeführt, Zweck-
+mäfsig wird darauf aufmerksam gemacht, dafs, wenn
+yon dem Producte
+
+mM m m m
+A A A A
+
+ein einziges Glied verlangt werde, die independente,
+Entwickelung der Variationsformen zu der Summe N
+
+die die Zahl des Gliedes andeutet, am passendsten
+sey; dafs dagegen, wenn, man die Glieder des Pro-
+ductes nach der Ordnung entwickeln will, die recur-
+rirende Entwickelung der Variationsformen zu em-
+pfehlen sey. Der 7te Abschnitt enthält den polyno-
+mischen Lehrsatz für ganze, positive Exponenten,
+der 8tec die Wurzelausziehung, der 9te die Exponen-
+tialgröfsen, und der letzte die Entwickelung der
+Logaritbhmen, Da Mangel an Raum uns nicht erlaubt,
+auf das Einzelne näher einzugehen, so geben wir als
+Probe von der Darstellungsweise des Vfs, zugleich
+aber auch als Beleg unserer obigen Acufserung, die
+mitunter vermifste Deutlichkeit betreffend, die bei-
+den ersten $$. der Einleitung, „$. 1. Die Form
+oo 11 232 La
+
+ar +ar+ar + .... + az.... kann jede, nach ir-
+gend einem Zahlensysteme gebildete Zahl vorstellen;
+wir dürfen nur unter x die Basis des Systems, unter
+
+2
+4, a ‚a u, 8, w. aber die Zahlen verstehen, wel-
+
+che andeuten, wie oft die Ote, die 1ste, die 2te Po-
+tenz u, s. w, der Basis zu; nehmen sey. Soll aber
+die obige Form eine jede, nach irgend einem Zah-
+lensysteme gebildete Zahl vorstellen, so müls x
+
+ERGANZUNGSBL ÄTTER ZUR A, L, Z.
+
+"von ihnen kleiner seyn, als x,
+
+eine ganze, posifive Zahl seyn; jede der Größen
+
+a, a, au, s, w. ebenfalls, und überdiels mufs jede
+(Diefs hätte wohl
+
+näher ündet. we en.): $. & Willım
+
+z.B U ekedsehe Yan 3 ab Or obiger en
+meiner Zahlenform enthalten vorstellen, so braucht
+man sur dafür 54+2.10' 4+3.10° zu setzen, In die-
+sem. speciellen Zahlenausdruck ist dasjenige, was
+
+oben = hiefs,. = 10; was oben . hieß, =5; das
+
+obige a heilgt hier 2; und dasjenige, was oben all-
+; EA ;
+
+gemein durch @ bezeichnet wurde, heifst hier 3,
+
+5
+Jede der übrigen Gröfsen, nämlich &, ., < U, 8, W.
+der obigen allgemeinen Zahlenform aber mufs in: die-
+
+som speciellen Falle gleich 0 gedacht werden.”:
+
+Wir nehmen von den beiden Büchern mit der
+Ueberzeugung Abschied, dals sie bei weitem zu den
+bessern gehören, und wünschen ihnen baldige Ver-
+breitung. Ein dritter Theil, die Elemente der hö-
+hern Algebra umfassend, womit der Leitfaden der
+Arithmetik, so weit sie am Gymnasium vorgenom-
+men werden dürfte, abgeschlossen seyn soll, ist uns
+noch nicht zu Gesicht gekommen, Papier und Druck
+sind gut, ;° AM
+
+ARITHMETIK.".
+Berııy, b. Reimer: Theoretisch - practische Zahlen»
+lechre. Von F, Wolff, Lehrer der Mathematik
+am königl. Gewerb - Institut, Krster al
+
+Zweite, verbesserte Ausgabe, 1832, VI
+366 S. gr. 8. (1Rthir, 4 gGr.).
+
+Die erste Ausgabe dieses Buchs verdankt, wie
+Hr, }F. in der Vorrede sagt, seine Entstehung dem
+Auftrage, der von dem königl. Preufs, Ministerium
+des Innern dem Vf, ward, Lehrbücher derjenigen
+Theile der Mathematik zu bearbeiten, die er auf dem
+königl. Gewerb- Institut vorträgt, Sie ward daher
+lediglich für das k. Gewerb- Institut gedruckt, wesi
+halb sie denn auch durch den Buchhandel nicht ver-
+breitet worden.zu seyn scheint, Mehrseitigen Auf“
+forderungen, das Buch allgemein zugängig zu mas
+chen, nachgebend, veranstaltete der Vf, diese zweite
+öffentliche Ausgabe, Der Vf, bestimmt dieses Lehr-
+buch zunächst für Techniker, welche als Banmei- ,
+ster, Leiter einer Fabrik, Maschinenbauer ır 8, W.
+eine wissenschaftliche Bildung haben müssen, wel-
+che sie fähig macht, den raschen Fortschritten der
+Industrie zu folgen, neue Erfindungen mit Leichtig«
+keit zu durchschagen und zu würdigen, und selbst
+verbessernd und nützlich erfindend aufzutreten, Zu
+
+leich erklärt er sich gegen die Meinung, dalßs ein
+ür Techniker bestimmtes Lehrhuch weniger von
+Gründlichkeit 'und Vollständigkeit zeugen müsse,
+weil es alsdann in kürzerer Zeit und leichter zu stu-
+dieren sey, Den gewöhnlichen‘ Gang, in; der Anord-
+. ‘ AA GE . zu ö ‚RuDg
+

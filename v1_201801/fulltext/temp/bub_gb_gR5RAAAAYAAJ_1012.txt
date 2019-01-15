@@ -1,0 +1,112 @@
+831
+
+Tadel über die Form nicht zurückbalten, Der ur-
+sprüngliche Zweck der Schrift mag wohl die grosse
+„Gedrungenheit” der Darstellung verursacht und
+jede mehr Raum wegnehmende Erläuterung verbo-
+ten haben; aber dennoch würde gewiss auch die
+Sache viel durch grössere Vebersichtlichkeit und
+durch eine weniger karge Ausdrucksweise gewon-
+nen haben. So abstracte Forschungen scheinen öf-
+ter das Geschick zu haben, dass das Neue, was
+sie zu Tage fördern, zunächst in einer nur We-
+nige ansprechenden Form auftritt. Es würde daher
+kein unverdienstliches Unternehmen seyn, ein Lehr-
+buch der Logik zu schreiben, welches auf die in
+dem vorliegenden Schriftchen von L. gegebenen
+Untersuchungen die gebührende Rücksicht nähme
+und von dem durch sie bezeichneten Standpunkte
+aus das ganze Gebiet der Logik behandelte.
+
+Die Schrift zerfällt in zwei Haupttheile. Der
+erste bezieht sich auf die Aufgabe der Logik und
+stellt ihre Lösung in den ersten Hauptzügen dar;
+der zweite geht, so weit es nach dem ersten noch
+nöthig, in die Qrenzstreitigkeiten zwischen der
+
+Logik einer- und der allgemeinen Metaphysik, der
+
+Psychologie, ja Aesthetik (im engern, gewöhnlichen
+Sinne) und Ethik andrerseits ein. Es sey uns ver-
+gönnt, über den Inhalt des ersten Theils genauer
+Bericht zu erstatten,
+
+Die Logik hat denjenigen Unterschied der Ur-
+theile, welchen man durch „wahr” und „ falsch”
+bezeichnet, zum Gegensiande, oder, wenn man will,
+zu ihrer Voraussetzung. Diese Beziehung von Wahr
+und Falsch auf Urtheile ist ihre primitive; sie über-
+frägt sich auch auf Begriffe, wiefern sie in diesem
+Urtheile liegen. Die Logik hat deshalb nicht , wie es
+gewöhnlich geschieht, mit den Begriffen, sondern mit
+den Urtheilen zu beginnen. Ihr Gebiet kann eben
+darum auch nicht weiter seyn, als das der Urthei-
+je. Dess ungeachtet können über die Grenzen die-
+ses Gebietes Zweifel entstehen, wenn man die Be-
+griffe „wahr” und „wirklich” vermengt. Für die
+Wahr- und Falschheit eines Urtheils ist die Reali-
+tät des Beurtheilten ebenso gleichgültig, wie die
+Wirklichkeit des Denkens. Die Logik fragt, ein
+wie beschaffenes Denken sich rechtfertigen lasse,
+aber nicht, wie und wodurch es wirklich geworden,
+Für die Rechtfertigung oder Verwerfung eines Ur-
+theils ist daher nichts entscheidend, als der Inhalt
+der in ihm sich verhaltenden Begriffe, Es giebt in-
+directe Kechtfertigungen eines Urtheils; sie leiten
+aus der Annahme des gegentheiligen ein drittes
+
+ALLG. LITERATUR - ZEITUNG
+
+852
+
+Urtheil her, welches an einem bereits feststehenden
+vierten scheitert. Sie beruhen darauf, dass nicht
+auf dieselbe Frage mit Ja und Nein geantwortet
+werden kann; ist. die Bejahung in ihrem Rechte, so
+ist die Verneinung im Unrechte, und umgekehrt.
+Das Gesetz des Widerspruchs ist also schon in der
+aller Logik zu Grunde liegenden Anerkennung des
+Unterschiedes zwischen „wahr” und „falsch” ent-
+halten. Es ist ein blos negafives Kriterium der
+Wahrheit. Die Logik muss aber auch ein Positi-
+ves, die logische Realität der Urtheile, erforschen;
+denn diese ist es, an der die Negationen scheitern.
+Vermittelst des Widerspruchsgesetzes erfährt man
+die Wahrheit oder Falschheit eines Urtheils gegen-
+über anderen Urtheilen, deren Falschheit oder Wahr-
+heit bereits festgestellt ist, also secundär. Ebenso
+ist es bei der sog. direcfen Beweisführung; auch
+diese leitet Urtheile aus andern Urtheilen, für wel-
+che der Unterschied von „wahr” und „falsch” auch
+gilt, ab. Es bleibt mithin die Lösung einer andern
+Aufgabe übrig, die Wahrheit eines Urtheils an und
+für sich, d. h. ohne Hinblick auf andere Urtheile,
+zu erforschen, die primäre Feststellung der Wahr-
+heit zu versuchen, Worin das Gegentheil der Wahr-
+heit bestehe, wird sich hernach von selbst ergeben,
+Da ferner alle Verneinung ohne ein Positives, was
+durch andres Positive verneint wird, ein bares
+Nichts wäre, so braucht zuerst nur von der Wahr-
+heit bejahender Urtheile die Rede zu seyn. Es wird
+dabei von der einfachsten Form derselben, der ka-
+tegorischen, ausgegangen und soll sich später zei-
+gen, dass dadurch die Aufgabe nicht speciell ge-
+fasst werde. Es fragt sich also: Wie lässt sich der
+Zusammenhang zwischen S (Subject) und P (Prä-
+dicat) rechtfertigen? P hat S zu seiner Vorausset-
+zung; wer S denkt, wird hierdurch bestimmt, auch
+P zu denken, ja S als P. Es hat also bei dem S
+Denken nicht sein Bewenden; S fordert, zugleich
+nicht als S gedacht zu werden und zwar als P,
+S müsste somit als S und zugleich nicht als S ge-
+dacht werden, Dies würde ein Widerspruch seyn,
+wenn man diesen nicht durch eine Distinction löste,
+nämlich durch eine Distinction zwischen S, wiefern
+dieser Gedanke in sich ruht, und zwischen S, wie-
+fern er zu einem von ihm unterscheidbaren P fort-
+drängt. Als Voraussetzung des P müssen wir also
+eine Gedankenwahrheit betrachten, ‚so dass wir
+nun jeden dieser Gedanken in doppelter Weise fas=
+sen können — einmal in Verbindung, zusammen
+mit den übrigen, dann aber auch für sich, verein-
+

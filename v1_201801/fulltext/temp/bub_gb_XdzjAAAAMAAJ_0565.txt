@@ -1,0 +1,140 @@
+927
+
+durch feine Theorie der Pendel- und Centrifugal-
+kräfte, und bahnte auf diele Art den Weg zu der
+
+rofsen Erfindung der allgemeinen Schwere. Durch
+
+ewtons 1687 erfchienene Principien nahm die Mecha-
+nik eine ganz neue Gefltalt an und durch die Erfin-
+dung des Infinitefimelcalenls wurden die Bewegungs-
+Ö ae auf analytiiche Gleichungen gebracht; die
+
+nterfuchung der Kräfte und der daraus entfpringen-
+
+den Bewegungen wurden der vornehmfte Gegenftand
+der Arbeiten der Geometer. Unfer Vf. hatte Gch
+vorgeletzt, denfelben hier ein neues Mittel an die
+Hand zu geben, diele. Unterfuchung zu erleichtern ;
+zuförderft aber fand er dienlich die Grundfätze vor-
+zutragen, welche der Dynamik zu Grundfeften die-
+nen und zu Zeigen, wie die Ideen die das Meifte zu
+der Erweiterung diefer Wiffenfchaft beygetragen ha-
+ben, Stufenweile auf ein ander folgten. Allo hier
+wieder eine treffliche kritifche Gefchichte diefer Wif-
+fenfchaft mit der bündig{ften Kürze vorgetragen;
+der Hauptfatz, wovon der Vf. bey den Unterfuchun-
+gen diel »s Theils ausgeht, ilt zwar wieder der im
+1/len Theile gebrauchte Grundfatz des Beltrebens nach
+
+leichgewicht, oder der virtuellen Gefchwindigkei-
+ten; er verbindet aber damit noch einen andern, von
+d’ Alembert aufgeftellten, des Inhalts: wenn fıch meh-
+rere Körper beftreben fich mit gewiffen Gefchwindig-
+keiten nach beftimmten Richtungen zu bewegen,
+und diefe wegen der gegenfeitigen  Virkung der Kör-
+per auf einander, eine Veränderung erleiden , fo kann
+man diefe Bewegung aus denen, welche die Körper
+wirklich erhalten, und aus denen die fch aufheben,
+zufammengefetzt anfehen, woraus folgt, dafs diefe
+letztern fo befchaffen feyn müffen, dafs die von die-
+fen Bewegungen allein getriebeuen Körper einander
+das Gleichgewicht halten. Die Formel, welche im
+aten Abfchnitt daraus entwickelt wird, führt fogleich
+im 3tem Abfchnitt auf die allgemeinen Gleichungen,
+die unter dem Namen der Erhaltung der lebendigen
+Kräfte, der Erhaltung der Schwerpunctsbewegung;
+der Erhaltung des-Moments der Umdrehungsbewe-
+
+ung, und des Satzes der kleinften Wirkung bekannt
+End, Den letztern Satz hat der Vf. unter folgender
+Modification mit grofsem Nutzen gebraucht: dafs die
+Summe der Producte der Maffen in die Integrale der
+Gefchwincigkeiten, multiplicirt mit den Elementen
+der durchlaufenen Räume, beftändig ein Maximum
+oder Minimun 6 ater Abfchnitt, Die einfachfte Me-
+thode zu den Gleichungen zu gelangen, welche die
+Bewegung eines gewillen Syfteins von Körpern be-
+ftimmen, die durch gewifle befchleunigende Kräfte
+
+etrieben werden. ster Ab/chnitt, Auflöfung verfchie-
+
+ener Aufgaben der Dynamik. Alle die im sten Ab-
+fehnitt des ıflen Theils über das Gleichgewicht der Kör-
+per gegebenen Auflöfungen, werden hier auf dieBe-
+wegung eben diefer Körper angewandt. Es kommt
+hier unter andern auch die berühmte Aufgabe von
+drey Körpern vor. G6ter Abfchnitt, Ueber die Rotation
+der Körper. Die Wichtigkeit und Schwere diefer
+Aufgabe bewogen den Vf. ihr einen befondern Ab-
+fehnitt zu widmen, und Le von ihren erften Gründen
+
+ 
+
+ERGÄNZUNGSBLÄTTER. Num., ‚141. NOVEMBER :1809-
+
+1128
+
+. an vorzutragen. Er giebt daher zuerft die allgemein:
+
+ften und einfach(ten Formeln, um die Umdrehungs«
+bewegung eines durch gewiffe Kräfte getriebenen
+Körpers vorzultellen, und darauf folgen verfchiedene
+Anwendungen diefer Gleichungen, Z. B. die Theo-
+rie der kleinen Pendelofcillationen in aller der Allge-
+meinheit deren fie fähig ift. 7ter Ab/chnitt, Von den
+Grundlehren der Aydrodymamik, Die gewöhnliche
+Hydraulik (chränkt Goch blofs auf die Kunft das Wat
+fer zu leiten und es zur Bewegung der Mafchinen zu
+gebrauchen, ein; der Gepenttand der Hydrodynamik
+aber ift die Bewegangsbeltimmung der flüfGgen Kör-
+per. Sie ift eine ganz neue, im 18 Jahrh. erft entitan-
+dene, Wiffenfchaft. Newton unterwarf ihre Princi-
+nen zuerft dem Calcul und d’ ilembert brachte zuerft
+je wahren Gefetze derfelberauf analytifche Gleichun-
+en. Auch hier läfst der Vf. eine kurze räfonnirende
+Gefchichte vorausgehen. d’Alembert gab in feinem
+E//at d’une nouvelle Theorie fur la rififlance des fusdes
+1752 ftrenge und allgemeine Gel hen über die Be-
+wegung fowohl unprefsharer, als elaftilcher flüfhger
+Körper, welche zu der Klaffe der pärtiellen Differen-
+zialgleichungen gehören. Durch diefe Entdeckung
+wurde.die ganze Mechanik Aüffiger Körper auf einen
+einzigen Punct der Analyfıs gebracht , und wenn dıe
+fie enthaltenden Gleichungen integrabel wären, fo
+liefsen fıch iu einem jeden Falle die Umftände der
+Wirkung eines durch gewifle Kräfte bewegten Rüfh-
+en Körpers vollkommen beftimmen; aber unglück-
+fiherweile find fie fo rebellifch, daß man bisher
+nur in fehr eingefchränkten Fällen zum Zwecke hat
+elangen: können. In diefen Gleichungen und ihrer
+forcgemion befteht übrigens die ganze "Theorie der
+Hydrodynamik. Bier Abfchnitt, fon der Bewegung
+unprefsbarer flüfßger Mailen: erftlich allgemeine
+Gleichungen für die Bewegung der hierher gehöri-
+gen FlüfGgkeiten und dann, von der Bewegung fchwe-
+rer, honiogener Flüfhgkeiten in Gefäfsen oder Röh-
+ren.von einer gewiflfen Figur. 9ter Ab/chnitt. Von der
+Bewegung der prefsbaren oder elaftilchen Flüfhgkei-
+ten. Hier unter andern eine Formel, welche fowoh/
+die Theorie der Töne in Flöten und Orgelpfeifen,
+als auch die von der Fortpflanzung des Schalles in
+ON Luft, in Gch fchliefst. Auch eine fehr natür-
+liche Erklärung der gewöhnlichen Echo’s, indem:
+man annimmt, dafs die (challende Fiber, nachdem Ge
+einen gewilfen Raum durchlaufen hat, durch das
+Hindernifs worauf fe {töfst, gleichlam zurückgewor-
+fen wird, und mit der(elben Gefchwindigkeit wie
+der abprallen mufs, Die zulammengefetzten Echo’:
+erklären fich, wenn man annimmt, dafs die fchallend:
+Linie auf beiden Seiten durch unbewegliche Hinde:
+niffe befchränkt wird, welche nach und nach die (cha
+lenden Fibern zurückwerfen, und gewiflle beftändig
+Ofcillationen bewirkt werden. Da fich die Feberfe
+zung zu {ftreng dem franzöfifchen Texte arıgepa!
+hat, fo ift fe dadurch etwas ungefchmeidig gewworde:
+auch find von den Druckfehlern nicht alle, befonde
+die von einigen Namen, nicht angezeigt worden.
+
+-
+

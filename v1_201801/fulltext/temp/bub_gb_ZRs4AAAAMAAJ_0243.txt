@@ -1,0 +1,130 @@
+459
+
+u, Ss. w. entwaeler durch die gegebenen Gröfsen al-
+lein, oder durch diese und orten Ausdrücke
+zusammen bestimmt werden. In der zweyten S. 73
+beginnehrlen Abtheilung beschäftigt sich dann der
+Vf. mit der Anwendung der von Lagrange und ihm
+erhaltenen Resultate zur Ableitung aller bekannten,
+und einer Anzahl, so viel Rec. weifs, noch nicht
+bekannt gemachter Gleichungen der sphärischen
+Yrigonometrie. Dafs diefs möglich seyn mufs, lie,
+von vorn herein am Tage, da ja die spärische Tri-
+onometrie nichts anderes ist, als die Lehre von der
+erechnung aller Bestimmungsstücke der dreyseiti-
+gen Pyramide, deren drey von der Spitze ausgehen-
+den Seiten einander gleich sind. Sind, wie oben
+auseinander gesetzt wurde, die Bestimmungsstücke
+jeder beliebigen dreyseitigen Pyramide durch die
+eingeführten neun Gröfsen A’, A” u. s. w. bekannt,
+so sind es auch diejenigen der hier in Betracht kom-
+menden s$peciellen, und es kömmt nur darauf an,
+sie zu specialisiren, nämlich auszudrücken, dafs
+‚die drey genannten Seitenlinien einander, und folg-
+lich, wie man offenbar beliebig annehmen Kann,
+der Einheit gleich seyen. Diefs würde bey Lagrange,
+welcher, wie erwähnt, A‘, B’', C’ u. s. w. als die
+Coordinaten der Eckpunkte (des sphärischen Drey-
+ecks, wie wir jetzt sprechen müssen) annimmt, da-
+durch erreicht, dafs A° +B" +C*=P"=1, und
+eben so P2, P“2—1 gesetzt würde. Unser Vf.
+wählt einem andern, ibm schneller zum Zweck füh-
+renden Weg. Da nämlich durch die ursprünglichen
+neun Gröfsen die Lage der Seitenebenen gegeben
+ist , und die Gleichung jeder solcher Ebene, sie
+durch den Mittelpunkt der Kugel, also den An-
+fangspunkt der Coordinaten geht, von der Form
+Ax-+By+Cz=0 ist, so läfst er in den drey be-
+treffenden Ebenen A’ A” A“ die Coeffcienten von x,
+BB‘, B“, B” die von y, C‘, C“, C” die von z seyn.
+Da nun aber bekanntfch die Gleichung jeder durch
+den Anfangspunkt der Coordinaten gehenden Ebene I
+bekanntlich auch x cos (l, yz) + y cos (1, xz) +z cos
+(l,xy)=0 ist, So ist es offenbar erlaubt, A’= cos
+(I, yx), B'= cos (I, xz), C‘’= cos (I, xy) zu’ setzen,
+unS auf ähnliche Art durch die zweite und dritte
+‘Seitenebene die geometrischen Bedeutungen der 6
+anderen ursprünglichen Gröfsen zu bestimmen. Da-
+durch bekommen also nupmehr alle formirten Aus-
+drücke geometrische im sphärisehen Dreyecke
+leicht nachzuweisende Bedeutungen, — so werden
+z. B. auch hier P’=P"“=P"=1, weil die Summe
+der (Quadrate der Cosinusse von den drey Winkeln,
+welche eine beliebige Ebene mit den drey Coordi-
+natenebenen macht, bekanntlich = 1 ist, — und
+hiervon handelt der erste Abschnitt der Zweyten
+Abtheilung. Im zweyten Abschzitt werden, von
+S, 79 an, dann jene Winkelfunctionen in die in der
+ersten Abtheilung ‚erhaltenen Relationen gesetzt,
+und dadurch, wie natürlich, Relationen zwischen
+den Bestimmungsstücken des sphärischen Dreyecks
+erhalten, also zuerst die Grundformeln mit ihren
+sämmtlichen Umformungen zur bequemeren Be-
+
+ALLG. LITERATUR - ZEITUNG
+
+460
+
+rechnung durch thmen, dann die Neper’schen
+und Gaufs’schen. Gleichungen, dann die Formelo
+durch welche der Sinus,' der Cosinus und Tangente
+des halben sphärfschen Excesses, oder. der halben
+Summe der Winkel weniger einen, oder der halben
+Summe der Seiten, oder derselben weniger eine
+resp. aus allen drey Seiten, oder den drey Winkam
+oder den drey Seiten und einen Winkel, oder den
+drey Winkeln und einer Seite u. s. f. gefunden wer-
+den, de Lambre’s, Euler*s, Lexell’s, Legendre’s
+Gleichungen, und wohl auch manche noch nicht
+bekannte; wobey jedoch wohl zu merken ist, dafs
+alle diese Gleichungen, nicht etwa wie es gewöhn-
+Jich geschieht, aus den Grundformeln, oder auch
+nur aus einander, sondern alle aus der-Urquelle,
+den Relationen selbst , hergeleitet werden. Im drit-
+ten Abschnitte S. 87 ff. wird dann ein neues System
+von Gleichungen entwickelt, Relationen enthaltend,
+die zwischen den 4ten Theilen der Winkel und Sei-
+
+‚ten eines sphärischen Dreyecks statt finden, und
+
+auch unter diesen finden sic einige sehr merkwür-
+dige weniger bekannte, z. B.
+
+tg}a 1g1(b-+c—a)
+
+— cos (46° + 447247) sin (45+20—) ;
+
+tg3a tg}3(a+b+-c)
+
+— 008 (45° +-E 7°) sin sr Er)
+
+7 cos (45° + Ar) cos (45° + Ak 4=C) d
+
+aus welchen Formeln sehr leicht resp. die für tg1a
+cotg;(b+c— a), tgja cotg + (a +b+c) erbälien
+werden, wenn man überall Sinus und Cosinus mit
+einander verwechselt, und dem zweyten Theile der
+Cirichung das Pluszeichen vorsetzt. Vermittelst
+des Supplementardreyecks wird man dann aus die-
+sen Gleichungen leicht die Ausdrücke für
+
+cotg3A tg (45° +45 ,
+
+cotg1A cotg (45° EA ,
+
+cotg 3A 1E (45 + AS ;
+
+cotg}A cotg (45° +++)
+herleiten können, welche diese Quantitäten als
+Functionen von a, b, c geben, und der Quotient der
+beiden letzten Formeln giebt dann die L’Huilier’-
+sche Gleichung für die Tangente des vierten Theils
+des sphärischen Excesses, derem versuchter Beweis
+den Vf. ohne Zweifel auf die ganze in diesem Ab-
+schnitt behandelte Untersuchung, und, von ihnen
+ausgehend, zu vielen im ersten Abschnitte gefunde-
+nen Relationen geführt hat. . In dem folgenden Ab-
+
+schnitte entwickelt der Vf£,, 5,100 ff., die Ausdrücke
+; für
+

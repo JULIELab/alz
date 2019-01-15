@@ -1,0 +1,154 @@
+459
+
+Hieraus folgt 72x = 2x =(18— x)!
+
+also 36 = (18 —x)*
+
+und daher +6=18—x
+
+was allerdings x = 12 und x == 24,
+
+Hieraus aber folgt nur, es ist’
+
+(18 +x) —(18-— x)! (1 + 2x) = (x-—12) (x—24)
+keinesweges aber das von dem Vf, aufgestellte Re-
+Sultat , ; - Ü
+
+1 x
+SE — 184 x = (x — 12) (x — 24).
+Will man ein ähnliches Verfahren bey der vorge-
+gebenen Function anwenden, so mufs die Rechnung
+auf folgende Art geführt werden:
+
+Es ist für V(14+2x)= z; x=
+
+also verwandelt sich die Ge pbene Function
+
+£(x)= ea 18 +x
+82x
+
+1 + .._.
+— _184+ 4
+
+ 
+
+in f(x) =
+
+und daher ist
+2z f(x) = 536 +z?—1—5362z +23—z
+= 2+7'—537z+85
+
+Wird nun die ganze rationale Function 234 7z°
+—3724+85=0 gösaizt, so entsprechen dieser Glei-
+chung die Werthe
+
+z= +1; z= +5 und 2= —7
+und es ist daher
+
+23 4+2'—372 +35 = (z—1) (z —5) (z +7)
+also ist auch
+
+2z f(x) = (z—1) (z—5) (z + ;
+und hieraus erhält man, wenn für z der Werth ge-
+setzt wird,
+f(x) = IH xD) I SV DEV Sx-DI
+
+2 (2x +1)
+
+keinesweges aber das von dem Vf, angegebene Re-
+sultat f(x)=(x—12) (x—18)X
+_ Aufser den bereits angeführten auf der zwevten
+Seite vorkommenden falsch berechneten Beyspielen
+befinden sich auch mehrere der Art auf der folgen-
+den dritten Seite, wodurch das Werk für Anfänger
+weniger brauchbar wird, da sie durch diese Bey-
+spiele sehr leicht zu einer falschen Ansicht verleitet
+werden können. VUebrigens hat Rec. keine Fehler
+der Art bey den folgenden Gattungen von Aufgaben
+a yndens und es kann daher dem gerügten Mangel
+eicht abgeholfen werden, wenn der Verleger den
+I Rten Viertelbogen umarbeiten und umdrucken
+älst.
+
+Die zweyte Gattung von Beyspielen in der er-
+sten Abtheilung betreffen Verwandlung gebroche-
+ner und irrationaler Functionen in Reihen, und es
+sind hier auch solche Beyspiele aufgenommen wor-
+den, wo gebrochene oder irrationale Ausdrücke, wel-
+che ohne Ende fortlaufende Reihen enthalten, in
+andere unendliche Reihen verwandelt werden, die
+eine ganze rationale Form haben.
+
+Aufserdem kommen in der ersten Abtheilung
+vor; 8) Beyspiele über das Zerlegen gebrochener ra-
+
+ALLG. LITERATUR - ZEITUNG
+
+460
+
+tionaler Funetionen in Partialbrüche; 4) Verwand-
+Jung der Functionen durch ‘Substitution; 5) die
+Vekehrung der Functionen, und 6) die Entwicklung
+anEe Sönderter Functionen, und es enthält diese Ab-
+theilung im Ganzen 157 verschiedene Aufgaben.
+
+Abtheilung, in welcher S, 20 — 49
+
+Die zweyte
+die verschiedenen Beyspiele zus der‘ Differential-
+
+rechnung vorkommen, enthält 1) Differentiale der
+algebraischen Functionen; 2) die transcendenten
+Functionen; 3) höhere Differentiale, wo jedoch
+durchgeliends dx constant angenommen ist, Bey-
+spiele mit veränderlichen Differentialen fehlen gänz-
+lich; 4 und Beyspiele für den Taylor’schen Lehr-
+satz und Gebrauch“ desselben bey Auflösung der
+Gleichungen durch Kechnung; 6} Bestimmung der
+röfsten und kleinsten Werthe der Functionen,
+Dieser Abschnitt ist ziemlich dürftig ausgefallen,
+derselbe enthält zwar 58 Aufgaben, es betreffen diese
+aber durchgehends nur gegebene algebraische Aus-
+drücke, da TO U0ra wie
+y=Sinacos’w
+hievon nicht bedeutend verschieden sind. Die ei-
+entlich interessanten Aufgaben dieser Lehre zus
+er Geometrie und T’rigonometrie fehlen gänzlich,
+und eben so sind auch nur einige wenige Functio-
+nen aufgenommen, die zwey veränderliche Gröfsen
+eüthalten. 7) Bestimmung des Werthes gebroche-
+ner Functionen, welche sich für einen gewissen
+Werth der veränderlichen Gröfse in ;} verwandeln,
+Hier hat Rec. die Fälle ungern vermifst, wo die
+Werthe der Function 0. co ; Z oder x — © werden,
+8) Die Umkehrung der Functionen nach Lagrange,
+Die Anzahl aller in dieser Abtheilung vorkommen-
+den beläuft sich auf 258,
+
+Die dritte Abtheilung S. 50 —106 enthält 309 Bev-
+spiele für die Anfangsgründe der Integralrechnung,
+da der Vf. die Integralgleichungen mit mehr als zwey
+veränderlichen Gröfsen und die, welche den zwes-
+ten Grad übersteigen, als für den Zweck dieser
+Sammlung nicht geeignet hält. Es konnten dergiei-
+chen schwierigere Aufgaben auch um so mehr weg-
+gelassen werden, da derjenige, der bereits so weit
+vorgeschritten ist, dafs er mit den fchwierigen Ge-
+
+enständen der Integralrechnung sich beschäftigen
+Cm, auch ohne Keime Beyhülfe zweckmäfsige
+UVebungsbeyspiele zu bilden im Stande ist, Das
+Werkchen hätte übrigens an Brauchbarkeit gewan-
+nen, wenn der Vf, mehr Aufgaben über die Anwen-
+dung der Integralrechnung aufgenommen hätte. Den
+S. 102— 106 vorkommenden Aufgaben über Sum-
+mirung der Reihen hätten nun noch mehrere über
+die Quadraturen und Kubaturen u, s. w. folgen sol-
+len; überhaupt ‘hätten die verschiedenen Gegen-
+stände der hüheren Geometrie nicht ganz ausge-
+schlossen bleiben sollen,
+
+Unger.
+
+AUS-
+

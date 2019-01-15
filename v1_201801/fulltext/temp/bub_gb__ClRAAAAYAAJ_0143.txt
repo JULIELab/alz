@@ -1,0 +1,131 @@
+Du a
+
+U ;
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+Februar 1836.
+
+ 
+
+MATHEMATIK.
+
+” ‘Beaurx, ‚in Comm, b. Logier: "Beweis des eilften
+*  Euklidischen Grundsatzes, Von S, Metzing.
+455, 8, Mit einer Kupfertaf, 1834, (6 gGr.)
+
+E: ist diefs einer von den vielen Versuchen, womit
+die mathematische Literatur fast jedes Jahr bereichert
+wird, die jedoch die Sache, um welche es sich han-
+delt, dercham nicht fördern, Am treffendsten hat
+“sich noch neuerlich Grunert in Greifswald über der-
+“gleichen Versuche ansgesprochen, und bemerkt, dafs
+7es ohne Zweifel ganz vergebene Mühe seyn werde,
+mit den Grundsätzen, die man in der Regel in der
+"Einleitung zur Mathematik anzunehmen } gt; hier
+"auszureichen, weshalb er vorschlägt, atz als
+“Grundsatz anzunehmen, dafs zwei gorade Linien, die
+einer dritten parallel ‘sind, einander selbst parallel
+"seyn müssen, ein Satz, der dem.bekannten Grund-
+satze vellkommen analog sey , dafs zwei Gröfsen, die
+‚einer dritten gleich sind, auch unter einander, gleich
+"seyen. Unser Vf, hat etwas Aehnliches dunkel ge-
+
+‚fühlt, oder er ist wenigstens hicht mit der Aufrich-
+"tigkeit zu Werke gegangen, wie Grunert in seinem
+“Lehrbuche der Geometrie, Unser Vf, schiekt näm-
+'lich-48 Sätze voraus, die entweder Grundsätze oder
+’doch solche Lehrsätze und Aufgaben seyn sollen, de-
+
+"ren Beweis und Lösung , vollkommen unabhängig von -
+
+“der Parallelentheorie , hier schon vorausgesetzt wer-
+“den kann. Aber gerade hier ist die Klippe, woran
+“der Vf. scheitert. Unter diesen 48 Sätzen nämlich,
+“deren gröfsten Theil ihm Niemand bestreiten wird,
+” befinden sich zwei, die keinem ner so unbedingt als
+Grundsätze gelten können, nämlich No. 23, und 24,
+
+"No. 23, heilst: ‚wenn eine Linie aufserhalb einer -
+„geraden Linie in derselben Ebene dergestalt fortläuft, '
+
+afs sie in jedem ihrer Punkte stets gleich weit von
+‘der geraden Linie entfernt hleibt, so hat sie in sich
+selbst eine überall gleichmäfsige Richtung , und ist
+demnach eine gerade Linie,” Noch weit bedenklicher
+"aber ist No.24.: „Zwei über einander in einer Ebene
+° fortlaufende gerade Linien, wövon zwei Punkte der
+“einen gleich weit von der andern entfernt sind, lie-
+“gen überall in gleicher Entfernung von einander,”
+„Dieser Satz ]äfst sich doch unmöglich anders ver-
+"stehn, als so: zwei gerade Linien, die so neben ein-
+ander laufen ‚dafs zwei Perpendikel von zwei Punk-
+-ten der einen auf die andere gefällt, einander gleich
+“sind, liegen überall in gi Entfernung von ein-
+ander der sind parallel, Aber das ist nimmer ein
+Grundsatz, und hedarf eines Beweises eben so gut,
+4A. L. Z. 1836. Erster Band,
+
+‚vierten Seite liegenden Wi
+
+‚als der eilfte Euklidische Grundsatz selbst. Geben
+wir freilich diesen Satz zu, so hat der Vf, sein Ziel
+erreicht, denn er bauet sehr achön darauf fort, und
+‚kommt dann sehr folgerichtig zu seinem quod erat de-
+monstrandum, Da es jedoch nicht uninteressant ist,
+zu sehn, wie der Vf., nicht obne Scharfsinn , weiter
+eht, so wollen wir den Weg, den er einschlägt,
+rz andeuten, Nach jenen 48 Sätzen nämlich er-
+scheint Lehrsatz 1.: „wenn in einem geradlini
+Vierecke die an einer. und derselben Seite liegende
+Winkel unter einander gleich sind, 80 sind die an der
+el ebenfalls einander
+gleich.” Lehrsatz.2,: „sind in einem geradlinigen
+jerecke die an einer und derselben Seite Hogenden
+Winkel einander gleich, und die an der gegenüber-
+stehenden Seite liegenden Winkel ebenfalls einander
+leich, so sind auch die sich gegenüber liegenden
+eiden anderen Seiten des Vierecks einander gleich,”
+Lehrsatz 3.: ‚wenn in einem geradlinigen Vierecke
+die an einer und derselben Seite liegenden Winkel
+
+einander gleich, die an der gegenüberstehenden Seite
+
+liegenden Winkel aber unter einander ungleich sind,
+so ist von den beiden übrigen Seiten des Vierecks
+diejenige die gröfsere, woran der kleinere Winkel
+
+-liegt.” Soweit ist Alles richtig und gehörig bewie-
+
+sen, Nicht aber so Lehrsatz 4.: „, wenn zwei gerade
+Linien in einer Ebene über einander dergestalt lie-
+en, dafs zwei Punkte der einen nicht gleich weit von
+dr anderen Linie entfernt sind, so nähern sich beide
+Linien von der gr laeren Entfernung aus nach der
+Seite hin, wo die kleinere Entfernung eintritt, in
+jedem Punkte immer mehr, ind entfernen sich dage-
+gen von der anderen Seite fortwährend weiter von
+einander.” Hier hat nun der Vf, jenen Satz No. 24,
+zu Hülfe gerufen, und da dieser als Grundsatz nicht
+elten kann, so fällt auch Lehrsatz 4, mit ihm,
+hrsatz 3.: „wenn in einem geradlinigen Vierecke
+sich drei Winkel befinden, wovon jeder gleich einem
+Rechten ist, so ist auch der vierte Winkel ein Rech-
+ter,” Dieser Satz füllt ‚gleichfalls mit Lehrsatz 4,
+Lehrsatz6.: „in jedem Dreiecke sind alle drei Win-
+kel zusammengenommen gleich zweien rechten Win-
+keln,” Diel(s beweist der Vf, in drei Abtheilungen
+für das gleichseitige, gleichschenkliche und ungleich-
+seitige Dreieck besonders, Fällt auch mit Lebr-
+satz 53. Wir können hier.den Vf, auf seinem weiteren
+Wege verlassen, da bekanntlich Alles gewonnen
+wäre, wenn es gelänge, diesen Lehrsatz 6, ohne Hülfe
+der Parallelen zu beweisen, Das Aeufsereder Schrift
+verdient alles Lob, Mu
+
+GE O
+
+LI
+

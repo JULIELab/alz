@@ -1,0 +1,137 @@
+655
+
+einer neuen Verbindung zu halten. Grade zu diefen
+beiden Vorträgen mag auch wohl der oben angege-
+bene allgemeine Titel: ,,Herzensergüffe” am meilten
+
+alfen; denn wirklich redet in ihnen das Herz des
+
+fs, mit, und da nun mit dem Herzen vugleich Ein-
+ficht und Talent fich paart, fo wird es keinen Freund
+der vernünftigen Erbauun
+deffen Vorträgen Bekanntfchaft gemacht zu haben.
+
+MATHEMATIK,
+
+HaALserRSTADT, b, Vogler: Der Conifector, ein
+Inftrument, die Kegelfchnitte zu verzeichnen,
+erfunden und befchrieben von K. 4, tens,
+Superintendent "und Oberprediger zu Halber-
+{tadt. 1821. 605. 8. m. 3Kupftt.
+
+Der Erfinder des genannten Inftrumentes, als
+Schriftfteller im mathematifchen Fache hinreichend
+bekannt, übergiebt dem Publicum durch diefe klei-
+ne Schrift die Conftruction deffelben, welche eben
+fo finnreich und einfach ift, als fie zugleich den Er-
+finder als einen Mann darftellt, der die täglichen
+Erfcheinungen mit dem Auge des Forfchers betrach-
+tet. Hr. M. erzählt (S.2— 6) die Veranlaffung zu
+diefer Erfindung. Es heifst hier (S. 4): „Der Schirm
+meiner Studierlampe hat oben eine Kreisrunde Oeff-
+nung, - Einft-fel mir, da die Lampe an einer Wand
+{ftand, die fonderbare Geftalt des Schattens auf,
+‘ "welchen diefer oben geöffnete Schirm auf die Wand
+warf, und ich fragte bey mir felbft, nach der Na-
+tur der Linie, welche von der Schattengrenze be-
+zeichnet wurde. Es leuchtete mir {ehr bald ein, da
+von der Lampenflamme ein Lichtkegel durch die
+Schirmöffnung aufftieg, welcher durch die nahe
+Wand gefchnitten ward, es müffe der Schatten, je
+nach der fenkrechten oder geneigten Lage der Wand
+irgend einen Kegelfchnitt bilden.” Die Hauptidee,
+auf welche die Einrichtung des Conifectors fich
+
+ründet, wird $, 1 —3 angegeben und ift kurz ge-
+
+afst folgende: Man denke fich eine Kreisfcheibe,
+durch deren Mittelpunct gehe ein Staab, ‚welcher
+mit der Axe diefer Kreisfcheibe einen Winkel bil-
+de. Drehet man nun diefe Scheibe um ihre Axe,
+fo befchreibt diefer Staab einen Kegel. Ift die Kreis-
+{cheibe mit einer zweyten Fläche — Bodenfläche m
+nannt — parallel, (fo wird das Ende des Stabes des
+Kegels Grundfläche, und wenn man will, auch die
+Fläche des mit der Grundfläche parallel gehenden
+Schnittes, d.h. den Kreis geben. Ift aber die Kreis-
+{cheibe mit der Bodenfläche nicht parallel, fo erhel-
+Jet die Möglichkeit leicht, dafs der Schnitt eine Pa-
+rabel, £1 lipfe oder Ayperbel geben mufs. In der
+mechanifchen Conftruction ift, wie Geh fchon von
+felb(t verfteht, auch darauf Rückficht genommen,
+dafs verfchiedene Kegelfchnitte felbit auch fo ge-
+zeichnet werden können, dals fe einen gegebenen
+Parameter und Axe in üch faffen. Hr. M, letzt den
+balben Winkel an der Spitze des Kal == @; den
+perpendiculären Abftand der Kreisfcheibe von der
+
+ERGÄNZUNGSBLÄTTER Num, 82. JULIUS 1824:
+
+gEshen, mit Hrn. FW. und’
+
+656
+
+Bodenfläche — die Scheibenhöhe — ==E; den Win-
+kel, welchen die Axe der Kreisfcheibe mit der
+Scheibenhöhe macht, =». Hr, M. beweift $. 16
+— 19, dals wenn der Parameter durch P, die Axe
+durch A bezeichnet wird, P=2 £.tg.@ und 4=
+‚2E(tgy +1) eg. @
+1— eg nn? .6g.@)
+Esunter{cheidet fGch diefe Schrift von andern ihrer
+Art auch noch dadurch, dafs durchgängig Alles
+ftreng bewiefeu und mit hinreichender Klarheit dar.
+geftellt ift. Wir empfehlen daher diefe Schrift al-
+len technifchen Mathematikern, indem in ihren Fä-
+chern der Conifector nicht allein eine mannichfache
+Anwendung finden, fondern auch mit Vortheil an-
+gewandt werden dürfte. — Wenn übrigens Hr. M.
+den Conifector noch zu vervollftändigen gedenkt,
+fo dürfte zu empfehlen feyn, dafs er dabey De la
+Hire’s: Machine Fe faire fur le tour toutes fortes
+de Polypones (Hiftoire d. I. Acad. roy. d. fc. Annee
+1719. Paris 1721. 40 pag.320— 325) berücklch-
+tigte. Für Schulen kann der Conifector nur em-
+ten werden, wenn er als ein, zu einem voll.
+tändigen mathematifchen Apparate gehöriges Stück
+engem hem wird. Bey dem  rertickte, wo man in
+unlern Tagen gewöhnlich Biots Methode zu befol-
+
+gen pflegt, {cheinen die Formeln, welche zur Ver-
+
+zeichnung der Kegellchnitte aufgeftellt werden, dem
+Gegenftande angemeffener zu feyn. Es ift zwar
+richtig dafs auf diefe Art die Kegelfchnitte nie fo
+genau, als es durch Hülfe des Conilectors ge{chieht,
+ezeichnet werden können; allein der Unterricht
+oll nicht das Zeichnen der Kegel{chnitte, vielmehr
+die Theorie derfelben lehren, und diefs ift unab-
+hängig von jenem. Wenn nun Hr. M. $.37. fagt:
+„Das Inftrument gewährt für Schulen den Vortheil,
+dafs es manche Eigen(chaften der Kegel{chnitte an-
+{chaulich macht; z. B. wie der entgegengeletzte
+Theil der Hyperbel am andern Ende der Axe ent-
+fteht,” fo find wir der entgegengefetzten Meinung.
+Es wird diels, wo nicht anfchaulicher doch eben fo
+anfchaulich gemacht, wenn man den Schüler auf
+das Nichtparallelfeyn der fchneidenden Ebene und
+des Kegels zweyter Seite, auf deren Convergenz ge-
+en die Seite des Doppelkegels aufmerk{am macht.
+ben fo einfach kann man diefs aus der Gleichung
+
+y'ı=pxt az Ar (a+ x)
+
+wenn man x7a und negativ nimmt, ableiten. . Al-
+les was zum Verftehen erforderlich ift, mufs dem
+Schüler aus der Stereometrie bekannt feyn, Uebri-
+ens {cheint es durch die Erfahrung bewiefen zu
+eyn, dafs dergleichen Maflchine oder andere Mo-
+delle, welche bey dem Unterrichte in der Mathe.
+matik gebraucht werden, leicht einen Nachtheil für
+den Schüler herbeyführen, weil es gewöhnlich der
+Fall ift, dafs die Schüler in der durch die Mafchind
+gemachten Zeichnung, oder in dem Modelle das fu-
+chen, was nur in der reinen Ablftraction liegt.
+
+ 
+

@@ -1,0 +1,136 @@
+243
+
+sterne. S. 154 — 162 behandelt, Eine Tafel endlich
+enthält die wichtigsten Formeln der Goniometrie,
+ebenen und sphärischen Trigonemetrie, gleichsam
+zur Uebung in besonderen Berechnungen,
+
+Diese Uebersicht enthält manche Mifsgriffe, die
+einem consequenten Ideengange vielfach widerspre-
+chen. Der Inhalt des ganzen ersten Capitels gehört
+an und für sich nicht zur mathematischen Geographie;
+das darin Gesagte kann höchstens als Einleitung und
+Grundlage für eine streng wissenschaltliche Behand-
+lung jener dienenz es aber zu einem selhstständigen
+Theile derselben zu machen, geht gegen den Cha-
+rakter der Wissenschaft. Die Verhältnisse des Ka-
+lenders beruhen auf der Bewegung der Erde, mithin
+ist ibre Stellung im Isten Kapitel um so weniger zu
+billigen, als die Gesetze. der Bewegungen unserer
+Erde erst im 3ten Kap, vorgetragen werden,
+
+Die Erörterungen über Kreise und Zonen beru-
+hen mehr auf geographischen Ortsbestimmungen: die
+Entfernungen des Mondes, der Sonne und der übrigen
+Himmelskörper sind nicht mit der täglichen und jähr-
+lichen Bewegung zu verbinden, sondern gehören in
+die allgemeine Kinleitung , wo Ref, auch den gonio-
+metrischen und trigonometrischen Formeln eine Stel-
+le angewiesen hätte, um während des Vortrages dar-
+auf verweisen zu können, Das Kalenderwesen, die
+scheinhare tägliche und jährliche Bewegung nebst
+maäncherlei anderen Erscheinungen gehören zusam-
+men in einen Abschnitt als Folgen der verschiedenen
+Bewegungen der Erde, Ihre Zerstreuung in mehrere
+Kapitel ist ein Verstols gegen Einheit und inneren
+Zusammenhang, gegen logische Consequenz und 5
+setzlichen Ideengang. Nach diesen allgemeinen
+merkungen, deren Anzahl Ref, .noch vergröfsern
+könnte, wenn er sich noch mehr in das Einzelne der
+Anordnung des Stoffes in hesonderen Abschnitten
+einlassen wollte, wendet sich derselbe zu den einzel-
+nen Darstellungen, um hiervon manche als vorzüg-
+lich gelungen oder‘ der Verbesserung bedürftig zu
+bezeichnen,
+
+Was den Vf. dazu berechtiget, die physische
+Geographie mit der physischen Astronomie zu ver-
+wechseln, giebt er nicht anz Ref, kann dieses nicht
+billigen, Wohl gehört die mathematische Geogra-
+phie zur physischen Astronomie, aher die physikali-
+sche Geographie nicht zu dieser; diese Begriffsver-
+wechselung Bütte der Vf, nicht begehen sollen, Die
+Geographie hat an und für sich eine Anleitung zur
+Verfertigung aller Arten von Land-, See- und
+Himmelskarten zu geben und ist in so fern ein Theil
+der physischen Astronomie, Die physikalische Geo-
+graphie betrachtet die Erde als Naturkörper und al-
+les auf ihr Befindliche, hinsichtlich der sogenannten
+Stereographie, Otrographie, Planographio, Oryk-
+tographie, Prödüuetengeographie u. dgl.; erforscht
+aber den Einfluls der natürlichen Agentien auf die
+Erde darum nicht , weil sie alsdann aus dem Gehiete
+der Beschreibung heraustrefen würde, Die Metcoro-
+logie'kann kein Theil derselbe seyn; wohl aber ge-
+hört die Meteorographie in dieselbe, weil sich jene
+
+ALLG, LITERATUR - ZEITUNG
+
+244
+mit den Gründen der atmosphärischen Erscheinu
+
+zu befassen hat, in die Geographie aber blos die
+schreibung derselben go kört, Hydrologie und At-
+mosphärologie sind Haupttheile der Meteorologie,
+Dus Verhältnifs der Astronomie zur mathematischen
+Geographie bezeichnet der Vf, sehr gut, indem blos
+die Beobachtung des Himmels über die matbemati-
+schen Verhältnisse der Erde den erforderlichen Auf-
+schluls geben kann, woraus sich von selbst ergiebt
+dals die Astronomie die Grundlage der mathömati-
+schen Geographie ist; eben darum sollten alle Be-
+ziehungen jener, welche auf diese angewendet wer-
+den, oder zur Begründung einer oder‘ der anderen
+Wahrheit der letzteren dienen, als Einleitung vor-
+ansgehen und die Theorie der einzelnen Theile dieser
+nicht unterbrechen, :
+
+Unter der Ueberschrift ‚tägliche Bewegung”
+theilt der Vf, den täglichen Schein mit, Diese Dar-
+stellungsweise billigt Ref. um so weniger, als der
+Anfänger mit sich uneins gemacht und ihm nicht er-
+klärt wird, in wieflern das Gesagte blofs dazu dient,
+eine Bewegung zu constatiren und als dann zu unter-
+suchen, ob sich die Himmelskörper von Osten nach
+Westen, oder unsere Erde umgekehrt sich bewege,
+Die Planeten sind keine Irrsterne, da sie nach ewi-
+
+en und bestimmten Gesetzen um ihren Fixstern sich
+
+ewegen und in genau berechneten Zeiten ihre Bahn
+durchlaufen, Recht gut sind Höhen und Azimuthe
+nebst Refraction erklärt, Die Formeln aus der
+sphärischen Trigonometrie für die genauere Bestim-
+mung der täglichen Bewegung sind meistens sehr
+gut abgeleitet; die Hauptformeln sind blols angege-
+
+en, woraus der Vf, durch zweckmäfsige und scharf-
+sinnige Combinationen die für die Fundamentälauf-
+gabe, nämlich die Bestimmuhg, ob ein Gestirn sich.
+wirklich in der vorausgesetzten, oder in einer ande-
+ren Bahn bewegt habe, aus sehr vielen Ortshestim-
+mungen desselben (Gestirnes), aus der Berechnung
+des ans der Gleichung hervorgehenden Azimuths für
+jede beobachtete Höhe und aus der Vergleichung die-
+ses berechneten Werthes mit dem beobachteten, er-
+forderlichen Formeln wohl mittheilt, aber es doch
+vorzieht, statt der direkten, zu sehr weitläufigen
+Rechnungen führenden Auflösung eine bequemere
+nach Gaufs zu gebrauchen, Kin Beispiel versinnlicht
+die mitgetheilte Formel,
+
+Mit Klarheit folgert er, dafs der Pol, den man
+
+für den Tagbogen irgend eines Fixsternes findet, zu-
+Jeich derjenige aller anderen ist; dafs die Fixsterne’
+in Folge ihrer Umwälzung um den gemeinschaftlichen
+Pol ihre gegenseitige Stellung nieht verändern, mit-
+hin die Dauer einer vollen Umwälzung für alle die’
+nämliche seyn mulfs u, s, w. Gleich verständlich ist:
+das über Auf-, Untergang und Culmination, über
+Windrose, Sternzeit, Deklination und Rektascen-
+sion Gesagtey einige astronomische Aufgaben über
+die Bestimmung des Azimuths nad der Correction der
+Uhr aus der Rcetascension und Declination des Ster-
+nes, aus der Polhöhe, Höhe jenes und Zeit der Beob-
+

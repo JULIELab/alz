@@ -1,0 +1,136 @@
+fehler stebet@”), wo der Exponent des Divisors
+nämlich einen Theil des Exponenten im Dividenden
+a — >”'’”
+
+hebt, bezeichne man e mit g—m (a@ unter mi-
+
+ 
+
+1
+mus oder negativ m), so dafs mithin g —m = am „”
+
+In Nr. 78 werden sodann Regeln für die Addition,
+die Subtraction und die Mult’plieation an negativen
+Zahlen gegeben, aber, wie sich deutlich genug zeigt,
+nur für Rechnungen an Potenzen , deren Exponenten
+negativ sind, indem auch die Beweise sich nur auf
+die Regeln für Rechnungen an Potenzen stützen,
+Weiterhin im Werke findet man kaum noch Etwas
+yon negativen Zahlen, ausgenommen in Bezug auf
+Logarithmen, und hesonders deren negative Konn-
+ziferh.. Hier dürfte man wohl wünschen, die An-
+sichten zu kennen, welche den Vf, hewogen, den
+Begriff des Gegensatzes und der negativen Zahlen so
+sonderbar und so stiefmütterlich zu behandeln,
+
+‚Aus dem Inhalte der zweiten Abtheilung, den
+Elementen der Zahlenlehre, will Ree, nichts Einzel-
+nes ausheben , und nur bemerken , dafs in dieser Ah-
+theilung, obgleich sie viel mehr Praktisches enthüält,
+als die frühere, so wenig wie im ganzen Werke, eine
+Aufgabe vorkommt, dafs vielmehr Alles, was sonst
+in der Form von Aufgaben aufgestellt zu werden pflegt,
+vom Vf, in die Form von Lehrsätzen eingekleidet wor-
+den ist, welche gewöhnlich ungeführ so klingen:
+Wenn man dieses und jenes thut, so kommt diefs und
+das heraus. Nicht selten füllt der Ausspruch eines
+solchen Lehrsatzes, ohne seinen Beweis, den Raum
+einer ganzen Seite, ja noch mehr; und überhaupt
+führt diels Verfahren zu einer gro(lsen Schwerfüällig-
+keit der Darstellung, Der Vf, wird die Meinung ge-
+habt haben, in einem rein wissenschaftlichen Werke
+dürfe nichts an die Praxis erinnern, Hebt aher die
+von ihm gewählte Zufsere Einkleidung der Aufgaho
+wo den innern praktischen Charakter derselben
+au
+
+Es kommen in dem Werke eine Menge von neu-
+gebildeten Ausdrücken vor, zum Theil gut gewählt,
+zum Theil aber auch wenig passend oder ohne hin-
+reichenden Grund a n/gecte if Z. B. „Grundbezie-
+hungen zwischen Gröfsen”. (die Beziebungen der
+Gleichheit oder Ungleichheit); „Verbundene Grö-
+fsen” (= Polynomien); „ Nach geradem oder unge-
+radem Vervielfachungsgesetze Erhönglg° Gröfßfsen ”
+(für die Beziehungen der directen und der umgekehr-
+ten Regel Detri); „,Vervielfachungszahl; Theilungs-
+zahl; abgeleitete Zahlengröfsen; Gröfsenableitungs-
+Formen; Maafsform; Progressionalgröfsen” (Poten-
+zen, Wurzeln und Ableitungen daraus); „Tren-
+nungszeichen” (das Komma, der Decimalstrich in
+Decimalbrüchen); „Zahlabschnitt, Bruchabschnitt”
+
+der ganze und der gebrochne Theil eines Decimal-
+ruchs) u. s, w,
+
+Dafs der Vf. sein Buch nicht zu einem Leitfaden
+
+für den Unterricht bestimmt hat, gehet schon aus
+
+Num, 93, FEBRUAR 1836,
+
+dem hervor,“ was im Anfange' dieser Anzeige über
+den Inhalt der Vorrede bemerkt wurde, In der That
+wären auch Schüler,- denen man mit Hülfe dieses
+Buchs eine. gründliche Kenntnifs der Wissenschaft
+mittheilen wollte, recht sehr zu bedauern, Einsicht
+und Geist spricht sich, besonders hie und da im Ein-
+zelnen, in dem Buche wohl allerdings aus; jedoch;
+wenn man auch zugeben will, dafs das Bedürfnils;
+welches zu hefriedigen das Werk hestimmt ist, wirk-
+lich ein fühlbares sey, 80 kann man doch mit gutem
+Grunde zweifeln, die(s Bedürfnifs sey durch dasselbe
+in der That auf glückliche Weise befriedigt,
+N.
+
+Uim, b, Ebner, und Bısenacn b, d, Vf,: Anfangs-
+gründe der theoretischen und praktischen Geome-
+ftrie. Von (dem) Reallehrer Profs. Mit vielen
+Abbildungen, 1833, V. u. 4465. gr. 8, (3 Rthl.)
+
+Der Vf, wollte in vorliegendem Buche die prakti-
+sche Geometrie durchaus mit der theoretischen ver-
+binden, und fand sich, wie er sagt, dazu bewogen
+durch die häufig gemachte Erfahrung, dafs die grofse
+Zahl derjenigen, welche die Mathematik niebt in ih-
+rem ganzen Umfange, sondern häufig nur die Geo-
+metrie und Arithmetik ihres materiellen Nutzens
+wegen studiren, an der reinen Theorie entweder we-
+nig Geschmack finden, oder das Gelernte bald wieder
+vergessen, wenn sie nicht auch gleich mit der An-
+wendung bekannt gemacht werden, Aufserdem und
+ganz besonders habe ihn noch der Wunsch vieler prak-
+tischer Geometer bestimmt, ein Werk zu besitzen,
+dafs die Theorie und Praxis soviel als möglich mit
+einander vereinige. Wir aber können eine solche
+Vermengung unmöglich billigen, entweder die reine
+
+‚oder die angewandte Mathematik leidet darunter;
+
+‚denn es ist nicht möglich, bei einer solchen Verbin-
+dung den streng wissenschaftlichen Gang festzuhal-
+ten, den man bei dem Vortrage der reinen Mathema-
+tik mit Recht erwarten kann, Der Vf, hat das selbst
+gefühlt, und ersagt in dieser Beziehung selbst ; „„über-
+all ist mir dieses (die Verbindung der praktischen
+Geometrie mit der theoretischen) nicht gelungen, in-
+dem ich, um Störungen in der systematischen Folge
+des theoretischen Theiles zu vermeiden, das Verthei-
+Jen der Flächen, und theilweise das Punctebestim-
+men mit dem Mefstische in besonderen Capiteln abzu-
+handeln mich genöthigt sah; ebenso mulste ich das
+Messen der Linien und Winkel dem theoretischen
+Theile voranschicken, obgleich dazu mehrmals Sätze
+erforderlich sind, die erst in der Folge vorgetragen
+werden; theils weil diese Aufgaben als Postulate der
+theoretischen und praktischen Geometrie vorange-
+schickt werden müssen, theils weil die zur weiteren
+Ausführung derselben nöthigen Lehrsätze nur zer-
+streut in dem Werke vorgetragen werden konnten,
+und dadurch das Ganze zu sehr getrennt worden wä-
+re.” Aber schon das hitite den Vf, von der Ausfüh-
+rung dieses Planes ahhalten sollen, da es doch nur
+Stückwerk geben konnte, Mehr aber, als die prak-
+
+' tische
+

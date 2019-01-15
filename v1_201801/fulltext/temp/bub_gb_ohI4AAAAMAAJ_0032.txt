@@ -1,0 +1,133 @@
+53 „Num, 7,
+‚ticale Drehungsaxe felt, ‘bringt das Inftrument in
+den Meridian, und beobachtet durch blofse Bewe-
+gung des innern Kreifes, der das Fernrohr trägt,
+die Zenitdiftanzen der Sterne im Meridian, m
+folgenden Tage kehrt man den Kreis im Horizont
+um volle 180 Grade um, bringt feine Ebene wieder
+ja den Mittagskreis, und beohachtet, während dafs
+der äufsere Kreis gehemmt bleibt, die Zenitdiftan-
+zen derfelben Sterne; jede doppelte Zenitdiftanz
+deffelben Sterns, durch Refraction und fofort ver-
+beffert, giebt den Fehler des Infıruments und da.
+mit die wahre Zenitdifianz. Leicht zu erfüllen find
+zwey Bedingungen, welche diefe Methode voraus.
+fetzt, die vnveränderliche Läge des änfsern Kreifes
+egen die grofse verticale Axe des Inftruments, und
+8 unveränderliche Veriicalität der‘ gröfsen Dre-
+hungsaxe. Dafs übrigens an dem äufsern Kreife fich
+während der Beobachtungen nichts geändert hat,
+ift daraus zu {chliefsen, wenn zwifchen den an Ei-
+
+nem Tage genommenen ZenitJitanzen mehrere
+Stunden verfloffen find, und wenu der letzte Stern,
+denfeiben Collimationsfehler, wie der erfte giebt;
+
+in Ofen fand der Vf., dafs fein dreyfüfsiger Multi-
+licationskreis 38 volle Tage den Collimationsfeh-
+er nicht änderte. Nebenbey gewähren die Multi-
+Jicationskreife, auch nach der neuen Methode ge-
+ ravcht. einen Vortheil, den fe vor fefıen Meri-
+dianin{trumenten voraus haben: men kann damit
+die Theilungsfehler des Infıruments unterfuchen..
+Man darf nur zu diefem En!weck, nachdem man
+eine hinreichende Anzabl! Zenitdiftanzen derfelben
+Sterne mit verkehriem Limbus erhalten hat, jetzt
+die Hemmung des äufsern Kreifes löfen, ihn an ei-
+nem andern Orte der Peripherie befeflngen, und im
+diefer neuen Lage diefelben Sterne beobachten;
+allmählig wird man fo von zehn zu zehn Graden die:
+Theilungsfehler beftimmen können, Da die neue
+Methorle des. Vfs.. fo entfchietene Vortheile vor,
+dem gewöhnlichen Multipliciren der Beobachtun-
+
+n hat, fo fchlägt der Vf, vor, dafs die Künftler
+ausdrücklich für diefe Methode eingerichtete Kreife:
+verfertigen follten; die Conftruction würde fehr ver-
+einfacht . und dabey viele Mühe und Geld erfpart
+werden können; der Vf. hofft, dafs feine Idee bald‘
+durch‘ das polytechnifche Inftitut in Wien ausge-
+fhrt werden. dürfte. Eine Hauptbefehäftigung
+des Vfs, nach Uebernahme der Sternwarte war eine
+genauere Beftimmung der Polhöhe: Er bediente
+fch dabey mit febr glücklichem: Erfolge der neuen,
+ihm eigenen, und fchom vor mehreren Jahren vor-
+gefchlagenen Methode den: Polarfıern nicht blofs.
+im Meridian, auch sicht blofs im den gröfsten: Di--
+grefhonem,, fondern in. jedem. Puncte feines Parallel-
+kreifes überhaupt zu- beobachten. Weder ein Feh--
+ler in der Dec!ination eines dem Pole fehr nahen
+Sterns, noch in’der Zeit hat hier‘ einen (onderlich:
+grofsen Einflufs; ein Fehler ‚ter Zeir vom 1” giebt
+die Polhößbe höchftens bis auf 0”, 4 fehlerbaft. Am:
+Beften: (teilt nıan diefe Art Beobachtungen: mit nicht
+multiplicivenden: Kreilen an. Man kann: fch, dabey
+
+JANUAR 1824
+
+54
+folgender Formeln bedienen: Tang, x==Cotang. DD,
+
+Cos. £ und Sin. (p+x) = Cor x: ss wobey d
+
+== Declin. des Sterns, € deffen Stundenwiskel,
+z verbefferte Zenitdiftanz, und p: Polhobe. . Zur
+See und auf Reifen wird. .die Breite nicht fo: genaw
+verlangt; man könnte alfo für felehe Beobachtun-
+en jene Ausdrücke in Reihen aufiöfen und in Ta-
+eln bringen, was bereits zum Behuf der K, Düäni-
+{chen Marine durch die Bemühungen des Contread«
+miral! Löwenörn und des Prof, Schumacher in Kor
+penhagen. gefchehen ift. Auch für fchärfere‘ Beob-
+achtungen auf Sternwarten zeigt der Vf. wie aus eir
+ner ganzen Reihe von Zenitdiftanzen der Circumpa-
+larfterne. das. Mittel für die Polhöhe am Gcherftem
+hergeleitet werden kann. Es ift kein Zweifel, dafs
+die(s neue Verfahren, die Polhöhen zu beftimmen „
+bald allgemein. werden wird. — . Was die Fernröh-
+re betrifft. fo- macht der Vf. auf dem befonderm
+Umf(tand aufmerkfam, dafs bisher nicht alle Künft-
+ler genug RückGchr auf die Centrirung der Fern-
+röhre genommen haben, da doch, wo es an: diefer
+fehlt, das: befte Fernrohr zır einem: fehr' mittelmä-
+fsigen herabfinken kann... Die von Frauenkofer cen-
+trirten Fernröhre haben hierin eigenthümliche Vor-
+züge; fe ftellen auch den. Sirius bey feinem foleb-
+haften. Lichte als wohlbegrenzte runde planetari-
+fche Scheibe dar; in fchlecht centrirten Röhre zei-
+em dagegen die Sterne erfter Gröfse durchaus einem
+ometartigen: Schweif, bey‘ einerm (0: verzogenenı
+Bilde aber kann man nicht nur nicht gut fehen, fon.
+dern auch, bey der UnfGcherheit des Mitte'punets:
+der Erfcheinung, nicht gut beobachten; Ein Mit-
+tel' der Centrirung. find in. den Faflfungen der Glifer
+angebrachte: Schrauben, die um: den ’Mittelpuncer:
+der Gläfer nach allem Seiten: beweglich: fand; die:
+vollkommnere: Art der Centrirung öffentlich be-
+kannt zu machen, bleibt ihrem Erfinder Franenho-
+fer (elbft vorbehalten. Vorzüglich-erfordern Nacht--
+beobachtungen: gut centrirte Gläfer, da: beym' Ge-
+gentheil' das einen: licht!tarken Stern‘ umgebende
+Tage eilChre Licht: viele Beohachtungsfehler‘ veran-
+affem Kann; felbfrt bey Tagbeobachtungen,. wo es:
+öfstentkeils verfchwindet, wird wenigftens dureh
+chlechteentrirte Gläfer’ die Deutfchkeit des Sehens:
+fehr gefchwächt. Sonfr ziehem bereits die meiftem
+Aftronomen',. die mit guten lichtftarken Fernröhren
+verfehen: find, Vergleichungsweife die Tagbeöbach-
+tungen dem Nachtbeobachtungen weit vor, und! der
+Vf. glaubt ,. die (teigende Verhefferung unferer Fern-
+röhre: Jaffe- hoffen, dafs: wir‘ bald‘ der Zeit nahe’
+kommen dürften, wo auch: die Altronomen',. wie:
+bisher andere ehrliche Leute; den gröfsten: Theil ih--
+rer Gefchäfte: bey Tag werden: beforgen: können,
+Nur find für fehlerfreye Tagbeobachtungen: durch--
+aus licht{tarke‘ Fernröhre: erforderlich: dem: bey
+fchwachen greift eine‘ andere: optifche‘ Erfeheinung:
+fiörend ein, die vom Newton zuerft oe IE Spa
+tung des Lichtftrahls,. fo: dafs. in; dem: Augenblicke
+wo: der Faden: über dem zuvor‘ Kelle: und) beftimmt:
+er-
+
+-
+

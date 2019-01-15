@@ -1,0 +1,120 @@
+455
+
+man sperre die Studirenden in Kasernen ein, gebe
+den Professoren ihr Quartier unter ihnen, lasse sie
+zusammen arbeiten, in die Collegia gehen und zur
+Erholung einen ehrbaren Spaziergang mit einander
+machen,
+Erziehung, aber auch der Tod aller Selbstständig-
+keit seyn. —
+(Der Beschlufs folgt.)
+
+GEOMETRIE,
+
+LuvowiecssurG, b, Nast: Lehrbuch der ebenen Geo-
+metrie zum Gebrauche beim öffentlichen und Selbst-
+Unterrichte, Bearbeitet von G, F, Ka
+Praeceptor, erstem Lehrer an der Realschule zu
+Ludwigsburg, 1836. IVu. 15958, 8, (18gGr.)
+
+Der Vf, bemerkt, dafs er die, in diesem Lehr-
+buche befolgte, systematische Anordnung a9 wählt
+habe, wie siesich ihm aus dem gegebenen Stoffe selbst
+am natürlichsten zu entwickeln schien, Er sey des-
+halb von der Euclidischen Behandlungsweise der Pa-
+rallellinien, wie Ohm und Fischer in ihren Lehrbü-
+chern, abgewichen, und habe diese ganz nach der
+Fischer’schen Darstellungsweise bearbeitet, Was
+nun den Werth der vorliegenden Arbeit anbelangt,
+so ist Rec, der Meinung, dafs solche Bearbeitungen
+einzelner Theile der reinen Mathematik für die Wis-
+senschaft von keinem Werthe seyen, da der Unter-
+richt an einem Gymnasium sowohl, wie an einer
+Realschule von Anfang bis zu Ende, wenn er gedei-
+hen soll, nach einem und demselben Plane ertheilt
+werden mufs, Wer wollte wohl für Quarta und Ter-
+tia das eine, für Secunda ein anderes, für Prima
+wieder ein anderes Lehrhuch zu Grunde legen! Und
+das müfste doch geschehen, da das Buch weder die
+Stereometrie, noch die Trigonometrie umfafst, Ab-
+
+esehn davon ist das Buch gut, d, b, die. Auswahl
+m Sätze zweckmälsig, die Beweise fast durchaus
+streng, und die Sprache deutlich und klar, Im Kin-
+zelnen haben wir freilich Manches zu bemerken ge-
+funden, So hätten X $. 3 u. 4 die Flüchen als Gren-
+zen des Körpers, die Linie als Grenze der Fläche,
+der Puncet als Grenze der Linie dargestellt werden
+müssen, Die Anmerkung zu $, 13: ‚den rechten
+Winkel denkt man sich gewöhnlich in 90 gleiche
+Theile getheilt, und nennt alsdann jeden solchen
+Winkel einen Grad,” gehört.gar nicht hierher; die
+Eintheilung in firade. gehört der Kreisperipherie
+an, und ist erst Yon dieser auf die Winkel am Mit-
+telpuncte übertragen. Der Schwierigkeit der Paral-
+Jelentheorie sucht der Vf, durch einen bereits oben
+angedeuteten (Gang auszuweichen, Kr erklärt näm-
+Jich parallele Linien durch solche gerade Linien in
+
+A, L. Z. Num, 134, JULIUS 1836.
+
+Das in der That würde der Triumph der
+
+456
+einer. Ebene, welche , oline sich zu” decken, einerlei
+Richtung haben, stellt dann’den Lehrsatz auf, dafs,
+wenn zwei gerade Winkel (soll ohne Zweifel ,„Linien”
+heilsen) von einer dritten so geschnitten werden, dafs
+entweder irgend zwei correspondirende Winkel gleich
+sind u, s, w., dann jene beiden Linien parallel seyen,
+Diesen Lehrsatz beweist er dann so: „da die Wint
+kel gleich sind ; so hat der eine Schenkel'des ersten
+Winkels gegen den gomeinschaftlichen Schenkel die
+nämliche Richtang, welche der eine Schenkel des
+zweiten Winkels gegen denselben hat, folglich sind
+diese beiden Schenkel parallel.” ‚Man sieht indessen
+leicht, dafs damit der Uebelstand mehr künstlich
+versteckt, als gehoben ist. Mangel an Praecision
+des Ausdruckes ist es,‘ wenn der Vf, $. 36 sagt:
+„wenn man in einem Dreiecke eine Seite verlängert)
+so ist.der dadurch entstehende Aufsenwinkel so grofs,
+als diejenigen beiden Winkel im Dreiecke zusämmen-
+enommen, welche nicht seine Nebenwinkel sind.” "Der
+atz $, 95, dafs zwei Dreiecke gleich seyen, wenn
+sie gleiche Grundlinie und Höhe Gaben) bedurfte kei-
+nes besonderen Beweises, wenn ein für allemal
+zeigt war, dafs’ein Dreieck, welches mit einem Dez
+ral Ar a gleiche Grundlinie und gleiche Höhe
+hat, die Hälfte desselhen seyz ein Satz, welcher
+recht wohl unabhängig von jenem’ bewiesen werden
+konnte, Der Lehrsatz $, 102, „wenn eine Linie äus
+zwei Theilen besteht, so ist ihr Yuadratso grofs, "als
+die Quadrate der beiden Theile nehst dem doppelten
+Rechtecke aus den beiden Theilen,” ist eigentlich nur
+ein Zusatz zu $, 79, „wenn man in einem Parallelo-
+gramme, durch einen beliebigen Punet der Diago-
+nale, Parallelen mit den Seiten des Parallelogramms
+zieht, so wird dasselbe in vier Parallelögramme- ge-
+theilt, von welchen diejenigen einander gleich sind,
+durch welche die Diagonale nicht geht.” Leicht war
+zu zeigen, dafs die beiden anderen, ‘in dem Fälle,
+wo das ganze Parallelogramm ein Quadrat ist, hach
+Quadrate'seyn missen, und dann gab’$ich‘$. 102 von
+selbst, Der falst sechs Seiten lange $, 167, in wel-
+chem die Grundlehren der Proportionen vorgetragen
+werden , 'gehört gar nicht in die Geometrie, rUn-
+terricht ist vielmehr so zu ordnen , dafs der Schüler
+in der Arithmetik schon soweit fortgeschritten sey,
+wenn er an dieses Capitel der Geometrie kommt, dafs
+er es ohne Weiteres verstehen kann, Die Form des
+Beweises $, 172 scheint verfehlt, denn er beginnt,
+wie ein indirecter, endigt aber wie ein directer Be-
+weis, Billigen können wir es endlich nicht, wenn
+der Vf, sich des Ausdrucks ‚, Loth” statt Pe N-
+dikel, „verzeichnen,” „spitziger Winkel,” "bedient ;
+eben so wenig, wenn er „, Perpendickel” schreibt. —
+
+Papier und Druck sind gut, M.
+
+EA
+

@@ -1,0 +1,134 @@
+1149
+
+Univerhtäten die erften Anfangsgründe der höhern
+Mathematik, warum follte man diefes alfo nicht auch
+in der angewandten‘ thun? —. Dankbar wird hiebe
+
+die Beriutzung der claffifchen Werke von Euler, Ey-
+telwein, Ide, Käftner, Karften, Kraft, Langsdorf
+und Promy, erwähnt. In einer Einleitung werden
+die Grundbegriffe der Mechanik entwickelt: z. B.
+von Materie, Körper, Maffe, Volumen, Dich
+Ort, Bewegu » Ruhe, Kraft; auch einige Lehn-
+fätze das Trägheitsgeletz betreffend. Dann wieder
+Begriffe von Hindernifs, Widerftand, Druck, Be-
+wegungsbelftreben, Gleich- und Uebergewicht , feft,
+biegfam , elaftiich, hart, weich. Endlich werden
+
+die G a} Phoronomie, Mynamik, Mechanik
+und Statik, fcharf und richtig beftimmt. Die
+Gegenftände felbft find in folgender Ordnung abge-
+
+handelt: Erftlich vom Gleichgewichte der Kräfte am
+Hebel überhaupt, und dann befonders .am geradli-
+nigten und ‚Winkelhebel.. Grundlehren der Bewe-
+gung. Die Bewegung-eines Punctes und die Bewe-
+gun als Wirkung. einer oder. mehrerer Kräfte auf
+je Kiatte des Körpers. Von der Zulammenfetzung
+und Zerlegung der Kräfte, fowohl wenn deren Rich-
+en in Einer, als wenn fe in verfchiedenen Ebnen
+legen; auch wenn fe an, biegfamen Fäden oder an
+einer Axe wirken. Von der Schwere der Körper.
+Vom Schwerpuncte, wo auch Gwldia’s empirilche
+Regel durch die Integralrechnung erwiefen wird.
+Vom Einfluffe der Schwere auf biegfame Fäden. Ei-
+fchaften der Kettenlinien und Aufgaben die fch
+arauf beziehen. Vom Verhalten fcuwerer felter
+Körper auf wagrechtem Boden. Hier die voll(tändige
+Theorie von der Feftigkeit des Standes der Körper;
+beym freyen Falle; auf einer fchiefen Ebne und auf
+vorgefchriebenen krummen Wegen. Von der’umdre-
+henden Bewegung, Von der Beftimmung des Moments
+der Trägheit eines. gegebenen Körpers für eine be-
+ftimmteAxe. Von derSchwungbewegung des Pendels,
+Von der Umdrehung eines felten Körpers um (eine
+freye, oder Hauptaxe. Von der Zufammenfetzung und
+Außöfung der Winkelgefchwindigkeiten,wo man auch
+die "Theorie des einft fo beliebten omjon de Nor-
+mandie finden kann. Vom Stulse feflter Körper. Von
+elaftifchen Linien. Bey der Abhandlung diefer Leb-
+ren zeigt. fch auch hier die-dem Vf. ganz eigenthüm-
+liche Nettigkeit und Präcifion im Vortrage. . So fetzt
+er den Unterfchied zwilchen Cartefifchen und Leibnitzi»
+n Kräftemafse, was fonft fo’ viel Verwirrung ver-
+
+) fste, hier mit grofser Deutlichkeit auseinander;
+cht bemerklich ,. dafs die Cefchwindipleiten bey
+cdlem einen etwas ganz anders bedeuten , als bey dem
+andern: denn bey dem Leibmritzilchen Mafse gehö-
+ren zu den Gefchwindigkeiten verichiedene Zeiten,
+aber einerley Räume, und bey. den: Carteffchen' ver-
+£fchiedene Räume, aber einerley Zeiten, uud hierin
+liegt der Grund, dafs beide einander nicht wider-
+fprechen. Eine ähnliche Ausgleichung wird bey den
+Celetren des Stofses vollkommen harter Körper_nö-
+thig. Indem nämlich hier die Veränderung der Ge-
+fchwindigkeiten plötzlich gefchieht, fo widerfpricht
+
+Num:; 144. DECEMBER 1889.
+
+1150
+folches offenbanadem Gefetze der Stetigkeit, welches
+gleichwohl bey dem bisherigen Unterfuchungen im-
+mer zum Grunde lag, und deshalb $. 33. ausdrück-
+lich aufgeftellt wurde. Der Vf, bemerkt, dafs des-
+halb einige Mathematiker die Möglichkeit vollkom-
+men harter Körper geläugnet haben pn aber, meynt
+er, follte man auch die Wirklichkeit” unvollkommen
+harter Körper nicht zugeben. Ferner werde, wie
+{chon Boscowich bemerkte, doch der Widerfpruch
+nicht aufgehoben, indem noch immer, fowohl bey
+elaftifchen als unelaftifchen, aber unvollkommen har-
+ten DE die Gefchwindigkeit der fich zuerft
+unmittelbar berührentien Theile plötzlich verändert
+werden mülste. Manche Mathematiker haben
+deshalb die Allgemeinheit des Gefetzes der Stetig-
+keit bezweifelt. Der Vf. bemerkt, dafs dieler Ge-
+genftand eigentlich in das Gebiet der Phyfik gehöre
+und legt deshalb feine Anficht nur kurz vor. Es
+fcheint ihm der Begriff eines vollkommen harten
+Körpers, wie man ihn bisher beym Stofse annahm,
+unrichtig: man ftellte fich nämlich unter der voll-
+kommenen Härte nur die Unmöglichkeit des Ver-
+rückens aller Theile aus ihrer Lage, alfo blofs’etwas
+Negatives vor, da man doch bey dem Stofse, wo
+eine äufsre Gewalt die Lage zu verändern ftrebt, auf
+die Kräfte hätte Rücklicht nehmen follen, wodurch
+diefer felte Zufammenhang in einem folchen Grade
+bewirkt wird, dafs er vollen Widerftand leiftet,
+Wenn man fich ohne ein beftimmtes Verhältnifs von
+Attractiv - und Repulfivkräften keine beftimmte
+Form eines Körpers denken könne, fo könne man
+ewifs eben fo wenig von diefen Kräften bey dem
+tofse, wo eine äufsere Gewalt diefe Form zu ver-
+ändern {trebt, abftrahiren. Aus diefer unrichtigen
+Vornellung folgte unmittelbar, dafs man die mathe
+matifche , d. i. unmittelbare Berührung der beiden
+Körper beym Stofse zur nothwendigen Bedingung
+ihrer wechlelleitigen Einwirkung annahm, und hier-
+aus mufste fich nothwendig ergeben, dafs fich die
+Gefchwindigkeiten bey der Berührung harter Körper
+Totzlich veränderten, welches aber auch der Fall
+ey unvollkommen harten Körpern, fe mögen unela-
+ftifch oder elaftifch feyn, in Beziehung auf jene Thei-
+le, die fich zuerft berühren, feyn würde. Nähme
+man hingegen mit Boscowich beym Stofse der Kör-
+per auf ihre Repulfivkräfte Rückficht, fo werde zu
+ihrer werhfel(eitigen Einwirkung nicht mathematifche,
+fondern nur phyhfche Berührung nothwendig; — fo
+bald nämlich die Körper in die Sirkungsfphäre der
+Repulfvkräfte träten, fo wirkten felbige gegeneinan-
+der; diefer gegen felige Druck werde um fo gröfser, .
+je näher die Körper einander kämen; dadurch wür-
+den die Gefchwindigkeiten nur allmählig, mithin dem
+Gefetze der Stetigkeit gemäfs, verändert und da-
+durch aller Widelpruch aufgehoben. Legte man
+diefe Anfıcht bey der Theorie zum Grunde, fo blie-
+ben die für die elaftifchen' Körper aufgeftellten
+
+„Gefetze,. fo. wie ihre Deductionen ganz unverän-
+
+dert, nur dafs ftatt der mathematifchen, die phy-
+filche Berührung fubftitnirt werden müfle. Die
+\ ; wei-
+

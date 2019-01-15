@@ -1,0 +1,150 @@
+223
+
+Um auch ats diesem Bande eine. Probe zu geben,
+theilen wir. hier. $. 153 mit, Ist X eine: Function
+von x und Xdz ein’ Differentialausdruck 4 welcher
+nach. den vorhergehenden Kapiteln ‚nicht vollständig.
+integrirt werden kann; so giebt es glücklicherweise
+noch Mittel, ein solches Integral approximativ zu
+bestimmen, und es ist dieses um so. wichtiger, ala
+diejenigen Fälle, in welchen sich eine gegebene Dif-
+ferentialformel genau. integriren lälst, leider noch
+bei weitem den kleinsten Theil ausmachen, Kin sol-
+ches und zugleich vorzügliches Mittel besteht darin,
+die gesuchten Integrale durch Reiben auszudrücken,
+welche dann um 80 brauchbarer werden, je conver-
+genter sie sind. Diese Methode ist äufserst einfach;
+denn hat man X in eine endliche oder unendliche
+Reihe nach Potenzen von x entwickelt, so reducirt
+
+sich die Bestimmung des Integrals /Xdx sofort auf
+
+die Integration einer Reihe von Monomesn, . Ist
+nämlich '
+
+m mA n m+2n \
+A=4Ar +Bx + Cr + 00009 SO
+wird
+
+fxdz=Afz" dx Bfan ar iu
+
+= Arn-+! Bratn+t+! Crm-+1In+t!
+
+7 m+1 m+n+1 "m+2n+I1
+Ist z. B. das Integral /- ri durch eine Reihe aus-
+zudrücken, so ist:
+
+ 
+
+zZ +...., folglich
+
+= +5 +44.)
+
+ 
+
+x z ar
+= — nl
+
+es ist also dieses Integral durch eine unendliche
+Reihe ausgedrückt, welche für alle Werthe von
+x< a bis 5 = a convergirt, Da man aber dieses In-
+tegral auch genau, und zwar logarithmisch bestim-
+men kann, indem rn = /.(a +x)+ C’ ist, so
+hat man zugleich auch , da C—C/ wieder eine unbe-
+stimmte Constante ist: x
+= 1(x\., 1/xzx\ x \+
+Latrz)=5—3(5)+ (3) (3)
+C.
+
+Zur Bestimmung der Constante € setze man £ = 0,
+so wird ans dieser Gleichung : I. a = (}), folglich,
+wenn man diesen Werth für € substituirt, auch
+
+L(a+z)=La+ 5 — > (5)+ : (1)- een
+
+oder wenn man transferirt und berücksichtigt, dals
+L(a+xz)— 1. a=1 ( - 5) = (1 + a) ist,
+
+endlich .
+
+pr Qs HHE-HEFE
+
+eine Reihe, welche mit jener, die wir im ersten
+
+ 
+
+ 
+
+A, L4Z, : Num, 103,
+
+JUNIUS 1836,
+
+Bande entwickelt habep, ge
+fünften Kap, behandelt den V
+
+224
+
+yu übereinstimmt. Im
+, die Integration der Aö-
+
+‚heren Differentialausdrücke Einer, und der Partial-
+
+differentiale; mehrerer Variablen, Kap, 6: von der
+Integration der vollständigen, dann homogenen Dif-
+ferentiale zweier oder mehrerer Variablen der ersten
+Ordnung. Kap, 7: Anwendung der bisher entwik-
+kelten. Integralformeln auf die Rectification und
+Quadratur der ebenen Curven; Quadratur oder Com-
+glnafion der _krummen Oberflächen, und Tubatur
+er von solchen Flächen begrenzten Körper. Kap.8:
+von der Integration der Diflerentialgleichungen der
+ersten Ordnung zwischen zwei Variablen. Kap. 9:
+von der Integration der Differentialgleichungen der
+ersten Ordnung, in welcher höhere Potenzen von dx
+und dy vorkommen; dann von den. besonderen oder
+particulären Auflösungen, Kap, 10: Auflösung ei-
+niger geometrischen. Aufgaben, welche auf. die In-
+tegration. von Differentialgleichungen zwischen zwei
+Variablen führen. Den Beschlufs macht ein Anhang,
+welcher die Elemente der Variationsrechnung enthält,
+Druck und Papier sind lobenswerth, M.
+
+DRAMATISCHE LITERATUR,
+Lemzic, b. Brockhaus; König Eduard’s Söhne,
+Trauerspiel in; drei Aufzügen, Nach Casimir
+Delavigne für die deutsche Bühne bearbeitet von
+Dr. G, Ritter v, Frank. 1835, 16458, 8, (18gGr.)
+
+Es war Lessing, der uns anrieth, aus dem Aermel
+des Riesen uns Kleider zu machen, und hier bietet
+uns Hr. Dr, 6, Ritter v. Frank, ein Deutscher, solch
+ein Röcklein dar, von dem Franzosen Casimir Dela-
+vigne aus dem Aermel des gewaltigen Shakspeare’schen
+Richard HI. sanber herausgeschnitten und nach fran-
+zösischem Zuschnitt sattber genäht, — Das grofse
+Trauerspiel, in welchem ein ganzes herrliches in vie-
+len Spröfslingen blühendes Königshaus untergeht, ist
+hier zu einer sentimentalen Intrigue eingeschrumpft,
+zu einem hürgerlichen Schauspiel. Der französische
+Dichter hat den grausen Mord der Söhne Eduard'’s
+IV — (welche der Titel auch als solche hätte be-
+zeichnen sollen , da es mehrere Eduarde gegeben hat)
+— durch den Schlächter seines ganzen Stammes, ih-
+ren Oheim Richard III, herausgehoben, Von der
+imposanten Gröfse der Shakspeare’schen Conception
+keine Spurz wohl aber viel Anlals zur Rührung,
+und dieser gut benutzt, so wie die Charakteristik —
+(nur nicht der abgenutzte Zug, dafs dem Tyrrel
+selbst ein Sohn zugelegt wird, um ihn für eine rk
+zu interessiren) — zu loben ist, Die Sprache ist
+edel, der Dialog gröfserntheils ungezwungen, an et-
+
+reifenden Situationen und an Effecten fehlt es nicht,
+die Bühnen - Oekonomie ist wohl beachtet, besonders
+auch darin, dals nur zwischen den einzelnen Aufzü-
+gen die Veränderung des Schanplatzes fällt, — und so
+zweifeln wir keineswegs an dem Erfolge auf der Büh-
+ne, wie sie nun einmal gegenwärtig ist, die unter der
+Last des Britischen Kolosses einbrechen würde, —
+Das französische Original ist uns nicht bekannt,
+

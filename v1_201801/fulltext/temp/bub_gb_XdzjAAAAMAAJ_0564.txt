@@ -1,0 +1,132 @@
+3198
+
+zu betrachten habe, und dafs man die Summe ihrer
+Producte, nachdem jedt® Kraft vorher durch das Dif-
+ferenzial der refpectiven Diftanz zwifchen den beiden
+Grenzen jeder Kraft, d. i. zwilchen dem Pancte wor-
+auf diele Kraft wirkt, und dem. wovon fe ausgeht,
+multiplicirt worden, nehmen mülfle, indem man zu-
+gleich bey diefen Differenzialen alle die Gröfsen als
+veränderlich anfıeht, die von der Stellung des Sy-
+ftems abhängen, und alle die als beftändig, die fich
+auf die äufsern oder Mittelpunkte beziehen. Setzt
+man nun diefe Summe = o, fo erhält man die all-
+emeine Formel für das Primcip des Gleichgewichts,
+Um diefelbe analytifch auszudrucken, ift die einfach-
+{te Methode die fıch darbietet die , dafs man die Stel-
+lang‘ aller Puncte des gegebenen Syfltems auf recht-
+ iuklichte, dreyen Axen parallele, Coordinaten be-
+zieht. Werden die Coordinaten für die Mittelpuncte
+der Kräfte mit @, b, c, bezeichnet, fo ergiebt fch
+leicht, dafs die Diftanzen p, q, r u. f. w. allgemein
+durch folgende Formel ausgedruckt werden N Onnen :
+Vi (x—.0 — bb) > z-—6e)? ] wo die
+Größen a, D ee beine find, An doch
+wenigftens fo angefehen werden mülfen, während
+x, yı = in dem Falle varüren, wo fe fich auf fefte,
+aufserhalb des Syltems befindliche, Puncte beziehen;
+aber diefe Gröfsen a, b, c werden x” u. L. w. y”“ u:
+f. w. zz” u. f. w. und folglich veränderlich,. in dem
+Falle, wo die Kräfte von einigen KO des Sy-
+- ftems felbft ausgehen. Hat man auf diefe Art die
+Ausdrückungen der endlichen Gröfsen’p, q, ru. £.
+w. in bekannten Functionen der Coordinaten der ver-
+{chiedenen Körper des Syltems, fo hat mae nur nö-
+thig auf die gewöhnliche Art zu differenziren, indem
+man diefle Coordinaten als veränderlich annimmt.
+Auf diefe Art erhält man die gefuchten Werthe der
+Differenzialen dp, dq, dr u. f.w. die in der allgemei-
+nen Formel des Gleichgewichts vorkommen. Im fol-
+nen kommen noch allgemeinere Methoden, die
+ifferenzialen dp, dg, dr u. 1. w. auszudrücken, zum
+Vorfchein. 3ter Abjchnitt. Allgemeine, aus der am
+Ende des vorigen Abf/chnitts gefundenen Formel her-
+geleitete Eigenfchaften des Gleichgewichts. Es er:
+giebt fich hier der Lehrfatz, beim Gleichgewicht ei-
+nes freyen Syltems muß die Summe der Kräfte, die
+nach der Richtung der drey auf einander fenkrech-
+ten Axen gefchätzt werden, in Anfehung jeder die-
+fer Axen ==0o feyn. Auch die Grundfätze von der
+drehenden Bewegung, vom Schwerpunete und von
+Maypertuis Geletze A Ruhe, werden hier entwi-
+clelt. ater Abf/chnitt. Eine fehr einfache Methode
+die nöthigen Gleichungen für das Gleichgewicht ei-
+nes Syltems von Körpern zu finden, die als Puncte
+oder als endliche Mailen anzufehen find, und durch
+gegebene Kräfte frz 0grn werden. Die Regel ift fol-
+as Man nehme die Summe der Momente aller
+räfte die im Gleichgewichte feyn follen, und addi-
+re dazu die verfchiedenen Differenzialfunetionen «ie
+nach den Bedingungen der Aufgaben Null feyn müf-
+fen; jede diefer Functionen multiplicire man durch
+einen unbeltimmten Co&fheienten und fetze alles ==o,
+fo erhält man cine Differenzialgleichung die man wie
+
+” Num. 141. NOVEMBER 1869;
+
+r1a6
+
+eine gewöhnliche, de Maximis et Minimis , behandeln
+mufs, und woraus man fo viele einzelne endliche Glei®
+chungen zieht, als veränderliche Gröfsen vorhanden
+find; befreyt man endlich diefe Gleichungen von den
+unbeftimmten Co#fhcienten, fo werden fıe alle die
+für.das Gleichgewicht nöthigen Bedingungen geben.
+ster Abfchnitt, Äuflöfung verfchiedener ftatilchen Auf-
+oe Der Vf. kommt hier unter andern auf die
+jerher gehörigen Lehrfätze von Leibnitz und Rober-
+wal. 6ter Abfchnitt. Von den Grundlehren der Ay-
+droflatik. Da die Theile’der füfigen Körper, mit
+welchen es übrigens eine Bewandtnifs haben mag
+welche es will — , materiell find, fo müflen auch die
+allgemeinen Gefetze des Gleichgewichts auf fe an-
+wendbar feyn. Sie unterfcheiden fich auch nur in
+der Eigenfchaft von den feften Körpern, dafs alle ihre
+Theile dem geringften Drucke weichen. Da fich nun
+diefe Eigenichaft eicht durch den Calcul ausdrucken
+Jäfst, fo erfordern die Gleichgewichtsgefetze der flüf-
+figen Körper keine befondere Theorie, fondern find’
+nur-ein befonderer Fall der allgemeinen Theorie der
+Statik; indeffen läfst der Vf. Ser wieder eine kurze
+Gefchichte der hydroftatifchen Grundfätze, (einen An-
+wendungen vorausgehen, wo die archimedifchen wie
+der den Anfang machen. Dann kommt Steviy, Ga-
+Hli&, Grandi, des Cartes, Pascal, Huyghens, New-
+ton, Bouguer, Clairant, Maclaurin, d’Alembert. Des
+Gefetzes von den virtuellen Gefchwindigkeiten hat
+fich Galilä ebenfalls fchon bedient, um die hydro-
+ftatifchen Sätze zu erweifen, und Pascal bewies dar-
+aus die einfachfte und allgemeinfte Eigen(chaft der
+flüflßgen Körper; nämlich, dafs irgend ein an einem
+Punkt ihrer Oberfläche angebrachter Druck, fich
+leichförmig nach allen andern Puncten verbreite.
+Gafer Vf. bemerkt aber, dafs es nicht nöthig fey,
+diefe Eigenfchaft aus der Erfahrung zu nehmen, for-
+dern, dafs man die darauf Bezug habenden Gefletze
+aus der Natur der flülßgen Körper felbft herleiten
+könne , indem man fie als eine Menge von Theilchen
+betrachte, die wenig Verbindung unter einander ha-
+ben, gar nicht von einander abhängen und nach al-
+Jen Richtungen volikommen beweglich find. Dieles
+wollte der Vf, in den folgenden Ab/chnitten zu bewir-
+ken füuchen und blofs das allgemeine Grundgefetz des
+Gleichgewichts dabey anwenden, deffen er fıch fchon
+bey den feften Körpern bedient. Er glaubt mit,Recht,
+dafs diefer Theil feiner Arbeit nicht nur eine der
+fcehönften Anwendungen diefes Princips geben, fon-
+dern auch dazu dienen werde, die Theorie der Hy-
+droftatik in manchen Stücken zu vereinfachen. Im
+ım Abjchnitt gefchieht diefes vorerft mit den unprefs-
+aren, und im achten mit den elaltifchen Flüfigkei-
+ten, womit üch der ıße Theil (chliefst. Der zweyte
+welcher die Dymamik enthält, betrachtet im erffen Ab-
+[chnitt die verfchiedenen Grundlehren derfeiben. Sie
+ift die Wiffenfchaft der befchleunigenden und ver-
+zögernden Kräfte und der verfchiedenen darans ent-
+Trringenden veränderlichen Bewegungen. Man hat
+16 ganz den Neuern zu verdanken und Galil#$ legt
+dazu den erftien Grund. AHuyghens vervollkommnete
+
+und ergänzte auch diefe Galiläi’'fche Eutderlcon
+urch
+

@@ -1,0 +1,138 @@
+Annahme, aufgestellt werden, welche in folgenden
+
+Abtheilungen enthalten sind: 1) vier Gleichungen,
+; deren jede aussagt: ungleichartigeGegenwinkel sind
+gleich” u, s. w, Es läfst sich kaum verstehen, was
+damit gemeint seyn soll, Sollte-ein‘Schüler, wenn
+der Vf, 6. 58 sagt: „wenn zwey Dreyecke in einer
+Seite und den anliegenden Winkeln übereinstim-
+men, 80 sind sie congruent und stimmen auch in
+den übrigen Stücken überein,” nicht dafür halten
+können, zwey Dreyecke könnten congruent‘ seyn,
+ohne in allen ‘Stücken übereinzustimmen? Der in
+$. 71 angegebene Satz hätte erschöpfend folgender-
+mafsen ausgedrückt werden sollen: zwey Dreyecke
+sind congruent, wenn zwey Seiten des einen zwey
+Seiten des andern gleich sind, und wenn sie zwey,
+
+leichen Seiten gegenüber liegende Winkel gleich
+
+aben, und entweder in einem Dreyeck. der der
+andern der gleichen Seiten gegenüber liegende Win-
+kel ein rechter ist, oder in beiden die den andern
+. der gleichen Seiten gegenüber liegenden Winkel
+
+spitz oder stumpf sind. In 6. 75 wird behauptet,
+zwey Kreise berührten einander, ohne dafs vorher
+der Begriff der Berührung festgestellt worden ist.
+
+In der zweyten Abtheilung begegnet man zwar
+auch mebrerem, welchem es an wissenschaftlicher
+Schärfe fehlı , wie z.B. wenn $. 288 der vierte Lehr-
+satz über die Aehnlichkeit der Dreyecke in drey
+und’mehr Theile gespalten und doch nicht vollstän-
+dig angegeben wird; wenn $. 247 gesagt wird:
+
+zwey ähnliche Vielecke haben auch einen Verhält-
+nifsex onenten der Vielecke, der sowohl das-Ver-
+hältnils der Inhalte der Vielecke selbst ausdrückt,
+als auch das Verhältnifs zweyer homologen Dreyecke
+u. s. w.”, weon in demselben Paragraphen.ein Ver-
+hältnils = m gesetzt wird; wenn $. 250 krumme
+Linien einander ähnlich genannt werden, während
+früher zum Begriff der Aehnlichkeit zweyer Figu-
+ren Gleichheit der Winkel und Proportionalität der
+Seiten gefodert wurde. — Gleichwohl mufs Rec,
+die Reichhaltigkeit dieser Abtheilung, besonders
+desjenigen Theils rühmen, welcher yermischte Sätze
+Hd Aufgaben enthält... Er zeichnet besanders das-
+
+jenige-aus, was über die merkwürdigen Punkte ei-
+
+nes Dreyecks, d.h, die Durchschnitte der von den
+Winkelspitzen zu den Halbirungspunkten der Ge-
+enseiten gezogenen, oder auf dieselben perpendi-
+Kular gefällten geraden Linien, und die Mittelpunkte
+der in oder um die Dreyecke beschriebenen Kreise,
+was darauf von den Linien, welche von den Win
+kelpunkten durch irgend einen Punkt in der Ebene
+des Dreyeckes gezogen werden, von Transversal-
+linien, von der harmonischen Thbeilung der Linien,
+und von den sogenannten Polen und Polaren eines
+Kreises, den Ach
+sen, radicalen Punkten und Aehnlichkeitspolaren
+gesagt ist. Es legt dieses Alles ein rühmliches Zeug-
+nifs von dem Fleifse und der Sorgfalt ab, mit wel-
+cher der Vf. die Schriften der neueren französischen
+Mathematiker studirt hat, -
+
+ALLG. LITERATUR - ZEITUNG
+
+nlichkeitspunkten , radicalen Ach-
+
+800
+
+Der zweyte Theil der Schrift enthält zuerst eine
+Sammlung geometrischer Aufgaben, welche alge-
+braisch bebandelt sind. Sie sind wolıl gewählt, und
+die Resultate sind in ihrer geometrischen Bedeutung
+nachzuweisen versucht. Das hat bekanntlich, so-
+bald sich negative Ausdrücke für gesuchte Linien,
+Flächen oder Körper finden, seine eigenthümliche
+Schwierigkeit, Der Vf, hat eine-eigene Schrift über
+den Gegensatz positiver und negativer Gröfsen ge-
+schrieben und vielfältig darüber nachgedacht. Er
+hat auch vieles beygebracht, was Rec. für völlig
+richtig hält, aber ganz befriedigt hat er ihn nicht.
+Für einen sehr glücklichen Gedanken z. B. hält er
+es, dafs der Vf., um die Secanten und Cosecanten
+der Bogen zu bestimmen, eine in dem Endpunkte,
+nicht in dem Anfangspunkte, des Bogens an den
+Kreis gelegte Tangente verlängert, bis sie der Ver-
+längerung des durch 'den Anfangspunkt des Bogens,
+oder den Endpunkt des zugehörigen Quadranten
+gelegten Diameters begegnet, Dadurch gelangt man
+dahin, dafs die Secanten, oder Cosecanten aller Bo-
+gen auf denselben Durchmesser fallen, und sie er-
+scheinen in einerley, oder entgegengesetzter Rich-
+tung, je nachdem sie mit einerley, oder verschie-
+denen Zeichen versehen sind. Aber dem kann Nec.
+nicht beystimmen, was der Vf, über Deutsamkeit
+und Nichtdeutsamkeit der Zeichen + — sagt. Rec.
+wird in der Meinung immer mehr befestigt, dafs das
+Zeichen — immer etwas zu bedeuten hat, so oft es
+die Algebra vorbringt, dals es, wenn von Linie die
+Wede ist, immer eine Linie bezeichnet, welche der
+mit dem Zeichen + versehenen gerade entgegenge-
+setzt liegt, dafs Aehnliches gilt, wenn es sich auf
+Flächen oder Khan bezieht, und dafs dabey nie-
+mals an etwas Willkürliches in der Erklärung zu
+denken ist. Rec. meint auch, es könne gar nicht
+anders seyn, weil die Algebra keine nichts sagende,
+überflüssige oder falsche Antwart auf eine ihr vor-
+gelegte Frage geben kann, und weil die Antworten
+der Geometrie und der Algebra auf das genaueste
+übereinstimmen: müssen. Doch der Raum verbietet,
+dieses hier weiter zu erörtern. Es habe deshalb
+bey diesen allgemeinen Andeutungen sein Bewenden.
+
+Es folgt die Lehre von den geometrischen Fun-
+ctionen und ihre Anweridung auf die Berechnung
+von Dreyecken, Vierecken und Vielecken. Der
+Vf. geht, wie Recht ist, bey der Definition der tri-
+gonometrischen Linien vom Kreise aus, und zeigt,
+wie es damit genau übereinstimmt, wenn man die
+Exponenten der Verhältnisse der Seiten eines recht-
+winkeligen, Dreyecks mit den Namen Sinus, Cosi-
+nus u, 5. W. belegt, hängt seiner Schrift eine kleine
+Tafel an, welche die Zahlen für die Sinus, Cosinus
+u. s. w, der Winkel den Radius = 1 gesetzt, von
+Grad zu Grad, bis zum Quadranten auf fünf Deci-
+malstellen enthält , und eine andere, worin die Lo-
+
+rithmen der Sinus, Cosinus u, s. w. für den Ra-
+aus = 10000000000 auf 5 Decimalstellen verzeich-
+net sind, lehrt die Einrichtung einer Logarithmen-
+tafel kennen, und zeigt die Anwendung der vorge-
+tra -
+

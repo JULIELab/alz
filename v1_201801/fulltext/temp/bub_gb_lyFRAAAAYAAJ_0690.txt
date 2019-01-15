@@ -1,0 +1,135 @@
+251 Num., 33.
+von fehr grofser Abweichung, und beträgt z. B. für
+die Rectalcenfon des Polarfterns im Meridian 6”, 4
+unter der Polhöhe so° und 7”, 6 unter der Polhöhe
+
+o°. Nach einer Abhandlung von Camerer in den
+Schriften der Erfurter Akademie von 1797 giebt der
+
+‘Vf. auch noch Formeln und Tafeln für gewilffe Ver-
+be/ferungen der berechneten Aberration, die wegen
+veränderter Rectafe. und Declination des Sterns nö-
+thig werden; es läfst fch hieraus beurtheilen , wie
+weit man die für einen Stern berechneten Aberra-
+tionstafeln theils für nahe ftehende Sterne, theils für
+frühere oder fpätere Zeiten ohne merklichen Fehler
+
+ebrauchen kann. Einen eigenen fehr ausführlichen
+bfchnitt hat der Vf. der Aberration der Planeten
+und Kometen gewidmet; für die erftern, auch Ceres,
+
+Pallas und Juno nicht ausgenommen, find befondre
+Formeln und Tafeln berechnet. 5) Durch die Nuwu-
+tation der Erdachfe wirdidie gleichförmige Wirkung
+der Abnahme der Schiefe der Ecliptik und der Prä-
+cefGon unterbrochen; (vergl. oben No. 1. und 2.)
+Das Verhältnifs der beiden Achfen der Nntations-
+ellipfe fetzte Bradley wie 9” zu 6", 7; Mafkelyne
+etwas genauer wie 9”, 35 zu 7,10. Es ift nach
+neueren Theorieen von La Place der wie 10”, 055664
+zu 7”, 48562, oder wie von Zach mit einiger Ab-
+
+‚änderung der Laplacefchen Mondsmaffe findet,
+wie 9”, 6480 zu 7”, 1822. Aus diefem letzten
+Verhältniffe berechnet der Vf. mit der Schiefe der
+Ecliptik 23”, 28’ die Nutation für die Schiefe der Ecl,
+9”, 6480 cofin. N. (wenn N == Länge des Mondkno-
+ten) und für die Länge der Geftirne 18”, 03584 Sin.
+N. (Rec. findet mit unbedeutender Aenderung den
+letzten Co&fficienten 18”, 03593). Diele Formeln ge-
+ben den erften Theil der Nutation , der von der La-
+ge der Mondknoten abhängt; aus ihnen werden fer-
+ner die verfchiedenen Ausdrücke für den erfren Theil
+der Nutation in gerader ESS und Abwei-
+chung hergeleitet, und auf diele Ausdrücke zweyer-
+ley Tafeln der Nutation gegründet, einmal folche,
+bey welchen noch eine Multiplication mit der Tang.
+Declin. erforderlich ift, und die im Vol. I. nach der
+Hypothefe des Vfs. für das Verhältnifs der Nutations-
+ellipfe, im Vol. IL aber nach der Laplacefchen Hy-
+pothefe berechnet find, und dann folche, welche,
+mit Vermehrung der Argumente, jene Multiplica-
+tion überflüfig machen. Achnliche Ausdrücke und
+
+Tafeln, wie bey der Aberration', zeigen die Aende-
+rungen der Nutation, wenn Rectafcenfion und- De-
+elination fich um etwas ändern. Noch giebt es ei-
+nen zwweyten Theil der Nutation , der von der perio-
+dilchen oder jährlichen Stellung der Sonne herrüsrt,
+und den der Vf. ebenfalls mit befonderer Sorgfalt
+unterfucht und praktifch bearbeitet hat. Der Vf. fin-
+det, mit Anwendung der Formeln die Euler in den
+Comment. Petropol. giebt , auf neuere Elemente den
+zweyten Theil der Nutarion aller Geltirne in der
+Länge — 1”, 12198 Sin. 2 L (wenn L_die Länge der
+Sonne vorftellt) und den zweyten Theil der Nuta-
+tion für die Schiefe der Ecliptik + u”, £oo2 Cohn,
+al. Da die Präcefüon der Länge der Sterne durch
+
+MÄRZ 118176.
+
+‘ 2623
+
+jenen zweyten Theil der Nutation geändert wird, 18
+erftreckt fich diefe kleine Aenderung auch auf die
+geraule Auflteigung und Abweichung, wofür hier
+eigene Formeln entwickelt werden; zugleich aber
+wird bemerkt, dafs man diefe Aenderung auf eine,
+leichtere Art dadurch finden kann, wenn man den
+erften Theil der Nutation injRectafe. und Deelin.
+mit dem Decimalbruche 0,0622: multiplicirt. Unbet
+deutend für den Calcul find die folgenden Correctio-
+nen, die nach Euler einen dritten Theil der Nuta“
+tion ausmachen würden, und von der Länge des
+Monds, 1, abhängen, nämlich für die Präcellion ik
+der Länge der Ausdruck — 0”, 1007 Sin. 21 und für
+die Schiefe der Ecliptik +0", 0362 Cof. 21+0",0198
+cof, (21-4 N). 6) Der übrige Cheil der Einleitung
+im erf{ten Bande enthält theils einige Zulätze, welche
+Methoden und Formeln für die Berichtigung des
+Mittagsfernrohrs, auch Ausdrücke unıl zum Theil
+"Tafeln für die Entfernung der Planeten von der Er-
+de, ihre Horizontalparallaxe und fcheinbare Durch-
+meffer betreffen, theils vollftändige und mit Beyfpie-
+len belegte Erläuterungen über die zweyte Hälfte
+diefes erften Bandes, die aus verfchiedenen Stern-
+verzeichniflen un! altronomifchen Tafeln von S, 1 —
+CLVI. befteht. Rec. kann diefer Tafeln, die einen
+fehr wichtigen Theil des Ganzen ausmachen, hier
+nur noch kurz erwähnen. Voran fteht: a) Mafkely-
+ne’s Verzeichnifs von 36 Fundamentalfternen , nach
+ihrer geraden Auflteigung auf 1802, fammt den vom
+Vf. hinzugefügten Unterfchieden der beiden älteren
+Catalogen von 1770 und 1790. Declinationen eben
+diefer 36 Sterne nach Mafßfkelyne für das Jahr ı802,
+fammt den Differenzen des Englifchen Catalog’s von
+1770 und des Piazzilchen im J. 1803 erfchienenen
+(den neueften Catalog von Piazzi auf 1895 kannte der
+Vf. nicht benutzen), auch den Verbeflerungen der
+Mafkelynefchen Declinationen von Bürg durch eine
+veränderte Refraction, wodurch die Sternabwei-
+chungen in Greenwich den in Palermo beobachteten,
+merklich näher gebracht werden. . Beygefügt find
+Mafkelyne’s ausführliche Aberrations-" und Nutd-
+tionstafeln für jeden einzelnen Stern in der Recta-
+fcenfion und Declination. b) Eigene vom Vf. berech-
+nete Tafeln für die Aberration und Nutation des
+Polarfterns auf die Jahre 1795, 18c0, 1810 und 1820.
+c) Verzeichnifs, einiger Fixiterne, die beynahe glei-
+che gerade Aufflteigung und Abweichung» aber Jetz-
+tere von entgegengeletzter Benennung haben, zur
+Beftimmung der Deviation eines Mittagsfernrohrs,
+d) Von Zach's neuer Cataloz von 1830 m Zodiakalfter-
+nen, nach mittlerer gerader Auffteigung in Zeit und
+im Bogen auf 1800, fammt der jährlichen Präceffon
+und fr Differenz mit Piazzi"s 1803 erfchienenem
+Verzeichnifs. Diefer treffliche Catalog ilt die Frucht
+vieljähriger Beobachtungen auf der Erneltinifichen
+Sternwarte; die obengedachten 36 Hauptiterne lie-
+gen dabey mit der Modification zum Grunde, dafs
+alle Mafkelynefchen Rectafcenfonen des Catalog’s von
+1790 nicht blofs, wie Mafkelyne felbft es wollte, mit
+
+3”, 8 im Bogen, fondern nach Piazzi und Bürg’s Un.
+; ter.
+

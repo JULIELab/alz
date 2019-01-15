@@ -1,0 +1,133 @@
+643
+
+allgemein durch Buchftaben bezeichnet, fo wie man
+zuweilen Perfonen, die man nicht nennen kann oder
+will, mit 4, B u. f. w. bezeichnet. Diefe Bemerkung
+geht auch. die Vff. von Nr. ı u. 2, an. Hrn, W. hat die
+irrige Vorftellung von einer Rechnung ‚mit Gröfsen
+überhaupt fogar verleitet (S.37 Anm:) von der Mul-
+tiplication einer Fläche mit einer Linie zu reden, ein
+Ausdruck, deffen man fch in einem {ftrengwiffen-
+{chaftlichen Lehrbuche jetzt durchaus nicht mehr
+bedienen follte, wenigftens nicht ohne die eigentli-
+che Bedeutung defflelben, die nur eine Zahlenopera-
+tion ift, anzugeben. Bey Hro. W. fällt derIrrthum
+um fo mehr auf, da er ($.60) felbft fagt, dafs bey
+jeder Multiplication wen la (1203 der eine Factor eine
+unbenannate Zahl feyn mülfe. — Die in diefem Ab-
+fchnitte angegebenen Rechnungsvortheile fnd alle
+recht gut und brauchbar, wenn fchon nicht neu, —
+Äbfchnite 2. - Von den bisherigen vier Rechnungsar-
+ten mit ganzen Gröfsen, die Sch auf verfchiedene
+Einheiten beziehen, jedoch auf einerley Einheit oder
+auf gleiche Namen gebracht werden können. —
+Der 7 befchränkt fich auf die in der Provinz Oeft-
+reich. üblichen Münzen, Maafse und Gewichte. —
+Abfchn. 3. Voo den Re hnungserier mit gleichna:-
+mıyen gebrochenen Gröfsen oder Zahlen. — Die
+Regeln zur Aufäindung des gröfsten gemeinen Maa-
+{ses und kleinften gemeinen Dividui gegebener Zah-
+jen werden auch hier ($.97 u. ff.) ohne Beweife ih-
+rer allgemeinen Gültigkeit vorgetragen und blofs
+an Beyfpielen erläutert. — Abfchn., 4. Von den
+bisherigen vier Rechnungsarten mit gebrochenen
+Größen oder Zahlen, die fich auf verfchiedene Ein-
+heiten beziehen, jedoch auf einerley Einheit ge-
+bracht werden können. — Etwas weitfchweißg. —
+Äbfchn. 5. Von den Decimalbrüchen, Das ganz
+Gewöhnliche. — ÄAbfchn. 6, Von den zulammen-
+hängenden oder Kettenbrüchen. — Weniges ganz
+EKlementarifche über Auffindung der Näherungswer-
+the folcher Brüche, deren Zähler und Nenner Prim-
+zahlen zu einander find. — Zweytes Haupetftück.
+Von der allgemeinen Rechenkunfit oder Algehra.
+Abjchn. ı. Einleitung in die Algebra. eber
+«ie Unrichtigkeit des auch bier immer gebrauchten,
+Ausdrucks: Buchftabenrechenkunft hat fich Rec,
+Ichon ausgefprochen. Was der Vf. über a
+geletzte Gröfsen fagt, hätte fich kürzer und doch
+_ wenigftens eben fo beftimmt fagen laffen, Ab/chn.a2.
+Von den bisherigen vier Rechnungsarten der alge-
+braifchen Gröfsen; — Auch hier gilt die eben ge-
+machie Bemerkung. — Den’ Ausdruck — 4X —3
+findet der Vf. (S.123) ungereimt; allein, wenn man
+nur die Multiplication richtig erklärt, fo ift diefer
+Ausdruck gar nicht ungereimt. Er fagt nämlich aus,
+dafs aus — 4 eine neue Gröfse fo gebildet werden
+foll, wie — 3 aus dem primitiven + I ent/tanden iflt,
+ı. i. durch drey Mal wiederholte Subtraction von 0;
+abero— (—4-4A-4A)=-+34. Eben (o ift auch
+der Ausdruck — 4: - 5 nicht, wie der Vf. (S. 129)
+meint, ungereimt, fondern wird fogleich klar, wenn
+man die Divifona als Auffachung einer Gröfse an-
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+
+644
+
+fieht, welche-mit dem Divifor multiplicirt zum Pro-
+duct den Dividendus giebt. — Abfchn. 3. Von
+den bisherigen vier ‘Rechnungsarten mit algebrai-
+
+” fchen gehrochenen Gröfsen. — Drittes Haupt ftück,
+
+Von den Potenzen und Wurzeln. Ab/chn. ı. Von
+den Potenzen. Unbegreiflich ift uns wie der Vf,
+—3—3-—-3=-—3.(—-3) =-+9 und +9
+=-+9. (—3) = —127 Bnden könne. A
+man nicht ein, warum der Vf, erft hier erklärt, was
+Potenz heifse, da er doch fchon vorher mit Ausdrü-
+cken wie a'* b” und dergl. rechnen gelehrt hat. Ganz
+gegen den gewöhnlichen Sprachgebrauch ift es,
+wenn der. V x 174- fagt: „Solche Zahlen, aus wel-
+chen fich die Wurzeln genau angeben laffen, werden
+rationale Zahlen genannt.‘ Bekanntlich heifsen
+dergleichen Zahlen vielmehr vollkommene Quadrate,
+vollkommene Cubi u. {. w., Ausdrücke, deren der Vf.
+fch auch felbft fpäterbhin zuweilen bedient, z. B.
+S. 161 und 163. Dagegen fchlägt Herr WV. (6.176. )
+vor, Producte wie a X —a unvollkommene Po-
+tenzen zu nennen, und hält fch dadurch für berech.
+tigt -+a und —=a zu fetzen (6$.177.). —
+Dafs jede Potenz eines eigentlichen A % d. bh.
+eines folchen, de(fen Nenner nicht in dem Zähler
+aufgeht) wieder ein eigentlicher Bruch fey, wird
+$. 181. nicht ftreng genug erwiefen, ein Vorwurf,
+der die Werke Nr.2 und 3, wie wir hier nachträg-
+lich erinnern wollen, gleichfalls trifft; —' Abfchn.a,
+Von der Beftimmung der Wurzeln aus gegebenen
+Potenzen. — Das Gewöhnliche fehr weitfchwei-
+fig, aber ohne hinreichende Allgemeinheit ‚und
+Gründlichkeit. — Abj/chn, 3. Von den Rechnungs-
+arten mit Wurzelgröfsen, — Dafs die für Potenzen
+mit ganzen Exponenten geltenden Rechnungsregeln
+auch für Potenzen mit gebrochenen Exponenten gel-
+ten, wird auch bier nicht bewielen. — Viertes Haupt-
+Jeück. — Von den Gleichungen und ihrer Anwen:
+dung auf die Auflöfun verlaitiedener Aufgaben. —
+Abfchn. x. Von den Gleichungen und ihrer Auflö-
+fung. Der Vf. nennt Theile einer Gleichung (S. 194)
+was man fonft gewöhnlich Seiten derfelben nennt;
+eine höhere Gleichung ift nach dem Vf. ($.223.) eine
+folche „worin die daraus zu beftimmende.Gröfse in
+verfchiedenen Potenzen vorkommt.“ Wie wird der
+Anfänger diels damit vereinigen, wenn es gleich
+darauf heifst „eine höhere Gleichung heilst rein,
+wenn die zu beftimmende Gröfse nur in einer ein-
+zigen Potenz in der Gleichung erfcheint?‘‘ — Un-
+wahr ift, was der Vf. ($ 231.) fagt, „wenn bey ei-
+ner geordneten quadratılchea Gleichung der zweyte
+Theil derfelben negativ ift, fo mufs in jeder (olchen
+Gleichung die zweyte Potenz der unbekannten Grö-
+fse negativ feyn. Auch ift es völlig fallch, dafs die
+Wurzeln der Gleichung x? +3x = - 18 feyen x=
++6 und x = —3, da Ge vielmehr beide imaginär
+find. Freylich hat Hr, WW. bis dahin von imaginären
+Gröfsen noch gar nichts gefagt, und hat fehr Un-
+recht, wenn er ($.232, S. 206) behauptet, dafs ima-
+ginäre Gröfsen keiner ferneren Rechnung unterzo.
+gen werden können, und dafs es daher auch nicht
+' nö*
+
+N Z0t =
+

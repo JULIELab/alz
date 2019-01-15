@@ -1,0 +1,117 @@
+003
+Abschnitt, welcher von der-Congruenz der Dreiecke
+handelt, 2ter Abschn, S. 49—62: von den Parallel-
+linien. 3ter Abschn, S, 63—85: vom Kreise, 4ter
+Abschn, S. 86 —107: vom Fliächenmafse der Viel-
+ecke, ihrer Verwandlung und ihrer Theilung, ter
+Abschn. S. 108—130: von der Aehnlichkeit der
+Vielecke und der Theilung der Figuren, 6ter Ab-
+schn. S. 131— 145: Aufgaben über die regelmäfsi-
+gen Vielecke. 7ter Abschn, S, 146—162; Aus-
+messung der Peripherie und der Kreisfläche, Jeder
+Abschnitt, aufser dem 6ten, zerfällt in zwei Theile,
+so dafs im ersten blofs Lehrsätze, im zweiten Auf-
+gaben vorkommen, die vermittelst der vorausge-
+schickten Lehrsätze aufgelöst werden, Dieses Ver-
+fahren hat seine grofse Unbequemlichkeit, und er-
+schwert den Gang des Vortrags aufserordentlich,
+Im Ganzen ist dem Vf, Scharfsinn der Darstellung
+nicht abzusprechen , aber Rec, zweifelt sehr, ob die
+hier befolgte Methode mit andern, und namentlich der
+Euklidischen, an Leichtigkeit wetteifern könne, Am
+meisten hätten wir an der Einleitung auszustellen
+und gerade hier sollte mathematische Schärfe un
+Genauigkeit am wenigsten fehlen, So heifst es S.7:
+„Realdefinitionen oder Sacherklärungef beziehen
+sich auf einen Gegenstand selbst, dessen Beschaffen-
+heit sie angeben.” Das ist geradezu unrichtig, und
+schon der andere Name derselben: „genetische Er-
+klärungen” hätte den Vf, eines Bessern belehren
+können. „Verbaldefinitionen oder Worterklärungen
+haben es mit keinem Gegenstande , sondern mit dem
+ihn bezeichnenden Worte zu thun; sie geben an, was
+man sich unter dem Worte zu denken habe, und
+hleiben sogar richtig, wenn der Begriff des Wortes
+dem Gegenstande nicht genau entspricht.” Was soll
+sich der Schüler bei dieser Erklärung wohl eigent-
+lich denken? S. 14: „der Lothwinkel kann zum
+Maf(sstab aller Winkel gebraucht werden; da inde(s
+dieser Mafsstab Unkequemlichkeiten hat, 80 theilt
+man den Lothwinkel in 90 gleiche Theile, die man
+Grade nennt” u. s, w., Abgesehen von dem Aus-
+drucke „Lothwinkel”, den Rec, aus der reinen. Ma-
+thematik ganz verbannt wissen möchte , mufste diese
+Bemerkung, wenn sie von Nutzen seyn sollte, erst
+‚bei oder nach der Lehre vom Kreise gegeben werden,
+$. 16 kommen mehrere Erklärungen in folgender
+Ordnung: 1) „ein Quadrat ist ein regelmäfsiges Vier-
+ock. 2) Ein Rechteck ist ein Viereck, dessen vier
+Winkel einander gleich sind, (Ist nicht einmal rich-
+tig, da das angegebene Merkmal auch auf das Qua-
+drat pafst.) 3) Ein Parallelogramm ist ein Viereck,
+dessen gegeniüberstehende Seiten parallel sind,”
+Rec, glaubt, erst komme das Genus, und dann die
+
+Species, Von dem andern Uebelstande bei dieser W
+
+letzten Erklärung ist schon oben die Rede gewesen,
+
+ERGÄNZUNGSBLÄTTER Num, 87. SEPTEMBER 1834,
+
+Dergleichen Ausstellungen könnten wir noch‘ meh-
+rere machen, eine aber darf um sv weniger übergan-
+gen werden, da der Vf, hier offenbar einen Fehler
+gemacht hat, den er in der Folge nur durch einen
+andern, durch Ungenauigkeit nämlich, verdecken
+konnte. Der Vf, sagt nämlich S, 19: „eine gerade
+Linie, welche durch einen Punkt der Peripherie
+eht, und mit dem nach diesem Punkte gezogenen
+Aandius einen Lothwinkel bildet, heiflst eine Tan-
+gente,” Diese Erklärung ist durchaus verkehrt, da
+sie der Merkmale zu viele giebt, Soll nämlich in
+der Folge bei einem vorkommenden Falle bewie-
+sen werden, dafs eine Linie eine Tangente sey, so
+hätte nun ‚der Vf, zweierlei zu beweisen: erstens
+dafs sie den Kreis nur in einem Punkte treffe; und
+zweitens, da(s sie perpendikular ‚auf dem Endpunkte
+des Halbmessers stehe. Der Vf. begnügte sich aber
+sehr natürlich mit dem Letztern, Darum mulste es so
+heifsen; jede gerade Linie, die beliebig verlängert,
+den Kreis nur in einem Punkte trifft, ıhn also nur
+berührt, nicht schneidet, nennt man eine Tangente,
+Dann mufste der Lehrsatz bewiesen werden: jede
+erade Linie, die perpendikular auf dem Endpunkte
+er Halbmessers steht, berührt die Kreisperipherie
+nur in einem einzigen Punkte, Wenn dann in der
+Folge von einer Linie bewiesen wurde, dafs sie
+perpendikular auf dem Endpunkte eines Halbmes-
+sers stehe, so.konnte nun mit Recht geschlossen
+werden, dafs sie eine Berührungslinie,sey. S, 27
+wird bei einer Hülfsconstruction verlangt, dafs man
+einen Punkt eines Dreiecks mit der Mitte der gegen-
+üiberliegenden Seite durch eine gerade Linie verbin-
+den solle. Wie aber eine gerade Linie zu halbiren
+sey, ist noch nicht gezeigt worden, S, 28, in dem
+Kapitel von der Congruenz der Dreiecke kommt
+der Lehrsatz vor: „wenn zwei Winkel einander
+gleichen, so sind auch ihre Nebenwinkel einander
+leich,” Um diels zu beweisen, macht der Vf, die
+chenkel derselben erst gleich, und legt sie dann
+auf einander, Wozu das Erstere? Wird nicht der
+Schüler dadurch offenbar auf den Gedanken hrt;
+dafs die Gleichheit zweier Winkel durch die Gle
+heit ihrer Schenkel bedingt s[ Ungleich besser
+sind die letzten Abschnitte behandelt, worin man
+mehr findet, als in den gewöhnlichen Lehrbüchern
+der Geometrie gegeben zu werden pflegt, Da in-
+dessen beim mathematischen Vortrage Arithmetik
+und Geometrie Hand in Hand gehen müssen, also
+neben diesem Buche noch ein Lehrbuch der Arith-
+metik den Schülern gegeben werden müfste, so
+möchten seiner Einführung auf Schulen, bei dem
+ohnehin hohen Preise eutende Hindernisse im
+ege stehen, Druck und Papier sind gut, die
+Steintafeln desgleichen, M,
+
+ 
+

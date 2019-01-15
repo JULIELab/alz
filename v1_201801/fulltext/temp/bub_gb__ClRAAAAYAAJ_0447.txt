@@ -1,0 +1,133 @@
+22
+
+den gegehenen Punkten  äuf diese Gerade’ gefällten
+Perpendikel Null’wird, Aufl,:; ‘bezeichnet -män die
+Coordinaten der gegehenen Punkte, deren Antzuht
+= n seyn’soll, auf irgend ein rechtwinkliges Coordi-
+natensystem bezogen, der Reihe nacH durch x’, y’,
+0 y, EU y, ..., und die Gleichung der ge-
+suchten geraden durch y =ar+ d....( 1; so sind
+die aus Den Punkten r’, y‘, x”, y'', .... auf diese
+Gerade ( 1 gefällten Perpendikel der Reihe nach:
+
+p*= Az El
+V i+a? V 1+a?
+ad :
+Vi +a?
+
+Man hat also züfolge der gegebenen Bedingung
+P+P' +P' +... =0, oder wenn man für p’,
+pP", +4. suhstituirt, der Kürze wegen y' +y" +'y'“
++00 = En Ta ....= X x’ setzt,
+und- zugleich die ganze Gleichung mit dem gemein-
+schaftlichen Nenner V 1+ 2a? multipliert‘! X y/ —
+az —nb=0,....(2. Da man aber zwischen
+den unbestimmten Gröfsen a, b nur diese einzige
+Gleichung hat, so ist die gegebene Aufgabe wieder
+unbestimmt, und es giebt sofort unzühlig viele ge-
+rade Linien , welche die Aufgabe befriedigen. Sucht
+man darunter, als einfachsten Fall, diejenige, wel-
+ehe durch den Ursprung gebt, wofür 6 = o wird;
+
+so hat man aus (2 a = =, und also aus (1 die
+Gleichung dieser Geraden: A
+Zzy' . Ay Ay nn
+
+= ads (Pe)
+Kap. 5: Umwandlung oder Transformation der Coor-
+dinaten. Kap. 6: Ableitung der Gleichungen der
+Ellipse, Hyperhel und Parabel. Kap. 7: über die
+Linien zweiter Ordnung , oder die geometrische Be-
+deutung einer Gleichung des zweiten Grades zwi-
+schen zwei verlinderlichen Gröfsen, Kap, 8: über
+die Identität der Linien zweiter Ordnung mit den
+Kegelschnitten. Kap. 9: über die besonderen Eigen-
+schaften der Kegelschnitte oder Linien zweiter Ord-
+nung. Kap, 10: Construction der Gleichungen des
+zweiten, dritten und vierten Grades zwischen zwei
+veränderlichen Größen x, y, nebst ihrer Anwen-
+dung auf die Auflösung einiger Aufgaben, Der Vf,
+geht sodann im zweiten Abschnitte dieses Bandes
+über zu der analytischen Geometrie im Raume, oder
+auf drei Coordinaten bezogen. Kap, 1: Bestimmung
+der Lage eines Punktes im Raume; Gleichungen der
+Ebene, der geraden Linie und des Punktes, Kap.2:
+Verbindung der geraden Linien und Ebenen unter
+einander durch Auflösung von Aufgaben über die
+Gerade und Ebene, Kap.3: Umwandlung der Coor-
+dinaten im Raume, Kap. 4: von den krummen Flä-
+chen überhaupt und den cylindrischen, conischen,
+windschiefen und conoidischen inshesondere, Fol-
+erungen für die Curven von doppelter Krümmung,
+ap. 5: über die geometrische Bedeutung einer Glei-
+chung des zweiten Grades zwischen drei Variablen,
+
+Nüum, 105, - JUN FUSS 1836,
+
+222
+
+oder Diseussion' der Flächen ‘zweiter Ordnuhg:;: Be-
+rührungsebenen dieser Flächen; MDewl dritte: Band
+enthält entlich‘ die‘ Differential - und Integralrech-
+nung. ‘Anfangs beabsichtigte der Vf, jener noch'ein
+eigenes Kapitel über die verschiedenen’ Ansichten
+und darauf gegründeten Principien der Differential-
+rechnung, nebst den aus ihrer Vergleichung sich er-
+gebenden Bemerkungen beizufügen, , Da jedoch die-
+ser ‘Band schon die anfangs. bestimmte Bbgenzahl
+überschritt , so sah er sich genöthigt, dieses itel
+einem besonderen: Werke vorzubehalten, in welchem
+er sich denn überhaupt über das Wesen und die 80-
+genannte Metaphysik des vielfältig besprochenen und
+beanstandeten Differentialcaleuls weitläuftiger, als
+es hier. möglich gewesen wäre, zu verbreiten gedenkt,
+Wir geben auch hier’ eine kurze Uebersicht des In-
+haltes. Abschp, 1 :, die Difflerentialrechnung, Kap. 1:
+von der Differentiation der Funetionen einer Varia-
+blen, .Kap.2: Ableitung‘ des Taylor’schen, Maclan-
+rin’schen und Lagrange’schen Lehrsatzes, Der Vf,
+bemerkt hier richtig, dafs die Anwendbarkeit der
+Taylor’schen Formel sich offenbar auf die Voraus-
+setzung gründe, dafs sich f(r+ Ah) in eine Reihe
+nach ganzen, positiven Exponenten von A entwickeln
+lasse; und dals, so lange unbestimmt bleibe, die[ls
+auch, immer und ohne Ausnahme der Fall sey; dafs
+dagegen, wenn der Variablen x bestimmte Werthe
+beigelegt werden, es allerdings geschehen könne,
+da(ls die Entwickelung von I (5 +) für einen sol-
+chen besonderen Werth, z.B, für z= a, wenigstens
+von einem gewissen Gliede an, nach negativen oder
+gebrochen Eyponenten von A fortschreite , und eine
+
+ntwickelung nach ganzen positiven Potenzen von A
+rein unmöglich sey, Kap,3: von der Differentiation
+der Functionen mehrerer Variablen, Die partiellen
+Differentiale, Das Taylor’sche Theorem auf zwei
+veränderliche Gröfsen ausgedehnt, Kuler’s Lehrsatz
+über die homogenen Funetionen, Kap. 4: von der
+Diflerentiation der Gleichung mit zwei oder mehreren
+veränderlichen Gröfsen, Kap. 5: Anwendung der
+Differentialrechnung in der Analysis, Kap.6: An-
+wendung der Differentialrechnung auf die Theorie
+der Ebenen Curven oder krummer Linien von einfa-
+cher Krümmung. Kap, 7: Uebertragung mehrerer
+im Vorhergehenden entwickelten Ausdrücke auf Po-
+larcurven., Kap. 8: Anwendang der bisher entwik-
+kelten Sätze auf einige ftranscendente Curven, Kap. 9:
+Anwendung der Differentialrechnung auf die Theorie
+der krummen Flächen und Curven von doppelter
+Krümmung. Abschnitt 2: die  EteCrelreebhung,
+Kap. 1: von der Integration der algebraischen Diffe-
+rential — und zwar A) der rationalen und RB) der
+irrationalen Functionen einer Variablen, oder Be-
+
+stimmung des Integrals / Xdr. Kap. 2: von der
+
+Integration der binomischen Differentialformeln: x»
+dx (a + ba") p. Kap. 3: von der Integration ei-
+niger transcendenten Differentialformeln. Kap. 4:
+von der Integration mittelst Reihen und innerhalb
+bestimmter Grenzen; allgemeine Näherungsmethrds,
+
+m
+

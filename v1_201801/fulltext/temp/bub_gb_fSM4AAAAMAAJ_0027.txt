@@ -1,0 +1,141 @@
+43
+1
+druck ö geht, wenn er mit endlichen Ausdrücken in
+
+Verbindung tritt, in 0 über, und somit ist die Be:
+hauptung gerechtfertigt.” Wie sollen wir dies ver-
+
+stehen? Der Vf, sucht den Werth von = für die-
+
+Voraussetzung dafs 7 = 0 ist, indem er’Zühler und
+Nenner differenziirt, und den Quotienten der Diffe-
+
+renziale statt des ursprünglichen Ausdrucks setzt,
+Mit welchem Rechte thut er dieses aber?. Wenn -
+
+für die Vorgussetzung X = 0 sich auf 5 reducirte, so
+wäre das Verfahren ganz richtig, und würde mit
+dem Bekannten übereinstimmen, Da sich aber als-
+dann auf 5 reducirt, so ist gar nicht abzusehen,
+
+was hier die Differenzialrechnung leisten kann.
+Würde dert Vf. sein Verfahren auf ein anderes Bei-
+spiel angewandt. haben, so würde er gewils selbst
+
+essen Unstatthaftigkeit bemerkt haben, Man nehme
+
+nur das einfache Beispiel zZ = cot.x, 80 hat man
+
+ano 0.0= © ; würde man aber differenziiren,
+
+so hätte man dcoss = —einzdr, dsinz = cwsxrdsx,
+
+nad
+also — Z55 = -—fgx, und für den Wertl. x =0o
+Ze —1gu=0 oder coto=-—1go was ein com-
+pleter. Unsinn ist, So lange uns daher der Vf, nicht
+auf eine schlagendere Weise von der Richtigkeit sei-
+uver Behauptung überzeugt haben wird, werden wir
+
+bei der Meinung verharren, dafs 3, in welcher Ver-
+
+bindung es auch vorkommen möge, immer =0 ist,
+Wir müssen daher allem, was in diesem $. vorkommt,
+widersprechen, Während der Vf. hehauptet, dafs
+; = für die Voraussetzung x = 0, den Werth A =
+
+hat, so behaupten wir, dafs sein Werth = co ist,
+
+ 
+
+und während er Z für = 0 als mit Sn iden-
+tisch ansieht, so behaupten wir, dafs sein Werth = 0
+ist, In 8, 51 bestimmt der Vf, anch noch den Werth
+von v* a°, den er = a setzt, Denkt sich der Vf£. die-
+
+ses Vz als aus Var entstanden, indem man x = 0
+gesetzt hat, so stimmen wir mit ihm überein, Ent-
+
+0 /z .
+steht aber V'z° aus V*z(Fx) für die Voraussetzung ,
+
+dafs In und Fr zu gicher Zeit Null werden, so ist
+der Werth dieses Ausdrucks nicht immer derselbe,
+
+und =@ So z, B. wird V3'= @2 seyn, auch
+wenn x = 0 gesetzt wird, Der Vf. hätte daher zwi-
+
+a £
+schen Vz> und Vz AM unterscheiden sollen, so wie
+er zwischen 2 und 5 unterscheidet, Um die Wer-
+
+ALLG, LITERATUR - ZEITUNG
+
+a
+
+the der Ausdrücke Te zu finden, wendet der Vf, ne-
+ben der Differenzialrechnung, die bekänntlich nicht
+
+"in allen Fällen ausreicht, noch eine andere Me-
+
+thode an, die wir zwar nicht mit dem Vf. für neu
+halten können, im Gegentheil ist sie schon viel-
+fach früher angewandt worden, wir wollen z, B,
+nur auf Z/’Huilier's bekanntes Werk, über die Dif-
+ferenzialrechnung verweisen; jedoch ist es dan-
+kenswerth, dafs sie der Vf, wieder angeregt hat, da
+sie wirklich ziemlich vergessen zu seyn scheint. Er
+entwickelt nämlich zuerst den Werth von R in eine
+Reihe, die nach Potenzen von x fortschreitet und
+multiplicirt das Resultat mit Fr, nachdem diese Funk-
+tion ebenfalls in eine solche Reihe entwickelt worden
+ist, und substituirt alsdann erst statt x den Werth,
+durch welchen, Fr und fr auf Null reducirt werden,
+Zuweilen ist es auch hinreichend dafs nur der Zühler
+ouer der Nenner in eine Reihe aufgelöst wird. Rec;
+Psult übrigens, dafs diese Methode noch eine vor-
+
+ereitende Untersuchung erheischt., Will man niäm-
+lich statt Fr und fr die entwickelten Reihen hrau-
+chen, so mufs man sich zuvor davon überzeugen dafs
+diese Reihen auch den Werth dieser Funktionen wirk-
+lich angeben, d, h, dafs sie convergiren, weil man
+sonst leicht in arge Fehler verfallen kann. Uobri-
+gens darf nicht vergessen werden, dafs auch die Me-
+thode die man schon früher in’ den Fällen angewandt
+hat, in welchen die Diflerenzialrechnung nicht aus-
+reicht, dafs man nämlich statt Fr und fx die Werthe
+F(z+h), f(r+h) an die Stelle setzt, und in dem
+entwickelten Resultate Ah = 0 setzt, mit der hier an-
+gegebenen nahe zusammen fällt, Die zuletzt bespro-
+chenen Gegenstände machen den wesentlichen Inhalt
+der zwei ersten Abhandlungen aus, Wir müssen uus
+begnügen von dem Folgenden nur eine summarische
+Vebersicht zu gehen, da es nicht möglich ist hier ein-
+zeine Formeln zu geben, auch keine Ansicht weiter
+vorkommt die wir, wie die früher erwähnten, zu be-
+streiten hätten. In der dritten Abhandlung giebt der
+Vf. die Summation vieler Reihen, worunter schr in-
+teressante, vermittelst der Differenzialrechnung, In
+der vierten Abhandlung sind zuerst die Grundzüge
+der Differenzenrechnung erläutert, und es werden
+alsdann die Unterschiede der am häufigsten vörkom-
+menden Funktionen besonders dargestellt. Aus der
+Formel für die Bildung der höheren Differenzen, von
+x m Jeitet der Vf, alsdann eine unabhängige Summi-
+rungsmethode für die Verbindungen mit Wiederho-
+Jungen ab, die schon früher erwähnt worden ist, In
+der fünften Abhandlung wird die Differenzenrechnung
+zur Summirung von Reihen angewandt, Hierzu be-
+dient sich der Vf. drei verschiedener Methoden, deren
+Verhältnifs zu einander sehr genau erörtert wird, Er
+findet es auffallend ($. I51), dafs durch eine gewisse
+
+; Reibe, deren Summe er in $, 150 findet und deren
+
+allgemeines Glied x" ist, nicht die Summe der har-
+
+1
+monischen Reihe 1 + z+ + z gefunden werden
+,* kana,
+

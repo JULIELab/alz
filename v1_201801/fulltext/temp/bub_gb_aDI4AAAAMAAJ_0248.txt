@@ -1,0 +1,125 @@
+a0 u u
+
+457
+
+458
+
+ALLGEMEINE LITERATUR -ZEITUNG
+
+ 
+
+März 1830.
+
+ 
+
+MATHEMATIK.
+
+. Data u.  Vontal in der DA Buchb, : Se
+‚von Beyspielen und Aufgaben aus
+
+Terenal- und RES EINE E mit den mE
+
+en Verwandlungen der Functionen, von F. W,
+esselbarıh. 1828. Villu. 1065, gr.8. (16gGr.)
+
+D. Unternehmen, eine Sammlung von jelen
+und Aufgaben über irgend einen Gegenstand der
+Mathematik zu liefern, ist bey einer zweckmäfsigen
+Auswahl und Anordnung immer als etwas Ver-
+dienstliches anzusehen, und Aufgaben über die hö-
+here Analysis sind um So willkommener, da eines
+Theils Sammlungen. von der Art noch fehlen und
+andern Theils nicht blofs dem Anfänger zur eigenen
+Uebung unentbehrlich sind, sondern auch für den
+Lehrer ein bey dem Unterrichte brauchbares Hülfs-
+mittel abgeben. Dafs der Vf. nicht blofs Beyspiele
+aus der Differential - und Integralrechnung giebt,
+sondern diesen die über die verschiedenen Umfor-
+mungen der Functionen vorausfchickt, ist ganz in
+der Ördnung, da ohne hinlängliche Fertigkeit in der
+Behandlung der Functionen keine grofsen Fort-
+schritte in der Differentialrechnung und noch weni-
+ger in der Integralrechnun gemacht werden kön-
+nen. Auch lälst sich nichts dagegen einwenden,
+dafs der Vf. den Beyspielen keine vollständige Auf-
+lösung, sondern überall blofs das Resultat beygefügt
+hat; aber. dadurch hätte derselbe seiner Sammlung
+einen größern Werth verschaffen können, wenn er
+einer jeden Gattung von Aufgaben einiges über das
+Verfahren bey der Auflösung derselben vorausge-
+schickt und von einer Aufgabe die nothwendige Auf-
+lösung beygefügt hätte, wenigstens wäre hierdurch
+die Sammlung für den Selbstunterricht brauchbarer
+geworden, während bey der Sr Een wöreigan Eiprich-
+tung der Anfänger bey der Benutzung die Beyhülfe
+eines Lehrers nicht wohl wird entbehren können.
+Was die Wahl der Beyspiele betrifft, so ist zu be-
+dauern, dafs der Vf. einen grofsen Theil derselben
+auf indirectem Wege, nämlich von dem Resultate
+ausgehend, gebildet zu haben scheint, ohne eine di-
+recte Auflösung derselben nachher zu versuchen,
+wodurch er nn veranlafst worden wäre, manche
+als für den Anfänger nicht geeignet, mit zweckmä-
+fsigern zu vertauschen.
+Das ganze Werkchen besteht aus drey Abtheilun-
+n, von welchen die erste Beyspiele für die verschie-
+enen Verwandiungen der Functionen enthält, die
+zweyte, Beyspiele für die Differentialrechnung und
+A. L. Z. 1880. Erster Band,
+
+deren Anwendung auf verschiedene Operatio u
+die dritte, -Beyspiele für die Integralrechnung, x
+In der ersten Abtheilung kommen zuerst eini
+Fragen über Functionen im Allgemeinen vor und als-
+dann S.2—20 Beyspiele über die verschiedenen Ver-
+wandlungen der Functionen und zwar 1) Verwandlung
+der Aggregate in Producte S,2-—5. Hier aber hat der
+Vf, eine Uebereilung sich zu Schulden kommen las-
+sen, wodurch von dem auf der zweyten Seite vor-
+kommenden 18 Beyspielen nicht weniger als 8 falsch
+sind und zwar Na 9, 10, 11, 12, 18, 14 und 18.
+Nämlich, es stützt sich bekanntlich die Verwand-
+lung der Aggregate in Producte auf den Satz, dafs,
+wenn
+f X)= x" + Ayo! 4 Bao 2,., ...
+und np ag (x) =0 für x= a; X=fj X=Y...
+äu x)= (x—a) (x— A) (X—Y)..0s
+und daher auch 0)
+x Axt Ban tz (K— ca) (X) (Kae
+seyn mufs; wo natürlich dieser A Are
+eine analylische Gleichung ist, in welcher beide
+Theile blöfs der Form nach verschieden sind, so
+dafs der eine mit'dem andern durch Umformung er-
+halten wird. Diese Umformung kann daher auch
+nur bey ganzen rationalen Functionen Statt finden,
+wo bereits f (x) die richtige Form einer Gleichung
+vom nte= Grade hat, ohne dafs es nöthig ist diese Form
+erst durch das Hinzufügen oder Hinwegschaffen von
+Factoren zu erzeugen; denn hat f (x) diese Form
+nicht und man setzt f(x)= 0, so gehen durch den
+Factor =0 alle noch hinzukömmenden Factoren
+verloren und man erhält nun das Product für ein
+fr anderes Aggregat als die ursprünglich gegebene
+unetion und daher auch ein durchaus falsches Re-
+sultat. Der Fehler nun, den der Vf, bey dieser Gat-
+tung von Aufgaben sich hat zu Schulden kommen
+lassen, besteht darin, dafs er das obige Verfahren
+auch bey gebrochenen und irrationalen Functionen
+anwendet, md so findet er z. B. in Nr. 10
+x
+are 18+xx = (x — 24) (x— 12).
+Dafs diese Gleichung nicht analytisch seyn kann,
+zeigt der erste Anblick. Der Vf. erhält dieses Re-
+sultat dadurch, dafs er den gegebenen Ausdruck
+Jr x 18:4 x =0 setzt und diese Gleichung nun
+Migehzaisch bebandelt. Hiernach ist
+MM x )=18—x
+also (81. ? = (18— x)! (1 + 2x)
+‚und (18 +x) — (18 — x) = 2x(18 — x)",
+
+Nnan
+
+ 
+
+Hier-
+

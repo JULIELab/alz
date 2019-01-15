@@ -1,0 +1,105 @@
+6it
+
+‚ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LITERATUR-ZEITUNG
+
+ 
+
+September 1841.
+
+ 
+
+PHYSIK.
+
+HAnBURG, b. Perthes - Besser u. Mauke: Ueber die
+Berechnung der bei Wägungen vorkommenden Re-
+ductionen vom Etatsrath Schumacher, 1838, 41 5.4,
+(16 gGr.)
+
+Diese Abhandlung welche Rec. erst vor kurzem
+erhalten hat, behandelt einen Gegenstand, welcher
+für jeden Naturforscher von Wichtigkeit ist und des-
+sen Nichtbeuchtung Ursache vieler wnrichtigen An-
+gaben ist. Möge nämlich eine Wage-noch so sorg-
+fälug gearbeitet, die Gewichte noch so genau ver-
+glichen seyn, 8o wird man doch selten finden, dass
+der abzuwiegende Körper bei zwei zu verschiede-
+nen Zeiten gemachten Wägungen dasselbe Gewicht
+hat; nur dann, wenn seine Dichtigkeit gleich der der
+Gewichte ist, wird sich eine solche Uebereinstimmung
+zeigen. Zwar mögen diese Verschiedenheiten ihren
+Grund in den bei allen Messungen vorkommenden
+unvermeidlichen Beobachtungsfehlern haben, jedoch
+weit wichtiger ist der Umstand, dass wir nicht im
+Stande sind, die ganze Operation der Wägung im
+Jufileeren Raume vorzunehmen. Da nämlich die Luft
+ein schwerer Körper ist, dessen Gewicht sich regel-
+— mässig mit dem Stande von Barometer und Ther-
+mömeter ändert, so finden wir das Gewicht des in
+jeder Schaale liegenden Körpers um das Gewicht
+” einer Luftmasse zu klein, deren Volumen dem sei-
+nigen gleich ist. Nehmen wir also einen Körper,
+dessen Dichtigkeit geringer ist, als die der ge-
+brauchten Gewichtseinheiten, so kann die Wage
+gwar ein vollkommenes Gleichgewicht angeben, aber
+dennoch ist der abzuwiegende Körper schwerer, als
+man nach dieser Operation glauben sollte, desto mehr,
+je geringer seine Dichtigkeit ist und es bedarf da-
+her nothwendig einer Reduction auf den luftleeren
+Raum. In den Lehrbüchern der Physik wird diese
+in der Regel nur kurz angedeutet, in den meisten
+Lehrbüchern der Chemie, selbst in den Anleitun-
+geu zur Anstellung qualitativer und quanütativer
+Krgünz, Bl. zur A. L. Z. 1841,
+
+Analysen entweder ganz übergangen oder doch nur
+unvollständig behandelt. Deshalb erwarb sich Bessel
+das Verdienst, dass er die Grundsätze derselben in
+den astronomischen Nachrichten (VII, 373) ent-
+wickelte; die vorliegende Abhandlung ist eine wei-
+tere Ausführung dieser Abhandlung und Rec. er-
+laubt sich, bei der grossen Wichtigkeit des Gegen-
+standes, die Art dieser Reduction mitzutheilen.
+
+Ist nämlich‘ A# das specifische‘ Gewicht, V das
+Volumen des Körpers, 80 können wir sein wahres
+Gewicht AVsetzen, Bezeichnen wir nun die Masse
+des Körpers mit /M (reducirt auf den Gefrierpunkt),
+seine Temperatur im Augenblicke der Wägung mit
+1, das Verhältniss einer seiner Dimensionen bei
+den Temperaturen von a und f mit 1:R, so ist der
+Raum, welchen der Körper bei der Temperatur f
+
+einnimmt, gleich Mr und er verdrängt die Luft-
+
+. M
+masse R’q, wo g das specifische Gewicht der
+
+Luft im Augenblicke der Wägung bezeichnet. Be-
+zeichen d, m und r dieselben Grössen für die Ge-
+wichtsstücke, so erhält man die Gleichung
+
+M m
+M—— R’'qg=m—zr’g (4)
+und das wahre CE des Körpers wird mithin
+M=m+ (5 R’g— 7 r'q)
+wo die in Parenthese eingeschlossene Grösse die Re-
+duction auf den leeren Raum bezeichnet, während.
+m die durch unmittelbare Beobachtung gegebene
+
+Grösse ist. In der Mehrzahl der Fälle ist es bei
+der Reduction erlaubt M= m zu setzen, dann wird
+M=m+7 R'q—Frg.
+
+Um das specifische Gewicht eines Körpers zu
+finden, wird der Körper im Wasser abgewogen., Ist
+Q das specifische Gewicht des Wassers bei der Tem-
+peratur, als der Körper hineingetaucht war (und wird
+bei ihm die der grössten Dichtigkeit als die normale
+
+Temperatur angenommen), T die gemeinschaftliche
+M (4)
+

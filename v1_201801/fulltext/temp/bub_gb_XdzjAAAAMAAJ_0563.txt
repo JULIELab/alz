@@ -1,0 +1,130 @@
+‚A123
+
+denfelben für Einen Band zu viel werden würde, und
+habe mich daher ent(chloffen, alle Erweiterungen
+oder weitläuftige ausführlichere Zufätze und Erläu-
+terungen des Eneuwörtigen Werks, aufser den we-
+nigen oben genannten, befonders unter dem Titel;
+5 Zufätze und Erweiterungen der analytifchen Mecha-
+nik des Hrn. La Grange, herauszugeben, worin man
+manche neue Bemerkung und Unterfuchung Gnden
+wird.” Der fi Abfchnitt des Werks felbft handelt
+von den Grundlehren der Statik. Sie ift die Wiflen-
+fchaft vom Gleichgewichte der Kräfte. Kraft ift die
+Urfache einer Bewegung oder eines Beltrebens dar-
+nach. Gleichgewicht ent!teht durch die Aufhebung
+mehrerer, einander entgesengeletzter, Kräfte, die
+ihre gegenfeitige Wirklamkeit vernichten. Die Ge-
+fetze der Statık beruhen auf drey Principien: erlt-
+ich auf dem Gleichgewichte beym Hebel, wo wir
+den erften Beweis beym Archimedes finden. Zwei-
+tens auf dem der zufammengefetzten Bewegung, mit-
+4elft des Parallelogramms und deffen Diagonale, wo-
+von Galiläi der Urheber ift, und drittens auf dem
+von den virtuellen Gefchwindigkeiten, oder, wie Hr.
+M. überfetzt, auf dem Beltreben nach Gefchwindig-
+keit. Bey diefer Gelegenheit giebt der Vf, eine ge-
+drängte Gefchichte der Statik mit eingeftreuten Be-
+merkungen und Kritiken, wozu auch der Ueber-
+fetzer manchen intereffanten Beytrag liefert. Nach
+dem Vf. reicht der Grundfatz von den virtuellen Ge-
+fchwindigkeiten allein hin, in allen Fällen die Gefetze
+des Gleichgewichts zu beftimmen, indem man das
+Hebelgefetz direct darans herleiten kann. Verfchie-
+dene Beftimmung des Moments der Kräfte, wo der
+Vf. glaubt, die von Galil&i und Wallis herrührende
+fey der, welche von den neuern Mechanikern her-
+rührt, vorzuziehen. Der Rec. kann aber keinen
+weflentlichen Unterfchied unter beiden finden, fon-
+dern alle Verfchiedenheit liegt höchftens im Aus-
+druck; wie follten auch beyde, bey einer folchen
+Verfchiedenheit auf efnerley Refultate gekommen
+feyn! — Es ilt immer die dem Körper inhärirende
+Kraft, mit Rückficht auf Raum und Zeit worin he
+wirkfam iflt. Genau erwogen, fiefsen alle drey
+Prineipien in- und auseinander, d. i. in jedem find
+immer die übrigen beiden mitbegriffen; wenn man
+nur die Entwickelung gehörig vorzunehmen weils.
+Dem Gefetz der virtuellen Gefchwindigkeiten giebt
+indeffen der Vf. deshalb den Vorzug, weıl cs aufser
+feiner Einfachheit und Allgemeinheit, in einer allge-
+meinen Formel dargeltellt werden kann, die er des-
+halb auch bis auf die feinften Fäden entwickelt und
+ihr fogar einen noch gröfßsern Umfang mit neuen An-
+wendungen gegeben hat. Dabey bemerkt indeffen
+der Uceberfetzer , dafs dieler Satz felbft nicht inı geo-
+metrifchen Verltande ein Axiom genannt werden könne,
+wie ihn /a Gramge im mechanifchen wohl nelimen dürf-
+te: denn Karften und Käftner bewielen die Geleize
+der Statik einzeln, in aller Strenge und fchlofen
+erft aus diofen (trengen Beweilen der einzelnen Ge-
+fetze auf dic allgemeine Richtigkeit des Gefetzes von
+den virtuellen Gefchwindigkeiten; zu einer directen
+"und allgemeinen Demouftration diefes Gefetzes aber
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+
+‚1124
+
+habe man bisher noch nicht gelangen können. Diefs
+liegt, fo viel Rec. einfeht, daran, dafs man noch
+nicht genug bemüht gewefen ift, ein höheres Princi
+dazu aufzufaffen. Frediich würde es mehr Die tapbyBladı
+als phyfıfch feyn; aber diefs könnte keinen Anf(tols
+geben. CO ec. die Wahrheit zum Grunde: dals
+edes gedenkbare nur durch feinen Gegenfatz gedenk-
+bir ilt, fo geht ihm daraus leicht eine wirkliche De-
+monftration für jenes Gefetz hervor und es läfst fch
+nun um fo beruhigender als ein allgemeines Refultat
+aller in der Statik gefchehenen Unterfuchungen an-
+fehen. Im zweyten Abfehnitt entwickelt der Vf. eine
+allgemeine Formel für das Gleichgewicht eines ge-
+wilfen Syftems von Kräften nebft ihrem Gebrauch,
+Der Vf. nimmt an, dafs die Kräfte P, Q, X, u. 1. w.
+die nach gegebenen Richtungen wirken, unter ein-
+ander im N Chichoowlchre fnd. Ferner {ftellt er fich
+von den Puncten, in welchen diefe Kräfte angebracht
+find, gerade, einander gleiche Linien, p, 4q> rs w
+f. w. vor, die in den Richtungen diefer Kräfte ge
+zogen find. Die Variationen oder Differenzialen die-
+fer Linien, in fo fern fie von einer unendlich gerin-
+En Veränderung in der Stellung der verfchiedenen
+ürper oder Puncte des Syftems ent/pringen kön
+nen, werden allgemein Birch dp, dq, dr uv.f{. w.
+ausgedrückt. Diele Differenzialen ftellen die Räume
+vor, welche die Kräfte P, Q, R, u. f. w. in einem Au-
+genblicke durchlaufen. Setzt man nun an die Stelle
+einer von diefen Kräften, z. B. von R, einen felten
+Unterftützungspunct, fo läfst hch vor der Hand das
+Gefetz des Gleichgewichts zwifchen P und Q allein
+fuchen, vo dann ® ya verändent bleibt, ON
+aus den Linien g und g, nun dp und d
+oder P— dp a g — d. q wird, Pech dem Tee
+uen Princip müfsten die Kräfte P und Q lich gegen
+einander verkehrt wie dp, dq, verhalten; allein da
+zwilchen zwey Kräften kein ieichecwicht Statt fr
+den kann, wenn fie nicht fo geftellt had, dafs, wenn
+die eine in Bewegung ift, ch die andere in entge-
+gengefetzter Richtung hewegt, fo müllen die Zeichen
+von dp und dg einander entgegengefetzt feyn, und
+da fo wohl P als Q poßftiv angenommen worden for,
+fo wird für das Gleichgewicht feyn: Pa ze
+oder FÜR + Qdg = o und diefs wäre Mann die all-
+gemeine Formel für das Gleichgewicht zweyer Kräf-
+te. Eben fo wird, wenn man auch s als veränderlich
+annimmt, Pdp I Qdg + Rdru. I. w.=o0. Wäre
+noch eine vierte Kraft S, vorhanden, fo hätte man:
+Pdp + Qdgqg + Rdr + Sds u. I. w.== 0, welches
+alfo die allgemeine Formel für das Gleichgewicht ift.
+Jedes Glied, z. B. Pdp, wird in Galiläi’s Sinne das
+Moment der Kraft P genannt. Bey der Anwen-
+dung diefer Formel kommt es dann darauf an, die
+Werthe der Differenzialen dp u. f. w. der Natur des
+Eee nenen Syftems gemäfs zu beftimmen, Sogeht nun
+der Vf. immer weiter fort, indem er beftändig. von
+dem was eben aufgefunden ift,.zu weiteren Entwicke-
+lungen geleitet wird, und da zeigt. Gch, dafs, um
+die dumme der Momente aller Kräfie eines gegebe-
+nen Syltems zu erhalten, man jede Kraft. befonders
+; zu
+

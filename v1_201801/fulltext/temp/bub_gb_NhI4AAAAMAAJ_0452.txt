@@ -1,0 +1,137 @@
+885
+
+kleinerer Kreis, in einander gezeichnet und fich in
+‚einem Punkte berührend, Es entfteht aus ihr leicht
+die Curdioide ( Herzförmige Linie). S. Klügels Math.
+Wörterb. 1. 396. (nicht 936.). Fünfter Abfchn, Die
+Didactyloide | Zweyfinger - Linie) mit ihrer Anwen-.
+dung. Sie ift vom vierten Grade, geht durch den
+Anfangspunkt der Abfeillen, wird von der Axe in
+zwey ähnliche und gleiche Hälften getheilt, und hat
+4 unendliche Schenkel mit ihren Alymptoten. Wenn
+ınan einzeln den Zeige- und Mittelfinger ausftreckt,
+und beide etwas von einander entfernt, auch an-
+nimmt, dafs der Scheitel derfelben an einen Spiegel
+ehalten werde: fo hat man ihre Geftalt vor fch,
+uch hat fie viel Aehnlichkeit von der Hyperbel zwi-
+fchen den Afymptoten. Sechfler Abfchn, Die Sky-
+ghoide BT) or deren Anwendung, Sieben-
+ter Abfchn. Die Diloboide (zweyfchotenlinie), nebft
+Anwendung, Sie ift, wie die vorige, vom vierten
+Grade, Wird von der Axe in 2 gleiche und ähnliche
+Hälften getheilt, hat 4 unendliche Schenkel zwifchen
+Alymptoten u. (. w. In einem beftimmten Falle be-
+kommt man aus ihr die Conchoide des Nicomedes,
+‚Achter Abfchn., Noch einige neue krumme Linien
+vom dritten bis achten Grade, Der Vf, hat ihnen
+keine befondern Namen gegeben, auch nicht, wie
+bey allen vorigen, Werkzeuge befchrieben, wodurch
+fie mechanifch verzeichnet werden können, aber ihre
+Gleichungen werden eben fo wie die vorigen, ent-
+wickelt, Neunter Abfchn. Einige krumme Linien
+auf neue Art zu zeichnen, und fie auch durch Werk-
+Zeuge zu befchreiben, ı) die Cifoide. Ihre Zeichnung
+wird auf dreyerley Art gelehrt. Aus der dritten Art
+erfieht man, dafs fch die anfangs befchriebene Ophiu-
+ride ihr immermehr nähert, je kleiner dort die 4 B
+* gegen B D angenommen wird, und völlig in Ge über-
+eht, wenn. A B gegen B D verfchwindet. 2) Die
+ukumaide auf Pa Art zu zeichnen. 3) Die
+Conchoide , auch auf doppelte Art. 4) Die Cardioide,
+auch auf doppelte Art. Zehnter Abfchn. Noch einige
+Bemerkungen über krumme Linien überhaupt, und
+ihre Anwendungen, Zuer(t eine Abänderung der
+hiuride, Man kann durch diefe alle kußifche
+Gleichungen conftruiren‘, da es bey der erftern nur
+mit denen angeht, wo das zweyte Glied fehlt. Sie
+geht auch in gewiffen Fällen in emen Kreis und in
+eine gerade Linie über. Auf eben die Art wird
+auch die Didactyloide zur Auflöfung biquadratifcher
+Gleichungen angewandt. Fingerzeige, wie noch
+mehr neue krumme Linien gefunden werden können,
+Eilfter Abfchn. Von der Verdoppelung der Würfels
+durch die Neilifche Parabel. in Werkzeug Ge zu
+befchreiben. Zwölfter Abfehn. Prüfung einer unrich-
+tigen Auflöfung des Delifchen Problems, die neulich
+vom Hrn. A. 57. HWlochatius angegeben worden ilt.
+Unfer Vf, macht die Unrichtigkeit jener Auflöfung
+vor der Hand fchon dadurch bemerklich, weil die
+Aufgabe bey der analytifchen Auflöfung bekanntlich
+auf eine kubifche Gleichung führt. Der Kreis aber
+kann eine gerade Linie nur in zwey Punkten fchnei-
+den, folglich können feine Durchfchnitte keine Wur-
+zeln von höhern Gleichungen geben, Die Kritik un-
+
+Num, 229. AUGUST 1810.
+
+886
+
+fers Vfs. ift fehr ausführlich, und er hat fich durch
+feine Arbeiten in diefer Schrift hinlänglich dazu le»
+gitimirt. Er zeigt, dafs /Mlochatius Verfahren zwi-
+{chen zwey gegebenen Linien zwey mittlere geome-
+trifche Proportionallinien zu finden, nur in drey Fäl-
+len richtig ilt, nämlich wenn fich die gegebenen Li-
+nien entweder wie I zu I, Oder wie I zu 4,2303%
+oder wie ı zu 149, 27300 gegen einander verhalten,
+und dafs in allen andern Fällen eine gröfsere oder
+geringere Abweichung ftatt findet; je nachdem das
+Verhältnifs von den hier gefundenen verfchieden ift,
+Gelegentlich wird auch einiges, was der Rec. in die-
+fer A. L. Z, (der von dem gegenwärtigen ver(chieden
+ift) über Wochatius Verfahren geäufsert hat, in An-
+fpruch genommen. Dreyzehnter Abfcho. Eine ähn-
+liche Prüfung der von loch, aufgeftellten elementa-
+rifchen Aufl, der Aufgabe vom Dreyfchnitte des
+Winkels. Unfer Vf. {tellt die Prüfung auf ver-
+fchiedene Art an, nach der erften findet fich, dafs,
+wenn man den zu theilenden Winkel 30° nimmt, der
+Winkel den Wloch. findet , um 10‘; bey 90° um 5’ 14;
+bey ı74° um 39’ 2” und bey 180° um 43’ 22’ zu grofs ilt,
+ Parranmier Abfchn. Eine ähnliche Prüfung der von
+Wi. erfundenen fogenannten elementar geometrifchen
+Zeichnungen einiger regulären Vielecke, z.B. 5, 7»
+Il, 13, 17, 19, 23 und 29 Ecke. Auch wird die Ab-
+weichung von der Wahrheit im beftimmter Gröfse
+deutlich gezeigt. Bey manchen, z.B. beym 11, 13
+und 17 Eck, ift die Abweichung von der Wahrheit
+fo gering, dafs fich im Grofsen folche Vielecke fehr
+enau zeichnen laffen, und man kann defshalb nütz-
+iche Anwendungen von jenen Vorfchriften machen;
+bey den übrigen aber ift die Abweichung fo grofs,
+dals man auf mechani(che Art daffelbe eben fo genau
+und leicht erhalten kann. Um übrigens auch die
+andern Vielecke {ehr richtig zeichmen zu kännen,
+
+giebt unfer Vf. eine leichte Verbefferung der Fehler ,
+
+an, welche man bey jedem Vielecke vornehmen mufs,
+und dadurch laffen‘ fe fich u, a. mit grofsem Nutzen
+in der Uhrmacherkunft anwenden, um Theillcheiben
+darnach einzutheilen. In der Vorrede äufsert der
+befcheidene Vf. , dafs, wenn die gegenwärtige Schrift
+
+ut aufgenommen würde, er dıe darin angeftellten
+ Unterfechungen nicht allein fortfetzen . fondern auch
+Befchreibungen von einigen von ihm erfundenen Ma-
+fchinen und N Pferde uCDteN herausgeben werde. Diefe
+find: eine Pferde- Ramm - Mafchine; eine verbefferte
+Luftpumpe; ein verbefferter Nonius zu Winkelmef-
+fern; ein Kkünftliches Bein u. a. Er giebt endlich
+auch Nachricht von einigen Brkod nat die er zu-
+gleich im Grofsen ausgeführt und für Fabrikanten
+zum wirklichen Gebrauch verfertigt hat. Nämlich
+ı) eine Tuchfcherer Mafchine, wo foviel Scheren
+als man will, in Gang gebracht werden können, und
+die durch jede Art von Kraft in Bewegung zu fetzen
+ift. 2) Eine Rauchtabaks - Schneidemafchine, ganz
+nach voriger Art. 3) Eine Schnupftahacks - Rappier-
+mafchine. Eben fo. Der Vf, ift erbötig, diele drey
+Erfindungen gegen eine angemeffene Vergeltung mit-
+zutheilen, und wenn man fch in poftfreyen Briefen an
+ihn wendet, über alles nähere Auskunft zu N E
+
+oc
+
+MP,
+

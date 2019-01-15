@@ -1,0 +1,148 @@
+5
+= 87. un)
+
+indie vielch
+
+4 In aennie I eb ges93 0ie El.
+A einzöhien Untferibtheifungkt 1” fo Ach
+estiftet. Kat, zu na, In der zweiten Ahfhei-
+A arebe er Sr Gall 40 Verbindungen mil
+ud ı. Wiederho „um r,Versetzun i
+ef olanten Da BEE Get Dr Tan
+men der Verbindungen die sich‘hier. finden; Beruhen
+alle auf einem recarrirenden Verfahren), ‚ersp später
+fand der. Verf. zwei tnabhlingige ae) e für
+die Summen der Verbindungen mit Wiederholungen,
+. diese sind, S. 235 mitgetheilt worden | Noch s ‚äter
+hat der Verf: auch" eine, uhaBB hgig® Sunmmi’ängs-
+methode für die Verhindungen ehe Wiederholungen
+aufgefunden, und diese in einem, besonderen Werke
+mitgetheilt, von welchem Spliter ir diesen Bliittern
+Nachricht gegeben werden: soll. .. Die dritte ABihei-
+Jung'enthätt nun die Entwickelung einiger inr Folgen
+den nüöchigen Differenzialieh,. In dervierten dagegen
+wird die Kangordnung der Geschäfte in der Arithmd
+tik untersucht, . Unter. diesen. Geschäften versteht
+der Verf, hauptsächlich Addiren, Subtrahiren, Mul-
+tipliciren, Dividiren uud Subgütuiren: Die Auflö-
+sung einer "Aufgabe ‘kann der Natur der Sache nach
+DC Ausführung dieser Geschäfte verIhngen,
+a. aber ‚bei der. Ausführäung die ahgedehteten Ge-
+schäfte nach einander vorgenommen. werden: müssen,
+so; frägt es :sich,, ob die Anordkung if’°.der Adsfüh-
+rung der Geschäfte gleichgültig ist oder ob sie:auf
+das Resultat einen Kinflufs EHE ‚Im Allgemeinen
+nimmt man. an, dals auf die Anordnung Nichts an-
+kommt und auch der Verf, ist dieser Meinung, nur in
+einem Falle glauht er, iufluirt die Anordnung auf
+das Resultat und gerade dieses besonderen Falles we-
+m ist die;ganze Untersuehung, eingeleitet worden,
+e wir aber hierauf weiter eingehen, wollen wir zu-
+vor bemerken, dafs es wünse enswWerth gewesen wäre
+dafs sich der Verf,üiber den Sinn der Wörter, 'Mul-
+tipliciren und Dividiren deutlich'ausgesprochen hätte,
+da es geräde hieränf heim ganzen Folgenden ankommt,
+Dies ist aber durchaus nicht gescheben, sondern der
+Verf. hat gerade hier eine-übermäfsige Kürze 'eintre-
+ten. lassen, Der Fall, bei: welchem die Willkür in
+dev Aufeinanderfolge der einzelnen: Geschäfte nicht
+mehr gestattet wird , ‚ist der wenn die Multiplication
+mit der Division verbunden wird, Als Beispiel giebt
+(a — x)
+
+ 
+
+Hr. 0, den Ausdruck M7—— und spricht sich dar-
+über folgender Maafsemaus, S,63: ‚Geht der Aus-
+druck @— x in 0 über, was geschieht wenn r= a
+geseizt wird, so erzeugt Willkür in der Anordnung
+verschiedene Resultate, In diesem Falle erhalten
+
+u * v nm ; ‚0 ’
+wir folgende Darstellung: MEZ MM. Wür-
+
+den wird hier nun die Ausführung der. Geschäfte für
+willkürlich erklären, so hätten wir, wenn zuerst die
+Vervielfachung und dann das Messen vorgenommen
+
+0
+würde: M, 5= 7 =1 wr——
+
+und wenn das Messen dem Vervielfachen vorangesetzt
+0
+wird, M, = M
+
+"num. 157, SEPTEMBER 1834
+
+38
+Sach E Darch- diese verschiedene Anordimg" in
+den Geschäften‘ habön Wir!zwei Verschiedene Resals
+1800 Als" eiheinl and demselben: Ausdrick gewonne
+Vifhrend Wi gen ipeerehen nrü$sen‘; dafs ein un
+dersllbe Ausdrick n‘ einem und demselben Falle
+nicht zwei verschiedene Werthe hahen kann.” Die Be-
+häuptung Ues Vfs beraht also anf-der Ansicht, dafs
+ach Ausürbek "immer der Einhbit gleich ist, dies
+ist aber. der alt meinen Meinuhg, dafs dieser Aus-
+ärtıck ein 'unbestimnter sey ‚entgegen, Es konnte
+daher eine Polemik gegen diese Meinung nicht aus-
+
+bleiben; und wir finden diese in $, 49 und ausführ-
+licher in $, 80, In $. 49 will Hr, 0. direkt. bewei-
+;8097/ lung „MO. i &
+
+sen, difs > 1 ist, Ersagt: „die Gleichung = =1
+deutet nicht Anderes an, als wenn eine Gröfse durch
+sitk-selhst gemessen wird, so ist.die Einheit das Re
+uiltat diesed Geschäfts, ‘Da nun dieser Satz von al-
+Jedem gilt was unter der veränderlichen Größe x ver-
+standen werden kann, so ist es klar, dafs er von al-
+len Werthen gelten mufs, welche der veränderlichen
+Größe x, beigelegt werden können. Setzen wir nun
+x=0, so‘gilt das Allgemeine auch für den besonde-
+
+ren‘ Fall, ulıd wirt erhalten also Z= 1”, Wir kön-
+dren‘ nicht‘ umhih; zu bemerken, dafs Viele, die in
+ALT ‘ 0 :
+dem: guten alten Glauben sind, es sey 5. ein unbe-
+
+stimmter Ausdruck, und daher gegen Hn, U’s Resul-
+tat ankämpfen werden, dennoch In anderer Beziehung
+sich einen Schlufs erlanben ,. der dem hier angeführ-
+
+ten durchaus analog ist, so dals sie‘; went'sie diesen
+Schlufs fest halten wollten, auch gezwuhgen wären,
+
+0
+
+5=1 zu setzen, Euler z, B., wan nie der Ansicht,
+0
+
+dafs zimmer = 1 sey, aber er behauptet, es sey 0” = 1
+
+und er beweist dies in seiner Algebra durch folgendes
+
+‚Raisonnement-(Th.L $,175). Da a°= Z=1 ist, so
+mu[s anch;, wenn @=0 gesetzt wird, ‚0° = 1 sevn;
+
+"warum sollte man denn nun nicht eben so gut sagen
+
+können, da S= 1 ist, so mufs anch 3> 1 seyn, da,
+
+0
+wenn a = 0 gesetzt wird, E i 3 übergoht?; Rec, hat
+schon früher, Gelegenheit gehabt, dies ztı bemerken
+(vgl. Crefle’s Sour, f. d. Maih. Bd, AT. 8; 272). Was
+er aber gegen.des YIs Meiiung zn erinnern hat, he-
+steht in Folgendem. , Er. glaubt, dafs die Frage üher
+ED 8 . !
+den' Werth von 5 ats dem Begriff‘ der Division ‚ent-
+schieden werden zanfs, und es ist daher zu bedauern
+dafs sich IIr, O, üher diesen Begriff nicht deutlich
+ausgesprochen hat, Erklärt man die Division so, dafs
+es -eine Operation ist, bei welcher man eine Zahl
+sucht, die mit dem Nenner multiplieirt den Zähler
+Giahl und gegen diese Definition läfst sich wohl
+Vichts einwenden, so folgt daraus dafs) sobald der
+Aus-
+

@@ -1,0 +1,126 @@
+26
+
+ALLGEMEINE LITERATUR -ZEITUNG
+
+ 
+
+° September 1834.
+
+; . MATHEMATIK.: ;
+
+BerıLın, gedr. in d. Druckerei der Königl. Acad,
+der Wissensch,: Ueber die Methoden den Werth
+eines bestimmten Integrals näherungsweise zu be-
+stimmen, Von E. H, Dirksen, 435, 4,
+
+Doranntiich ist die Analysis weit entfernt, van je-
+der continuirlichen Function f(x) einer veränderlichen
+Größe das Integral in einem geschlossenen, zur
+numerischen Rechnung brauchbaren Ausdruck anzu-
+geben, selbst wenn nur der Zahlenwerth eines sol-
+chen Ausdrucks innerhalb gewisser Grenzen, yon
+x =, bis © =: X also ein bestimmtes. Integral ge-
+fodert wird, Da re. die‘ Kenntnifs der; Werthe
+solcher bestimmten‘ Integrale in vielen Fällen durch-
+aus nothwendig, und ihre Ermittelung als eine der
+unerläfslichsten und: allgemeinsten Aufgaben der In-
+tegralrechnung anzusehen ist, so haben sich seit ih-
+rer Erfindung mehrere’ der ausgezeichhetsten Mathe-
+matiker, unter deren Namen auch die unsterblichen
+nes ]Vewton und Gauss entgegen treten, damit be-
+schältigt, Methoden zur Auflindung beliebig genäher-
+ter Werthe bestimmter. Integrale anzugehen, Den-
+noch blieben bei dieser'Aufgabe , sie in wissenschaft-
+licher Allgemeinheit und Strenge betrachtet , meh-
+sere Fo ierungen unerledigt, Einige Mathematiker
+hatten zwar diese Aufgabe von einem richtigeren,
+d. h, wenigstens rein analytischen Standpunkte aus
+ins Auge gefafst, andere dagegen fremdartige, na-
+mentlich geometrische Betrachtungen eingemischt und
+bei mehreren liels die Begründung oder Entwicke-
+lung manches andere zu wünschen übrig; üher-
+pa aber standen alle jene Methoden und ihre
+Ableitungen bis jetzt vereinzelt da, und es fehl-
+te gänzlich an einer gehörigen Vergleichung der-
+selben, Diese fodert hier, wie bei den Nähe-
+rungs- Methoden aller sonstigen Rechnumgen 1) eine
+Auffassung derselben unter einem Gesichtspunkt,
+um dadurch ihre Aehnlichkeiten und Verschieden-
+heiten, vorzüglich in Betreff der Bedingungen, wel-
+chen eine solche Methode etwa unterliegt, richtig
+zu erkennen; 2) eine möglichst scharfe  eelmmg
+
+der Genäui keit jeder Methode, so dafs sich danac
+
+mit Sicherheit der mögliche Fehler in jedem beson-
+deren Falle angeben läfst; und 3) eine Vergleichung
+ihrer Bequemlichkeit für die numerische Rechnung,
+Diefs besonders in Bezug auf einige der wichtigsten
+‚ Näherungsmethoden für die Werthe bestimmter Inte-
+grale zu leisten, und dabei zugleich eine einfachere
+
+4, L, Z. 1834. Drüter Band,
+
+; Jung der Begriffe und Angabe
+
+‚alit 4
+
+und vervollständigte Darstellung‘ dieser Methoden zu
+geben, ist der Zweck der vorliegenden Schrift,
+
+Nach des Vfs bekannnter Gründlichkeit und
+Schärfe in der Behandlung mathematischer Gegen-
+stände beginnt diese Schrift mit genauerer Feststel-
+der Grundformeln,
+und‘ gehet danach zur Erörterung der einzelnen Nä-
+hernogs- Methoden durch‘ Aufnahme besonderer Be-
+dingungen für die zu integrirende Funetion und Rech-
+aung über, Unter f(r) anfangs eine.mur der Bedin-
+
+ung der Continuität yon =, his 5 = Xunterwor-
+ot Function verstanden, wird hier als solche-Me-
+thode jedes von dem Begriffe eines bestimmten Inte-
+grals selbst unabhängige Verfahren, welches zur
+mittelung einer Grölse G führt, die von dem Wer-
+
+X
+the von f(x)dr um weniger als eine gegebene
+x eo
+
+ositive Gröfse z, wie klein auch gedacht , verschie-
+I ist, bezeichnet , und bei den Grundformeln (8.2)
+werden aus einigen ganz bekannten andere besonders
+der Form nach minder bekannte oder gewöhnliche
+abgeleitet, indem sie gerade in dieser Form für die
+Folge recht hrauchbar sind,
+
+Im $. 3 beginnt. die Erörterung der Näherungs-
+Methoden mit der einfachsten, welche meistens durch
+eometrische Betrachtungen entwickelt wird, und zu
+em Ausdrucke
+m— 1
+
+life) + fr, +00) +Iflz. +0} 0
+
+führt, wo i= X—x,, w=£, und unter m eine po-
+
+sitive ganze Zahl zu verstehen ist. Damit der hier-
+aus hervorgehende Zahlwerth um weniger als die
+
+X
+Zahl £ von dem des Integrals f(x)dx verschie-
+\ z
+den sey, mufs ws
+
+z0{— frz +) < «
+seyn, und. w oder vielmehr m danach bestimmt wer-
+den. Uebrigens wird die bei Ableitung des Aus-
+drucks m gemachte Bedingung, dafs fl (2 von t= I,
+bis x = XA{(mit demselben Zeichen) entweder hesfiin-
+dig wachse oder heständig abnehme, zuletzt für die
+numerische Rechnung durch dieBemerkung beseitigt,
+dafs, wenn t =0o und t=i den Werthen x, und .Yent-
+spricht, und £, iz....ir die Werthe von £ bezeich-
+nen, Ir welche die von f(x; +) abwechselnd Mu-
+xima
+

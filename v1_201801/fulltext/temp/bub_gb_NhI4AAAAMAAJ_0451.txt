@@ -1,0 +1,146 @@
+883
+
+Was die analytifche Formel gegeben hat, wird her-
+nach auch aus der N Deichnung DS eleitet. Durch die-
+fen deutlichen, immer auf die Zeichnung hinweifenden
+Gang kann das Studium diefer Schrift auch ange-
+henden Analyften fehr nützlich werden, zumal da
+auch die Anwendung der Differenzialrechnung dabey
+vorkommt. Kurz der ganze Vortrag ift fo, wie er
+in einem guten, zum Selbftftudium dienenden, Lehr-
+buche zu PEN? pflegt. 2) Ehe aber diefe krumme
+Linie ihre Wendung bey der Verdoppelung .des
+Würfels findet , mufs vorher dargethan werden, dafs
+es bey der geometrifchen Auflöfung derfelben auf
+Erfindung zweyer mittlerer Proportionallinien zwi-
+fchen den gege enen äufsern ankommt. ‘ Diefes zei
+
+; daher auch der Vf, und zwar fowohl arithmetifc
+
+(welches keine Schwierigkeit hat), als geometrifch,
+Hierzu dienen diefelben Einien der erften Figur, aus
+welchen die Gleichung der Ophiuride entwickelt
+worden ift: denn es fällt gleich in die Augen, dafs
+wenn die oben erwähnte Linie B D doppelt fo grofs
+als A B (die Seite des einfacheu Würfels) genommen,
+und dann die Ophiuride nach des Vfs, Anweifung be-
+fchrieben‘, ferner die D B fo weit verlängert wird,
+bis fie die Ophiuride in einem gewiffen Punkte F,
+trifft, alsdann diefe B F die Seite des do pelten Wür-
+fels feyn mufs. Nimmt man 8 D= 3 AB befchreibt
+nach diefer Annahme abermals eine Ophiuride und
+verfährt wie zuvor, fo bekommt man eine B F, wel-
+che als Seite des dreyfachen Würfels u. f. f. anzufehen
+ft. Da fich. die Kugeln wie die Würfel ihrer Durch-
+meller verhalten, fo kann die befchriebene Vorrich-
+zung auch zur Verdoppelung. und Vervielfachung der
+Kugeln gebrancht werden. Der Vf. hat durch Ver-
+fuche gefunden, dafs auf einem feinen ftraff aufge-
+zogenen Papiere, mittelft guter Stangen - oder Feder-
+zirkel, eines Mafsftabes der -1; Zoll genau angiebt,
+und eines Vergröfserungsglafes von etwa 2 Zoll
+Brennweite, ‘die Seite des doppelten Würfels bis auf
+den hundert{ten T’heil eines Zolles genau zu beftim-
+men fey. Auf einer Meffhngtafel, und: mit folchen
+Vorrichtungen, wie fch Bird und Brander zu ihren
+Theilungen bedient haben, glaubt er die Genauig-
+keit bis auf +3 Zoll treiben zu können, Das Werk-
+zeug wodurch diefe krumme Linie mechanifch ver-
+zeichnet wird, ift abgebildet, und eben fo leicht zu
+verfertigen als zu gebrauchen, Es werılen 4 Lineale
+rechtwinklicht zufammengefetzt, wovon die 3 erften
+felt mit einander verbunden werden, das letzte aber
+beweglich bleibt. Es folgt nun 3) Eine hiftorifche
+Nachricht von einigen mechanifchen Conftructionen
+der Alten, den Würfel zu verdoppeln und von ver-
+fchiedenen Werkzeugen die Aufgabe ohne Verfuche
+aufzulöfen, wobey Reimers hiftoria problematis de
+eubi duplicatione etc. benutzt worden ift. Der Vf. un-
+terwirft fe zugleich einer Prüfung und vergleicht fie
+mit (einer Methode. 4) Von der Conftruction der
+Kubifchen. Gleichungen durch die Ophiuride, und
+wie die Wurzeln derfelben zu finden. Wird, nach
+einigen vorausgefchickten hiftorifchen Notizen, fafs-
+lich vorgetragen,* und durch mehrere Beyfpiele er-
+Jäutert, auch gezeigt, wie manchen hierbey vorkom-
+
+ALLG. LITERATUR - ZEITUNG
+
+884
+
+mendeu Unbequemlichkeiten abgeholfen werden kön.
+nen. Es ergiebt fich daraus: @) dafs man alle ky.
+bifchen Gleichungen dadurch auflöfen kann, dr
+Coefhcient von x, fo wie das völlig bekannte Glied,
+mögen ganze Zahlen oder Brüche feyn. b) Giebt dielk
+Conftruction fowohl die rationalen als irrationalen
+Wurzeln fehr fcharf an, indem man ‚nur eine einzige
+krumme Linie braucht, und’ diefelbe fkch Gcher und
+enau befchreiben läfst. cc) Dafs bey diefer Cor
+truction nicht leicht ein Verfehen möglich, daß
+einfach ift, und die Wurzeln alle in einer gerade
+Linie liegen, weshalb fe auch der Conftructio:
+mittel(t der Kegelfchnitte u.a. in mehr als eioer
+Hinficht vorzuziehen ift. Ueberhaupt find die Cop
+ftructionen zur Erläuterung der Eigen(chaften einer
+Gleichung fehr zweckmäfsig, indem alle. Wurzel
+derfelben auf einmal in ihrer Verbindung anfchauv-
+lich dargeftellt werden, da die durch Rechnung ge-
+fundenen ohne Zufammenhang er(cheinen, und es
+wird defshalb die arithmetifche Auflöfüng nur dann
+unentbehrlich, wenn die Genauigkeit weiter als bis
+auf 45 Zoll getrieben werden mufs. 5) Von der Tri-
+fection eines Winkels durch die Ophiuride. Diefe
+hat bekanntlich durch die Elementar - Geometrie bloß
+für den rechten Winkel ftatt. Auch hier gehen wie-
+der einige hiftorifche Nachrichten voraus. Zur Auf-
+löfung felbft bedient fich der Vf. der Sinuffe, ent-
+lehnt einen Satz aus Klügels anal. T’rigon. und ver-
+bindet die dadurch erhaltene Gleichung mit der im
+1. $. diefer Schrift gefundenen, wo alsdann durch Be-
+fchreibung einer Öphiuride der Sinus vom dritten
+Theil eines gegebenen Winkels durch Conftruction
+efunden wird. Eine andere Wurzel der gebrauchten
+übifchen Gleichung giebt den Sinus von j-des zu
+theilenden Winkels; da nun diefer halbirt werden
+kann, fo erhält man ebenfalls das Verlangte. Der
+zweyte Abfchnitt handelt von einer andern krummen
+Linie, welche der Vf. die Toxoide (Bogenlimnie) —
+von ihrer Aehnlichkeit mit einem Bogen, wie er zum
+Pfeillchiefsen gebraucht wird, — genannt hat, Der
+Gang, wie er die Gleichung dafür entwickelt, das
+Werkzeug zur mechanifchen Befchreibung derfelben |
+erfindet, und die Anwendung davon macht, alt völ
+lig fo wie bey der vorigen. Die Linie ift vom drittes
+Grade, wird durch die Axe in zwey ähnliche und
+gleiche Hälften getheilt, hat zwey Wendepunkte und
+zwey gleiche ins Unendliche fortlaufende Schenke
+Auch von ihr wird gezeigt, wie fich das Delifche
+Problem leicht und fcher auflöfen läfst. Auch wir
+die Conf{truction der kubifchen Gleichung: x% — ga
+— h = 0o, deren drittes Glied fehlt, daran gezeigt
+Der dritte Abfchn, entwickelt die Kukumaide (Que
+kolben - Linie), und zeigt deren Anwendung, wi
+bey den vorigen. Sie hat ungefähr die Geftalt eine
+Retorte, die man fo wohl rechts als links betrachte
+Auch Ge ift vom dritten Grade, wird durch die Aw
+in zwey ähnliche und gleiche Hälften getheilt, M
+zwey unendliche Schenkel mit Afymptoten und e
+Schlinge oder Knoten, Vierter Abfchn.. Die Arıs
+myoide (Zwiehel Linie) mit ihrer Anwendung,
+fo. Sie Geht ungefähr aus wie ein gröfserer =
+
+  
+    
+   
+  
+   
+  
+   
+   
+   
+   
+   
+   
+       
+

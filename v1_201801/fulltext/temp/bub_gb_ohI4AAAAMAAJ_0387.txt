@@ -1,0 +1,138 @@
+675
+
+rungen fchliefsen die eigene aus Bradley’s und Piaz-
+zi's Beobachtungen fich ergebende Bewegung mit
+ein; bey den Haupt/ternen find nach die neueften
+Beftimmungen von Oriani , Pond, Brinkley und Bef:
+fel befonders angemerkt, Die Aftronomen werden
+den Werth diefes mit fo grofser Sorgfalt hearbeite-
+ten Sternkatalogs zu fchätzen willen. 5) Scheinba-
+re gerade Auffteigung und Abweichung der Beffel-
+Sehen und Pondioben 45 Hauptfterne, von 10 zu 10
+"Tagen des J. 1821 für dieCulminationszeit in Kopen-
+hagen berechnet. ; Alle Rechnungen find vom Capi-
+tän von Carvc und Lieutenant Zahremann doppelt
+
+macht, und bey den für Praeceffon, Aberration-
+
+und Nutation angewandten Formeln find die neue-
+{ten Elemente von Beffel und Lindenau zum Grunde
+
+elegt worden. Diefe letzte Tafel erfpart vollends
+Bin Aftronomen alle fpeciellen Rechnungen für die
+fcheinbaren Oerter einzelner Hauptfterne, von de-
+nen heyqgahe täglich Gebrauch gemacht wird.
+
+Aftronomifche Hülfstafeln für 1822. — Die
+drey erften Artikel des vorhergehenden Hefts, eine
+Sonnenephemeride, der fcheinbare Ort des Polar.
+fterns für jeden Tag, und die Teheinbaren Oerter der
+
+Hauptfterne von 10 zu 10 Tagen werden ohne
+wefentliche Abänderungen auch für den Jahrgang
+ı822 mitgetheilt, nur eg: bey den {cheinbaren
+Oertern der Hauptfterne die Rectafcenfionen nach
+Bef/fel, die Declinationen nach Pond zum Grunde,
+(In den Aftron. Nachrichten des Herausgebers 1L.B.
+No, 30 theilt Zahremann die kleinen Correctionen
+mit, wodurch in den Hülfstafeln 1821 — 1823 die
+{cheinbaren Rectafcenfonen, und in den Hülfstafeln
+'x821 und 1822 die fcheinbaren Declinationen gmäu
+den neuen Be/fel’fchen Beltimmungen angepalst wer-
+den können.) Nen hinzugekommen find io diefem
+Hefte: ı) Des Mercur’s und Uranus geocentrifche
+Länge und Breite, gerade Auffteigung und Abwei-
+chung, auch Entfernung von der Erde für jeden Tag
+
+‚ desJ. 1842 und für den wahren Mittag zu Greenwic
+berechnet von Niden. Bey Mercur wurden die Lin-
+denaäufchen, bey Uranus die Delambrefchen Tafeln
+ebraucht.. Für die übrigen Planeten, Venus, Mars,
+Supiter und Saturn ift in den Diftances des Heraus.
+ebers für 1823 gelorgt, wo bereits die Oerter der-
+Faden für 1822 berechnet find. . Eine weitere fehr
+
+{chätzenswerthe Zugabe diefer Sammlung find a) -
+
+die neuen Beffer’fchen Formeln und die nach denfel-
+ben berechneten {ehr bequemen Hülfstafeln zur Re-
+duction eines mittlern Sternorts auf den fcheinba-
+ren, welche der Herausgeber, um fie gemeinnützi-
+
+er zu machen, aus feinen Aftron. Nachrichten I. B,
+Ro. 4 auch hier vollftändig hat abdrucken Ilaffen,
+Die-genauen Formeln, welche ebendafelbft Befjel
+für die Praeceffon und Aberration, und für die ge-
+doppelte vom Orte der Sonne und des Mondsknoten
+N GOOUNE TUNG Nutation der Sterne nach gerader Auf.
+fteigung und Abweirhung giebt, werden bereits all-
+gemein von deutfchen Altronomen gebraucht, und
+Zur ungemein grofsen Erleichterung der Kechnung
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+
+-676
+
+haben Beffel und deffen zwey Schüler, Rofenberg
+und Scherke, die aus den Aftron. Nachr. auch hier
+abgedruckten Logarithmen für 4, B, Cund D, die
+zwey erlten von 10 zu 10 Tagen, die beiden letzten
+zur bequemeren Interpolation auf jeden einzelnen
+Tag des Jahrs berechnet, Durch fchickliche Um.
+formung verwandelt fich nämlich die ganze Redu-
+ction des mittlern Sternorts auf den {fcheinbaren
+nach jenen Formeln von Beffel in den höchft einfa.
+chen Ausdruck, für gerade Aufflteigung = Aa
+Bb+Cc-+Dd und für die Abweichung = 4a’ +
+Ch + Cc'-+Dd’, wenn bey der Rectafcenfion die
+zwey unbedeutenden und bey jeden Fixftern unverän-
+derlichen Glieder — 0,“0534 Sin. IV — 0,“0039 Sin.
+25 (wobey V und S die Oerter des Mondsknoten
+und der Sonne bezeichnet) weggelaffen werden.
+4, B, C und D beziehen fich auf dasjenige in den
+Fler lenen Formeln, was allen Fixfternen gemein.
+fchafılich ift, a, b, c, d hin egen und a’, 6b”, c*, d’
+auf das befondere, oder auf die Rectafcenfion und
+Declination jedes einzelnen Fix{terns. Schon mit
+Hülfe der erftgenannten Logarithmen für 4, B, C,
+und D, welche für die Jahre 1819 — 1822 incl. hier
+hei werden, kann man allo für jeden Tag
+diefer vier Jahre durch blofse Addition der Loga-
+rithmen von a, b, c, d.und von a‘, b', c‘, d”, die
+man in trigonometrifchen Tafeln aufzufuchen hat,
+den fcheinbaren Ort eines jeden Fixfterns mit der
+leichteften Mühe finden. Um aber auch diele Auf-
+{uchung in den trigonometrifchen Tafeln überflöfGg
+zu machen, ift der Herausgeber noch einen Schritt
+weiter gegangen, und theilt überdiefs noch die auf
+feine Veranlalfung von D. Urfin und Hanfen berech-
+neten Logarithmen derGröfßen a, b, c, d und a‘, bh‘,
+c’, d’, für alle in der Sammlımg 1821 angeführten
+Bradley - Piazzifchen Sterne bis zur 4. 5.Gröfse mit.
+Ohne alle Schwierigkeit laffen fich damit nun für
+jeden Stern diefes Catalogs fpecielle Tafeln feines
+fcheinbaren Orts entwerfen.
+
+Aftronomifche Hülfstafeln für 1823. — Gemein-
+fchaftlich mit den een Tefren enthält das für
+1823 die Sonnenephemeride, und den feheinbaren
+Ort des Polarfterns, Nur ift zu der Sonnenepheme-
+ride ein Anbang hinzugekommen, indem der Her-
+ausgeber einem von Wurm geäufserten Wunfche ge-
+mäfs, auch noch die wahre Länge der Sonne und
+den Entfernungsloparithmen für jeden Tag aufge-
+nommen hat: fo bat man nun alle die Sonne betref-
+fennen Data kurz beyfammen, ohne auf ie Sonnen-
+tafeln felbft zurückgehen zu müffen;. denn, aufser
+der Declination, liegt auch fcehon die gerade Auf-
+fteigung der Sanne mittelbar in der für jeden Tag
+angegebenen Sternzeit im wahren Mittag enthalten.
+Auch die Breite der Sonne für 1823 hat Hanfen be-
+fonders berechnet in den Aftron. Nachrichten M1.B.
+No. 30. Neu ift in diefem Hefte. ı) die {rheinbare
+Lern Auffteigung und Abweichung des Circumpo-
+arfterns d im Kleinen Bären, der häufig auf eben die
+Art, wie der eigentlich fogenanpte Polarftern « des
+
+Kl;
+

@@ -1,0 +1,110 @@
+457
+GEOMETRIE,
+
+BarsıLav, b. Grafs, Barth u, Comp.: Elemente der
+
+ebenen analytischen Geometrie, zum Gebrauche
+
+bei Vorträgen in den oberen Classen der Gym-
+nasien , und zum Selbstunterrichte , entwor-
+
+fen von M, J. K. Tobisch, Professor am
+Königl. Friedrichs - Gymnasium zu Bres-
+lau. II und 103 S, 8, Mit zwei Kupfer-
+
+tafeln., (8 gGr.)
+
+Vorstchende Schrift ist als eine, Fortsetzung
+der. Lehrbücher desselben Verfassers: Ueber Plani-
+metrie und ebene Trigonometrie zu betrachten, Da-
+her bemerkt auch der Vf,, dafs er, da er die Ele-
+mente der ebenen analytischen Geometrie unmittel-
+bar nach der Planimetrie und ebenen Trigonometrie
+folgen lassen wollte, er die hier behandelten Cur-
+ven nicht als Züge habe betrachten können, wel-
+che durch das Schneiden des Kegels entstehen, so
+wie er auch nicht von Körpern habe sprechen kön-
+nen, die durch Umdrehung der hier behandelten
+Curven um ihre Achsen bestimmt werden, Er er-
+innert endlich noch, dafs es nicht seine Absicht
+gewesen sey, die gesammte ebene analytische Geo-
+metrie in wenige Bogen zusammen zu pressen, 8son-
+dern nur die Elemente dieser so ausgedehnten Wis-
+sensechaft zu geben. Das Buch wird seinen Zweck
+nicht verfehlen, da es sich, wie die Schriften des
+Vfs sämmtlich, durch grofse Deutlichkeit auszeich-
+net. Rec. hat den Versuch gemacht, es einem Pri-
+maner, der von dieser Disciplin der Mathematik
+noch nichts gehört hatte, zum Selbststudium zu
+geben, und dieser fand fast keine Schwiäerigkeit,
+welche er nicht ohne Hülfe des Lehrers hätte be-
+siegen können, Der Vf. heginnt mit einer Kinlei-
+tung, worin er zuerst das Wesen und den Zweck
+der analytischen Geometrie erklärt, Dann giebt
+er, stets vom Einfacheren und Leichteren zum Zu-
+sammengesetztern und Schwereren fortschreitend,
+eine Reihe von Aufgaben, numerische Ausdrücke
+
+eometrisch zu construiren. S, 12 — 26 folgt nun
+Sie Lehre von der Bestimmung der Lage eines
+Punktes in einer Ebene, Wir geben hier $, 48,
+als eine Probe des überaus falslichen Vortrages;
+„in der analytischen ebenen Geometrie kann man
+entweder von einer Haupteigenschaft einer Curve
+ausgehen, daraus eine Gier ehung die Natur) für
+diese Curve ableiten, aus dieser aber die übrigen
+
+ 
+
+A. L, Z. Num 138, AUGUST-1836, . 288
+
+wesentlicheren Eigenschaften der Curve entwickeln;
+oder eine Gleichung, worin.zwei Veränderliche
+vorkommen, als die Natur einer Curve annebmen,
+und ‚daraus die Kigenschaften der zugehörigen
+Curve ableiten, Diese beiden Methoden haben so
+ziemlich dasselbe Verhältnils zu einander, wie_An-
+satz und Auflösung einer Gleichung -zur blefsen
+Auflösung einer. schon fertig gegebenen Gleichung.”
+Zur Erläuterung des eben Gesagten.. giebt der Vf,
+nun mehrere Beispiele ,‘ auch hier wieder vom
+Leichteren zum Schwereren fortschreitend, ı Aufg.1.
+Es, sey eine Curve von solcher Beschaffenheit ge-
+geben, dafs jeder Punkt gleichweit von einem be-
+stimmten Punkte entfernt ist; wir sollen die Ghi-
+chung finden, wodurch allgemein angegeben werde,
+wie man aus der bekannten Abscisse eines. Punk-
+tes die Ordinate dieses Punktes findet,‘ Es ist also
+hier aus den Bedingungen der Aufgabe. eine Glei-
+chung. (ein Ansatz) zu finden, Als Beispiel der
+zweiten Methode wird dann die Aufgabe gestellt:
+„es sey y?= px die Natur einer Curve; man soll
+daraus einige Eigenschaften. derselben ableiten.”
+Darauf geht der Vf. zu den Curven des ersten Gra-
+des selbst über. Dann folgen die Curven des zwei-
+ten Grades, Nachdem der Vf, hier erst die noth-
+wendigen allgemeinen Betrachtungen angestellt hat,
+eht er nun zu den einzelnen Curven des zweiten
+rkden über, und zwar zuerst zur Parabel S. 34
+bis 47, Von der Tangente, Subtangente, Nor-
+male und Subnormale der Parabel S. 47 —51. Von
+den Durchmessern der Parabel S, 51 — 35. Von
+dem Flächenraume einer, von einem Parabelhogen
+und einer Doppelordinate, die senkrecht auf der
+Achse steht grenzten Figur S. 35—560 Von
+der Ellipse $. 56—69. Von der Tangente, Sub-
+tangente, Normale und Subnormale der Ellipse
+S. 69—80. Von der durch die Ellipse begrenzten
+Fläche S. 80—81. Von der Hyperbel S. 81—91,
+Von der Tangente , Subtangente, Normale und
+Subnormale der Hyperbel S. 91— 96. Von den
+Asymptoten der Hyperbel. S, 96 — 101, .Von den
+Durchmessern der Hyperhel. S. 101— 103, Wir
+können das Buch für die ersten Classen der Gym
+nasien, wo offenbar eine ausführliche Behandlung
+dieser Wissenschaft noch nicht stattfinden kann,
+mit voller Ueberzeugung empfehlen, Papier und
+Druck sind gut,
+
+M,
+

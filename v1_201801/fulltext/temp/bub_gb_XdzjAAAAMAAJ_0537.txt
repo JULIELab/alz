@@ -1,0 +1,118 @@
+1071
+eine Gleichheit des Begriffs als eines Ganzen, mit
+feinen Beftimmungen als Theilen, oder ich ver-
+leiche einen Begriff, ein Object mit einem andern;
+n fofern ich in beiden diefelben Beftimmungen oder
+einige Beftimmungen finde, die in beiden ‚einerley
+find; und ich nenne fe in diefer Hinfcht entweder
+durchaus oder theilweife identifch. Identität ift ailo
+cin Reflexionsbegriff, dem aber etwas , nehmlich die
+Beftimmungen zum Grunde liegt. Wenn die Beftim-
+mungen verändert werden , fo mufs - nothwendig
+auch das Urtheil über die Identität und Nichtidenti-
+tät verändert werden. Anftatt alfo, dafs die Identi-
+tät machen follte,. dafs Etwas diefes.oder jenes ift,
+wird vielmehr die Identität durch das Etwas, durch
+die Merkmale und Befuümmungen beftimmt. Auch
+j(t die Identität, abgeföndert von allen Begriffen und
+deren Beftimmungen, nichts als, ein leerer abftracter
+Begriff, wodurch ich mir.ein mögliches Verhältnifs
+eines Etwas, das noch nicht gegeben, beftimmt, be-
+an ift, denke, ein logifcher Begriff; aber diefer
+Sedanke ift ein reales Object, er ift nicht der Grund
+von dem Seyn irgend eines. Dinges, fondern wird
+jelbft durch die Data erft zu einem wirklichen Be-
+iffe. — Es ift alfo eine grofse Täufchung, wenn
+der Vf. glaubt, in der Identität Etwas gefunden zu
+haben, welches, ob es gleich ideal ift, doch zugleich
+real und der Grund des Seyns ift. Er verwandelt
+yon nun ‚an alle logifche Verhältniffe in reale, und
+indem er die Identität felbfr zu einem Realen und
+Abfoluten ohne Grund gemacht hat, ;‚ent(teht die
+Täufchung, als fey ein Realprineip gefunden, aus
+welchem das Seyn und Erkennen in ihrem Verhält-
+nifs deduciret worden, als fetze felbft das Derniken
+ein Realprincip voraus, ohne welches die Logik
+nicht als Wiflenfchaft auftreten und fich behaup-
+ten könne. Doch genug von diefem Syftem
+des rationalen Realismus, welches hier ungeach-
+tet aller Deutlichkeit, doch eine grundlofe Combina-
+
+tion ift.
+
+(Der Befchlufs folge.)
+
+MATHEMATIK.
+
+OrrEnwsach a. M., b.Brede: Verfuch einer neuen und
+gründlichen Theorie der Parallellinien , neblt einer
+Widerlegung des Hauff’{chen Verluches ciner Be-
+richtigung der Euklid’fchen "Theorie der Paralle-
+len, von &. Ignaz Hoffmann. 1801. 48 S. 8-
+(6gr.) .
+
+Auch bey diefem neuen Verfuche. kommt alles
+-auf einen von aller Schwierigkeit befreiten Beweis”
+‚des berühmten eilften Euklidifchen Grundfatzes. an.
+Um diefen zu geben, fchickt der Vf; einige Sätze
+
+ERGÄNZUNGSBLÄTTER Num! 134: NOVEMBER 1809-
+
+° XOo72
+
+aus Käftners Geometrie voraus. $. 30. S. 17 ftellt er
+aus (elbigen zwey Sätze, als von ihm bewiefen, anf,
+wovon der mit B‘bezeichnete fo lautet: „da der Ver;
+längerung feiner (eines vom Vf. betrachteten Wim
+kels )  Shenkel nirgends Grenzen gefetzt find, fo
+Ode auch. ihre Entfernung ohne nde zu, md ihr
+Abfland kann größer werden, als jede an eatbenn, endli.
+ragen Bl Rec. mufs las ieie emerken,
+dafs nur der erfte Theil des Satzes aus den vom Vi.
+ebrauchten Prämiffen, nicht aber auch der Zufatz,
+Hier hier mit anderer Schrift gedruckt ift, folgt.
+Man nehme z. B. den Decimalbruch  o, 3; fo erhält
+man durch Zufatz einer 3, den neuen 0,33, welcher
+‚gröfser als der vorige ift, und fo giebt es durch Zu-
+tatz einer neuen 3, wieder einen gröfsern als den
+vorigen, er wird aber durch.folche Zufätze nicht
+auch gröfser als jede angegebene endliche Gröfse,
+indem er nicht einmal.gröfser als 4, ja nicht einmal
+fo grofs als. + werden kann. S. a6. $. 36. ‚kommt
+nun der Vf. auf die Schlufsfolge: (o-mu/s es irgend
+einen (Perpendikel).unter ihnen geben, der gröfser
+als am ift; wobey er ‚den oben berührten Satz 30
+B. citirt. Es folgt aber hier auch nichts weiter, als
+dafs jedes folgende Perpendikel gröfser als fein vor-
+hergehendes z. Br t> $o ift, nicht.aber, dafs
+Ben eins derfelben nothwendig == @ m oder: größer
+als am feynmüfle. Man fehez. B. in des Vf. Figur
+die m r.etwa als den Schenkel einer Hyperbal, und
+die a 6 als die Afymptote derfelben anyfo wird es
+nie ein r4==m a geben. Freylich ift hier mi als eine
+kArumme Linie angenommen; aber. darin liegt eben
+die Schwierigkeit, dafs man zeigen foll, es fey das
+was ‚bey einer krummen Linie gelchehen könne, bey
+einer geraden, unter, denfelben Umftänden nicht «er
+Fall. Dies mufs aus den logifch deutlichen Begriffen
+von gerader und krummer Linie; oder aus den Defi-
+nitionen derfelben entwickelt werden, wie es in
+Voigt's Tentam. ex wotione lineae vectae, diftincta
+et completa Axiom. XI. Ewucl. verit. demonftrandi,
+(Sevae 1789.) und in. deflen Grundiehren der
+reinen Mathematik 6. 98. Geom. gefchehen ift. Der
+Satz des Vf. 6. 37.» welcher im. wefentlichen der
+ııte Euclhid. Grundlatz ift, kann. fonach nicht als
+von aller. Schwigrigkeit befreyt, angelehen wer»:
+den. Alles. übrige weiterhin vom Vf. beyge-
+brachte, .ift weiter keinem Zweifel unterworfen ,
+und ift in jedem guten Lehrbuche eben fo [chart be-
+wielen , fobald man fich an jene Schwierigkeit nicht
+mehr :töfst. Was im Anhange-gegen den Hauff’fehen
+Verfuch vorgebracht wird, fofleit dem Rec. mehr
+eine Kritik, als eine förmliche Widerlegung deffel-
+ben zu feyn; auf jeden Fall mufs man es Arn. Hauf
+felbft überlaffen, das nöüthige darauf zu erwicdern.
+
+ 
+

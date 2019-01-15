@@ -1,0 +1,130 @@
+635
+
+te finden, welche mit der einen gegebenen multipli-
+cirt ein, der andern gegebenen Bleiches, Product
+giebt. — Dafs es erlaubt fey, jedes Divihonsexem-
+el als einen Bruch zu fchreiben, de(fen Zähler der
+ividendus und deffen Nenner der Divilor ift, hätte
+nicht (o fchlechthin gelagt,- fondern bewieflen wer-
+den follen, fo wie auch die Richtigkeit des gewöhn-
+fichen Verfahrens bey der Divifon mit einer mehr-
+namigen Gröfse eines Beweifes bedarf, der hier,
+wie in den Werken Nr.2. und 3, fehlt. — Die Re-
+eln der Bruchrechnung find hier alle ohne Beweife
+ingeftellt. — Zweyter Abfchnitt, Lehre von den,
+Potenzen. — Die Regeln für die Multiplication
+u. f. w. mehrziffriger gemeiner Zahlen fand hier bel.
+fer, als in vielen andern Lehrbüchern begründet;
+dagegen vermifst Rec. den Beweis dafür, dafs aus
+unvollkommenen Quadraten die OQuadratwurzeln
+und aus unvollkommenen Cubis die Cubikwurzeln
+niemals genau gefunden werden können, — Das
+vorliegende Werk geht wie alle andern dem Rec.
+bis jetzt bekannt gewordenen Lehrbücher von der
+Ausziehung der Wurzeln aus gemeinen Zahlen zur
+Wurzelausziehung aus allgemeinen Zahlen über;
+ficher wäre es aber (yftematifcher und auch kürzer
+den umgekehrten Weg zu nehmen, — Aus dem,
+was über die Bezeichnung der Wurzelgröfsen als Po-
+tenzen mit gebrochenen Exponenten gefagt wird,
+Geht man noch nicht, warum ch auf folche Poten-
+zen nun auch die für andere Potenzen geltenden
+Rechnungsregeln ausdehnen laffen. — Das ge-
+nauere Verfahren aus Brüchen, deren Nenner kein
+vollkommnes Quadrat oder vollkommner Cubus iflt,
+und «ie fich auch nicht genau in Decimalbrüche ver-
+wandeln laffen, die Quadrat - oder Cubikwurzeln
+annihernd zu finden, ındem man erft dadurch, dafs
+man Zähler und Nenner mit einerley Zahl multipli-
+cirt, den Nenner zu einem vol!'kommnen Quadrat
+oder Cubus macht, hat der Vf. nicht gelehrt. —
+Dritter Abfchnite. Lehre von Verhältniffen, Com-
+binationen, figurirten Zahlen und Logarithmen, —
+Von dem Lehrfatze, hier, wohl nur aus Verfehen,
+Erklärung genannt (6 112), dals in einer geometri-
+fchen ‚Proportion das Product der Mittelglieder
+gleich dem Producte der äufsern Glieder ift, wird
+die Umkebrung zwar bewiefen ($.115), aber fchon
+vorher ($. ı14) wird diefelbe als erwiefener Satz
+ebraucht. — Was über die fogenannte verkehrte
+egel de tri gefagt ift, möchte nicht zureichen, dem
+Schüler einen richtigen Anfatz der Art machen zu
+"lehren. — In $.119 fetzt der Vf, die Proportion
+an 393715 : 3985 Thir. == 112 Ctr. 58 5: x Thlir.,
+wodurch er offenbar gegen den Grundfatz verftöfst,
+dafs nur gleichartige Gröfsen ein Verhältnifs zu ein-
+ander haben. Indefs kann man allerdings in jeder
+Zahlenproportion - die Mittelglieder verwechfeln,
+weil man, nachdem die Glieder eines Verhältni(fes,
+auf einen einzigen Namen gebracht £nd, diefen Na-
+men ganz weglaffen kann, da Gch zwey Vielfache
+oder Brüche von einerley Gröfse zu einander verhal-
+ien, wie ihre Coeffcienten, z. B.:35 Cir. 8715:
+
+ERGANZUNGSBLÄTTER ZUR A. L. Z.
+
+636
+
+112 Ctr, 5815 = 3545 : 112,48. Koften nun 35 Ctr.
+8715 3985 Thir., fo ift die Proportion 35%: 112%
+= 3985 Ühlr. : x‘C’hlr, oder 3937 : 12478=3985: x,
+daher durch Verwechfelung 3937 : 3985 = 12378 : x, -
+wo man dann den unbenannten Gliedern von einer-
+ley Verhältnifs wieder jeden beliebigen Namen, hier
+natürlich den Namen der Gröfse, welche man fucht,
+alfo Thaler, geben kann, daher 3937 : 3985=
+12378 Thlr. : x T’hir. Dafs in dem. einen Verhält-
+niffe die Namen weggelaffen werden, ift nothwen-
+dig, weil fch zwey benannte Zahlen nicht mit ein.
+ander multipliciren Jaffen; es gewährt aber auch oft
+einen bedeutenden Rechnungsvortheil z.B. die Auf-
+gabe: ı f5 koftet ı2 Grofchen, was 3 j5 20 Loth?
+giebt den Anfatz ı f5 : 3515=3Thlr:x Thlr., dar-
+aus. wird 1:3j==1:x und daraus ı Thlr : 3 Thlr,
+15 Grofchen == 3: x daher z=3 (3Thlr. 15 Gro-
+fchen) = ı Thir. 19Gr, 6 Pf. Einige Uebung lehrt
+Jeden bald finden, wo eine folche Vertaufchung der
+Namen von Nutzen ift. — Von den Progreffonen
+ift im vorliegenden Werke fehr wenig mitgetheilt
+worden, weil an der Stelle, wo fie vorkommen,
+noch nichts über die Auflöfung der Gleichungen ge-
+fagt worden ift. Was über die unendlichen geome-
+trifchen Reihen vorgetragen wird, ift 'fehr weit-
+fchweifßg, und hätte, wenn von dem für die ganze
+Arithmetik fo wichtigen Subftituiren Gebrauch ge-
+macht worden wäre, viel kürzer abgefafst werden
+können, Rec. glaubt, dafs man fchon den Anfänger
+recht früh in dem, an fıch fo leichten, Subfltituiren
+üben müffe, — Die fyntaktifche Operation, welche
+man gewöhnlich Variation nennt, bezeichnet Hr. R.
+mit dem Namen weitläuftige Combination; dagegen
+verfteht er unter mittlerer Combination das, was
+man gewöhnlich Combination mit Wiederholungen
+nennt, und unter ftrenger Combination das, was
+man fonit Combination ohne Wiederholung nennt.
+Dem Rec. fcheint durch Abänderung des eingeführ-
+ten Sprachgebrauchs nichts‘ gewonnen zu werden.
+Vebrigens find von diefen fyntaktifchen Operationen
+wie von allen in diefem Abfchnitte behandelten Ge- -
+gen/tänden nur die erften Anfangsgründe hier vorke-
+tragen. Der Vf, verwechfelt in $.189 die Begriffe
+von figurirten Zahlen und arithmetifchen Reihen
+höherer Ordnungen, Was er darüber fagt, ift bey
+aller Weitläufigkeit doch nicht hinreichend klar.
+Eben fo hätten die Regeln über die Rechnung mit
+Logarithmen kürzer entwickelt werden können, da
+fie fo unmittelbar aus der Rechnung mit Potenzen
+folgen.‘ Die Anweifung zum Gebrauche der Tafeln
+ift. deutlich und mit Recht nicht zu gedrängt. —
+Zweyter Theil. Rechnung mit algebraifchen Glei-
+chungen. Ift im Ganzen gut abgehandelt, nur hät.
+te fich wieder Manches, der Deutlichkeit unbefcha-
+det, kürzer faffen Jaffen, z.B.S.23ı wo (a — va)?
+durch Multiplication entwickelt wird, während es
+vortheilhafter ift, den Schüler überall an die An-
+wendung einmal bewiefener Formeln, wie die
+für (a-4-46)*, zu gewöhnen. Der Vf, hätte, in Be-
+zug auf die Eliminationen der Wurzelgröfsen, we-
+
+nig-
+

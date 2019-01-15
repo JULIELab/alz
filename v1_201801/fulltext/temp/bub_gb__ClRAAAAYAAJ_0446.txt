@@ -1,0 +1,132 @@
+219
+
+setze man für r eine zwischen a und & fallende Zahl
+e, und beobachte wieder die Zahl der entstehenden
+Zeichenwechsel; ist diese um 1 gröfser als für =,
+und also um 1 kleiner als für 5 =a@, oder umgekehrt
+so liegt eine reelle Wurzel zwischen ag und c, un
+eine zweite zwischen c und &, Giebt aber diese Sub-
+stitution = = c mit £ = b oder r= a die nämliche
+Anzahl von Zeichenwechseln; so können zwei reelle
+Wurzeln zwischen a und c, oder c und b eingeschlos-
+sen seyn, und man setzt daher für 5 im ersten Falle
+eine zwischen « und c, im zweiten eine zwischen €
+und & fallende Zahl, und beobachtet abermals die
+für diese Substitution entstehende Zahl der Zeichen-
+wechsel. Sind nun die beiden zu vermuthenden
+Wurzeln reell und ungleich, so erhält man sehr bald
+auf die angeführte Weise zwei Zahlen, welche für
+x gesetzt, solche Mengen von Zeichenwechseln her-
+vorbringen, dafs ihr Unterschied gleich Eins wird;
+und es liegt sodann zwischen diesen beiden Zahlen
+die eine dieser beiden Wurzeln, während man zu-
+leich auch die nächsten beiden Zahlen hat, welche
+je andere Wurzel einschliefsen, Sind dagegen diese
+beiden Wurzeln reell und gleich, oder imagimär, so
+kann man durch noch so viele Zwischensubstitutionen
+niemals eine Zahl finden, für welche die Anzahl der
+genannten Zeichenwechsel, gegen jene für r= a
+oder = %& um eine Einheit verschieden wäre; man
+erkennt diesen Umstand, ohne erst die Zeichen für
+die abgeleiteten Polynome Xı, X;...., zu suchen,
+immer leicht daraus, dafs das Polynom X, welches
+in diesem Falle für 5 = a und x =%& nothwendig ei-
+nerlei Zeichen haben mufs, für keinen zwischen a und
+b liegenden Werth sein Zeichen ändern kann, was
+aber für eine zwischen diesen heiden reellen Wur-
+zeln liegende Zahl geschehen miülste, Hat man sich
+also von dem Nichtvorhandenseyn gleicher Wurzeln
+überzeugt, so deutet dann dieser letzt erwähnte Um-
+stand immer auf ein Paar imaginäre Wurzeln,
+Beträgt der erwähnte Unterschied in den für
+5 = a und = b entstehenden Zeichenwechseln drei
+Einheiten, so mufs wenigstens eine reelle Wurzel
+zwischen @ und 5 liegen, und man wird diese auf
+die vorhin angegebene Weise bald zwischen zwei,
+nur um eine Einheit von einander verschiedene, Zah-
+len einschlielsen können, Hinsichtlich der beiden
+übrigen gilt das eben Erwähnte, Und so wird man
+überhaupt für jede gegebene Gleichung, durch ge-
+ordnete Substitutionen, sehr bald die sämmtlichen
+reellen Wurzeln entdecken und jede derselben zwi-
+schen zwei Zahlen einschliefsen können, welche
+höchstens um eine Einheit von einander abstehen.
+Z, B. für die Gleichung z3—7x+7= 0 entdeckt
+man auf dem gewöhnlichen Wege, indem man nläm-
+Jich für x die Zahlen 0, 1, 2....,—1,—2,,..
+setzt , blos eine einzige reelle Wurzel zwischen — 3
+und —4, MNach unserer Methode ist X = x3 —
+2X +7, Xı=3x7'—7, Xı=35r, Xı=13 dar-
+aus erbält man für + = odie Zeichenreibe: + — + +
+also zwei Wechsel), für = 5:+ +1+ + (0
+echsel, was auch für jede noch so grofse Zahl,
+
+ALLG. LITERATUR - ZEITUNG
+
+"Summen und Differenzen auf einige besondere
+
+220
+
+wie man leicht sieht, statt findet); cs können daher
+zwischen 0 und 5 (da die Differenz: 2 — 0 = 2 isf)
+zwei reelle Wurzeln HMegen,‘ Für x = 1 hat 'män
++ — + + (zwei Wechsel); die beiden Wurzeln
+liegen also, wenn sie reell sind, zwischen I und 2,
+Es giebt ferner £ = 1'5—-— + + (einen Wech-
+sel); es liegt also eine dieser beiden Wurzeln zwi-
+schen 1 und 1*5, und die andere zwischen 1 + 5 und
+2, Um die dritte Wurzel, welche sonach (da das
+zweite Glied fehlt) nur negativ seyn kann, zu ent-
+decken, hat man für 5 =— 5 1— + — + OO; die-
+se Wurzel liegt daher .zwischen 0 und — 5. Für
+5 = — Jentsteht: + + — + (2); die Wurzel liegt
+demnach zwischen — 5 und — 3. r= — 4 giebt:
+— + — + (3); es liegt also endlich die dritte Wur-
+zel, zwischen — 3 und — 4, Und in der That, die
+
+Wurzeln dieser Gleichung sind:
+Xı = 1:35689, 72 = 169202 und x; = — 3°04892,”
+Das vierte Kapitel.bandelt von den Reihen im
+Allgemeinen, Kap, 5: von den vorzüglichsten Um-
+wandlungen der Funetionen einer Variablen, Kap,6:
+von der Umkehrung der Reihen, Kap. 7: über die
+Convergenz und Divergenz der unendlichen Reihen,
+Kap, 8: Entwickelung der Exponentialgröfsen und
+logarithmischen Reihen, Bemerkungen über die
+Convergenz unendlieher Factorenfolgen, Kap, 9;
+Eutwickelung der vorzüglichsten trigonometrischen
+Reihen und der Reiben zur Berechnung von x; der
+Moivre’schen Formelz Auwendung der letzteren auf
+die Anflösung der binomischen und einiger trinomi-
+schen Gleichungen, Kap. 10: Entwickelung der Si-
+nus und Cosinns der vielfachen, und der Potenzen
+von Sinus und Cosinus derveinfachen Bogen, Kap. 11;
+die Elemente der Wahrscheinlichkeits - Rechnung,
+Kap. 12; von den endlichen Differenzen und Funetio-
+nen. Kap. 13: von den Summen oder endlichen In-
+tegralien der Funetionen, Kap. 14: Anwendung der
+äHe,
+In dem zweiten Bande behandelt der Vf. die Kegel
+schnittslinien besonders ausführlich, womit wir voll-
+kommen einverstanden sind, Nach einer vorausge-
+schickten Einleitung, worin der Vf, üher die An-
+wendung der Algebra auf die Geometrie im Allge-
+meinen spricht, sodann die geometrische Construk-
+tion algebraischer Ausdriücke, und die Auflösıumg
+einiger bestimmten geometrischen Aufgaben giebt,
+folgt nun Abschnitt 1: die analytische Geometrie in
+der Ebene , oder auf zwei Coordinaten bezogen, und
+zwar Kap, 1: Bestimmung der Lage eines Punktes;
+Gleichungen des Punktes und der geraden Liniez
+Aufgaben über die Jetztere, Kap, 2; Gleichung des
+Kreises und einige Aufgaben über denselben, Kap, 3:
+über die geometrischen Oerter, Kap, 4; von eini-
+gen Verbindungen der geraden Linien unter einander
+und mit dem Kreisez Auflösung mehrerer bestimm-
+ten und unbestimmten Anfgaben, Wir theilen, um
+auch aus diesem Bande eine Probe zu gehen, eine
+der letzteren mit, Aufg.: es ist eine Anzahl von
+Punkten gegeben; man soll eine en Linie derge-
+stalt ziehen, dafs die (algebraische) Summe der z=
+; en
+

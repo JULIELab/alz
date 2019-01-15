@@ -1,0 +1,150 @@
+185
+
+ren Wasserstand im Hafen reducirt 3356“,938. Der
+Vf. untersucht hier in der Kürze die Gröfse des in
+verschiedenen Gegenden gefundenen Barometerstan-
+des am Meere; wird hierunter jedoch die Größe des
+mittleren Luftdruckes verstanden, so läfst sich hier-
+über, wie Rec. glaubt, ‚bis jetzt noch gar nichts sa-
+gen, da alle diese Messungen ein sehr veränderli-
+ches Element, den Druck der Dampfatmosphäre,
+enthalten; erst wenn dieser von der Gröfse des
+ganzen Atmosphärendruckes subtrahirt ist, läfst
+sich entscheiden, wie der mittlere Barometerstand
+von der Polhöhe abhängt. Rec. fügt daher den
+Wunsch hinzu, dafs der Vf., welcher durch vor-
+liegende Arbeit gezeigt hat, dafs ihn der Gegenstand
+interessirt und wie man Beobachtungen behandeln
+müsse, wofern daraus brauchbare Resultate herge-
+leitet werden sollen, die Angaben irgend eines gu-
+ten Hygrometers, namentlich des Psychrometers,
+regelmälsig aufzeichnen möge.
+
+Der Vf. giebt sodann die Gröfse des Barometer-
+standes in den einzelnen Monaten, aber auch hieraus
+Jäfst sich kein Gesetz herleiten, weil es an Kennt-
+nifs des eben erwähnten Elementes fehlt,
+
+Hierauf wendet sich der Vf, zur Betrachtung
+der unregelmäfsigen Oscillationen des Barometers,
+Der Vf, hat hi@&r die barometrische Windrose für
+den Beobachtungsort entwickelt und findet darnach
+folgende Gröfsen:
+
+; Barometerstand
+Wind Beob- | Berech- | Unter- |
+„ achtet net
+
+ 
+
+ 
+
+Sieht man die vom Vf. Ge gahenen Gröfsen (in
+der mit „ Beobachtet” überschriebenen Spälte) näher
+an, so ist nicht zu verkennen, dafs im nordöstli-
+chen Theile der Windrose Anomalien vorhanden
+sind. Der Vf. bemerkt dabey: „Ob die zu niedrige
+Höhe bey NO durch eine längere Beobachtungsreihe
+aus lichen werden würde, läfst sich nicht ent-
+scheiden.” (S. 24) Da die Winde aus diesem Theile
+des Horizontes seltener geweht haben, als aus den
+übrigen, so wird es schon daraus wahrscheinlich,
+dafs diese Depression von der geringen Zahl von
+Messungen herrühre, der ganze Ga Gröfsen
+in obiger Tafel beweist dieses aufs’ Bestimmteste,
+Bezeichnen wir N mit o und rechnen von hier in. der
+Richtung N, O, S, W die Winkel bis 360°, so las-
+sen sich bey Anwendung der ‚Methode der kleinsten
+Quadrate die obigen Gröfsen ausdrücken durch die
+
+Gleichung
+B.. = 3837," 207 + 1,624 cin (n. 45° 4 78°25')
+—+0,298 sin (n. 90° + 271°44’)
+
+A, L, Z. Num. 17.
+
+JANUAR 1882. 136
+
+- wo Ba den;dem nten Winde (diesen in der angege-
+
+benen Richtung gezählt) entsprechenden Barome-
+terstand bezeichnet, Rec. hat die nach. diesem Aus-
+drucke gefundenen Gröfsen in der Spälte „Berech-
+net” mitgetheilt. Darnach zeigt sich auf das Be-
+stimmteste, dafs bey den Winden N; NO und O0
+noch nicht alle Anomalien ausgeglichen siod. Lei-
+ten wir aus jenem Ausdrucke diejenigen Punkte des
+Horizontes her, ans denen der Wind ,wehen mufs,
+wenn das Barometer den höchsten oder- niedrigsten
+
+Stand haben soll, sofinden wir für das Maximum N 38°
+
+O und für das Minimum S 9° W. Diebeiden Extre- |
+men sind 3838,”66 und 335,82 , der Unterschied bei-
+
+der beträgt 8,”34, Diese Gröfsen stimmen sehr nahe
+
+mit den an anderen Orten im mittleren Europa,
+
+indem nach einem Mittel der Aufzeichnung zu Lon-
+
+don, Middelburg, Hamburg, Copeohagen, Paris, |
+Minden, Berlin, Moskau und Stockholm das Ma.
+ximum bey N 45° O und das Minimum bey S 11° W
+
+liegt (Lehrb. d. Meteor. 11, 816).
+
+Bey dieser Betrachtung der unregelmäfsigen Os-
+cillationen des Barometers bestimmt der. Vf, den Un-
+terschied zwischen dem höchsten und niedrigsten
+Stande in jedem Monate. Das bekannte Resultat,
+dafs diese Differenz im Sommer kleiner ist, als im
+Winter, leitet der Vf. mit Recht aus der Tempera-
+turdifferenz benachbarter Gegenden ab; er scheint
+aber darin zu irren, dafs er hiemit die gröfsere oder
+geringere Reg lm EKeit der Winde in Verbindung
+stellt. Der wahre Grund dieser Erscheinung ist der von
+L.v. Buchangegebene, dafs nämlich die unregelmäfsi-
+genAenderungen der Wärme wegen der geringen Tem-
+
+eraturdifferenz benachbarter Gegenden im Sommer
+
+leiner sind als im Winter, Der Vf. sucht zwar diesen
+Satz zu prüfen und vergleicht die Differenz der Tem-
+
+eraturextreme in den einzelnen Monaten zu Halle
+edoch darf die Untersuchung nach der Meinung des
+Ren, wegen des Einflusses , welchen hiebey der täg-
+liche und jährliche Gang der Wärme hat, nicht auf
+diese Art geführt werden, Mas einfachste Verfahren
+scheint nach der Meinung des Rec. darin zu beste-
+hen, dafs man den Unterschied zwischen jeder ein-
+zelnen Beobachtung des Thermometers und der am
+folgenden Tage zu derselben Zeit gemachten Auf-
+zeichnung aufsucht und aus den 80 Gröfsen, wel-
+che man auf diese Art im Laufe des Monates erhält,
+das Mittel berleitet. Wird dieses Verfahren ange-
+wendet, so zeigt sich auf das Bestimmteste, wie
+sich die Wärme im Winter weit mehr ändert als im
+Sommer. So beträgt die mittlere unregelmälsi
+Aenderung der Wärme von einem Tage bis zum fol-
+
+enden z. B. in Cambridge (Massachusets) und Eya-
+
+ord (Island) im Januar 8530 C und 47,88 C, imJao-
+lius 2°,72 und 2°,75, Aehnliche Thatsachen hat Rec,
+an andern Orten gefunden,
+
+Indem wir dem Beobachter und Vf, für die mit-
+geilen Resultate danken, fügen wir den Wunsch
+
+inzu,. dafs Letzterer die Hydrometeore einer ähn-
+lichen Bearbeitung unterwerfen möge
+F. Kämtz.
+
+ 
+
+ 
+
+ 
+

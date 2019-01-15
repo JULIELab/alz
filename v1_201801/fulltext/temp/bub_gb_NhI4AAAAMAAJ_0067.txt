@@ -1,0 +1,134 @@
+123
+
+che Störungsformeln verbefferten Venustafeln vergli-
+chen; Beobachtungen der Vefta zwifchen dem 30. Sept,
+u. 24. Oct. 1808.; daraus Stillftand der Velta am 23. Oct.
+7 U. 38', 42“ mitt]. Wiener Zeit mit 33%, 57’, 43’, 2
+geoc. Länge und 9°, 58‘, 41”, 6 füdlicher geoc., Breite.
+N  DerRat Beobacht. und Formeln von Prof.
+ap Dorpat. Sternbedeckungen vom ı. März und
+
+27. Dec. 1808. Die Formeln betreffen die Rectifcation
+des Mittagsfernrohrs und den Perturbationscalcul. Für
+die Ber NE UTE des Mittagsfern, werden ftrenge For-
+meln in Reiben gegeben, wodurch fich, ohne da(s Nei-
+gung und Deviation bekannt zu feyn braucht, die Cor-
+rection auf eine einfachere Weife Endet; der Vf. fucht
+eine Hülfsgröfse, nämlich den Perpendikel vom Pole
+auf den gröfsten Kreis, welchen das Fernrohr be-
+£chreibt. Auch in der Laplacefchen Perturbationsrech-
+nung hat der Vf. einige
+Entwicklung für den Gebrauch bequemer einzurichten
+gefucht, 9) Nachtrag zur Abhandlung über den Korfe-
+ten von 1807. im aftr. Jahrb. ı8ı1., neblt andern altr.
+Beobacht, und Berechnungen von Infpector Beffel in
+Lilienthal. Die Petersburger Beobachtungen, welche
+der Vf, Anfangs-nicht in Rechnung nehmen kounte
+(vergl. Nr. 3.), gaben dietrefflichfte Üebereinftimmung
+‚mit den vom Vf. früher gefundenen ellipıifchen Ele-
+menten des Kometen, und beftätigen alfo auch die be-
+‚.rechnete Umlaufszeit als gute Annäherung. Nach ei-
+ner Bemerkung von Olbers wäre es vielleicht möglich
+ewefen, den Kometen im Spältjahre 180g. bey feiner
+Ppchtion durch lichtftarke T’ele!kope wieder aufzu-
+finden; Befel (teilte daher vom 7— 13. Nov, mit 15
+und 2ofüßsigen Reflectoren Verfuche hierüber an, die
+jedoch nicht ganz gelungen find; zwar faher am 9. Nov.
+etwas neblichtes, was er fpäterhin an demfelben Ort
+nicht mehr antraf; diefs konnte aber, wie er glaubt,
+vielleicht ein anderer fehr entfernter Komet, nicht der
+K2 gewefen feyn. Durch die Methode gleicher
+ternhöhen (vergl. Nr. 10.) fand der Vf. im Oct. 1808.
+und May 1809. die Polhöhe von Lilienthal 53°, 8‘, 27'',7
+im Mittel aus verfchiedenen Sextantenbeobachtungen ;
+die Vefta beobachtete er am Kreismikrometer vom 19.
+Aug. bis 16. Sept 1808. Aus Beobachtungen des klei-
+nen von Pons ın Marfeille im Jun, 1808. gefundenen
+Kometen, von dem Entdecker felbft angeftellt, hat
+„Beflel folgende Elemente der Bahn berechnet: Sonnen-
+‚nähe 1808, Jul. ı2. 17418 Parifer Zeit. Auffteigender
+Kuoten 24°, 11‘, 14“, 5. Neigung der Bahn 39°, 1%‘, 59
+Länge des Perihelium 252°, 38‘, 50‘. Kleinfter perihe-
+Sifcher Abftand 0,607952. Der Lauf rückgängig. 10)
+Neue Methode aus der Höhe zweyer Sterne die Zeit und
+‚Polhöhe zu beftimmen, von Prof, Gawf in. Göttingen
+fin einer Jat. Di(fertation des Vfs, von deffen Collegen,
+‚Prof. Harding, überfletzt, mit Zufätzen des Vfs). Ein
+Achätzbarer Beytrag zur praktifchen Sternkunde von
+einem Manne, dem die theoretifrhe fo ungemein vieles
+yerdankt. Von jenem Probleme, das zur See und zu
+‚Lande gleich anwendbar ift, giebt Krafft eine Auflö-
+fung in den Act. Nov. Acad, Petropol. Tom, 13. aber mit
+der Befchränkung auf zwey gleichzeitige Höhen, die
+allo zwey Beo r, zwey Inftrumente u, f, wı for-
+
+x
+
+ALLG. LITERATUR - ZEITUNG
+
+rundformeln durch weitere.
+
+124
+
+dern würden. Der Vf. zeigt zuerft, wie das von Krafft
+fo bedingte Problem auf die Auflöfung dreyer hart
+fchen Dreyecke Gch zurück führen Jäfst; um es aber
+allgemeiner zu machen , dürfe man nur (tatt des zwey-
+ten Ye bar beobachteten Sterns fich einen Punke
+am Himmel denken, der mit dem zweyten Sterne glei-
+che Abweichung, aber eine um {fo viel geringere Re-
+ctafcenfion hat, als die zwifchen beillen Beobachtungen
+verfßoffene Sternzeit beträgt. Unter diefer Vorauslez-
+zung würde der eingebildete Stern zur Zeit der erften
+Beobachtung dielelbe Höhe erreicht haben, die der
+wirklich beohachtete im Augenblick der zweyten Be-
+obachtung hatte; fetze man alfo den eingebildeten
+Stern für den wirklichen: fo fey «lie Rechnung auf
+den Fall einer gleichzeingen Beobachtung gebracht.
+Was fich auf diele Art fchon aus eiafachen geometri-
+{chen Betrachtungen ergiebt, entwickelt nun der VF.
+auf dem analytifchen Wege durch eine (chöne directe
+Auflöfung, die er durch Einführung von Hülfswin-
+keln für den Gebrauch noch bequemer macht. Die
+Höhen der Sterne können gleich oder ungleich feyn;
+die Methode gilt für beide Fälle. Zufolge der am
+Ende noch berechneten Differentialgleichungen ver,
+mindert fich der mögliche Fehler bey diefer Methode
+um. fo mehr; je mehr die Azimute der beiden Sterne
+unter fich verfchieden find. Die numerifchen vom Vf,
+und Ueberfetzer berechneten Beyfpiele zeugen von der
+praktifchen Nutzbarkeit der Methode und von der Ge-
+nauigkeit der Beobachtungen. 11) Beobachtungen vom
+Oberprediger Frit/ch in Quedliaburg. Beftimmung der |
+Polhöhen von rohr (s1°, 4737‘, 7 im Mittel), |
+von Ilfenhurg , ‚Rotenburg an der Saale und Bernburg
+mit einem SEIEN Sextanten und Oelhorizont. Be-
+obachtungen der Velta vom Jul. bis zum Sept. 1808:;
+am 26. Aug. fah fie der Vf, mit blofsen Augen, Vom
+10. Jun. 1808. bis zum May 1809. hat der Vf. nur zwey-
+mal Flecken an der Sonne wahrgenommen, eine auffal.
+lende Erfcheinung , die Bode in einer Anmerkung be-
+fätigt, und die auch Rec, bey Sextantenbeobachtungen
+im J. 1809. gelegentlich bemerkte. 12) Beobacht. von
+Prof. Littrow in Cracau. Meift gerade Auffteigungen
+der Sonne und der Planeten. Polhöhe von Cracau, nach
+L. 80°, 3‘,40' oder noch etwas kleiner ; Länge im Mit-
+tel aus [ehr vielen Combinationen 36‘, 51‘, 2 in Zeit öft-
+lich von Seeberg (oder ı St. 26‘,9”, 2 öftlich von Paris).
+13) Vorfchläge zur Erweiterung des Gebrauchs des
+Mivergquadranten von Befel, egen der vielen Cor-
+rectionen, die der Mauerquadrant nöthig macht , bet
+man ihm neuerlich den ganzen Kreis vorgezogen; der
+Vf, (ucht zu erweifen, dafs der Mauerquadrant, zweck-
+mäfsig behandelt, doch nicht ganz veroachläffgt zu
+werden verdient, und dafs man zwey Hauptpunkte, fei-
+nen Collimationsfehler , und die Richtigkeit der Ein-
+theilung, auf eine einfachere und leichtere Art, als
+bisher gefchehen ift, verificiren kann. Der Vf, räth zu
+diefem Ende, vor dem Objectivglas des Fernrohrs einen
+an das Robr befeftigten Planfpiegel anzubringen, der
+auf die Ebene des Mauerquardranten fenkrecht, und ge-
+en die optilche Axe des Fernrohrs um einen gewilfen
+Winkel geneigt ift; mit diefer Vorrichtung läfst BC
+; nac
+

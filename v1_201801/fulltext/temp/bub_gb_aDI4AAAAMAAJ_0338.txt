@@ -1,0 +1,128 @@
+637
+
+_ Jahreszeiten, an jedem. Tage 10 bis 16 Beobach-
+tungen angestellt und jede derselben einzeln auf
+0°R. reducirt hat, nicht zufällig ein mit Mikrosko-
+pen versehenes Barometer, dessen Nonius unmit-
+telbar 0,02 angiebt, so würde er bey seinen Re-
+ductionen vielleicht nicht einmal auf die zweyte
+Decimalstelle Rücksicht genommen haben; wir
+können. ferner in dem Falle, wo sich. das Ther-
+mometer am Barometer in Zeit von einer Stunde
+vielleicht um 2 bis 8° ändert, wie dieses doch im
+Winter in allen geheizten Zimmern Statt findet,
+nicht für einen ganzen Grad in der Temperatur
+des Quecksilbers stehen, welcher bey der Re-
+duetion einen Fehler von etwa 0,07 erzeugt. Die-
+ses geht aus einigen vom Rec. gemachten Erfah-
+rungen auf das bestimmteste hervor. Kin in ei-
+nem ungeheizten. Zimmer hängendes Barometer gab
+stets einen Stand welcher höher war, als der mit
+einem Barometer in einem geheizten Zimmer beob-
+achitete, wenn die Wärme im letzteren‘ stieg; sank
+diese aber, so war der Unterschied der entgegen-
+gesetzte, offenbar weil in jedem Falle das selbst
+
+anz im Holze -eingeschlossene Thermometer im
+
+immer, dessen Temperatur sich änderte, voraus-
+eilte. Wenn eine ausführliche Reductionstafel schon
+aus diesem Grunde nicht nötbig ist, so ist bey
+derselben "noch das Zeit raubende Aufschlagen ein
+anderer Uebelstand , weshalb Rec. sogleich im An-
+fange seiner Beobachtungen die Tafeln Winkler’s
+bey Seite legte. Will man aber einmal eine so
+an Gemarinkelt bey der Berechnung anwen-
+
+en, dann muls man nach der Meinung des Rec,
+zguch alle Umstände berücksichtigen, und hierin
+hat der Vf. gefehlt. Wenn man nämlich die Re-
+. duction vornimmt, so mufs man auch die Ausdeh-
+nung der Scale in Anschlag bringen. Der Vf
+nimmt deshalb mit Lavoisier an, es dehne sich das
+
+1
+
+Messing von 0° bis 80° um „5 Seiner Länge aus,
+giebt aber der Kürze halber an, es betrage diese
+
+Gröfse 4 von der des Quecksilbers ; man soll des-
+halb nach ibm + der in den Tafeln gegebenen
+Reduction von diesen abziehen und nun die Cor-
+rection vornehmen. Kr giebt auf S. XXUlI ein
+Beyspiel: der bex —6°%,0R. beobachtete Barometer-
+ed kt 27"6'",88; für das Quecksilber geben die
+Tafeln die Reduction +0, 4477, also für Messin
+
+— 0,0448, mitbin die ganze Reduction +4- 0'", 402
+
+und der Barometerstand bey 0°R, 27”7“', 2829, Aber
+dieses Resultat entfernt sich bereits in der dritten
+Decimalstelle von der Wahrheit, denn die für das
+Messing erforderliche Reduction beträgt — 0*, 0462,
+folglich ist die ganze Reduction ++ 0*“,4015 und
+
+Num. 80. APRIL 1880,
+
+638
+
+» der Barometerstand bey 0°R. 27“7“, 2815. Wäh-
+rend also bey der vom Vf. empfohlenen Methode
+bis zur vierten Decimalstelle gerechnet wird, be-
+eht man schon in der dritten einen constanten
+“ehler. . Aber selbst in dem Falle wo die Ausdeh-
+
+nung des Messings genau ;; von der des Quecksil- ;
+
+19
+bers betrüge, ist das vom Vf. angegebene Verfah--
+ren nicht richtig. Für das Quecksilber ist die
+Normaltemperatur gleichgültig und hängt ganz von
+der Laune des Beobachters ab; die Länge der Scale
+aber mufs auf die Temperatur zurückgeführt wer-
+den, bey welcher die Länge des Normalmaafses be-
+{timmt war, also bey Millimetern auf 0°, bey pariser
+Linien (pied du Rot) auf 13°R. Wenn demnach
+auf alle Umstände Rücksicht genommen werden
+soll, so wird die Formel, nach welcher die Re-
+ductionen berechnet werden müssen,
+Ah git—T)=m(t—53)
+"a9 (t— 7)
+
+wo h die beobachtete Höhe des Quecksilbers, £ die
+beobachtete Temperatur des Quecksilbers und der
+Scale, q die Ausdehnung des (Quecksilbers, m die
+des Messings für einen Grad des gebrauchten Ther-
+mometers bezeichnet, während T die Normaltem-
+peratur bedeutet , auf welche das Quecksilber redu-
+cirt wird, 4 die Normaltemperatur des Maafses,
+also für pariser Linien 13°R, Schumacher hat für
+T=0° in seiner Sammlung von Hülfstafeln eine
+solche Tafel gegeben, und Rec, hat sich zu seinem
+eigenen Gebrauche eine ähnliche entworfen, wel-
+che etwas von der Schumacher’schen abweichend
+eine für alle Messungen hinreichende Genauigkeit
+gewährt. Es ist nämlich nach Dulong und Petit
+
+q = 0,0002 25225;
+nach einem Mittel aus den Beobachtungen von
+Horner und Lavoisier wird
+
+m — 0,000023642,
+Da es vielen Lesern der A, L. Z. zu beschwerlich
+seyn dürfte, sich darnach die erforderliche Gröfse
+der Correction zu berechnen, so theilt Rec. ‘hier
+seine "lafel für pariser Linien und eine Normal-
+temperatur von 0°R. von 20“10*“ bis 28”9'“ yon 5 zu
+5 Linien und von Grad zu Grad des Reatumur’schen
+Thermometers mit. Die Einrichtung der Tafel
+bedarf keiner weiteren Auseinandersetzung, indem
+die mit + bezeichneten Gröfsen zu dem beohach-
+teten Barometerstande addirt, die mit — bezeich-
+neten von ihm subtrahirt werden müssen. Für
+Längen und Thermometerstände zwischen den in
+der Tafel unmittelbar gegebenen Gröfsen ist die
+Interpolation so einfach, dafs man sie ohne be-
+sondere "Rechnung bey einiger Uebung im Kopf-
+rechnen sogleich vornehmen kann, |
+

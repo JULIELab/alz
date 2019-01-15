@@ -1,0 +1,127 @@
+457
+
+—— 138 —
+
+438
+
+ 
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+Julius 1831.
+
+ 
+
+MATHEMATIK,
+
+Puac, gedr. b, v. Schönfeld: Die Lagrange’schen
+Relutiunen , und ihre Anwendung zur Ableitung
+aller Gleichungen der sphärischen "Trigonome-
+trie; dargestellt von Franz Xav, Nioth. 1829,
+Villu. 1115, gr. 4. (1 Rthlr. 8 Ggr.)
+
+Di. in den Berliner Memoiren für das Jahr 1778
+
+befindliche Abhandlung Lugrange’s über die Analyse‘
+
+der dreyseitigen Pyramide vermittelst der Coordi-
+naten ihrer Eckpunkte gehört zu den berühmtesten
+Arbeiten dieses, neben, Euler und Laplace, ausge-
+zeichnetsten Analysten des verflossenen Jahrhun-
+derts, und durch den theilweisen Abdruck dersel-
+ben in Meier Hirsch’s geometr. Aufg. 2ter Tb. S. 341
+bis 360 ist sie auch denjenigen deutschen Mathema-
+tikern, die Lagrange’s Werke in der Ursprache zu
+studiren keine Gelegenheit haben , oder die Berliner
+Memoiren nicht leicht erhalten können, bekannt
+worden, Nichts destoweniger wird es zum bes-
+seren Verständnifs des Folgenden nöthig seyn, hier
+zuerst von derselben REN OFEN Begriff zu geben.
+Da nämlich die dreyseilige Prramide urch die Lage
+ihrer Eckpunkte vollständig bestimmt ist, und folg-
+lich, da der Anfangspunkt der Courdinaten beliebig
+in die eine Ecke, welche die Spitze heifse, gesetzt
+werden kann, neun willkürliche Gröfsen \', B', C‘;
+A“, B“, CC"; A", B“, C'", als die Coordinaten der
+drey übrigen Punkte hinreichen, um die Lage der
+Seitenlinien, der Seitenflächen, die Neigungswin-
+kel jener gegen diese und unter einander, den Inhalt
+der Seitenflächen und der Pyramide, mit Einem
+Worte , alle Bestimmungstücke der Pyramide, oder
+anderer Größen, welche zu ihnen in einer gegebe-
+nen Relation stehen, zu bestiminen, so schlug La-
+grange in jener Abhandlung folgenden Weg ein:
+Zuerst bildete er aus jenen neun gegebenen Quanti-
+täten auf eine, wie es auf den ersten Anblick scheint,
+willkürliche Weise, die sich aber durch den Erfolg
+vollkommeo rechtfertigt, eine M= 069 symmetrischer
+Ausdrücke, — „Jurmirte dusdrücke” - ; so wer-
+den z; B. die Sununen der (Quadrate aus den Coor-
+dinaten jedes einzelnen Punktes resp. durch Pr, P/@
+bezeichnet, so dafs P/, P“, P“ die Längen der drey
+von der Spitze ausgehenden Seitenlinien andeuten,
+oder es werden die Summen aus den Binionen der
+
+leichnamigen Coordinaten gebildet, die unser Vf,
+
+urch M‘ M” MM’ bezeichnet; oder neun Differen-
+zen von der Art B“ C“—B“" CH=A,; B"C'—B'
+C"=Ayz CA“ —C"A"=B,u.s.£, Aus diesen
+
+A. L. Z. 1881. Zweyter Band.
+
+‚dem Systeme Aller herausgegriffenen
+
+formirten Ausdrücken der ersten Art P«, P”, P",
+M’, M“, M', A, ü. s. w. werden dann wieder neue
+formirte Ausdrücke einer zweyten Art gebildet,
+welche gröfßstentheils aus denen der ersten Art auf
+dieselbe Weise entstehen, als diese aus’ den gegrbe-
+nen Gröfsen formirt wurden, Da nnn alle Gleichun«-
+en, welche die formirten Ausdrücke erklären‘,
+blofs identische sind, so liegt es in der Natur der
+Sache, dafs unter ihnen selbst ‚eine grofse Menge
+von oft-sehr einfachen Relstionen statt finden, ie
+man, um nur Eines zu nennen, durch Klimination
+dieser oder jener von den gegehenen Gröfsen, oder
+des einen und des andern von den formirten Aus-
+drücken erhalten kann, und Lagrange's Scharfsinn
+zeigte sich eben darin auf die ylänzendste Weise,
+dafs er von jenen Kelationen die überraschendsten,
+und nament'ich diejenigeu, welche ihm für die Ana-
+lyse der dreyseitigen Pyramide, als seinen nächsten
+weck erforderlich waren, oder sonst noch, in der
+analytischen Geometrie, in der Dynamik, in der
+Asıronomie von Nutzen seyn konnten, nicht blofs
+auffand, sondern auch auf eine ungemein Jeichte
+Weise herzuleiten lehrte. — In der vorliegenden
+Schrift werden nun diese Relationen von neuem,
+sehr häußg auf einem anderen Wege ‚als Lagrange
+gethan, entwickelt, und durch eine grofse Anzahl
+neuer vermehrt. Von dem vom Vf, in der ersten
+Abtheilung seiner Abhandlung, wo: er es mit der
+Herleitung der Relationen selbst zu thun hat, ein-
+geschlagenen Gange sowohl, als von den ihm ei-
+genthümlichen Resultaten einen Begriff zu geben,
+ist hier eines Theils unmöglich, da erst alle Zeichen
+erklärt werden müfsten, was um so weniger angeht,
+als hier über funfzig neue formirte Ausdrücke hin-
+zugekommen sind, deren Bildung sich gröfstentheils
+auf die bereits vorher erlangten Resultate bezieht;
+andererseits ist die[s aber ‚auch. ganz unnöthig, da
+jeder, der an Untersuchungen dieser Art Interesse
+nimmt, sich das Buch doch wohl anschafft, und
+für Andere die Anführung dieser oder jener, aus
+telationen
+von gar keinem Werth ist. Uın also nur die Ueber-
+sicht des Inhalts dieser ersten Abtheilung zu erhalten,
+bemerke man, dafs, nachdem in seinen beiden ersten
+Abschnitten fast lauter solche Relationen entwickelt
+worden, in denen beide Theile der Gleichung auf
+eine rationale Weise aus den gegebenen Gröfsen und
+den formirten Ausdrücken zusammengesetzt sind,
+der Vf, S, 53 zu der Entwickelung derjenigen Rela-
+tionen übergeht, durch welche die ersten Poten-
+zen der als  Kuadrate eingeführten Gröfsen P?, P-2
+Mmm u. 5. W.
+

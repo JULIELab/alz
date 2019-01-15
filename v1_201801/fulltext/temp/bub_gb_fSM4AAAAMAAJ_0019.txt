@@ -1,0 +1,136 @@
+27 ALLG. LITERATUR - ZEITUNG 28
+‚rima oder Minima werden, dann, weil nach Gleis“ iger als « vom wahren Werthe des fraglichen In-
+chung (3) Ze N u tegrals abweicht. a
+WA SE NE ES voßste herungswerth nicht all
+f fix; + 1)di= JS Fir + Ode "dien Orten Di Er  Bberung von f(x) Ale
+. 0 0 rax auch. von. j von f(r) selbst m verschiedene
+
+i2 ni vn
++ fc] Sr a
+; N SE em a
+gey. sich dieser Fall auf den vorigen zurückführen
+aSse. .. g= ‘ ;
+Wird nun, wie”8. 4 geschieht, die Bedik-
+gung der Continuitit KA des tere hd
+X auch auf die Differential- Quotienten
+
+Fe), fm fa ansgedehnt, 80 ner
+
+ben sich, je nachdem man noch andere Bedingungen
+hinzusetzt, verschiedene in Bezug auf die übrig Dlei-
+benden Fehler, d.h, die nach & zu bestimmende
+Größe w oder m, oder in Bezug auf die numerische
+
+Rechnung vortheilhaftere Ausdrücke für [} f(x)dz,
+. SE,
+
+Sie bestehen sämmflich aus einer bestimmten Anzahl
+von Gliedern, in denen alles gegeben ist, und aps;der
+Summe gewisser Integranden von der Form A
+
+Kuh f aloe) de OD
+
+wo Kund kbestimmte nach den einzelnen Ausdrücken
+verschiedene, k jedoch nur ganze Zahlen bedeu-
+ten. Aus den gröfsten Werthen von
+
+FU zo) w—4) von u = 0 bis u = w und
+o=0obisg=m1, welcher Werth in. der Folge stets
+durch (7“+" bezeichnet wird, ergeben sich als-
+dann für ein angenommenes m die übrig bleibenden
+möglichen Fehler, oder die Zahlmoder wu = £ = ==,
+damit dieser Fehler geringer als & sey. Bleibt man
+
+nun vorerst bei den eben ANegeBTOCHT AN Bedinguur
+gen stehen, so ergiebt sich folgender hier zusam-
+
+X
+mengezogene Ausdruck, LS. fiz)dx
+
+o=nf. o-+1 =m—1 (0) 4 »
+N F (z-+00)) 1
+— Ch, Yızr)“ 17.
+
+=m—1 w n+1 . . (n+1)
+s LE DO Du)
+e= .
+
+wonach also , wenn w oder m aus dem Ansatze
+
+2, CH, u}
+TE FD ' < ;
+
+. g=n
+bestimmt wird, die Safer 3 ‚begriffene. Größe um
+. ( ; L95Q 4 ek Le a
+
+ 
+
+— Werthe fodert, so wird ($. 5—7) ein für die nume-
+
+rische Rechnung bequemerer Ausdruck mit Beibehal-
+tung.der sbigen Bedingungen Nachdem zu
+dem Ende mit Hülfe der Gleichung III welche zwar
+
+SYS „ li
+zunächst für /‘ da d
+chst nur Se) Se “
+entwickelt ist, aber offenbar eben sowohl für
+L, T (z-+u)@u gilt, für diese oder vielmehr für
+
+r fi
+WW) [f(x +u) du Bhnliche Ausdrücke, deren.
+
+(n+41) .
+Integranden sämmtlich Ft u) enthalten, anc
+
+goschen sind, werden aus diesen n +1 Gleichungen
+ie », nicht unter den Integrations- Zeichen befind+
+lichen Different, - Quot, durech- Multiplication mit #
+zwischen o und 1 liegenden und’gen gehörigen Bedin-
+gungs-Gleichungen entsprechenden Factoren &,.... A,
+eliminirt, datanf gezeigt, dafs 4; ausgenommen, als
+le a mit ungeradem Index = o sind, und hiernach ein
+
+X
+Werth für L fixz)dr erhalten, dessen erstes
+Ts
+Hauptglied dem Ausdruck Y gleich ist, dessen
+zweites = '
+
+(24 —1) Ay 1)
+(f (A —F ' (x)
+. (IV)
+
+ist (wo die beiden oberen Grenzen beim Summations+
+Zeichen sich auf einen geraden oder ungeraden
+Werth von » beziehen) und dessen drittes Haupt-
+glied drei Summen von p=0 bis o=m-—1 von In+
+tegranden von der Form II enthält, wo jedes Glied
+
+= vel]vel?zt “r
+— x Ay wann
+#=1
+
+der ersteren Summe schon eine Summe von & = 0 bis
+= % oder = a von solchen Integranden, hei der
+
+Ay wi
+
+nen K = TO FIZIR und K=n+4+1—2u ist,
+begreift, Der Näherungswerth, welchen hiernach
+
+ir algebraische Summe der beiden ersten Hanptgliee
+"der [(T) und (IV)] giebt, ist zur Berechnung zwar
+bequemer, aber in Bezug auf oder &@ minder vor-
+theilhaft als der aus III sich ergebende. In dem be-
+sonderen Falle, dafs für jeden Werth wie u
+
+‚Zu = 1 (2p—1) ;
+
+ff m+d-f e)=0 Vo
+'ist,- reducirt sich offenbar dieser Näherungswerth
+‚auf den Ausdruck (I), und man gelangt, wie der
+gel, V£ bemerkt, zu dem. von Zmindrn (ine: des
+‘ 108 m FONCT:
+

@@ -1,0 +1,143 @@
+on.
+
+Num.
+
+802
+
+10T.
+
+ 
+
+ERGÄNZUN
+
+GSBLÄTTER
+
+ZUR
+
+‚\ALLGEM. LITERATUR - ZEITUNG.
+
+ 
+
+Donnerstags, den 24. Augufl, 1809.
+
+ 
+
+WISSENSCHAFTLICHE
+
+MATHEMATIK.
+
+FreyserG, b. Craz u. Gerlach: Neue Methode des
+) Gröfsten und Kleinften, nebft Beurtheilung und eint-
+ger Verbefferung des bisherigen Syflems ; von Friedr.
+= Gottlieb Rufe, der Philof. Doctor honor. der Uni-
+verhtät Halle, Commilffonsrath nu. Profeflor der
+Mathematik, Phyfik u. Bergmafchinenlehre an der
+könig}. Sächf. Bergakademie zu Freyberg. Zwry-
+ter und letzter Heft. 1809. S. ı1ı. bis 220. mit
+
+ı Kpft. x
+
+D:: erfte Heft diefer gehaltvollen Schrift ift in
+
+Nr. 21. der A. L. Z. 1809. angezeigt worden,
+Im gegenwärtigen zweyten Heft werden die dort an-
+gefangenen Unterfuchungen fortgeferzt und ange-
+wendet. . Es fängt mit dem dritten Kapitel des vierten
+Abfehnitts an, welches eine Fortfetzung des erften
+
+i{t, wo die neue Methode des Gröfßfsten und Klein-.
+
+ften für entwickelte Functionen Eher nft vorgetra-
+en wurde. Das wierte Kapitel ilt eben Io eine Fort-
+etzung des Zweyten, nämlich der Anwendung der
+neuen Methode auf einzelne Beyfpiele entwickelter
+Functionen. „Indem ich — heißt es hier $. 65. —
+unter den vielen Beyfpielen ähnlich gebrochener
+Functionen bey Ewler und bey mehreren andern der
+
+belten Mathersatiker, nach einem folchen fuche, bey
+welchen such 37 = x einc Eminenz geben mülste:
+X
+
+emug, ihre Beyfpiele fämt-
+jefes nirgend der Fall
+
+fo finale ich, auffallend
+lich gerade fo gewählt, dafs
+
+feyn kann, weil in den Werthen ihres A der Nenner
+allemal quadratifch oder biquadratifch u.f.w.ift! Gleich-
+wohl gibtes fehr viele andere, wo der Nenner in we auf
+
+{Ex
+(1 — x?)*
+Diefe Stelle zeigt, wie nothwendig und verdienft-
+lich folche Unterfuchungen find, die fich nicht bey
+einzelnen Anfiıchten begnügen, und erinnert an man-
+che ähnliche Erfahrungen, die einem in den mathe-
+matifchen Lehrjahren und Lehrbüchern vorgekom-
+Ergönzungsblätter zur A. L. Z. 1809:
+
+uf. w.”
+
+ 
+
+eine Eminenz deutet, z. B. y=
+
+WERKE.
+
+men Gnd, wo die brguem gewählten Beyfpiele d
+
+Verfaffer für den Lefer er armbe uem werden, weil
+fıe ihn in den fchwierigften Fällen im Stiche liefsen, —
+Das fünfte Kapitel handelt von Auffindung der emi-
+nenten Werthe in samtwickelten Functionen. Man
+kann zwar die Differentialquotienten der Functionen
+finden, ohne Ge entwickelt zu haben , und durch ifo-.
+Hirte Auflöfungen für gewifle Werthe von x wohl die
+Größe der eminenten y beftimmen; nicht aber, ob
+
+. die benachbarter Werthe auf beiden Seiten oder nur
+
+auf einer Seite möglich find. Bey einförmigen Fun-
+ctionen findet hier zwar keine Ungewifsheit Statt, fo
+lange y nicht mendlich iftz bey vielförmigen Functio-
+nen aber, wenn fie unentwickelt oder nur ifolirt ent-
+wickelt betrachtet werden, tritt diele Ungewifsheit
+ein. So findet man zum Beyfpiel in der Kubifchen
+
+Gleichung y!—pxy-+x’ = 0 zwar, dafs = 0
+
+X
+wird, wenn x==!p {2 ilt, für welchen Werth fich
+ddy
+
+TE ver-
+neint wird; allein es bleibt unent(chieden, ob die
+benachbarten Werthe zu. beiden Seiten möglich
+find. Der Vf. weifet durch feine neue Methode Jechs
+Eminenzen für diefe Function befriedigend * nach,
+wo Euler und L’Huilier nur zwey, und nicht be-
+friedigend, nachweifen konnten. Eine von dem
+gelchickten Sohne des Verf. dazu conftruirte Cur-
+ve ftellt die Gleichung anfchaulich dar, Es wird
+nämlich für x==o0, wo die Curve einen Knoten
+macht: ı) y==o erftlich ein zweyfeitiges. Minimum ;
+2) y==o für einen andern Zug der Curve ein ein.
+feitiges Minimum. 3) y=0 für noch einen andern
+Zug der Curve ein E40 em Maximum. Ferner wird
+
+für X = 34: y= Era erftlich ein einfeitiges
+
+y=1pV4 als ein Maximum ergiebt, weil
+
+ 
+
+Minimum ; 5) ya für einen andern Zug der Cur- .
+ve ein einfeitiges Maximum; und endlich für x E42
+
+wird 6) y=L {4 ein zweyfeitiges Maximum. Man
+
+Geht aus diefem Beyfpiele, dafs diefe Methode allge-
+1 (5) meine
+

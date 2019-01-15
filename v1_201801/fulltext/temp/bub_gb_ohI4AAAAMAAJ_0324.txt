@@ -1,0 +1,131 @@
+637 . Num, go.
+ftens hiftorifch bemerken follen, dafs fein Verfah-
+ren, die Wurzelzeichen aus einer Gleichung weg-
+zufchaffen (das bekannte Carteßfche), nicht überall
+ausreicht. — Die ausführliche Auflöfung einiger
+Beyfpiele und Anweifung bey veränderten Datis,
+die Auflöfung zu modificiren, kann für den Anfänger
+recht nützlich feyn; nur fcheint es dem Rec,, dafs
+im vorliegenden Werke oft zu viele fpecielle Fälle
+unterfchieden werden, deren Auffindung man dem
+Nachdenken eines irgend für die Mathematik tüch-
+tigen Kopfes felbft überlaffen mufs, wenn man nicht
+feine Geduld ermüden will. Die Aufzählung der
+Fälle, wo aus dem Einkaufspreife einer Waare und
+dem Gewinn oder Verluft an derfelben ihre Menge
+berechnet werden kann, nimmt hier allein 10 Seiten
+ein, und nachher find über 100 Seiten blofs mit Bey-
+fpielen über diefe Art von Aufgaben angefüllt,
+Nr.2. befteht aus zwey mit befondern Titeln
+und Vorreden verfehenen Abtheilungen. Langsdorfs
+und Schmidts Anfangsgründe der Mathematik ha-
+ben dem Vf, zum Mufter gedient. Erfte Abtheilung.
+Lehrbuch der Buchftabenrechnung für Schulen. Der
+Vf, irrt, wenn er ($.4) meint, erft feit dem 16ten
+Jahrhunderte feyen die Buchftaben zur Bezeichnung
+allgemeiner Zahlen gebraucht worden. Schon Eu-
+klid gebraucht fie häufßg fo, obgleich er immer
+durch Puncte oder Linien angedeutete gemeine Zah-
+len, aber nur als Beyfpiele, daneben fetzt, f. deffen
+Elemente Buch 7—9. Käftner fagt an dem vom Vf,
+angeführten Orte (Gefch, d. Math.B. 1. S. 161) nur,
+es fey ihm beym Cardan nicht eher eine Bezeichnung
+der unbekannten Gröfse durch Buchftaben vorge-
+kommen als bey Auflöfung der Aufgabe: die Zahl
+8 in zwey (olche Theile zu theilen, dafs das Quadrat
+des gröfsern Theils die mittlere Proportionalzahl
+zwifchen dem Quadrate des kleinern und dem Pro-
+ducte aus dem Ganzen in den gröfsern werde. —
+Hr. G. fetzt Vieles als in der gemeinen Arithmetik
+erwiefen voraus; ein Verfahren, welches nach un-
+ferer Anfıcht nicht {treng wiffenfchaftlich ift, da
+die allgemeine Arithmetik gerade die Gründe aller
+Rechnungsregeln anzugeben hat, indem fch diefe
+Regeln erlt in ihr allgemein erweifen laffen. — Von
+den entgegengefetzten Gröfsen wird das Gewöhnli-
+che ziemlich Far vorgetragen; Manches hätte aber
+wohl noch kürzer und doch einleuchtender darge-
+fteilt werden können. Der Satz, dafs a—(—
+= a-+bift, wird (6.22) durch Richtungen, alfo geo-
+metri{ch, deducirt, ein, wie Rec. meint, jetzt mit
+Recht veraltetes Verfahren, da + und — fich ja
+gar nicht immer auf Richtungen bezieht; aufserdem
+ift zwar auch noch ($.46) durch das Beyfpiel von
+Vermögen und Schuld diefeRegel erläutert; fe läfst
+fich aber viel leichter und allgemeiner ableiten, —
+Dafs mehrere Factoren mit einander multiplicirt daf-
+felbe Product geben, in welcher Ordnung man fie
+auch multipliciren mag, zeigt der Vf, blofs an einem
+Beyfpiele, beweift es aber nicht allgemein. Auch
+ift die Erklärung vom Multipliciren und Dividiren
+durchaus nicht deutlich und allgemein genug; denn
+
+JULIUS 1824.
+
+638
+
+wie foll mau es z.B. machen, wenn 3 durch 100
+dividirt werden foll, um 100 aus 3 fo oft wegzu-
+nehmen, als es angeht? Dafs jeder Quotient durch
+einen Bruch dargefte)lt werden könne, wird hier, wie
+in Nr.1. ohne Beweis angenommen. — In dem Bewei.
+fe des Satzes, dafs zwey Zahlen von gleichen Vor-
+zeichen mit einander multiplicirt ein poßtives, zwey
+Faetoren von ungleichen Vorzeichen: ein negatives
+Product geben (6. 50) verkennt Rec. nicht ein lo-
+besaswerthes Streben nach Gründlichkeit; nur könn-
+te und follte diefer Beweis kürzer gefafst feyn. —
+Die Richtigkeit des gewöhnlichen Verfahrens bey
+der Divifion mit einem mehrnamigen Divifor hätte
+wohl noch nähere Erörterung verdient. — Ueber
+die Zerfällung eines zufammengefetzten Ausdrucks
+in Factoren, fagt der Vf, ($.55) bey Gelegenheit
+des Aufhebens der Brüche, liefsen fich keine allge-
+meine Regelır angeben, Rec. dächte doch, dafs“ fich
+deren mehrere POg ben liefsen, von denen wenig-
+ftens einige ganz elementarifch find, und daher auch
+hier recht in hätten beygpebracht werden können,
+Alle vom Vf, angeführte Beyfpiele laffen, fch un-
+ter folche leichte Regeln bringen. Wie der Vf,
+in dem Beyfpiele Nr. ı2. verfahren fey, ift dem
+Rec. nicht‘ klar geworden; diefs Beyfpiel {teht
+
+buchftäblich fo gedruckt MELLE
+
+ex the Araber fr ag
+Tas Jie-Fab = [44 33 1
+
+3—i -+3bx7=jx. DasRefultat 3x ift rich-
+
+tig, wie man fch leicht durch gewöhnliche Divifion-
+mit dem Nenner des gegebenen Bruchs in den Zähler
+deffelben überzeugen kann; aber was follen die in
+
+} eingefchloffenen Operationen des Vf. bedeu-
+
+ten? doch nicht etwa Divifion einzelner Glieder in’
+einander? das wäre ein Fehler, welchen Rec, kei-
+nem Schüler, den er einige Wochen in der allgem,
+Arithmetik unterichtet hätte, verzeihen würde; und
+dennoch fcheint der Vf. fo etwas vorgenommen zu
+haben. Kleine Verftöfse gegen die Methode z. B.
+dafs S.60, 62 u.f, fchon Werzelgröfsen mit in die
+Rechnung kommen, ehe noch erklärt worden ift,
+was folche bedeuten, will Rec. überfehen, fo wie
+er auch die nicht geringe Anzahl von Druckfehlern
+entfchuldigt. — Ueber das Auffuchen des klein-
+ften gemeinen Dividui gegebener zufammengefletz-
+ter Ausdrücke hätte Rec., bey Gelegenheit der Auf-
+fuchung des kleinften Generalnenners gegebener
+Brüche, wohl etwas mehr erwartet, da dielß gewöhn-.
+lich dem Schüler Anfangs ein wenig fchwer wird,
+Der Vf. findet hier den Lefer mit einer kurzen Ver-
+weifung auf die gemeine Arithmetik ab, wogegen
+fich Rec, fchon oben erklärt hat, — Gemifchte Zah.-
+len (der Vf, nennt fie „„gemifchte Brüche“) {fchreibt
+
+Hr. Garthe fo: a— fratt a+ = Bey gemeinen
+
+Zahlen ift jene Schreibart freylich erlaubt, bey all;
+Be-
+

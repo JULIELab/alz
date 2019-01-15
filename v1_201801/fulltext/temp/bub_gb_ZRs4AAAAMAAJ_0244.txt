@@ -1,0 +1,131 @@
+461 Num., 188,
+
+für die Neigungswinkel der Durchschnittslinien je
+zweyer Ebenen gegen die dritte, d. h, die Ausdrücke
+für die Perpendikel, die.aus den. Scheitelpunkten
+des sphärischen Dreyecks auf die gegenüberliegen-
+den Seiten oder ihre Verlängerungen gefällt werden
+können; ferner die Ausdrücke für die hierdurch
+gebildeten Segmente der Seiten selbst, für die Nei-
+
+ngswinkel der Ebenen dieser Perpendikel und der
+Border der Seiten, und endlich noch die für Sinus,
+Cosinus und Tangente der Winkel, welche die ge-
+meinschaftliche Durchschnittslinie der Ebenen jener
+Perpendikel mit den drey gleichen Seitenlinien und
+den Seitenflächen der Pyramide macht, also, im
+Sprachgebrauch der sphär. Trigonometrie, er ent-
+wickelt die trigonomet. Functionen für jedes der bei-
+den Segmente der drey Höhenperpendikel, in wel-
+che dasselbe durch den gemeinschaftlichen Durch-
+schnittspunkt dieser Perpendikel getheilt wird. Der
+Weg, auf welchem er:zu diesen Ausdrücken ge-
+langt, ist der gewöhnliche der analytischen Geome-
+trie, indem aus den Gleichungen zweyer Ebenen die
+ihrer Durchschnittslinien hergeleitet werden u. s. f.,
+so dafs die bekannten allgemeinen!Ausdrücke, wel-
+in die anal tiche Geometrie für den Cosinas des
+
+eigungswi s u. s. w. giebt, nur au n gegen-
+wäntligen Fall Dgewandt werden, Der fünfte und
+letzte Abschnitt enthält endlich die Relationen , wel-
+che zwischen dem sphärischen und dem zugehöri-
+gen geradlinigten Sehnendreyeck statt finden, und
+zwar werden hier, auch auf dem vorher angegebe-
+nen Wenn der analytischen Geometrie, und nach
+einer Vorbereitung, in welcher die hierbey vorkom-
+menden Formeln vermittelst der in der ersten Ab-
+theilung entwickelten Relationen umgeformt werden,
+die trigonomet. Functionen der Winkel entwickelt,
+welche die Seiten des Sehnendreyecks mit den Coor-
+dinatenaxen und den Coordinatenebenen, mit den
+Ebenen der Bogen, und den nach den Eckpunkten
+gehenden Radien der Kugel, und unter einander
+machen. Hierbey ist es-Rec, sehr aufgefallen, dafs
+der Vf. in den beiden letzten Abschnitten vernach-
+lässigt hat, den formirten Ausdrücken A, B, E, M,
+N, T, V ihre gegenwärtigen geometrischen Bedeu-
+tungen in die Gleichungen zu Substituiren, und dafs
+er zweytens, wenn er glaubte, dafs diefs jeder vor-
+kommenden Falls leicht vom selbst thun könne, oder
+wenn er vielleicht sah, dafs die Gleichungen hier-
+durch nur ein zusammengesetzteres Ansehen bekä-
+men, So selten auf die betreffenden Stellen der er-
+sten Abtheilung verwiesen hat, was bey einem so
+viele neu eingeführte Zeichen enthaltenden Buche
+ahne Ausnahme hätte geschehen müssen, da der Vf.
+wohl auch aus eigener Erfahrung wissen wird, dafs
+man bey Schriften der Art, wie diese, die eine Un-
+zahl von Formeln enthalten, welche ihrer Symmetrie
+wegen, sich eigentlich wenig von einander unter-
+scheiden, im Durchschnitt am Ende kaum mehr
+weils, was man zu Anifange gelesen, auch wenn
+diefs in Einem Zuge eben ist, und er doch un-
+möglich verlangen kann, dafs man alle Resultate sei-
+
+JULIUS 188381,
+
+462
+
+ner Schrift zu jeder Zeit eben so im Kopfe haben
+solle, als er selbst, und auch vielleicht er selbst
+nur im Augenblicke der Abfassung seines Buches,
+
+Rec, eht, dafs er sich freut, endlich mit der
+etwas mühsamen Berichterstattung, die sich doch
+fast immer‘ nur im Allgemeinen halten konnte, zu
+Ende, und bey dem Punkte angelangt zu seyn, wo
+es ihm obliegt, ein Urtheil über dasBuch äbzugeben.
+Zuerst mufs er nun der. Gewandtheit und dem
+Scharfsinne des Vfs alle mögliche Gerechtigkeit wi-
+derfahren lassen. Zwischen Formeln, deren Zu-
+Sammenhang sehr fern liegend , oder verwickelt
+scheint, findet er, und gröfstentheils auf einem sehr
+natürlichen Wege überraschend einfache Relationen,
+und nur mit Unrecht könnte man sagen, dafs er in
+dieser Hinsicht sehr hinter seinem grofsen Vorgän-
+ger, dessen Namen er den ursprünglichen und den
+von ihm gefundenen Relationen beygelegt hat, zu-
+rück eblie en sey. Bey einer solchen Gewandtheit
+in der Behandlung arithmetischer Ausdrücke, die
+Anderen doch gewöhnlich nicht.zu wenig selbst
+auszuführen überläfst , ist es Rec. am so mehr auf-
+gefallen, dafs so viele durchaus überflüssige For-
+meln mit hergesetzt worden sind. Würde z. B., um
+beliebig aus der Mitte berauszugreifen, S. 45 nicht
+eine der 8 Gleichungen [112] ;
+
+NP/= fc { Van E‘} [Vervam—_ E/
+NP/= V {vv + E/} IVVW— E“
+NP/= Sc { VVOr E“} {vv > E}
+
+hingsteicht haben um ihre Art kennen zu lernen,
+da.N symmetrisch aus den gegebenen 9 Gröfsen ge-
+bildet ist (der 6 fache Inhalt der Pyramide, wenn die
+9 Gröfsen die Coordinaten der‘ 8 Eckpunkte be-
+zeichnen)? Auf jeden Fall würde es doch genügt har
+ben, zu erwähnen, dafs man mit den Zeigern auf
+die bekannte Art weiter rücken könne. Da diese
+Manier, und oft in einem noch auffallenderen Grade
+durch das ganze Buch geht, so ist es hierdurch ge-
+wils doppelt so stark geworden, als es ohnediefs
+ae wäre, und dann kann man nicht leugnen,
+afs eine solche Menge ganz gleich aussehender,
+sich nur durch Strichelchen unterscheidender For-
+meln die Uebersicht eher erschwert als erleichtert.
+Diefs betrifft jedoch nur die äufsere Einrichtung.
+Wenn man nun aber frägt, wozu denn wohl eigent-
+lich der Vf. diese langen und weitläuftigen Rechnun-
+gen vorgenommen habe, ob sie sich für etwas Ande-
+res ausgeben, als für eine blofse exercitatio arüchme-
+tico- gcometrica , und in der Vorrede keine andere
+Auskunft darüber erhält, als der Vf. babe diese Un-
+tersuchungen vorgenommen, erstlich um sie, „da
+bereits ein halbes Jahrhundert verflossen, seit La-
+grange sie uns inlı geheilt habe, und sie noch nicht
+so nt geworden, als sie zu seyn verdienen, vorn
+neuem den Mathematikern in Erinnerung zu hrin-
+gen, und zweytens um zu zeigen, mit welcher Prä-
+cision, Eleganz und Leichtigkeit alle Gleichungen
+der
+

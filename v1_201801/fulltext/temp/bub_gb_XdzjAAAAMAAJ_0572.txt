@@ -1,0 +1,132 @@
+1147
+
+Sowohl poßtive als negative gebrauchte, erhellet die-
+ferhalb keinesweges, und deshalb rechnet der Vf.
+diefe Werthe zu einem befondern Gefchlechte von
+Functionen, denen er, wie oben erwähnt worden,
+den Namen inexglicable gab. Die Art, diefelben durch
+‚analytifche Formeln beitimmter Functignen ausza-
+drücken, kann am bequemften durch {ftetige Diffe-
+renzen, aus einer vorgegebnen Reihe hergeleitet,
+gehoben indem nich jedes Glied vom folgen-
+den abgerOgen wird. Hieraus entfteht fodann die
+Reihe der erften Differenzen, auf gleiche Weile die
+der andern, dritten, vierten u. £. w.. Alle diefe Dif-
+ferenzen bezeichnet nun der Vf, auf befondere Art
+und kommt dadurch nach und nach zu feinem Zwe-
+cke. Es folgen hierauf verfchiedne Anmerkungen
+zu einzeln Capiteln der Eulerfchen Diff. R., wo
+dann auch die Theorie der wiederkehrenden Reihen
+in Beziehung auf die Gründe der Differenzialrech-
+nung gegeben wird, welche aus den reiniten Grund-
+fäützen geradezu hergenommen ift, da fe vorher auf
+gänzlich indirecten Methoden und fremden, von
+weitem her abgeleiteten, Begriffen beruhte. We-
+nn ihres grofsen Nutzens ya Gebrauchs in der ge-
+ammten AÄnalyfıs hat fie der Vf. durch einige Bey-
+fpiele, zum Theil Hazardfpiele betreffend, erläutert,
+und den Fähigkeiten der Änfänger angemeflen dar-
+geltellt. Gelegentlich wird auch die noch einfachere
+und vorzäglichere Methode, welche La Granmge in
+den Berliner Memoiren für 1775 gegeben hat, hier
+mitgetheilt, da fie, befonders in den Beylpielen, wo
+die Wurzeln der Gleichung als unbeftimmten Coef-
+ficienten gleich gefunden werden, die bequemfte
+und gefchwindefte ift. Eine andere Anmerkung be-
+trifft Eulers neue T'heorie von der Natur der unend-
+lich kleinen, und unendlichen Gröfsen, und deren
+wechfelleitiges Verhältnifs zu einander, die üch im
+dritten Cap. des ıften Theils (eines Werks befindet.
+Sie, wird hier auf einen klaren Sinn gebracht und
+von allen Schwierigkeiten befreyt; zugleich wird es
+dadurch völlig einleuchtend, dafs der Differenzial-
+calcul nichts anders fey, als eine analytifche Metho-
+de, die Grenzen der Verhältnille zu erfinden, wel-
+che zwilchen der endlichen Differenz zweyer Grüs
+fsen und der zweyer anderen, die zu den beiden
+erfteren eine Analogie und bekannte Beziehung haben,
+mitten inne [teht. In andern Anmerkungen holt Hr,
+Gr. Beweile nach, die Euler fchuldig geblieben war;
+zeigt den vorhchtigen Gebrauch und die gehörige
+Anwendung des Taylorfchen Lehrfatzes in verfchie-‘
+denen Fällen; hebt (lie Schwierigkeit bey einem ma-
+thematilchen Paradoxon, wo felbft acob Bernouli
+nicht ins Klare gekommen zu feyn fcheint; leitetaus
+der Eulerfcheu Gleichung, 1. Th. $. 159.» verfchie-
+dene Lehrfätze von ganz befonderem N Nuten her,
+und fügt ihre Beweile mit‘ bey; verfcht die Eul.
+Formeln im 1L Th. $. 185. mit einem veuen und- un-
+um [töfslichen Beweile; yon mehrern andern, z. B.
+einer neuen hier Mitgetheilten Theorie von La Grange
+über Maxima und Mınima, läfst ich, der Kürze wegen,
+nicht wohl etwas verftändliches erwähnen. Auf die
+
+Num. 143: NOVEMBER 1809.
+
+1143
+
+Anmerkungen folgt ein Syffem der allgemeinen Tiffes
+renzen, das noch nirgends mit einem fo ausführlir
+chen und (treiugen Beweife, wie hier, war verfehen
+worden. Köäflner und Kerflen haben blofs ein paar
+einzelne Sätze davon bewjefen. Bufe leiftete hierin
+weit mehr, und das von ihm. noch zurück gelalfene
+ilt vom Hrn. Gr. hier vollends nachgeholt worden,
+Er hält fch hiebey an die Hindenburgifchen Bezeich-
+nungen, welche weit bequemer als «ie von Buffe
+ebrauchten find. Einige merkwürdige Sätze und Re-
+ationen. Unter andern hier eine Auflöfung von dem
+befondern Falle eines Problems, welches Hindenburg
+in feinem ganzen Umfange und mit bewundernswür-
+diger Leichtigkeit aufgelöft hat, was aber Hrn. Gr,
+damals noch unbekannt war. Nämlich: Jede ganze
+Zahl r aus zwey Zahlen der gegebnen Progreffion
+©, I 2, 3, 4+ +1, nicht allein zZulammen zu fetzen,
+fondern auch diefe möglichen Zulammenfeizungen
+felb(t darzuftellen. Die Hindenburgifche Verfahrungs-
+art wird ebenfalls mitgetheilt. Deweis eines von La
+Grange aufgeltellten, aber nicht bewiefenen Satzcs,
+der fich durch Simplicität und Leichtigkeit auszeich-
+net. Gelegentliche Vergleichungen zwifchen Hinden-
+burgifchen und Fifcherifchen Formeln, welche iu des
+letztern Theorie der Dimenhonszeichen vorkommen.
+Kritik gegen Töpfer. Eine umftändliche Rechtferti-
+gung File ers in Rückfict des ihm von Töpfer Schuld
+gegebenen Plagiats an Hindenburg. Den Befchlufs
+macht HindenDur s ’Fheorie ‚der combinatorilchen
+Analytik, wie wohl aus Mangel an Raum, nicht in
+ihrem ganzen Umfange, Was Hr. Gr. hier dävon,
+faft wörtlich nach Hindenburg, giebt, fey, wie er in
+der Vorrede fagt, hinlänglich, die.Anwendung diefer
+ErGndung auf das wichtigite Problem der ganzen
+Analyls, den polynomifchen Lehrfatz, der npch nir-
+En fo weit dargeftellt gefunden werde, verftänd-
+ich zu machen. Wer dieleg auf gewöhnlichen We-
+gen dependent leiften wolle, werde gewifs mit fei-
+nem Verftande Gefahr laufen, und doch am Ende
+nicht vor echnungstchlern Gcher feyvn — 3 die com-
+binatorifche Methode übertreffe jede andere an All-
+
+emeinheit- und Leichtigkeit, gebe, was bey andern
+Methoden nur felten der Fall fev, die verlangten Glie-
+Yor unabhängig von den vorhergehenden, — Da die-
+Te Schrift als Supplement zu Eulers berühmten Wer-
+ke wahrfcheinlich manche Käufer findet, die Hinden-
+bargs un(chätzbare Schriften nicht befitzen , fo hofft
+derV£., dem Wunfche «es verehrungswürdigen Erhn-
+ders gemüfßs, hierdurch viel zur Bekanntmachung
+und Ausbreitung der combinatorifchen Analyls bey-
+
+zutragen, —
+NATURGESCHICHTE.
+
+ı) Wermar, im Landes -Indultrie-Comptoir: Ts-
+feln der allgemeinen Natur gefchichte, nach ikren drey
+Reichen. Nebft vollftändiger fynoptifcher Enume-
+ration aller bis jetzt bekannten Naturkörper und
+ihrer Kennzeichen. Herausgegeben von F,
+Bertuch, H. S. Weim. Legationsrathe u. f. Neue
+
+ganz umgearb. Ausg, Mineralreich, Erfte Haupt-
+abihei-
+

@@ -1,0 +1,136 @@
+291
+
+Molecüle, so wie 2) die Differenz zwischen den Ent-
+fernungen-£ von je zweyen benachbarten Molecülen’
+nur insofern und mit Bezug auf c und « selbst eine
+wahrnehmbare Gröfse sey, als die einzelen Molecüle
+resp. die ebengenannten Paare derselben in wahr-
+nehmbarer Entfernung von einander sind‘; ; ferner
+. 8) dafs die beiden Attractions- und das Repulsions -
+esetz f'(«), © (€), w (€) sich nut um währnehmbare
+Werthe ändern, wenn der Abstand der Molecüle &
+mit Rücksicht auf den Radius ihres Wirkungkreiz
+ses sich um eine bemerkbare Gröfse ändert; und
+4). dafs der Werth von
+CO. Cp. We) — (co + Cu) pt) —F(e) |
+innerhalb eines solchen Wirkungskreises beständig
+einerley algebraisches Zeichen behalte, Indem hier-
+nach durch eine genaue Berücksichtigung dieser An-
+nahmen und deren Verbindung mit der obigen in Be-
+treff der Ausdehnung des Wirkungskreises über-
+haupt die, einer ferneren Behandlung im Wege ste-
+henden Glieder aus dem angegebenen allgemeinen
+Ausdrucke wegfallen, ergiebt sich nach einigen,
+hier nicht näher zu bezeichnenden Erörterungen für
+die Gesammtwirkung P eines Theils des fraglichen
+Körpers auf der anderen
+=4' {, F(e)—2c Pe) —F(e)} (I)
+wo 4 die Dichtigkeit and W(;), De), F(:) auf die
+Functionen ww, 7, 7 bezügliche Summen bezeichnen,
+In Bezug auf den zweyten der obigen Punkte
+nämlich die Gesammtwirkung, welche die freye
+ärme eines Molecüls von allen übrigen a
+wird zuerst aus der erstern der anfänglichen u
+mit Hülfe der späteren näheren Bestimmungen ein
+Ausdruck für diese Gesammtwirkung ‚abgeleitet,
+aus welchem sich unter Berücksichtigung der letz-
+teren (4— 6) der anfänglichen Bestimmungen als
+zweyte Grundgleichung ergiebt: ,
+yıl=4[#F (©)—c BD, ()} (ZI)
+wo }, und ©, den obigen Fund © analoge Functio-
+nen, £ die Temperatur und y einen mög icherweise
+von der Natur der Gasart abhängigen Coefficienten
+bezeichnen, Was nun als Resultat die Beziehung
+der Gleichungen'Z und ZZ zu: den Gesetzen von Ma-
+riotte und Gay-Lussac betrifft, so.folgt aus diesen,
+dafs P = 4. 4 JT‚(t), wo JT,(t) blofs von t, 7 jedoch
+gar nicht davon, sondern von der Substanz des Gases
+abhängt, seyn müsse, und dafs, nach der Substitu-
+tion für rl hieraus, die aus sich ergebende Glei-
+chung, wainhe sich, wenn man mit Laplace für-die
+Gasarten u ch (©) und, daher hier F(e),' @.(e)
+und @,(e) gleich Null setzt, auf. ; u
+„a ACH TO
+yo ae) nel
+zufammenzieht, unabhängig von c und ? stätt finden
+müsse, wenn P = 4. i.J1, (t) die Gesetze von Ma-,
+riotte und Dalton darstellen soll, welcher Bedingung
+(der Unabhängigkeit) schliefslich dadurch allgemein
+genügt wird, dafs man.in Bezug auf die Intervalle;
+über welche die Summe F(t) und F,(<) zu erstrecken
+
+%
+
+ALLG. LITERATUR - ZEITUNG
+
+292
+
+sind, «ls klein genug annimmt, um dafür mit La-
+place Integrale von —— X bis + 0 ‘setzen zır können;
+wodurch, wenn diese K und K heifsen, erhalten
+wird
+; PO
+; : DK,
+welche Gleichung offenbar den genannten Gesetzen
+entspricht. ; ;
+
+Soweit die eigentliche Erörterung der Sache;
+der Rest der Schrift betrifft Prevost's Einwürfe und
+Fragen, deren .Inbalt und gründliche Widerlegung
+wir hier nur kurz so andeuten können.
+
+Attraction und Repulsion sind bey gleicher In-
+tensität nur in der Richtung verschieden und entge-
+pengesetzt, folglich, wenn man diese Richtung um-
+
+ehrt, alle Sätze von der Resultante jener auch von
+dieser gültig‘; der Annahme nicht continvirlicher
+Repulsions- Gesetze bedarf es übrigens nicht, und
+selbst ‘das von Newton unter Voraussetzung einer
+Discontinuität angenommene Gesetz ist, wie Lea
+place (Mec. cel. V, S. 105) erkannt hat, unzulässj
+Newton hat übrigens, was die zweyte Frage betrif
+{Prop. 25 Princ, phil. nat.) sowohl" diefs Gesetz aus
+em gegebenen Her Dichtigkeit, als umgekehrt das
+der Dichtigkeit ans dem gegebenen der Repulsion
+abgeleitet, jedoch beides, wie der Vf. nachweist,
+nuF'\unter der angegebenen Voraussetzung der Dis-
+confinuttät d. h. Beschränkung auf die allernächsten
+Molecüle. Laplace beschränkt dagegen den Wir-
+kungskreis, in’ welchem sich jedoch beliebig viele
+Molecüle nach Mafsgabe der Dichtigkeit befinden
+können, nur auf eine unwährnehmbare Entfernung;
+und hierin liegt der Grund der Verschiedenheit bei-
+der Resultate. Rec, mufs übrigens bhierbey bemer-
+ken, dafs Netön, indem er in dem Scholion zu
+jener Proposition von diesen Kräften sagt: quae tera-
+minantur in parliculis proximis, alt non longe
+ultra Afundentur seine Voraussetzung zwar er+
+weitert, aber den Nerf seiner Deduction selbst an-
+greift, — Was zuletzt die folgenden Fragen betriffy
+so ’ist. die angenommene Wirkung der Repulsioo,
+wenn auch ihre Ausdehnung auf eine unwahrnehm-
+bare Entfernung «beschränkt ist, doch wesentlich
+eine actio in distans, und'die von Lap. (A. d, ch. et
+d. Ph. T. 18) angenommene Gleichheit (= 1") durch
+die Nothwendigkeit derselben zur Darstellung der
+Erscheinungen der Gasarten und nainentlich des Ma-
+riotteschen Gesetzes gerechtfertigt. — Eine Zu-
+sammenstellung der Endformeln des Vfs mit denen
+vorn Lopl., und eine nähere Nachweisung eines Ver-
+sehens von'letzterem in‘ Betreff der Gleichheit der
+Gesetze g:(r) und w(r) macht endlich den Schlufs-die-
+ser interessanten Schrift, deren Vf. gewifs denDank
+der mathematischen Physiker verdient, dafs er den
+in Rede stehenden Gegenstand, den auch ein La-
+place einer mehrfachen Erörterung werth und be-
+nöthigt! erachtete, noch einmal ausführlich zur Spra-
+che: brachte, dabey'zuerst die Nothwendigkeit jeder
+Voraussetzufig und ihren Einfßufs’auf die einzelnen
+Schritte der mathematischen Behandlung genau nach-
+a... Yulz ZU . ‚wies,
+
+K 4
+«Yo
+’
+

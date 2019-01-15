@@ -1,0 +1,138 @@
+157 , Num. 145.
+continuirlichen Brächen, fagt er, ift durch die Ver-
+bindung, worin fe mit den wichtigften Aufgaben der
+Arithmetik und Algebra fteht, — unter welchen
+mehrere ohne fıe unauflösbar wären, — eine der
+vorzüglichften in diefem "Theile der Mathematik;
+Bis in die Differential- und Integralrechnung hinein
+erftreckt fich ihr mannichfaltiger Nutzen, und der
+"gröfste Theil der durch die Neuern, fo fehr erweiter-
+ten .unheftimmten Analytik, in welche die ganze
+Theorie der Zahlen gehört, ift auf he als eine Grund-
+Jagegebaut. Gleichwohl ift diefe an Erfindung fo finn-
+reiche ‚und an Anwendungen fo fruchtbare Lehre
+noch nirgends nach ihrem ganzen Umfange fo vorge-
+tragen worden, dafs alle ihre Lehrfätze als ein Gan-
+zes zufammen. hängen, und dafs derjenige, der ihre
+Theorie vollltändig vortragen oder zu fernern Un-
+terfuchungen benutzen wollte, alles in fyltematifcher
+Ordnung, und gleichfam in ein grofses Ganzes zu-
+fammengefchmolzen, anträfe. Diefer Mangel wird
+befonders fühlbar, wenn man Jünglingen, die durch
+Geiftesgaben und in Rückfcht ihrer künftigen Be-
+ftimmung weiter, als der gewöhnliche Haufe, in die
+
+" Wiffenfchaft eindringen wollen — auch hierin be-
+friedigende Aufklärung geben foll. Ein folcher Fall
+war eben die nähere Veranlaffung zum gegen
+en Werkchen, in welchem jch mich bemühete, die
+
+wichtig/ten Sätze über continnirliche Brüche mit ına-
+thematifcher Schärfe und Ordnung vorzutragen und
+fie durch Anwendungen zu erläutern. Die Öuellen,
+woraus ich {chöpfte, waren: Kulers introd. in Anal,
+infis. La Grange Zufätze zu Eulers Algebra. Le
+Gendre Theorie der Zahlen. Lamberts Beyträge zum
+Gebrauch der Mathematik. Mehrere Abhandlungen
+von Euler und la Grange in den Petersburger Com-
+mentaren und Berliner Denkfchriften.” — Die Ma-
+terialien aus diefen Schriften hat der Vf, nun nicht
+blofs in ein nettes und völlig zufammenhängendes
+Syftem verfchmolzen ‚Sondern auch noch befonders,
+im letzten Kapitel, la Grange’s vortreffliche Metho-
+de, Gleichungen durch Näherungen vermittelft der
+continuirlichen Brüche aufzulöfen, die bis jetzt noch
+nicht auf deutfchen Boden verpflanzt war, ausführ-
+lich dargelegt und fo vorgetragen, dafs die fonft da-
+be vorkommende Differentialrechnung ganz ent-
+behrt werden kann. Auch eine kurze Gefchichte
+diefer Brüche findet der Rec. hier zum erftenmal
+mitgetheilt. Die erfte Spfr davon zeigt fich in Wal-
+Ha, Algebra, Nachher hat Huyghens diefe Lehre in
+„= giefeript. automati planetarii, dadurch erweitert,
+
+dafs er gezeigt , wie gewöhnliche Brüche durch Divi-
+
+fıon in continnirliche verwandelt, und gebraucht
+
+werden können, um die Umlaufszeiten der Plaheten
+durch Räderwerk, möglichft genau darzuftellen.
+
+Hierauf kam Euler, Lambert , !a Grange und le Gendre.
+
+Die von unferm Vf. gelieferte Ausführung der fo be-
+
+gaSmen und fruchtbaren Formeln zur Verwandlun
+er Reihen aller Art in continuirliche Brüche, ilt
+
+ihm befonders eigen, da fie fch noch in keinem bis-
+herigen Werke  Oodet, Der Gang felbft, welchen
+der Vf£. bey feiner Abhandlung nahm, ift folgender:
+
+DECEMBER 1809.
+
+1158
+
+Im erflen Abfchnitt werden die Eigenfchaften der con-
+tinuirlichen Brüche aus der ihnen eigenthümlichen; .
+Form hergeleitet. Den continuirlichen oder ftetigen
+Bruch definirt der Vf. fo, ‚dafs es ein folcher fey,
+deffen Nenner aus einer ganzen Zahl und einem Brü-
+che beftehe, wo. der Nenner‘ des letztern abermals
+eine Summe von einer ganzen Zahl und einem Bru-
+che fey, und fo fort, entweder bis ins Unendliche,
+oder bis zu gewilfen, in der Natur der Sache liegen-
+den Grenzen. Die Darftellungen felbfit find zwar
+meift durch allgemeine Buchftabenausdrücke gege-
+ben, aber wo es zur mehrern Verftändlichkeit nöthi
+war, werden auch Begyfpiele in Ziffern aufgeführt.
+Auch von Neben- oder eingefchalteten Brüchen. Von
+ftetigen Brüchen in welchen verneinte Gliedervorkom-
+men, wo gezeigt wird, dafs fie durch leichte Sub-
+ftitutionen auf folche die aus bejahten Gliedern befte-
+hen, zurück geführt werden können. Der zweyte Ab:
+fchnitt befchäftigt ich mit der Erforfchang der conti-
+nuirlichen Brüche. Es finden diefe Brüche Statt, ent-
+weder bey rationalen Brüchen die man fämmtlich in
+ftetige verwandeln kann, oder bey irrationalen Grö-
+fsen, die man als folche Brüche ausdrückt, um dem
+wahren Werthe derfelben immer näher zu kommen.
+Bey den erftern hat man den Zweck, den bekannten
+Werth eines in grofsen Zahlen ausgedruckten Bruchs,
+deffen Zähler und Nenner unter fich Primzahlen”
+find, und fch deshalb nicht kleinern laffen, fo ge-
+nau als möglich auszudrücken. Bey den andern weils
+man den Werth der Irrationalgröfse nicht, kommt
+ibr aber durch Hülfe der ftetigen Brüche immer nä-
+her. In dritten Abfchnitt folgt die Anwendung der
+Theorie diefer Brüche auf merkwürdige Aufgaben,
+vorzüglich die Arithmetik und Algebra. *Zuerft die
+Verwandlung der gewöhnlichen Brüche in ftetige,
+allgemein, und durch Beyfpiele in Ziffern erläutert.
+Z. B. das Verhältnifs des Kreisdurchmeffers zum
+Umfange durch ftetige Brüche auszudrücken. Die
+Periode innerhalb welcher der Mond den Thierkreis
+durchläuft , auf diefelbe Weile. Hiernach findet fich,
+dafs der Mond feine Bahn in 27 Tagen ı mal; ge-
+nauer, in 82 Tagen 3mal; noch genauer, in.765 Ta.
+gen 28 mal u. f. w. vollendet. Der letzte Bruch
+weicht nur um 13% Sec. von der Wahrheit ab, wel-
+ches in 5 Revolutionen etwas über ı Min. macht.
+Stellt man daher den‘ Mondlauf durch ein Räderwerk
+vor und nimmit diefen Bruch dazu, fo braucht man
+die Uhr nur alle 5 Umlaufszeiten um ı Min. vorzu-
+rücken. Auffer noch mehrern Beyfpielen, kommt
+auch die Ausziehung der Quadrat- und Kubikwur-
+zeln vermittelft diefer Brüche vor, wo zur Erleichte*
+‚rung Tabellen beygefügt find. Auch der befondere
+Fall, dafs die Wurzel aus einer unvollkommenen
+Quadratzahl fich als einen periodi/fchen ftetigen Bruch
+vorftellen Jäfst. Anwendüng auf Reihen; auf die
+Auflöfung der Zahlen in Gleichungen vom jedem
+Grade, durch Näherung. Da die Anwendungen die-
+fer Brüche auf die Differential- und Integralrechnung,
+fo wie’ auf die unbeftimmte Analytik ein eignes, un-
+ermefsliches Feld darbieten, das eine befondere Be-
+
+ar-
+

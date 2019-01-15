@@ -1,0 +1,130 @@
+’
+
+Lehre nämlich ist so zerstückelt vo agen, dals es
+kaum möglich ist, sich eine Uebersicht zu verschaf-
+fen. So halten wir $. 93 für verfehlt, wo der Vf,
+sagt: „dafs Brüche multiplicirt werden, wenn man
+
+den Zähler multiplicirt, also z+e= EZ) ist‘ schon
+
+$.. 68 bewiesen, Da aber F = I ($. 69), so giebt
+
+es für die Multiplication der Brüche eine zweite Re-
+gel, dafs man nämlich den Nenner dividirt,” Denn
+abgesehn davon, dafs der Ausdruck „Brüche wer-
+den multiplieirt” selbst ungenau ist, und heifsen
+mufs , ein Bruch wird mit einer ganzen Zahl multi-
+plicirt, so ist auch der Beweis, unseres Erachtens
+nach, zu sehr Resultat eines Zeichenspieles, statt
+dafs die Nothwendigkeit aus der Sache selhst hätte
+abgeleitet werden sollen. Dasselbe gilt von $.94,
+der Division der Brüche Age ganze Zahlen). Von
+
+‚135 an weils man nicht recht, wie die eigentlich
+
+er Algebra angehörigen Sätze hierher kommen. Da
+wird z, B, die Aufgabe gegeben: zwei Gröfsen zu
+finden, deren Summe und Differenz gegeben sind
+u. 8. w.. Bei dem Anfange der Lehre von den Ver-
+hältnissen mufste deutlich herausgehohen werden,
+wie jedes sogenannte geometrische Verhältnifs sich
+als einen doppelten Bruch darstelle, je nachdem man
+die eine oder die andere Gröfse als Einheit annimmt,
+Das Verhüältnifs der Gröfsen a und d z, B, giebt den
+
+Verhältnifsnamen 5 wenn man 5, und 7 , wenn
+
+man a als Einheit annimmt. Durchaus ungenügend
+aber ist $. 145: „der Unterschied von geraden und
+umgekehrten Proportionen beruht auf der Verbin-
+dung, worin die in Proportion gesetzten Gröfsen
+sonst noch mit einander steben, So sind z, B. eine
+Anzahl Arbeiter mit ihrer Arbeit, ihrer dazu nöthi-
+gen Zeit, ihrem Lohne in einem gewissen Zusam-
+menhange, nicht aber mit Arbeit, Zeit und Lohn
+von andern Arbeitern, Kommen nun irgeud Gröfsen
+so in Proportion, dafs die gleichnamigen Glieder
+derselben auch sonst zusammengehören, so nennt
+man sie eine gerade, im Gegentheile eine umgekehr-
+te Proportion,” Das versteht schwerlich ein Mathe-
+matiker, wie viel weniger ein Schüler! Schon den
+Ausdruck „gerade, umgekehrte Proportion” müssen
+wir mi(sbilligen. Die Sache selbst war etwa so dar-
+zustellen: man sagt, Gröfßsen 278 einander propor-
+tional, oder ständen mit einander in, geradem Ver-
+hältnisse, wenn aus der Vermehrung oder Vermin-
+derung der einen eine gleich nä fe 9 ermehrung oder
+Verminderung der anderen folgt, z, B. Arbeitszeit
+und Zahl der Arbeiter bei einerlei Arbeit u. s. w.
+Es war dann zu zeigen, dals, wenn die Größen
+einander proportional sind, die Angabe in das erste
+und dritte, wenn sie umgekehrt proportional sind,
+' in das zweite und dritte Glied der Proportion gehö-
+ren u, 8. W.,. Auch bedient sich der Vf, $. 154 selbst
+des Ausdrucks ‚, umgekehrt proportional”, ohne ihn
+
+ALLG, LITERATUR - ZEITUNG
+
+aber zu erklären, $, 155 ist ungenau, Es heifst da
+so: „die Proportion, unter welcher wir von jetzt an
+immer geometrische (soll wohl heilsen „eine geome-
+trische”) verstehen, — — — bleibt also ungestört,
+weun solche Veränderungen mit den einzelnen Glie-
+dern vorgenommen werden, dafs die Produete der
+innern und äufseren Glieder gleich bleiben, Die
+vornehmsten derselben erfolgen 1) durch Umkehrung
+der Glieder, wodurch die innern Glieder zu Sulseren
+werden; 2) durch Versetzung der Glieder; 3) durch
+Addition und durch Subtraction, oder durch beide
+zugleich, Nr, 2 und 3 sind, trotz der beigefügten
+Beispiele, ungenau ausgedrückt, da namentlich bei
+Nr. 2 hätte gesagt werden müssen, welche Glieder
+und wie sie versetzt werden dürfen. Der Gesell-
+schafts- und Vermischungsrechnung geschieht zwar
+Erwähnung, aber gehörig begründet erscheinen sie
+nicht, In dem Abschnitte, welcher ron den Glei-
+chungen handelt, wäre bei den Aufgaben mit meh-
+reren unbekannten Gröfsen anzuführen gewesen,
+dafs man sich bier dureh Einführung einer nenen un-
+bekannten Gröfse, z, B. der Summe der sämmtli-
+chen Unbekannten, die Sache häufig sehr erleichtern
+könne, Uebrigens ist dieser Abschnitt sehr reich-
+haltig, fast zu reichhaltig für ein Lehrhuch, Auf
+die Lehre von den Potenzen gründet der Vf. die Leh-
+re von den Decimalbrüchen, was etwas unbequem
+erscheint, Uebrigeans fehlt hier die Zurückführung
+der Decimalbrüche aof gewöhnliche, Die Lehre voo
+der Ausziebung der Wurzeln hätte klarer vorgetra-
+gen werden können, und es war sogleich von vorm
+erein zu heweisen, dafs die ct° Potenz einer bziffri-
+gen Zahl höchstens be Ziflern, und wenigstens
+c—(c—1) Ziffern haben müsse, was denn zu
+nächst auf die Ausziehung der Quadratwurzeln an-
+zuwenden war, Statt dessen sagt der Vf, $. 300:
+„um aus einer dekadischen Zahl die Quadratwurzel
+zu ziehen, erinnere man sich, dafs in einem Qua-
+drate die Stelle der letzten und vorletzten Ziffer
+rechter Hand aus dem Quadrate und dem doppelten
+Producte der letzten Ziffer der Grundzahl oder Wur-
+zel, in derselben Ordnung aber weiterhin jedesmal
+die dritt - und vierletzte Stelle des Quadrats aus
+der zweitletzten in der Wurzel , die fünf- und sechs-
+letzte des Quadrates aus der drittletzten der Wurzel
+u, 8, w, entstanden....., Hieraus läfst sich schon
+schliefsen, dafs eine Quadratzahl von 2» und auch
+von 2» — 1 Ziffern in der Wurzel n Ziffern, d, h,
+80 viele Ziffern als jene Klassen habe.” Es mufste
+sodann gezeigt werden, warum man eine Zahl, die
+aus einer ungeraden Anzahl von Ziffern besteht,
+von der Rechten zur Linken, und nicht auders ein-
+theile, sowie, weshalb bei der Ausziehung der Wur-
+zel aus Decimalbrüchen, vor denen noch Ganze sich
+befinden, nothwendig der Theilungsstrich durch das
+Komma gehen müsse, Bei der Lehre von den Loga-
+rithmen mulste gesagt werden, wie man den Loga-
+rithmus eines echten Bruches anszudrücken pflege,
+
+so dafs wenigstens die Mantisse positiv bleibe,
+Vf, ist der m ausgewichen, indem er als Bel.
+spie
+

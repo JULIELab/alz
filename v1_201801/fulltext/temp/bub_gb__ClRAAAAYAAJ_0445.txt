@@ -1,0 +1,130 @@
+CA AU RE RP Day SER. z
+
+„-. ..
+
+217
+
+— 105 —
+
+ 
+
+218
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+Junius
+
+1836.
+
+ 
+
+MATHEMATIK,
+
+Wırv, b. Gerold: Ausführliches Lehrbuch der h5-
+
+‚> heren Mathematik, Mit besonderer Rücksicht
+auf die Zwecke des praktischen Lebens, Bear-
+beitet und herausgegeben von Adam Burg, ord.
+öffentl. Professor der höheren Mathematik am
+k, k. polytechnischen Institute in Wien, Er-
+ster Bed 1832. XXIYVY u. 4785. gr. 8. Zwei-
+ter Band. Mit sieben Kupfertafe nn, XYIu,
+4645, Dritter Band. Mit fünf Kupfertafeln,
+1833, XVII vo. 392 8. (6 Rthlr.)
+
+De: Vf. spricht sich in der Vorrede zu diesem
+Werke zunächst gegen eine zu grofse Kürze des
+Vortrags, sowie gegen eine zu sehr sublimirte und
+gekünstelte, Beweisart und Entwickelung der Sätze
+aus. Sodann bemerkt er, dafs, da dieses Lehrbuch
+zunächst den Zöglingen des k, k, polytechnischen
+Instituts gewidmet seyn solle, deren Tendenz eine
+durchaus praktische sey, die nöthigen Lehrsätze
+nicht blos im Zusammenhange anfgestellt und erwie-
+sen, sondern auch zugleich durch passende und prak-
+tische Beispiele erläutert worden seyen, Bei Ent-
+werfung und Auswahl dieser Beispiele, wie der ein-
+geflochtenen Uebungsaufgaben und behandelten Ma-
+terien überhaupt bin er Vf, besondere Rücksicht
+darauf, dafs die höhere Mathematik die Basis für
+Physik, Mechanik, raktische Geometrie und Bau-
+kunst bilden soll. Er theilte, da ihm diese Anord-
+nung im Vortrage die zweckmäfsigste schien, sein
+Werk in drei Theile ab. Im ersten behandelt er die
+Lehre der Funoetionen, der höheren Gleichungen , un-
+endlichen Reihen u, s, w. bis zu der Lehre von den
+endlichen Differenzen und Summen, Im zweiten
+Bande die analytische Geometrie in der Ebene und
+im Raume, und im dritten die Differential - und
+Integralrechnung nebst den Elementen der Varia-
+tionsrechnung. Wir rechnen dieses Werk unhe-
+denklich zu den besten, welche über diesen Gegen-
+stand erschienen sind, ja wir gestehen, keins zu ken-
+nen, das an Klarbeit des Vortrages es übertrefle,
+Der erste Band zerfällt in vierzehn Kapitel, deren
+Hauptinhalt wir nun angeben, und woran wir einzel-
+ne Bemerkungen anknüpfen wollen. Nach einer Ein-
+Zeitung von den Functionen im Allgemeinen, folgen
+im ersten Kap. die allgemeinen Gesetze für die Mul-
+tiplication der Functionszeichen, sowie der polyno-
+mische und binomische Lehrsatz, Kap. 2: Von’den
+Grenzen der Funetionen; dem unendlich Grofsen
+amd unendlich Kleinen, Kap, 3: Theorie der höhe-
+A. L. Z, 1836. Zweiter Band,
+
+ren Gleichungen. Dieses Kapitel ist vorzugsweise
+gelungen zu nennen, Für die Aufsuchung der irra-
+tionalen Wurzeln giebt der Vf, zuerst die Näherungs-
+methode Newton’s, Richtig bemerkt er dabei, dafs
+man, so einfach dieselbe ihrem Prineipe nach 8ey,
+dennoch bei ihrer Anwendung sehr sorgfältig zu
+Werke gehn, und sich dabei öfter von dem Grade
+der Annäherung überzeugen müsse, da es möglich
+sey, bei einer gewissen Beschaffenheit der Wurzeln
+durch wiederholte Anne ONE dieses Verfahrens,
+sich von dem wahren Werthe der Wurzel wieder zu
+entfernen, Es wäre zu wünschen gewesen, dafs der
+Vf. sich näher erklärt hätte. Bekanntlich machte
+zuerst Lagrange in seinem „fAraitd de la rEgolution des
+Equations numeriques de tous les Ce” darauf auf-
+merksam, Nach ihm Fourier in seiner „analyse des
+Equations determindes, Premitre partie. Paris 1831.
+Gut hat neuerlich Egen in seinem Handhbuche der all-
+gemeinen Arithmetik aus einander gesetzt, für wel-
+che Fälle sie brauchbar sey, und für welche nicht,
+Egen stellt nämlich die Gleichung auf z° + Az"!
++ Bra? 4 Carn—3 + ,...0 + N=0, und sagt:
+„man setze voraus, dafs man schon einen Näherungs-
+werth der Wurzel dieser Gleichung kenne, der a
+heifßse, und man setze a = x + p. Die Brauchbar-
+keit dieser Methode hängt nämlich davon ab, dals
+wenn az ein Näherungswerth von einer der Wurzeln
+der vorgelegten Gleichung ist, a + p dem Werth
+von r sich mehr nähere, als a; oder x —a > x—a
+—p, wenn man von den Zeichen abstrahirt,” Dar-
+auf untersucht er, ob diese Bedingung bei jeder
+Gleichung erfüllt werde, Unser Vf, führt sodann
+
+‚noch einige andere Näherungsmethoden , namentlich
+
+die von Lagrange an, und giebt dann endlich eine
+eigene, die wir hier mittheilen wollen. Er sagt
+nämlich: „leitet man aus dem Polynom X der gege-
+benen Gleichung X=0 das 1stce, 2, Ze, ,, ‚ne Po-
+1ynom Xız Xr, X3, 0004 An—ı, X ab, was ganz
+einfach und fast mechanisch geschehen kann , beob-
+achtet die für die Substitution x = « in diesen Po-
+Iynomen Y, NMı, ..., entstehenden Resultate hin-
+sichtlich ihrer Zeichen, die man in eine Reihe neben
+einander hinschreibt, um die Anzahl der entstehen-
+den Zeichenwechsel zu zählen, und befolgt endlich
+dasselbe auch für die Substitution von x = db; so giebt
+der Unterschied der Zahlen, welche in beiden Fällen
+die vorhandenen Zeichenwechsel ausdrücken, die
+zwischen a und 6 liegenden reellen Wurzeln auf fol-
+
+ende Art: Ist dieser Unterschied gleich Eins, so
+jegt zwischen a@ und & eine und nur eine reelle Wur-
+zel. x Beträgt diese Differenz zwei Einheiten, so
+M e ; setze
+

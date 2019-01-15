@@ -1,0 +1,129 @@
+487 A. L.Z. Num. 221,
+
+zu liegen, wie sie bisher dargestellt wurde, indem
+sie hierin anderen Disciplinen der Mathematik noch
+sehr nachsteht. Während sich nämlich alle übrigen
+Theile der Mathematik schon einer so vollkommenen
+Behandlungsweise zu erfreuen haben, dafs ihre Leh-
+ren als aus einem Principe mit Nothwendigkeit her-
+vorgehend erscheinen, steht die unbestimmte Ana-
+Iytik noch so ziemlich auf der Stufe, auf welcher die
+Geometrie in Euklid’s Elementen erscheint, d.h. man
+schreitet hier wie dort nur äufserlich vorwärts, auf
+jeden Satz folgt ein neuer, aber der innere Zusam-
+menhang dieser Sätze bleibt meistens verborgen, viel-
+mehr erfordert jede neue Behauptung zu ihrem Be-
+weise auch neue verwickelte Kunstgriffe, so dafs die
+
+anze Wissenschaft als eine Sammlung glücklicher
+
+‚infälle eines Genies erscheint. Es ist nicht einmal
+zu hoffen, dafs dieser Zustand bald aufhören werde,
+da die wenigen grofsen Mathematiker, die sich bis
+jetzt mit der Zahlenlehre beschäftigen, weit mehr
+darauf bedacht sind, sie zu erweitern, als ihr ein-
+fachere Grundlagen zu geben. Wenn wir daher sa-
+
+en, dafs auch in Hn. M's Arbeit diese künstliche
+
+arstellung beyhehalten ist, so soll hiermit kein T’a-
+del über dieselbe ausgesprochen werden, weil sie die-
+sen Uebelstand mit der ganzen Wissenschaft theilt;
+aber wir glauben, dafs es, so wie die Sache noch
+jetzt steht, nicht möglich ist, den Zweck zu errei-
+chen, den Hr; M., besonders im Auge hatte, nämlich
+die Zahlenlehre auch als Gegenstand des mathema-
+tischen Urterrichts einzuführen, Denn wenn auch
+diese Lehre ie ganz besonders dazu geeignet ist,
+den Verstand zu üben, So wird ihr Vortrag auf Schu-
+len doch widerrathen werden müssen, So lange es
+dem Schüler nicht möglich ist, ohne Hülfe des Leh-
+rers einen Schritt vorwärts zu thun, so lange er ge-
+nöthigt ist, die einzelnen Sätze und ihre Beweise ge-
+radezu auswendig lernen zu müssen, in der Unmög-
+lichkeit, sie selbstständig wieder herstellen zu kön-
+nen, wenn sie seinem Gedächtnisse entschwunden
+seyn sollten, kurz, so lange diese Lehre der organi-
+schen Entwickelung  entbert Hn. M’s Arbeit ist bis
+auf einige Aenderungen, bey welchen neuere Unter-
+suchungen benutzt worden sind, ein Auszug aus den
+ersten  Koschnitten der bekannten Werke von Gaufs
+und Legendre, und seine Darstellung verbindet al-
+Jerdings mit Kürze und Präcision Klarheit und Fafs-
+lichkeit. Nur wäre es zu wünschen gewesen, dafs
+die aus den beiden erwähnten Werken entlehnten
+Lehren mehr in einander verschmolzen worden wä-
+ren, man erkennt auf den ersten Blick die heteroge-
+nen Bestandtheile, aus welchen das Werk zusam-
+mengesetzt ist. Der Gang der Untersuchung ist fol-
+
+ender. Nach der Entwickelung einiger allgemeinen
+Süıze über ganze Zahlen, die aus Legendre entlehnt
+sind, und der Bestimmung des Begriffs der Con-
+
+DECEMBER 1883, 48
+enz und des Moduls, der etwas später, vor
+
+ätte gegeben werden können, OIC die Aotlonn
+der unbestimmten Gleichungen des ersten Grades,
+und die Entwickelung der Theorie der Kettenbrüche
+So weit sie zur Auflösung dieser Gleichungen nöthig
+ist. Hieran schliefst sich der Fermat’sche Lehrsatz,
+der Sate, däfs eine Congruenz vom nten Grade nur
+n yerschiedene Auflösungen haben kann und Aehn-
+liches. Dann folgt die Theorie der quadratischen
+Keste, für den Satz der Reciproeität ist einer der
+kürzeren Beweise gewählt, die Gaufs gegeben har
+eine Verallgemeinerung des Fermat’schen Jiehrsatzes,
+der JFilson’sche Lehrsatz und mehreres hierher Ge-
+hörende. Nun wendet sich Hr, M, zur Auflösung
+der unbestimmten Gleichungen des zweyten Grades
+und der damit zusammenhängenden Lehre von den
+quadratischen Formen der Zahlen, wobey zunächst
+Gaufs’s Darstellung befolgt ist; es wird aber als-
+dann auch die Lehre von den Kettenbrüchen weiter
+entwickelt und gezeigt, wie man sich ihrer bey Auf-
+lösung der quadratischen Gleichungen bedienen kann.
+Hierbey müssen wir folgende Bemerkung machen.
+Hr. M, sagt S. 125: „es giebt Kettenbrüche, welcht
+niemals abbrechen und deren Totalwerth daher aud
+
+1
+
+keine rationale Zahl seyn kann”; der Leser kön |
+
+hierdurch Jeicht verleitet werden
+jeder Kettenbruch schon deswegen eine irration:
+Zahl seyn müsse, weil er ins Unendliche fortJäuft;
+dies ist aber eben so wenig wahr, als eine Reihe, die
+ins Unendliche fortläuft, auch immer einen irratio-
+nalen Werth haben mufs; vielmehr giebt es bekannt-
+lich eine Menge von Kettenbrüchen, die allerdings
+niemals abbrechen und dennoch einen rationalen
+Werth haben. Freylich ist es wahr, dafs diejenigen
+Kettenbrüche, von welchen Hr. M., handelt, be
+welchen nämlich alle Partialzähler der Einbeit gleic
+sind, immer irrational sind, wenn sie nicht abbre '
+chen; aber diese Behauptung bedarf eines besot-
+deren Beweises und fo)gt nicht unmittelbar aus ihrer
+Form. Hierauf folgen Beziehungen zwischen d#
+quadratischen und lıneären Formen der Primzahlen,
+die Zerlegung einer Zahl in ihre Primfactoren, dit
+Theorie der einfachen Divisoren von ar +6&6* und
+an —b0, und zuletzt wird noch der Satz bewiesen,
+dafs jede Zahl die Summe von höchstens vier Qua-
+draten ist. Angehängt ist eine Tafel der Primzahlen
+von 3 bis 2063, Die Zahl 517 stebt doppelt, dage-
+gen ist 381 ausgelassen, und statt 1691 mufs es hei-
+sen 1619, en Beschlufs macht eine historisch
+Notiz über die Ausbildung der höhern Arithmetik.-
+Diese Uebersicht zeigt, dafs dieses Werkchen sc
+einen bedeutenden "Theil der Zahlenlehre ent
+und es kann jedem empfohlen werden, der sich m
+den Anfangsgründen dieser Wissenschaft bekanıf
+machen will. St.
+
+» zu glauben, di
+
+ 
+

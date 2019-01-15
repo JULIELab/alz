@@ -1,0 +1,138 @@
+801
+
+tragenen Lehrsätze der ebenen Trigonometrie auf
+die Berechnung rechtwinkeliger und schiefwinkeli-
+ger Dreyecke mit Logaritbmen und ohne dieselben
+in mannichfaltigen Beyspielen, fügt auch einige An-
+wendungen auf die Berechnung von Vierecken u. s. w.
+bey. Er befolgt im Ganzen die Ordnung, in wel-
+cher die Planimetrie die Lehrsätze über die Bestim-
+mungsarten eines Dreyecks aus drey von einander
+N N ALDEnZigeT Stücken aufstellt, und zeigt überall
+Gewandtheit in Umwandlung der Formeln im an-
+dere Gestalten, um sie zur logarithmischen Rech-
+nung bequem zu machen. Rec. hat nirgends einen
+Anstofs gefunden. Nur befriedigen ihn seine Ver-
+suche, die negativen Werthe der gesuchten Gröfsen
+zu erklären, oder ihre Vernachlässigung zu recht-
+fertigen aus oben angegebenen Gründen pmRicht
+überall, %.
+
+Der Vf, läfst eine Entwickelung mehrerer For-
+nteln der analytischen Trigonometrie, und eine ge-
+ordnete Auflösung von Aufgäben folgen, in welchen
+es sich um die Bestimmung zweyer Winkel x, y
+handelt, wenn x-+y' und die Summe, oder der Un-
+terschied, oder das Verhältnifs, oder das Product
+zweyer gleichnamigen trigonometrischen Functio-
+nen derselben gegeben ist. Auch dort zeigt sich
+Zweifelhaftes in der Behandlung des negativen
+Zeichens vor trigonometrischen Functionen. Wie
+läfst sich es z. B, rechtfertigen, dafs der Vf.
+
+bey den Ausdrücken cos. at HE und
+
+1— cos, 2a
+
+sin. a= + z behauptet, dafs das Vor-
+
+zeichen von der Beschaffenheit des Winkels « ab-
+hange, und namentlich das obere Zeichen gelte,
+wenn « einen spitzen Winkel bezeichne, während
+die Algebra geradezu für den Cosinus der Hälfte ei-
+nes jeden g:gehenen Winkels 2a, er.sey welcher
+er wolle, das doppelte Zeichen begehrt? "Da in je-
+nen Formeln die Cosinus und Sinus des Winkels a
+aus dem Cosinus des Winkels 2a ausgedrückt wer-
+den, so enthalten sie die Sinus und Cosinus der
+Hälfte aller Winkel, welche mit 2a denselben Co-
+sinus haben, und die sind allerdings alle absolut
+genommen einander gleich, aber mit entgegenge-
+setzten Zeichen versehen, gleichwie sie, geometrisch
+betrachtet, der Lage nach einander entgegengesetzt
+sind.
+
+Nachdem ferner die Hauptformeln der ebenen
+Trigonometrie in rechnender Entwickelungsweise
+dargelegt worden sind, wird ein kurzer Abrifs der
+EN metrie vorgetragen, Der Raum gestattet
+nicht, eine ausführliche Bezeichnung der Ausfüh-
+rung dieses Gegenstandes vorzulegen,
+
+. Unter dem Namen „Vermischtes” zeigt der Vf,
+vorzüglich die Anwendung goniometrischer Functio-
+nen zur Auflösung der Gleichungen des zweyten und
+dritten Grades, giebt eine zweckmäl4ge Auswahl
+von Aufgaben zur Berechnung fehlender Stücke ei-
+
+Num. 38. FEBRUAR 1832.
+
+802
+
+nes Dreyecks aus gegebenen, deren Vergleichung
+mit dem, was eine rein geometrische Construction
+
+‚Jehrt, vieles zur Aufheilung der Lehre vom Positi-
+
+ven und Negativen beytragen dürfte; entwickelt ei-
+nen Fall der Pothenot’schen Aufgabe, stellt Berech-
+nungen an, welche sich auf ein in einem Kreis be-
+schriebenes, oder beschreibbares Viereck beziehen,
+und entwickelt Gleichungen für die Functionen
+dreyer Winkel, deren Summe = 2R, und wendet
+dieselben an auf Aufgaben, welche sich auf Dreyecke
+beziehen, und auf die Bestimmung der Entfernung
+der Mittelpunkte zweyer Kreise, in deren einem ein
+Dreyeck beschrieben ist, dessen Seiten oder ihre
+Verlängerungen der andern berühren.
+
+Die Schrift schliefst mit einem Abschnitte, wel-
+cher die Rectification der Kreisperipherie und die
+Quadratur des Kreises, letztern als die Grenze der,
+in und um derselben beschriebenen regulären Viel-
+ecke mit „wechselnder Seitenzahl betrachtet, und
+cyclometrische Aufgaben und einige auf Dreyecke
+und Vielecke sich beziehende Sätze von Maximis und
+Minimis enthält,
+
+MINERALOGIE.
+
+Herpeıseng u. Leirzıc, b. Groos: Goea Heidel-
+bergensis oder Mineralogische Beschreibung der
+Gegend von Heidelberg, Von Dr. Heinr, G.
+Bronn, Professor u, s. w.. Mit einer petrogra-
+
+hischen Karte, 1830, XIl u. 287 S. gr. 12.
+(f Rthlr, 12 gGr.)
+
+Der Gedanke: ein vollständig ausgeführtes geo-
+gnaostisch - mineralogisches Panorama, sowohl in
+wörtlicher: als bildlicher Darstellung, von einem
+Mittelpunkte aufgefafst zu liefern, der als ein vor-
+200 er Lehrsitz der beziplichen Wissenschaften
+
+elten mufs, kann nicht anders als sehr löblich ge-
+alten werden, und recht nützlich mufs die Ausfüh-
+rung desselben für das praktische Studium der Ler-
+nenden werden, wenn die Gegend, über welche
+sich eine solche Arbeit verbreitet, von der Natur
+mit einem grofsen Reichthume und einer bedeuten-
+den Mannichfaltigkeit der geognostischen Verbält-
+nisse und der Mineralproducte ausgestattet ist. In
+der Jetztern Beziehung steht nun freylich Heidelberg
+unter den deutschen Universitäten und Akademieen,
+wo Geognosie und Mineralogie gelehrt wird, ge-
+rade nicht oben an; Bonn, Freiberg, Halle, Prag
+und Freyburg würden durch die natürlichen Ver-
+hältnisse in ihrer unmittelbaren Nachbarschaft wohl
+noch weit mehr leisten können. Die Gegend von
+
+Heidelberg ist aber immer noch interessant genu
+um den Gegenstand einer solchen lokalen Bearbei-
+tung zu jenem speciellen Zwecke mit vielem Erfolge
+abgeben zu können, und in der That hat Hr. Bronn
+dafür vorliegend die Aufgabe mit einer Umsicht,
+Vollständigkeit, Gründlichkeit und Ordnun gelöst,
+die alle aus dem gegenwärtigen Standpun Cr der
+is-
+

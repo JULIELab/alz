@@ -1,0 +1,183 @@
+461
+
+Rec, ans den einzelnen Aufzeichnungen die barome-
+£rische Windrose berechnet. Darnach ergeben sich
+
+bey den einzelnen Winden folgende Gröfsen für den -
+
+Luftdruck (in Pariser Linien):
+
+Unter-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+; Be-
+
+un Win- [Früh-| Som-
+Wind ter | ip mer Morbat/ Jahr rech [ie
+
+N [53%,951529,65 550,54|530,78 [550° ‚59|550,45|-4+ 0,97
+NO | 3149| 39,43, 29,93| 39,77] 5%58 | 5%57]— 9,01
+
+O_ | 51,25| 29,62} 30,03| 50,77| 30,46 | 3M38|-— 0,08
+SO | 30,37] 2950| 29,43| 29,73] 29,79 | 29,341 4 0,14
+8 29,39| 28,62| 29,21] 99,32) 29,36 | 29,22|— 0,14
+SW | 29,55| 28,44] 29,05 28,81| 23,95 | 29,02 |+ 0,07
+W | 39,14| 28,74| 29,55, 29.25! 29,39 | 29,41 |-+ 0,02
+NW | 30,70! 29,76| 29,94/ 30,241 80,12 | 50,041 — 0,08
+
+ 
+
+ 
+
+ 
+
+ 
+
+Also auch hier finden wir dasselbe Gesetz, welches
+zuerst mit so grofser Bestimmiheit von L. v. Buch
+nachgewiesen wurde, dafs das Barometer: bey nord-
+östlichen Winden am höchsten, bey südwestlichen
+am niedrigsten steht. Dabey senkt sich die Curve,
+welche diese Abhängigkeit zwischen Windrichtung
+und Luftdruck angiebt, mit grofser Regelmäfsigkeit
+von NO bis-S, ja bey Ostwinden ist der Stand des
+Barometers nicht viel niedriger als bey NO, Rec.
+erwähnt diesen Umstand besonders deshalb, weil
+der eben gedachte ausgezeichnete Naturforscher in
+seiner Abhandlung über barometrische Windrosen
+auf eine bisher noch nicht erklärte Anomalie in Ofen
+aufmerksam machte, indem in Ungern das Barome-
+ter bey Ustwind einen sehr niedrigen Stand hat, ja
+bey SO höher steht, als bey O0. Dieselbe Thar-
+sache zeigt sich nach der von Baumgartner (Natur-
+Jehre Ste Aufl. S. 715) gegebenen barometrischen
+"Windrose für Wien auch an diesem Orte, scheint
+also Naturgesetz zu seyn, Wie es sich hiermit
+aber auch verhalten möge, so beweist die obige Ta-
+fel genügend, das die Curve für Prag noch mit der
+im übrigen Deutschland übereinstimmt. Um die
+noch etwa vorhandenen Anomalien zu entfernen;
+hat Rec. für den Stand des Barometers bey den ein-
+zelnen Winden folgenden Ausdruck entwickelt:
+
+Br = 829,869 + 0,785 sin (n. 45° + 52° 10°)
+) -+ 0,077 sin n.'90° 4 199°2")
+
+mit dem. wahrscheinlichen Fehlers
+€”. (Bn) = 0”7,059
+
+’Es bezeichnet hier‘ Bm den Barometerstand, wel-
+cher dem nten Punkte der Windrose, diese von N
+durch O gezählt, entspricht; die nach dieser For-
+mel] berechneten Werthe stehen in der obigen Tafel
+in der mit „ Berechnet” überschriebenen Spalte.
+
+Um die Verhältnisse des Windes zu bestimmen,
+
+hat Rec, die von dem Vf, gegebenen Beobachtungen
+mit den ältern von Strnadt zusammengestellt. Wird
+die Zahl aller Winde als Einheit angesehen, so fin-
+den wir nach dem Mittel 20 jähriger Beobachtungen
+
+Num, $8.. MÄRZ 1882. .'
+
+‚gen soll.
+
+462
+
+für die einzelaen Punkte: der Wiadrose folgende
+Gröfsen:
+
+Wind] Winter|Frühling |Sommer| Herbst| Jahr |
+
+ 
+
+ 
+
+ 
+
+N 0,061 0,115 0,118 | 0,074 |0,092
+NO | 0,944 | 0,069 0,054 | 0,046 [0,055
+O | 0,955 | 0,065 0,048 | 0,064 (0,958
+SO | 0,101 0,100 0,065 | 0,080 [0,086
+S | 0,175 | 0,129 | 0,114 | 0,159 [0,144
+SW. | 0,196 |- 06,173 0,194 | 0,20% [0,192
+W | 0,241 0,187 0,210 | 0,240 |0,219
+NW | 0,096 | 0,164 0,195 | 0,135 |09,147
+
+ 
+
+ 
+
+ 
+
+Die Resultate weichen wenig von denjenigen ab,
+welche Rec. schon aus den Beobachtungen Strnadi’s
+hergeleitet hatte; es möge hier genügen, die mittle-
+ren Verhältnisse für das Jahr anzugeben. Darnach
+finden wir
+
+Mittlere Luftströmung: Richtung S 70°29* W
+- Stärke 0,521
+Verhältnils der öst!, Winde zu den westl.: 1:92,83
+nördl......... Südl.: 1:1,45
+
+Eine ähnliche Arbeit bat Rec. für den Einflufs
+der Winde auf die Hydrometeore vorgenommen; es
+möge hier gedoch genügen, anzugeben, wie oft je-
+der Wind wehen mufs, wenn es bey ihm einmal re-
+Wir fnden nämlich im Mittel aus den
+ufzeichnungen unseres Vfs. und denen von Strnadt:
+
+Wind | Winter| Frühling | Sommer | Herbst | Jahr|
+
+ 
+
+N 8,2 6,8 517 113 | z1
+NO 9,0 8,0 10,8 10,5 | 9,2
+oO 14,6 12,9 19,6 28,5 117,1
+SO | 15,8 11,2 gl 18,7 |12,0
+Ss 91:2 ‚5 6,1 11,6 | 8,8
+sw 6,7 1 51:5 6,5 | 6,0
+W 6,5 +9 +2 6,7 | 54
+NW 6,1 5:8 4:2 4:7 | 5,0
+
+ 
+
+Die Verhältnisse zwischen den einzelnen Win-
+den sind nahe dieselben, wie diejenigen, welche
+Rec, an einem andern Orte mitgetheilt hat (Lehrb.
+der Meteor. 1, 437), nur weichen die absoluten Zah-
+Jen etwas von den dort gegebenen ab.
+
+"Vom August bis December 1827 hat der Vf, täg-
+lich einmal ein Daniell’sches Hygrometer beobachtet;
+der kurze Zeitraum, welchen diese Messungen um-
+fassen, verstattet es demnach nicht, daraus ein Re-
+Sultat- herzuleitem, Da jetzt vor allen Dingen ge-
+naue Hygrometerbeobachtungen Bedürfnifs für die
+Wissenschaft sind, so ist sehr zu wünschen, dafs
+der Vf, seine späteren Messungen im Detail bekannt
+machen möge.
+
+"Den Schlufs der Sammlung machen die vom Vf.
+aus seinen Messungen hergeleiteten Resultate und
+besondere Naturerscheinungen, welche zu Prag be-
+obachtet sind.
+
+L. FF. Kümftz,
+SCHÖ-
+

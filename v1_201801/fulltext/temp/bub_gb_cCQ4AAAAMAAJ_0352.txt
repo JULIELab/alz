@@ -1,0 +1,126 @@
+63
+staben;’versteht ‚da hier namentlich‘ nur‘ von der
+Buchstabeorechnung die Rede ist, wie pafst die Er-
+klärung dazu und zu der Multiplication mit Brüchen ?
+Eben so unrichtig ist die Erklärung der Division,
+Bei den in $, 11. ohne allen Beweis hingestellten
+Sätzen möchte man zuerst fragen: welche Kennt-
+nisse der Arithmetik hat denn wohl eigentlich der
+Vf. bei denen vorausgesetzt, die sein Buch brau-
+chen sollen? Ks heilst da nämlich: „1) den Nenner
+eines Bruches mit einer ganzen Zahl mnltiplieiren,
+heifst: ihr noch in so viel gleiche Theile theilen , als
+die Zahl anzeigt, mit welcher man multiplicirt, 2) Ein
+Bruch wird multiplicirt, wenn der Zähler, dividirt;
+wenn der, Nenner multiplieirt wird, 3) Kin Bruch
+bleibt unverändert, wenn Zähler und Nenner mit
+leiehen Zahlen multiplicirt oder dividirt werden,”
+Da jeder Beweis fehlt, so geräth man fast auf den
+Gedanken, der Vf, habe diese Sätze als Grundsätze
+hingestellt, $, 13 sagt der Vf,: „soll ein Bruch mit
+einer ganzen Zahl multiplieirt werden, so multipli-
+cire sie mit dem Zähler, oder schreibe sie neben ihn,”
+Wie kommt das bierher, da es $. 14. Nr. 3. schon
+benutzt werden mufste? Der Beweis fehlt natürlich
+wieder, Allerdings ist hier nur yom Multipliciren
+in der Buchstabenrechnung die Rede, und ınan könnte
+einwenden, der Vf. habe delswegen die Begründung
+dieser Sätze weggelassen; weil sic aus der gemeinen
+Rechenkunst bereits hekannt wären.: Aber welch’
+ein Hysteron Proteron wäre das, da ja die Wahrbeit
+und Na Telne Gültigkeit derselben erst vermittelst
+der Buchstabenrechnung dargethan werden kann!
+Am besten wird aber die Darstellungsweise des, Vfs
+aus $. 15.: „von den positiven und negativen Grö-
+fsen” erkannt werden können, dessen Anfang wir
+defshalb wörtlich hierher ‚setzen:;: „in der Buchstar
+benrechnung müssen oft Ausdrücke von mehrern
+jedern abgezogen, mit einem andern Buchstaben
+multiplieirt oder dividirt werden. Dadurch ‚stölst
+man auf negative Gröfsen: z. B. (a +6 —c) sollıyon
+d abgezogen werden, Man wird also ein Glied nach
+dem andern von d abziehen, .d, h, ich nehme z, dann
+5 von d weg; wie mache ich es aber mit dem ‚dritten
+Gliede —0? Diefs erfordert einiges Nachdenken, —
+gan nennt Sulche Gröfsen, die Yns Zrtoh en —. vor.sich
+jen , negative Gröfßsenz dagegen heifsen die mit dem
+Zeichen + positive Gröfsen,” Wir überlassen die
+Souribellung dieser Erklärung unsern Lesern, wür-
+den es aber für eine Fabel gehalten haben, wenn uns
+Jemand erzählt hätte, ‚das stehe in einem Lehrbuche
+der Mathematik vom J. 1832. — 5. 22. Multipliea-
+tion. Erste Regel (sohon der Ausdruck: Regel ist
+für die Darstellungsweise ‚des Vfs ‚charakteristisch):
+Schreibe die Faotoren neben ‚einmider,, ‚ohne auf ‚die
+Zeichen zu sehen, Vor dieses Produet setze dhs
+Zeichen +, wenn beide Factoren gleiche Zeichen;
+—, wenn sie ungleiche Zeichen hatten,” Die Regel
+‚steht da, der Beweis fehlt; vermuthlich ist er für
+die mündliche Erläuterung aufgespart. Die Regel
+über die Division ist gleicher Art; delsgleichen $,26,
+
+Nüm.87, SEPTEMBER 1834,
+
+694
+
+die Regel zur Division der Decimalbrüche, In$.27.
+wird bei der Verwandlung gemeiner Brüche in Deei-
+malbrüche gelegentlich auch der periodischen erwähnt,
+Die ganze Lehre darüber ist in folgenden Worten ent-
+halten: „„bemerkenswerth sind hier die periodischen
+Decimalbrüche, in welchen die Ziffern in einer be-
+stimmten und immer wiederkehrenden Ordnung auf
+einander; folgen, So ist z, B., 3 —0,428571428 ,....
+ein periodischer Decimalbruch,” Nicht einmal eim
+
+Wort über die Nothwendigkeit ihrer Entstehung bei
+der Verwandlung gewisser gemeiner Brüche in Deci-
+
+malbrüäche, über die Grenzen der Stellenzahl einer Por
+riode , anderer Dinge, z. B. der Verwandlung perio-
+discher Decimalbrüche in gemeine Brüche, gar nicht
+zu gedenken, S, 38, womit die Lehre von den Lo-
+garithmen beginnt, wird Eozeigt: wie man den Ex-
+ponenten von 2 finde, um 3 zu erzeugen, auf folgen-
+de Weise: „Der Exponent von 2, um 3 zu erzeugen,
+
+ey =; man soll diesen durch Versuche (!) berech-
+
+nen, 2'=2 und 2! = 4, also gröfser als 1 und
+
+kleiner ats 2; man nehme daher 1}; 2'i=2,25%
+=2,1,41... =2,82,.. Versuche darauf 13 u. s. w.”
+Durfte ein solches Verfahren wohl gegeben werden,
+da man ein weit besseres, durch Der olation des
+eometrischen und des arithmetischen Mittels hat?
+ie Lehre von den Potenzen mit negativen und ge-
+hrochenen Exponenten entbehrt, jeder wissenschaft-
+lichen Begründung. Doch genug, um zu zeigen, dafs
+das Buch besser ungedruckt geblieben wäre, Papier
+and Druck sind vorzüglich, M,
+
+Fasnkrort a. M., [b.$ Sauerländer: Theoretisches
+Lehrbuch der Planimetrie, für Gymnasien u. Bür-
+gerschulen, Von  DroUrelzenach, Mit 8 lithogra-
+phirten Steintafela, 162 S, 8, (21 86.)
+
+Wir besitzen der Lehrbücher der Geometrie be-
+reits eine solche Menge, dafs ein neues nur dann gin
+Gewinn für die Wissenschaft genannt werden kann,
+‚wenn seine Darstellung an mathematischer Schärfe,
+Fafslichkeit und zweckmäfsiger Folge der Sätze
+die andern übertriffit, Das lälst sich nun gerade
+yon vorliegendem Buche nicht behaupten, obwohl
+der Vf, durch den ganz eigenen Weg, den er geht,
+} Zweck zu erreichen ‚geglaubt hat, Einzelne
+Deere dazu werden wir sogleich liefern. Das Buch
+‘zerfällt in'7: Abschnitte, .denen eine Einleitung yor-
+‚ausgeht, worin gar Vieles zusammengedrängt ist,
+was nicht hinein gehört: z, B. die Erklärung der
+Dreicke, Vielecke (wozu vom Vf. auch die Dreiecke
+und Vierecke gerechnet werden), die Erklärung der
+Parallelogramme, obwohl noch kein Wort. davon
+gesagt ist, was man unter dem Ausdrucke „parallel”
+verstehe, die Erklärung von „Grundlinie und Höhe”
+u, s, w, S, L—21, Dann folgt S, 23—48 der Jaie
+

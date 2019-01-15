@@ -1,0 +1,133 @@
+201
+der eefgogengezeizier Größen: ‚Eine Differenz,
+wie 0—b, die zum Minuenden die Null bat, schreibt
+
+man gewöhnlich blos so: — b, und denkt sich die
+Null als Minnend noch hinzu. Ebenso schreibt man
+-+ b und versteht darunter die Summe 0+4-b, deren
+einer Summand die Null ist. Solche Ausdrücke, wie
++ b, —b, nennt man additive und subtractive, b
+selbst heifst ihr Glied, Sie sind blos Stellvertreter
+von Summen und Differenzen” u, s.w.. Cap.2: Vom
+Multipliciren und Dividiren, Von den Brüchen, Von
+den positiven und negativen Zahlen, Reelle Zahlen
+S. 10—23, Anhang: Von den Verhältnissen und
+Proportionen, S, 24 —26, Cap. 3: Von den Poten-
+zen, Wurzeln und Logarithmen im Allgemeinen,
+S.26—32. Als einen Beweis von der mathemati-
+schen Schärfe heben wir Folgendes hervor. Nach-
+dem nämlich der Vf, die hauptsächlichsten Gesetze
+über Potenzen, Wurzeln und Logarithmen aufge-
+stellt hat, sagt er nun im $.33: ‚Ganz genau 80,
+wie in ($. 6 und 15) muls nun auch hier untersucht
+werden, ob die vorstehenden Gesetze blos speeielle
+Gesetze der ganzen Zahlen , oder allgemeine Gesetze
+der Operationen sind, Sind sie das letztere, so kann
+man sie überall und unbedingt (also auch auf völlig
+unbekannte Ausdrücke) anwenden, ohne dafs es nö-
+thig wäre, sich um die Bedeutung der einzelnen
+Buchstaben zu bekümmern, Weil wir aber vorher
+aufser der absoluten ganzen Zahl, auch noch die
+Differenz ganzer Zahlen (die ‚positire und negative
+ganze Zahl, und die Null) und auch noch den Quo-
+tienten zweier Differenzen ganzer Zahlen erhalten
+haben, mit denen wir nun zu rechnen haben; so
+müfsten wir hier zuerst wieder die Bedeutung der
+Potenz a® u, s, w. für den Fall erweitern, dafs a und
+b nicht gerade ganze Zahlen, sondern, schon allge-
+meiner, Differenzen ganzer Zahlen sind. Dann aber
+mülste genau und sorgfältig untersucht werden, ob
+dieselben Gesetze für diese jetzt erweiterten Poten-
+zen, Wurzeln und Logarithmen noch gelten, oder
+welche davon als allgemeine Gesetze keine Anwen-
+dung finden dürfen, Wäre dieses geschehen, dann
+müfste man die Potenz a° u, s, w, auch noch für den
+Fall erweitern, dafs a und b nicht gerade blos Diffe-
+renzen ganzer Zahlen, sondern noch allgemeiner,
+uotienten aus zweien Differenzen ganzer Zahlen
+sind, u, 8, W.+..... Cap. 4: Von den bestimmten
+Zahlen. Gemeines Ziffern- Rechnen, Von den De-
+cimalbrüchen, S, 32 — 42, Cap. 5: Einige Eigen-
+schaften der bestimmten Zahlen, Primzahlen. Thei-
+ler, Vielfache, Kettenbrüche, S. 42 — 53. Auf
+eine leichte Weise lehrt der Vf, vermittelst der Ket-
+tenbrüche, wenn zwei Zahlen, z, B. 47 und 89 gege-
+ben sind, Vielfache derselben zu finden, die nur um
+1 von einander unterschieden sind, sowie Vielfache
+dieser beiden Zahlen zu finden, 80 dafs, wenn r ir-
+gend eine gegebene ganze Zahl ist, I. 47x —89y=r,
+oder 11, 89x‘ —47y‘ = r, oder auch 111, 89x“ + 47y“
+=r wird. Cap, 6: Practische Regeln und Uebungen
+in der Ziffern- und Buchstaben-Rechnung, S, 53—59,
+Cap, 7; Der binomische Lehrsatz, Von den absolu-
+
+Num, 13, JANUAR 1838,
+
+102
+
+ten Potenzen, Wurzeln und Logarithmen, S,59—76,
+Der Beweis des binomischen Lehrsatzes ist hier nur
+angedeutet, während er als Anhang des Buches erst
+vollständig gegeben wird, wo die Combinationslehre
+schon vorgekommen ist, Bei der Ausziehung der
+Quadratwurzel und Cubikwurzel war zu bemerken,
+dafs der Rest nach vorgenommener Suhtraction von
+2ab+b? kleiner seyn müsse als 2(a+b) + 1, und
+resp. als 3(a-+b)?+3(a +b) +1. In der Lehre von
+den Logarithmen wäre wohl kurz die Verwandlung
+der natürlichen in Briggische zu zeigen gewesen, In
+$. 77 giebt der Vf. zwei Wege an, auf denen ein Lo-
+garithme, z, B. der Briggische, von 347 berechnet
+werden könnte, Der eine besteht in der wiederhol-
+ten Interpolation des arithmetischen und geometri-
+schen Mittels, der andere ist folgender: „Da näüm-
+lich log. 347 = 2-4 ein echter Decimalbruch ist, 80
+
+kann man schreiben: log. 347=2 Hehe ...
+Es ist aber nach dem Vorigen:
+
+347 = 10H ....
+
+g
+= 10% 10%, 107%, 107", u.6,w. 0.8. W.
+also, wenn man auf jeder Seite mit 10? dividirt
+
+Bw 8
+3,47 = 10°, 107”, 107°”, us. w. 0.8. W.
+
+19 $
+Man berechnet sich num 10°” oder 10, oder /’/ 10,
+und potenzirt solche Zahl nach und nach mit 2, 3, 4,
+5, 6, 7, 8, 9, bis man bemerkt, dafs man mehr als
+3,47 hat, Dies ist bei der 6ten Potenz der Fall,
+Also nimmt man 8 = 5, berechnet (10*)* oder 107%
+
+= 3,162327, und dividirt die vorstehende Gleichung
+auf jeder Seite damit, so dafs man
+
+y d
+1,098 = 107”, 1077” u, 8, w,
+erhält, Nun berechnet man sich 107” oder Y 10 oder
+
+Y 10, und potenzirt das Resultat mit 2, 3, 4, 5, 6,
+7, 8, 9, bis man wieder mehr als 1,098 erhält; der
+nächst kleinste dieser Kxponenten (der ührigens das-
+mal 4 ist) wird nun statt 7 gesetzt; man dividirt dann
+
+mit 101% d, h. 107% oder 1,0965 auf jeder Seite weg,
+und erhält 1,0001 = 107%, u.8.W. 0,8, ww. Berech-
+
+net man nun 107°" oder /.. 10 oder a L 0, und
+potenzirt man das Resultat mit 2, 3, 4, 5 u.8. w., 80 -
+
+30620
+
+sieht man sogleich, dafs d = 0 seyn muls, weil / 10
+
+oder 107%" schon mehr ist als 1,0001. Auf diese
+Weise könnte man fortfahren und log. 347= 2,540, ..,
+mit immer mehr Decimalstellen finden,” Freilich
+gehört, wie auch der Vf, bemerkt, dieses Verfahren
+nur noch der Geschichte der Mathematik an, bleibt
+aber immer bemerkenswerth, Cap, 8; Auflösung
+

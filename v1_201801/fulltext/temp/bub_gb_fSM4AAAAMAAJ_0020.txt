@@ -1,0 +1,163 @@
+fanet, e!l, II p. 578) als sehr merkwürdig bezeichne-
+ten Falle, Eu nämlich aufser den Ausdruck
+
+(1) noch den erungswerth ;
+
+e=m—1
+w{3  fiz+@+D0)) OD
+0=0 ı
+
+und will sowohl den hierbei als hei I begangenen
+Fehler durch eine auf den Taylor’schen Lehrsatz ge-
+jindete unendliche Reihe, deren Glieder mit denen
+ee Ausirpeke IV einerlei Form haben, bestimmen,
+wobei er es sehr merkwürdig findet, dafs für den
+Fall der Gleichung V die Ausdrücke I und VI ein-
+ander gleich zu werden schienen, welches durchaus
+nicht allgemein statt finden könne, Leg. giebt dar-
+über eine ganz ungenügende Erklärung. Sein schein-
+bares Paradoxon entstand in der That daraus, dafs
+er die Darstellbarkeit der Fumetionswerthe durch ei-
+ne Reihe von bestimmter Form ohne weiters voraus-
+setzte, diese Reihe aber unter besonderen Umstän-
+den, wenn nämlich die Gleichung V statt findet, weg-
+fällt; welche Unrichtigkeit bei der vorliegenden Auf-
+gabe aueh so bezeichnet werden kann, dafs Leg., wie
+er freilich bei seiner gröfstentheils der Euler’schen
+Analyse (calec. diff. art. u» folgenden Behandlungs-
+weise nicht wohl anders konnte, die aufser jener
+Reihe noch hinzukommenden Glieder ganz auleer
+Acht liefs, Diels tritt deutlich hervor, weun man
+
+; x
+einen Näherungswerth für fir)dr sucht, des-
+X
+
+w
+ek 1 VAT
+01 Zn
+
+0=0
+
+2u—1
++(—-D)
+
+ 
+
+welche Formel der Gleichung III analog ist, Wen-
+det man nun des Vfs elegante Behandlung von die-
+ser auch auf jene an „”so wird man leicht übersehen
+dafs von dem hierdurch für ne Aragliche Integral
+hervorgehenden Werthe das erste Hauptglied der
+Ausdruck VI ist, das zweite im wesentlichen mit
+IV (wohei sofort aus der Gleichung (A) erhellt, dafs
+wegen der Integralien der‘ betreflenden Glieder nur
+Differential- Quotienten von ungerader Ordnung vor-
+kommen können) zusammenfällt, und dafs das dritte
+Hauptglied jenes Werthes zwar ebenfalls Summen
+von Torte randen enthält, diese aber, wie aus der
+Vergleichung von (A) und (IF) sich ergiebt, von
+denen aus der zuletzt genannten Gleichung hervorge.
+henden wesentlich abweichen , wonach also auch für
+den Fall der Gleichung V die ersten Hauptglieder
+der beiden in Rede stehenden vollständigen Werthe
+
+X
+von fiz)dr, d.h, die Ausdrücke I und VI im
+
+=,
+allgemeinen wesentlich verschieden bleiben müssen,
+- Im $ 8 wird zuerst der Ausdruck
+X e=n je+1 (e)
+„fd I TEE Fe
+
+Num, 156, SEPTEMBER 1834,
+
+fit o0+m + SE
+—1o
+
+30
+sen erstes. Hauptglied der Ausdruck VI ist, da
+
+nämlich
+
+SL. fir +wdu „ff road
+
+zw
+=> [  "fz.+ow+u dur / Fiz+0+Du+u)du
+° zw ’
+und — bei der voransgesetzten Continuität einer
+Function 7 (y) und ihrer Differential - Quotiente
+go“ (y) bis @”(y) innerhalb des fraglichen Intervall
+— allgemein
+
+2 4) 3 (2)
+Ya D=ID LP DAL Du
+
++1)" r 9 Say gm}
+
+ist, 80 erhält man, wenn für n eine gerade Zahl
+= 2 “U angenommen wird,
+
+‚np X e=m—1 ®
+da = "5 ne d
+Sir = 3, ir +0@+u)de
+
+g=m-1 s ‘ (3)
+=23 ) See HS ee
+==9 2123
+{
+
+2u—1 Qu —
+Aa f (er e-+Do)
+1°" (2u—1) i
+
+ 
+
+©
+u2kdu
+
+Fl +@+no0+m0 u)
+
+3
+
+na
++] urt!qu
+
+' LS 1° (nA 1)
+
+unter der Voraussetzung, dafs die Continnität für
+
+(n+ 1)
+F (r) von x, bis Xfär jeden noch so grofsen
+Werth von x statt finde, und die Glieder unter dem
+Summenzeichen mit wachsendem op und daher auch
+die Integrande sich dem Werth o näheren, folglich
+der Werth der letzteren für ein hinreichend grofses n»
+unter jede beliebige Gröfse herabgebracht werden
+könne, abgeleitet, und hernach vorzüglich zur Be-
+gründung der Newton- Cotesi’schen und der Gaussi-
+schen Näherungs- Methode benutzt, Unter a., a,-,
+@, von einander verschiedene positive Zahlen deren
+
+jede < ist, verstanden, und w= «@, v gesetzt, er-
+giebt sich nämlich aus (VIT) leicht allgemein für a,
+. y ] e=n ®i e+1 (
+if(z,+a,-=if(z)+ 3 ı G, ©
+= 1**
+
+FF 3)
+i Q ’
+n+ 1. n
+ta, 8] under
+
+F aut i—w) (VII)
+
+ 
+
+(an+1 ;
+fF (z,+arG— 0)
+folg-
+
+ 
+

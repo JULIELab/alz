@@ -1,0 +1,136 @@
+645 Num. 8.
+nöthig fey, eigene Rechnungsarten dafür aufzuftel-
+len. — "Der Vf. handelt übrigens nur von der Auf.
+löfung der Gleichungen vom erften Grade mit einer
+und mit mehreren unbekannten Gröfsen, von der
+Auflöfung der reinen und gemifchten (wie er es
+nennt, verwickelten) Or dn und von der
+Auflöfung der reinen höhern Gleichungen; von letz.
+tern fagt er fehr wenig. Ab/chn. 2. Von den alge-
+braifchen Aufgaben und ihrer Auflöflung durch An-
+wendung der Gleichungen.‘ — Fünftes Hauptftück,
+Von den Verhältniffen , Proportionen und ihrer An-
+wendung. — Abfchn,ı. Von den Verhältniffen. —
+ÄAbfchn. a. Von den Proportionen. — Die arith-
+metifchen und geometrifchen Verhältniffe und Pro:
+
+ortionen werden in dielem Werke, wie es gewöhn-
+ich gefchieht , -nur_.in fo fern betrachtet, als Ge in
+Zahlen ausgedrückt werden können, womit freylich
+Enklid nicht zufrieden feyn würde. Ab/chn.z3. Von
+der Regel de tri. Was es heiflse zwey Dinge fte-
+hen in geradem oder verkehrtem Verhbältoiffe zweyer
+andern, wird hier recht gut aus einander gefetzt,
+nur drückt Gch der Vf,, wie manche andere Schrift.
+fteller, fehlerhaft aus, wenn er z.B. fagt: die Zahl
+der Arbeiter (tehe mit der Dauer der Arheit in ver-
+kehrtem Verhältniffe, {tatt zweyerley Anzahlen
+
+leichthätiger Arbeiter bey gleichgrofser Arbeit
+
+nd im umgekehrten Verhältniffe der Dauer ihrer
+Arbeit. Nicht recht klar macht Hr. W. den Grund,
+warum man bey einer Proportion in benannten Zah-
+len doch ftets das vierte Glied durch Divifon des
+Productes der Mittelglieder mit dem erften Gliede
+finden kann. Der Grund ift ganz kurz der, dafs
+fch zwey Vielfache oder Brüche von einerley Gröfse
+4 zu einander verhalten wie ihre CoefGcienten, dafs
+man daher in dem erften Verhältniffe den Namen 4
+ganz weglaffen und blofs das Verhältnifs der Coef-
+\cienten fetzen kann, wodurch die Schwierigkeit
+der Multiplication zweyer benannten Zahlen mit ein-
+ander ganz wegfällt, vergl. die darüber bey Nr. 1.
+
+emachte Bemerkung. Im Allgemeinen gehört je-
+
+och diefer Abfchnitt zu den am forgfältigften aus-
+gearbeiteten diefes Buches. Er enthält auch Ver-
+gleichungstafeln der bekannteften Maafse u. f. w,
+Abfehn, 4. Von der Gefellfchafts - oder Theilungs-
+rechnung. Das Gewöhnliche, zwar nicht nach ganz
+firenger Methode aber fehr fafslich für Forfteleveo
+vorgetragen. — Sechftes Haupeftück, — Von den
+Reihen, Logarithmen und ihrer Anwendung. Ab-
+‚chnitt ı. Von den arithmetifchen und geometrifchen
+Reihen. DerVf. fagt, ($.301.) „Reihen find nichts
+anders als zulammenhängende gleiche Verhältnifle;
+es giebt daher nur zweyerley, nämlich arithmetifche
+und geometrifche Reiben.“ Wenn auch in den
+Elementen der allgemeinen Arithmetik nur von die-
+fen beiden Arten der Reihen die Rede zu feyn
+braucht, fo könnte und follte der Begriff von einer
+Reihe doch gleich allgemeiner gefafst werden; oder
+meint Hr. W. wirklich, daf- es nur die beiden von
+ihm ‚angegebenen Arten von Reiben gebe? — Ue-
+brigens werden hier die bekanaten Formeln für das
+
+JULIUS 1824.
+
+646
+
+letzte Glied, für die Summe u. f. w. der genannten
+Reihen wie gewöhnlich mitgetheilt. Ab/chn.2. Vor-
+läufige Begriffe von den unendlich grofsen und un-
+endlich kleinen Gröfsen, nebft Summirung einiger
+unendlichen Reihen. Ueber das Unendliche wenig
+Klares, was freylich bey einer Materie, worin ein
+Euler, eben fo wenig zur völligen Klarheit gelangt,
+fehr verzeiblich ift. Die unendlichen Reihen, von
+welchen hier Etwas vorkommt, find fallende geo-
+metrifche Reihen. Abjchn. 3. Von den Logarith-
+men und ihrem Gebrauche. Rec. ftimmt dem Vf.
+darin ben» dafs es nicht in den Vortrag der Elemen-
+te der allgemeinen Arithmetik gehöre, zu zeigen,
+durch welche Hülfsmittel man gegenwärtig im Stan-
+de fey die Logarithmen leicht zu berechnen; allein
+Das darf, nach des Rec. Urtheil, doch auch beym
+Vortrage der Elemente nicht unterlaffen werden, zu
+zeigen, wie es möglich [ey 'für jede natürliche Zabl
+den Briggsfchen Logarithmus wenigftens näherungs-
+weife zu finden, follte auch diejenige Berechnungs-
+methode, welche Gch dem Anfänger am deutlich-
+ften machen läfst, bey der wirklichen Ausführung
+die befchwerlichfte feyn. Auch fchon der Anfän.
+ger in der Mathematik mufs nach unferm Erachten
+nie Tafeln gebrauchen , von denen er nicht einßGeht, ’
+wie fe  CoChrulrt werden konnten, wenn Ge auch
+nicht wirklich fo conftruirt worden find. Abf/chn. 4.
+Anwendung der arithmetifchen, geometrifchen
+und unendlichen Reihen, fo wie der Logarithmen,
+auf die verichiedenen Zins- und Zuwachsrechnuns
+gen. — Diefe Ueberfchrift verftößlst gegen die Re-
+geln der Logik, da unendliche Reihen ja auch arith-
+metifche und geometrifche feyn können, und fogar
+alle vom Vf. betrachteten unendlichen Reihen geo-
+metrifche find. — Die Gründe der einfachen und
+zufammengefetzten Zinsrechnung und der darauf
+beruhenden Rentenrechnung werden hier recht gut
+entwickelt, und die Anwendung, welche der Foift-
+mann von diefen Rechnungen zu machen hat, wird
+mit Benutzung der hieher gehörigen Schriften des
+K.Sächf, Oberforftraths von Cotta deutlich gemacht.
+
+SCHÖNE KÜNSTE.
+
+HırscheerRG, b. Lachmann: der goldne Schleier,
+oder Irmgard und Hugo; eine Sage aus dem
+Riefengebirge, erzählt von Arminia. 1821.
+1305. 8
+
+In heitrer Badegefellfchaft zu Flinsberg wurden
+der geiftreichen Verfafferin als Text zu einer ro-
+mantifchen Erzählung die Worte aufgegeben: „Lau-
+te. Rübenzahl. ‚Wildes Schwein... Aberglaube.
+Schleier. Herkules. Spiegel. Gefühl. Schlange.
+Beicht/tuhl. ..Seelengröfse. Giftmifcherin:“ Die
+benutzte diefelben meifterhaft, um eine Reihe von
+Volksfagen der Biel ngebivpe in ein Ganzes zu ver-
+einigen; wie folgende Inhaltsangabe heweifet,
+
+räulein Kunigunde; die bekannte Männerfein-
+
+din und Amazone, Herrin des Kynafts, hat Irmgard,
+eine verwaifete Muhme zu Lch genommen, ein läd-
+chen
+

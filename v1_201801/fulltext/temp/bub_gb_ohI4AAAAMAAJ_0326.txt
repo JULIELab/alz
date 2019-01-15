@@ -1,0 +1,138 @@
+642
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LITERATUR -
+
+Julius
+
+a
+
+| MATHEMATIK.
+
+ı) Dessau, b. Ackermann: Anfangsgründe der
+Algebra — von J, A. L, Richter u. $. w.
+
+2a) Hannovers, ind, Hahn’fchen Hofbuchbh.: Lehr-
+buch der Buchftabenrechnung und Algebra für
+Schulen von Dr. C. Garthe u. 1. w.
+
+3) Wısen, b. Heubner in Comm,: Lehrbuch der
+
+Rechenkunft und Algebra — von Geo, Winkler
+u. * WW. *
+
+CBefchlufs der im vorigen Stück abgebrochenen Recenfion.)
+
+Nr. 3. D: erite Auflage diefes Lehrbuchs ift dem
+
+Rec. nicht zu Gefcht gekommen; es
+wird diefs aber um fo’ weniger fchaden, da das vor-
+liegende Werk als ein ganz neues anzufehen ift;
+denn der Vf. ae in der Vorrede, er habe „um des
+erhaltenen -Beyfalls fch nicht ganz unwürdig zu zei-
+gen“ eine gänzliche Umarbeitung (eines Werks für
+nöthig gefunden, Wir knüpfen wie bey den vori-
+gen Werken an die Angabe des Inhaltes der einzel-
+nen, Abfchnitte unfer Urtheil über diefelben.
+S. 1 —8 logifche Vorbegriffe. — Gut; aber un-
+yichsig fi es, dafs in einen Begriff immer nur we-
+fentliche Merkmale aufgenommen würden. — ‘ S.9,
+Anfangsgründe der Rechenkunft. In $.19. und 20.
+erörtert der Vf. den Begriff Gröfse, hätte aber hier
+genauer unter(cheiden {ollen, zwifchen der Grund-
+bedeutung dieles Worts, wonach daffelbe eine blo-
+fse Eigen chaft der Dinge, nämlich die, dafs man
+von ihnen etwas Gleichartiges hinwegdenken kann,
+bezeichnet, und zwilchen der abgeleiteten wiffen-
+fchaftlichen Bedeutung, wonach unter Gröfse das
+Ding felbft verftanden wird, dem jene Eigenfchaft
+zukommt, etwa wie wir das Wort Farbe in’doppel-
+ter Bedeutung gebrauchen. — $. 21. fteht die ge-
+wöhnliche ungenaue Erklärung von einerZahl; aber
+eine Menge gleichartiger Dingez. B. ein Haufen Sand.
+körner ilt noch keine Zahl, {ondern wird es erft
+dadurch, dafs man diefe Menge als ein Vielfaches
+eines Dinges betrachtet, 6,22. hat der Vf, nicht
+Rückfcht auf incommenfurable Gröfsen genommen;
+nicht alle Gröfsen lalfen fich als Vielfache oder als
+Brüche einer angenommenen ihnen gleichartigen
+Einheit ausdrücken. — In $. 29. nimmt der Vf,
+
+die Begriffe Mathematik und Mefskunft fü ich»
+bedeutend, wogegen fich Rec. wie auch gen A  ıy ;
+
+den alten Mathematikern nicht, Statt
+
+d d -
+Ergänz, Bl. zur 4. L, Z, 1824 Drlenie Ver
+
+ZEITUNG
+
+ 
+
+1824,
+
+ 
+
+wechlelung der Arithmetik und Rechenkunft, fchon
+darum okliren mufs, weil die Mathematik keine
+Kunft, fondern eine Wiffenfchaft ift, zwey Begriffe,
+die.im Deutfchen immer ftreng von einander unter-
+fchieden werden follten. Ein ähnlicher Irrthum ift
+es, wenn $. 30. die Baukunft, Markfcheidekunfi u. f.w.
+mit Jen mathematilche Theorieen diefer Künfte ver-
+wechfelt werden; letztere find’es, nicht dia Kün-
+{te felbft, welche man. zuweilen unter den Namen
+technifche Mathematik begreift. — Was $ 33. über
+die Möglichkeit unzähliger Zahleniyfteme gefagt
+wird, möchte dem Anfänger (chwerlich recht klar
+werden. Rec, glaubt überhaupt, dafs In einem wil-
+fenfchaftlichen Lehrgebäude der Arithmetik die gan-
+zeLehre von den Zahlentyftemen erft nach dem m
+
+von den Potenzen fepen dürfe, weil jede nach ei-
+
+nem regelmäfsigen Zahlenfyfteme ausgelprochene
+Zahl als eine nach Potenzen der Grundzahl des Sy-
+fiems geordnete Reibe, anzufehen ift. —= Die in
+6.37. g3z9benen Erklärungen der Grundoperationen
+des Rechnens (der fogenannten Species) find nicht
+allgemein genug; denn Addition ift nicht immer
+„Zufammenzählung zweyer oder mehrerer unglei-
+chen Gröfsen von einerley Art und Bedeutung,“
+Subtrahiren nicht immer „eine Gröfße in zwey un-
+
+leiche Theile theilen u. f. w. — 6.40. meint der
+
+f. die fynthetifche Methode fey die wahre Erfin-
+dungsmeihode, Ohne der fynthetilchen Methode
+den Werth, welchen Ge befonders in fyftematifcher
+HinGcht hat, im Geringften fchmälern zu wollen,
+ilt Rec. doch überzeugt, dafs die analytifche Me-
+thode die eigentliche Erfindungsmethode fey, daher
+fie auch dem Schüler frühzeitig bekannt gemacht
+werden mufs, wenn Ichop es nicht thunlich feyn
+würde, durchaus ftreng analytifch beym Unterrich-
+te zu verfahren und man auch bey analytiflch gefun-
+denen Beweifen und Auflöfungen nicht. unterlaffen
+darf, diefelben von dem Schüler in die weit leich-
+ter zu überfehende fynthetifche Form umfetzen zu
+Jaffen. — Erfies Haupeftück. Von den Rechnungs-
+arten mit ganzen und gebrochenen Gröfsen oder Zah-
+len, Ab/cheict ı. Von den Rechnaungsarten mit
+(ii na migen ganzen Gröfsen oder Zahlen, — Rec,
+
+adet fchon an diefen Ueberfchriften etwas auszu-
+fetzen, man kann nämlich immer nur mit Zahlen,
+nie mit Gröfsen überhaupt rechnen. Auch die fo-
+
+enannte Buchftabenrechnung ift eine Rechnung mit ,
+
+ahlen, deren Werthe man nur nicht beftimmen
+kann oder will, und die man eben defshalb blofs
+
+M (4) all.
+

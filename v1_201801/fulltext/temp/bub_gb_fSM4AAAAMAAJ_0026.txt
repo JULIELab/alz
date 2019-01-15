@@ -1,0 +1,140 @@
+41
+
+— 158 —
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+September 1834.
+
+ 
+
+;‚ MATHEMATIK,
+- Maıyz, in d, Müller, Buchh,: Diferenzic? - und
+Differenzen - Calkul nebst seiner Anwendung, von
+L, inger u, 8, W,
+(Beschlufs von Nr, 157.)
+
+H.. O. sagtS. 144: ‚Die Bedeutung des Ausdrucks
+
+= hängt ebenso, wie die unter der Form — bis jetzt
+
+behandelten, von der Untersuchung der Funktion ab,
+welche ihn erzeugt, Er kann wohl in manchen Fäl-
+len unendlich groß genannt werden, es giebt aber auch
+Fälle worin er einen bestimmten Werth hat, und sol-
+che, wo er im Verhältnis zu endlichen Ausdrücken
+verschwindet. Ebenso giebt cs Fälle , worin der Aus-
+druck 5 auf endliche Ausdriicke führt, und woraus
+
+hervorgeht, dafs nicht, wie insgemein behauptet
+
+wird, der Werth des Ausdruckes =0 sey, sondern
+auf einen bestimmten Werth führt, Der Ausdruck
+
+= bezeichnet dann einen unendlich grofsen Werth,
+wenn er von einer Funktion abgeleitet wird, welche
+eine divergirende unendliche Funktion erzeugt. —
+
+Ganz anders verhält es sich mit dem Ausdruck 5
+
+oder * wenn er in Verbindung mit endlichen Ausdrü-
+
+cken kommt, In diesem Falle hat er ganz gegen
+die hemerkte Eigenschaft einen verschwindenden
+Werth , oder er ist =0,"” Um dies zu beweisen be-
+
+aX
+
+trachtet der Vf, die Funktion = für den Fall wenn z
+=0 ist, Er sagt: „es ist bekanntlich
+
+ax= 1 +x1lga+ ze
+
+{führen wir nun diese Reihe ein, so wird
+
+DZ atpatgop EA
+
+1.2
+
+ 
+
+=
+Wird nun durch gemessen, 80 geht dieser Aus-
+druck in folgenden über
+er = 1 A Iga+z(!goy ..B.
+; BF 1.2
+wird endlich x = 0 gesetzt, so verschwinden alle Aus-
+drücke, ausgenommen Isa und wir erhalten:
+1
+
+' 4. L. Z, 1834, Dritter Band,
+
+1
+
+Wir würden nun freilich dagegen protestiren, und
+sagen, dafs es heilsen mülste 5 =5 + 7ga, Hr, 0,
+
+1
+aber behauptet, dafs das 5 auf der rechten Seite weg-
+gelassen werden muls, ‚„Dafs aber, sagt er, der
+x
+Werth des entwickelten Ausdrucks = Wenn = 0
+1
+
+gesetzt wird, gleich zz ist, zeigt sich aus folgender
+Betrachtung:
+
+S=1+0.1g o-+0'0go0)*
+1.2 te
+
+ 
+
+0
+und hieraus flielst, da alle Glieder vom dritten an
+wenn d o gemessen wird, die o noch führen, und
+also verschwinden
+
+a® 1
+= 1 + 07ga=- + 1Iga
+
+1
+Da in diesem Ausdruck die Gröfse 5, deren Bedeutung
+in Verbindung mit endlichen Werthen noch mitzu-
+theilen ist, vorkömmt, so nehmen wir Veranlassung
+sie hier zu bestimmen, Wir gelangen zu unserem
+Zwecke, wenn wir die Differenzialrechnung zu Hülfe
+nehmen, und nach ihr die Bedeutung des Ausdrucks
+
+x
+= für den Fall, wenn >= 0 gesetzt wird, erfor-
+
+schen, Suchen wir nämlich das Differenzial des Zäh-
+lers und Nenners, 850 ist da*=a*lgadz
+
+d(zx)= dz
+und hieraus, wenn wir diese Werthe mit einander in
+Verbindung bringen,
+
+a*lgadz a*lga
+dz 1
+
+Wird nun r=0 gesetzt, 80 ist der Werth obiger
+Funktion für diesen Fall
+
+a° IIga
+
+oT
+Eine und dieselbe Funktion kann für einen und den-
+selben
+
+Fall nicht verschiedene Werthe haben... hier-
+
+aus flielst also Le = und somit ist der Aus-
+druck ;
+
+A A d, h, der Aus-
+
+X druck
+

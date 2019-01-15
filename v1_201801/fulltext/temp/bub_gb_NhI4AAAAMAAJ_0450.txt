@@ -1,0 +1,130 @@
+881 Num.
+
+220.
+
+ 
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+Freytags,
+
+den 24. Augußfl 1809.
+
+ 
+
+WISSENSCHAFTLICHE WERKE
+
+MATHEMATIK.
+
+OLDENBURG, in Comm. d, Schulz. Buchh.: Esnt-
+deckungen in der höhern Geometrie, theoretilch
+und praktifch abgehandelt, nebft Prüfung der
+von A, W. Wiochatius aufgeftellten elementar -
+geometrifchen Auflöfung des Delifchen Problems
+u. f. w. Von Diederich Uhlhorn, Herzogl. Holft.-
+Oldenb. Mechanicus, 1809. 153 5. 4. m. 4 Kpft.
+
+D: die höhere Geometrie auf alle tiefern Unter-
+fuchungen in der Mathematik bedeutenden Ein-
+fiufs hat, beflonders aber die Anwendung der ver-
+fchiedenen von ihr behandelten krummen Linien in
+den mechanifchen Künften , fo wie in der Baukunft,
+
+rofse Vortheile gewährt, fo entftand bey dem Vf,,
+
+er fich fchon durch frühere Arbeiten diefer Art,
+z. B.: Ueber die Beftimmung der beften Figur der
+Kämme und Triebftöcke, — in den Beyträgen zur
+Verbefferung des Mühlenbaues, zwey gekrönte Preis-
+IAchriften u. f. w. (Hamburg 1804.) — rühmlich aus-
+gezeichnet hat, der Entfchlufs, diefen Zweig der Ma-
+thematik mit noch mehrern krummen Linien zu be-
+reichern, und ciefelben zur Auflöfung verfchiedener
+Aufgaben anzuwenden, welches ihm auch nach vie-
+ler Mühe glücklich gelungen ift. Obgleich der Vf,
+bey feinen — die nöthigen mathematifchen Vor-
+kenntniffe als bekannt vorausgefetzt hat, fo ilt doch
+in der Einleitung Manches, was Gch auf die Gren-
+zen der Elementar - und höhern Geometrie bezieht,
+kürzlich berührt, und verfchiedenes von der Anwen-
+dung der Kegelfchnitte und anderer bereits bekann-
+ten  Kiummes Linien gefagt worden. Der Vf, hat
+zwar eine bedeutende Anzahl neuer algebrailcher
+krummer Linien vom dritten, vierten, fünften, fechs-
+ten, fiebenten und achten Grade erfunden, aber in
+der gegenwärtigen Schrift nur diejenigen aufgenom-
+nen, welche fch durch ftetige Bewegung eines Stif-
+‚es befchreiben laffen, und wodurch Aufgaben auf-
+s‚elöft werden können, die durch die gemeine Geo-
+netrie nicht aufzulöfen find. Die Urfache hiervon
+war, weil der Vf. vorzüglich Praktikern nützlich
+werden wollte; übrigens verkennt er den Nutzen
+ler allgemeinen Unterfuchungen über die krummen
+Linien, als Uebungen in der T’heorie, keinesweges,
+mal da der praktifche Vortheil erft lange nach der
+Cheorie entdeckt zu werden pflegt, wie man befon.
+ers an den Kegelfchnitrfen gefehen hat. Die erflte
+Feranlaffung gab dem Vf. die Gefchichte des Pro-
+
+lerns von der Verdoppelung des Würfels, Die Ge-
+A. IL. Z.
+
+1810. Zweyter Band.
+
+fchichte feines eignen Ideenganges bey wei
+Nachdenken daräler erzählt & Kürzlich Fake ds
+Ende der Einleitung, und man Geht daraus, dafs er
+die richtige Vorftellung von dem, worauf es dabey
+eigentlich ankam, gehabt hat. Das erfte, worauf
+der Vf. kam, war Plato’s mechanifche Auflöfung.
+die er nachher in Bürja’s Geometrie der krummen
+Linien fand, wo diefelbe durch zwey Winkelhaken
+aufgelöft ift. Aus diefer mechanifchen Auflöfun
+leitete er die Zeichnung der krummen Linie her: die
+gleich zu Anfang der gegenwärtigen Schrift $, und
+2. befchrieben, und Fig, 1. und 2, auf der Ku fertafel
+gezeichnet ift; Sachkundige Freunde des Vfs. fan-
+den in ihr die Aehnlichkeit mit einem gewundenen
+Schlangenfchwanz, und es wurde ihr de(shalb der
+Name Ophiuride gegeben. Um fe leichter, als aus
+ihrer Gleichung, durch Punkte darzuftellen, erfand
+er ein Werkzeug, wodurch fie durch ftetige Bewe-
+gung eines Stiftes befchrieben werden kann, Es ift
+affeibe $. 13. befchrieben, und Fig 3. abgebildet.
+Man kann mittelft diefer neuen krummen Linie, die
+vom dritten Grade ift, unter Zuziehung mehrerer
+foraden , nicht allein die Aufgabe von der Vordoppe-
+ung des Würfels auflöfen, fondern auch die ri-
+fection des Winkels damit verrichten, und überhau it
+alle kubilche Gleichungen, deren zweytes Glied
+fehlt, con{truiren. In AbGcht der Confitruction ift
+Ge \‚ach dem Kreife eine der einfachften, und kann
+der Conchoide an die Seite gefetzt werden, ift folg-
+lich in mehr als einer Hinficht den Kegelfchnitten
+vorzuziehen. 1ı) Der Vf, fängt damit an, dafs er
+eine gerade Linie 0 H annimmt, in welcher ein
+Punkt 4, und aufser ihr ein anderer D, egeben ift
+Von diefem fällt ein Loth auf die gerade Pie das
+fie in B trifft. Aus eben diefem /) zieht man och
+eine andere Linie in die O0 H, welches fe in € trifft.
+Auf den Punkt C fetzt man ein Loth, und auf diefes
+Loth läfst man aus dem gegebenen Punkt A auch
+eins fallen, fo ift.die Stelle M, wo es in das vorige
+Loth trifft, ein Punkt in der Orphiuride. Nun fucht
+der Vf. analytifch die Gleichung für diefe Linie wo-
+bey fein Gang eben fo deutlich ift. Die Gleichung
+ift: x? — (ay—y?)x— by?=0o, oder auch x}
+(y?—ay)x — by?=o, a drückt hier den Abftand
+zwifchen den Punkten A und B, und das Loth BD
+den beftändigen Werth & aus; x wie gewöhnlich die
+Abfceiffe, und y die halbe Ordinate. E werden n
+durch hefondere Subftitutionen die merkwürdi ben
+Eigenfchaftnn diefer krummen Linien Weiter ent.
+wickele, indem z.B. y=0, oder x= 5 wird u, fr
+
+(5S) T Was
+
+ 
+

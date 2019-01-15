@@ -186,4 +186,3 @@ mkdir bub_gb_ZRs4AAAAMAAJ
 cp bub_gb_ZRs4AAAAMAAJ*.txt bub_gb_ZRs4AAAAMAAJ/
 mkdir bub_gb_ZTQ4AAAAMAAJ
 cp bub_gb_ZTQ4AAAAMAAJ*.txt bub_gb_ZTQ4AAAAMAAJ/
-

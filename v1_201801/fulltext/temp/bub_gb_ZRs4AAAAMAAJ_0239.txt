@@ -1,0 +1,133 @@
+451
+
+Stande ist, durch die logarithmische Linie, das
+heifst durch das geometrische Bild der Gleichung
+y = a* eine richtige Idee von der Natur der Logarith-
+men zu fassen, und die Eigenschaften dieser in jener
+zu erkennen, also etwa, dafs die Logarithmen echter
+Brüche negativ seyen, weil die Abscissen, welche
+sie darstellen, links vom Anfangspunkte der Coor-
+dinaten liegen, während die Logarithmen der Zahlen,
+welche ölser sind als die Einheit, durch Abscisse
+dargestellt werden, welche rechts von jenem Punkte
+liegen. — Unter den Formeln für die Reihenent-
+wicklung der Logarithmen sollte die Lagrange’sche
+
+logz=nA Sz— 1 ly z—ı)
++ z— 1) etc}
+
+welche für jeden Werth von n gilt, niemals fehlen,
+
+weil man durch Annahme eines immer gröfseren
+Werthes von n im Stande ist, die Reibe beliebig
+convergent zu machen. *
+
+Der Behandlung der Trigonometrie selbst sindin
+der „Einleitung” kurze geschichtliche Notizen vor-
+ausgeschickt, welche, gröfstentheils aus Pfleiderer’s
+ebener Trigonometrie entlehnt, recht gut geeignet
+sind, dem Anfänger die Wichtigkeit der ihm vorzu-
+tragenden Lehre, und den Standpunkt, den sie in
+der Reihe der elementaren Disciplinen einnimmt, zu
+bezeichnen. Der gewöhnliche Stein des Anstosses
+über die Negativität der Cosinus im 2ten dieser
+und der Sinus im Sten Quadranten u, s. w. ist auch
+hier nicht beseiti Ob es sich lohnt, über diesen
+Gegenstand eine so weitläufige Untersuchung anzu-
+stellen, als v. Münchow in seiner Trigonometrie ge-
+than hat, ist eine Frage, deren Beantwortung nicht
+hierher gehört. Gewifs aber ist, dafs der Gegen-
+stand den Lehrern Noth genug macht. Denn dafs
+der gewöhnliche Schlufs: „da die Linien eine entge-
+gengesetzte Lage haben, so müssen sie auch mit
+entgegengesetztem Vorzeichen bezeichnet werden”,
+eine sehr schwache Seite und eigentlich nur den Um-
+stand scheinbar für sich hat, dafs hier zwey ganz
+ungleichartige B riffe, nämlich das nach einer ande-
+ren Richtung hin Liegen zweyer Lioien, und der Ge-
+
+ensatz, der in der Positivität und Negativität zweyer
+
+ahlen hervortritt, durch dasselbe Wort: entgegen-
+gesetzt bezeichnet wird, Wäre es eingeführt, die
+positiven und negativen Gröfsen etwa widerstreitende
+Zu nennen, wie Thibaut thut, so würde gleich jeder
+Knabe fragen: weswegen giebt man in entgegenge-
+setzter Richtung liegenden Linien widerstreitende
+Vorzeichen? Nichts desto weniger ist der Dr
+stand sa wichtig, dafs der Rec. vielleicht Manchem
+einen Gefallen erzeigt, wenn er kurz angiebt, wie
+er den Gegenstand vorträgt. Hat man nämlich in
+einer geraden Linie zwey Sowie Punkte A, B, die von
+anne um A B= a abstehen, und einen dritten
+beweglichen Punkt P, liegen sie ferner zuerst in der
+Ordnung, A, B, P, und ist AP= x, BP=y, so hat
+
+ALLG. LITERATUR - ZEITUNG
+
+452
+
+man. x = a-+y, also y=x-—a, So lange nun x grö-
+fser als a ist, das heifst, so lange die Punkte die an-
+Koscbene Lage haben, ist y offenbar positiv; in dem
+
+unkte B, wo x=a, ist y=0o; fällt aber der Punkt
+P nunmehr zwischen AundB, so hört, sobald x, y
+nur die absolute Länge bezeichnen, die Gültigkeit
+der Gleichung x=a+y auf, und statt ihrer tritt
+die Gleichung x+y=a ein; eben so mufs auch
+diese wieder in die Gleichung y= a+x übergehen,
+wenn die Punkte die Lage P, A, B haben, Will man
+nun diesem Uebelstande einer jedesmaligen Unter-
+scheidung der Lage von P ausweichen ‚und demnach
+was eine absolut willkürliche, Annahme ist, die ur-
+sprüngliche Gleichung x = a + y auch für die beiden
+anderen Fälle gelten lassen, so muls man , wenn man
+in der Lage A, B, P x und y als positive Quantitäten
+angenommen hat, bey'der Lage A, P, B x positiv
+lassen, und y negativ annehmen, damit die Glei-
+chung x+y==a, sich in x—y= 3a, also in die ur-
+sprüngliche x = a + X verwandle, und wenn die
+Punkte die Lage P A B haben, mufs sowohl x als
+negativ angenommen werden , damit die Gleichung
+y=a+x in —y=a-x, das heifst in x=a+Yy
+übergehe, Demnach ist man gezwungen, zweyen
+Linien das entgegengesetzte Vorzeichen zu geben,
+wenn sie die Entfernungen von Pünkten  brzeielnen,
+die auf verschiedenen Seiten eines festen Punktes A
+oder B liegen. —
+
+Es ist sehr zweckmäfsig, dafs in dem Abschnitte,
+der von den trigonometrischen Tafeln handelt, ei-
+gene Beyspiele gegeben, und in Zahlen berechnet
+sind, wie.man sich der trigonometrischen Functio-
+nen zur Vereinfachung der Kechnung (von n+m,
+wenn log n und log m gegeben sind, wo die Gaufs-
+sche Tafel zu erwähnen war, von Yn+m, von
+VYA+yYB, bey Berechnung der Wurzeln der Qua-
+dratischen und cubischen Gleichungen u. s, f.) bedie-
+nen könne, Wenn der Vf, in der Vorrede behbaup-
+tet, es sey ihm die Abkürzung einiger vielgebrauch-
+ten Functionen , von denen, er die Cardanische und
+die für /A+y B erwähnen wolle, so soll das ohne
+Zweifel nur heifsen, er habe 'die Entwickelungen
+vorgenommen , ohne andere Hülfsmittel zu benutzen;
+begreiflicherweise aber konnte er nur auf die Resul-
+tate kommen, die schon längst gegeben, und über-
+all zu finden sind, Die zuletztgenannte Rechnung
+(S. 65) war übrigens durch die Bemerkung abzukür-
+zen, dafs
+
+Ne Y
+
+” cos}? —Sin4 = Sin (45°— 109) 2,
+
+so dafs es nicht erst nöthig gewesen wäre, einen
+Hülfswinkel w@ durch die Formel sin = y3}tgo zu
+berechnen. Dafs bey der Zahlenberechnung dieses
+Beyspiels (S. 66) der Logarithmen des Resultats in
+7 Decimalen, dieses selbst aber nur als eine 4 stel-
+lige Zahl angegeben wird, ist auf jeden Fall eine In-
+consequenz, Brauchte man von dem Resultat hlofs
+4 Ziffern, so reichten 5 stellige Tafeln vollkoramen
+

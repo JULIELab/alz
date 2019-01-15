@@ -1,0 +1,142 @@
+33
+
+erhaltene Werth um weniger als z von dem wahren
+
+; Y x a > I x 4 . ; .
+
+des Integrale“ / f(z)dx verschieden seyn, *
+So
+
+Nach Angabe der Gaufs’schen Werthe der Grö-
+fsen a und R wird $. 15 noch gezeigt, wie die New-
+ton’sche und Gaufs’sche Methode in. dem_Falle,. wo
+die eben für alle Werthe von g gemachte Bedingung
+
+x „ = 0) .., ae
+der Continnität von F (5) zwischen x, und X bezie-
+hungsweise nur his g9=n+2 und o=2n+2 statt
+
+findet,‘ angewendet werden könne, “welches darauf
+zurückkömmt, das fragliche Integral successiy nur
+
+1
+über das Ite, 2te u, 8, w. = Theil des Intervalles
+
+X— 5, auszudehnen, wo m für die Gauss’sche Me-
+thode durch die Formel (XIII) (für die Neıtton’sche
+Methode ist eine andere entsprechende Formel ange-
+
+geben) zu bestimmen ist, wenn darin = statt £ und
+
+> statt « gesetzt wird, d, h. es mufs
+
+1
+zZ ‘4 €
+m< (z)2»+2
+
+seyn, wo. Z den ganzen Ausdruck links in der For-
+mel, XIH, bezeichnet, ,
+
+Den Beschlufs macht die Bemerkung, dafs sich
+die Ausdrücke für die Grenzen der Genauigkeit oder
+die Fehler in einzelnen Fällen vortheilhafter, als dies
+bei der allgemeinen Betrachtung geschehen konnte,
+stellen lassen mögen,‘ Da diese Bestimmung von den
+meisten Schriftstellern bei der Darstellung der ein-
+zelnen Näherungs - Methoden ganz übergangen, oder
+doch selie ungenügend behandelt ist, so gehören die
+gründlichen Frörterungen hierüber zu; den interes-
+santesten Gegenständen der vorliegenden auch in
+mehrfacher anderer Beziehung üufserst schätzenswer-
+then Abhandlung, welche besonders durch die sehr
+gelungene Lösung ihrer Hanptaufgabe, Zusammen-
+stellung und streng wissenschaftliche Ableitung der
+Näherungs - Methaden aus einem gemeinschaftlichen
+Grunde, welche Aufghbe trotz ihrer Wichtigkeit frü-
+her ganz unerledigt gehliehen war, des VIs ausge-
+zeichnete Verdienste um die Wissenschaft und ihre
+Behandlung aufs neuc vermehrt,
+
+'o, R,‚,,,
+
+Marz, in d, Müller, Buchh.,: if yensinl ünd
+Differenzen- Calkul nebst seiner Anıcendnng, von
+L. Oettinger, Großsherz, Bad. Prof, am Gymna-
+sium zu Heidelberg, 1831. XX u, 419'8S, 4,
+(4 Rihlr, 18 Ggr,)
+
+Der Verfasser hatte nicht, wie es der Titel zu
+sagen scheint, die Absicht ein Werk über Diferen-
+zial- und Differeuzenrechnung im Allgemeinen zu be-
+arbeiten; sondern nach seinem eigenen. Bemerken,
+wollte er blos einzelne Materien dieser Wissenschaft
+
+ALLG. -LITERATUR -- ZEITUNG
+
+36
+
+herausheben und näher achten. wird dah
+auch dem Rec, Sr betr dem Verfhie € Schnitt
+vor Schritt zu folgen, wie dies gefordert werden
+könnte, wenn_hier eine systematische Entwickelung
+der Differenzial - und Differenzenrechnuug gegeben
+wäre, sandern nur Bemerkungen über einzelne Punkte
+und Behauptungen zu geben, Da der Verf, hier neue
+Untersuchungen geben wollte, so mulste er natürlich
+auf dem schon Vorhandenen weiter fertbauen , und es
+blieb ihm daher die Wahl, ob er überall auf fremde
+Werke verweisen oUer die nbthwendigen bekannten
+Lehren hier wiederholen wollte; Er hat das Letztere
+geöhlt und dies mu(s im Allgemeinen gebilligt wer-
+
+en, weil es allerdings dem Leser lästig werden mu[s,
+wenn er oft auf Bücher verwiesen wird die er viel
+leicht nicht zur Hand hat. Jedoch, meinen wir, hat
+der Verf, hier zu viel gethan, Einmal scheint er uns
+die bekannten Gegenstände in ztı grofger Ausführlich
+keit behandelt zu haben, aufserdem aber. hat er‘ sich
+oft sehr lange hei einzelnen Beispielen aufgehalten,
+wodurch der Umfang des Werkes bedeutend vermehrt
+worden ist, Dies würde nur zu billigen seyn, wenn
+das Buch für Leser bestimmt wära, die erst in die
+Wissenschaft eingeführt werden sollen. Da es aber
+diesen Zweck nicht haben kann und soll, vielmehr
+für Gelehrte bestimmt ist, -die hier neue Untersuch-
+ungen finden sollen, so hätte dem Verfasser,-:mach
+unserer Meinung , auch diesen mehr ‚überlassen, und
+sich weniger mit der Entwickelung specieller Bei-
+spiele beschäftigen sollen, Wif:bemerken dies be-
+sonders deswegen, weil es überhaupt bei vielen deut-
+schen Schriftstellern, die über Combinatorische Ana-
+lysis schreiben, Sitte ist, sich sehr specieller Ent-
+wickelungen zu befleifsigen, wozu man im diesem
+Theile der Mathematik leicht verführt werden kan
+was aber dem Interesse der Verfasser wie‘ der Wis
+senschaft, gewils sehr im Wege steht, Denn die
+Combinatorische Analysis gehört gerade zu den mas
+thematischen Untersuchungen, die, ihre Elemente
+ausgenommen, von nicht sehr vielen studiert: werden}
+es ist daher gar nicht zu erwarten „ dafs ein volumi-
+nöses, Werk über einzelne Combinatorische: Gegen-
+stände so leicht zahlreiche Käufer und Leser finden
+werde; und so:bleiber oft die hesten Untersuchungem
+Jahre lang unbekannt und vergraben, was nicht der
+Fall wäre, wenn sie in gedrängten Abhandlungen und
+allenfalls in Zeitschriften dem Publikum dargeboten
+würden,
+
+Was nun das Einzelne betrifft, so hat der Verf,
+zuerst in der Einleitung S. 1—69 solche Materieh
+zusammengestellt die bei spöforn Untersuchungen
+benutzt werden mufßsten, Und zwar handelt er in der
+ersten Abtheilung von den Versetzungen und‘ Ver-
+bindungen im Allgemeinen. Finden sich auch hier
+keiue neuen Sätze, so ist es doch sehr verdienstlich,
+dafs sich der Vf, von dem Wust Combinatorischer
+Nomenclaturen, die schon Manchem das ganze Stu-
+dium der Combinationslehre verleidet haben, frei zu
+erbalten .gewulst hat. Er unterscheidet blos zwischen
+Versetzungen und Verbindungen, ohne diese: wieder
+
+in
+

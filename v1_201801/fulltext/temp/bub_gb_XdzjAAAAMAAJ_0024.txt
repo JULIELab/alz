@@ -1,0 +1,134 @@
+37
+
+fin. a"; cos. a®; tang. a®; cos. a®; fin. a® fin. a”;
+fin. a” cos. ma; cos. a® cos. ma, theils die Bogen
+felbft in Reihen durch Kreisfunctionen dargeftellt,
+theils die Kreisfunetionen in Reihen der Bogen. Das
+fünfte Buch fummirt in fünf Methoden die Kreisfun-
+ctionen, welche nach ‚einem gewiflfen Gefetze fort-
+fchreiten. | Diefe Methoden befolgen eine Ordnung,
+welche mehr in der Natur der Sache felbft, als in der
+Willkür des Vf. gegründet war. Der Vf. hat jede
+Methode rein un st efondert von jeder andern dar-
+geftellt. Hierdurch ilt man im Stande zu beurtheilen,
+welche Art von Reihen eine beftimmte Methode giebt,
+und welche Allgemeinheit fie gewährt, und auf fol-
+che Art konnte der Vf. ein harmonifches Ganzes lie-
+fern. Obgleich der V£. feinen Gegenftand weiter als
+alle feine Vorgänger verfolgte, fo verfichert er doch,
+dafs fich fein Werk noch ums doppelte vermehrt ha-
+ben würde, wenn er alle Methoden «er Entwickelung
+in Reihen ünd ihrer Summirung dargeftellt, auch den
+Nutzen, welchen die Kreisfunctionen in den analyti-
+fchen Unterfuchungen gewähren, hätte zeigen wollen.
+Diefs ift wohl zu glauben, aber die Lefer werden auch
+fchon an dem gegenwärtigen vorerit genug haben.
+Der Vf. wollte, nach feiner Aeufserung, diefen Theil
+der Mathematik, welcher der Geometrie von der
+Analyfıs widerrechtlich entriffen worden, wieder an
+feinen eigentlichen Platz ftellen. Er bediente fich
+dabey der Abhandlungen von Euler und Oexell in
+
+den Petersburger Commentarien, {o wie der Schrift :
+Sopra le Serie del P. GE Fontana, in dem Memorie
+di Matematica e Fifica della focieta italiana, wo.er aber
+
+nicht allein mehrere neue Reihen hinzugefetzt, fon-
+dern auch die Unterhuchung allgemeiner, als. felbft
+Euler, gemacht hat. Die Betrachtung der Linien im
+Kreife, durch deren Verhältnifs zum  Halbıne lt der
+Sinus, die Tangente etc. eines Winkels beftimmt
+werden, eröffnet die Unterfuchung. Der Vf. nennt
+zuerft diefe Beftimmungen Kreisfunctionen, indem er
+ihren fonftigen Namen: trigonometrifche Linien, für
+durchaus unrichtig erklärt: denn trigonometrifche
+Linien find nach ihm nichts anders, als die drey Sei-
+ten des Dreyecks, und Trigonometrie it die Anwen-
+dung der Kreisfunctionen auf das Dreyeck: ‚denn es
+wird darin das Verhalten der Seiten; und wie fich
+Seiten und Winkel wechfelfeitig beftimmen, mittelft
+der Kreisfunctionen unterfucht. Man würde, wenn
+man den Ausıltuck: Trigonometrifche Linien, oder
+Trigonometrifche Functionens bey erhalten wollte,
+von einer ganz par llen Anwen« an. einer Sache,
+den Namen für diefelbe heruehmen: ichtiger geht
+man doch zu Werke, wenn man den Namen von der
+Ouelle (elbft, vom Kreife, ableitet, wo man auch die
+
+enannten Verhältniffe felbit zuerft auffafst. Aufser
+
+nerhnus und Quercofinus, betrachtet der. Vf. auch
+
+nerfecanute, Quercafecahte, Quertangente und Quer-
+cotangente, wo fich dann, indem immer das eine
+durch das andere darzeltellt wird, der Faden weiter
+fort/pinnt und die Reihen hervorbringt. Weil hier
+der Kreis als ein Alleck von, unendlich vielen und
+
+Num. 5. JANUAR, 18069)
+
+38
+
+unendlich kleinen Seiten aufgefafst it, fo giebt die
+Conftruction deffelhen Anlafs, ihn durch eine Reihe
+darzuftellen, welche, ins Unendliche fortlaufend,
+feine Grüße zu erreichen fucht,
+
+Wir verbinden mit der Anzeige dieler tjeffnni-
+gen, mit grofser Ausdauer und Beharrlichkeit aus- .
+gear heiten Schrift, noch die von folgendem Werke
+
+e(lelben Verfaflers:
+
+GÖTTINGEN, b. Vandenhök u. Ruprecht: Syflem
+der Geometrie mit einer Kinfeitung in die Größen-
+lehre, als Handbuch zu Vorlefungen, entworfen
+von F. Schweins, der Phil. Doctor u. Privatlehrer
+zu Göttingen. Mit Kupf. 1808. 451 S. gr. %
+(2 Rthlr. 16 gr.)- n
+
+Plan und Methode find zwar, wie fich erwarten
+läfst, diefelben, wie im vorigen gröfsern Werke, in-
+de(/len ift das gegenwärtige doch nicht als ein blofser
+Auszug aus demfelben :anzufehen, . weil es theils in
+feinem Anfange und Ende mehrere Gegenftände be-
+rührt, theils in der Behandlung felbft das Gepräge
+der Eigenheit zeigt. Der Vf. wollte hierdurch dem
+Bedürfnifs feiner Zuhörer abhelfen, die dadurch in
+den Befitz eines Buchs gelangten, wodurch das in
+den Lehrftunden gehörte bequem wiederholt werden
+kann; ‚ein Hauptzweck war aber auch dabey, dadurch
+über die ganze Geometrie in einer kurzen  Geberficht,
+Licht zu verbreiten. Die dem Syftem der Geometrie
+vorangefchickte Einleitung in die Gröfsenlehre ent-
+hält nach einer; ähnlichen Methode dasjenige, was
+man fonft in Lehrbüchern der reinen Mathematik als
+Arithmetik, vor der Geometrie her gehen läfst. Da
+jeder Zuhörer einen folchen arithmetifchen Theil bil-
+ig erwartet, fo durfte ihn freylich auch der Vf. nicht
+fehlen laffen. Das nachfiehende wird einen Begriff
+von der Behandlungs - und Entwickelungsmethode
+des Vf. geben.” „, Größe, fagt er, ift das Reale, was
+innerhalb vollendeter Gränzen: begriffen. iftz oder,
+da das Unendliche alle Gränzen zurück!töfst, fo kann
+ınan die Gröfse auch fo beftimmen, als Ti fie das
+Endliche. Alles ift alfo grofs.: Jedes Endliche als
+Individuum betrachtet, führt zur Idee der Einheit;
+Verbindung mehrerer, zur Idee der Menge oder Viel-
+heit, - Jene heifst das Ganzes diefe die Theile. Die
+beftimmte Vielheit, ift Zahl.” Entftehung der Zah-
+len. Anordnung derfelben; unfer decadifches Syftem.
+Numeration. o wie das Anhäufen zweyer hlen
+fchon bey der Numeration Summen herverbringt, fo
+kann es äuch durch mehrere Zahlen gefchehen, und
+fo ent!pringt daraus die Addition; und wie man von
+der Eins an, durch ununterbrochenes Hinzudenken
+der Einheit zu jeder inöglichen Zahl gelangen kann,
+fo kann man auch von. irgend einem Gliede diefer
+Zahlenreihe wieder zu dem erften, der Kins, herab-
+fteigen. Diele beiden entgegengefetzten Arten wer-
+den durch die Zeichen + und — angedeutet; das +
+
+ift für das Fortbilden der Zahl, und das — ift für das
+) Rück-
+

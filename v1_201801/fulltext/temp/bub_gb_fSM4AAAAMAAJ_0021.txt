@@ -1,0 +1,133 @@
+31
+folglich durch Specialisirung von a, und Hinzuzie-
+hung von (VII) im ganzen (n +2) Gleichungen, zwi-
+schen denen sich die (n +1) Gröfsen fir) fF@I-
+
+(m)
+ft (r,) dnrch Multiplication mit den gehörig bestimm-
+ten Factoren I, A,, A,... An eliminiren lassen, wor-
+
+X
+aus, R, für — 2, gesetzt wird, für L. fix) dx
+den Näherungs - Werth ®
+
+r=n
+res R,f(z+a,i) (YIM)
+
+entspringt. Es ist nun zuerst die allgemeine Glei-
+chung zwischen 2, oder R, und der Größe a zu 8u-
+chen, woraus denn nach der verschiedenen Bestim-
+ng letzterer die beiden vorhingenannten Methoden
+abgeleitet werden. Zu jenem Zwecke sind die (n+ 1)
+Bedingungs- Gleichungen für die A, allgemein, wenn
+
+man g allmählich alle ganzen Zahlen von o bis n +1.
+
+bedeuten lälst, von der Form
+
+1 e 2 e @ N
+N
+; (IX)
+vorhanden, aus welchen die gesuchte Relation auf
+eine sehr elegante Weise erhalten wird, Bezeichnet
+
+nämlich € die Summe der als Producte gedachten
+Combination zu o der Gröfsen a, Gy 00 0(r— 1),
+Wr 1): +: x 07, (also mit Ausschluls von a,.), 80 er-
+hält man durch Multiplication der Gleichungen (IX)
+beziehungsweise mit
+n SD! oo P—Q
+
+(—-1"C,., (AD Cr (1)"7 Canal
+und Addition derselben eine Endgleichung , in wel-
+cher nur die Summe der Anfangs-Glieder, so wie
+derer, welche A, enthalten, einen von o verschiede-
+
+nen Werth haben, wonach sich der von 2, durch die
+Formel
+
+: |
+A T
+Ay = — HJ. us (X)
+
+darstellen 1äfst, in welcher f eine unbestimmte
+"Größe bedeutet , ferner T gleich dem Produete aller
+Factoren (f—4a,) bis (t—a,) [und zwar mit Ein-
+
+schlufs von (f—a,)] und Q = = für t= a, ist,
+
+r
+* Mittelst des hieraus folgenden Werthes der Summe
+
+A.L, Z, Num, 156, SEPTEMBER 1834,
+
+‘ Weg, welchen der gelehrte Vf, im
+
+32
++ 1 1 Sk
+> t ] Tat orgiebt sich
+
+zuletzt der Ausdruck für den Fehler I des Nähe-
+rungswerthes (YIHI)
+
+n
+aller 1, a,
+
+ 
+
+in+? (n-+1) 1
+I = 1°2°"(n-+ 1) (7,) L. Tdt
+1 (n42)
++ wu (z,+i—uw) (XD)
+r=n n+2 Al {n+2)
+$ X 2,0, A a x. ta, (i—0)J.
++ re re, Sa F I? -( )]
+
+)
+Die a, bleiben hierbei noch willkürlich, In $, 10
+und 11 werden für die Annahme ar =", welche die
+
+Newton - Cotesi’sche Methode giebt , die gewonnenen
+Resultate specialisirt und weiter, besonders in Be-
+zug auf bequemere Rechnungsformeln für die R, aus-
+geführt, Hierbei findet sich auch, wenn n»gerade
+
+1
+ist, LS Tdt=0o, wodurch in der Gleichung (XI)
+
+o
+
+das erste Glied verschwindet, und der den Ausdruck
+für / in diesem Falle erst mit dem (n-+2)!co Diffe-
+rential- Quotienten von f(x) beginnt, Nachdem da-
+her sowohl für ein gerades als ungerades 'n die Rela-
+tionen zwischen diesem und €, so wie die Zahlenwer-
+the der R angegeben sind, wird $, 12 ff, die Frage
+beantwortet A unter der Voraussetzung, dafs der
+Werth von I mit wachsender Ordnungszahl des nie-
+drigsten darin bleibenden Differential - Quotienten
+beständig abnähme, die (n+1) Größen «a jetzt so
+bestimmt werden könnten, dafs jene Ordnungszahl
+so groß als möglich werde, d. h, nicht allein auch
+für ein ungerades n der (n + 1)!e, sondern für jedes
+n bis zum (2n + 1)teo einschliefslich alle niedrigern
+Differential - Quotienten aus der Gleichung (XI), wenn
+diese gehörig entwickelt wird, verschwinden, Diels
+ist bekanntlich der Fall bei der Gaufs’schen Metho-
+de; bei Beantwortung dieser Frage ist jedoch der
+erfolg des
+früher hier betretenen wählt, von dem des En
+Erfinders dieser Methode nothwendig verschieden,
+und, wenn er auch vor letzterem nach der Verschie-
+denheit der Absicht in beiden Darstellungen viel-
+leicht in Bezug auf die Kürze, und, wie der Vf,
+selbst bemerkt, in Bezug auf die Formeln für die
+numerische Berechnung der a und R keinen Vorzug
+in Anspruch nimmt, so hat doch durch jenen, der
+ebenfalls sehr elegant ist, die gründliche leichtere
+Uebersicht der Sache sehr gewonnen,
+
+(Der Beschlufs folgt.)
+
+ 
+

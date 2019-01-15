@@ -1,0 +1,146 @@
+Num, 203,
+
+Sammlung von) technischen "Aufgaben enthalt;
+Erster Band, * a8: 8 N
+
+In der Vorrede sucht der Vf, es zu rechtfertigen,
+dafs er sein Lehrbuch zugleich für Gymnasien und
+für technische Lehranstalten bestimmte, und es ist
+nicht zu leugnen, dafs die Gründe, welche er an-
+
+führt, von Gewicht sind, Er glaubt nämlich, dafs,
+obwohl formelle Bildung auf dem Gymnasium vor-
+nehmlich bezweckt werde, doch der Schüler dessel-
+
+ben zugleich auch für das Leben zu.einem Geschäfts-
+manne vorbereitet werden solle, und daßs ihm daher
+die Anwendungen der abstracten Sätze nur von sehr
+grofsem Nutzen seyn könnten, Eben so wichtig.aber
+scy es für technische Lehranstalten, die mathemati-
+sche Strenge der Lehrart nicht zu vernachlässigen,
+und .diefls' um so mehr, da für diese 'Anstalten die
+Mathematik fast als das einzige formelle Bildungs
+mittel gelten müsse, Das Buch gehört im Ganzen
+zu: den besseren Lehrhüchern, und wir würden es
+unbedingt gut nennen, wenn der Vf, nicht so häufig
+die Beweise durch blofse Zeichen und Formeln führ-
+te, wodurch freilich viel an Kürze gewonnen wird,
+Rec. wird bei den einzelnen Lehren dieses sein Ur-
+tbeil nliher: motiviren, Das Buch zerfällt in fünf Ab-
+schnitte, wovon der erste die Theorie der einfachen
+Rechnungsarten, der zweite die Grundlehren der
+Combinationslehre , der dritte die Elementar - Theo-
+rie der Potenzen, und ihre nächste Anwendung, der
+vierte die Gleichungen des ersten und zweiten Gra-
+des, und der fünfte die Progressionen und Logarith-
+men enthält, Im Allgemeinen ist die Darstellung
+klar und präcis, und die Beweise streng, Zuweilen
+jedoch sind wir mit dem Vf, nicht einverstanden,
+
+So heifst es $ 86: „von zwei Brüchen -& 2 ist
+m?’ m’
+
+derjenige der gröfste, welcher den größfsten Zähler
+hat. Nun sieht man freilich aus dem beigefügten
+Beispiele, dafs der Vf, Briche von gleichen Nennern
+meint; deutlicher aber wäre er dem Schüler gewor-
+den, wenn er es auch mit Worten gesagt hätte,
+Worto aber hat sich der Vf,, wie wir schon oben
+bemerkten, gar gern erspart. Das erhellt z. B. recht
+deutlich aus $ 94: ‚Aufgabe: einen Bruch durch
+eine ganze Zahl zu dividiren, Auflösung: „mag di-
+vidire die ganze Zahl in den Zähler des Bruches,
+und lasse den Nenner ungeändertz oder man multi-
+plicire bei ungeändertem Zähler den Nenner mit der
+gauzen Zahl,
+
+2:6 = ds
+Sib= Oz H:3= HH.
+
+Beweis: 1) dafs zZ :b = <:3 ist, ergiebt sich aus
+
+Folgendem: man setze a:c oder Tr = p, 80 ist nach
+
+ 
+
+wem ur o..
+
+$37,a=cp, also nach 540, 1,a:5= 7, Wer
+
+NOVEMBER 1836,
+
+wollte leugnen’, dafs der Beweis streng und richtig:
+sey? Aber dennoch gefällt er uns nicht, der Schü-:
+ler gewöhnt sich zu sehr an ein hlofses Zeichenspiel.’
+Die Erklärung der entgegengesetzten Gröfsen billi-)
+
+en wir gleichfaMs nicht, Der Vf, sagt $ 105: bei!
+
+er Verbindung mehrerer‘ gleichartigen Gröfsen mit
+einander mufs man nothwendig‘ Rücksicht darauf!
+nehmen , in welcher Beziehung’ sie zu einander stehn,
+In dieser Hinsicht finden nur zwei Fülle Statt, Ent®
+weder stehn sie in dem’ Verhältnisse" zu einahder,
+dafs sie. ‚bei. ihrer, Vereinigung wirklich als Theile,
+der neuen Gröfse erscheinen, — in diesem Falle
+werden die Gröfsen ‚einstimmig genannt —;3 oder sie
+haben die Beziehung zu einander, dafs sie sich hei
+ihrer Vereinigung ganz oder zum Theil. vernichten s
+in diesem Falle heilsen!sie entgegengesetzte oder wi-
+derstreitende Gröfßlsen, Beispiele entgegengesetzter
+Gröfsen sind ,,.., Zahlen Jerselban Art, die nach
+entgegengesetzter Richtung , N die also durch zwei
+Acte des Züählens so entstanden sind , dals der eine
+den andern aufbhebt,” Wir glauben, dafs der Be-
+griff entgegengesetzter Gröfsen nur dadurch. dem
+Schüler klar gemacht werden könne, wenn man sie
+ihn anfangs in Beziehung auf eine dritte Gröfse den-
+ken lehrt, bei welcher sie entgegengesetzte Wirkun-
+gen hervorbringen, Erst später mag man von dieser
+dritten Gröfse abstrahiren, und zeigen, dafs man
+auch vor ihrer Verbindung mit dieser dritten Größe,
+sie unter einander verbinden könne, wo denn die
+eine durch die andere ganz oder zum Theil vernich-
+tet wird, Unklar ist $ 197; „obgleich derıeben
+gegebene Begriff von Potenz ganz gültig ist, so würde
+selbst unter der Voraussetzung, dafs der Grund-
+faetor und der Exponent positive Zahlen seyn sollen;
+die Aufgabe: eine beliebige Zahl so anzunehmen,
+dafs sie als Potenz einer andern gegebenen erscheint,
+nicht gelöst werden können, Man sieht aber auf den
+ersten Anblick , dafs der Annahme, zum Exponenten
+eine negative ganze oder gebrochene Zahl, selbst
+andere Zahlenausdrücke, deren Siun erst im Fol-
+genden abgeleitet werden kann, wie 2, 73 an-
+zunehmen, nichts im Wege steht. Deshalb aber be-
+darf der obige Begriff einer Erweiterung.” Wem
+es $ 199 heilst: „negative Potenzen endlick nennt
+man solche, die negative Zahlen zu Exponenten ha-
+
+— mn m „—5
+‚577,3
+
+, im Gegensatze von po-
+sitiven Potenzen, deren Exponenten positive Zahlen
+sind, Diese Ausdrücke beziehn sie
+
+ben, wie @
+
+also lediglich
+auf die Pufenzen und sind daher, streng genommen,
+nicht: sehr bezeichnend ”: so ist das wohl nur ein
+Schreibfehler, und. sollte für „Potenzen”, wo es
+zuletzt vorkommt, ‚„Exponenten” stehen. Auffal-
+lend ist die Erklärung einer negativen Potenz $ 200,
+oder vielmehr der Beweis dafür, Der Vf. hat näm-
+lich diese Erklärung zu einem Lehrsatze gemacht,
+m
+
+m
+
+und sagt nun, um zu beweisen, dafs a
+
+a
+der Erklärung einer Potenz zufolge wird es nur dar-
+‚auf
+

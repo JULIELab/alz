@@ -1,0 +1,132 @@
+611
+
+aber dergestalt an, dafs er zugleich stets rückwärts
+experimentirte , also näch Anhän ung des Ge-
+wichtes za aufs‘ Neue die Gewichte (n—1)a,
+(n—2) a, 4... 2a, a, 0 einwirken liefs. Wir
+
+Bleibende
+Ver-| Ausdehnung
+
+such des
+Drahtes
+
+  
+  
+ 
+
+  
+      
+
+14] |
+
+|
+14] 28|
+
+  
+
+ 
+
+In dieser Tafel bezeichnet in jeder Horizontalspalte
+die Zahl welche zuletzt auf der rechten Seite steht,
+die Gröfse der Ausdehnung, welche erhalten wurde,
+wenn das darüber in der zweyten Horizontalspalte
+stehende Gewicht das gröfste der bis dahin ange-
+wendeten war. Die vorhergehenden Zahılen be-
+zeichnen die Gröfse der Ausdehnung welche gefun-
+den wurde, wenn man das Gewicht nach und nach
+um je 4 Pfund verkleinerte. Die zweyte Vertical-
+spalte endlich giebt die bleibende Ausdehnung nach
+
+tfernung aller Gewichte. Um den Zusammen-
+hang zwischen angehängtem Gewichte und dadurch
+bewirkten Verlängerung cken, nimmt der
+Yf£. die Gleichung
+
+P=de+Be?+Ceh+4+.....
+
+an, wo unter e die letzten Gröfsen rechter Hand in
+jeder Horizontalspalte verstanden werden, wäh-
+rend p die darüber stehenden Gewichte ausdrückt.
+Indem er den 2ten, 4ten, 6sten, 8ten, 10ten und
+12ten Versuch der Bestimmung der Constanten zum,
+Grunde legt, bleibt er bey den beiden ersten Po-
+tenzen von € stehen und findet
+
+p= 54.0,295079e — 54?.0,000884 6?
+
+Aus der Gleichung p=A.e— Be?, welche der Vf,
+für diesen und die übrigen Versuche entwickelt,
+leitet er das Gewicht her, welches zum Zerreifsen
+dieses Drahtes erforderlich ist. Zu dem Behufe be-
+stimmt der Vf. welches der gröfste Werth von p
+sey; dieser findet nach den bekannten Sätzen
+
+ALLG. LITERATUR - ZEITUNG,
+
+|
+26] 40] 54] 67] 81] 94]108| 1 1
+82| 45] 59 72] 861100[118[127[
+38| 51| 65| 78| 92/105|119|133|146|
+45] 59| 72] 86/100[113|126|140| 154 |167]
+54] 68| 82| 95]108|122|136|150|1681177] 190]
+66| 79| 93]107]120|133|147|161|175|188|202|216|
+81| 94/108|121|185/148|162| 176| 189/203|216 | 230/244
+
+612
+
+wollen hier das Resultat eines Versuches mit ei-
+ner eisernen Claviersaite von 0',8 Durchmesser
+und 696‘ Länge mittheilen, ;
+
+Angehängte Gewichte = p in Oesterr, Pfunden
+
+     
+   
+ 
+  
+    
+  
+
+ 
+
+ 
+
+Zar
+
+über die Maxima und Minima dann statt, wenn
+tr ist; es ist also im vorliegenden Beyspiele
+
+der gröfste Werth von e=8“,18 (‚7 der ganzen
+Länge) und das Gewicht von welchem der Draht
+zerreifst 65, 17 Pfund. Hieraus leitet der Vf. das
+Gewicht her, von welchem ein Oesterr, (Quadrat—
+zoll von diesem Eisen zerrissen wird, dieses beträgt
+1324 Oesterr, Centner, Hierauf folgen noch einige
+andere Versuche mit Eisendraht von einem ver—
+schiedenen Durchmesser, aber eben diese Versuche
+zeigen uns auf das Bestimmteste , wie vorsichtig wir
+seyn müssen, wenn wir aus unseren Versuchen mit
+Körpern von kleinen Dimensionen Resultate herlei =
+ten wollen, die für gröfsere Körper gültig seyn sol-
+Jen, Das Gewicht von welchem ein Draht von ei-
+nem Quadratzolle Queerschnitt zerrissen wird,
+nimmt sehr schnell mit der Dicke des Drahtes ab.
+Dieses Gewicht nämlich beträgt für einen Draht.
+
+von 0,205 Linie Durchmesser 180 Centner
+. 1 .
+
+0,243 . . . 23 ..
+
+0,300 . . .„ 7, 1324. . .
+* 0,419 .’. * * * 1025 . * .
+0,554 . » * + 1009 . .
+
+Bey zwey andern Drähten von verschiedenem Eisen,
+deren Durchmesser 4 und 0,843 Linien betrug, wa--
+ren die erforderlichen Gewichte respective 929 unct
+681 Centner. Wir sehen bier also eine yegelmäfslpes
+Abnahme der Festigkeit mit der Zunahme der  in>
+» ; offen —
+

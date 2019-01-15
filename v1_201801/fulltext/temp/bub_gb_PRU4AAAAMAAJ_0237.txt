@@ -1,0 +1,126 @@
+441
+
+ALLGEMEINE
+
+— 56 — 1 3
+LITERATUR -ZEITUN
+
+ 
+
+442
+
+G
+
+März 1838.
+
+ 
+
+PHYSIK.
+
+PerTEersaurRG, gedr., in der Kaiserl. Hof-Buchdr, :
+Observations meteorologiques et magnetiques fai-
+tes dans V’empire de la Russie — — par A, F,
+Kupffer etc,
+
+(Beschlufs von Nr. 55,)
+
+Re. hat beide Erfahrungen ebenfalls sowohl in
+den Ebenen von Deutschland, als auf den Alpen ge-
+macht, darnach ist jedoch der erste Uebelstand bei
+weitem wichtiger, als der zweite, denn die kleinen
+Ungleichheiten scheinen bei einer gröfseren Zahl von
+Beobachtungen zu verschwinden, wofern man nur
+keine zu grofsen Thermometerkugeln anwendet; ihm
+scheinen diese Differenzen nicht größser zu seyn, als
+diejenigen, welche man zwischen mehreren neben
+einander hängenden Thermometern, namentlich im
+Sommer hemerkt, welche ebenfalls in Folge schwa-
+cher Lufströme oder kleiner Verschiedenheiten in
+der Strahlung momentan um’‘mehrere Zehntel eines
+Grades abweichen können, so jedoch, dafs bald das
+eine, bald das andere etwas höher steht. Den ersten Ue-
+helstand hat Rec, ebenfalls häufig hemerkt, und wenn
+er wegen der allgemeinen Milde der letzten Winter
+die Thatsache auch nicht bei so grofsen Küältegraden
+gesehen hat, als der Herausgeber, so glaubt er doch
+annehmen zu müssen, dafs die Ursache davon theils
+in der Art der Befeuchtung, theils in der Dicke der
+Eisrinde liegt. Es scheint dem Rec. nach seinen Er-
+fahrungen durchaus nothwendig, das Thermometer
+im Winter wenigstens eine Stunde vor der Beobach-
+tung anzufeuchten und häufig reicht selbst diese Zeit
+nicht ans. Der Grund scheint darin zu -Jiegen, dafs
+das Wasser noch nicht vollständig gefroren war, und
+dafs die Wärme, welche beim Gefrieren frei wird, das
+"Thermometer etwas erhöht, Rec. hat daher die Er-
+scheinung am häufigsten in der Nähe des Gefrier-
+punktes beobachtet,
+
+Die Beobachtuugen selbst gehen vom 1, Julius
+1835 bis 30, Junius 1836, sie sind von 8 Uhr Mor-
+gens bis 10 Uhr Abends alle zwei Stunden gemacht,
+und es werden zuerst die Beobachtungen des Baro-
+meters in halben Linien des englischen Zolles und
+auf 131° R. reducirt gegeben, darauf folgen die Tem-
+peraturen in Graden R, nebst dem Drucke der Damnf-
+atmosphäre, und zuletzt die Winde nebst der Be-
+schaffenheit des Windes, Dürfie Rec, in Betreff auf
+
+A. L, Z. 1838. Erster Band.
+
+die Anordnung des Druckes einen Wunsch ausspre-
+chen, so wäre es der, dafs sämmtliche zu derselben
+Stunde gemachte Beobachtungen an allen Instrumen-
+ten neben einander ständen, Zwar erleichtert die
+vom Herausgeber gewählte Trennung «die Ueber-
+sicht über den Gang der einzelnen Instrumente, aber
+wenn man die sämmtlichen Erscheinungen zugleich
+übersehen und mit den an anderen Orten statt gefun-
+denen vergleichen will, dann ist die gewählte Ein-
+richtung unbequem. Rec, hat diese Vergleichung
+mit den gleichzeitig beobachteten Angaben der In-*
+strumente in Mailand, Paris, London und verschie-
+denen Orten Deutschlands vorgenommen, so interes-
+sant jedoch auch mehrere dieser Resultate zu seyn
+scheinen, so würde eine Angabe derselben hier zu
+weit führen, er empfiehlt einem jeden aber diese Ar-
+heit, welcher die grofsen Bewegungen der Atımo-
+sphäre will kennen lernen. Dagegen erlaubt sich
+ec, einige andere Folgerungen aus den Beobach-
+tungen mitzutheilen, Zuerst zeigt sich hier die be-
+kannte tägliche Ebbe und Fluth des Luftdruckes noch
+ziemlich bestimmt; nach dem Herausgeber ist der
+Unterschied zwischen dem Maximum am Morgen und
+dem Minimum am Abende etwa 3,02 Millemeter,
+Rec, hat die Barometerstände in Pariser Linien aus-
+gedrückt und aus den täglichen Bewegungen des
+Quecksilbers die folgende Gleichung hergeleitet:
+
+Bı =336,”6294-+0,“ 03537 sin (n, 15°4125°Y)
+
++ 0,02529 sin (n.30° + 147°3')
+
++ 0,00317 sin (n. 45° + 270°)
+wo die Stunde vom Mittage gezählt wird und Bn den
+zugehörigen Barometerstand bezeichnet, Leiten wir
+
+daraus die Wendestunden und die Extreme her, so
+finden wir
+
+Minimum um 53 Uhr = 336,594
+Maximum um 10} Uhr = 06,622
+Minimum um 15 Uhr = 6,600
+
+Maximum um 213 Uhr = 6,691
+
+Die Zeiten sind also noch nahe eben 80 als in andern
+Gegenden, denn die Abweichungen rühren unstrei-
+tig davon her, dafs die Messungen bei der Kleinheit
+der Bewegungen nicht hinreichend lange fortgesetzt
+sind, um alle Anomalien zu entfernen. Der Unter-
+schied zwischen dem mittleren Maximum und dem
+mittleren Minimum beträgt darnach 0,059. Nach ei-
+ner Gleichung, welche Rec. aus einer grofsen Anzahl
+von Keygen hergeleitet hat, wiirde derselhe
+\hk
+

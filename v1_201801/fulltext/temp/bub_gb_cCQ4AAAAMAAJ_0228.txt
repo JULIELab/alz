@@ -1,0 +1,139 @@
+443
+
+nung der einzelnen Lehren hat der Vf, gänzlich verlas-
+sen und sich einen eigenen gewählt, mit den Worten
+sich rechtfertigend; dafs ein System nicht deshalb gut
+oder schlecht sey,‘ weil es mit’einem vorhandenen
+Systeme übereinstimme, oder richt; denn wer ein
+neues System unternehme, strebe nach einer neuen
+weniger mangelhaften. Darstellung : ob aber eine
+solche gelungen, sey lediglich ans der Sache zu be-
+urtheilen, ir führem zunächst die Reihenfolge
+der einzelnen Lehren auf, woraus der ganz eigen-
+thümliche Gang des Vfs ersichtlich ist. Das Buch
+zerfällt nämlich in 16 Kapitel, in folgender, anf den
+ersten Anblick sonderbar genug erscheinenden Ord-
+Kap, 1. Vom Bilden der Zahlen und vom
+wirklichen Operiren mit ihnen S, 3—9, Kap. 2,
+Von der Addition und Subtraction S,9—27, Kap.3,
+V om Multipliciren und Dividiren S, 27—63, Kap.4,
+Von den Potenzen, Wurzeln und Logarithmen S, 63
+bis 116. Kap, 5, Vom Numeriren und von den vier
+Species S, 116—12%, Kap, 6, Von den Vielfachen
+und Theilern 8,124 — 145, Kap, 7. Von den Brü-
+chen und Wurzeln S, 145— 162, Kap, 8. Von den
+Deeimalbrüchen S, 162-— 197, Kap. 9. Vom Wur-
+zelausziehen S, 197 —219, Kap, 10, Von den hö-
+hern und niedern Einheiten, von den mehrfach be-
+nannten Zahlen und von den commensurabeln und
+incommensurabeln Gröfsen S, 219 —225, Kap. 11.
+Von den Gleichungen, besonders von den einfachen
+algebraischen Gleichungen mit einem Unbekannten
+S. 225—246. Kap. 12, Von den Proportionen S, 246
+bis 257. Kap, 13, Anwendung der xleichungen des
+ersten Grades mit einem Unbekannten S.257 — 307.
+Kap. 14. Von den einfachen Gleichungen mit mehre-
+ren Unbekannten S, 307 — 323, Kap. 15, Von den
+Gieichungen des zweiten Grades mit einem Unbe-
+kannten S, 323—336, Kap. 16. Von den Gleichun-
+zn use Zweiten Grades mit mehreren Unbekannten
+Was den Werth des Buches betrifft, so ist es
+nicht zu leugnen, dafs der Vf, sich als einen Mann
+zeigt, der seinen Stoff vollkommen beherrscht, und
+der Wissenschaft, die er vorträgt, Meisterist, Auch
+jene Vollständigkeit und Gründlichkeit, die der Vf:
+sich als Ziel vorgesetzt hat, werden nicht vermilst;
+a man findet sehr Vieles, was man in andern Lehr-
+chern der Arithmetik vergebens suchen würde;
+Sodann ist es ein nicht gerinzer Vorzug des Buches,
+dafs der‘ Vf, die Buchstabenrechnung gleich von vorn
+herein anwendet, und yermittelst ihrer jede einzelne
+Lehre in ihrer allgemeinen Gültigkeit darstellt, was
+hier am so schätzbarer ist, als gerade in der allge-
+meinen Arithmetik der Vf, eineungemeine Gewandt-
+heit an den. Tag legt, So willig wir. nun auch diese
+Vorzüge anerkennen, so können wir doch nicht um-
+hin, auf der andern Seite eines Mangels zu gedenken,
+der unserer Üeberzengung nach dem Werthe des Bus
+ches, als Lehrbuch für Schüler betrachtet, wesentli-
+chen Eintrag thut, Der Vf, scheint uns nämlich zu
+sehr einem gewissen Zahlen- und Zeichen - Mecha
+nismus zu huldigen, und zu wenig Rücksicht zu neh-
+
+’'Num, 56; JUNJIUS- 1834,
+
+men auf die Auffassung der Lehren durch. den Ver-
+stand, So sind viele der wichtigsten Sätze gar nicht
+mit Worten, sondern hlofs durch Zeichen ausgedrückt,
+In $; 94, z, B. will der Vf, zeigen, dafs, wenn man
+einen Bruch mit seinem Nenner multiplicire, der Zäh-
+ler als ganze Zahl sich ergebe. Das sagt er aber
+dem Schüler nicht, sondern die ganze Sache wird.
+
+mit.folgenden Worten abgethan: „in sofern RE jedes-
+mal die Zahl bezeichnet, welche mit n’ multipli-
+eirt a giebt, so istn. £ oder £,n gleich a.”. Bei der
+
+Uebersicht der einzelnen Kapitel werden wir noch
+mehrmals auf diesen Uebelstand zurückkommen, Das
+4te Kapitel beginnt mit der Erklärung des Ausdrucks
+„ Potenz,” Hier heifst es: „Jedes Zeichen von der
+Form a” heifst eine Potenz, bestimmter: die nte
+Potenz von a; der Ausdruck a wird der Dignand,
+der Ausdruck n der Exponent genannt, Die zweite
+Potenz eines Ausdrucks. nennt man auch das Quadrat
+desselhen,.die dritte Potenz den Cubus ”u,s,w. Dem
+Schüler hat esder Vf, mithin überlassen,!sich nun den
+Begriff von einem Exponenten in Worten selbst zu hil-
+
+den, Von dem Grade oder der Dimension der Poten-
+zen ist nichts gesagt. In$.117. sagt der Vf,, ‚dafs
+die Gesetze des $. 113, (es ist da die Rede von den fünf
+
+Lehrsätzen, die wir, wie es auch der Vf, thut, der,
+Kürze wegen nur mit Zeichen ausdrücken wollen:
+arn+ı = #0 , a9; ar—q = an: Ag} AN NI = (aml)ı
+
+= (a7)"; (ab)r =an,bn; (5) a) auch von
+
+= 5a
+
+Potenzen erfüllt: werden, deren Fxponenten Null
+oder negative Zahlen sind, unterliegt deshalb keinem
+Zweifel, weil die Bedeutung solcher Potenzen ver-
+mittelst $, 113, II und insofern dem Begriffe des Po-
+tenzirens gemäfs ont eateilt worden ist,” . Dem ist
+aber nicht so, da in den dort gegebenen Zahlenbei-
+spielen nur von solchen -Fällen 7 Rede ist, wo der
+xponent des Divisors kleiner ist, als der E nent
+des Dividendus, Es hätte daselbst ausdrücklich
+von dem Falle die Rede seyn müssen, wo der Expo-
+nent des Divisors dem Exponenten des Dividendus
+gleich, oder gröfser als dieser ist, und nun gezeigt
+werden, wie in jenem Falle der uneigentliche Aus-
+druck a@° für 1, in diesem der uneigentliche Aus-
+2 a
+
+drack a —w (wenn q um w gröfser ist als n) für —
+$. E20 gehört gar nicht dahin, und ist an
+
+entstehe.
+chüler unverständlich, da er bis-
+
+diesem Orte dem
+
+jetzt sich nech keinen Begriff von einer Zahl(?) wird
+
+mächen können, die weder eine ganze, noch eine ge-
+brochene Zahl wäre, In $. 138 stellt der Vf. auch
+wieder blofs mit Zeichen den Satz auf, dafs der Lo-
+arithmus eines Products gleich say der Summe ‚der
+ogarithmen der einzelnen Factoren, Der Beweis
+ist wieder reiner Zeich eher haniamuss Blick 9
+ist /| ab) =10g9 a + 10g9 b, ezeichnet /0gy (a
+heile Zahl mit Wedhor man 2
+muls, um a& zu erhalten, Logg a + log 9 b bes
+ne
+
+46
+
