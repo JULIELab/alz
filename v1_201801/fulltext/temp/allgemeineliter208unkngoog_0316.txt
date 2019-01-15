@@ -1,0 +1,143 @@
+Kı Vu Rn vv =
+
+streitig angenehmer begegnen müssen. Dennoch
+wollen wir auch diesen Abschnitt in der Kürze
+durchlaufen, um die Leser mit den eigenthümli-
+chen Ansichten des Vfs bekannt zu machen,
+
+Zunächst beschäftigt sich der Vf. mit der Be-
+griffsbestimmung der Wissenschaft. Ganz recht
+merkt der Vf., es könne nichts fruchten, dem
+‚Anfänger im Voraus zu erklären, was Mathematik
+sey, weil diese Erklärung, wenn sie genügen soll,
+bereits eine völlig deutliche Einsicht in das Ge-
+bäude der Wissenschaft voraussetze. Diese Schwie-
+rigkeit trifft aber auch alle übrigen abstracten Leh-
+ren, z.B. der Philosophie und Physik. — Etwas
+mufs indessen doch gesagt werden, und diese Noth-
+wendigkeit scheint der Vf. nicht genugsam erwo-
+en zu baben. Man hat bey uns die Benennun
+
+man bemerke wohl, es ist von einer Ueberschrift
+und nicht von der Erklärung, eines Fremdwortes
+die Rede) Gröfsen- Lehre vorgeschlagen; der Vf.
+wendet gegen diese Benennung ein: 1) dafs sie un-
+bestimmt lasse, was Gröfse sey; und 2) dafs nicht
+Alles, was man über Gröfse reflectiren und lehren
+kann, zur Mathematik gehöre. Beide Einwürfe
+würden auch die Benennung - Naturlehre treffen;
+der Vf. scheint also’nicht völlig unterschieden zu
+haben, dafs nur von einer Benennung, keineswe-
+ges aber von einer Definition die Rede ist. — Den-
+noch kann der Name Gröfsen- Lehre nicht voll-
+kommen befriedigen; es ist damit, als ‘wenn man
+Stoff - Lehre statt Natur - Lehre sagen wollte, weil
+alles, was wir von der Natur mittelst der Sinne er-
+kennen, sich auf Stoff oder Materie bezieht. Wie
+sich der Stoff zur Natur verhält , so verhalten sich
+die Formen und Gesetze des abstracten Erkennens
+pnd Anschauens zur Gröfse. Hiernach könnten wir
+
+leicht eine Benennung bilden, die zugleich als Er-.
+
+klärung gelten könnte; weil indessen der Vf. keine
+
+philosophischen Erklärungen zulälst, so müssen wir
+diese Untersuchung abbrechen.
+
+Bey der Eintheilung der Mathematik in Arith-
+metik und Geometrie kommt der Vf. natürlich auf
+die Begriffe von discreten und continuirlichen Grödö-
+fsen, und bezieht sich hiebey auf dje von FF. 4
+Förstemann (Bemerkungen über verschiedene Be-
+griffe und Theorieen aus der allgemeinen Gröfsen-
+und Zahlenlehre; Danzig 1825) gegebenen Erklä-
+
+. rungen. Diese Erklärungen weichen aber von des
+
+anderweitig bekannten nicht wesentlich ab, d. ji
+setzen sich selbst voraus.
+
+Wenn der Vf. (S. 19) sagt, dafs der eigentliche
+Unterschied in der Methode der alten und der
+neuen Mathematiker darin bestände, dafs jene
+1 die Idee des Unendlichgrofsen und Unendlich-
+kleinen zu umgehn strebten, und 2) ihre Sätze oh-
+ne Einmischung von Formeln und Rechnungen be-
+wiesen, SO ist dieses mur theilweise wahr, Auch
+
+nimmt der Vf. (S. 21} den Unterschied zwischen
+
+Symthesis und Analysis zu formell; die Alten cor-
+
+Num, 79, AUGUST 1882,
+
+680
+struirten überall nur die Vielheit aus der Einheit
+(Synthesis), unterdefs die Construction der Einheit
+aus der Vielheit (Analysis) ihnen fast gänzlich fremd
+war. — Euklid hebt seine Flemente unmittelbar
+mit dem Unendlichkleinen der Anschauung an; und
+wir hoffen später Gelegenheit zu finden, auf eine
+völlig evidente Art darzuthun, dafs unsere soge-
+nannte Differenziale weiter nichts, als wahre Ein-
+heiten sind. _ |
+
+‚Ist dem so, dann besäfsen wir in der Integral-
+Rechnung ein vollständiges Surrogat der Synthesis;
+oder es müfste eine ursprüngliche Synthesis .im hö-
+hern, wissenschaftlichen Sinne des Wortes geben,
+in weichem Falle die Differenzial - Rechnung über-
+fassig gemacht, jedenfalls aber unsere bisherige,
+bekanntlich noch immer auf einer sehr schwanken- |
+den Grundlage ruhende Integral- Rechnung mehr
+befestigt werden würde. Die mathematischen Le-
+ser dieser Zeitschrift werden also ohne Zweifel ein
+hohes Interesse an dem Versuche des achtbaren
+Vfs nehmen , und Zeit und Raum, welche Rec. auf
+ihre Beurtheilung verwendet, nicht für verschwen-
+det erachten,
+
+Lagrange berichtet Nr. 208 seiner Theorie des.
+Fonctions analytiques den bekannten analytischen
+Irrthum Newton’s in der Theorie gezwungener Be-
+wegungen., mittelst Anwendung der Begriffe von
+Unendlichklein, oder dessen, was diesen in der
+Mechanik analog ist, und zeigt mit aller ihm eige-
+nen Klarheit, wie man dergleichen Fehler öber-
+haupt zu vermeiden habe: — Mehrfache Werthe
+in Formeln, denen verschiedene Wurzeln zum Grun-
+de liegen, welche bey den elementaren Operatie-
+nen übersehen werden, können nur so lange als
+scheinbare Unvollkommenheiten eines Calcüls auf-
+treten, der alle Vollkommenheiten einer streng
+mathematischen Schlufsweise besitzt, bis wir er-
+kannt haben, dafs der Fehler allein unserer zu
+wenig gespannten Aufmerksamkeit zuzuschreiben
+sey. — Ob die Kunst der Synthesis diese Einsicht
+befördere und die einzig zweckdienliche Wahl un-
+ter einer Menge von Möglichkeiten begründe, woal-
+Jen wir noch einstweilen dahingestellt seyn lassen;
+aber bekennen müssen wir, dafs das von dem V£.
+aus Schuberl’s Astronomie genommene Beyspiel
+(die Berechnung des gröfsten und kleinsten Wer-
+thes der Dauer der Dämmerung für eine gewisse
+
+Breite) deshalb nicht als Zeuge für die Nothwen-
+
+digkeit einer synthetischen Betrachtung auftreten
+kann, weil man bey Anwendung der allgemein als
+richtig anerkannten Regeln des analytischen Cal-
+culs hier das richtige Resultat gar nicht verfehlenm
+kann. Aufserdem erscheint hier die synıhetische
+Begründung des Vfs, bey aller Weitläufigkeit, als
+ganz überflüssig, weil sie gerade diejenige analy-
+
+"tische Endformel, welche mit dem richtigen Cal-
+
+cul @bereinstimmt,‘ als gegeben voraussetzt.
+
+Der Vf. beginnt mit der Untersuchung, ob in
+der Anschauung (?) der geometrischen Grandber
+griffe.
+

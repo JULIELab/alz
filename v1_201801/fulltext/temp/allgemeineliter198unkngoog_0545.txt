@@ -1,0 +1,150 @@
+1075
+
+dem aufgehobenen Fufse gefafst werden könne. Es
+kann indeffen auch Fälle Aiben; wo man mehrere
+Umläufe verlangt ehe die Kraft von neuem eingreift.
+Es wird nun $. 7. das erfte Problem fo aufgeftellt :
+durch Hülfe eines Rades, worauf die Kraft wirkt,
+werde an einer Welle, worüber ein Seil hängt,
+eine Laft aufgewunden; man fucht den Schwung
+des Rades und der Welle, wenn die genannten Ab-
+meffungen nebft der Gefchwindigkeit des angegriffe-
+nen Punktes gegeben find.” — Zu diefem Behuf
+wird vorerft eine Gleichung für die bewegende
+Kraft am Rade gegeben, und hieraus die be(chlen-
+
+) migende Kraft nebit der Gefchwindigkeit des ange-
+zrffenen Punktes entwickelt. Aus diefem findet fch
+weiter die gröfste Höhe, auf welche das Rad zu ftei-
+en vermag. Weiter hin entfteht die Frage: welches
+At die vortheilhaftelte Maffe der Mafchine, Ladung
+der Laft, der vortheilhaftefte Halbmeffer des Rades
+oder der Welle bey einer gegebenen Kraft? — wozu
+‚die vorigen Gleichungen wieder benutzt werden.
+Es fndet fich daraus, dafs es weder für die Maffe,
+noch für den Schioung, einen vortbeilhafteften Werth
+giebt, fo lange beyde blofs an und für fich,ohne Rück-
+Echt auf andere Beftimmungen in der Gleichung, be-
+trachtet werden. Aber einen vortheilkafteften Halb-
+me/Jer des Rades fo wieder Welle, giebt es allerdings
+‚für den Schwung. Aufser mehrern ähnlichen Entwi-
+' ckelungen die der Vf. auf die vorigen folgen läfst, befei-
+-tigt er zugleich einige fcheinbare Widerfprüche. Von
+‚$. 21. an vergleicht der Vf. das von ihm hier Vorge-
+ene mit dem was Andere über das Schwungrad
+‚gelehrt haben, und beleuchtet vorerft den PollHem’”-
+‚Shen Grundfatz, welchen fchon Langsdorf in Zwei-
+fel zog. Der Vf. bemerkt, dafs man durch Polhem’s
+Theorie den Schwung und die Abmefflungen des
+-Schwangrades blofs für den Fall richtig finde, wo
+'die Schwungkraft der Schwerkraft gleich ift. Langs-
+dorf Kat die Befchränktheit der PolhemTchen Theo-
+
+re ebenfalls erkannt und eine neue vorgetragen, an’
+
+welcher aber unfer Vf. ebenfalls Manches auszufetzen
+findet und deswegen feine eigne Entwickelung aus
+den erften Grundlätzen rechtfertiget, zumal da fie
+‘dadurch einleuchtender, faßlicher und überzeugen-
+der geworden wäre. Um aber auch zu fehen, ob und
+wie feine Theorie mit der Erfahrung übereinftimme,
+‘gteilte er verfchiedene Verfuche an, von welchen er
+die genauelten , die bey fehr vielen Wiederholungen,
+mit geringem Unterfchiede, daffelbe Refultat liefer-
+ten, hier am Ende noch mittheilt. .Was mun Zwey-
+gens die Theorie der Kurbel betrifft, fo ift der wür-
+dige Verf. mit eben der Umficht und Genanigkeit,
+wie beym Schwungrade, dabey zu Werke gegangen.
+Kr giebt zuerft den Begriff derfelben nebit der Be-
+mennung ihrer Theile. Hierauf die verfchiedenen
+Einrichtungen und Stellvertreter derfelben, in einer
+kurzen kritiichen Gefchichte. Die Theorien, wel-
+ehe andere Mathematiker davon aufgeftellt haben,
+werden recenfirt , befonders Langsdorfs neue Theo-
+
+rie Un 4n Bande feiner Mafchineniehre und die Abäs-
+
+derung feines Calculs in den fpäter‘ erfchienenen
+
+ERGAÄNZUNGSBLÄT TER ZUR A. %Z-
+
+..müffle, wie mehrere und auch La
+
+„307%
+
+Grundlehren der mechanifchen Wiffen(chaften „fo
+wie dellen noch fpäter hersös gegebene Kleize
+Schrift: Theorie des Krummzapfens u. Sf. ww. Der
+Vf. trägt hierauf $. 9. die feinige vor, wo er zuer!
+die Fälle unterfcheidet‘, in welchen die Kraft entwe-
+der unmittelbar oder mittelbar auf die Kurbel wirk!.
+Im letztern Falle ift ihr Endzweck, Kreisbewegung
+mit geradlinigter zu verbinden und diefe letztere ii
+entweder vertical oder horizontal. Dann werden
+auch die Fälle unterfchieden, wo die Kurbel einfach
+oder mehrfach ifet. Jeder Fall wird nun befoa«ers
+abgehandelt und das Refultat gegen das ähniick:
+LangsdorAfche gehalten und dieß letztere als unri:t-
+tig dargeftellt. Gelegentlich hebt der. Vf. gewifeP:-
+radoxien, welche fich aus der Rechnung zu erz-:-1
+fcheinen, nach einem richtigen Geßchtspunkt, + :;-
+chen Tetens in feinen Zufätzen zu Krafts Mechan:s,
+angegeben hat. Es findet fich auf diefem Wege z-
+gleich, dafs die Gefchwindigkeit der Laft nie 1):
+0,637 von der Gefchwindigkeit der Kraft fteigen ıı 1
+
+daher in der Gleichung: C == Sr eis Mazkzır,
+nicht aber die mittlere Ge/chwindigkeit der Lafı lexn
+
+ 
+
+ngsdorf behaup::n.
+Soll die mittlere Gefchwindigkeit in Rechnung ker-
+men, {o zeigt der Vf ausführlich, wie Se durch ie
+Integralrechnung funden werden kann, wo denn
+das. Refultat ift, dafs fe im erften Quadranten au
+55° 7’ der Kurbelumdrehung, und im zweyten auf
+124° 53 als der Ergänzung zu 180° u. f. w. fallt. Eb::
+fo wird das mittlere fratılche Moment gefucht, wei-
+ches bey 51° 45’ eintritt. Hieraus ergiebt fich, dafs
+der Co&#fßcient des mittlern ftatifchen Momentes von
+dem der mittlern Gefchwindigkeit, bey der Kurbe!
+verfchieden, und überhaupt das mechanifche Me
+ment dem ftatifchen nicht allenthalben , fondern n:-
+in den Stellen, bey o u. „90 gleich ift. Am grö::
+ten wird der Unterfchied bey 50° 6 10". Einen Eır
+wurf dürfte man hier machen: dafs, weil die Bewe-
+gung der Kraft und Laft nicht von einerley Art wi
+ren, man in Anfehung ihrer, nur für unendlich k!-
+ne Räume eine Vergleichung anftellen könne. — Di-
+fen hat aber der Vf. ausführlich befeitiget. $. ı8 wr‘
+der Heharrungsliand betrachtet, wo vorerft die Be
+dingungen überhaupts und dann befonders für ..:
+Kurbel feftgefetzt werden. Es findet Gch, dafs c::
+
+‚felbe nur für drey Stellen: bey 0°, 90°
+
+ı C 90° u. 380°, ee”
+tritt. Zum leichtern Verftändaifs macht der Vf. x-
+
+‚ne Rechsunsrefultate immer auch durch die Firer
+
+anichaulich. Es werden übrigens auch hier die Re-
+fultate mit den Langsdorffchen verglichen und di:
+lerztern in manchen Stücken unrichtig beiunder.
+Gegen Belidor erinnert der Vf., dafs man gar w.:.
+auch zierfache Kurbeln anbringen könne; nur fr.
+lich nicht auf Einer Seite des Zapfens, fondern -
+jedem Ende eine doppelte. Am Ende beftimmt ı-
+Vf. auch noch das Verhältnis der gröfsten Stär}:
+zur gröfsten Schwäche der ftatilichen Momente, ı:
+jede vielfache Kurbel. $. 30. wird von der Bere:
+nung der befehleunigenden- Kraft bey den mehr:.
+7 chca
+
+ 
+
+ 
+
+ 
+

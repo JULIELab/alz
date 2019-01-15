@@ -1,0 +1,135 @@
+608
+
+Geschäfte des igemeinen Lebens und zuletzt auf
+die Theorie der Maschinen anzuwenden. Demge-
+mäfs geht der Vf. von den Gesetzen des Hebels,
+
+und zwar wieder mittelst einer Durchschnitts- und
+
+Wahrscheinlichkeits - Rechnung, gleich zur Be-
+
+stimmung der Schubkarrenfracht über; wir wollen
+nur ein Beyspiel von dieser Art Untersuchungen
+ausheben. Gesetzt, es könne Jemand in 8 Stun-
+
+‘den 80 Pfund auf eine Entfernung von 4 Meilen
+‚tragen, so giebt die Berechnung, dafs derselbe
+mittelst eines Schuhkarren von 25 Pfund Schwere
+. und 5 Fufs Abstand zwischen dem Angriffspunkt
+‚ uad dem Rädchen, ohne seine Kräfte mehr er-
+schöpfen zu dürfen, 150 Pfund 34 Meilen weit in
+7 Stunden 20 Minuten fortbringen können.
+
+-Das Rad an der Welle theilt der Vf. in den
+Haspel und in die Winde, ferner den Haspel: in
+Hornhaspel, Kreuzhaspel, und Spillenrad, Spindel-
+rad oder Radhaspel; ‘die Winden theilt derselbe
+in Schiffswinden und Erdwinden, besser wäre wohl
+die Eintheilung in, Winden mit horizontal oder
+vertical stehenden Axen, weil beide Arten sowohl
+auf den Schiffen, als auf dem Lande vorkommen.
+Da der Vf. für's Erste gar nicht von der Reibung
+handelt, so konnte auch freylich vom Drucke der
+Zapfen nicht die Rede seyn; hingegen wendet der--
+
+selbe wieder die Formel K=k.(2—?) . (2—5
+
+zur Bestimmung der zweckmäfsigsten Wirkung an,
+und es ergiebt sich mit mehrerem, was auch das
+. mechanische Moment sogleich besagt, dafs nämlich
+Arbeiter mittelst der Winden genau dasselbe thun,
+‚was sie auch ohne Winden zu leisten vermögen, der
+wesentliche Vortheil dergleichen Maschinen aber
+darin bestehe, grofse Lasten mit Gleichförmigkeit
+und mit beliebiger Kraftanstrengung emporzuheben
+und zu versetzen. Wir wollen wieder ein Beyspiel
+von jener Berechnungsweise im Resultate beyfügen;
+es soll ein Material 48 Fufs gehoben werden, mit-
+telst einer Winde, bey welcher sich die Länge des
+Hebelarms zum Halbmesser der Welle verhält, wie
+50 zu 4; ferner sey die mittlere Geschwindigkeit
+der Arbeiter = 2, 5 Fufs, die Zeit eines Aufzuges
+
+bey der mittlern Geschwindigkeit = 4 Minuten, die.
+
+Ruhezeit nach jedem Aufzuge = 8 Minuten, So er-
+hält man für die vortheilhafteste Geschwindigkeit
+von ? Fufs, die entsprechende Ladung = 1077 Pfund,
+die Zeit des Aufzuges = 5 Mınuten 7 Secunden, die
+Zahl der Arbeitsstunden = 4 40‘ 45", die Anzahl
+der Aufzüge =-55, und den ganzen Effect = 59130
+Pfund. Zur Erleichterung dieser Art Berechnungen
+hat der Vf. Seite 111 eine Tabelle beygefügt.
+
+Die feste Rolle betrachtet der Vf. als einen He-
+bel ohne Ende,, und sagt ferner von der beweglichen,
+dafs sich bey ihr die Kraft zur Last verhalte, wie
+der Halbmesser der Scheibe zu der Sehne des Bo-
+
+ens8, welchen das Seil umspannt; letzteres scheint
+uns durch die Zurückführung auf den Hebel nicht
+
+Num, 76. APRIL 1881.
+‚deutlich genug erwiesen zu seyn, iydem es ausge-
+
+606 .
+macht bleibt, dafs der befestigte und unbef e
+Punkt in-einem jeden Augenblicke gleich viel, also
+die Hälfte des absoluten Gewichtes, tragen. Be-
+trachtet man hingegen die Höhe, zu welcher die
+Last steigt, in Vergleichung zur Bahn, welche die
+Kraft durchlaufen mufs, so ergiebt sich sogleich,
+dafs diese gleich der doppelten Höhe mnltiplieirt
+mit dem cosinus des halben Winkels sey, welchen
+die beiden Hälften des Seiles mit einander in der
+Verticalfläche bilden. Demnach fällt es immer
+schwerer und zuletzt ganz unmöglich, ein mit ei
+ner Last beschwertes Seil ganz auszuspannen,
+und könnte man überhaupt mit mehr Recht das
+durch Gewichte gespannte biegsame Seil, als die
+Rolle (welche nur eine die Reibung vermindernde
+Potenz ist) zu den einfachen Maschinen zählen. —. -
+Um so ansprechender ist hingegen, was der Vf.
+über die zweckmiäfsigste Einrichtung und Verwen-
+dung, namentlich des Flaschenzuges mit der Winde,
+beybringt; z. B. sey die Anzahl der Rollen — 4,
+das Verhältnifs des grofsen Hebelarms zum Klei-
+nen = 8:1, die Anzahl der Arbeiter — 4, ihre mitt-
+lere Kraft = 4.25 — 100 Pfunden, die entsprechen-
+de Geschwindigkeit = 2, 5 Fufs, und endlich die
+Höhe, auf welche das Material gebracht werden
+soll = 125 Fufs gegeben, so folgt durch Rechnung,
+dafs der möglich gröfste Effect von 57600 Pfunden,
+für 10 Minuten Äufzugs - und 5 Minuten Ruhe -
+Zeit stattfindet; wollte man hingegen, Behufs be-
+sonderer Zwecke, eine Stillstands Zeit von 20 Mi-
+nuten statt jener 5 Minuten Ruhe - Zeit annehmen,
+so würde sich zunächst ein Effect. yon 28800 Pfun-
+den, aber mit Berücksichtigung. der durch die
+gröfsere Ruhe erhöheten Körperkraft ein Effect
+von 45412 Pfunden ergeben, woraus der Vf. sehr
+richtig schliefst, dafs es oftmals nothwendig se
+das Verhältnifs der Hebelarme (bey der Winde)
+viel mehr nach der Gröfse der Stillstands - Zeit‘ zu
+bestimmen, als ein und dieselbe Maschine für. alle
+Aufzugshöhen beyzubebalten, und den Effect durch
+Aenderung in der Bedienung, anzuhängenden Last
+und Anzahl der Aufzüge herstellen zu wollen, wo-
+durch immer nur eine blofse Annäherung, und in
+keinem Falle derjenige Effect erreicht werden kann,
+welcher durch ein angemessenes Verhältnifs der
+Hebelarme zu erreichen ist. a
+Die Lehre von der Schraube und dem Keil be-
+ginnt, wie gewöhnlich, mit einer Einleitung über
+die Zusammensetzung und Zerlegung der Kräfte.
+Die Zurückführung des Diagonals der Kräfte auf die
+Eigenschaft des Hebels, kanns .von der strengen
+Theorie, als uneigentlich und unbefriedigend, nicht
+gebilligt werden; auf der andern Seite findet hier
+auch keinesweges ein reia phoronomisches Problem
+statt; sondern man hat in der Mechanik immer auf
+den Widerstand Rücksicht zu nehmen, man bat es
+mit der gezwungenen Bewegung zu thun. Der Wind
+z. B., welcher schräg in ein Segel fällt, würde die-
+° ’ N ses ‘
+

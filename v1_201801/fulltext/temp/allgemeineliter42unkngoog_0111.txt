@@ -1,0 +1,124 @@
+207
+
+ner Funktienen in Reihen und zur Bestimmung ein-
+zelner bestimmten Integrale.
+
+XIV. Theorie des - transcendantes ellipliques.
+Diese Abhandlung, welche 92 Quartseiten einnimmt,
+kann gewissermassen als Vorbereitung zu den bei-
+den aus dem Journal von Creile bekannten Memoiren:
+Recherches sur les fonctions elliptiques und Precis
+d’une theorie des fonctions elliptiques (in vorlie-
+gender Sammlung die XIIte und XXIste Abhand-
+‚Jung des ersten Bandes) betrachtet werden. Es
+findet sich darin der strengste und vollständigste
+
+Nachweis, dass das Integral von der Form
+Pdx
+
+YV (a +Bx + ya + dal + ext)
+sich immer auf algebraische und logarithmische Terme
+und auf folgende vier Transcendente zurückfüh-
+
+d d 2); d
+ren lässt: CE und fr,
+wo R = a + fx + yx! + dx? + ex* ist. Und zwar
+
+Pdx
+
+wird diese Reduction von RR im ersten Kapitel
+
+durch algebraische und im zweiten durch logarith-
+mische Funktionen gegeben.
+— Sodann werden folgende vier Aufgaben gelöst:
+
+1) Das Integral / AD durch die Sein
+X
+
+liche Anzahl Integrale von der Form GR
+
+auszudrücken.
+2?) Die Bedingungen aufzufinden, ‚welche noth-
+wendig sind, damit
+
+aD nr Aha Sn
+aD mA VR
+
+P+QYVy A)
+FF ER werde.
+
+3) Alle Integrale von der Form / EEE zu
+finden, welche durch die Funktion 4. lg. (p Ger)
+ausgedrückt werden können.
+
+ 
+
+= A. log.
+
+ERGÄNZUNGSBLÄTTER Num, 2%. MÄRZ 1842.
+
+; dx xdx
+der Form / SS, [=
+
+ 
+
+208
+a4 k dx
+4) Alle Integrale von der Form / EF1* IR
+
+zu finden, welche sich durch die logarithmi-
+
+sche Funktion A. log. ( PO) ausdrücken
+lassen.
+
+Das dritte Kapitel handelt von einer merkwürdigen
+Relation, welche zwischen mehren Integralen von
+
+[ dx und A
+‚Va R (zx— a) R
+
+besteht. Während es nämlich im Allgemeinen un-
+
+— möglich ist, das vierte der genannten Integrale
+
+durch die drei ersten auszudrücken, so lässt sich
+dieses doch wirklich erreichen, wenn die: Grenzen,
+zwischen denen die Integrale genommen werden,
+passend gewählt werden. Diese Grenzen sind die-
+jenigen Werthe von x, welche R = 0 machen.
+
+; Hierauf folgen nur Ueberschriften von Kapiteln
+mit Hinweisung auf die Erercises de calc. int. von
+Legendre und endlich die Reduction der dritten Gat-
+tung in Bezug auf den Parameter.
+
+XV. Sur la resolution algEbrique des Equations.
+Es ist sehr zu bedauern, dass diese schöne Ab-
+handlung nicht beendigt ist. In ihr sollte, wie der
+
+Vf. selbst sagt, nachgewiesen werden, dass e8
+
+nicht möglich ist, Gleichungen von einem höhern
+als vom vierten Grade im Allgemeinen allgebraisch
+aufzulösen, und zwar sollte dieses auf einfacherem
+Wege als in der bekannten Abhandlung im ersten
+Bande des Crelle’schen Journals: geschehen. Wenn
+
+nun aber auch diese Arbeit nicht vollständig durch-
+
+geführt ist, so giebt doch Abel im Eingang der-
+selben, eine’ ziemlich genaue Disposition, so dass
+es wohl möglich werden wird, diese Abhandlung
+ungefähr in gleichem Sinne mit dem Vf. bis zum
+Ende fortzuführen *).
+
+(Der Beschluss folgt.)
+
+*) Ref. beabsichtigt dieses in einem der nächsten Hefte des Crelle’schen Journals zu thun.
+
+= —
+
+be
+
+ 
+

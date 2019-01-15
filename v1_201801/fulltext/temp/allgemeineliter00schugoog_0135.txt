@@ -1,0 +1,141 @@
+9438
+
+meinen Principien der Bewegung abgeleitet worden
+zu feyn, mithin gerade des Yorzugs zu entbehren,
+welchen die Vibrat. in fo'hohem Grade behaupten
+kann. Der Fresnel’fchen Beugungstheorie liegt das
+Huyghens’fche Pringip zum Grunde, nach welchem
+jede Welle das Refultat der gemeinfchaftlichen Wir-
+
+ung.aller Flementarwellen. ift, die von den einzel-
+nen Punkten des zunächft vorhergehenden Wellen-
+theils als eben fo vielem Mittelpunkten ausgehen.
+Yür den Mathematiker, welcher lich auf das Entfte-
+hen und die Natur der einhüllenden Flächen ver-
+° £teht, heifst diefes , fo viel als: Jede Welle liegt in
+der einhüllenden Fläche aller jener Wellen, die von
+jedem einzelnen Punkte ihres nächf{t vorhergehenden
+Theils ausgehen. Ift demnach eine Welle nicht
+unterbrochen, und hat fe an allen Stellen diefelbe
+Intenfität, fo gehen auch von jedem Punkte ‚gleich
+{itarke Elementarwellen aus, die einhüllende Fläche
+kehrt in Gch felbft zurück und hüllt in jedem ihrer
+Theile von gleicher Ausdehnung auch gleich viele
+diefer Elementarwellen ein. Daher behält eine fol-
+che Welle auch während ihres Fortifchreitens eine
+
+leichförmige Intenftät bey. So wie Ge aber, etwa
+ urch einen Schirm, unterbrochen wird, werden
+die von jedem Punkte des übrig gebliebenen Wellen-
+frückes ausgehenden Elementarwellen nicht mehr
+zu ihrer Einhüllung einer gefchloffenen Fläche be-
+dürfen, es wird daraus eine Welle hervorgehen,
+deren Intenftät nicht mehr an allen ihren YTheilen
+diefelbe ift , indem ' diefe IntenGtät befonders iin der
+Nähe des die urfprüngliche Welle unterbrechenden
+Schirmes ftark wechfelt. Bis hieher ift Fresnel’s
+Theorie‘ vollkommen naturgemäfs. Rec. hat das
+Vorhergehende abfßchtlich fo dargeftellt, wie es an-
+efehen werden mufs, wenn man das Entftehen der
+Beugungsphänomene durch Rechnung oder durch
+— Blofse Verzeichnung nach der Natur der Vibrat,
+nachweifen will, wiewohl fch Fresnel.gerade in die-
+fem wichtigen Punkte nicht in das nöthige Detail
+einläfst, und nur von Wenigen auf das erfte Mal
+verftanden werden dürfte. Von hier an verläfst aber
+F. den einfachen Weg, auf dem man durch blofse
+Betrachtung der Natur der Wellenfortpflanzung zur
+EinGcht des Hergangs der Sache bey der Beugung e-
+Jangt. Die Aufgabe, um deren Löfung es Lch Mer
+handelte, war,. nachzuweifen, wie jene Wellen ent-
+fpringen , die an den 2 Rändern des Schirmes ihren
+Mittelpunkt zu haben fcheinen, und aus deren In-
+terferenz die Beugungsphänomene hervorgehen.
+Diefe Auflöfung hätte. Gch unmittelbar aus dem er-
+wähnten Huyghens’fchen Principe, auf Wellenftücke
+angewendet, ergeben, wenn es Fresnel noch weiter
+feitgehalten hätte; .aber er verliefs es, und fuchte
+dadurch zum Ziele zu gelangen, dafs er die ur-
+fprüngliche Welle, an der Stelle, wo fie die Unter-
+brechung erleidet, in kleine Theile eintheilte, deren
+jeder an eine beftimmte Stelle hinter dem Schirme
+
+trablen fendet, ung dann zu beweifen fucht, dafs
+Äch durch Interferenz alles aufhebt, bis auf die von
+einem kleinen Theile der urfprünglichen Welle da-
+
+%
+
+ALLG. LITERATUR - ZEITUNG
+
+’
+
+ah
+
+/
+
+‚hin gelangenden Strahlen. Man wird fich umfonft
+
+bemühen, diefen Punkt als natürliche Folge erwie
+fener Principien dargeftellt zu finden, und daher
+gerade in der Hauptfache unbefriedigt bleiben.
+Fresnel hat feine Theorie mit den Refultaten
+darüber angeftellter Verfuche verglichen. Diefe
+Verfuche wurden mit Sonnenlicht angeftellt, wehb-
+ches durch ein rothes Glas gegangen war, das
+nach F's Behauptung nur die rothen und fehr
+wenige orange Strahlen : durchliefs. Diefes Licht
+war alfo nicht homogen. Bey den Meffungen hielt
+fich F. an die Beftimmung der Entfernung der dun-
+kelften Stelle eines im gebeugten; Lichte erfcheinen-
+den Streifens vom Ende des geonetrifchen Schatten®
+
+> des Schirmes und mafs diefe Entfernung mittelft eir
+
+nes Nomus bis auf „&x Millim. Fs Aufgabe war
+demnach fchwer zu löfen; denn beide Grenzen der
+zu meffenden Gröfse waren nicht fcharf gezogen;
+es hält fchwer, die geometrifche Grenze eines Schat-
+tens mit gehöriger Schärfe zu beftimmen, und noch
+viel fchwerer, die Stelle anzugeben, wo der Licht-
+ftreifen feine kleinfte IntenGtät hat; dazu.kam noch,
+dafs die zu meffende Gröfse nicht viel über 6 Millim,
+betrug, und daher ein an und für fich auch unbedeu-
+denter Fehler von grofsem Einfluffe feyn mufste.
+Die Meffungen, welche Fraunhofer über den-
+felben Gegenftand angeftellt hat, wurden unter un-
+leich günftigeren Umltänden unternommen. Diefer
+Gelehrte hat die zu meffende Gröfse {o gewählt; dafs
+fe viel fchärfere Grenzen befafs; auch konnte er
+viel kleinere Oeffnungen am Schirme brauchen, weil
+fein Beobachtungs- Apparat felodft bey einer einzi-
+en Oeffnung mehr Licht ins Auge des Beobachters
+ommen liels, als der von Fresnel gewählte, und
+er auch mehrere gleiche Oeffaungen (Gitter) anbrin-
+gen konnte, welches den Vortheil brachte, dafs er
+öfsere, und daher mit mehr Sicherheit zu meffende,
+blenkungen der Licht{trahlen vom geraden Wege
+erhielt und doch ein ftärker beleuchtetes Phänomen
+erlangte.
+nter diefen Umftänden mufs man erftaunen,
+dafs die Beobachtungen F’s Refultate lieferten, die
+nur in den Hunderttheilen der Millimeter von den
+Werthen der Formel, zu der ihm feine Theorie ver-
+half, differirten. Die Statt habenden Differenzen
+find bey den Farben{treifen von höherer Ordnung
+faft immer gröfser, als bey denen von niederer Ord-
+nung, woran wahrfcheinlich der Umftand Schuld
+ift, dafs fich in den vom Sohattenrande entfernte-
+ren Streifen wegen ihrer geringeren Lichtftärke und
+größeren Breite die am wenig ten beleuchtete Stelle
+chwerer genau angeben liels, als bey den dem
+Schatten näheren. Es mag aber auch {felbft in der
+Formel für die Intenfität des Lichtes der Grund die-
+fer wachfenden Differenzen liegen, da diefe Formel
+nicht aus der ‘lauterften Quelle gefloffen ift. Kin
+Umftand, welcher auf eine Unrichtigkeit in derfeh-
+ben hinzuweifen fcheint, ift, dafs aus ihr folgt, es
+fey kein Minimum der Lichtftärke gleich Null. Aus
+Fresnel’s Verfuchen liefs fich die Kichtigkeit Siefes
+tzes
+

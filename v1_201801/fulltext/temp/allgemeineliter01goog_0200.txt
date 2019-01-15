@@ -1,0 +1,125 @@
+IB
+
+\LLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+A _
+
+Julius 1833.
+
+MECHANIK.
+
+Darsven u. Lemzioe, b, Arnold: Handbuch der Me-
+chanik für Praktiker , oder: Die Grundlehren der
+Mechanik auf die Construction der Maschinen und
+auf die Ba bezogen; zunächst für seine
+Vorlesungen bearbeitet von Johann Andreas Schu-
+dert, zweitem Lehrer der mathematischen Wis-
+senschaften an der Königl. Süchs. technischen
+Bildungs - Austalt zu Dresden, 1832. Band I.
+Statik fester Körper. VII u. 296 S. 8. Mit
+3 Kupfertafeln. (18 gGr.)
+
+Der Zweck des Vfs ist im Anfange der Vorrede
+nsgesprochen, wie folgt: „Nach dem Beginnen mei-
+er Vorlesungen über Mechanik an der technischen
+äldungsanstalt zu Dresden, sprach sich recht bald
+as Bedürfnifs oder besser die Nothwendigkeit aus,
+einen Zuhörern ein Mittel in die Hände zu geben,
+ereh das sie in den Stand gesetzt würden, sich die
+
+enen Lehren wieder zu vergegenwärtigen,
+sich dadurch dieselben gehörig aneignen zu kön-
+an, — Zuvörderst suchte ich diesem Bedürfnisse
+adurch abzuhelfen, dafs ich denselhen geschriebene
+[efte zu ihrer Disposition stellte. Aber auch hier-
+as entsprangen mehrerlei Uebelstände; und über-
+aupt wurde, bei einiger Gründlichkeit, nur ein lang-
+ımes Vorwärtsschreiten möglich. Hierdurch veran-
+ı6st und andererseits dazu aufgefordert, entschlofs ich
+üch, den Zweck der Zöglinge der technischen Bil-
+ungs- Anstalt vor Augen habend, zunächst diesen
+n Handbuch der Mechanik abzufassen, ”
+
+Dieser Zweck möchte auch genügend erreicht
+ıyn, Rec. hatte sich zwar bis zu S, 38 die $8.1—93,
+D, 11 und 36 bemerkt, und wollte so weiter fortfah-
+ın, um seine Einwendungen durch Anführung ein-
+ılner Stellen begründen zu können; indessen hat er
+ie Fortsetzung dieser Verfahrungsart unterlassen,
+eil sich bald fand, dafs der gröfsere Theil der Sätze
+ıs Eytelwein’s Statik entnommen ist, und nur eine
+ıdere Anordnung und andere Buchstaben zur Be-
+sichnung gewählt worden sind, Indessen sind auch
+‚ele Sätze, die nicht in dem gedachten Werke vor-
+pmmen, aufgenommen, und es mufs zugestanden
+erden, dafs das des Hn. Schubert zu den besseren ge-
+ört, wenn auch mitunter gar zu viel darauf gerech-
+at wird, dafs die Zuhörer schon nicht unbedeutende
+ortschritte in der sogenannten Rechnung des Unend-
+chen gemacht haben.
+
+Mit dem Abschnitte über „, Torsionswiderstand ”
+
+289 — 296 kann sich aber Rec, nicht einverstanden
+4. L. Z. 1833. Zweiter Band.
+
+ 
+
+erklären. Der Vf, scheint zwar Duleau, in seinem
+Werke ‚, Theoretisch - praktische Versuche über den
+Widerstand oder die Haltbarkeit des geschmiedeten
+Eiseng, übers. von Blumhof.” Quedlinburg, b. Basse
+1825, im Ganzen gefolgt zu seyn, hat aber einen an-
+dern Weg zur Aufstellung seiner Formeln gewählt,
+als Duleau. Rec. hat schon vor etlichen Jahren, un-
+ter Benutzung von Duleau’s Versuchen, einen andern
+Weg eingeschlagen, und bittet die verehrliche Reda-
+ction dieser Blätter, seinen kurzen desfallsigen Auf-
+satz hierunter abdrucken zu lassen.
+
+Bestimmuag
+des Widerstandes, welchen ein cylindrischer, an ei-
+nem Ende eingeklemmter, Körper einer Kraft entge-
+gensetzt, die denselben zu drehen strebt.
+
+E
+
+CZ d >R.
+zZ N x
+9 | V
+Z / )) &
+ZZ
+
+Es bedeute « die Kraft, welche eine Schicht Fasern,
+vom Queerschnitte 1, von der Länge 1, im Abstande 1
+von der Achse, um einen Bogen, dessen Länge für den
+Halhbmesser 1, ebenfalls = 1, von ihrer natürlichen
+Lage an, zu drehen im Stande ist, wenn die Eutfer-
+nung des Schnittes vom Einklemmungspunkte = 1.
+
+Im Abstande 1 von der Achse und dem Einklem-
+mungspunkte ist die Kraft für eine Faser vom Queer-
+schnitte Zrxdr (r ist der veränderliche Halbmesser
+in der Zeichnung) und Länge 1, wenn dieselbe um
+den Bogen 1 gedrehet werden soll
+
+e.Arndr.
+Aendert man aber die Länge, und macht dieselbe
+gleich dx, so ist die hierzu erforderliche Kraft
+—&.@rndr.dx
+
+Aendert man ferner den Centriwinkel, und setzt den-
+
+selben =”, so wird die Faser, im Abstande r von der
+
+Achse um rg verschoben, und die Kraft wird daher
+
+—t2rndr.däx.rg.
+
+Hat sich der Halbmesser durch die Faser um &
+
+drehet, „whrend sich der zugehörige im Stirnende,
+in
+

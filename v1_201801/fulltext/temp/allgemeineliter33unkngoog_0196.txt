@@ -1,0 +1,128 @@
+; - 198 ‘ - ; ; |
+ ) +
+
+JuR
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+———
+
+ 
+
+November 1837.
+
+MATHEMATIK,
+
+Conıenz, b. Hölscher: Ausführliches Lehrbuch der
+Algebra, von den ersien Eleinenten bis zur Äna-
+Iysis oder der Lehre von den Functionen, für Gym-
+nasien und höhere Lehranstalten, Nach einem
+neuen. Plane bearbeitet von J. Jus, Cuspari, XI
+u, 362.8, 1836. gr. 8. (2 Thl. 4 gGr.).
+
+Der Vf, beabsichtigte, laut der Vorrede, durch
+gegenwärtiges Lehrbuch der Algebra ein Lehrgebäu-
+de aufzustellen, welches eine streng mathematische
+und wissenschaftlich geordnete Theorie mit dem
+ractischen Mechanismus (?) verbände. Hr. C. ist
+nämlich der Meinung, es mangele an Werken, in
+denen sich die gesammte Theorie mit wissenschaft-
+licher Strenge durchgeführt finde, ja man werde
+selbst im den neuesten ‚hierhin gehörigen Werken,
+wenn ınan z. B, die Lehre von den Potenzen betrach-
+°te, nur sebr selten eine richtige Definition, geschwei-
+ge denn eine streng mathematische Behandlung der
+ezüglichen Lehrsätze antreffen. Ebenso mangele es
+fast allenthalben an der Einfachbeit, Klarheit und
+Vollständigkeit der Beweise der Lehrsiätze über die
+Combinationslehre, über die besonderen Eigenschaf-
+ten der Zahlen und Potenzen u. dgl.
+hatte der Vf. auch zur Absicht, den Schüler auf eine
+vollständige Weise zu den höheren mathematischen
+Studien, wie sie auf Universitäten, Militär - und
+‚Bau - Academien gelehrt werden , vorzubereiten, und
+defshalb war es nöthig, manche Sätze aufzunehmen,
+die man „‚in vielen Büchern zerstreut, ja in manchen
+selbst neueren Werken nicht einmal berührt antref-
+fen wird.” Man sieht, der Vf, will Bedeutendes lei-
+sten, aber je stärker seine Ansprüche sind, desto
+'grölser werden auch die Forderungen seyn dürfen,
+die wir an sein Werk machen können, Sehen wir,
+ob er ihnen genügt. Da ist es denn gleich von vorn
+herein wohl auffallend, in einem Buche, welches so
+durchaus vollständig seyn will, zwei Lehren zu ver-
+missen, die man sonst so selten nicht findet. Es fehlt
+nämlich, obwohl der Vf. die Combinationstheorie
+aufgenommen hat, der binomische Lebrsatz, und es
+fehlen die Kettenbriüche, Beides durfte in einem sol-
+chen Lehrbuche nicht fehlen, Abgesehn aber davon
+gehört das Werk zu den besseren, wenn wir gleich
+ihm noch manche andere, z.B, Creizenachs Lehrbuch
+der Algebra bei weitem vorziehen, Der Vf. hat man-
+ches Neue und Kigenthümliche, aber nicht alles Neue
+ist darum das Beste, Das Zeugnifs indessen können
+wir dem Vf, nicht versagen, dafs in dem Buche ein
+A. L. Z, 1887. Dritter Band,
+
+!
+
+Gleichzeitig
+
+ 
+
+wissenschaftlicher Geist waltet, und einzelne Par. "
+tieen recht gelungen zu nennen sind. In der Reget
+ist jede Lehre in zwei Theile, einen theoretischen
+und einen practischen getheilt, deren letzterer dazu:
+bestimmt ist, das eben Gelernte gehörig einzuüben,
+Wir geben nun eine Uebersicht des Inhaltes und
+knüpfen daran die Bemerkungen, die wir über die
+Behandlung der einzelnen Lehren zu machen haben,
+Voran geht eine Einleitung, welche allgemeine Vor-
+begriffe, die üblichen Benennungen und Bezeichnun-
+gen, sowie die Vorbegriffe, die verschiedenen Ver-
+knüpfungsarten der Zahlen betreffend, enthält. Un-
+genügend findet Rec, hier die Erklärungen einer Auf-
+gabe und eines Lehrsatzes. Der Vf. sagt nämlich:
+„Aufgaben sind Sätze, welche die Verrichtung einer
+Hanıllang, oder die Darstellung einer Gröfßse verlan-
+gen.” Hier war namentlich darauf aufmerksam zu
+machen, wie sich die Aufgabe von der Forderung
+unterscheide, wie jene noch eine Auflösung und ei-
+nen Beweis für die Richtigkeit der Auflösung ver-
+lange, Eben so ungenügend ist es, wenn es heifst:
+„Lehrsätze sind Wahrbeiten, die aus einem oder
+mehreren Grundsätzen hergeleitet werden, Wenn
+der Vf. bei der Erklärung des Wesens der Buchsta-‘
+benrechnung sagt: „unter den Buchstaben, deren
+man sich hier bedient, kann man sich jede beliebige
+Zahl denken,” so war noch hinzuzufügen , dals aber
+der einmal gedachte Zuhlenwerth in derselben Rech-
+nung stets derselbe bleiben müsse. Kigenthümlich
+ist, die Bintheilungsweise der Elementar- Arithme-
+tik, wenn der Vf. sagt: „hieraus ergeben sich fol-
+ende drei Abschnitte der KElementararithmetik:
+]. von den Summen und Differenzen, Il. von den
+Producten und Quotienten, I1X. von den Potenzen,
+Wurzeln und Logarithmen, An diese drei Ab-
+schnitte reiben sich noch zwei andere, in denen keine
+besonderen Rechnungsoperatiönen mehr vorkommen,
+sondern nur Anwendungen der in den drei ersten
+Abschnitten entwickelten Sätze; und zwar enthält
+
+‘der. vierte Abschnitt die Lehre von den Verhältais-
+
+sen, Proportionen und Progressionen, und der fünfte
+Abschnitt die Combinationslehre, Der vierte und
+fünfte Absehnitt bilden, mit Ausnahme der Verhält-
+nifs- und Proportionslehre , den Uebergang von der
+Eilementararithmetik zur Analysis, und gehören,
+wenn man eine scharfe Grenzlinie ziehen will, durch-
+aus in das Gebiet der letztern, werden aber ihrer
+practischen Wichtigkeit wegen häufig in das Gebiet
+der Elemente hinübergezogen,.” Arithmetik, erster
+Theil: Elementararithmetik, KErste Hauptabthei-
+lung 5 die Buchstabenrechnung, Abschn, 1.: von den
+
+z um-
+

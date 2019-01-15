@@ -1,0 +1,141 @@
+30
+fenbar auch in der Geometrie von einer methodischen
+Bebandlung zu fordern seyn, dafs sie die vorzutra-
+genden Lehren nach der Natur und Verwandtschaft
+ihres Jahaltes‘ ordne und zusammenstelle, wodurch
+zugleich die Uehersicht über das Ganze wesentlich
+erleichtert wird.” Wir können der Behandlungs-
+weise, die der Vf, angewandt hat, unsern Beifall
+nicht versagen, wenigstens hat die wissenschaftliche
+Strenge nicht darunter gelitten, Mit der Behandlung
+des $. 535 der Plan, ist der Vf. selbst nicht recht zu-
+frieden: wir finden zwar. seine Darstellungsweise
+schr einfach, haben aber doch dagegen zu erinnern,
+‚ dals das Geschnittenwerden der AB dürch CG ( Fig,
+318), was in diesem Beweise als nothwendig voraus-
+gesetzt wird, doch wohl erst als nothwendig bewie-
+sen werden müfste. Den Beweis zu $. 110 können
+wir nur seinem ersten Theile nach billigen,  Kigen-
+thümlich ist der Beweis der Lehrsätze, dafs von zwei
+regeimXfsigen Vielecken, die in denselben Kreis be-
+schrieben sind, das mit der gröfseren Seitenzahl den
+gröfseren Umfang und Inhalt; und von zwei regelm,
+jelecken, welche um denselben Kreis beschrieben
+sind, das mit der gröfseren Seitenzahl den kleineren
+Umfang und Inhalt habe, Die Lehrsätze $. 208 er-
+innern wir uns noch in keinem Lehrb. der Plan. ge-
+Jesen zu haben, Ks sind folgende: 1) Ist ein Viel-
+gcek um einen Kreis beschrieben, so ist der Inbalt
+desselben gleich dem halben Product aus dem Radius
+des Kreises und dem Umfange des Vielecks, 2) Der
+Inhalt eines jeden Dreieckes ist gleich dem Product
+der drei Seiten dividirt durch den vierfachen Radius
+des umschriebenen Kreises, 3) Der Inbalt eines
+Viereeks, um welches sich ein Kreis beschreiben
+Jäßfst, ist gleich dem Producte aus den drei Diagona-
+len, welche man möglicher Weise erhält, wenn man
+die Seiten verschieden anordnet, dividirt durch den
+einfachen Radius des Kreises, Der dritte Band, wel-
+eher die Trigonometrie enthält, erschien zuerst als
+Abbandlung zu einem Programme; später vermehrte
+sie der Vf. nur durch einige Zusätze, ohne sie im
+Wesentlichen zu verändern, Sie zerfällt in drei
+Haupttheile, wovon der erste die Goniometrie, der
+zweite die ebene Polygonemetrie, und der dritte die
+sphärische Trigonometrie enthält, Der Vf, geht in
+dem ersten Theile einen eigenen Gang. Er erklärt
+nämlich zuerst die goniometrischen Funetionen, be-
+schränkt sie aber anfangs ausdrücklich aus spitze
+Winkel, indem er sagt: „die sechs VerbiMtnisse
+zwischen den Seiten eines rechtwinklichen Dreieckes
+menrt man auch die goniometrischen Functionen der
+beiden spitzen Winkel an der Hypotenuse des
+Dreiecks.” Dann sagt er $. 19: „Unter dem Sinus
+und Cosinus -eines hohlen, nicht spitzen Winkels
+versteht man den Ausdruck, welcher erhalten wird,
+wenn man den hohlen Winkel in zwei spitze theilt',
+und dann die Summenformeln [nämlich sin. (x+y)
+= 8in x cos yY + cos x sin y, und cos. (X + Y) = cos
+T 608 Y — sin x sin y]] anwendet.” Dann gelangt er
+zu dem allgemeinen Satze: ‚Unter dem Sinus und
+Cosinus: eines beliebigen, nicht spitzen,- Winkels
+
+‚.Num, 197, NOVEMBER 1837,
+
+338
+
+versteht män den Ausdruek, welcher durch ganz all-
+gemeine Anwendung jener Summenformeln hervor-
+
+ 
+
+geht, und für die Quotienten zz und 5, in
+
+denen x einen ganz beliebigen Winkel vorstellt, setzt
+man auch in Uehereinstimmung mit früheren Formeln
+die besonderen Zeithen: fang x und coty x. Gele-
+gentlich erscheint dann in $. 33 die sönst gewöhnli-
+che Darstellung jener trigenometrischen Hülfsgröfsen
+vermittelst des Kreises.
+dafs hei den bisherigen Entwickelungen immer vor-
+ausgesetzt worden sey, dafs die Ausdrücke, denen
+man die Zeichen sin . cos, tang.. cotlg , vorsetze, Win-
+kelmaafse, also absolnte Zahlen bezeichnen, indem
+es, wie auch immer die Winkeleinheit angenommen
+werden möge, keinen Winkel geben könne, dessen
+Maafs anders, als durch eine absolute Zahl auszudrü-
+cken wäre, Unter dieser Voraussetzung seyen ins-
+besondere die Gleichungen .
+(IV) sin x? + cos x? ,
+(YIII) sin (x + y)= sinx cos y + cos x sin yı
+(IX) cos (x +y) = cos x cos y — sin x sin y
+(XIV) sin (x — y) = sin x cos y — cos x sin y
+(XV) cos Fl) = COS X cos Y + sin x sin Y
+für alle möglichen Fälle erwiesen worden; — bei
+den Differenzformeln (XIV) und (XV) finde jedoch
+die Beschränkung statt, dafs der Minuendus x gröfser
+seyn müsse, als der Subtrahendus y. So lange nun
+die Differenz x — y wieder das Maaßls eines Winkels
+vorstelle, werde diese Bedingung allerdings erfüllt
+seyn 5 allein hei der Anwendung jener Formeln in
+aligemeinen Untersuchungen lasse sich oft nicht in
+voraus darüber entscheiden, ob x > y sey, oder nicht,
+
+Um nun in. diesem Falle nicht tiberhaupt auf die An-.
+
+wendbarkeit der gedachten Formeln verzichten zu
+milssen, oder wenigstens lästige Unterscheidungen
+
+und ermüdende Weitliäuftigkeiten zu vermeiden, ı
+
+sey es nöthig, die Bedeutung der goniometrischen
+Functionen für ganz beliebige Differenzen zwischen
+absoluten Zahlen ( Winkelmafsen‘) zu erweitern und
+die für das Operiren mit den nenen Functionen statt-
+findenden Regeln aufzusuchen. Diefs bildet nun den
+Gegenstand der nächstfolgenden Sätze. Wenn wir
+nun auch keinesweges der Meinung sind, dals auf
+diesem Wege allein Heil zu finden sey , sondern viel-
+mehr glauben, dafs die Darstellungsweise, die vom
+Kreise ausgeht, auch ihre eigenthümlichen Vorzüge
+habe; so wollen wir doch gern zugestehn, dafs die
+Methode des Vfs, eine gute ist, und sich namentlich
+durch Fafslichkeit.auszeichnet. Angehängt ist noch
+eine Tafel der Sinus und Tangenten. von 10 zu 10 Mi-
+nuten für alle Winkel zwischeu 0 und 90°, so wie
+eine andere für die Declination der Sonne im wahren
+Mittage des Berliner Meridians fiir das Jahr 1834.
+Den Schluls machen allgemeine trigonometrische
+Aufgaben, Wir können das Buch den Gelehrten-
+schulen angelegentlichst empfehlen , geben aber dem
+Vf., für eine gewifs bald erscheinende zweite Auf-
+
+lage, zu hedenken , ob er es nicht für gerathen halte,
+
+die Darstellungsweise des ersten Bandes etwa we-
+al-
+
+Dann bemerkt der Vf.,_
+
+”
+

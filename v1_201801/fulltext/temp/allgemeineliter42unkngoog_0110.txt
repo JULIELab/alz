@@ -1,0 +1,139 @@
+205
+
+Die geforderte Summation ist also zurückgeführt
+auf die Bestimmung von f(o) und F (0). Diese
+werden aber '
+
+(1— x")
+
+fO =z+7 ++... 4 zn — ZU)
+
+1—x
+
+und F(0o)=1+xz + + .... + x? an
+
+VH. L’integrale finie S"qgx exprimte par une
+integrale definie simple, ‘ Während man sonst mit
+Hülfe des Theorems von Parsevul das endliche In-
+tegral Z”"oyxr nur durch ein doppeltes bestimmtes In-
+tegral ausgedrückt hatte, findet hier der Vf. einen
+Ausdruck durch ein einfaches bestimmtes Integral.
+
+VIIL. Propriete&s remarquables de la fonction
+y = gx determinde par VeEquation fy . dy — dr.
+/((a—9) (a, —y) (a,—Y) (Am —Y))=0, fy Etant
+une fonction quelconque dey, qui ne devient pas zero
+ou infinie lorsque y=a, a,, A,, .:.. An. Abel findet,
+dass die Funktion y = gr eine periodische ist, und
+dass, wenn g (x) = 0 ist, die. Gleichung v (r)= 0
+unendlich viele Lösungen hat, nämlich = k+2?2 (no
++ Na, Fo... Nm Am), WO n+nı + +... + =0
+und &, &,, &,, ... @&m der Werth des Integrals
+
+In dr
+Z (7) 1 Day) /
+
+wenn man nach der Integration respective Yy=d,
+Ci, A, ... Am Setzt. ‚Auf analoge Weise findet
+
+man auch die Lösungen der Gleichung 9 (7) = 1
+IX. Sur une propriete remarquable d’une classe
+
+frös Etendue de fonctions transcendantes. X. Erten-
+sion de la theorie precedente. Indem der Vf. zu-
+
+nächst von der Gleichung 0= 88 +1. er
+
+dx
+worin s und € ganze Funktionen von x sind,
+nämlich
+
+ausgeht,
+
+(== aT+ AR + AD... ,
+
+8 — fr=ßB +8 ABLE ARD Arie
+— dx .
+
+und y—e P = UI,
+
+findet er diese allgemeine Formel
+
+1 Ux.dz da
+
+SEE S A
+=3(@ +2)@,. + n+2 Bma+n+ ı) Zi amade.
+Die Erweiterung dieser Theorie besteht darin, dass
+. y als eine Funktion angenommen wird, die, der
+Gleichung
+
+0=8 YA ... töm
+
+ 
+
+,
+
+Num, 2%. MÄRZ 1842. \
+
+Pd
+
+WE
+
+2086
+
+{
+
+Genüge thut, wenrs, 8,, 8, , ... 8m gange Funktio-
+nen von x sind.
+
+XL Sur la comparaison des fonctions transcen-
+dantes. Es sey y eine algebraische Funktion und
+bestimmt durch die Gleichung
+
+0=a + a. YA m 7
+WOrln &, &,, A, ... Gm ganze Funktionen von x
+sind; ferner habe ebenso noch die Gleichung
+= f+IARY As IL th
+worin J, gı, 9,5 <-. Im— 1 ganze Furktionen von
+x und einer beliebigen Anzahl andrer Variabeln,
+nämlich der Coefficienten der einzelnen Potenzen
+von x in diesen gq, 4ı, dr)... Am 1 Sind. Diese
+Coeffcienten seyen a, a,, «,, a,,.... Bei diesen
+Annahmen kann man aus beiden genannten Glei-
+chungen das y als eine rationale Funktion von x
+und a, &,, a, etc. finden, also y=r. Setzt man
+diesen Werth von y in eine der beiden obigen Glei-
+chungen, so erhält man s= 0, worin 8 eine ganze
+Funktion von X, A, Ci, Az... . Ist, Die Wurzeln
+dieser Gleichung seyen x,, Io) Kız 00. IX, Be-
+zeichnet nun f(y,r) eine rationale Funktion von yY
+und x und ist /f(y, 7) . dr = v(x), so wird diese
+Relation gefunden:
+very) ++. tz.) =C+o0,
+wo 0 eine algebraische und logarithmische Funktion
+der Grössen a, a,, @,°... ist und C die Constante
+der Integration. Mit Hülfe dieser Formel findet
+der Vf. z. B. .
+arc. tang. X, + arc. tang. X, + arc. tang. Is
+= arc. tang. (A
+mg Az Ti Ky— X, Ty
+
+XII. Sur les fonetions gEnerutrices et leurs d&-
+ferminantes. XII. Sur quelques int&grales dCfinies.
+Wenn @ (tr, Y, z,....) irgend eine Funktion meh-
+rer Variabeln x, y, zZ, ... ist, so kann man immer
+eine Funktion f(w, v,p, ...) von der Beschaf-
+fenheit finden, dass
+
+P(T, Y, Z, ...)
+—__ (xu+yr+zwp+.... P
+=. “.f (uw, ”,P, ....).du dv dp....
+ist. Hier wird nun @ die erzeugende Funktion (la
+fonction geEneratrice) von f, und f die Determinante
+(la determinante) von @ genaunt und bezeichnet:
+PT, Y, Z, ...) = fg f(w, v,P,...),
+f(wv, p,...) = Do (x, Yı 3, 0.)
+Nachdem der Vf, mehre Relationen und Eigenschaf-
+ten dieser Funktionen angeführt und nachgewiesen
+hat, benutzt er sie zur Entwickelung verschiede-
+

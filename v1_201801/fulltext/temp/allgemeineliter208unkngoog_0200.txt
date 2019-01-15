@@ -1,0 +1,152 @@
+eumn6 aD — se —
+
+br A
+ft
+
+= _— — > > —- u u =
+
+_ ‚anderen Rei
+
+898 a "s 50
+
+„ERGÄNZUNGSBLÄTTER a
+
+ZUR .
+
+ALLGEMEINEN LITERATUR-ZEI
+
+ 
+
+May 1882.
+
+ 
+
+MATHEMATIK.
+
+Wırzy, in der Beck. Buchh.: Sa trigono-
+metrischer Formeln, zum Gebrauche für alle
+der Mathemaıik Befßissenen — — Von . Adam
+Burg u. 8. W.
+
+(Beschlufs, von Nr. 49.),
+
+4
+
+Vater der Ueberschrift: „Ausdrücke für die Kreis-
+
+„bogen” haben wir eine Menge von Formeln gefun-
+
+‚den, die uns für diejepigen, die derselben bedür-
+fen, zu leicht und daher überflüssig schienen, z. B.
+
+Arc tg = Arc cotg = u.S.f. Bey der Angabe der .
+
+Reihen für die trigonometrischen Functionen durch
+
+.die Bogen und umgekehrt hätte der Vf. sich nicht
+„blofs darauf beschränken dürfen, die recurrirenden
+‚Entwicklungen für die CoefGcienten der Tangente,
+Cotangente und Cosecante jede besonders anzugeben,
+sondern es hätte wohl nothwendig bemerkt werden
+anüssen, dafs und auf welche Weise alle von den
+‚Bernonlli’schen Zahlen abhangen, und dafs man, wenn
+‚ein beliebiger Coefficient der einen dieser Reihen
+‘z. B. der Cotangente gefunden wäre, auf einfachem
+‚Wege den gleichstelligen Coeffcienten der beiden
+
+fen aus ibm erhalten könne, eine Ab-
+bängigkeit, die sich bekanntlich sehr leicht aus
+‚den Gleichungen 1gx = Cotgx — 2colg2x, Ccose6 X
+„= cotg}x — cotgx ergiebt. Unter den Entwicklun-
+“gen des Bogens nach den Potenzen des Sinus vermifst
+
+‚Rec. ferner folgende häußg mit Vortheil zu gebrau-
+“chende x = sin x cos x {1 A 3 sin X + 5 sin x
+
+4 2:4.0 sinx + eto.} ,‚ welche Formel-aus der be-
+
+8.5.7 .
+kannten sin nx = u sin X cos X {ı — (un )
+
+° _ (nn—4) (nn —16)
+ana PN sin x* + etc.) folgt, wenn man
+
+sin x?
+
+ 
+
+° 2
+‚in MX == + eic, n=0 Setzt. Derselben
+n ° ”
+
+nn Gleichung und einer andern, sie ergänzenden, kann
+man sich auch bedienen, um Reihen zu erhalten, durch
+
+welche die Potenzen des Bogens in Reihen ausge-
+drückt werden, die nach den Potenzen des Sinus
+‘fortschreiten, wie Rec. nächstens an einem andern
+"Orte zeigen wird. Auch kann man bemerken, dafs
+Ergänz, Bl. zur A. L. Zr1882.
+
+° ”
+
+die eben angeführte Reibe für den Bogen in den
+Kettenbruch ' ;
+X = sinx COS
+112 0
+1.8
+1—1.2 .
+
+ann SIE. I?
+8,5
+
+1—38.4
+
+57 sin x?
+
+1—3.4 .
+779 sin X
+1—5.6
+9.11
+zu entwickeln ist, S. die Reih . Cauß
+‚ 5, die Reihe Gaufs a.
+XIV und den Kettenbruch $. 14 850 Ferner b&-
+finden sich die Entwicklungen von log sin. x, log cos x
+u.s.w. nach den Potenzen von x nicht in diesem Ab-
+schnitte, wo man sie hätte erwarten sollen, son-
+dern unter Nr, XVI, wo die Formeln mitgetheilt
+werden, die zur Berechnung der logarithmischen
+Tafeln dienen, wo aber auch nicht erwähnt ist, dafs
+die Coeffcienten dieser Reihenentwicklungen von
+den Bernoulli’schen Zahlen abhängen. Ferner hätten
+‚zu der Formel sin x = x cos 1x cos 1x cos Ar cos Az
+eic. in inf. wohl noch die Formeln hinzu efügt wer-
+den sollen, welche Euler zugleich mit dieser in der
+im ersten Theile seiner Opuscula analytica befindli-.
+chen Abhandlung: Yariae observaliones circa ang14-
+
+los in progressione geometrica pro
+wickelte, nämlich 5 progredientes, ent-
+
+Sinx=x (1 4$sin%) (1—4 sin ;)
+(1—4 sin 5) etc. in inf.
+zZ colß X +3 19 (s0°+ 3) +3}18 (s0°+ 5)
+OL (s0°+ ®) A eic
+— 315 (so? —3) — 19 (80° — 5)
+
+— 777g (30° — 5) — @1C,
+
+Kin x?
+
+Ob die Formeln 11—20, in denen die Ausdrücke >
+
+| 2
+——, Fer ‚und andere ähnliche nach dem
+Ddd
+
+bi-
+
+894
+
+TUNG
+

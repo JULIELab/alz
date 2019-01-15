@@ -1,0 +1,129 @@
+171
+
+wie die Curven, denen jene Gleichungen angehören,
+aus dem Kegel gefchnitten werden können. Ein finn-
+fiörender Druckfehler if S. 187 Z. 18 mBX fatt mBX.
+Auch ifi es ebendafelbfi ein Fehler, dafs geradehin aus
+tang. mB'X’= cotg. mBX’ gefchloffen wird, es müffe
+mB’X’+mBX' = 90° feyn; ein Schlufs, der nur dann
+zuläfGg ifi, wenn erwiefen ifi, dafs jeder einzelne der
+beiden Winkel <90° fey. B. Die Parabel. (Hr. B. zeigt
+hier unter andern, was der Vf. von Nr. 2. nicht thut,
+dafs die Aefie der Parabel fich der zur Axe parallelen
+Richtung immerjmehr nähern, obgleich fe fich immer
+weiter von der Axe entfernen.) — Kap. 10. Polarglei-
+chungen der EJlipfe, Hyperbel und Parabel. Nur für
+einen Brennpunkt als Pol der Ellipfe und; Hyperbel
+werden die Ausdrücke aufgefucht, nicht aber, wie in
+Nr. 2., für jeden beliebigen Punkt. — Kap. 11. Von
+den Tangenten, Subtangenten, Normalen und Sub-
+normalen der Linien zweyter Ordnung. — Kap. 12.
+Die ENipfe, Hyperbel und Parabel, auf ihre Durch-
+meffer bezogen. (Bey der Hyperbel hätte Hr. B., fo
+wie der Vf. von Nr. 2. es gethan hat, !das zweyte
+Paar conjugirter Hyperbeln, für welches die grofse Axe
+= der kleinen Axe des erfien Paars, und umgekehrt,
+it, auch mit confiruiren follen, weil dadurch die
+Lehre von den Diametern eine weitere Entwickehung
+erhält.) — Kap. 13. Die Hyperbel, auf ihre Afym-
+ptoten bezogen. (Rec. findet es rathfamer, die Lehre
+von den Afymptoten der Hyperbel mit der von den
+Durchmeffern diefer Curve in nähere Verbindung
+zu fetzen.) — Kap. 14. Von der Quadratur der Li-
+nien zweyter Ordnung. (Hr. B. vermeidet hier zwar
+den Gebrauch der höhern. Analyfıs , nimmt aber
+doch die Idee des unendlich Kleinen, und, wenig-
+fiens verfieckt, die von den geradlinigen Elementen
+einer Curve zu Hülfe.) — Kap. 15. Beifiimmung des
+Krümmungshalbmeffers für die Linien der zweyten
+Ordnung. (In der Entwickelung des Ausdrucks
+
++ L-(wx+4x) +2d (x + 4x)— dd? + r?}?7 nach
+Potenzen von 4x hat der Vf. einen Schreib- oder
+Rechnungsfehler bey dem Vorzeichen des Gliedes,
+welches 4x? enthält, gemacht. DiefesGlied mufs nach
+richtiger Rechnung nicht poßtiv, fondern negaliv
+feyn. Diefer Fehler hat fch nachher durch das
+anze Kapitel fortgepflanzt, dennoch if die Formel
+ür den Krümmungshalbmeffer S 273) richtig an-
+gegeben, weil hier der V£. durch ein zweytes Ver-
+ehen jenes erfiere wieder gut gemacht hat. Die For--
+meln für die Coordinaten des Mittelpunkts des
+Krümmungskreifes find aber beide falfc 4 Als
+Anhang hat Hr. B. einige Aufgaben über die Linien
+der erften und zweyten Ordnung beygefügt, welche
+gut gewählt find and dazu dienen können, den An-
+änger zur Anwendung der vorgetragenen Sätze noch
+gefchickter zu machen.
+
+Nr. 2. Einleitung. (Wichtigkeit des Gegenßan-
+des, und das Nöthiglie über Gefchichte und Literatur
+deffelben.) Kap.1. Von der Beflimmung der Lage eines
+Punkts in der Ebene, von den Gleichungen der Linien
+überhaupt und von den Gleichungen der geraden Li-
+
+V\ERGÄNZUNGSBLÄTTER ZUR A. L.Z.
+
+nie und des Kreifes insbefondere.
+und-deutlich.) — Kap. 2. Einige Anwendung:
+im erl(ien Kapitel aufgelöften Fundamentalau!
+(die merkwürdigen Punkte im geradlinigen
+eck u. dgl.) — Kap. 8. Von der Veränderur
+Coordinaten. (Eins der belien Kapitel in «
+Werke. Deutlicher, als in den meißfen Set
+über diefen Gegenfiand.) — Kap. 4. Von der
+bel. (Aus der Erklärung: „Eine Linie von f
+Befchaffenheit , dafs alle ihre Punkte von ein
+begrenzten geraden Linie und einem Punkte g
+weit entfernt find, heifst eine Parabel”, wer:
+5 Ab(chnitten die Confiruction einer folchen
+und ihre Gleichung und aus diefer die übrige
+gen{chaften abgeleitet, und fodann gezeigt, d.
+Gleichung y'=px keiner andern Linie ange
+könne. Viele intereffante Sätze diefes Kapite.
+aus der kleinen, aber gehaltvollen Schrift Lan
+Infigniores orbitae cometarum proprietates en
+aber hier anders bewiefen, als dort. DieS.
+gebene Erklärung von Maximis und. Minizr
+nicht genau genug, da es nach derfelben fi
+als könne eine Function nicht für mehr als
+Werth ihrer veränderlichen Gröfse ein Masz
+oder Minimum werden, — Kap. 5. Von der}
+(Nach der Erklärung: „Eine Linie von folch:
+fchaffenheit, dafs die Summe der Entfernung
+des Punkts derfelben von zwey befüimmten Pı
+eine confiante Gröfse ilt, heilst eine Ellipfe”
+der Vf. die Möglichkeit einer folchen Curve
+wirkliche Confiruction derfelben , und befolgt
+haupt einen ähnlichen Gang wie im erlien K
+indem er in 5 Abfchnitten die wichtigfien |
+fchaften diefer Linie mittheilt. Der Anhang 3
+fem und zum folgenden Kapitel über die Enty
+lung der trigonometrifchen Linien, der Po
+un L.ogarithmen in Reihen if aus des Vf:
+thematifchen Abhandlungen, erfie Sammlung.
+na 1822” (f. diefe A. I. Z. vom J. 1823. Nr. 16
+zum Behufe der Auflöfung des Kepler’fcheı
+blems und der Quadratur der Hyperbel entlek
+Kap. 6. Von der Hyperbel. (Auch hier ein
+cher Gang wie inKap. 4 u.5.)— Kap. 7. Einig
+emeine über die Kegelfchnitte. (Allgemeine |
+uchung des Ausdrucks Ay?! + Bıry + Cx?
++ Ex + F=0 nach Biot; aus demfelben fol
+fch durch 5 Punkte nur Ein Kegelfchnitt befch
+läfst, und dafs zwey Kegelfchnitteeinander hö
+in 4 Punkten fchneiden können.) — Anhang.
+den Krümmungshalbmeffer der Kegelfchnitte.
+ne höhere Analyhs fehr fafslich entwickelt.)
+Beide Werke unter[cheiden fich alfo vorne!
+dadurch, dafs Nr. 1. fiets aus dem Allgemeinen«
+ableitet, Nr. 2. hingegen meiltens vom Belı
+fondere zum Allgemeinen auffleigt. Die letzte
+thode möchte wohl für die meifien Anfänger die
+chere, wenn fchon mitunter weniger kurz fe
+die erfiere. Hr. G. hat nach Euklid’s Weile
+mal den Hauptfatz, wovon die Rede ift, als
+f{atz oder Aufgabe vorangeliellt, wodurch, na
+
+Sehr ausfü
+

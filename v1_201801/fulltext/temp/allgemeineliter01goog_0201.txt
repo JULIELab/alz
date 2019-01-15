@@ -1,0 +1,164 @@
+379 .
+in welchem die Kraft angebracht, um w gedrehet
+hat, so ist .
+wiqg=l;x; also g=";
+folglich die Kraft
+—e ‚Zradrda, 75 Ss
+
+ 
+
+also im Abstande x vom Einklemmungspunkte
+= — ern ir Lawıdr,
+= 7
+
+und das Moment derselben, von der Achse des Cy-
+Jinders gerechnet , (m, s. die Zeichnung)
+
+— Ede da= +d(L.Q), oder
++LQ= —xz—= + a7 Const,
+
+Für x =: / ist LO =0 also Const. = +2
+
+ew.2n 5*
+
+also vollständig +LQ=+“427 Zul,
+und für r=0 und r=R
+LO=21.URH=3u0q RI
+
+Setzt man j7:= N, so ist
+
+LQ=NwR*
+N Le
+Roy
+
+Für einerlei Materie mufs NV, also = constant
+
+seyn, x
+
+Die Werthe dieses Ausdrucks nach den von Du-
+Teau angestellten Versuchen 86, 87. 89 — 97 findet
+man in der folgenden Tabelle :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is w
+EEE SE DE | ya
+855 Meter |Kilogr.| Meter |Meter| Grad Rt
+zZ > (sexag)
+86 10,31 | 10 | 0,01520 | 2,81 | 4,770 | 69323763,1
+87 (0,32 | 10 | 0,01970 | 3,17 | 1,890 | 56738700,0
+89 (0,32 | 10 | 0,02149 | 3,57 | 1,344 50033045,7
+90 |0,32| 10 | 0,02151 | 2,89 | 1,557 | 53152297,4
+91 [0,32 | 10 | 0,02205 | 3,19 | 1,041 | 65222014,4
+92 |0,32| 10 | 0,02803 | 2,89| 1,038 60673542,8
+93 [0,32] 10 | 0,02352 | 3,24 | 0,722 71521833,3
+94 |0,32| 10 | 0,02650 | 2,94 | 0,619 | 57049079,3
+95 |0,32| 10 | 0,02673 |3,85| 0,558 | 53653112,5
+96 [0,32 | 10 | 0,02682 | 2,77 | 0,595 | 60039614,1
+97 [0,82] 10 | 0,03572 | 2,92 | 0,214 50330069,2
+Summa | 647787071,8
+Im Durchschnitt /V = | 58885188,5
+Aus der vorigen Grundformel erhält man
+. _ 20
+VS N
+
+ALLG. LITERATUR - ZEITUNG
+
+38
+Setzt man darin L, Q, R wie oben, und V=38885188,3,
+so erhält man folgende Vergleichung der deodbuckteten
+und der berechneten Werthe von vw.
+
+77T Wertbe von
+
+   
+  
+ 
+  
+  
+
+ 
+
+ 
+
+Bl nn Absolute Relative
+= 9 |beobachtete| berechnete | Differenzen Differenzen
+HE| Grade | Grade | mm / man |
+Ze (sexag.) | (sexag.) | positive | negative | positive[negative
+86| 18,44 |15,77979 |2,33979| = 10.1741] »
+87| 6,00 | 5,77297 | = |0,22708| = [0,0878
+89| 4,80 | 4,07680 | + 1|0,72820| = [0,1506
+90| 4,50 }4,06155 | ; |0,42845/ » 10,0962
+91| 3,32 | 8,67815 |0,85815! =; 10,1078| =
+92| 3,00 | 8,09092 |0,09092| » 10,0808| :
+98| 2,34 | 2,84128 |0,50128| ; 0,2149 :
+94| 1,82 | 1,76811 | : |0,05 = [0,0812
+95| 1,87 | 1,70821 | =; 10,16679/ = 0,0892
+96| 1,65 | 1,68046 (0,03046| ; 0,0184! :
+97| 0,625 | 0,584094) = [|0,09090| = ‘0,1454
+Summa |0,544810,5494
+Im Durchschnitt 0800000
+0,5448
+* 0,5494
+
+Summa aller Differenzen 1,0942
+
+Relat. Diff. im Durchschn, 0,09947
+Wird die Belastung so grofs gemacht, dafs eine Tren-
+nung der Theile erfolgt, so mufs die letztere zuerst
+im Umfange des eingeklemmten Queerschnitts erfol-
+en. Die Länge des Bogens, um welchen hierbei
+ie äufsersten Elemente des Queerschnitts, im Ab-
+stande 1 vom Einklemmungspunkte, im Augenblicke
+des Bruchs aus ihrer ursprünglichen Lage gedreht
+
+werden, sey u, 80 ist, für denselben Queerschnitt,
+
+_
++7 R
+L.0= N. Rıla BI = NR3«,
+
+Aber « ist, für einerlei Materie, eben so gut constant
+als N; daher ist « /V = M constant , also
+. _LQ
+Rn
+
+unveränderlich, wo Q die Last bedeutet, die, am He-:
+belarme L angebracht, so eben im Stande ist, einen:
+eingeklemmten Cylinder, dessen Länge 4, Durochkmes-
+ser 2R, zu zerdrehen,
+
+Der Werth von M, als Brechungscoefficient , ist
+noch nicht gehörig durch Versuche bestimmt. Man
+darf aber doch nur einen Theil davon in Rechnung
+bringen, sobald man wissen will, wie grofs R für
+einen qegehenen Werth von L, © und } seyn mufs,
+
+undy= 23 also
+
+wenn die Stange oder Welle nicht zerdrehet werden
+soll. Dann wird für volle Sicherheit
+nM=L2
+RI.
+
+seyn müssen, won ein echter Bruch, L,Q, R, /
+aber
+
+%
+

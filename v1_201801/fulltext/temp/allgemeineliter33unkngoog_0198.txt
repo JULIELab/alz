@@ -1,0 +1,137 @@
+363
+
+den meisten Lehrbiichern findet. Der Vf. giebt hier
+$ Lehrsätze, woraus er denn noch mehrere wichtige
+Zusätze folgert. Nämlich 1) sind zwei Differenzen
+'a-— 5, sowie e — g, durch c theilbar, so ist auch
+die Differenz (a .e — b.g) zwischen dem Producete
+° der Minuenden und dem der Subtrahenden dureh c
+theilbar, 2) Ist c eine relative Primzahl gegen a und
+5, und sowohl & — 5, als auch a, e — bb. g durch
+ec theilbar, so ist es auch e— g. 3) Das Produet
+gweier Zahlen ist gleich dem vierten Theile von der
+Differenz zwischen dem Quadrate der Summe beider
+Zahlen und dem Qudrate ihres Unterschiedes, d, h,
+
+es ist p.q = ern WO, 4) Wenn a ei-
+
+ne ganze Zahl ist, so ist immer 4? — auhda® + a
+durch 2, aber a3 — a durch 6 (heilbar, 5) Lassen
+die Zahlen Aund B, wenn sie einzeln durch m divi-
+dirt werden, die Reste R, R‘, so ist der Rest der
+Division A. B: m derselhe, als der von R., R': m.
+
+6) Ist c eine Primzahl, und a eine beliebige aber:
+
+° durch c nicht theilbare Zabl, so ist der Rest, wel-
+chen die Potenz a =? durch c dividirt, 1äfst, der
+: Einheit gleich, 2 Ist d eine positive Zahl, so be-
+schaffen, dafs es keinen kleinern Exponenten als d
+
+iebt, welcher, für die gegebene Zahl a, ai— 1
+Surch c theilbar macht, und ist aufserdem auch für
+den Exponenten ey, «° — 1 durch c theilbar, so ist
+e durch d theilbar, 8) Sind a@ und d absolute oder
+relative Primzahlen, sq kann für jede beliebige Zahl
+
+en a\M
+gleich m die Potenz (+) nie eine ganze Zahl wer-
+
+den. Gapitel2.: von den Wurzeln,. Der practische
+Theil, der nun folgt, enthält die Anwendung der
+Lehre von den Potenzen und Wurzeln auf die Zahl-
+systeme, den Mechanismus der vier Grundoperatio-
+nen des Zifflerrechnens , die Decimalbrüche, und die
+Ausziehung der Quadrat - und Cubicwurzel aus Zah-
+Jen und zusammengesetzten Buchstaben - Ausdrü-
+cken. Bei der Verwandlung der gemeinen Brüche
+in Decimalbrüche hat die Sucht, recht censequent
+gu erscheinen, den Vf. zu einer Auflösungsweise
+geführt, die zum wenigsten gesagt, dem Anfänger
+etwas künstlich erscheinen möchte, Kr sagt näm-
+
+lich: „Gesetzt, man habe den Bruch T in einen
+
+Decimalbruch zu verwandeln, so multiplicire man
+den Zühler @ dieses Bruches mit einer beliebig ge-
+wählten Potenz (10) von 10, und dividire dieses
+Product durch den Nenner &, lasse den letzten Rest
+wenn die Division nicht aufgehn sollte, weg, un
+be dieser durch die Division gefundenen ganzen
+hl die Potenz 10= zum Nenner, so erscheint der
+
+anfängliche Bruch — nun als Decimalbruch ausge-
+
+- drückt.” Recht hat der Vf., und allgemein ist der
+Beweis gewifs, aber er konnte, wie wir glauben,
+dem Lernenden die Sache erleichtern, wenn er diese
+Verwandlung auf die Lebre von der Division der
+Deeimalbrüche folgen liefls, und sie dann nur als
+
+— Num, 198. NOVEMBER 1837,
+
+eine Ausführung der durch den Theilungsstrich des
+Bruches angedeutefen Division betrachten lehrte,
+Die Aufgabe, Decimalbrüche in einander zu dividi-
+ren, löst der Vf. so, dafs er sagt: „man mache die
+gegebenen Decimalbrüche gleichnamig, - lasse als-
+
+ann die Decimalbrüche weg, und dividire die da-
+durch entstehenden ganzen Zahlen in einander,”
+Wer wird wohl z. B., 0,0004986 durch 4,2 auf diese
+Weise dividiren, dafs man -den Divisor in 4,2000000
+verwandelte und nun die Division vornühme? ‚Bei
+der Ausziehung der Quadratwurzel hatte der Vf,
+eine Hauptsache vergessen. Unserer Meinung nach
+mufs diese Lehre darauf gebaut werden, dafs man
+zeigt, wie (a + 5)? = a? + 2 ab + db? sey, und wie
+sich also diese einzelnen Theile in jedem Quadrate
+einer zweitheiligen Wurzel wiederfinden müssen,
+Der Vf. hat dies unterlassen, und nur am Eude des
+Buches Einiges. davon nachgetragen, Wir können
+daher die Behandlung dieser Lehre nicht gelungen
+nennen, Dasselbe gilt auch von der Ausziehunng der
+Cubikwurzel. Bei beiden Operationen hat übrigens
+auch der Vf. zwar auf den Fall aufmerksam gemacht,
+wo man, wenn a den ersten, & den zweiten Theil der
+
+) Wurzel bedeutet, b zu grofs zu nehmen versucht
+
+seyn könnte; den ungleich schwierigeren aber, wo
+& zu klein genemmen ist, hat er übergangen. Es
+war leicht zu zeigen, woran der Rechnende einen
+solchen Fehler sogleich erkennen könne, Lob ver-
+dient dagegen die Angabe zweier kürzerer Metho-
+den, die Cubikwurzel aus jeder vollständigen Cubik-
+zahl zu finden, Zweite Abtheilunz: von den Loga-
+rithmen, Diese Lehre ist am dürftigeten behandelt
+worden, und man vermifst Manches, was hier nicht
+fehlen durfte; Von hyperbolischen Logarithmen,
+und ihrer Verwandlung in Logarithmen zu einer ge-
+gebenen Basis, z. B. in Briggische, ist kein Wort
+gesagt, Auch war wenigstens an einem Beispiele
+zu zeigen, wie man den Logarichmus einer etwa
+zwischen 1 und 10 liegenden ganzen Zahl, vermit-
+telst der Bildung des geometrischen Mittels aus den
+Zahlen und des arithmetischen aus den Exponenten,
+nähberungsweise berechnen kann, — Abschn, 4.:
+von den Verhältnissen, Proportionen und Progres-
+sionen, Wenn der Vf. hier 5 228 sagt: ‚Zusatz 1
+iebt. zugleich ein Mittel an die Hand, jedes gege-
+ne geometrische Verhältnifs, worin eins der bei-
+den Glieder, oder beide zusammen echte oder un-
+echte Brüche sind, durch zwei ganze Zahlen auszu-
+drücken, indem man nur beide Glieder mit ihrem
+Hauptuenner mnltiplieirt;” so ist dab zwar wahr,
+man vermifst aber die Angabe, dafs auf diese Weise
+das gegebene Verhältnifs durch die kleinsten ganzen
+Zahlen ausgedrückt werde, wenn man mit dem
+kleinsten Hauptnenuer multiplicire, falls nämlich
+die Zähler Primzahlen zn einander sind; dafs man
+dagegen, wenn dies nicht der Fall ist, erst noch mit
+ihrem gröfsten gemeinschaftlichen Maalse zu dividi-
+ren habe, Wie der Satz: „aus jeden zwei gleichen
+Quotienten 6der Brüchen kann man eine geometri-
+sche Proportion bilden,” ein Zusatz seyn könne zu
+em
+

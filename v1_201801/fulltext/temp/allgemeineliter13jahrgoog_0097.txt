@@ -1,0 +1,104 @@
+175
+
+zwischen zwei Seiten und einem Winkel des recht-
+winkeligen Dreiecks AMP aus, und wir werden
+späterhin sehen, dass in jedem beliebigen Dreiecke,
+da es sich durch einen Perpendikel in zwei rechtwin-
+kelige Dreiecke zerlegen lässt, der Zusammenhang
+zwischen Seiten und Winkel mit Hülfe solcher Zah-
+len ausgedrückt werden kann. Aus diesem Grunde
+werden sie trigonometrische Zahlen genannt.” Ob es
+nicht belehrend gewesen wäre, die Formeln für die
+trigonometrischen Hülfsgrössen auch auf goometri-
+schem Wege zu entwickeln, wollen wir dahin ge-
+gsiellt seyn lassen, obwohl es uns fasst so scheinen
+möchte. — Berechnung der trigonometrischen Zah-
+Jen, und die trigonometrischen Tafelu. — Arithmeti-
+scher Zusammenhang der Bestandtheile des Dreiecks,
+oder die ebene Trigonometrie. — Die Vielecke. —
+Die Kreislinie und ihre Verbindungen mit der geraden
+Linie. Auch dieser Abschnitt ist ganz eigenthüm-
+lich und mit vielem Scharfsinne behandelt. — Die
+Flächenräume der ebenen Figuren. — Die Con-
+gtructionen in der Ebene. — Allgemeine Methode zur
+Untersuchung der elementaren Verbindungen in der
+Ebene. „Wir haben, sagt der Vf., in unseren bis-
+herigen Betrachtungen nur die einfachsten Verbin-
+dungen der geraden Linie und der Kreislinie in der
+Ebene vollzogen und die Kigenschaften dieser Ver-
+bindungen untersucht; es liegt daher noch ein weites
+Feld der Combination dieser Grössen vor uns ausge-
+breitet. Auch selbst daun, wenn wir unsere For-
+schungen immer weiter ausdehnen , und die Resultate
+derselben unserem Systeme der Geometrie einver,
+Jeiben, so bleiben doch immer noch neue Verbindun-
+gen zu untersuchen übrig, und es entsteht daher die
+Frage nach einer allgemeinen Methode, diese Unter-
+suchungen am zweckmässigsten einzuleiten. Hier
+zeigen sich nun hauptsächlich zwei Wege, die man
+einzuschlagen pflegt, und die wir in dem Folgenden
+näher beleuchten wollen, Hat man nämlich irgend
+eine geometrische Zusammensetzung , die wir im All-
+gemeinen mit dem Worte Figur bezeichnen wollen,
+uıd sollen die Eigenschaften derselben erforscht wer-
+den, So sucht man durch eine Verknüpfung der ein-
+fachen Bestandtheile der Figur zu Dreiecken und
+Kreisen, aus den Eigenschaften dieser. Grundfiguren
+auf die der ganzen Verbindung zu schliessen. Oder,
+soll eine solche Figur aus gegebenen Grössen und
+
+ERGÄNZUNGSBLÄTTER
+
+x
+
+Num. 22. MÄRZ 1840. 176
+
+gegebenen Bedingungen entsprechend, erst gebildet
+werden, 8o wird dieses ebenfalls durch Verkettung
+der Grundoperationen vollzogen. Bei dieser Methode,
+für die wir im Allgemeinen keine Regeln weiter an-
+zugeben im Stande sind, geht man gewöhnlich von
+den einfachen Bedingungen aus, und schreitet all-
+mälig zu den zusammengesetzteren Beziehungen fort.
+Sie wird daher die synthetische Methode genannt.
+Allein wenn auch dieser Gang nicht statt findet, wenn
+wir nur die Untersuchung bej steter Betrachtung der
+Figur durch die Verkettung der emfachen Beziehung
+des Dreieckes und des Kreises unmittelbar an den
+geometrischen Grössen selbst führen, so bleibt .das
+Verfahren doch immer synthetisch. — Wir können
+aber auch die gerade Linie und die Kreislinie durch
+Gleichungen ausdrücken, welche die Beziehungen
+zwischen den vermittelst Zahlen dargestellten Coor-
+dinaten aller Punkte dieser Linien angeben, und hier-
+aus geht die Möglichkeit hervor, durch die Verbin-
+dung solcher Gleichungen, entsprechend den Ver-
+bindungen der durch sie repräsentirten geometrischen
+Grössen, die Beziehungen dieser Zusammensetzun-
+gen zu finden. Zu diesem Behufe verfahren wir im
+Allgemeinen auf folgende Weise. Wir nehmen das zu
+Suchende als schon bekannt und die zu vollziehende
+Verbindung als schon vollzogen an, und bilden die
+den gegebenen Bedingungen entsprechenden Gilei-
+chungen, in welchen die bekannten und gegebenen
+Grössen als bekannte Zahlen, und die zu bestimmen-
+den Grössen als unbekannte Zahlen erscheinen. Wer-
+den hierauf diese Gleichungen nach den Regeln der
+Algebra behandelt und gelöst, so gehen daraus die
+Zahlwerthe für die unbekannten Grössen hervor, oder
+man erhält arithmetische Beziehungen unter den
+Bestandtheilen der Figur, die man häufig in geo-
+metrische Beziehungen umsetzen kann. Da wir bei
+diesem Verfahren gewöhnlich von dem Zusammen-
+gesetzteren auf das Einfachere, von dem Resultate
+auf die dasselb® bestimmenden Grössen zurückgehn,
+so bezeichnen wir es mit dem Namen der analytischen
+Methode; jedoch sieht man nicht diesen Gang, sondern
+vielmehr die Ausmittelung der geometrischen Bezie-
+;hungen durch Zahlen als das Charakteristische dieser
+Metıhode an.” Zahlreiche Beispiele dienen dann zur
+Erläuterung beider Methoden, Druck und Papier sind
+vorzüglich. a?
+
+ 
+

@@ -1,0 +1,158 @@
+-r
+
+815 ©
+
+men Linien, 8) die Pärabel, 4) die Ellipse, 5) die Hy*s
+perbel, 6) die krummen Oberflächen. Ein Blick duf
+
+‘ Sorstehende. Uebersicht zeigt schon, dafs sich hier
+
+z
+
+‘tigt , ‚dafs die vorhergeganf
+
+Manches findet, was wohl in den meisten Fällen
+zum Vortrag nicht geei
+
+eeignet seyn möchte; doch das
+hat auch der Vf. erkannt, und er Sagt defshalb, der
+
+einsichtsvolle Lehrer werde, wenn,er seine Schüler
+dazu nicht reif erachte, Manches , (z. B. die Funda-
+
+. mentalbetrachtungen der allgemeinen Arithmetik
+
+und der analytischen Geometrie) übergehn, und
+nichts desto weniger spätere, ihm leichter oder nö-
+thiger scheinende, Gegenstände (z. B. die Auflösung
+der numerischen Gleichungen oder die synthetische
+Darstellung der Kegelschnitte) in‘ den Unterricht
+aufnehmen. Die weitere Ausführung der meisten
+Lehren hat der Vf. für den müntlichen Unterricht
+aufgespart, mitunter wohl etwas zu viel: so fehlt
+y. B. im 2ten Kap. die Angabe des Verfahrens, meh-
+yere Brüche auf den Kleinsten Generalnenner zü
+briogen, und von den Primzahlen ist in diesem Ka-
+
+itel kaum in sechs Zeilen die Rede. Im zweyten
+Buche wird erst von den Zahlensystemen gehandelt,
+also ganz abweichend von der gewöhnlichen Anord-
+nung, welche Abweichung der Vf. damit rechtfer-
+enen Grundoperationen
+als golche'von dem Begriffe eines Zah ensystem$
+zanz unabhängig Seyen. Ganz consequent sprich
+Ser Vf. auch erst hier von den Decimaldrüchen:
+Weniger gefallen hat »ns des Vfs Darstellung und
+Erklärung der negativen und gebrochenen Exponen-
+ten. Er sagt nämlich $. 115: „Die DeGnition der
+
+- Potenz als eines Products‘ aus gleichen _Factoren
+
+scheint nur ganze Zahlenwerthe für den Exponen-
+ten zıl gestatten, in sofern dieser bestimmt , wie viel
+Mal die gegebene Grundzahl oder Wurzel als Factor
+
+esetzt werden soll. Allerdings kann man dieses
+Atehrmalige des Setzens nur durch eine ganze Zahl
+bestimmen, dameben aber auch noch ausdrücklich
+‚die Art und Weise bezeichnen, wie der Grundfactor
+
+esetzt werden soll, ob geradezu oder im wider-
+‚streitenden Sinne? Hierzu dient nun bekanntlich
+die Bezeichnung des Positiven und Negativen; ein
+n maliges
+ben ist, wird angedeutet durch a*» oder a°, ein 3
+maliges Setzen desselben im widerstreitenden Sinne
+( d. h. des Factors 2) hingegen durch a”, ‚wel-
+
+ches mithin einerley ist mit (3
+
+Jich den Grundfactor a selbet als m'e Potenz eines
+andern, (d.h. @q= 6m) betrachten, so kann eine
+Zerlegung desselben in m gleiche Factoren b vorge-
+nommen. oder die mie Wurzel ausgezogen werden,
+
+was man dureh den gebrochenen Exponenten a0-
+
+zudeuten hat, da dieser durch seinen Nenner eine
+bestimmte Zerfällung vorschreibt; die Ausdrücke
+
+a und "/a sind mithin gleichbeientend.: Sollen
+
+Setzen des Grundfactors &ı, wie er gege-.
+
+)* win man end: ;
+
+* . ALLG. LITERATUR - ZEITUNG . ;
+
+von den m einzelnen Factoren wiederum K ‚zu ein
+Potenz züsammen werden, So hat der ZUM
+des gebrochenen Exponenten diese Menge auzug
+KR) ;
+
+ben‘, wie in ab = (Va) 8 (V8)7 WW
+Jauben, da(s beide Bezeichnungsweisen, die. da
+mmer uneigentliche Ausdrücke bleiben, anf fü
+geude Art Lerasaden verständlicher erkif
+werden könaten. Man dividirt, zwey Potenzen vo
+
+eichean Wurzeln durch einander, wenn mas
+ponenten des Divisors vaı dem Exposenten
+
+Dividandus abzieht, a?:a3:=a*, da ABTETTS __ now
+aas
+
+== a* = a? —=3, Offenbar kann dieses Verfahren &-
+gentlich nur dann stattfinden, wenn der Divisor et’
+aliquoter Theil des Dividendus ist, und das ige
+dann, wenn der Exponent des Divisors klein
+als der des Dividendus. Ist das nicht der Fallık
+at:a%, so litte zwar eigentlich öbiges Verfahren k&
+
+5 a3 gad
+ne Auwendumg , sondern man erhielte a3 > Saat
+
+Oder, went man, fm ZMhler und Nenner aufbebt{
+zw. . Mat pflegt aber auch in dieset Falle sich |
+des obigen Verfahrens zu hedienen , and den Exp
+
+nent 5 des Divisors von dem Exponenten 8 des _D*.
+
+sidendus abzuziehen, -. woderch man erhält a),
+
+was also soviel ist, als Z. Potenzen mit negativen
+
+Exponenten. sind daher nur uneigentliche Ausdrü- |
+cke und nichts anders als Brüche, deren Zähler 1, |
+und deren Nenner eben jene Potenz mit demselbes
+aber positiven Exponenten ist... Des Vfs Erklärung
+der Potenzen mit: gebrochenen Exponenten ist wn-
+gleich fafslicher, doch hätte sich das Entstehen der
+selben, auf ähnliche Art wie vorhin, wohl 60 &-
+klären lassen: Da man das Quadrat e&iner Potei
+fndet, wenn man ihren Exponenten mit 2, den Cr
+bus derselben, wenn men ihren Exponenten mit}
+allgemein die nte Potenz dieser Potenz findet, wem
+man ihren Exponenten mit n multiplicirt; So wir
+man auch umgekehrt aus einer Pofenz die Quadrät-
+wurzel ziehn, wens man ihren Exponenten dur
+
+2, die Cubikwurzel, wenn man ihn durch 3, die#
+Wurzel, wefin man ibn durch nz dividirt. Diese
+Regel leidet indessen nur dann eigentlich eine Ar-
+wendung, wenn der Expoment der Wurzel in dem
+
+Exponenten‘ der Potenz aufgeht, z. B., {/g’ =
+$ , . < 8, *
+== a3. Ist-das nieht der Fall, so ist auf diese Weis
+
+kein Ausziehen der geforderten Wurzel m
+
+und es könnte darum eigentlich dieses Auszieben i9
+allgemeinen Formeln (durch das Zeichen / 7) ner
+angedeutet werden. ' Doch ist es üblich, die Be-
+zeichnung durch Division der Exponenten auch‘hier
+
+beyzubehalten , so dafs man. z.B. statt MW erhal-
+ten würde a’. a 0
+

@@ -1,0 +1,138 @@
+607
+
+In wie fern diese Constructionen genau und
+scharf zu nennen sind, kennt jedermann, der auch
+nur wenige Versuche in ihnen gemacht hat. Welche
+Schwierigkeit die Auflösung mancher geometrischen
+Probleme auf die eine oder die andere Art bietet,
+kennt auch jeder, der sich mit ihrer Auflösung be-
+schäftigt hat oder beschäftigt — kennt jeder, der
+weifs, wie viele Probleme his jetzt noc zu lösen
+übrig gebliehen sind. Besonders nimmt die Gewandt-
+heit in der Auflösung mit der geringeren Uebung,
+oder mit längerer gänzlicher Nichtübung ab. Dies
+ist hei solchen insbesondere der Fall, die sich in der
+Jugend mit Geometrie heschiäftigt haben und dann ir-
+gend einen Beruf gewählt haben, wo diese Uebung
+weniger nöthig wird — wie Techniker aller Art. Hie-
+her gehören zugleich solche, die keine weitere Wis-
+sgenschaftliche Ausbildung erhalten. haben und die
+dennoch in den Fall kommen können, irgend ein Pro-
+blem lösen zu müssen, Der Zweck, für den die vor-
+liegende Schrift bestimmt ist, wird am besten aus
+den \Worten des Vfs selbst, S, NIX der Vorrede, ent-
+nommen werden :
+
+Aufser der erwähnten Künstler - Art gibt es aber noch
+eine grofse Anzalıl anderer Techniker, deren Constructionen
+nicht den gleichen Grad von Genauigkeit fordern, welcher
+von den Verfertigern astronomischer Mefswerkzeuge verlangt
+werden mufs und bei welchen die matlıcmatische Bildung im
+Alluemeinen auch nicht auf der Stufe steht, um die oft sehr
+versteckt liegenden Auflösungsmittel aulzufinden. Derartige
+Techniker müssen daber theils aus erwähntem Grunde ver-
+suchsweise verfahren, theils auch, weil die Auffindung ge-
+nauer Methoden oft mehr Zeit erfordert , als der Praktiker ge-
+rade bei vorkommenden Falle darauf verwenden kann, wenn
+er auch die Kenntnisse besitzt, | . nn
+
+Dieser Klasse muls deinnach auf eine ühnliche, ihr ver-
+suchsweises Verfahren regelnde, Art geholfen werden, wie
+es in aritbmetischer Hinsicht die Methode vom falschen Satze
+thut und wie die wiederholte Anwendun desselben jeden der
+Ausübung genügenden Grad von Genauigkeit zu Kefern ver-
+mag, eben so mufßfs in geometrischer Hinsicht der Grad der
+Genauigkeit von des Künstlers graphischer Ausführung ab-
+
+angie ht werden.
+
+Me der "unendlichen Verschiedenheit der Aufgaben
+kann aber die Hülfe hier nicht, wie im obigen Falle, in der
+Angabe von Construclions - Mitteln zu ciner Klasse von Auf-
+gaben (Kreiseintbeilungen) bestechen, sondern mufs aus einer
+sachgemäfsen, Kräfte entwickelnden, Bildung durch Anlei-
+tung und Einübung geschöpft werden, wodurch die Tecbhni-
+ker in vorkommenden Fällen sich selbst helfen lernen.”
+
+Der Vf. zeigt den Nutzen, welchen die Methode
+. der Annäherungs - Construetionen in ihrer Anwen-
+dung auf die beschreibende Geometrie , Schattenlehre,
+Perspective, Land -, Wasser-, Strafsen-, Brücken -
+und Schiffbaukunst für Techniker hat , und empfichlt
+sie als einen Zweig des Unterrichtes, nach der An-
+sicht seines verehrten Lehrers Tulla, der sie mit Er-
+folz anwandte. Der Nutzen, den sie für diesen
+Zweck hat, ist nach dem Gesagten unverkennhar;
+Der Nutzen, den sie in wissenschaftlicher Hinsicht
+hat und haben kann, ist nur indirect, indem sie oft
+auf reine geometrische Constructioner führt.
+
+A. L., Z, Num, 1852,
+
+AUGUST 1833. 608
+
+Rec. glaubt durch diese Bemerkungen den Leser
+in den Stand gesetzt zu haben, dals er.im Allgemei-
+nen über die Brauchbarkeit der Annäherungs - Con-
+structionen von Tull« sein Urtheil bilden kann. Dem
+Vf. gebührt die Ehre, seinem Verehrten Lehrer ein
+schönes Denkmal gesetzt zu haben.
+
+In der Vorrede sind zweckmöäfsige Vorschriften
+
+über die Behandlung dieses Unterrichtszweiges ZEeRR-
+ben, 26 Aufgaben mit ihren Auflösungen (für eine
+Aufgabe oft mehrere) sind mitgetheilt. Darunter ei-
+nige rein constructionelle, Sehr dankenswerth würe
+es gewesen, wenn zugleich mehr rein constructionelle
+oder analytische Auflösungen mitgetheilt worden
+wären,
+
+Als Anhang ist Tulla’s Methode von der graphi-
+schen Centrirung der Winkel und der Correction der
+Seiten und Winkel der Dreiecke bei geodäitischen
+Vermessungen, von dem Obergeometer Zipfel bear-
+beitet, gegeben — eine Zugahe, die jedem Prakti-
+ker, da sie von einem anerkannt tüchtigen Mathema-
+tiker stammt, willkommen seyn wird, Druck und
+Papier ist gut, | 0
+
+HEIDELBERG, in Comm. b, Reichard: Tafeln zur Be
+rechnung der Coordinaten ohne Logarithmen bei Gr-
+markungs-, Ylur- und Gewann-Vermessungen , sv
+wie bei Forstvermessungen und Wasserweägungen
+mit dem Theodolit, Berechnet und herausgegeben
+von Reissig, Grofsh, Hess, Oberforstdirections-
+Accessist, Tenner, Grh. Hess, Districts - Steuer-
+einnehmer, und Reutzel, Geometer des Grh. Hess,
+Cadasters. 1830. Aufser VII S. Titel, Zueiz-
+nung, Vorwort, Subscribenten - u, Inhalts - Ver-
+zeichnifs XXX u, 2028, Tafeln, 4, Mit 2 Stein-
+drucktafeln, (6 Rthlr. 12 gGr.)
+
+‚Der Zweck des Vfs geht aus folgender Stelle des
+„Vorwortes” hervor:
+
+„Die Mitherausgeb‘r Tenner und Reissig wurden, als sie
+im Jahre 1825 ınit Coordinaten - Berechnungen anhaltend je-
+schäftigt waren, durch das Ermüdende und Zeitraubenie des
+hisherigen Verfahrens veranlafst, zu versuchen, ob sich nicht
+Tafeln entwerfen licfsen, mittelst deren die Berechnung &rı
+Coordinaten erleichtert und in welchen man die Coordinater -
+Differenzen nach Maasgabe der Entfernungen und deren Nri-
+gungen gegen die Axe unmittelbar finden könne. ”
+
+Zu diesem Ende haben sie Tabellen berechnet.
+aus welchen sich leichter als auf dem gewöhnlichen
+VVege der Flächeninhalt eines Vielecks finden lassen
+soll; indessen glaubt Rec,, dafs am Ende, gegen das
+gewöhnliche Verfahren, wenig gewonnen sey, und
+würde , seinerseits, gewifs von den gedachten Tabel-
+len niemals Gebrauch machen, 2
+
+Eines Ausztges sind die XXX Seiten, welche
+den Tabellen voran gehen, nicht fühig, und mufs sich
+Rec, anf diese kurze Anzeige beschränken,
+
+ 
+

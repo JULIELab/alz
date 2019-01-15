@@ -1,0 +1,138 @@
+‚Jich feyn foll ;
+
+593
+
+des Pappus gebraucht. Was den zweyten betrifft;
+{o hatte er zwar zwey Determinationen des .Apollo-
+nius, die er be Poßpı vorfand, auf feine Art be-
+wielen; aber ohne Zufammenhang mit feiner Auf-
+löfung der Aufgaben, zu welchen jene Determi-
+nationen gehörten, welches mit dem Verfahren der
+Alten bey ihrer Analyfe nicht übereinftimmt. Das
+Verfahren der Alten, um aus den Analyfen der
+Probleme die Determinationen derfelben abzuleiten,
+konnte zwar fchon unter den damals gedruckten
+Schriften der Alten aus einigen Stellen im Commen-
+tar des Eutocius über ‚Archimeds zweytes Buch de
+Sphaera et Cylindro (zum fünfıen Satz), und aus
+Beyfrielen in den Conicis des ‚Apollonius bekannt
+feyn: aber mehr noch” konnten die Bücher des
+a MNonius de fectione rationis, welche erft 1703 von
+Hallcy aus dem Arabifchen ins Lateinifche überfetzt
+herauskamen, den Geometern Licht über dieflen
+Gegenftand verifchaffen. Diefe Bücher gahen zu-
+gleich in Abficht auf den erften der obigen Punkte
+ein Mufter über die Art, wie die Alten eine Auf-
+abe, die eine grofse Mannigfaltigkeit von Fällen
+arbietet , in ihre Adtheilungen und Unterabthei—-
+lungen mit allen darunter begriffenen Fällen zerfäll-
+ten. Bey der Abhandlung jedes einzelnen Falles
+findet man in diefen Büchern immer aus der Ana-
+lyfe die Beftimmung abgeleitet — Determination im
+weitern Sinne — ob das in der Aufgabe diefes Falls
+egebene Verhältnifs eine Grenze habe oder nicht.
+Dre Grenzen aber find von zweyerley Art: bey ei-
+nigen Aufgaben Gnd Ge von der Art, dafs das gege-
+bene Verhältnifs immer gröfser oder kleiner als das
+Grenzverhältnifs feyn mufs, wenn die Aufgabe mög-
+be andern find Ge von der Art, dafs
+das gegebene Verhältnifs dem Grenzverhältnifs
+gleich, aber nicht gröfser oder kleiner (eyn kann,
+allo das Grenzverhältnifs ein gröfstes oder kleinftes
+ift. Ferner ift der Compofition, durch welche ein
+zur. Auflöfung einer Aufgabe dienender Punkt ge-
+£funden wird, immer die Beftimmung beygefügt,
+entweder dafs aufser diefem Punkt kein anderer,
+oder dafs noch ein zweyter, aber keiner weiter, der
+Aufgabe Genüge leilte. Der Fall, wo das letztere
+Staat hat, ift zugleich derjenige, wo hey der De-
+termination eine Grenze der zweyten Art, ein
+Gröfstes oder Klein(tes Statt findet; da denn be
+Pappus. die Determination (oder der Diorismos) (elb(t
+eine gröfste oder kleinfte heifst. Diefer Fall kommt
+in. den Büchern de fectione rationis da vor, wo das
+Finden eines. zur Auflöfung eines Problems dienen-
+den Punkts auf das Schneiden einer gegebenen gera-
+den Linie in zwey Alchnitte, die ein der Gröfse nach
+gegebenes Rechteck einfchlielsen, oder in der Spra-
+che der Alten auf den Fall von Euklid’s Elem. VI,
+28: „Ad datam rectam applicare rectangulum dato
+/patio aecquale,' üefieters quadreio ,” zurückgeführt
+wird; wofern. nicht der gefuchte Punkt durch: die-
+Bedingungen der Aufgabe (wie in Lib.. I. Loc. 4)
+nur auf die eine Hälfte: der gegebenen. geraden Linie:
+eingelchränkt wird. en
+
+ALLG. LITERATUR - ZEITUNG]
+
+-tze die Bedingung, dafls
+
+59%
+
+Im Allgemeinen, wenn eine Aufgabe, deren ge-
+gebene Stücke wir mit A, B, Cu.f. w. bezeichnen
+wollen, und worin ein aus diefen durch eine ange-
+gebene Entftehungsart oder Bedingung zu beftim-
+mendes Stück (Linie, Raum, Winkel, Verhältnifs)
+einen gegebenen Werth oder Gröfse M bekommen
+foll, fich darauf reducirt: eine durch die gegebenen
+A, B, Cu.f. w. und M gegebene gerade Linie in
+einem Punkt (X) fo zu theilen, dafs das Rechteck
+ihrer beiden Ab(chnitte einem aus den(elben Datis
+gegebenen ebenen Raum S gleich fey; welche Be-
+dingung wir mit Q bezeichnen wollen; fo ift, je
+Hachdem Q möglich oder unmöglich ift, auch die
+vorgelegte Aufgabe möglich oder unmöglich; ver-
+möge der Eigenfchaft der AnalyGs, nach Pappus
+Regel: „In problematico genere [nämlich Analy-
+eos), quod proponitur, ut Jam cognitum fiftentes,
+
+r ca quae exinde deducuntur, ta m vera, per-
+ducimur ad conclufionem aliguam. Quod fi corctu-
+Jfio illa. poffibilis fit ac mogı074,... poffibile quoque
+erit , quod proponitur; et — — — demonfiratio re-
+ciproce re/pondebit analyfi, Si vero incidamus in
+Conclufionem impoffibilem; erit etiam problema im-
+po/fibile.” Kann nun bey den gegebenen Stücken
+A, B, Cu.f.w. und M der Fall Statt finden, dafs
+der aus ihnen gegebene Raum gröfser als das Qu
+drat der Hälfte der zu theilenden geraden Linie Tey;
+fo ift, da in einem folchen Fall (nach Elem. IT, 5
+oder VI, 27) die Bedingung Q, und mithin vermöge
+der eben angeführten Regel auch die anfängliche
+Aufgabe unmöglich ift, diefe nicht in allen Fällen
+möglich. Ift aber jener Raum dem genannten Qua-
+drate gleich; fo kann der Bedingung O nur auf eine
+einzige Art, nämlich durch den Balbirunge unkt
+der zu theilenden geraden Linie für den Theilun
+X genommen, Genüge gefchehen ; daher dieler
+
+all der Cafis fingularis, povxxog heifst. Man fe
+der Halbirungspunkt der
+Theilungspunkt X fey, R: (o läfst fch
+
+a) aus den zwey Bedingungen Q und R, de-
+ren jede eine Beziehung des gefuchten Punkts X ge-
+gen die gegebenen Gröfsen A, B, C... und M,
+oder etwa zunächft gegen gewille mit diefen be-
+ftimmte Gröfsen x, ß, x... und & angiebt, mit Eli-
+mination des Punktes X zeigen, dafs das ZI oder &
+für diefen Fall, welches den äufserften Werth oder
+die Grenze aller möglichen M geben wird, durch die
+gegebenen A, B, C... oder «x, ß, Yo... gegeben
+fey; und. diefes MM fch finden, Diefes it nun Ge-
+genftand einer fecundären Aufgabe, worin allo ver-
+langt wird, aus den gegebenen 4, B, CC... oder =,
+B, Y... das II oder & fo zu finden , dafs den zwey
+Bedingungen O und R Genüge gefchehe.. Es fey die-
+fes beltimmte 77 gefunden ; und man (etze es m.
+
+6) Diefles m wird nun eine Grenze der mögli-
+chen Werthe von /M, nämlich ein Gröfstes oder
+Kleinftes feyn.. Um. zu en(fcheiden, welches von
+beiden? hat man von dem. componirten fecundären
+Problem die Determination zu machen, im dem
+Sinn „ dafs man unterfuche,, ob, wenn man {tatt des
+
+dem
+

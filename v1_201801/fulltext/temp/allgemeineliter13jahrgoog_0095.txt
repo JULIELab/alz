@@ -1,0 +1,118 @@
+171
+
+können. — Die Potenzen und Wurzelgrössen. Die-
+ser Abschnitt ist cben so cinfach, als streng mathe-
+matisch behandelt , namentlich, was die Potenzen mit
+negativen und Bruchexponenten anbelangt. Der Vf.
+sagt nämlich unter Anderem: „Hieraus folgt sogleich,
+dass umgekehrt das Abziehn einer Einheit vom Ex-
+ponenten die Wegnahme eines Factors, d. h. die Di-
+vision der Potenz durch den Grundfactor ausdrückt.
+Es führt aber zu dem gleichen Resultate, wenn wir,
+anstatt eine positive Einheit wegzunehmen, cine ne-
+gative Einheit hinzufügen , uud in so fern würde also
+eine negativo Einheit im Exponenten bedeuten, dass
+auch der Grundfactor in der seiner Natur entgegen-
+gesetzten Beschaffenheit, d.h. als Divisor gesetzt
+werden soll. Wenn wir diesen Begriff einer negativen
+Einheit im Exponenten festhalten, so folgt hieraus,
+
+ad .
+dass a?-1 — z oder a!— a ist. Der Exponent 1
+
+zählt den Grundfactor einmal, oder die erste Potenz
+ist der Grundfactor selbst, und daher pflegt man den
+Exponenten 1 nicht zu schreiben. Wenn wir aber zu
+dem Exponenten der ersten Poteuz noch eine nega-
+TC
+a)
+oder a° -— 1. Die Potenz mit dem Exponenten 0 hat
+daher immer die Bedeutung der Einheit. Bei der Bil-
+dung dieser Potenz haben sich die positive und die
+negative Einheit im Exponenten zu 0 aufgehoben, und
+eben so hcben sich Factor und Divisor zu 1 auf.
+Auch hat 0 beim Zusammenzälhılen von Einheiten zu
+einer Summe dieselbe Bedeutung, als 1 beim Zusam-
+mensetzen von Factoren zu einer Potenz, indem 0 die
+Summe nicht verändert, und 1 als Factor keinen Ein-
+fluss hat” u. s. w. — Die Potenzen positiver und
+negativer Wurzeln und die unmöglıchen Grössen. —
+Die Potenzen und Wurzeln vichheiliger Grössen, —
+Die arithmetischen Operationen mit zusammengesctz-
+ten Grössen von allen bisher untersuchten Formen,
+oder die sogenannte Buchstabenrechenkunst. — Das
+dekadische Zahlensystem. Die arithmetischen Ope-
+rationen mit dekadisch gebildeten Zahlen. Hier wird
+auch die Ausziehung der Quadrat- und Cubikwurzel
+abgehandelt. Die Erhebung zum Quadrat lehrt der
+Vf. auf folgende Weise: „Wir haben schon früher
+_ für die Quadrirung vieltheiliger Grössen die Formel
+(a+b+c+d etce.)* —— a? + 2a + 03
++2(a+06)c+ce®? + 2(4+0+c)d + d? etc.
+entwickelt, und diese kann auch hier angewendet
+werden, wenn wir die Grössen u, OÖ, c, d etc. als die
+auf einander folgenden Glieder einer Decimalzahl be-
+
+tive Einheit hinzufügen, so erhalten wir: a1—-1 —
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+
+172
+
+trachten. Besitzt alsdann das erste Glied a@ irgend
+eine beliebige positive oder negative Rangzahl n, und
+ist jedes folgende Glied um eine Einheit im Range
+niedriger als das vorhergehende, so hat «#2 die Rang-
+zahl 2», 2a6 die Rangzahl 2n—1, und 63 die
+Rangzahl 2» — 2. Es ist ferner 2 (a + d) ec in sei-
+nem letzten Gliede vom Range 2n — 3 und c? hat die
+Rangzahl 2n — 4. Auf diese Weise wird die letzte
+Ziffer jedes folgenden Gliedes des Quadrates um eine
+Einheit im Range niedriger, als die letzte Ziffer des
+unmittelbar vorhergehenden Gliedes, wobei die Qua-
+drate aller einzelnen Glieder der Wurzel gerade Rang-
+
+‚zahlen besitzen, während die doppelten Produkte der
+
+vorhergehenden Glieder in ein folgendes in ihrer letz-
+ten Ziffer von ungeradem Range siud” u.s. w. Die
+ganze Lehre ist sehr gut behandelt, nur hätte noch
+angegeben werden sollen, wie man entdecken könne,
+ob man etwa einen Theil der Wurzel zu klein ange-
+nommen habe. — Die Lehre von den Gleichungen. —
+Die Gleichungen des ersten Grades mit einer und mit
+mehreren unbekannten Grössen. Kinzelne Beispiele
+in benannten Zahlen wären wohl nicht überflüssig
+gewesen; doch sind die verschiedenen Formen, in
+welchen eine Gleichung vor ihrer Auflösung erschei-
+nen kann, vollständig aufgeführt. — Die Gleichun-
+gen des zweiten Grades. Interessant ist die Zer-
+legung der quadratischen Gleichungen in zwei Glei-
+chungen des ersten Grades als Factoren. Der Vf.
+giebt z. B. die unreine quadratische Gleichung Ar?
++ Bxr+C=0, und sagt dann so: „Die Lösung
+derselben kann auf verschiedenen Wegen vollzogen
+werden, am einfachsten dadurch, dass wir sie in eine
+reine quadratische Gleichung umwandeln. Zu diesem
+Behufe dividiren wir sie durch den Coefficienten A
+und bringen sie dadurch auf die Form:
+, B GC
+
+Alsdann substituiren wir für x eine andere unbekannte
+Grösse z, so dass
+
+S=3— BD ist, und erhalten dadurch:
+
+24
+B B3
+x: — z23 — a? + 1
+B GC B B? GC ,
+zrta=t+—7 3 — 5A + A und hieraus
+
+B C B? GC
+folgt: zx3 + zrItT = 2% ia tt 7x =.
+
+Diese Gleichung giebt sogleich:
+
+z=t ya 2)
+

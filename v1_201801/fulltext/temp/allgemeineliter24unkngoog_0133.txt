@@ -1,0 +1,156 @@
+.  gämmtlichen (?) in der Natur beobachteten
+
+251
+lung zusammengesetzter Gestalten: es ist- gezeigt
+
+worden, dafs jede von zwey Seitenflächen einer
+Gestalt gebildete Kante auf dem Normalkreise senk-
+
+_ recht steht , welcher durch die Träger dieser beiden
+
+Seitenflächen ‚gelegt ist; wenn in diesem Normal-
+kreise mehr als zwey Träger liegen, so werden die
+sämmtlichen von den getragenen Flächen unter sich
+gebildeten Kanten auf der Ebene desselben senk-
+recht, folglich parallel’ seyn müssen; sollten nun
+mehr als zwey Träger, welche aber Zu einer Gestalt
+desselben Systems und derselben Reihe gehören,
+d. h. welche aus denselben Elementen combinato-
+risch zusammengesetzt sind, in einer Ebene liegen,
+so mufs sich aus je zweyen der dritte durch eine
+‘ binäre Combination'zusammensetzen lassen.”
+
+Den Beweis dieses Satzes, welcher der Schlüs-
+sel zu der Aufgabe ist: das Verhältnifs der in den
+höhern Combinationen enthaltenen einfachen Gestal-
+ten anzugeben, überläfst der Vf. den Lesern, indem
+sich derselbe mit der ebengenannten Aufgabe‘ be-
+schäftigt, und dann 1) zur Berechnung der binären
+Träger, 2) der ternären und 8) zur Gröfsenentwik-
+kelung für die Gestalt des regelmäfsigen Systems,
+oder mit andern Worten, zu der Ableitung einiger
+‘ längst bekannten Relatiganen der ebenen und sphä-
+tischen Trigonometrie, so wie der Elementar - Ste-
+reometrie übergeht. Den Beschlufs dieses. Heftes
+bildet eine Hypothese, auf welche wir bald zurück-
+kommen werden. — .
+
+' Was sagt nun der Leser zu dieser gröfstentheils
+mit des Vfs eigenen Worten in nuce dargestellten
+physischen Krystallonomie? Nun, wir wollen hö-
+ren was die Vorrede sagt: „Die Entwickelung der
+ry-
+
+stallgestalten auf combinatorischem d. h. rein ma-
+thematischem(?) Wege, scheint mir an sich schon
+
+. ein Gegenstand von dem gröfsten Interesse zu seyn;
+wenn diese Entwickelung aber von dem Hervortre-
+ten einer neuen(??), bisher nicht bearbeiteten ma-
+thematischen Disciplin begleitet ist, welche durch
+eine rein innere Q Synthesis, und durch diese bedingte
+eigenthümliche Construction und eine ihr parallei
+ehende schematische Darstellung die Gestalten
+ervorruft und bestimmt, und ihren nahen Zusam-
+
+' menhang aufs klarste vor die Augen legt, so möchte
+dieses Interesse für den Mathematiker und Natur-
+forscher noch bedeutend gesteigert werden, — Es
+eröffnet sich ein neues Feld der geistigen Entwik-
+kelung, dessen Ausdehnung und Fruchtbarkeit sich
+noch nicht übersehen läfst, aber es berechtigt zu
+den bedeutendsten Erwartungen, dafs uns schon
+jetzt in einer bestimmten Gegend desselben die Bil-
+dungen des Geistes zugleich als Bildungen der Natur
+entgegentreten.... Die Ansprüche, welche in die-
+- ser Aussage liegen, sind allerdings von so aufseror-
+dentlicher Art, dafs nur.die Sache selbst sie zu recht-
+fertigen vermag. Aber eben diese ist es auch, durch
+welche ich mich verpflichtet hielt, sie, wiewohl
+mit einigem Widerstreben, in ihrer ganzen Schärfe
+auszusprechen.... In der Fluth von Schriften jeder
+
+> Ds
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z;
+
++
+=
+. 252
+
+Art, welche sich in unübersebbarer Menge täglich
+hervordrängen, wird selbst das wirklich Neue und
+Fördernde nur zu leicht übersehen, wenn es sich
+nicht keck(!) und schroff(!) hervordrängt und Sich
+geltend zu machen weifs.” ‘Kaum, möchte es n6thig
+seyn anzuführen, was mindestens jeder Mathema-
+tiker’aus der getreuen Darstellung des wesentlichen
+Inhalts vom vorliegenden- Werke längst ersehen
+haben wird, dafs dasselbe nämlich weiter nichts,
+als eine allgemeine und synthetische Andeutung des
+Problems der Elementar - Stereometrie phorono-
+misch und combinatorisch behandelt enthält, aber
+weit entfernt von einer mechanischen Stereometrie,
+d. i. von der Hervorbringung bestimmter Körper
+mittelst gegebener Kräfte sey. So weit Rec. zu ur-
+theilen vermag, hat die formelle Combinationsiehre
+durch die Darstellung des Vfs weder- an innerm
+Gehalte, noch an Anwendbarkeit das Mindeste ge-
+wonnen. Der Begriff der Verbindung des Ungleich-
+
+artigen ist ungenügend, weil man beym Combinirea
+
+mehr darauf sieht, Ungleichartiges im Te,
+durch Verknüpfung irgend gegebener Bestand
+hervorzubringen. ıeser Hinsicht ist die formeia
+
+Combinationslehre nur ein sinnliches Hülfsmittel
+da, wo die tiefere Einsicht in den Bau der Formeu
+mangelt. Hat man z.B. eine allgemeine Gleichung
+zwischen den sechs Bestandtheilen eines ebenen
+oder sphärischen Dreyecks, so lassen sich daraus,
+durch blofse Specialisirung, die Fälle hervorheben;
+in welchen aus drey Stücken ein viertes bestimmt
+wird. Eben so ist es mit der allgemeinen Gleichung
+eines von beliebigen Ebenen begrenzten Körpers,
+Die Combination der Bewegungen, nach dem‘ Lehr—-
+satze der Diagonale der Kräfte, ist ein Gegenstand,
+
+der nur in der Mechanik Bedeutung hat, und die
+
+nach dem Dalembert’schen Princip und durch dia
+
+Methode der derivirten Functionen zu einer sehr
+
+bekannten analytischen Aufgabe wird. Allein der
+Vf. erhebt sich nicht zu. diesem Standpunkte, und
+wir ersehen durchaus keine Legitimation der Auf-
+schrift. „physische Krystälonomie”, wenn wir sie
+nicht etwa in der S. 161 anhebenden Hypothese
+finden, zu welcher wir uns nun wenden wollen.
+‘Die Hervorhebung der Hauptmomente wird auch
+hier dem kundigen Leser genügen: „Die Krystall-
+bildung mufs von irgend einem Punkte beginnen.
+Soll ein Körper zu Stande kommen, so müssen we-
+nigstens nach drey Richtungen Kräfte thätig seyn,
+da der Raum drey Dimensionen hat. Die bildenden
+Kräfte müssen aber als auf den Flächen senkrecht
+betrachtet werden, Nas altmählige Vortreten der
+‚Flächen geschieht nun dadurch, dafs sich immer
+neue, unmefsbar dünne Schichten auflegen. Dieses
+
+kann man sich aber nicht wohl anders denken, als
+
+‚wenn man annimmt, dafs die bildende Kraft nicht
+stetig, sondern in unendlich kleinen Zwischenräu-
+men vorschreite, dafs ein Wechsel von Ausdehn
+
+und Zusammenziehung Statt finde, und dafs ein je-
+der solcher‘ Pulsschlag eine neue Fläche auf dena
+
+Krystall hinauflegt. — Denkt man sich. nun 010505 /
+
+{
+|
+{
+

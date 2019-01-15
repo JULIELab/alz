@@ -1,0 +1,109 @@
+169
+
+—_ 92 —
+
+170
+
+ERGÄNZUNGSBLÄTTER
+
+Z U R
+
+ALLGEMEINEN LITERATUR-ZEITUNG
+
+.
+
+ 
+
+März 1840.
+
+ 
+
+MATHEMATIK.
+
+ZürRICH, b. Schulthess:; Lehrbuch der reinen Ma-
+thematik, von Dr. C. N. Gräffe, Professor der
+Mathematik. Erster Theil, die Elemente der
+Arithmetik und Algebra und der ebenen Geome-
+trie enthaltend. 1836. IV u. 365 S. gr. 8.
+(1 Rthlir. 21 gGr.)
+
+er Vf. scheint vorzugsweise für polytechnische
+Anstalten ‚geschrieben zu haben, weshalb er auch
+alles das beseitigen zu müssen glaubte, was nur für
+die Theorie Interesse habe.
+nem solchen Falle, den Anforderungen strenger Wis-
+senschaftlichkeit denuoch ein Genüge zu leisten, und
+nur gar zu häufig wird die mathematische Strenge
+dem wahren oder vermeintlichen praktischen Nutzen
+zum Opfer gebracht. Desto mehr Anerkennung ver-
+dient daher ein Werk, wie das vorliegende, welches
+mit echt wissenschaftlichem Geiste abgefasst, den-
+noch Alles vermeidet, was den Lernenden nicht auf
+geradem Wege weiter zu fördern im Stande ist,
+4Wollten wir ja dem Vf. einen Vorwurf machen, so
+wäre es der, dass er in dem Bestreben, scharf, bün-
+dig und genau sich auszudrücken, mitunter wohl et-
+was undeutlich, oder doch wenigstens schwerer ver-
+ständlich wird, als es bei einem Vf. eines Lehrbuches
+eigentlich der Fall seyn, dürfte. Zugleich aber ist der
+Weg, den der Vf. eingeschlagen hat, sowohl in der
+Arithmetik , wie in der Geometrie, ein von den ge-
+wöhnlichen Wegen so abweichender, dass er unsere
+ganze Aufmerksamkeit auf sich gezogen hat. Die
+erste Abtheilung enthält die Arithmetik und Algebra,
+mit folgenden Abschnitten. KEinleitung. Allgemeine
+Bezeichnung der Zahlen. Die arithmetischen Opera-
+tionen. Die positiven und negativen Zahlen. Die
+arithmetischen Operationen mit zusammengesetzten
+Zahlen oder Grössen. Recht gut ausgeführt. Die
+Rechnungen mit Brüchen. Die Lehre von den Ver-
+hältnissen und Proportionen. Um diese Lehre später
+Ergänz. Bl. zur 4. L. Z. 1840.
+
+Selten gelingt es in ei- 7
+
+weiter anwenden zu können, macht der Vf. einen
+sonst nicht gewöhnlichen Unterschied zwischen Zah-
+lenproportionen und Grössenproportionen, indem er
+sagt: „Wir haben bisher die Grössen durch Zahlen
+repräsentirt und aus diesen Zahlen die Verhältnisse
+gebildet, die wir in so fern Zahlenverhältnisse nen-
+nen wollen. Wenn wir aber unmittelbar die Grössen
+selbst in dieser Bedeutung mit einander vergleichen,
+so erscheint die eine als das Maass und die andere als
+das Auszumessende, Nennen wir jenes D und dieses
+C, so können wir diese Beziehung ebenfalls mit C: D
+bezeichnen, und erhalten dadurch ein Grössenverhält-
+niss. Wir wollen annehmen, dass bei dieser Ver-
+gleichung irgend eine bestimmte Zahl n hervorgeht,
+die ausdrückt, wie aus der Grösse D die Grösse €
+gebildet werden kann; wenn alsdann zwei andere
+Grössen E und F ein Grössenverhältniss bilden, das
+dieselbe Verhältnisszahl n giebt, so können wir die-
+ses durch C: D— E: F bezeichnen, und wir erhal-
+ten dadurch eine Grössenproportion, während die
+vorhin betrachteten Proportionen Zahlenproportionen
+heissen. Denken wir uns, dass die Grösse D in m
+unter sich gleiche Theile getheilt, und dass mit einem
+dieser Theile 4, als Kinheit, die andere C ausgemes-
+
+sen wird, so erhalten wir die Verhältnisszahl mn,
+
+und wir können daher C durch mnA repräsentiren,
+während D durch m 4 ausgedrückt wird. Theilen wir
+auf dieselbe Weise die Grösse F in p gleiche Theile
+und messen Wir mit einem derselben, den wir mit
+
+bezeichnen wollen, die Grösse E aus, so erhalten wir
+die Zahl pn, und wir können daher E durch pnB und
+F durch pB ausdrücken. Da aber mn4 : mA — n und
+pnB:pB=—n, so ist auch mnA4: mA — pnB: pB.
+Wenn daher die Glieder einer Grössenproportion durch
+Zahlen ausgedrückt werden, 80 bilden auch diese
+Zahlen in der gleichen Ordnung eine Zahlenpropor-
+tion.” Dass diese Deduction scharfsinnig ist, wird
+Niemand leugnen, wir glauben aber, dass man auf
+einfachere Weise zu demselben Ziele hätte kommen
+
+Y
+

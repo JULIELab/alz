@@ -1,0 +1,149 @@
+3
+
+\LLGEME
+
+Num. 45.
+
+354
+
+ 
+
+INE LITERATUR - ZEITUNG
+
+ 
+
+Pad
+
+‘Freytags, den ı2. Februar 1808.“
+
+ 
+
+WISSENSCHAFTLICHE WERKE
+
+” MATHEMATIK,
+
+Drxsvarn, in d. Walther. Hofbuchh.: Leongllis
+
+‘ * Sogarithmifche Supplemente, als ein Beytrag, Män-
+el der gewöhnlichen Logarithmentafeln zu er-
+
+zen. us dem Franz. nebft einigen Zufätzen
+
+von Gottfried Wilkelm Leonhardi, Souslieutenant
+heym kurfürftl, fächfGfchen Feldartilleriecorps.
+
+1806. 885. 8. (1 gr.) .
+
+Die kleine Schrift enthält zwey von einander un-
+abhängige Abhandlungen , die indeffen in fo fern
+pissen gemeinichaftlichen Zweck haben, als beide et-
+was zu leiften beltimmt‘ find, was fich mit den ge-
+wöhnlichen logarithmifchen Tafeln ohne anderwei-
+tige Hülfsmittel entweder nicht (o vollkommen, oder
+micht fo bequem erreichen läfst. Die eine foll näm-
+lich dazu dienen, vermittelft einiger fehr gefchmeidi-
+er, hier zugleich mitgelieferter, Hülfstafeln, zu j}e-
+er gegebenen Zahl ohne zu grofse Mühe den Loga-
+rithmen auf mehrere Decimalen, als die gewöhnli-
+oghen Tafeln verftatten, zu berechnen. Die andere
+antwickelt die Idee einer befondern Tafel, vermittelft
+welcher die Logarithmen von Summen oder Differen-
+zen zweyer blols durch ihre Logarithmen gegebenen
+Gröfsen durch eine einzige Operation mit einer Be-
+quemlichkeit foll beftimmt werden können, wie ße
+bey andetn Verfahrungsarten nicht Statt findet, und
+zwar, des Vfs. Plane nach, gleichfalls mit einer un-
+wöhnlich grofsen Anzahl von Decimalen (14); von
+iefer Tafel fr jedoch nur erft eine Probe beygefügt.
+Da das Numerifche der Logärithmen und jede fch
+darauf beziehende Erleichterung jedem, der viel mit
+Zahlenrechsungen zu thun hat,- von grofser Wichtig-
+keit ift: fo wird es ich wohl der Mühe verlohnen,
+diefen Unterfuchungen eine nicht blofs oberflächliche
+Anfmerkfamkeit zu widmen , um belonders den prak-
+chen Werth der davon zu hoffenden Vortheile wür-
+
+en zu können.
+
+Der Vf. hatte feine Schrift dem franzößfchen Na-
+'tionalinftitnte zur Beurtheilung vorgelegt; der Be-
+richt, welchen Delambre darüber abgeftattet und wel-
+hen das Inftitut gebilligt hat, ilt der Schrift feibft
+ügt. Leonelli ift damit nicht ganz zufrieden ge-
+en,-und äufsert in feinen gleichfalls angehängten
+egenbemerkungen feine Empfndlichkeit einige Mat
+it vieler Lebhaftigkeit. ir werden nicht umhin
+n, auch Delambre’s Bericht und Leonellös Be-
+
+4. L. Z. x808.. Erfier Band. .
+
+    
+  
+  
+
+a dd
+
+antwortung mit zu berühren, da beide nun eines
+Theil des Buchs felbft ausmachen.
+
+Bey der in der erßen Abtheilung vorgetragenen
+Methode, den Logarithmen jeder vorgegebenen Grö-
+{se A zu berechnen, Heat die Hauptidee zum Grunde
+dafs diele Gröfse in Sn roduct von der Form _
+
+104 7(1++ 5 1 +5 i5C) (14: dd)...
+DA o da{s a, A gen an-
+ze Zahlen bedeuten. Man fieht erftlich, dafs die Lo-
+garithmen diefer einzelnen Factoren eine abnehmende
+
+eihe bilden werden, von denen man fich mit einer
+
+ewiffen gröfsern. oder kleinern Zahl begnügen kann,
+je nachdem man den Logarithmen des Pro ucts mit
+mehr oder weniger Decimalfiguren verlangt; zwey-
+tens dafs man alle jene einzelnen Logarithmen fogleich
+in einer ein für allemal berechneten Tafel vorräthig
+haben kann. Eine folche Tafel liefert Leonelli hier
+zuerft für die Briggifchen Logarithmen auf 20 Deeci-
+malftellen. Diefe enthält zuerit die Logarithmen der
+ganzen Zahlen von 2 bis 9; fodann die Logarithmen .
+
+ür alle ı ++, 6, d.i. für I, 1;-z,2; 1, 3 bis 1, 9;
+nachher für alle 1 +>z336 u. (. w. Awufser den 8 gan-
+zen Zahlen kommen alfo, für jede Ordnung der ge-
+brochnen, 9 Logarithmen; weiter als bis zur ııten -
+Ordnung brauchte aber die Tafel nicht ausgedehnt
+zu werden, da bey der zwölften die Logarithmen mit
+den Logarithmen der eilften einerley bedeutende Zif-
+fern haben, und fo bey den folgenden. Auf diefe
+Weife umfafst die Tafel nur 107 Logarithmen, wel-
+che hinreichen, um den Logarithinen jedes Products
+der obigen Form auf 18 oder 19 Ziffern durch blofse
+Addition zu berechnen; die 2ofte Stelle bleibt dabey
+offenbar immer (chwankend. Für die hyperbolifchen
+Logarithmen hat Leonelli eine ähnliche Tafel von dem-
+felben Umfange beygefügt.
+
+Wie fich übrigens jede Zahl A unter obige Form
+bringen laffe, ‘wird man leicht überfehen; & und a er-
+geben fich fogleich von felbft; macht man dann
+A= ı10uaB: {oift b die. Ziffer in der erften Decimal-
+ftelle von B; fetzt man ferner B=(1+46)C, fo ift
+c die Ziffer in der zweyten Decimalitelle von C u. f.w.
+Bey näherer Unterfuchung findet fich, dafs man noch.
+
+bequemer 4, ohne deffen Quotienten wirklich zu be-
+
+rechnen, unter die obige Form bringen kann, inlem
+
+man fuccefbve 10% 4 Bi(1+7:736)B=Cu.L w.
+macht, wo man alfo Baus A, Caus B u. f. w. durch
+Multiplication erhält, indem bey der erftern Methode
+Divifon nöthig ift., Zeonelli hat indeffen den Galcul
+
+———
+
+ 
+
+a
+

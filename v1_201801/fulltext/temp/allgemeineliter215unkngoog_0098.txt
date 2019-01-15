@@ -1,0 +1,155 @@
+Be Num. - 23.
+ihe endigen, einen andern.Gang genommen hat, als
+njenigen, der für die Zahlen ohne Reihe gebräuch-
+h ift, wie man es in der Folge beweifen wird: hier
+ird man fich begnügen, ein Beyfpiel des Gefagten
+geben, in den vier folgenden Zahlen, die in geo-
+hetrifcher Proportion ftehen, mit der Anmerkung,
+fs man durch den Buchftaben s, eine unendliche
+
+eihe der Ziffer, worauf er gefltellt ift, verfteht.
+
+9,16" : 4,583° :: 256° : nm 283°
+
+[m diefem Beyfpiele findet man mehrere Multiplica-
+tionen und Divikonen, um fch des vorher Gefagten
+zu überzeugen. So wie auch in der folgenden Pro-
+
+ortion: 100 : ©9=11111”* : .ı, welcherdrittes
+
+lied kein idealifcher, aber der wahre, durch die Be-
+rechnung hervorgebrachte, Werth des Quadrats der
+Hypothenufe des Dreyecks cDr ift; wie es aus der
+geometrilchen Figur, die dem zweyten Theile bey-
+gefügt ift, einleuchten wird.” Wir haben diefe gan-
+ze Stelle mit diplömatifcher Genauigkeit abgefchrie-
+ben, um von des Vfs. Vortrag fowohl, als von fei-
+ner Schreibart , ein Beyfpiel zu geben: denn unge-
+fähr fo ift das ganze Buch gefchrieben. Um clie, au-
+fser den arithmetilchen und. geometrifchen Progref-
+£onen noch fonft exiftirenden, welche dem Vf. zu
+
+fehr vernachläfsigt zu eyn fcheinen, wieder empor
+
+zu bringen, will er ihren Gliederreihen nach Pas-
+cul’s Beyfpiel die dreyeckige Form geben, und fie
+mit dem Namen additionelle Dreyecke belegen, weil
+fıe durch die blofse Addition gebildet werden. Pas-
+cal, der nur ein einziges folches Dreyeck gemacht
+hat, fing es von unten an; der Vf. wollte es von oben
+anfangen, wodurch die in Pascals Dreyecke fenk-
+recht ftehenden Zahlen beym Vf. die horizontale Stel-
+Jung hekommen. Er wollte ihnen allen eine Bufis
+und Elementaren geben. Unter Bafıs verfteht er die
+Summe der Elementaren; und die gehörige Verthei-
+Jung der Bafıs giebt die Elementaren. Das erlte ad-
+ditionelle Dreyeck enthält in feinen Horizontalrei-
+hen, wie Pascal fchon bemerkte, die Co&@ffcienten
+welche den Gliedern der Potenzen, wie fie der binos
+mifche Lehrfatz giebt, nach und nach zukommen.
+. Der Vf. ftellt es unter der Formel dar: ”
+
+' Glied =» + d, d. h. jedes Glied ift gleich dem
+vorhergehenden Verticalgliede, mehr dem (links fte-
+henden) Diagonalgliede. Sein Anfang ift z. B.
+
+/ I
+Q. I.
+©. J. T,.
+O. I. 2. Te.
+©. 1. 3. 3. I.
+O. I. 4: 6. 4. I.
+S
+
+. 5. 10. 10. 5. T. U. f. w., wo fich befonders
+auch die Reihe der natürlichen Zahlen in der dritten
+Verticalreihe auszeichnet: denn in diefer Reihe der
+natürlichen Zahlen foll man die Progreffonen verei-
+nigt fehen, ohne die Verhältniffe, welche die Glieder
+unter ich haben, zu unterbrechen. Da nun diefes
+
+Dreyeck auch dazu dient, um die Anzahl der Gattun-
+
+©
+
+FEBRUAR 18228.
+
+„Geometrie. In
+
+en von Combinationen zu finden, fo hält es der Vfı
+ür nirtzlich, Gch von der Richtigkeit jedes Gliedes
+zu verfchern, nämlich fo, dafs man nicht fürchten
+dürfte, Additionsfehler begangen zu haben; und
+defshalb müffe man Formeln finden , die jedes Glied
+ohne Rückücht auf die vorhergehenden beftimmen;
+und die der oben gegebenen Formel, fo zu fagen, zur
+Controle dienten. Diefe Beftimmung veranlafst die
+Bildung von des Vfs. Elementar-Dreyvecken, deren
+zweytes die Elementaren der Coefficienten angiebt,
+weiche den verfchiedenen Gliedern diefer Formeln
+zugehören. Diele Dreyecke folgen nun in Extenfo
+
+und es ift ihnen jedesmal eine ähnliche Formel vorge- -
+
+fetzt, nach welcher jedes ihrer Glieder zu berechnen”
+ift. Es folgen hierauf die Dreyecke der erften, zwey-
+ten, dritten und vierten Potenzen, die fich auf die
+nämliche Art, wie das additionelle Dreyeck, bilden:
+Zweytes Dreyeck der Elementaren. Es hat diefes
+die nämliche Bafs, wie das erfte, nämlich o, r verti-
+cal. geftellt. Dreyecke der Coeffcienten. Drittes
+und viertes Elementar-Dreyeck. Von den Formu-
+lar-Dreyecken, und zwar vorerft von dem, wel-
+ches die Glieder des erften additionellen Dreyecks
+beftimmt. Auf einer befondern Tafel, die Bil-
+dung des allgemeinen Formular-Dreyecks und in
+der Folge die Anwendung deflelben auf alle addi-
+
+tionellen Dreyecke ins Unendliche, die zwey le ,
+on .
+
+mentaren, deren er{te die Einheit ift, haben.
+den befondern Formular - Dreyecken, welche die cor-
+refpondirenden additionellen Dreyecke beftimmen,
+gelegentlich auch von dem Elementar- Dreyecke der
+rgänzungen. . Auch ein Differential-Dreyeck, wo-
+von der Vf. im geometrifchen Theile bey Rechnun-
+en mit unendlichen Deecimalbrüchen befondern Ge-
+Brauch macht. Allgemeine Formel für alle befon-
+dere Formular-Dreyecke ins Unendliche. Da die
+Hervorbringung dieler Dreyecke nur mittelft der Ele-
+mente und der Formeln bewirkt werden konnte, fo
+rechtfertigt der Vf. dadurch die Ueberfehrift, die er
+diefem Theile gegeben hat. Zweyter Theil. Von der
+der Einleitung hierzu fagt‘ der Vf.:
+
+„Wenn die Berechnung, wie ich es im erlten Theile
+ezeigt habe, arithmetifche Refultate, mittelft der
+Dreyecke, der Elemente und einer Formel hervor-
+ebracht hat, fo kann man daraus (chliefsen, dafs fie
+eine andern Mittel in der Geometrie, zu welcher
+
+‘die Dreyecke vorzüglich gehören, gebrauchen werde,
+
+Und wenn: ich gezeigt habe, wie grofs der Einflufs
+der Elemente in den blofs arithmetifchen Operationen
+ift, fo werde ich trachten zu zeigen, dafs diefer Ein-
+flufs nicht weniger grofs inden geometrifchen Opera-
+tionen fey, und dafs, weil man ihn mifskannte, man
+
+öfters die wahren Refultate verfehlte und für Urgrun- -
+
+fätze nalım , was nur abgeleitete Grundfätze waren.”
+Der Vf. betrachtet nun zuförderft die rechtwinkli-
+chen Dreyecke, deren Seiten proportionirt find. Die
+Hauptfigur womit fich der Vf. in diefenı ganzen Ab-
+fchitte befchäfftigt, ift ein Kreis, in welchen 'er an-
+fser Hiefem Dreyeck noch eine Menge anderer Linien
+einfchrieb, nachdem es die Refultate feiner Rech-
+
+nun-
+
+1823
+
+ 
+

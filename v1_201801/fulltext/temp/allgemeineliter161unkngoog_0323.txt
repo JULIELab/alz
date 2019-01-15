@@ -1,0 +1,151 @@
+608.
+
+Mechanık oder Phoronomie jist eigentlich weiter
+nichts, 5 als jdie vollendete {mathematische Disci-
+
+lin. Es ist also wohl keinem Zweifel unterwor-
+en, dafs {der eigentliche Mechaniker durch Ma-
+thematik genugsam!! vorbereitet seyn müsse, und
+es von dem Vf. nicht zu erwarten war, dafs der-
+selbe zu seinem Werke einen mathematischen Vor-
+bericht sollte schreiben, welcher, um zu genügen,
+
+. selbst‘ zu Folianten anwachsen mufste; dagegen.
+
+hat uns derselbe überall auf den Unterschied zwi-
+schen abstracter und materieller Bewegung auf-
+
+merksam zu machen, und alle diejenigen Formeln -
+
+selbst abzuleiten, welche aus dem materiellen Ver-
+hältpifs entnommen sind, oder sich auf Erfahrun-
+. gen beziehen.
+
+| Um aber nicht blofs dem Mathematiker, son-
+dern auch. dem eigentlichen, nur einigermafsen
+
+‚ > vorbereiteten Techniker zugänglich zu werden,
+
+hat der Vf. fast überall die Ableitungen von Grund
+aus beygefügt, und findet sich mindestens in die-
+‚. sen ersten Heften nichts, was nicht mit den ge-
+wöhnlichen Vorkenntnissen aus der Geometrie und
+Algebra verstanden werden könnte — und die. be-
+sondere Ausführlichkeit der sebr gelungenen Ku-
+fer, macht das Werk selbst für den gebildeten
+
+andwerker unbedingt brauchbar. Was den Rec,
+und‘ gewifs mehrere mit ihm gleichdenkende be-
+trifft ,., so wünschte er, dafs der Vf. bey den
+folgenden Heften den höheru Calcul nicht mehr
+schonen möchte, als es gerade erfordert wird,
+sich wenig in blofs mathematische Erörterungen,
+aber um So tiefer in das rein Technische theore-
+tisirend einzulassen, Kehren wir nun zu dem
+' 1steo Kapitel zurück, welches sich mit den t{hie-
+rischen Kräften und den allgemeinen Regeln zu
+ihrer Verwendung bey Arbeiten aus freyer Hand
+_ beschäftigt. Hinsichtlich des Mafses der thieri-
+schen Kräfte, so möchten diese wohl nur auf eine
+sehr unvollkommne und indirecte Weise durch
+die Gewichte zu bezeichnen seyn, welche durch
+sie können gehoben werden, Wenn es also nicht
+erlaubt ist, die thierischen Körper geradezu als
+mechanische Vorkehrungen zu betrachten, so wird
+auch auf sie das mechanische Moment wenig an-
+wendbar seyn, und der Vf. that also sehr wohl,
+indem ‚er das durch die Bernoulli zuerst gegebene,
+und nachmals von So vielen Schriftstellern nach-
+gesprochene Gesetz erfahrungsmäfsig modifhcirte ;
+nur will uns die allgemeine Gültigkeit der aufge-
+
+stellten Formel X =. (2 — - ) , worin X die ausü-
+
+bende, & die mittlere Kraft des Arbeiters, v die
+
+dem K und c die dem & entsprechende Geschwin- .
+
+iokeit bedeutet, . nicht recht einleuchten: denn
+esetzt , wir wollten auch zugeben, dafs für v=2c,
+=0 würde, so müfste dennoch für v —o, k=]K
+seyn, welches wobl nur selten statt finden mag.
+
+“ALLG. LITERATUR. - ZEITUNG
+auf sie Janwendbar, jund die sogenannte höhere
+
+| 604
+Wo sich aber nichts Genaues feststellen Jäfst , mufs
+
+man mit dem Ungefähr zufrieden seynt, und nach
+
+dieser Regel ist dasjenige, was der‘ Vf. über die
+Kräfte der Menschen und Thiere, insbesondere der
+Pferde, und später über das Arbeiten ohne Ma-
+schinen Sagt, zu beurtheilen. Es ist eime Durch-
+schnitts- und Wahrscheinlichkeits Rechnung, wor*-
+auf es, nebst richtigen Erfahrungen, bey derglei-
+chen Betrachtungen vorzüglich ankommt, und der
+Vf. hat sich auch hier das Verdienst erworben,‘
+alles was in technischen Journalen und Werkbü-
+chern weitverbreitet angetroffen wird,. mit Um-
+sicht gesammelt, genau geprüft und systematisch
+angeordnet -zu haben; nur glauben wir uns der
+Bemerkung nicht enthalten zu dürfen, dafs wohl
+dieselben Resultate mit einem geringern Aufwande
+an Calcal hätten gewonnen werden können, und
+
+'es sich (des leidigen Mifsbrauchs willen) ein Je-
+
+der, um Argwohn oder gar Geringschätzung zu
+verhüten, in unsren Tagen zur Regel machen soll-
+te, nur da und dann zu rechnen, wo Grund zum
+Rechnen ist, uud die Rechnung nicht vermieden
+werden kann. ,
+
+Im zweyten Kapitel ist von der Statik und
+
+‚der vortheilhaftesten Verwendung der thierischen
+
+Kräfte bey einfachen‘ Maschinen die Rede. Das
+Gesetz des Hebels ist $ 55 nicht strenge erwie-
+sen: denn obwohl der Vf. dasselbe vom materiel- -
+Jen Hebel ableitet, und es bey diesem an sich be-
+greiflich ist, wie irgend ein beliebiges Stück .dem
+
+übrigen Prisma das Glejchgewicht hält, so lange
+d&r Hebel in seiner Mitte unterstützt ist, so‘ Folgt
+doch keinesweges, wie dieses Gleichgewicht atıc
+
+dann noch bestehn müsse, nachdem man die Ge-
+wichte jener Stücke wirklich in ihre Schwerpunkte
+verpflanzt. Bündiger, meinen wir, wäre es gewe-
+
+/ sen, wenn der Vf. das mechanische Moment als
+
+Grundsatz an die Spitze dieses Abschnitts gestellt
+hätte, weil doch ein Jeder sogleich begreift, dafs
+der Widerstand oder die Last = dem Produkte
+der Masse in ihre Geschwindigkeit seyn müsse;
+nun verhalten sich bey einem um den gemeinsa-
+men Schwerpunkt gedrehten Hebel die Geschwin-
+digkeiten der Endpunkte umgekehrt wie ihre Ent-
+fernungen vom Schwerpunkt u. s, f. Aus dieser
+Betrachtungsweise geht dann zugleich hervor, wes-
+halb ein solcher Hebel in allen Lagen gegen den
+Horizont im Gleichgewicht bleibt; was aber die
+Mechanik ' vorzüglich zu berücksichtigen hat, ist
+die Form der Schwerkraft und die Materialität
+
+der Hebel. Ohne also auf Cohäsion, Elasticität, .
+
+Biegsamkeit und Torsion Rücksicht zu nehmen,
+bleibt die Untersuchung des Hebels und die Auf-
+suchung der Schwerpunkte eine rein mathemati-
+sche Speculation. — Der Vf. hat es indessen vor-
+gezogen, die abstrakten Sätze, von denen er -
+ter Gebrauch zu machen beabsichtigt, zunächst,
+wenn.auch nicht in aller Strenge, doch hinrei-
+chend deutlich , abzuleiten, sie dans erst anf die
+
+e-
+

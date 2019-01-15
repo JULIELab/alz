@@ -1,0 +1,146 @@
+611
+
+- würde man von einem Architekten sagen, der be-
+hauptete: bauen heifst, Steine, Holz und Mörtel
+
+unter einander verbinden? Und dennoch ist hier‘
+
+nicht einmal von ‚einer Metamorphose die Rede.
+MWird in dem Satze 4+3= 7, die Zahl 7 aus den
+Zahlen 4 und 8 gebildet” Quod non, das soll man
+wohl lassen, so wenig als man aus + 1, — 1 oder
+S—1 zu bilden vermag. Der Act des Zählens er-
+kennt in dem Quantum von sieben Einheiten, unter
+andern, als erschöpfende Bestandtheile die 4 und
+die 8, aber alle drey Zahlen sind gleichzeitig vor-
+handen. Eben so ist in ‚einer algebraischen Glei-
+chung das Unbekannte mit dem Bekannten zugleich
+gegeben, und jenes wird durch dieses in der Auflö -
+sung nicht gebildet, sondern nur determinirt; wie
+könnten sonst verschiedene Wurzeln der Aufgabe
+Genüge leisten? Was heifst nun Rechnen? —
+Entweder die Einheit oder die Vielheit einer oder
+mehrerer Gröfsen finden. Der Grund, wefshalb
+man sich mit dieser Untersuchung beschäftigt, liegt
+in der Idee der Gröfse, als Gegenstand der Mathe-
+matik. Wie sich aus dieser Definition — wenn man
+” einmal definiren will — auf die vier Species mit
+der Bruchrechnung, und dann die Potenz-, Wur-
+zel- und Logarithmen - Rechnung, ja selbst die
+.Progressionen und Reihen erzeugen und logisch be-
+gründen lassen, darf hier nicht weiter ausgeführt
+werden. .
+
+Was nun weiter die allgemeine Mathematik
+des-Vfs besonders betrifft, so erkennen wir das in
+6.91 bis 42 Gesagte nicht für Lehr-, sondern für
+Grundsätze an; denn es läfst sich z. B. gar nicht er-
+
+weisen, d. i. auf frühere Gründe zurückführen, .
+
+warum zwey Gröfsen einander gleich seyn müssen,
+wenn für eine jede ein und dieselbe dritte substituirt
+werden kann. Dergleichen logische Gedankenspiele
+erinnern an }WolfF’s Elemente. Der Lehrsatz von
+6.47 ist hingegen nicht wohl verständlich, er heifst:
+„Zu jedem Nenner sind zwey, nur um Eins ver-
+schiedene Zähler möglich, welche machen, dafs
+zwischen den beiden Brüchen eine gegebene irra-
+tionale Zahl enthalten seyn mufs? je kann hier
+
+überhaupt von Irrational - Zahlen die Rede seyn‘), da,
+
+noch kein Wort vom Wurzelausziehn gesagt wor-
+den? Ist nicht, wenn man z.B. 3} und 3 als Gren-
+
+1+i
+
+5
+
+halten? Bey der Lehre von der Addition und Sub-
+traction, wollen wir nur bemerken, dafs auch hier
+manche Lehrsätze nicht den Namen verdienen, und
+manche Beweise unnöthig weitläufig und dennoch
+nicht ganz bündig und überzeugend geführt sind,
+Dieses gilt namentlich $. 81, von der Subtraction
+einer aus positiven und negativen Theilen zusam-
+mengesetzten Gröfse. Will man hier den Satz des
+zureichenden Grundes anwenden, so hat man so-
+. gleich aus A— (B—D)=x, 4=x+B-—D, also
+A+D-—B=xx, in welcher Ableitung man selbst
+B=0 setzen kann, um hierdurch auf den Begriff
+
+zen betrachten will, dazwischen u. s. f. ent-
+
+ALLG. LITERATUR - ZEITUNG
+
+. tung werthes beygebracht werden.
+
+612
+
+des an sich Negativen zu ‚Felangen. Bey der Mul-
+tiplication gedachte der Vf. wahrscheinlich die-in >
+der Vorrede namhaft gemachte gröfste Strenge ein-
+zuführen, indem derselbe den Beweis der Sätze
+a.1= a und a.0= o durch eine Art von constructi-
+vem Verhalten zwischen den Factoren erzwingt,
+wie dieses in ähnlicher Weise bekanntlich bereits
+vor mehreren Jahren versucht worden ist. -Wollte
+man nun auch zugeben, es genügte die Erklärung
+nicht: eine Gröfse einmal nehmen, heifst sie‘ bey-
+behalten wie sie ist, hingegen heifst mit o multipfli-
+ciren, die Gröfse gar kein mal nehmen, also über-
+haupt nicht haben; und man könnte den Begriff der
+
+Multiplication eigentlicher constituiren, so dürfte
+doch der Vf. keinen Anspruch auf diese Verfeine-
+rung der Methode machen, weil derselbe $. 100 den
+Satz, dafs 4.B= B..A4 durch vier schwerfällige Ab-
+theilungen nicht beweiset, sondern höchstens plau-
+sibel macht. Eben hier war eine Construction der -
+Einheit durch die Vielheit und mittelst derselben
+eine Reduction auf das Quantum des durch die Fa-
+ctoren angedeuteten Produkts anwendbar; demn
+setzt man A.B= A+ 4+ 4+... bis der Index
+auf B führt, und substituirt nun für jedes 4 die
+entsprechende Vielheit, so wird man unbezweifelt *
+die Einheit B, 4 mal erhalten. Um der sinnlichen
+Vorstellung zu genügen, kann man die Vielheiten
+von 4 und B, So als die Seiten eines Rechteckes
+verbunden sind, untereinander schreiben.
+
+‘Der Beweis, welchen der Vf. für die Multipli-
+cation ‚positiver und negativer Factoren giebt, ‘ist
+derjenige, welcher, wie Rec. zuversichtlich glaubt,
+von den meisten Mathematikern als‘der natürlichste
+und angemessenste erachtet und angewandt werden
+wird, nämlich die Regel, welche auf formal logi-
+schem Wege aus der Multiplication von (4—
+mit (C—D) für die einzelnen Partialproducte folgt.
+Setzt man in ‚dem Resultate A=o und C=o, So
+ergiebt sich das bekannte Paradoxon der Bedeutung
+und-dem Ursprunge nach. Bey der Division als
+Umkehrung der Multiplication, konnte begreiflich
+nichts neues und erhebliches, also auch der Beach-
+n. Das Kapitel
+von der Theilbarkeit der Zahlen gehört nicht zum .
+Begriffe der allgemeinen Mathematik, sondern zur
+speciellen Arithmetik, defswegen wir dasselbe hier
+ganz übergehn. Die Lehre von den Brüchen, so wie
+sie hier steht, würde sich gleichfalls besser in einem
+Rechenbuche, als in einer allgemeinen Mathematik
+ausnehmen, die ja eben beabsichtigt, für die be-
+kannten Regeln zureichende Gründe in logischer
+Folge aufzustellen. Die Kettenbrüche endlich sind
+gar kein Gegenstand, der hier hätte in Erwägung
+genommen werden sollen, denn sie gehören zur
+
+öhern Arithmetik. Wollte man in der Zahlenlehre
+etwas Brauchbares über die näherungsweise Abkür-
+zung vielzifferiger Brüche aufstellen, so bedurfte
+man hierzu wahrlich eines so grofsen Apparates
+nicht, der dennoch für höhere Betrachtungen so gut
+als unbrauchbar ist. 0
+
+; Bey
+

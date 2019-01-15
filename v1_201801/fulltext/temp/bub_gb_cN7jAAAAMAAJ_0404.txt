@@ -1,0 +1,146 @@
+297
+
+e der geometrilchen.Gröfsen. Ab/chnitt VI... „Von
+er Aehnlichkeit der Figuren” enthält Eukl, B. 6,
+ohne erhebliche Veränderungen. Abfchnitt VI1,
+Voa der Lage. der Ebenen gegen einander und ge-
+en gerade Knien. Die vierte Erklärung heifst
+jer: „Eine gerade Linie ift fenkrecht oder ein
+
+Loth auf einer Ebene, wenn (Gch aus gewiffen Um-,
+
+fränden ergiebt, dafs) fie mit jeder fie treffenden
+und in der Ebene behndlichen geraden Linie rechte
+Winkel,macht.” Das von uns Pingeklammerte Sollte
+fehlen, da die Erklärung, ‚die doch nur eine Wort-
+erklärung ift, weil die Möglichkeit des erklärten
+
+bjects erft /päterhin durch Conf(truction de[felben
+klar wird, durch jeden folchen Zufatz an Präcifion
+verliert. Der erfte Lehrfatz diefes Abfchnittes lau-
+tet fo: „Ift eine gerade Linie AB einer andern CD
+in der Ebene £F liegenden parallel, fo ift fe auch
+mit der Ebene felbft parallel.” Diefs hat zwar, fo
+wie es der Vf. nimmt, feine Richtigkeit, kenn
+aber, ‚zumal bey blofser Zeichnung der Figur mifs-
+verltanden werden, da man unter BF auch die Ebe-
+ne denken kann, welche durch beide Parallellinien
+
+‚eht. Ueberdiefs ift der Beweis, den der Vf. für
+
+jefen Satz giebt, unrichtig. Da Gch Jeder leicht
+die Figur entwerfen kann, fo (fetzen wir ihn alıne
+weitere Erläuterung hierher. , Er heifst nämlich:
+»„ Käme die verlängerte AB mit. der erweiterten £F
+
+fammen, fo mülfste diefßs in der- geraden Linie ge-
+
+hehen, die FF mit der Ebene der Parallelen ge-
+mein hat, folglich in CD, welches der Voraus.
+ietzung widerfpräche,” Allein durch die Linie 48
+können ja aufser der Ebene, worin AB und CD zu-
+gleich liegen, noch unzählig viele andere Ebenen
+gelegt werden, mithin leuchtet noch nicht die Noth-
+wendigkeit davon ein, dafs A4B, um mit der Ebene
+EF zulammenzutreffen , die(s.gerade in der Ebene,
+worin CD _ mit AB zugleich liegt und daher in einem
+Punkte der Linie CD thun müfste; diefe Nothwen-
+digkeit müfste vielmehr erft bewielen werden. —
+In der Lehre. von den gegen einander geneigten
+Ebenen und den Kanten (Flächenwinkeln) bedient
+fich der Vf, mehrerer, (6 viel Rec. weifs, ihm ei-
+genthümlicher Ausdrücke, die aber alle ps rlanfl und
+leicht verftändlich find. —' Die Erklärung von
+Congruenz der Ecken ($. 185. IV.) ift unrichtig, da
+congruente ftetige-Gröfsen Itets nur folche find, die
+fich dergeftalt in einander gelegt denken laffen „ dafs
+alle ibre Grenzen zufammenfallen. Dafs aber die[s
+bey zwey Ecken, wenn auch jeder Seitenwinkel der
+einen einem Seitenwinkel der andern und jede Kan-
+te der einen einer Kante der andern gleich ift,
+picht immer gefchehen könne, davon kann man fich
+leicht überzeugen, wenn man alle Seitenlinien ei-
+ner Ecke, :an der nur nicht alle Winkel einander
+gleich Gfnd, über den Scheitel hinaus verlän-
+gert, wodurch man offenbar eine Ecke erhält,
+die mit der zuerft dapgewelenen gleiche Seitenwin-
+kel und auch gleiche Kanten (in der Bedeutung,
+worin Herr. Blafche diefes Wort nimmt) hat, und
+dennoch fGch nicht mit derfelben fo zulammenlegen
+
+Num. 100. SEPTEMBEBS: 9822.
+
+2798
+läfst, dafs alle Seifenlinien der eimen mit allen Sei-
+tenlinien der andern zuflammenfallen, daber fie (mit
+dem von Legendre eingeführten paffenden , Worte)
+der erftern fymmetrifch, nicht aber cppgruent,
+
+enannt werden darf. Zur Congruenz ‚zweyer
+
+cken’ ift aufser den vom Vf. angegebenen, Bedin-
+gnsen auch ähnliche Lage der (Winkel an beiden
+
+cken noth wendig, — Mit Unrecht läfst Herr
+Blafche die Sätze Eukl, ır, 22.23.26. weg. Fre
+lich mufs der Beweis derfelben noch etwas vervoll-
+ftändigt werden, wobey Simfons fchätzbare Anmar-
+kungen auch noch‘ nicht zureichen, aber nöthig:
+find diefe Sätze für einen gründlichen Vortrag. der
+Stereometrie und können durch Hrn. Blafche's Zu
+fatz zu feinem 6, 188. nicht erletzt werden. — In
+
+»$. 200, ift der Beweis des Satzes: „Jedes Paralielepi-
+
+edon wird von einer Diagonalebene halbirt,” wie
+ey Euklid (fr, 28), nur für erade Parallele rn
+gültig. Auch Rob. Simfon bat diefs überle en3
+offenbar weil er, wie unfer Vf., die oben angepe-
+bene Bemerkung über das zur Congruenz der Foken
+Erforderliche, nicht gemacht hat. Wir verweifen
+hier, der Kürze wegen; nur auf den inftructiven
+Artikel: Prisma in den Probeheften von Er/ch und
+Gruber’s Encyclopädie, — WUehbrigens ift in diefem
+Abfchnitte Manches gründlicher und klarer, zuwei-
+Jen auch zweckmäfsig kürzer behandelt, als in den
+meiften andern‘ neueren Lehrbüchern , ja felbit alg
+im Euklid; man vergleiche z. B. $. 205 — 218 mit
+Eukl. ı2, 5—9. Abfchniett IX. Von krummbe-
+renzten Körpern, Es verfteht fich , dafs unfer Vf,
+jer ftatt der Euklidifchen Erklärung des Kegels
+die allgemeinere des Apollonius giebt. Ab/chnitt X.
+Geometrifche Sätze, welche fich nur nach der Ex-
+hauftionsmethode. der Alten beweifen laffen. Rec.
+nimmt keigen Anftand, diefen Abfchnitt für den aus-
+gezeichnet/ten des ganzen Werks zu erklären, denn
+noch in keinem Lehrbuche bat er die Gründe der
+Exbauftionsmethode fo.deutlich auseinander gefletzt,
+die hierher gehörigen Sätze vom Kreifey Cylio-
+der u. f. w. fo vollftändig und fo gut geordnet,
+an Beweife fo; gründlich und klar wie hier ge-
+nden. .
+
+Mögen alle obigen Bemerkungen dem feharf-
+Gnnigen Vf. ein Beweis der Hochachtqug (ey? =
+welche Rec. für ihn hegt; denn ße alle zwecken
+nur, wie wir fchon, am Eingange fagten, darauf
+ab, zur Verbreitung und zur Vervollkommnung
+
+des trefflichen Lehrbuchs bey einer gewifs nicht
+Jange ausbleibenden zweyten Auflage. beyzutragen
+Befonders gefreut hat es uns, durch dieles Werk
+
+eine neve Befätigung unferer vortheilbaften Mey-
+nung von dem Zuftande des mathematifchen Unter-
+richts auf den rufffchen Schulen zu erhalten.
+
+PREDIGER WISSENSCHAFTEN,
+
+des Taubft. Inft.: Diefs-
+
+ScHLEeswıG, im Verla
+(?) Vorbereitung Jehner ;
+: On-
+
+jähriger Leitfaden
+

@@ -1,0 +1,142 @@
+1665
+
+wiederholen, welchen der ‚Vf; zwar kennt, aber
+doob, wie:es scheint, nicht genug .berücksichtigt,
+indem er stillschweigend annimmt, dafs sieh sin x
+in eine. nach Potenzen von x fortschreitende .Reihe
+entwickeln lassen müsse. Die Entwickelungsme-
+thode nach unbestimmten Coefficienten ist nämlich,
+streng genommen, nur dann zulässig,. wenn man
+; gewifs vorausweils, dafs eine Entwicke-
+lung in der Form A + Bx + Cx? +... (wo: alle
+KE,xponenten von x ganze positive Zahlen sind) mög-
+lich sey; oder wenn man nach geschehener Entwicke-
+
+Jung beweisen kann, dafs die gefundene Reihe ge-
+
+nau den Werth der zu entwickelnden Functionen
+be. — Es werden übrigens hier sowohl die Rei-
+für die Kreisfunctionen durch die zugehörigen
+Bogen, als umgekehrt für die Bogen durch die zu-
+gehörigen Kreisfunctionen entwickelt; sodann wird
+je durch Zerlegung von }r in Bogen, deren Tan-
+genten rationale echte Brüche sind, sehr erleich-
+terte Berechnung von z vorgetragen; hierauf folgen
+Reihen für sin. und cos. eines Bogenproducts, die
+ten imaginären Ausdrücke für sin. x und cos. £
+
+und die damit zusammenhängende goniometrische
+Darstellung der Wurzeln der Einheit , fernere Ent-
+wickelungen für die cos. und sin, der Bogenpröducte,
+die moivreschen Formeln, noch andere Ausdrücke
+für die Cosinus und Sinus der Bogenproducte, Rei-
+hen für die Potenzen der Cosinus und Sinus durch
+Cosinus und Sinus von Bogenproducten , Reihen für
+die Cosinus und Sinus. von Bogenproducten nach
+den fallenden Potenzen des Cosinus und Sinus der
+en Bogen, Reihe für den Bogen durch Sinus
+
+der Vielfachen des Bogens, Sinus und Cosinus sol-
+cher. Bogen, die.nach gleichen Unterschieden fort-
+schreiten und Summirung dieser Sinus und Cosinus;
+endlich im letzten $ Bemerkungen über die Bedenk-
+lichkeiten, welche in Betreff einiger der vorange-
+benden Entwickelungen entstanden sind. Hr. von
+Münchow findet den Grund des von Euler und La-
+grange begangenen Irrthums in Betreff der von
+en. für ganz allgemein gehaltenen Gleichung
+
+20 (08.2 X = COS. MX + - cos. (m—2) x + m—1)
+
+cos. (m—4) x+ u. s. w. darin, dafs von diesen
+beiden grofsen Mathematikern die Moivre’schen For-
+meln in einer zu ausgedehnten Bedeutung genom-
+men seyen, ein Fehler, worin auch Plana bey sei--
+nem Berichtigungsversuche (Annales de Mathematig.
+p-84) verfallen sey. Es liegt aber der von
+Euler und auch von andern Bearbeitern dieses Ge-
+genstandes begangenen Fehler vielmehr darin, dafs
+sie die Vieldeutigkeit, welche der Ausdruck
+(2cos. x) für ein gebrochenes m erhält, nicht ge-
+hörig beachtet haben, daher z. B. Euler zu rasch
+schliefst, dafs in den beiden von ihm gefundenen
+Ausdrücken (x cos. x )R — X +Y Vi und (x cos. x)
+= X— YYZI beide Male Y denselben Werth habe
+und darum stets =o, und das erste X = dem zwey-
+
+‚Num. 2i. MÄRZ 198%
+
+‚166
+
+ten X sey. Was in Betreff mehrerer anderen zur
+Wegräumung der hier vorkommenden Schwierig-
+keiten angestellten Versuche von Hn. v. M. bemerkt
+wird, wird am passendsten bey Gelegenheit einer
+andern in diesen Blättern wahrscheinlich nächstens
+anzuzeigenden' Schrift, die speciell den fraglichen
+Gegenstand behandelt, weiter zu besprechen seyn.
+Rec. begnügt sich jetzt schliefslich, sein Urtheil da-
+hin auszusprechen, dafs das vorliegende Werk im
+Allgemeinen Jedem, dem es um gründliche Kemnt-
+nifs der Trigonometrie zu thun ist, und der nicht
+mehr zu den eigentlichen Anfängern gehört, in ho-
+hem Grade zu empfehlen sey- - Papier und Lettern
+sind lobenswerth, aber der ruck nicht correct ge-
+nug; denn aufser der nicht unbedeutenden Anzahl
+am Anfaoge und Ende des Buches verzeichneter
+Druckfehler finden sich noch viele zum Theil sion-
+störende, z.B. S.45 Z.7 statt (gm +p)s setze man
+S(gm+p)z. Z. 13 statt m-+4+1 setze man m — 1.
+S. 104 Z. 8 u. 9 v. u. statt cos. £ a setze cos. k
++1 Ce
+2
+S. 116 Z. 9 v. u. statt Y. x ‚S, cos. k, seste +
+
+S, cos.k. S. 165 Z.1 v. u. statt cos. 4 (2R—Z+2a)
+setze cos. 3 (2R—Z+4+2P).. S. 166 Z. 14 v. u. Statt
+-—sin. }y? setze + sin. 3y!. Z.12v.u. statt — sin. 3 6°
+setze + sin. 3 Pf’. S.198 Z.8 statt tgx5 setze tg x*,
+statt 1g.x7 setze 1gx”. S. 206 Z.8 v. u..statt 1 + sin. x?
+
+ 
+
+,
+
+6 ‚6
+setze 1—sin. x?. S. 207 Z. 8 statt y setze y; Z. 10
+
+4 2
+statt 27 setze 2y. S. 209 Z. 7 statt — sin. = .Z,
+SetZ8 — COS, =7 , Z. Ina der Mitte der beiden Glei-
+
+2
+chungen (R) auf S. 210 mufs statt + steher +, und
+statt — mufs + gesetzt werden, denn es. isf
+cos. (m? nnz+my) = cos. m? nn cos. my F sin. m nn:
+
+2. a” mn 2
+sin, my = C08. m’ nn C08. =, Y + cos. m* nn
+
+ 
+
+sin. 55, Z F sin. m’ na sin. DT. Y 4 sin. m* nn
+008. ‚Z = Y.cos. m 43! x
+
++Z (sin. m? nn COS, = + cos, m’ nz sin. =2)
+4n+1 4n +1
+
+2 2
+
+Aehnlich verhält es: sich mit der zweyten For-
+mel.
+
+= Y.cos. m n + Z. sin. m Z.
+
+ 
+
+ 
+
+6 zZ.
+
+SCHÖ-
+

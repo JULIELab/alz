@@ -1,0 +1,142 @@
+Num. 123. JULIUS 1833.
+
+Verlängerung des durch den Anfangspunkt gezo-
+m Radius verlängert.
+Bei dem Cosinus sagt der Vf., man sey überein-
+men, die auf entgegengesetzte Seiten des Mit-
+ınktes fallenden Cosinus positive und negative zu
+ıen, und durch die Zeichen (+ —) zu unterschei-
+Das lautet so, als ob man auch hätte anders
+einkommen können, und als ob nicht alles da-
+herrührte, dafs die Algebra, ohne unser Zu-
+‚ alle Linien mit dem Zeichen (—) behaftet, wel-
+ınf der entgegengesetzten Seite der mit dem Zei-
+-}- versehenen liegen,
+
+Hin und wieder wäre etwas mehr Genanigkeit
+ünschen. Um z.B. die Nothwendigkeit der Ein-
+ung der trigonometrischen Linien zu zeigen, wird
+geben, es sey geschehen, weil Seiten und Win-
+ıeterogene Dinge wären, also nicht jene aus die-
+aber diese aus jenen hergeleitet werden könn-
+Als ob nicht auch die trigonometrischen Linien
+»ogener Art mit den Winkeln wärens und als
+icht jene Einführung einzig daher rührte, da(s
+jeiten eines Dreieckes nicht wie die Winkel sich
+alten. Oder es wird gesagt, die Aufgabe der
+onometrie sey, aus dreien der sechs Stücke ei-
+Jreieckes, den 3 Seiten und den 3 Winkeln, die
+ren durch Rechnung zu finden. Das läfst den
+inger es für eine Auf abe der Trigonometrie hal-
+aus den 3 Winkeln die Seiten zu berechnen,
+
+So oft von einem Ausdrucke eine Kuadratwur-
+orkommt, wird nur der positive Werth ange-
+nen, wie z, B.
+
+ws.a = 1—esin.a, cos.3a=S 1 +cos.a
+2
+
+zt u. s. w. Nirgends wird eine Rechtfertigung
+\usschliefsung des negativen Werthes gegeben,
+die Bedeutung desselben erforscht, welche doch
+Zweifel Statt findet.
+
+{s werden für sin, 1, cos. \ folgende Reihen ge-
+mn;
+
+A3,23 As3s A527
+Ak 12 t®
+A212 A+#*.2* AG,26
+hs az EEE TG
+A328
+*12...87°®
+
+rird zu beweisen gesucht, dafs A = I sey, Aber
+eweis dafür schränkt sich auf den ersten Qua-
+en ein, und für diesen, nicht aber für die übri-
+uadranten, ist A—I. Vielmehr findet Rec, für
+jedem Quadranten einen eigenen Werth; na-
+— X z—
+x im dritten A = zz
+
+ 
+
+ich im zweiten A ==
+
+1—2%
+rten A = ®
+X
+
+ 
+
+376
+
+Die ephärische Trigonometrie wird kurz und
+bündig in 3 Kapiteln abgehandelt. Das erste enthält
+vorbereitende stereometrische Begriffe und Sätze, das
+zweite die Entwicklung allgemeiner Relationen zwi-
+schen Seiten und Winkeln sphärischer Dreiecke, das.
+dritte die Auflösung aller bei sphärischen Dreiecken
+vorkommenden Aufgaben, Für eine weitere Ausfilh-
+rung wird auf Klügel’s mathematisches Wörterbuch
+verwiesen, dessen fünfter Band bekanntlich von dem
+Vf. der vorliegenden Schrift herrührt.
+
+Der vierte Theil handelt von den Kegelschnitten,
+nicht in synthetischer, auch nicht in analytischer,
+sondern in ciner gemischten Weise, wie sie der Vf.
+für den ersten Unterricht angemessener findet, Rec,
+will darüber nicht mit ihm rechten, Gleichwie Rec,
+von dem Studium der reinen Geometrie in Schulen den
+
+öfsten Einflufs auf die Entwicklung und Ausbildung
+es mathematischen Sinnes in dem Jünglinge erwar-
+tet, zieht er eine rein geometrische Betrachtungsweise
+der Kegelschnitte beim ersten Unterrichte in densel-
+ben Vor.
+
+Das erste Kapitel enthält als Einleitung die er-
+sten Elemente der analytischen Geometrie und der
+Anwendung des Caleuls auf‘Geometrie, Die Bei-
+spiele sind wohl Fewählt, ‘und vollstä]ndig und sach-
+gemäfs, klar und einfach behandelt. Ueberraschend
+war es nur dem Rec., welcher bei allen übrigen Glei-
+chungen, in denen eine doppelte Wurzel Statt fand,
+eine Hinweisung auf die geometrische Bedeutung der-
+selben gefunden hatte, bei der Aufgabe: „von dem
+einen Endpunkt eines gegebenen Kreisdurchmessers
+eine gerude Linic zu der in dem anderen Endpunkt
+liegenden Tangente zu ziehen, deren zwischen der ”
+Tangente und dem Kreise liegendes Segment von ge-
+gebener Gröfse sey”, die Behauptung aufgestellt zu
+sehen, dafs dem negativen Werthe, wie leicht erhelle,
+keine Bedeutung zukomme, Rec, hält cs für ganz un-
+möglich, dafs das jemals Statt finde. So oft die Al-
+gebra zwei, oder mehrere Antworten auf eine Frage
+giebt, wird es die Geometrie auch thun, und wohin
+wollte es mit der gerühmten Untrüglichkeit beider
+Disciplinen führen, wenn, wie freilich seit d’Alem-
+Bert und Carnot viele Mathematiker hehaupten, die
+eine derselben zuweilen eine überflüssige, nichts sa-
+gende, unbrauchbare, d,i, mit einem anderen Worte,
+
+alsche Antwort gebe, und wenn Mathematiker in den
+Fällen, in welchen sie die Sprache der Algebra nicht
+zu interpretiren vermögen, die Behauptung wagen,
+die Algebra habe etwas nichts sagendes hingestellt.
+
+In den drei folgenden Kapiteln wird die Lehre
+von der Parahel, der Ellipse und der Hyperbel vor-
+etragen, Der Ve. geht bei der Parahel von der De-
+inition aus, sie sey die Linie in einer Kbene , deren
+Punkte von dem Brennpunkte und der Directrix glei-
+che Entfernung haben, leitet daraus die Gleichungen
+ab, und knüpft daran die Aufsuchung der Eigenschaf-
+ten in Beziehung auf Durchmesser, Tangenten, Qua-
+dratur u. s, w., und fügt einen Anhang vom freien
+
+Falle und der Wurfbewegung bei, Angestolsen ist
+
+Rec.
+

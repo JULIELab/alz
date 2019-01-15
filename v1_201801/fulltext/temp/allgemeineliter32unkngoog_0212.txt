@@ -1,0 +1,122 @@
+— 129 —
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+-
+
+MATHEMATIK,
+
+Haınvovzr, in d. Helwingschen Hofbuchh,: Prin-
+'  cipien einer allgemeinen Functionenrechnung,
+ach einer elementaren Methode zur leichtern
+Behandlung höherer Theile der Mathematik dar-
+estellt von C. F. Eichhorn, Dr. phil. 1834,
+
+- Sn u, 247 8. gr. 8, (1 Rthlr, 12 gGr.)
+
+Den Vf. leitete bei Abfassung seines Buches die
+Ueberzeugung, dafs die höhere Mathematik‘ nur
+dann an Werth für die Praxis gewinne, wenn man
+> sich bemübe, ihre Entwiekelung einfach darzustel-
+len. Wenn nun der Vfsagt, dazu sey vornehmlich
+erforderlich, dafs die mathematischen Methoden und
+der Zusammenhang derselben unter einander hervor-
+treten, und dafs di Anwendbarkeit sich nicht ver-
+nichte durch die Schwierigkeit der Rechnungen
+welche dem geäühten Theeretiker wohl unbedeuten
+scheinen könnten, aber den Praktiker leicht abhiel-
+ten vom-Gebrauche höherer Theorie, wenn auch
+Letzterer ‚sich einmal fleifsig mit den höhern Thei-
+Jen der Wissenschaft beschäftigt habe; so pflichten
+wir ihm, was das Letztere anbelangt, gern bei, ge-
+stehen aber offenherzig, dafs wir das Brstere nicht
+ganz verstehn, Wenn er aber mit den Worten fort-
+fährt: ‚bevor das Höhere nicht eben so leicht be-
+handlungsfähig wird, wie das Elewentare, mu(s es
+vergeblich scheinen , den Praktiker vom hohen Wer-
+the höherer Rechnungen überzeugen zu. wollen; ” sa
+müssen wir ihm entgegnen, dals wir das geradezu
+für unmöglich halten. . Doch hat sich wohl der Vf,
+schrofler ausgedrückt, als er es wirklich meint, Er
+will nun in der hier vorliegenden Entwickelang zei-
+gen, ‚dafs selbst die höchsten Theile der Mathema-
+tik Gesetze in sich enthalten, welche völlig ver-
+wandt seyen den elementaren Begriffen, usd welche
+daher auch nur elementare Entwickelang fordern.”
+Er will ferner beweisen, „dafs selbst Aufgaben
+nach Elementargesefzen einfach zu behandeln seyen,
+wofür die höhere Mathematik noch keine allgemei-
+nen Lösnngsmittel besitze,” Wenn wir aun auch
+im Allgemeinen gern zugestehen, dafs der Vf. man-
+
+ches Kigenthiümliche in der Behandlung des verlie-
+hrift ihren '
+
+nden Stoffes bat, sowie dals seine
+weck, bei Andern weitere Forschung anzuregen,
+aicht verfehlen wird:. so können wir ihm doch
+nicht darin beistimmen, dafs, wie er glaubt,
+durch die hier gegebene Methode die Sache über-
+all wirklich so bedeutend erleichtert worden sey.
+Wir werden bernach ein Beispiel aus der Darstel-
+4. L. Z, 1835. Zweiter Band, -
+
+Beschaffenheit ist
+
+EOS a „
+Julius 18368.
+
+ 
+
+Jungsweise des Vfs, zum Belege unserer Behauptung
+
+geben, ,
+Wir theilen nun eine Uebersicht des Inhaltes,
+so vollständig, wie es uns der Raum erlaubt, mit,
+Der Vf, schickt zuerst, S, 1 — 3, einige Entwicke-
+Jungspraemissen voraus. Dann folgen drei allge-
+meine Aufgaben, I, Gegeben sey ein eomplicirtes
+Funetionsverhältnifs: es soll daraus der Werth eis
+ner Gröfse entwickelt werden, S. 3-— 138. Und
+zwar erstens, wenn die Complication. von solcher
+dafs unmittelbar Emtwickelung
+möglich wird, Hier geben wir als Probe der Dar-
+stellungsweise des Vfs. eine Anwendung dieser Auf-
+abe auf gewöhnliche Differenzialgleichungen, Der
+f, will nämlich hier das Integral für: .
+ydı=q(z)dxr-+dy darstellen, und gibt dazu
+zwei Auflösungen, N
+Aufl. 1. ‘ Aus ydz = g(x)dx +dy wird ydır —dy.
+; . =o(x)dx, oder:
+
+(y—)= (x), oder y(1— =) =4(X);
+woraus folgt: ; |
+: d , d? _ d’ ;
+= GE „(Ir + +7 +0.) (2); ,
+SI en
+d. Ly=A DH LOL,
+Sey nun z. B. p (x) = ax?.: so wird das Integral
+fürydz= ax? +dy: 0
+2 3 4
+ysayı ICE LER CE)
+_ =4x?+3ax!+6a4rxr+6,
+Für ydr=ax"”"‘drz+dy wird: y=axr"*x—lax“?
+
+. + 1,2477 3— 1.2.3.4. *° +..003 ,
+Für ydır = ax dr +dy; y=axt + 3ar gar d
+; +3ax "t_...3; )
+Für ydı= sin xzdx+dy; y= sin x + cos x — sin x,
+
+‚ =— 00824 0.0 = 3 (NIX A cos x);
+Für ydr=e*dz—dy;zy=e*-—eX+eX— eX+,..
+= 36%;
+Für ydr=alag.zdx—dy;zy=alogz +az“  —
+1.02  +4+1.202  —1.2.3.02 7 +... 0.8.W.
+Aufl. 2. Ausydr=g(x)dx+dy lälst sich auch
+bilden:
+
+—y (Z-1)=07), welches gibt ya (ZZ —1) (px);
+Eee d.
+
+A000
+

@@ -1,0 +1,126 @@
+407
+
+Die zweite Beantwortung in französischer Spra-
+che fügt den bisher bekannten Methoden keine we-
+sentlich neue hinzu, und wenngleich der Verfasser
+sich mit grofser Ausführlichkeit bemüht, den bekann-
+ten Methoden, wodurch man den ersten genäherien
+Werth einer Wurzel erhält, und von diesem nach und
+nach zu immer näheren und näheren aufsteigt, eine
+bestimmtere Form und gröfsere Kürze zu geben, 80
+scheint dieses Bestreben zu wenig gelungen, selbst
+bei reellen Wurzeln, um der Absicht, welche die
+Akademie bei ider Aufstellung der Preisfrage hatte,
+zu entsprechen. Sie wünschte mehr eu erhalten, als
+die Anwendung der Newtonschen Näherungsmethode,
+wenn durch die Substitution verschiedener Werthe die
+Wurzeln getrennt sind, , ,
+
+Den Hauptgegenstand der Preisfrage, die imagi-
+nären Wurzeln, hat der Verfasser am Ende viel zu
+kurz behandelt, und wenn er bei einer Gleichung vom
+vierten Grade mit vier imaginären Wurzeln auf die
+bekannte Auflösung durch Zurückführung auf eine
+Gleichung vom dritten Grade verweist, bei den höhe-
+ren Gleichungen aber durch Zerlegung in zwei Glei-
+chungen, welche nach dem Cosinus und Sinus der
+Vielfachen eines Winkels fortschreiten, vermittelst
+geometrischer Betrachtungen allein die successiven Nä-
+herungen leiten und erleichtern will, so kann die Aka-
+demie in diesem Verfahren keinen erheblichen Fort-
+schritt sehen.
+
+Es konnte deshalb auch dieser Abhandlung der
+Preis nicht zuertheilt werden.
+
+Die erste Bewerbungsschrift in deutscher Sprache
+legt das Princip zum Grunde, welches Herr Prof.
+Gräffe in Zürich bereits vor zwei Jahren veröffent-
+licht hat, in einer Schrift, betitelt: ‚„, Die Auflösung der
+höheren numerischen Gleichungen, als Beantwortung
+einer von der Königlichen Akademie d. Wiss, zu Ber-
+lin aufgestellten Preisfrage, Zürich 1887”, welche
+Schrift am 22. December 18386 als Geschenk des Ver-
+fassers von demselben der Akademie eingesandt war.
+Nach den bestehenden Vorschriften kann auf eine,
+durch den Druck publicirte Methode, als Bewerbung
+um einen Preis, keine Rücksicht genommen werden,
+so dafs bei der vorliegenden Bewerbungsschrift von
+dem Principe und seinem Verdienste abgesehen, und
+nur das betrachtet werden mufs, was in der Preis-
+schrift zur Erweiterung und Vervollständigung der
+durch den Druck publicirten Methode geschehen ist.
+
+Das von Hrn. Prof. Gräffe aufgestellte Princeip
+kommt im wesentlichen darauf hinaus, dafs man aus
+der angegebenen Gleichung eine neue numerische ab-
+leitet, deren Wurzeln die Quadrate der früheren Wur-
+zeln sind, aus dieser wiederum eine neue, deren
+Wurzeln die Quadrate der Wurzeln der nächstvorher-
+
+®
+ST — N
+
+gehenden Gleichung, folglich die Biquadrate der ur-
+sprünglichen Wurzeln sind, und auf diese Weise
+durch numerische Entwickelungen zu einer Gleichung
+aufsteigt, deren Wurzeln 80 hohe Potenzen der ur-—-
+sprünglichen Wurzeln sind, dafs neben der Potenz
+der größfseren Wurzel die gleich hohen Potenzen der
+niederen verschwinden. Es ordnen sich dann die Coef-
+ficienten der letzten derivirten Gleichung so, dafs man
+alle Wurzeln auf einmal findet, Die Anwendbarkeit
+dieser Methode scheint bei imaginären Wurzeln nicht
+
+aufzuhören, wenngleich das Verfahren noch verschie-
+
+denen Modifcationen unterworfen sein wird.
+
+Die Bwerbungsschrift begründet im Anfang das
+Princip theoretisch schärfer, als es früher geschehen
+war, und modificirt dann auch die früher vorgeschla-
+gene Methode der Bestimmung der imaginären Wur-
+zeiln. Beides indessen nicht mit dem Grade von Ele-
+ganz und Betrachtung der einzelnen Fälle, deren die
+Aufgabe fähig zu seyn scheint. Besonders findet bei
+der Behandlung der imaginären Wurzeln noch ein
+willkührliches Verfahren statt, was diesen Abschnitt
+minder ansprechend macht als die Anwendung des Prin-
+cips auf reelle Wurzeln,
+
+Sowohl diese theoretischen Aenderungen, alsauch
+einige für die praktische Bequemlichkeit berechneten
+Zusätze sind indessen der Akademie nicht bedeutend
+genug erschienen, um dieser Preisschrift den Preis zu-
+zuerkennen, so dafs sie sich zu ihrem Leidwesen ge-
+nöthigt sieht, ungeachtet der drei Bewerbungsschriften
+den Preis zurück zu behalten.
+
+Da indessen gerade die Schrift des Hroa. Professor
+Gräffe einen früher nicht betretenen Weg ein-
+schlägt, der schon in seiner jetzigen Gestalt in vielen
+Fällen mit gröfserer Leichtigkeit als die früher einge-
+schlagenen zum Ziele führt, und die zuletzt erwähnte
+Bewerbungsschrift schon sich mit seiner Vervollkomm-
+nung beschäftigt hat, so dafs zu hoffen steht, es werde
+eine fortgesetzte Bearbeitung desselben Gegenstandes
+entweder diese durch die Preisfrage hervorgerufene
+Methode, oder irgend eine andere so weit fördern und
+vereinfachen, dafs die Ertheilung des Preises keinen
+Anstand haben dürfte, so will die Akademie die Auf-
+gabe für das nächste Jahr noch einmal zur ferneren
+Bearbeitung wiederholen.
+
+Die Abhandlungen ınüssen vor dem 1. März 1839
+bei dem Secretair der Akademie eingegangen seyn,
+ohne Nennung des Verfassers, dessen Name in einem
+versiegelien Zettel, welcher mit der Abhandlung ei-
+nerlei Motto zur Aufschrift hat, enthalten seyn mufs.a
+
+Der Preis von 50 holländischen Dukaten wird in
+der öffentlichen Sitzung zur Gedächtnilsfeier von Leib-
+nitz in demselben Jahre 1889 zuerkannt werden,
+
+.
+Le a
+

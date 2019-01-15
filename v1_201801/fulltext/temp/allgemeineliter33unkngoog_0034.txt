@@ -1,0 +1,140 @@
+83
+
+besser ‘helehrt:glaubt‘,, sey es.'in Folge blolser An-
+gewohnheit, — Die Sprache des Schriftchens ist
+edel und lobenswertb, der Druck nicht sehr correct,
+
+MATHEMATHIK.
+
+BaaunschHweiG, b. Meyer sen.: A. L. Cauchy's
+Vorlesungen über die Differenzialrechnung, mit
+Fourier’s Auflösungsmethode der bestimmten
+Gleichungen yerhunden. Aus dem Französi-
+schen übersetzt von Dr. C. H, Schnuse, Mit 1
+Steindruecktafel, 1836, XIII u, 3728, gr. 8,
+(2 Rthlr.)
+
+Im Jahre 1823 gab Cauchy heraus: Resume des
+
+sur le calcul infinit&simal, ein Werk, wel-
+
+ches, soviel wir wissen, in Deutschland eben nicht
+sehr bekannt geworden ist, obwohl es in Klügels
+Wäörterbuche Supplement genannt wird. Als die-
+ses Werk vergritien war, beschlofs Hr. C., statt
+einer neuen Auflage desselben lieber zwei audere
+für sich bestehende Werke, das eine über die Diffe-
+renzialrechanag , das andere über Integralrechnung
+herauszugeben, und entledigte sich durch vorstehen-
+de Arbeit des ersten Theiles seines Versprechens,
+Er beabsichtigte hauptsächlich die Strenge, welche
+er in seinem Lehrbuch der algobraischen Analysis
+ezeigt hatte, mit der aus der directen Betrachtung
+Ser unendlich kleinen Gröfsen entspringenden Ein-
+fachheit zu vereinigen. Er verwarf daher die Ent-
+wickelungen der Functionen in unendliche Reihen
+‘überall da, wo diese Reihen-nicht convergent waren,
+So z. B. behauptet er, dafs die Taylor’sche Formel
+- nur 80 lange als gültig angesehen werden könne, als
+gie aufeine endliche Anzahl von Gliedern reducirt und
+durch einen Rest ergänzt werde, dafs man dagegen
+durch Anwendung divergirender Reihen zu unrichti-
+en Resultaten geführt werden könne, Er benutzte
+3 seiner Arbeit die Theorie der Functionen von
+-Lagrange, die Differentialrechnung von Euler und
+Lacroixr, eine Abhandlung von Poinsot in der Corre-
+spondance sur T’ Ecole Polytfechnique , die Vorlesungen
+über die Differentialrechnung von Ampire und eine
+‚Abhandlung desselben über denselben Gegenstand,
+Der Uebersetzer glaubte, in der Ueberzengung von
+dem ausgezeichneten Werth des Werkes, eine nütz-
+liche Arbeit zu unternehmen, wenn er es auf deut-
+schen Boden verpflanzte, und wir stimmen ihm dar-
+in vollkommen bei, Mit Recht rühmt Hr. Schn, an
+diesem Buche die höchste analytische Eleganz und
+Strenge überhaupt, und besonders die scharfe Be-
+stimmung und ausschliefsliche Betrachtung stetiger
+Funetionen, eine auf den Begriff der Grenzen ge-
+gründete, strengere Definition der unendlich kleinen
+Gröfsen, eine zweckmäfsige Verbindung der Theo-
+rie des unendlich Kleinen, der Grenzen und der ab-
+geleiteten Funotionen, und endlich die wichtigen Re-
+geln über die Convergenz der Reihen. KEr bemerkt
+sodann, dafs er in der Uehersetzung, an die Stelle
+einer Note von Cauchy über die Auflösung der Glei-
+
+Nu. 180. SEPTEMBER 183% —
+
+MM
+ehungen , die Fourier’sche Auflösungsmethode der
+Gleichungen gesetzt habe, da diese den Vorfug ver-
+diene und zum Vorhergehenden gleich gut passe,
+Da die Auflösung der Gleichungen ohne Zweilel als
+eine der wichtigsten Anwenduhgen der Differential-
+rechnung angesehn wird, so hielt es der Ueberse-
+tzer nicht für unzweckmäfsig, das Wesentliche vor
+Fourier's Analyse des Equations als Anhang beizufü-
+gen. Die Uebersetzung ist durchaus gelungen zu
+nennen, da sie treu, deutlich und flielsend ist. Die
+Diflerentialrechaung selbst ist in 23 Yorlesungen
+vorgetragen. Wir geben als Probe Kiniges aus der
+zehnten Vorlesung, wo der Vf. unter Anderem
+zeigt, wie die Taylor’sche Formel in gewissen Fäl-
+len für die Entwiokelung einer Functiou eine con-
+vergirende Reibe zu geben scheine, obgleich die
+Summe der Reihe von der gegebenen Function we-
+sentlich verschieden sey. Der Vf. beweist nämlich
+den Lehrsatz: „Es sey f(r) eine reelle oder imagi-
+‚näre Function der reellen Veränderlichen x, h eine
+reelle oder imaginäre Constante , und q„. der Zah-
+‚werth oder der Modulus des Ausdrucks:
+
+ia) (7).
+
+Ferner sey @ die Grenze, gegen welche die gröfßs-
+ten Werthe von: (Pa)E convergiren, oder die ein-
+zige Grenze des Verhältnisses Zr ,‚ wenn diese
+„Grenze existirt, während n unbestimmt gröfser wird;
+80 ist die Taylor’sche Reihe ;
+(66) fo pa Ef Ge a Pe) een
+jedesmal convergent, wenn der Zahlenwerth oder
+der Modulus von A kleiner ist, als —, und diver-
+gent, so oft der Zahlenwerth oder der Modulus von
+h größer ist als Ze Und Lehrsatz: Wenn Alles
+
+wie im vorigen Lehrsafze hleibt, aber die Funetion
+(x) nehst der Constante A reell ist, © eine kleine-
+re Zahl als I, #n den Zahlenwerth eines der Aus-
+
+ 
+
+ 
+
+drücke:
+FO Cx + Oh (1—6) °_ fl) +
+1.2.3....0n° 1.2.3... .(n—1) ?
+
+und 3 die Grenze bezeichnet, gegen welche die .
+größsten Werthe von (wn)n convergiren, oder viel-
+mehr die einzige Grenze des Verhältnisses es =
+wenn diese Grenze existirt, so ist die Taylor’sche
+Reihe: ; x
+
+(67) fe+M= FETT
+
+ 
+
+@ ++
+
+ 
+
+ns f(x) + 0. 000 )
+für jeden reellen Werth von & richtig, welchem ein
+
+1 1] liegender Werth
+ut € Die For
+mel
+
+zwischen den Grenzen —
+des Productes FA entspricht, Zusatz,
+

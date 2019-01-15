@@ -1,0 +1,157 @@
+77 u. WR SW PP SP.
+
+997
+nen der vielfachen B
+
+die Differenzen und Differentiale der trigonometri-
+schen Functionen nebst einigen anderen gleich zu
+
+den Zusammensteilungen beschliefsen diese
+erste Hauptklasse von Formeln. Bey der Angabe der
+Uifferentialquotienten wäre es nach des Rec. Ermes-
+Sen sehr zweckmäfsig gewesen, auch die Ausdrücke
+für dia höheren Differentialquotienten der Functio-
+nen 18T, COST, SCC X, 60306 X, AFrCde6X, ArclgX
+etc. mitaufzusehmen, weil diese bey analytischen
+
+Untersechungen bhäufg gebraucht werden. Kuler’s’
+
+Schriften (z. B. Differential- Rechnung, 1. Th. $.200),
+Creile's Journal, 4rBd., IM. S.299ff.), Hindenburg’s
+Sammlung combinatorisch - analytischer Abhandlun-
+gen (11. S. 154 ff.) und vor Allem Schweix’s Theorie
+der Differenzen und VLifferentiale, ein Werk, wel-
+ehes voll von hieher gehörigen Untersuchungen ist,
+würden dem Vf. Stoff genug dargeboten haben.
+Bey dieser Gelegenheit kann sich Kec. nicht enthal-
+ten, seinen Wunsch auszusprechen, der Vf, möchte
+doch entweder in.einem besoandern Anhange zu die-
+ser Sammlung oder mit dieser zusammen bey einer
+keänftigen Auflage‘ derselben auch die sich auf die
+Kreisfunctionen beziehenden Integrale mit aufneh-
+men oder besonders sammeln, aber nicht blo(s
+iejenigen, wo in der zu integrirenden Function
+Kreisfanotionen vorkommen, soadern auch diejeni-
+pen Integrale, welche integrirt auf Kreisfunstionen
+
+hren., Rec. hat aber hiebey vorzüglich die be-
+stimmten Integrale im Sinne, welche, in eine be-
+zondre Uebersicht gestellt und gesammelt, zuver-
+steltlich einer Menge von Mathematikern sehr will-
+kommen seyn würden. — Aufser den oben genann-
+ten finden wir in der ersten Klasse noch die Ab-
+theilungen: Geschicktmachung (Umformung) meh-
+rerer algebraischen Ausdrücke zur logarivkmischen
+Besrbeitung und Auflösung der quadrutischen und
+oubischen Gleichungen vermittelst trigonometri-
+scher Ruactionen. In der ersten derselben werden
+unter andern die Regeln angegeben: 1) für xz=a+b
+Setze man ia so ist x = a b;
+®) für x = a +64 c bestimme man g und w ans den
+Gleichungen 129 = 4 cotg w = ÖV2 sin (45 + ),
+
+sin ®
+so ist = (V2 AO, hier müssen also im
+ersten Falle 2, und im letzten Falle 4 Sinus berech-
+net werden; man kann aber jedesmal mit der Hälfte
+auskommen: denn für x = a + d setze man entwe-
+der, wie gewöhnlich geschieht, 2 = gg? oder
+= sin gg’, je nachdem b und a gleiches oder unglei-
+
+®
+
+ches Vorzeichen haben, oder auch 5 = c08 @, wo b
+
+die absolut kleinere der beiden Zahlen anzeigt, so
+ist x = 2a cos 4@?; und für z=a+&-+c, wo a die
+absolut gröfste der drey Zahlen anzeige, setze man
+
+hd
+
+Num. 50. MAY 1882,
+
+durch die der einfachen, 2 = C080, SO ist x = 2a cos 1 9° +6; je nachdem num
+
+398
+
+_-
+
+Za cos im? oder c die absolut gröfsere Zahl ist, setze
+
+2 ;
+man mL oder 2a cos3p_ cosw, und man
+2a cos 4@ C ;
+
+2
+erhält resp. x = 4a dos 4? cos Aw’loder 5= 26. cos w*.
+Es ist kaum nöthig zu erwähnen, dafs man auf die-
+selbe Art für die Summe von 4, 5 Gröfsen u. s. w. Fort-
+fahren kann. ‘Die siebente Regel, in weicher gelehrt
+wird, ab+cd+efzu berechnen, ist offenbar un-
+
+nöthig, da diese mit der zweyten zusammenfällt; -
+
+der Fall 10): aus secx +tgx = b den Winkel x zu
+finden, gehört nicht hieher, da man keine Hülfs-
+winkel zu berechnen, sondern nur eine Umformung
+zu machen hat. Zweckmäfsig wäre es aber gewe-
+sen, einige weniger am Tage liegende Reductionen
+
+anzuführen, wie z. B. die von Gau/s (theoria motus
+corpp. coel. $. 78) gelehrte Berechnung der Gröfsen
+
+x und y aus den Gleichungen x sin (A—y) =}.
+
+x sin (B—y) =5; denn obwohl auch der weniger ‘
+
+Geübte gleich sieht, dafs man durch Eliminatioa
+von x und durch Einführung des Hüölfswinkels
+189 = die Gleichung (cos 9 sin A— sin q sin B) cos y
+== (cosgp cos A — sing cos B) siny erhält, so sieht er
+doch nicht sogleich, dafs es keines neuen Hülfswin-
+keis bedarf, um x und y zu finden, und dafs z. BR
+
+18 (5.4 + 3 8B—y) = € (454 9) 1g 1(B— A) und x =
+. (sin 45 +9) N
+
+ing co IB — A) sin GAT By) A0f Bleiche
+Weise hat man die Auflösung der Gleichung x cos
+(A—y) =a; x cos (B—y) =b, wenn man in die vorigen
+Formeln statt der Tangente nur die Cotangente setzt.
+Bey den cabischen Gleichungen fehlt für den cor-
+danischen Fall die Angabe der beiden imaginären
+Wurzeln, und für den irredauctibeln die Bestimmung,
+wann das positive und wann das negative Zeichen
+vor den Wurzeln zu setzen ist. Endlich wird diese
+erste Klasse von Formeln beschlossen durch die An--
+‚gabe von Ausdrücken für sin 1’, sin 1” ... log Arc1”,
+
+og Arc 1’ u.s. f., und für den Halbmesser eines
+Kreises in Secunden, Minuten u. s. w. ausgedrückt,
+
+sım das Gradmaafs in Längenmaafs und umgekehrt
+
+zu verwandeln; von Formeln, um Log. Sinus, Log.
+Tang. sehr. kleiner Winkel und umgekehrt, diese
+Winkel aus jenen Logarithmen mit grofser Ge-
+nauigkeit zu finden — diese beiden Abtheilungen
+würden wohl besser ihren Platz vor den Abtheilun-
+gen gefunden haben, — und endlich durch eine noch-
+malige Zusammenstellung der verschiedenen Aus-
+drücke für sin x, cos x, tgx und cotg x, die bis auf
+den Kettenbruch für Tang x alle schon früher in
+diesem Buche mitgetheilt worden waren.
+
+Es ist weder unsre Absicht, noch überhaupt
+nöthig, auch die zweyte Hauptklässe von Formeln,
+
+die sich auf die eigentliche Trigonometrie beziehen, .
+
+einer ausführlichen Kritik zu unterwerfen. Denn
+einmal wird man die Art und den Geist des Werks
+aus dem bereits Angeführten hinlänglich erkannt,
+
+- und
+
+"
+

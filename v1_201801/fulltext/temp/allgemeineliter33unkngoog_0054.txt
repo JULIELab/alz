@@ -1,0 +1,130 @@
+der pelytechnischen Schule zu Paris als Lehrbuch
+eingeführt, -Die Uebersetzung dieses Werkes ist
+daher, obwohl man seit einigen Jahren auch in
+Deutschland angefangen hat, diesen Zweig des ma-
+thematischen Wissens eifrig zu pflegen, immer als
+eine verdienstliche Arbeit zu betrachten, Nicht mit
+Unrecht macht der Uebersetzer an dem Werke die
+Vorzüge einer seltenen Klarheit, einer vortreffli-
+ohen , zu stetem Selbsterfinden anregenden Methode,
+der anz der Beweise, der Vollständigkeit und
+des Reichtbums an Beispielen und Anwendungen,
+und der vorziüiglichen Kupfer geltend, Die Ueber-
+setzung ist flielsend und klar, die wenn auch spar-
+samen Anmerkungen des Uebersetzers zweckmälsig.
+Das Werk wird in acht Abschnitte zerfallen, wo-
+von dieses vor uns liegende erste Heft noch nicht ein-
+mal-den zweiten vollständig enthält. Der erste Ab-
+schnitt zerfällt in drei Kapitel. Kap, 1. Einleitung,
+Erläuterung der Projectionsmetkode, Als Probe
+der Darstellung und Uebersetzung geben wir den
+Anufang der Einleitung ,_ da dieser allein ohne Figu-
+ren verständlich ist. ‚,Gewiese Künste, heifst es,
+und technische Wissenschaften machen fast bei.je-
+dem Schritte, den man in ihnen thut, das Bedürfni(s
+fühlbar, körperliche Formen genau darzustellen;
+. entweder um gewisse geometrische Verhältnisse,
+die man an ihren entdeckt hat, augenscheinlich zu
+‘ machen, oder auch, um dem Künstler, der jene
+Formen nach bestimmten Maflsverhältnissen hervor-
+bringen soll, eine deutliche Anweisung zu geben,
+Unter allen Mitteln aber, die zur Erreichung dieser
+‚ Zwecke dienen können, ist das wirksamste und in
+manchen Fällen das einzige — die graphische Dar-
+stellung oder Zeichnung der Körper. Diese ist nun
+der Hauptgegenstand der darstellenden (Geometrie,
+deren allgemeine Methoden durch ihre Fruchtbarkeit
+in der Anwendung als Mittel zur Auffindung neuer
+Eigenschaften der Raumgröfsen dienen und zugleich
+die Art und Weise bestimmen sollen, nach welcher
+"die verschiedenen Probleme aus der Perspective,
+Stereometrie , Fortification u. s. w. aufgelöfst wer-
+den müssen, Hier aber zeigen sich zwei Haupt-
+schwierigkeiten, Für’s Erste haben alle Körper drei
+Ausdehnungen; da nun eine wirkliche Construction
+derselben im Raume sehr beschwerlich, wenn nicht
+gar unausführbar wäre, so mufs man sich nach sol-
+eben Methoden umsehen, durch welche man in den
+Stand gesetzt wird , alle Punkte im Raume ihrer ge-
+genseitigen Lage nach auf eine Ebene zu beziehen,
+oder wenigstens alle graphischen Operationen in die-
+ser einen Ebene vornehmen zu können, Da aber,
+für’s Zweite, diese Methoden nicht zur Aufstellung
+blofser Theorien, sondern vielmehr zur Ausführung
+wirklicher Operationen dienen sollen, so müssen sie
+zugleich die
+
+gebenen Stücke einer Aufgabe, als auch die daraus
+erlangten graphischen Resultate vollkommen genau
+darstellen könne; und diefs ist es hauptsächlich,
+worin sich diese Methoden von denen der gewöhnli-
+chen Geometrie unterscheiden, wenigstens wenn, in
+
+ 7Nüm 1604. SEPTEMBER 1897,
+
+ittel angeben, wie man sowohl die ge- -
+
+Jetzterer die drei Ausdehnungen des Raumes in Be-
+tracht kommen. In der gewöhnlichen Geometrie
+nämlich sollen die Figuren dem Verstande nur als
+Führer dienen durch die Reihe der zu dem Beweise
+eines Lehrsatzes nothwendigen Schlüsse, daher sie
+denn auch gewöhnlich auf eine unbestimmte Art und
+nach gewissen stillschweigenden Voraussetzungen,
+welche immer viel Willkürliches enthalten , gezeich-
+net werden, Um sich hiervon zu überzeugen, erin-
+nere man sich nur der Art, wie man gewöhnlich die
+Aufgahe löset: zwischen zwei gegebenen Geraden,
+die nicht in einerlei Ebene liegen , die kürzeste Linie
+zu ziehen; oder die Aufgabe: den Mittelpunkt und
+den Halbmesser einer Kugel zu finden , welche durch
+vier gegebene Punkte gehen soll. Die gewöhnli-
+che Geometrie zeigt bei diesen Aufgaben wohl an,
+welche Constructionen man und in welcher Folge
+man sie vorzunehmen habe, um zur Auflösung zu
+gelangen; aber sie giebt die Mittel nicht an, wie
+diese Constructionen wirklich ausgeführt werden
+können, damit man ein völlig bestimmtes Resultat
+erhalte, sowohl was die Gröfse und Lage der kür-
+zesten Linie in der ersten, als auch was die Län-
+ge des Halbmessers und die Lage des Mittel-
+punktes der gesuchten Kugel in der zweiten Auf-
+gabe betrifft,” Kap, 2. Aufgaben über gerade Li-
+nien und Ebenen und ihre Verbindung im Raume,
+Es sind ihrer 18. Kap. 3. Auflösung des körper-
+lichen Dreiecks, Es wird gezeigt, dafs, wenn von
+den sechs Elementen eines körperlichen Dreiecks
+drei bekannt sind, die Construction desselben auf
+die graphische Auflösung der nämlichen Aufgaben
+führe, welche die sphärische Trigonometrie durch
+den Calcul löfst. Es erscheinen daher die Aufga-
+ben: 1) Es sind die drei Seiten eines körperli-
+chen Dreiecks gegehen; man soll die drei FiXchen-
+
+‚winkel finden, 2) Man soll einen gegebenen Win-
+
+kel auf den Horizont reduciren. 3) Es sind zwei
+Seiten eines körperlichen Dr. und der eingeschlos-
+sene W, gegeben; man soll die übrigen Stücke
+finden. 4) Es sind zwei Seiten eines k, Dr. und
+ein Flächenwinkel gegeben, welcher der einen von
+den gegebenen Seiten gegenüberliegt; man s, d. ü,
+St. f. Der zweite Abschnitt handelt in 4 Kapiteln
+von den Flächen und ihren Berührungsebenen. Kap,
+3]. Von der Erzeugung der Flächen und ihrer gra-
+hischen Darstellung, Es erscheint also die Er-
+Klärung der Kegelfläche, der eylindrischen Fl.,
+der Umdrebungsfiäche, des Ellipsoids, des Hyper-
+holoids mit einem Mantel (4 une nappe), des Hyp.
+mit zwei Mäntein, des elliptischen Paraboleids,
+und des hyperbolischen Paraboloids. Kap. 2, Von
+den Berührungsebenen überhaupt, Kap. 3. Von
+den Berührungsebenen an Cylinder- und Kegelflä-
+chen, Von diesem Kapitel ist in diesem ersten Hef-
+te nur die einzige Aufgabe behandelt, durch einen
+gegebenen Punkt auf der Oberfläche eines beliehigeu
+Cylinders eine Berührungsebene zu legen. er
+Druck ist gut, das Papier zwar nicht schlecht,
+doch könnte es besser seyn, Mitten in einem Kirp.
+; ein
+

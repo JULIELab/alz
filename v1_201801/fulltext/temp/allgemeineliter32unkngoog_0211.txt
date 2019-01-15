@@ -1,0 +1,151 @@
+addendo et subtrahendo. Wie nahe war Stie-
+fel der. Erfindung der Logarithmen! "In’$. 182 veird
+
+zeigt, wie man aus den brigg’schen Logarithmen:
+eden Logarithmus des’ natürlichen Systems leicht‘
+
+rechnen könne, indem man sich eine Potenztafel
+der Basis 2,7 1828. ‚. berechnet. Der Vf, hat sie von
+5° bis 6°," mitgetheilt, wie sie Dr, Schürmann zu
+Osnabrück berechnet hatte. IX. Permutationen,
+Combinationen und Variationen. X. Der binomische
+und polynomische Satz für ganze positive Exponenten,
+In $. 213 giebt der Vf, mehrere bemerkenswerthe
+historische Notizen über den binomischen Lehrsatz,
+Newton wird der Ruhm der Erfindung wohl bleiben,
+wenn gleich es möglich ist, dafs Brigg’s ihn bereits
+etwas früher kannte, ohne jedoch mit seiner. Entde-
+ekung hervorzutreten, Auch kleidete er seine Regel
+noch in Worte ein, anstatt eine analytische Formel
+‚zu geben, Was den Beweis desselben anbelangt, so
+gab ihn Newton zuerst, jedoch nur -duroh Induetionz;
+"am einfachsten und. überzeugendsten, wenn ganze,
+sitive Exponenten vorausgesetzt werden , Kästner,
+och bewies er ihn in seinen Anfangsgründen der
+Analysis des Unendlichen auch für die anderen Ar-
+ten von Exponenten, Der Vf, giebt den von Hinden-
+burg zuerst angewendeten Beweis, der sich auf die
+Combinationslehre gründet, ‚XI, Progressionen. In
+8. 224, wo der Vf. von.der Summirung der Glieder
+
+oder: p=qgr + 2! gr +
+
+A. L..Z. Num, 128, ° JULIUS 1835. .
+
+‚Glieder einer arithmetischen Progression,
+
+n.N—
+1°2-3°4
+
+- 400’
+einer arithmefischen Progressiön spricht. wäre juvas
+der Satz zu beweisen gewesen ‚die ana je zweier
+| ie gleich-.
+
+weit vom Anfange und Ende derselhen entfernt sind
+ist stets einander gleich, Lesenswerth ist die Be |
+merkung $. 2335 über die Anwendüng der Lehre von
+
+en geometrischen Progressionen in der Bestimmung
+der Gröfse der Klangweiten der verschiedenen Töne
+der Tonleiter. XII. Die Kettenbrüche.
+der Vf. $. 288 ein bequemes Verfahren,
+telst der Kettenbrüche aus unvollständigen Quadra-
+ten die Wurzel zu ziehn. Theil II, Die Algebra:
+I. Die Gleichungen im Allgemeinen, In $. 311 eine _
+kurze Geschichte der A gebra. IT. Anweisung
+Gleichungen in die, für die Auflösung, schickliche
+Form zu bringen, In $. 318 und 319 spricht der Vf,
+von den Verfahrungsweisen, Gleichungen von Wur-
+zeigröfsen zu befreien. Ein Verfahren, welches dem
+Vf. von dem rühmlichst bekannten Dr. Tellkampf
+mitgetheilt wurde, stehe hier.
+
+Hier ‚giebt
+um vermit- |
+
+«on
+
+Ist nämlich gegeben V/p= g+Vr, so ist
+
+(VE ne
+‚n—1.n—2 '
+u
+
+in—2.n—8 n—Ayd etc,
+
+/M n—1 , nina nn n.n—1.n— 2 n—B nk nl .
++Ge HE q” 7 as — 9 v2 ete.)r?,
+
+   
+
+n ‘ n.n=1 n—
+also V’'r= dt 9
+
+19 1728
+
+Erheht man diese Gleichung ins Quadrat, 80 fallen
+alle Wurzelzeichen weg. III. Die Gleichungen vom
+‘ersten Grade , mit einer unbekannten Gröfse. L1V. Die
+Gleichungen vom ersten Grade, mit mehreren unbe-
+kannten Gröfsen, .Da Bezout, in seiner Theorie ge-
+nerale des Equations algEbriques, bewies, dafs der
+Grad der Endgleichung, auf welche die Elimination
+von beliebig vielen unbekannten Gröfsen, welche
+durch eben so viele vollständige Gleichungen gegeben
+sind, führe, nicht gröfser sey, als das Product der
+Exponenten der Grade dieser Gleichungen: 8o be-
+‚merkt der Vf, richtig dabei, dafs man, damit dieser
+Satz für alle Gleichungen gelte, eine Gleichung, de-
+ren höchstes Glied n Dimensionen hat, wo also die
+Summe der Exponenten der in diesem Gliede enthal-
+tenen unbekannten Gröfsen = n ist, als eine vom
+nıten Grade ansehen müsse, ‚So führen z. B. die bei-
+den Gleichnngen x+4+y=a, und zy=b&, auf eine
+Endgleichung vom zweiten Grade, und die drei Glei-
+ehungen x+Yy= 0, Yy+ız=b, zyz=c, auf eine
+vom dritten Grade; weil das Glied z5y zwei, und das
+Glied ryz drei Dimensionen hat.” Im $. 339 giebt
+
+N,N —
+
+nn ini nn Aa +ete. )
+
+ 
+
+1
+Y-:-3
+
+  
+
+1 °
+
+4
+aan 1 mn lın—i na, Aın—l.nmlın—d nt par
+
+1°2°3°‘4'5
+
+der Vf, zwei neue arithmetisch - geometrische Bewei:
+se des Pythagorischen Lehrsätzes, wovon allerdings
+der erste dem Euklidisthen vorzuziehen seyn dürfte,
+Doch der Raum verbietet uns, weiter auf das Kinzel-
+ne einzugehn; wir geben deshalb nur noch kurz die
+Uebersicht des zweiten Theils bis zu Ende. V. Die
+Gleichungen vom zweiten Grade, VI. Die Gleichun-
+gen vom dritten Grade. VIEL Die Gleichungen vom
+vierten Grade, VIII, Nachträge zu der Lehre von
+der allgemeinen Auflösung der Gleichungen. IX, Al-
+gemeine Kigenschaften der Gleichen en, Verwand-.
+Jungen derselben , und die Eigenschaften ihrer Wur-
+zeln. X. Die Zahlengleichungen , das Aufsuchen der
+rationalen, und die Begrenzung der irrationalen
+Wurzeln derselben. XI, Nüherungsmethoden , we}-
+che hei der Berechnung der irrationalen Wurzeln ei-
+ner Gleichung anzuwenden sind. XII. Die unbe-
+stimmien Gleichungen der ersten beiden Grade. Alle
+diese Kapitel sind mit grofser Vollständigkeit und
+Fafslichkeit abgehandelt. Druck und Papier sind
+vortrefflich. '
+
+ 
+

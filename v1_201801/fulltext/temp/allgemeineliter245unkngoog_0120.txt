@@ -1,0 +1,133 @@
+ 
+
+ 
+
+ 
+
+ZU
+
+2 SE 29 — ;
+""  ERGANZUNGSBLÄTTER |
+
+R -
+
+ 
+
+:ALLG EMEINEN LITERATUR -ZEITUNG
+
+‚März
+
+1835.
+
+ 
+
+z : MATHEMATIK,
+DanmsTADT, b, Leske: Principfen der reinen Ana-
+Jysie, für Uie Vorlesımgen an dem Grofsherzogl,
+- jessischen Katasterbüreau in Darmstadt, ent-
+worfen von €. U. P. Eckhardt, Grofsherzogl,
+. Hose, Yinisterialrathe, 1833, 238 8,8, (1Ri
+© 8g6Gr. Ch .
+
+.z
+
+ 
+
+V on jem Buche kann man, je nachdem’ man es
+„betrachtet, sagen, dals es zu viel oder.zu wenig
+„ thut, und ein allgemeines Urtheil darüber wird ia
+jedem Falle dahin ausfallen müssen, dafs es nicht zu
+den erfreulichen Bereicherungen.der mathematischön
+; Literatur gehört, Wenn, nämlich der Vf, nur die
+‘ Absicht hatte, ein Inventarium der Sätze zu liefern,
+die in seinen Vorlesungen über die Analysis vorkom-
+"men, so wäre es am klügsten gewesen, wenn er diese
+‚ Sätze ohne weitere Zutbat hinter einander aufgeführt
+. hätte,. und er. wäre alsdann mit 30 Seiten abgekom-
+“men, Wenn’er aber die Absicht hatte, seinen Schü-
+„Jern ein Lehrbuch in die Hände zu geben, in wel-
+; chem sie eine gründliche Belehrung über die Analysis
+‚ finden könnten, so hat er, milde ausgedrückt, sei-
+‚nen Zweck verfehlt. Denn es ist uns noch kein
+"Lehrbuch der Analysis aus neuerer Zeit zu Gesicht
+” gekommen , in welchem die Oberfiächlichkeit und Un-
+” gründlichkeit so offen betrieben worden‘ wäre, als
+Berade in diesem, Ja wir können uns kaum denken,
+‚ dafs der Vf. bei seinen Vorlesungen.sich‘ nicht einer
+tiefern Begründung der einzelnen Lehren befleilsigte,
+* missen uns aber um so mehr wundern, wie er es
+über sich gewinnen konate, ein so lockeres Gewebe
+7 als Grundlage seiner Vorlesungen herauszugeben,
+In jedem Falle müssen wir Jedem, dem es um ein ern-
+stes Studium der Mathematik zu thun ist, abrathen,
+sich dieses Buches als Führer zu bedienen. Wir wür-
+„den Anstand nehmen , ein so hartes Urtheil über die
+. Arbeit eines verdienten Matbematikors und Lehrers
+auszusprechen, wena wir nicht dureh Analyse der-
+„ selben die Richtigkeit unserer Behauptung sehr leicht
+‘erweisen könnten!. Der Vf, theilt die Analysis in
+drei Hauptabschnitte, die die Menomien, Binomien
+_ und Polynomien enthalten, . Der erste Abschnitt, der
+; die Monomien enthält, behandelt zuerst die einfachen
+algebraischen Operationen und geht dann zu den Po-
+tenzen und Wurzeln fort. Hier stofsen wir schon auf
+eine grofse Ungenauigkeit, Der Vf. geht ‚nämlich
+von dem Falle aus, wenn der Erponent eine ganze
+Krgäne, Bl.’sur 4, L. Z, 1885.
+
+"positive Zahl istz für diesen Fall wird alsdann "be-.
+wiesen, dafs ST = am—n, wenn m gröfßserwie n ist,
+
+-Ohne sich aher im Geringsten an diese letzte Bedin--
+
+ng zu kehren, geht der Vf, sogleich zu der Be-
+Fiußeung über, dafs dasselbe der Fall sey, wenn
+auch m kleiner wie.n sey. Was man sich aber unter
+einem negativen. Exponenten zu denken habe, ob er
+ein blofses Symbol sey, oder ob man. einen allgemei-
+nern Begriff der Potenz aufstelleg könne, nach wel-
+ehem sick auch negative Exrponenten als etwas Reelles
+denken liefsen, darüber fiudet sich kein Wort, ‚Nicht
+besser geht es mit den gebrochenen Potenzen, Der
+Vf. beguügt sich damit, zu bemerken, dafs es gegen-
+
+ 
+
+. - m „2
+wärtig gewöhnlicher sey, statt /5 den Ausdruck cm
+zu setzen; mit welchem Rechte‘ man aber diese Ge-
+wohnheit angenommen hahe, mit welchem Rechte
+man sich erJauben dürfe, an den Potenzen mit gebro-
+chenen Exponenten alle Operationen eben so zu voll-
+‚ziehen, als wären es Potenzen mit ganzen Exponen-
+ten, darüber ist wieder in dem Buche Nichts zi fin-
+„den; es wird eben immer weiter gerechnet, Es fol-
+
+nun die ersten Grundzüge der Gleichungen und
+„die Proportionen, Dafs der Vf. nicht aus Letzteren,
+wie viele andere Schriftsteller, ein eigenes Lehrge-
+
+‘bäude ht bat, sondern sie.als das, was sie
+sind, einfache Gleichungen erscheinen läfst,‘ ist
+‚sehr zu loben. Den Beschlufs dieser Abtheilung
+
+macht die KriXuterung des Begriffs der Funetionen,
+Exponenti: jen und Logarithmen. IJın 2ten Ab-
+schnitte behandelt nun der Vf, die Binomien, Aber
+wie verführt er hierbei? Er nimmt zuerst ein Pro-
+duct von zwei zweitheiligen Faetoren (x + 5) (x +4)
+und entwickelt es, darauf nimmt er ein Product von
+drei und vier zweitheiligen Factoren und verführt
+auf dieselbe Weise. Nachdem diels geschehen ist,
+wird bemerkt, dafs, wenn man allgemein ein Pro-
+duet von n solchen Factoren hat, die Coeffeienten
+des entwickelten Resultats ein gewisses Gesetz be-
+folgen, welches angegeben wird; mit dem Bemerken,
+„wie man sich leicht dürch fortgesetzte Multiplication
+Überzeugen kann.” Von einem Beweise ist keine
+Rede, und es möge hier gelegentlich bemerkt wer-
+den, dafs es hiernach nicht auffallen kann, wenn
+im ganzen Buche kein einziger‘Satz ans der Combi-
+nationslehre erwähnt wird. Der Vf. leitet nun nicht
+den penendern Fall, wenn alle Factoren gleich sind,
+

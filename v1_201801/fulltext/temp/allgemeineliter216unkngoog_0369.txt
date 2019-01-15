@@ -1,0 +1,203 @@
+789
+
+imination aus - = — -
+man auch ohne Elimit ‚°79 a  sina sine
+
+= sin y cotg u + cos y ableiten kann. Von der logar
+rithmischen Brauchbarmachung ist überall nicht die
+
+Rede; sonst hätte die ebengenannte Gleichung ent-
+
+) weder durch Substitution eines Hülfswinkels zusam-
+‚mengezogen, oder, mittelst eines kleinen Kunst-
+griffs, auf die bekannte Regel zurückgeführt wer-
+den,können.
+
+In der sphärischen Trigonometrie geht der Vf.
+
+von der Formel: cos a = cos b cos c + sin b sin c
+
+'_cos @ aus; die mit c= a cos ß + & cos @ analoge
+
+tg a cosß +1gb cos a
+
+1—cosa cos ß tg a'tg b”
+
+deren Richtigkeit sehr leicht ursprünglich zu bewei-
+
+sen ist. Hiermit wäre noch der
+
+dafs man aus dieset Grundformel mit ihren beiden
+
+Varianten die andern Relationen auf eine einfache
+
+Weise, durch, blofse Elimination, ohne die Resultate
+
+. zu beabsichtigen und demgemäfs künstlich vorzube-
+
+_ reiten, gelangt. Im Uehrigen ist auch hier die Art,
+
+wie der Vf. die Eigenschaften sphärischer Dreyecke
+
+_ aus den Gleichungen ableitet, sehr zu loben, wie-
+‘, wohl für den Geübten dergleichen Bemerkungen fast
+
+überflüssig sind. Von den Neper’schen und Dci.sm-
+bre’schen Analogien, so wie von der logarithmischen
+Brauchbarmachung, ist nicht die Rede, wahrschein-
+lich weil dieses aufser dem Zwecke des Vfs lag.
+
+Bey dem Parallelepipedum werden zunächst
+einige Formeln abgeleitet, welche sich auf die Pro-
+jectionen der Diagonalen beziehen; dann wird die
+Gröfse der Hauptdiagonale D gefunden. Diese Ab-
+leitung scheint uns wieder etwas zu erkünstelt und
+verwickelt zu seyn. Nennt man die drey coordi-
+nirten Kanten des Parallelep. x, y, zZ, die entspre-
+
+° e£hbenden Winkel a, b, c, den von 6 und c gebil-
+deten Flächen- Winkel « , die Diagonale des Grund-
+parallelogramm &, den von k£ und x eingeschlosse-
+nen Winkel n, und den in der Diagonalfßäche von
+k und z gebildeten Winkel m, Sso’ist .
+
+' cos a — cos b cos c
+
+; ‚ sinbsince >? '
+
+2} cos m = cos a sin bsinn + cos b cosn
+
+cos @ — cos b cos c .
+
+Formel ist aber: 12°C =
+
+. 1) cos a =
+
+sin €
+8) K?=x?+y?-+2xy cosc,
+
+“+ cos 6
+
+Y ._ , also
+sin c
+
+‚7 5)D? = zz?! +k?+2zk cosm
+
+4) cotg n =
+
+y inc
+
+sinn
+
+ 
+
+= 214 x? +y? +2x) cos 6 + 2z
+(=* — C08 Ö cos c
+
+- sin m + cos 5 cos n)
+sin € .
+
+' ERGÄNZUNGSBLÄTTER ZUR A. L. Z,
+& sinß. sin(a+y)
+
+ertheil verbunden, _
+
+“deten Winkeln abgeleitet u. d. m. Diese
+
+‚einer aus der Spitze der Ecke beliebig gezoge
+. sin n + cost cos n, ©
+
+‘ cirt sich diese Gleichung bekanntlich auf cos? ®
+
+\
+
+= ZI 4 x? Ay! Lycos c + 2zy
+
+ 
+
+ 
+
+X
+- > COS C
+cos a cosb cos c y
+(ce0a 006b 000, z EL
+sin € sin €
+
+   
+   
+
+= zZ A Ay?ALxyCcosc+2Z2Y
++ 27x cos b, wie bey dem Vf. S. 49. '-
+
+Dasselbe ursprüngliche Verfahren läfst sich
+allen folgenden Aufgaben anwenden, z. B. bey
+Berechnung der Hauptdiagonale aus den drey A
+bendiagonalen und den durch sie gebildeten
+keln. — Die letzten bey dieser Gelegenheit von
+Vf. aufgestellten Probleme greifen schon in die
+Coordinaten- Verwandlung ein; denn es werden die
+Gröfsen der Kanten eines zweyten Parallelep. ge-
+sucht, welches in dem ersten liegt und damit eine
+
+emeinsame Hauptdiogonale hat, wenn entweder die
+inkel gegeben sind, welche.die drey ursprüng-
+lichen Kanten unter sich machen, so wie die Ab wei-.
+chung einer jeden der entsprechenden neuen Kanten
+(Nr. 49); oder die Winkel, welche die sechs Kan-
+ten, eine jede für sich, mit den drey urspüngliches
+Grenzflächen bilden ( Nr.’ 54).
+
+Bey der dreyseitigen Pyramide finden ähnliche
+Untersuchungen Statt. Zuerst wird eine Relation
+zwischen den Grenzflächen und Flächenwinkeln ge—
+
+eben; dann wird aus den Seitenflächen und den von
+
+ihnen gebildeten -Winkeln die Grundfläche, die |
+Höhe, der körperliche Inhalt der Pyramide und die
+Winkel gefunden, welche die Seitenflächen mit der
+Grundfläche bilden; dann werden dieselben Stücke
+aus den drey Seitenkanten und den durch sie gebil-
+nter-
+suchungen führen hin und wieder auf interessante
+Resultate, zu welchen man freylich auch, und viel-
+leicht kürzer, auf ursprünglichem Wege, in der Art
+wie wir es vorhin bey dem Parallelep. andeunteten,
+gelangen kann.
+
+Die zweyte Abtheilung sucht trigonometrische
+
+Relationen zwischen den Winkeln, welche gerade
+
+Linien und Winkel mit drey Axen oder coord. Ebe-
+nen und unter’sich bilden. Der Vf. geht hier z0a
+der früher entwickelten Formel aus: cos? 7 4-ces?
+X cos? W—2cos V cos U cosW = 1, woria Y, U
+W die Flächenwinkel bezeichnen, welche sich
+
+ 
+  
+  
+  
+
+oordins-
+
+Linie in Beziehung zu den drey schiefen
+Für rechtwinklige Coordinaterr redu-
+
+ten bilden.
+
++ cos? 8 + cos? y = 1, worin a, f, y die Winkel
+zwischen jener geraden Linie und den Axen andeu-
+ten. Unter den Aufgaben zeichnen sich folgende
+aus: Nr. 83. Es sind die Winkel gegeben, welche
+zwey aus dem Anfangspunkt gezogene Linien mit
+den drey Axen bilden; man soll hieraus den Wia-
+kel. finden, welchen jene Linien unter sich bilden.
+Nr. 88. Aus den Winkeln, welche eine aus dem
+Anfangspunkt gezogene gerade Linie mit den dre
+Axen macht, die Winkel ihrer Projection in der
+\ O-
+
+-
+

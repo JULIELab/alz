@@ -1,0 +1,158 @@
+-”
+
+, nen Zahlenlehre ist.
+
+855
+
+schaftlicher Strenge verfahren, so mufs man vorher
+üntersuchen, ob auch diese Erweiterung der: Bedeu-
+tung der. Zahlzeichen und der Gültigkeit der doch
+nur für wirkliche Zahlen erwiesenen Sätze keinen
+
+‘ Widerspruch gegen‘ irgend eine früher erkannte
+
+Wahrheit erzeugen, oder sich selbst Widerstreiten-
+
+des hervorbringen kann.” So heifst es S, 243: „Man '
+
+könnte vielleicht meinen, cs sey an: sich klar, da(s
+m 2; ‚m — PD ; ü
+wenn 7 = 7 ist, auch 4A g A seyn müsse,
+
+Man würde aber hierbei übersehn, dafs in diesen
+beiden Verbindungen das Gileichheitszeichen eine
+sehr verschiedene Bedeutung hat. In der ersten
+
+nämlich 2 =?
+
+N "n —_
+als dafs mq und np dieselbe Zahl bezeichnen, hat es
+eine rein formelle, an sich ganz willkürliche und nur
+in sofern bestimmte Bedeutung, als dieselbe geeignet
+ist, ein allgemeines Operiren ınit Zahlzeichen mög-
+Jich zu macben , welches eine Hauptaufgabe der rei-
+Dagegen bat in der zweiten
+
+Verbindung © 4 = 5 A, das Gleichheitszeichen,
+
+80 wie alle Zeichen der Gröfsenlehre, eine wirkli-
+
+che, materielle Bedeutung, und die Uebereinstim-
+mung beider Bedeutungen bedarf jedenfalls eines
+Beweises, Denn man wird doch nicht als etwas sich
+yon selbst Verstehendes annehmen wollen,. dafs
+wenn 72 = 8.9 = 6.12 ist, auch $ Ellen und z, El-
+Jen dieselbe Länge ausdrücken.” — WUoebrigens
+scheint uns das rechte Maafls zwischen allzugrofser
+Kürze und unnöthiger Breite fast durchgängig ge-
+halten zu seyn, — Der zweite Band ist nach einem
+ähnlichen Plane, wie der erste, bearbeitet, indem
+im Anfange die Beweise der Sätze gröfßstentheils nur
+angedeutet sind, damit sie der Schüler selbst suche,
+Mit Recht bemerkt der Vf, dafs eine vollständige
+Ausführung der Beweise eine heuristische Behand-
+lung fast ganz ausgeschlossen haben, und so dem
+
+— Schüler einen Hauptgenufs entzogen haben würde,
+
+welchen bei dem heuristischen Verfahren der geome-
+trische Unterricht dem Anfänger zu gewähren pflege.
+Den Lehrgang giebt der Vf, selbst so an: „, Die Ver-
+gleichung räumlicher Gröfsen führt entweder zur
+Gleichheit oder Verschiedenheit ; die Gleichheit kann
+aber eine doppelte seyn: entweder Gleichheit ver-
+bunden mit Identität — Congruenz — oder Gleich-
+heit obne Identität, Da aber Congruenz das einfach-
+ste Verbältnifs ist, welches überhaupt zwischen
+Gröfsen statt finden kann, so gehen die Sütze , wel-
+che sich mit der Vergleichung der Gröfsen beschäfti-
+gen, in wiefern sie congruent ader nicht congruent
+sin, allen anderen voraus, und zwar nehmen Linien
+und Winkel hier die erste Stelle ein (Absehnitt 1 u,
+2), weil sie überhaupt keine andere Vergleichung
+
+- zulassen; zu den Sätzen vom Winkel gehören aber
+
+offenbar auch die üher parallele Linien (Absehn, 3)
+und es folgen nun Sätze über die Vielecke,. in wie-
+
+‚fern dieselben congruent sind, .oder nicht, oder in
+
+;
+
+ALLG. LITERATUR - ZEITUNG |
+
+wo es nichts anders aussagen soll,
+
+‘müssen,
+
+wiefern üherhaupt nur von Gleichheit oder Ungleich-
+heit der Linian und Winkel in oder un denselben
+
+‚die Rede ist (Absehn-4-— 6). — Weiter-hat aber
+
+auch die Verschiedenheit gerade wieder ihre Gleich-
+heit, nämlich die der Verschiedenheit oder des Ver-
+hältnisses, und hieraus entspringt ein folgender A b-—-
+schnitt (7), von den Verhältnissen und Proportionen
+und der Aehnlichkeit der Figuren, indem man näns-
+lich diejenigen Figuren ähnlich neaunt, welche in dem
+Verhältnifs aller in denselben zu ziehenden gleich-
+liegenden Linien übereinstimmen, Sind aber in den
+vorhergehenden Abschnitten ‚eigentlich überall nur
+
+Linien und Winkel mit einander verglichen worden, _
+
+in wiefern sie congruent sind oder nicht, so lassen
+Figuren noch eine andere Vergleichung zu, nämlich
+in Hinsicht ihrer Gröfse oder ihres Inhaltes, abge-
+sehn von Congruenz; an diese Vergleichung zunächst
+der geradlinigen Figuren (Abschn. 8) reiht sich end
+lich noch ein besonderer Abschnitt (9) über die Aus-
+messung des Kreises.” Aufser diesen neun Ab-
+schnitten , die dasjenige enthalten, was in der Schu-
+Je durchaus gelehrt werden muls, folgen nun noch
+drei Abschuitte, die nach des Vfs, Plane auch theil-
+weise oder ganz übergangen werden können, Da
+dieser es für zweckmäfsig hielt, den geometrischen
+Unterricht früher zu beginnen, als den aricthmeti-
+schen, jenen z. B. in Quarta, diesen in Tertia, so
+bemühte er sich, dem Anfänger die Sache so leicht
+als möglich zu machen, um nicht den Schwächeren
+sogleich dürch Schwierigkeiten vom mathematischen
+Studium zurückzuschrecken, Zur Krreichung dieses
+Zweckes hielt er es für erforderlich , die Sätze mög-
+lichst naturgemäls ihrem Inhalte nach zu ordnen,
+indem nur so von dem Anfänger Uebersicht des Zu-
+
+.sammenhanges gewonnen werden könne, und strebte
+
+dahin, jede Wahrheit auf die möglichst einfache und
+dem kindlichen Geiste angemessene Art ans den vor-
+
+'hergehenden Sätzen abzuleiten, so wie jedes künst-
+
+liche Verfahren, so viel es’ seyn konnte, auszau-
+schlielsen. In der Planimetrie foigte der Vf. gröfs-
+tentheils dem Euklid, in der Stereometrie dagegen,
+welche den zweiten Abschnitt dieses zweiten Bandes
+bildet, glaubte er, wenigstens in den Sätzen, wel-
+che die gegenseitige Lage der Linien und Ebenen im
+Raume behandeln ‚eine von dem Euklidischen Ver-
+fahren gänzlich ahweichende Bahn einschlagen zu
+Die Gründe, welche den Vf. dazu bewe-
+en, waren das Streben nach Vereinfachung der
+arstellung, und der Wunsch, die’ Folge .der ein-
+zelnen Lehren sachgemäfs anzuordnen, Treffend er-
+klärt. sich der Vf. darüber. so: ‚,Kuklid weist be-
+kanntlich auch in 'der Stereometrie dem einzelnen
+Satze da seine Stelle an, wo entweder die Mittel zur
+Beweisführung desselben durch die vorhergehenden
+Sätze so eben gewonnen sind, oder wo der einzufüh-
+rende Satz für den Beweis eines folgenden Satzes
+nicht länger mehr entbehrt werden kann, so dafs gar
+häußg Sätze sehr verschiedenartigen Inhaltes unmit-
+telbar neben einander stehen, "Mit demselben Rechte
+aber, wie in jeder anderen Wissenschaft, . wird of
+ee SO ell-
+

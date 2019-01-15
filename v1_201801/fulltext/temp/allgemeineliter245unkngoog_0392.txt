@@ -1,0 +1,135 @@
+)
+
+|
+'
+
+0 Ds
+
+— 97 —
+
+ERGÄNZUNGSBLÄTTER
+
+3
+
+ZUR
+
+ALLGEMEINEN LITERATUR:- ZEITUNG
+
+ 
+
+\ ; October 1835.
+
+MATHEMATIK.
+
+Kömoszzno, b. Unzer: Algebraisches Kop;
+
+> men, oder Meier Hirsch’s algebraische Aufgaben
+* für die Gleichungen des ersten Grades mit einer
+und mit mehreren unbekannten Zahlen durch in
+Wörte je Schlüsse aufgelats für Lehrer an
+Blementarschulen und: für Sehüler höherer Bil-
+dungsanstalten, von A. T. Friedemann , Lehrer
+am Königl. Schullehrerseminar Karalene. Er-
+stes Bändchen, Aufgaben mit einer unbekann-
+ten Zahl. 1834, VILu, 9 5S. 8, (12 gGr.)
+
+De Bestimmung des Buches. hat der Vf, auf. dem
+Titel schon angegeben: hauptsächlich scheint er es
+für Lehrer an niederen Schulen geschrieben zu baben,
+'Für diese, glaubt der Vf,, habe es einen doppelten
+Nutzen, Erstlich nämlich diene es ihnen zur ei
+‚nen Fortbildung ;_ denn wenn man gleich von vie-
+len (?) soleher Lehagr voraussetzen dürfe, dafs
+‚dieselben, besonders die, welche zu ihrem Berufe in
+einem Schullehrerseminar vorgebildet seyen, auch
+olıne fremde Hülfe im Stande seyn würden, viele
+‚der hier folgenden Aufgaben bei efnigem Nachdenken
+aufzulösen: so gebe 6s doch gewifs auch sehr viele,
+die entweder keine Gelegenheit gehabt hätten, in
+‚dergleichen Auflösungen geübt zu werden, oder de-
+nen, wenn sie gleich in einem Seminar gewesen
+seyen, wegen geringer ‚Vorbildung, nicht viel Zeit
+lieben sey zu algehraischem. Kopfrechnen, ‚Da
+Ber Vf, es für zweckmäfsig hielt, die Ordaung. des
+‚abenbuches. von Meier Hirsch beizubehalten, so
+‚bezeichnete er zu Nutzen der Lernenden die schwe-
+reren Aufgaben und Auflösungen, damit diege bis
+‚zu, ‚einer späferen, Zeit usd erlangter gröfserer
+Uebung verspart werden könnten,
+‚Vf zu einer Aufgabe mehrere Auflösungen ‚gegeben,
+‚waß wir nur billigen, da es sehr vortheilbalt ist,
+-zu zeigen, wie man auf verschiedenem Wege oft zum
+:vorgesteckten Ziele gelangen könne. Die Auflösun-
+
+  
+
+. fr sind fast durchgehends deutlich und klar; einige
+
+ben uns vorzüglich gefallen. So die vier Auflö-
+„SUNgeR ZUF eiften Aufgabe: man soll 46 in zwei .un-
+„gleiche Theile theilen, und zwar so, dafs, wenn der
+;eine darch 7, der andere aber dureh 3 diridirt wird,
+„die Quotienten zusammen 10 ausmachen. \Velches
+‚sind diese Theile? Hier ist besauders die erste
+„Auflösung, obwohl sie fast so lang ist, als die drei
+‚audern zusammen , unserem Bedünken nach, die ge-
+
+Krgäns, Bl. zur 4. L. Z. 1885. .
+
+ 
+
+jußg hat der‘
+
+Jungenste, da sie den Scharfsinn am meisten fördert,
+Date diese Auflösungen in der Regel bei weitem
+länger sind, als die durch algebraische Zeichen er-
+haltenen , liegt in der Natur der Sachez doch sind
+einzelne Auflösungen des Vfs wenigstens eben se
+kurz. So.z.B. die Auflösung der Aufgabe 92: „Ei-
+ner meiner Bekannten ist jetzt 40, sein Sohn 9 Jahre
+altz nach wie viel, Jahren wird dieser Mann, der
+jetzt über vier Mal so alt, als sein Sohn ist, nur
+doppelt so alt seyn? ‚Aufl: Der Vater ist und
+bleibt 31 Jahre älter, als der Sohn.‘ Soll nun.der
+Vater doppelt, so alt seyn, als der Sohn, so mufs
+der. Sohn so viele Jahre alt seyn, als der Unter-
+schied ihres Alters ist, nämlich 31 Jahre; denn auch
+dann ist der Vater 31 Jahre älter, als der Sohn, also
+zwei Mal 31 Jahre, oder 64 Jahre alt, Diels ist der
+Fall (da der Sohn jetzt 9 Jahre alt ist,) nach 22
+Jahren,” Als Probe der Darstellungeart des Vfs,
+lassen wir hier noch die Aufgabe 164 folgen, die
+auch der Art der Auflösung halber interessant ist,
+Es ist folgende; „Ein General wollte sein Regiment
+in ein Quadrat stellen, Er versuchte es auf zwei
+Arten, Das erste Mal blieben ihm 39 Mann übrig;
+‚das zweite .Mal, da er die Seite des Quadrats um
+‚einen Mann vergröfserte, fehlten ihm 50 Mann, um
+„das Quadrat voll zu machen,” Die Aufgabe ist be-
+kannflich eine des ersten Grades, da das x? auf bei-
+den Seiten der Gleichung erscheinend, sich gegen-
+‚seitig anfhebt- (x? +39=(z+4+1)? —50), und rein
+algehraisch sehr leicht zu lösen, Aber auch die
+-Auflösungsweiso des Vfs ist kurz und scharfsinnig.
+‚Bevor er die Auflösung beginnt, macht er darauf
+‚aufmerksam, dafs der Unterschied zweier auf einan-
+:der folgenden. Zahlen.eine ungerade Zahl sey, da
+der Unterschied zwischen a? und (a +1)?; also
+zwischen a? und (a? + 2a + 1),.was auch a seyn
+-möge, immer Za +1 eey. Dann fährt er fort:
+„ist die Wurzel der kleineren, (a+1) die Wur-
+-zei der um 1 gröfseren.Zahl. So ist der Unterschied
+zwischen 1 (dem Quadrate von 1) und 4 (dem Qua-
+drate von 2), 3; zwischen 4 und 9 ist der Uhnter-
+„schied 5; zwischen 9 und 16 ist er 7 u, s, w.. Theilt
+man diesen Unterschied in solche zwei Theile, von
+.welchen-der eine Theil um 1 gröfser ist, als der an-
+dere (was bei einer ungeraden Zahl immer möglich
+it) so stellen die beiden erhaltenen Zahlen jene
+Zahl selbst dar, welche auf das Quadrat erhoben,
+;jenen Unterschied geben ( die Wurzeln der Qua-
+Tratzahlen,, deren Unterschied gegeben ist). So ist
+E (5) der
+
+ 
+

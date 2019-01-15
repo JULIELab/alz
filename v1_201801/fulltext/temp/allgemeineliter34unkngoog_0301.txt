@@ -1,0 +1,149 @@
+. x
+
+po
+
+hern Gleichungen aufzulösen , bewiesen werden kann,
+hat in der That das Aeufserste geleistet, was auf
+dieser Bahn zu erreichen ist. Was den Salz betriflt,
+dafs dieser Theorie gerade das Wesenitlichste fehle, —
+„Einfachheit und allgemeine Anwendbarkeit,” so wird
+hierauf Folgendes erianert: Die vorgesetzte Aufgabe
+war, eine Theorie zur allgemeinen Auflösung der Glei-
+chungen aufzufinden und dieses grofse Problem auf rein
+theoretischem Wege zu lösen. Es war hier nicht zu-
+
+nächst und unmittelbar von praktischer Anwendung:
+
+die Rede, Wenn es übrigens gewifs ist, dafs diese,
+nämlich die Anwendung, der letzte Zweck alles ma-
+thematischen Studiums seyn mufs, wenn solches von
+Nutzen seyn soll; so ist es eben so gewifs, dafs ohne
+Theorie eine sichere und so weit möglich ausgedehnte,
+nützliche Anwendung nicht Statt haben könne, son-
+dern dafs jeder praktische Satz, wenn er allgemein
+brauchbar und gültig seyn soll, auf einem theoretischen
+beruhen mufs. Die Theorie steht demnach immer hö-
+her als die praktischa Anwendung, weil sie höhere
+Geistesfunctionen und das Talent der Abstraction von
+wirklichen und bestimmten Dingen voraussetzt und in
+Anspruch nimmt; auch wirkt jede Erweiterung und
+Vervollkommunaung' der Theorie auf die Praxis zurück,
+indem, sobald man jene wohl begriffen hat, die noth-
+wendige Folge davon, die Erweiterung und Vervoll-
+kommnung dieser seyn wird.
+
+Wenn die Rec. einerseits dieser Theorie die Ein-
+‚fachheit und Anwendbarkeit abspricht, und anderer-
+‚seits zugesteht, da/s sie in ihrer hiesigen Gestalt , vor
+vielen anderen Methoden vortheilhaft sich auszeichne;
+‚auch ihren Verf, als einen durchaus selbstständigen und
+consequenien Denker anerkennt; so dürfte es wohl
+schwer.seyn nachzuweisen, wie sich diese Sätze ver-
+‚einigen lassen. VUebrigens wird die besiritiene Ein-
+£achheit und Anwendbarkeit dieser Thearie nach wei“
+ter unten näher beleuchtet werden, ”
+
+6. Die Meinung der Rec.'spricht sich weiter so
+aus: „Eben so wenig können wir geneigt seyn, diese
+Theorie für eine durchaus neue zu halten, da vielmehr
+aus dem oben Angeführten, ihre Identität. mit der
+längst bekannten Euler’schen Methode zur Genüge er-
+heilt, nur dafs die hiefsige umständlicher und ‚äyste-
+matischer entwickelt, und namentlich weit mehr Sorg-
+falt auf die Bildung der Normale und die Elimination
+
+” verwendet ist.”
+
+So ehrend dieser Ausspruch für den Verf. seyn
+aufs; indem solcher seiner Theorie Vorzüge vor jener
+des grofsen Analylikers L. Euler zugesteht; so kann
+doch nicht zugegeben werden, dafs dieselbe mit jener
+des Euler identisch ist. Es wäre zu weitläufig, hier
+die Mittelgieichungen, welche Zuler zur Auflösung der
+höhern Gleichungen erdacht hat, anzugeben. (Siehe
+G. S, Klüge’s Mathemat, Wörterbuch S, 425. Th. II.)
+Jeder unbefangene Sachkenner wird sich davon über-
+
+meugen, dafs Kuler’s Hülfsgleichungen gar’ nicht die
+
+geringste AsehnlichKeit mit den aus der Theorie des
+erf. hervorgehenden Normalgleichungen haben, Der
+
+ 
+
+"sen haben,
+
+| 04
+mit Recht so berühmie L, Euler hat, und Niemand
+wird es-bestreiten, auch in diesem Zweige der Mathe-
+malik, wie in so vielen andern , ein neues Licht ver-
+breitet und diesen Gegenstand mit gröfserer Bestimmt—-
+heit und Klarheit als alle seine Vorgänger behandelt;
+allein selbst dieser grofse Mathematiker würde einge
+siehen , dafs der Verf. in diesem einzelnen Fache wei-
+ter als er, und zwar so weit, als die Abstraction auf
+dieser Bahn kommen kann, wirklich gekommen ist.
+
+Wann hat L. Euler oder irgend einer der neuern
+malhematischen Schriftsteller die Gleichung des 3ten
+Grades so wie jene des Zten, und auch die Gleichung
+des 4ten Grades eben so aufgelöst? Selbst die Rec,
+sagt: „Das Verfahren der Auflösuug werde bei allen
+Graden gleichmäfsig durchgeführt. und dadurch eine
+
+enaue systematische Verbindung erhalten, dabei wer-
+de eine aeue Eliminations - Methode angewendet , wo-
+durch Gleichungen, die sonst nur auf den Zten und
+4ten Grad gebracht wurden, hier auf den 1sten und
+3ien Grad zurückgeführt sind.” — Sind dieses keine
+neuen wichtigen Erfindungen? — In welchem andern
+früher erschienenen Buche sind solche zu finden ?
+
+In dem Werke’ sind absichtlich die Auflösungen
+des L. Euler und der berühmtesten Analytiker ausführ-
+lich angegeben worden , damit sich jeder selbst über-
+zeugen könne, wie verschieden die neuen Auflösungen
+von den ältern sind, und welche Vorzüge sie vor die-
+Diese Vorzüge werden von der Rec.‘ ja
+selbst anerkannt. Siehe den obstehenden Sten Punkt.
+Und ungeachtet dieser eingeslandenen Vorzüge vor den
+
+‘bisher bekannten Methoden will die neu aufgestellte
+
+getadelt, und ihr Einfachheit und Anwendbarkeit ab-
+
+‘gesprochen werden.
+„Hätte Rec. die aus der neuen Theorie hervor-
+
+gehenden Auflösungen einer nähern Betrachtung ge-
+würdigt, sa würde er gefunden haben, dafs sie ein-
+facher und anwendbarer als alle bisher bekannten Auf-
+lösungen (dieser Art) sind. Die frühern Auflösungen
+des Zten, Sten.und 4ien Grades hatten sich nur damit
+
+‚beschäftigt, zu zeigen, wie eins vorgegebene einzelne
+
+Gleichung um sie aufzulösen behandelt werden könne,
+sie waren nur für einzelne hestimmte Fälle berechnet;
+die neuen Auflösungen sind allgemein, sie stellen die
+Werthe nicht nur der Gleichung des Zten und SZten
+Grades, sondern auch jene des 4ien (wie niemals zu-
+vor) in bestimmten algebraischen Formeln dar, Jede
+gegebene algebraische oder numerische Gleichung
+kann also, ohne ‚weitläufige Rechnung, durch diese
+Formeln sogleich ihre Auflösung finden. Was kanz
+wohl einfacher, was anwendbarer seyn? Die unwi-
+derleglichsten Belege:hiezu geben die im Buche ent-
+haltenen vielen Literalen—- und Zahlen - Beispiele,
+
+7. Recensent meint, der Verf. sey im Irmthume,
+dafs seine Methode neu sey, und habe die ven New-
+ton, Tschirnkhausen, Lagrange und.L. Euler nicht in
+Betracht gezogen. — Hierauf wird erwidert, dafs
+die Methoden von Newton, Tschirnhausen, Lagrange
+und L. Euler deın Verf. wohl bekannt sind, wie ch
+
+4 eo,
+
+Hm
+

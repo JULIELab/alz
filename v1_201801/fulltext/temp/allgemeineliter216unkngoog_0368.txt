@@ -1,0 +1,151 @@
+ 
+  
+  
+ 
+  
+  
+
+S
+
+ERGÄNZUNGSBLÄTTER
+
+738
+
+ZUR
+
+ALLGEMEI
+
+NEN LITERATUR - ZEITUN
+
+ 
+
+G
+
+August 1830. .
+
+ 
+
+ANALYTISCHE GEOMETARIE.
+
+Tüsınezn, b. Osiander: Varschule der analyti-, )
+
+schen Stereometrie für schiefe Axen,: von Dr.
+A. Hohl. Mit einer lithographirten Tafel.
+1830. Viu. 1495. (20 gGr.)
+
+A naiytische Stereometrie für schiefe Axen (Coor-
+dinaten) kann ihrem Begriff nach nur eine Anwen-
+dung der sphärischen '1rigonometrie auf die Lehre
+von den Gröfsen und Eigenschaften bestimmt con-
+struirter Körper seyn, namentlich, um aus einigen
+gegebenen oder gemessenen Stücken andere abzulei-
+ten, aus denen sich der Inhalt, die Oberfläche u.5.f.
+berechnen. Bekanntlich sind Parallelepipeden, Pris-
+mate, Pyramiden und Cylinder von gleicher Grund -
+
+fläche und Höhe, sie mögen gerade oder schief seyn,
+
+einander gleich; und es kommt also bey den schie-
+
+fen Körpern vorzüglich auf die Berechnung ihrer
+Höhe an, welche man bey den drey erstgenannten
+aus einer Ecke und Kante ableitet , bey den -beiden
+audern aber, mindestens in praktischen Anwendun-
+
+en, empirisch finden mufs. Aufserdem ist die
+‚Toordinaten - Verwandlung bey Körpern ein mit den
+genannten Untersuchungen verwandter Gegenstand,
+weil die Lage der drey ursprünglichen Richtungen
+gegen einen andern Anfangspunkt durch Ecken, und
+gegen eine andere Ebene durch Flächen - Winkel
+bestimmt wird.” Nur bey diesem Problem der Coor-
+dinaten - Verwandlung Sind allgemeine Relationen
+und erhebliche Zusämmenziehungen möglich, wel-
+ie einen eigenen Abschnitt von der analytischen
+Kometrie veranlassen, während die sterenmetri-
+en‘ Aufgaben bey schiefen Axen mehr als
+ebungsstücke in der Anwendung der sphärischen
+
+nig bemerkenswerthe Resultate auftreten.
+
+Die Schrift zerfällt in zwey Abtheilungen, wo-
+von die erste die ebene und. körperliche Trigono-
+metrie, das Parallelepipedum und_ die dreyseitige
+Pyramide behandelt. eil der Vf., wie derselbe in
+‘der Vorrede sagt, zwar für Beginnende schreibt,
+indessen doch Bekanntschaft mit der Trigonometrie
+und den Hauptlehren der Algebra voraussetzt, SO
+müssen wir nachsehn, ob sich seine Darstellung der
+Trigonometrie von der gewohnten so unterscheidet,
+um Ansprüche auf ein zweytes höheres Studium die-
+ser Lehre machen zu können. Zunächst spricht der
+Vf. von der Richtung und den Winkeln, Derselbe
+
+Ergänz. Bl. zur A. L. Z. 1880.
+
+igonometrie zu betrachten sind, bey welchen we-”
+
+unterscheidet AM und AN als Richtungen vor-
+wärts und rückwärts zwischen den Punkten M und
+N, dann AB und B_4 als Linien in derselben Be-
+deutung. Ferner bezeichnet AO0OC einen Winkel
+aufwärts, CO A einen Winkel abwärts u. s. f.; in-
+dessen scheinen uns dergleichen Relationen eben so
+überflüssig, als sie das Studium der Trigonometrie
+erschweren. Aus den Fundamentalformeln dieser
+Lehre lassen sich alle concrete Fälle ableiten; und
+will man allenfalls die Zulässigkeit der Substitution
+für negative Richtungen oder Winkel darthun, so
+kann dieses ein für alle Mal durch eine Figur, oder,
+was wohl wisserfschaftlicher wäre, auf dem Wege
+der Analysis geschehen. Dem Vf. stiften seine’ Un-
+terscheidungen doch keinen Nutzen, denn was der-
+se)%:;e später für spitze Winkel beweist ,. wird immer.
+noch besonders als auch für stumpfe Winkel rich-
+tig nachgewiesen.
+
+In der ebenen Trigonometrie geht der Vf. von
+der Grundformel aus: a cos ß+Bbcos u =—c, worin
+« und ß die den Seiten a und 6 gegenüberliegenden
+Winkel bezeichnen. Nachdem die Richtigkeit die
+ser Formel erst für spitze und dann für stumpfe
+Winkel nachgewiesen worden, combinirt der Vf. die .
+drey- Varianten derselben, leitet aus ihnen die Auf-‘-
+Jösungs - Gleichungen und aus diesen die bekannten
+Eigenschaften der ebenen Dreyecke ab, welches,
+Verfahren, als Vorbild für die sphärische Trigono-
+metrie, besonders zu loben ist. Alles dieses würde
+man, wie es schon oft geschehen, von der Grund-
+formel a? = bb: +c? —2bc cos « ausgehend, auch
+leisten können, und vielleicht mit noch etwas mehr
+Consequenz, weil der Vf. in der sphärischen Trigo-
+nometrie die homogene Formel zum Grunde'Jegt.
+
+Die Ableitung der Gleichung a sin 8 = b_sin a
+aus der Formel: sin «= 2 sin } «@ cos $ @ erscheint
+als etwas allzu künstlich. Der Vf. hätte aus seinen
+Grundformeln nur für zwey Seiten und die ihnen
+gegenüberliegenden Winkel] zu eliminiren brauchen;
+so wäre erst entstanden: _
+
+b cos y? + c cos y cosß +c cos © = d und
+
+bcos y cos BR +c cos? 8 + bb cosa = c, und daraus .
+
+d? cos y? — ec? cos ?P = b? — c?, welches, nach
+
+der ZusammenZiehung unmittelbar c sin 8 = bsiny
+
+jebt. Aus zwey Seiten mit dem eingeschlossenen
+
+iakel berechnet der Vf. einen andern Winkel nach
+. Ö—a cos y
+
+der Formel cotg a = ————
+
+A (5)
+
+asny ? welche Gleichung
+
+man
+

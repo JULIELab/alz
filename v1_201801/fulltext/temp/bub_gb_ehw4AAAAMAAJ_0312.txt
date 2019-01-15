@@ -1,0 +1,138 @@
+597
+
+clem Halbirungspunkt entfprechenden m andere II
+mimmt, diefe gröfser oder kleiner feyn werden?
+
+c) wobey noch ferner unterfucht werden kann:
+©b unter diefen andern M diejenigen, welche den
+vom Halbirungspunkte entfernteren Theilungspunk-
+ten entfprechen, kleiner oder gröfser feyn werden,
+als die den näheren entfprechenden?
+
+d) Hierauf folgt die allgemeine Compofition des
+Problems. Man conftruire m auf die vorhin befagte
+Art, und es fey gefunden worden , dafs m z.B. ein
+Gröfstes fey. un ift das gegebene MM entweder
+gleich m, oder gröfser, oder kleiner. Ift es gleich
+
+m; fo löft die Conftruction, wodurch » gefunden
+worden, das Problem, und zwar auf eine einzige
+Art, weil jedes andere MI kleiner ift. Ift es gröfser,
+fo ift die Aufgabe unmöglich, Ift es kleiner; fo
+wird fich zeigen laffen, dafs für diefen Fall der
+Raum, welchem das Rechteck aus den Abfchnitten
+der‘ zu theilenden geraden Linie gleich gemacht
+werden foll, kleiner als das, Quadrat der Hälfte die-
+fer Linie. fey, und allo. die T’heilung möglich, und
+zwar in zwey Punkten, deren jeder eine Auflöfung
+
+jebt. Man erhält allo in diefem Fall zwey Auflö-
+ragen; aber nicht mehrere, zu Folge deflen, was
+in c) gezeigt worden, dafs die den vom Halbirungs-
+punkte entferntern Punkten entfprechenden MM im—-
+mer kleiner find, als die den nähern ent(pre-
+chenden. '
+
+e) Nun ift aber der in der Compofition (nach a)
+gefundene Werth von m entweder durch die unmit-
+telbaren Data A, B, CC... heltimmt, wie z. B. in
+Lib. 1. de fect, rat, Loc. 5. Cal. 3 diefle Beftimmung
+fich wenig!tens ganz leicht ergiebt; und wenn die-
+fes ilt, {o hat man alles, was man wünfchen kann,
+um für jede gegebene Werthe von „4, B, C... und
+M die Möglichkeit oder Unmöglichkeit der Aufgabe
+unmittelbar zu beurtheilen: oder es ilt der Werth
+von m nur durch die mittelbaren Data «x, ß, y..,
+beftimmt; und in diefem Fall ift noch weiter zu
+thun übrig, wo es angeht, dafs ftatt diefer erfien
+Determination eine zweyte angegeben werde, wel-
+che den Werth von m” aus den unmittelbaren Datis
+ausdrücke; welches bey Lib. I de fect. rar. Loc. 6
+Caf. 2 und Cal. 4, und bey Loc. 7. Caf. 2 und Cal, 4
+gefchieht. Was es mit diefer zweyten Determina-
+tion für eine Bewandtnifs habe, davon fpricht auch
+Simfon in feiner Vorrede zu den Büchern de fectione-
+determinata; da diefelbe in diefen Büchern mehr-
+mals 'nöthig war, und ihre Ausführung im zwey-
+ten Buche zu den fchwereren Partieen des. Werks
+gehört. E
+
+Diefes Bisherige bezeichnet nun: den Gang, den
+„Apollonius nimmt, um bey den Aufgaben, wo das;
+was Pappus den Ziogispkosg MeyıcTOS und slaxımres
+nennt, Statt findet, denfelb£n herzuftellen. Dieler
+Gang des Apollonius war Käf/ner’n bey Abfafllung
+feiner Abhandlung De Monachis Apollonit Pergact
+im J. 1798 (in den Commentationibus föc. reg. /eient.
+Götting. Vol. XIV... 1800) unbekannt, da-er-dort-in
+$. 82 in Beziehung auf das, was Pappus: über die
+
+Num. 2905. NOVEMBER 1822-
+
+598
+
+Sectionem determinatam hat, fchrieb: „OQuod ratio-
+nes, quae maximae aut minimae dicuntur , tales int,
+non demonftrat Pappus. Id quomodo Apollonius
+praefliterit, neftimus; adeoque caremus has methodi
+maximorum et minimorum , qua mAagnus feomelra
+ufüuseft, parte. „Aliquid ejus Conjecturis af]equt li—
+ceret ” etc. 4
+
+Vebrigens find aufser dem Problem, Eine gege-
+bene gerade Linie in einem Punkt fo zu theilen, dafs
+das Rechteck aus den Ab(chnitten einem gegebenen
+Raume gleich. fey „ auch noch andere, welche bey
+denjenigen Problemen, die auf fie zurückgeführt
+werden, gewöhnlich. eine gröfste oder kleinfte De-
+termination nach fich ziehen; wie z. B. die Aufga-
+ben: An eine der Lage nach gegebene gerade Linie
+oder Kreis aus einem aufser ihr gegebenen Punkte
+eine der Gröfse nach gegebene gerade Linie zu zie-
+hen; An einen gegebenen Kreis von einem aufser—-
+halb deffelben gegebenen Punkte eine gerade Linie
+zu ziehen, die mit einer der Lage nach gegebenen
+geraden. Linie einen gegebenen Winkel mache; Aus
+einem gegebenen Winkel eines Dreyecks und dem
+Verhältnifs der Seiten, die einen andern Winkel
+deffelben einfchliefsen, das Dreyeck der Gattung
+nach zu beftimmen u. a.
+
+Das Wort govxxos5 erklärt Käftner in der angef.
+Abh, nur mit, den Worten: „certo quodam chara-
+ctere inter plures _füt generis. infignitus, ut ob cam
+rem unicus diet poffit.” Es ift aber dabey beachtens-
+werth, was fchon Fermat (Varim Opera: Tolof.
+1619: p. 67) als Grund jener Benennung angegeben
+hatte: „„quia, ft proponatur quaeflie circa‘ magnilu-
+dines datas, duobus femper locis fatisfit quaeflioni ;
+JSed in minimo aut maximo termino unicus eft, qui
+Satisfaciat, locus. Ideirco Pappus. vocat maximam
+et Jingulareml, 7. e. unicam quaeftionem omnium,,
+fc proponi po/Junt, minimam,” — Da aber der
+
+‚afus. oder Modus fingularis aus diefer Benennung
+fchon auch in der Scrtione ratimis: nach Hulley
+Lib, I. Loc. 5. Cal, 3, Loc. 6; Caf. 2 und 4, Loc. 7.
+Caf. 2 und 4 fich findet; fo hebt fich. die Schwierig-
+keit, weiche Küflner in der Vorrede der angef. Abh.
+mit den Worten änfsert: „.Agunt autem Apoallonii
+Libri [de fert. det.) de rationibus rertangularum va-
+riis legibus determinatorum. Inter has manifeflum
+eft, plures occurrere rationes maximas aut minımas.
+Cur is folis locis, quos eitavi [nämlich Pappi Lib.
+VIL prop. 59. 62; 64] morachi nominentur,. expli-
+care non pofjum.” Jede ratio maxima oder minimda
+nicht blofs in den Aufgaben de /ectione determinata,,
+fondern in jeder geometrifchen Aufgabe, ift und
+heifst nach der  Oache der Alten: ratio fingularis
+oder monacha. nd jede Aufgabe, deren. Compo-
+fition zwey Auflöfungen gieht, hat auch einen Ca/us:
+HOMO, ngularıy, im welchem nur eine einzige
+Auflöfung Statt findet. Eine Aufgabe aber , deren
+Compofition nur eine Auflöfung giebt, hat keinem
+Gafus fingularis,. Keine: Determinatio: maxima oder
+minimd..
+
+Im
+

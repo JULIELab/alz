@@ -1,0 +1,136 @@
+75
+
+Schlufs von n''auf n+4-1 an, und sagt am Schlusse
+seiner Betrachtungen , dafs weil bey der Mult?plica-
+: tion von Brüchen Z
+Nenner multiplicirt werden müssen, und bey ent-
+gegengesetzten Gröfsen die Zeichen besonders be-
+trachtet werden, die gegebene Regel als allgemein
+erwiesen angenommen werden könne; aber wir
+werden sogleich Gelegenheit haben zu zeigen, dafs
+dem keinesweges so,‚sey, sondern, dafs die Ablei-
+tung der Regeln für die Bruchrechnung nach dem
+erfahren der sogenannten allgemeinen Mathematik,
+jene beliebige Vertauschbarkeit der Factoren in Ab-
+sicht ihrer Folge, stillschweigend voraussetzt.
+. „Die Methode, die ich im Vortrage der Lehre
+von gebrochenen Zahlen befolgt habe,” ‘heifst es
+weiter in der Vorrede, „bitte ich als einen blofsen
+Versuch zu betrachten. Die Bemerkung veranlafste
+mich dazu, dafs die meisten Lehrbücher die Erklä-
+rung einer gebrochenen Zahl auf den Begriff eines
+_ einfachen Bruchs beschränken, und dann die zu-
+sammengesetzten Brüche für blofse Quotienten er-
+klären, ohne zu beweisen, dafs sie es sind, was si-
+cher ein Fehler gegen die Methode ist. Ich suchte.
+daher eine der gewöhnlichen Vorstellung von einem
+Bruche so viel als möglich entsprechende Erklärung
+auf, die jedoch auch auf zusammengesetzte Brüche
+passen möchte, und gerieth durch die in diesem
+erke angegebene, von der mich die Erfahrung
+überzeugte, dafs Anfänger, wenn sie nur einige
+wenige Vorkenntnisse von Gleichungen (sieh, sieh!)
+zum Unterrichte mitbringen (wie es bey mir der
+Fall ist), diese Darstellung ohne Schwierigkeit auf-
+fassen , und die folgenden Sätze mit grofser Leich-
+tigkeit daraus ableiten.” Wir wollen nun nach-
+sehn, worin das Eigenthümliche dieser Darstellung
+besteht. Der Vf. legt der Zahl a eine beliebige Ein-
+heit .E unter, welche er dem Producte zweyer an-
+dern Gröfsen Q.d gleichsetzt; hiernach kann nun
+E auch als Zahl gedacht werden, deren Vielheit Q
+und deren KEinbeit & ist, so dafs der Quotient
+
+EB die absolute Eins des Bruchs = bezeichnen wür-
+de. Wir glauben hier den richtigen Sinn getroffen
+zu haben, welchen der Vf. dem Schema O3 „E
+unterlegt, insofern er durch dasselbe eine relative
+Zahl (ganze, oder gebrochene) anzudeuten beab-
+sichtigt. Setzt man &=1, so wird E = 1, mithin
+ist für T die absolute Eins nicht gebrochen. ‚Es ist
+
+aber wirklich jede rein arithmetische, d.i. unbe-
+nannte Zahl ibrer Vielheit vollkommen identisch
+(und hieraus sollte gerade, unserer Meinung nach,
+der Begriff des Bruchs abstrahirt werden, als eine
+‚Zahl, deren Gröfse das Product der Vielheit mit ei-
+ner anderweitig gegebenen, also relativen, Einheit
+
+ist), daher 1.a = T == a, und dieses einfache Sche-
+ma ist als Grundlage zur Bruchrechnung vollkom-
+
+ALLG. LITERATUR - ZEITUNG
+
+ähler mit Zähler und Nenner mit -
+
+76
+
+men ausreichend. Der erste Schlufs ‚ welchen der
+Vf. aus seiner zusammengesetzten Erklärung zieht, _
+will uns so wenig als alle folgenden besonders ein-
+
+leuchten; denn er sagt $. 17,‘es ist £ = 3.0, weil
+b= = und wegen der Erklä: ung des Bruchs. Diese
+aber besteht gerade in der Annahme, dafs 5 also
+
+der Nenner 5, die absolute Eins des Bruchs bezeich=
+ne, und käme es nur gerade darauf an nachzuwei—-
+
+sen, dafs die Einheit des Zählers = C d. i. = 3 sey.
+
+Uns stellt sich nur eine Möglichkeit dar dieses Re-
+sultat zu gewinnen, nämlich das Verfahren der Ad-
+
+. 1.1,1 a1
+dition von atıtzat.e = 3=5 0 und selbst
+hierbey kommt es.noch auf den Begriff des Theilens
+
+1+... 1.1.1. Le
+LEE LA = ötstzat..., als Entge-
+gensetzung der Multiplication. Aufserdem ist aber
+ene erkünstelte Bruchform selbst für den Vf. wenig
+Erauchbar; denn so’z. B. leitet derselbe-S. 43 die
+Maultiplication zweyer Brüche, ohne Rücksicht auf
+sein Schema zu nehmen, genetisch ab, d. h. be-
+trachtet den einen Factor seiner Entstehung aus der
+Einheit nach, und setzt dann auf ähnliche Weise
+das Product aus dem andern Factor zusammen. Die
+allgemeine Mathematik bedarf aber, nachdem ein-
+mal der Grundbegriff des Bruchs, als Zahl, fest-
+gestellt worden, d. i, nachdem man weifs, dafs
+
+5 = 7.4 = a, z) solcher dialektischen Halfsmittel
+
+nicht, denn ibr Verfahren besteht im Fingiren der
+Resultate und Realisirung der Fiction nach dem
+Satze des zureichenden Grundes, als im. vorliegen-
+
+C ac
+
+den Falle: zg=—, 5°d ‚6.d= 7.0.4 .d=a.0
+
+SE = X. Bey der Behandlung zu-
+
+sammengesetzter Brüche findet dieses Verfahren
+eben so wenig Schwierigkeit; «denn: nachdem man
+zuvor erwies, dals, was auch 4 und B bedeuten,
+
+= x.6.d, also
+
+A d.n An A
+= (= SB. 5=5. 1); folgt unmittelbar,
+(0 2 a,E x anc
+wenn gegeben n- 7 = 69’ unterdefs der Vf.
+°g ° c ’
+
+bey'der Auflösung solcher Fälle nach seinem Sche-
+ma aufserordentlich weitläufig und dennoch wenig
+überzeugend ist. Jedoch es wird Zeit, dafs wir
+wieder zur Vorrede zurückkehren.
+
+' Weil der Vf., in der Vorrede fortfahrend,; mit
+uns und gewifs allen Mathematikern übereinstim-
+, ; mend,
+
+ 
+

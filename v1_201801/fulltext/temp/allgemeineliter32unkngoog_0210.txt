@@ -1,0 +1,137 @@
+sich damır leiuhti anf den. eraten zurückführen. Bei
+der Lehre von den periodisehen-Deecimalbrüchen führt‘
+der Vf. sehr richtig den Satz, dafs eine Periode mit
+einer Anzahl von Ziffern schlielse, die immer 1 weni-
+ger beträgt, als die. Primzahl, welche Nenner des
+Ser yandelten Bruches ist, Kinheiten hat, auf.den von:
+Fermat zuerst aufgestellten, später von Eıder und Le
+Gendre, in seiner Thdorie des nombres , bewiesenen
+Satz zurück: wenn man irgend eine Primzahl hat,
+und auch eine andere beliebige Zahl, die durch diese
+Primzahl nicht theilhar ist, und man multiplioirt
+Intztere Zahl so oft mit sich selbst, als die obige
+Primzahl Einheiten hat, weniger eins, so ist das
+herauskommende Product, wenn man } davon abzieht,
+durch die Primzahl theilbar, EI. Buchstabenrechnung
+im Allgemeinen. Treffend widerlegt hier der Vf. den
+Beweis Kuler’s für den Satz, dafs bei der Maltipli-
+oation von Buchstabengröfsen gleiche Zeichen ein 1
+sitives, ungleiche ein negatives Product geben. Um
+der Sonderbarkeit willen theilen wir hier den Beweis
+des berühmten Kramp, Prof, in Stralsburg mit, den
+er für diesen Satz, in seiner Arithmetigue universelle
+giebt: ‚Le theor2me, en vertu duquel deux facteurs
+neEgatifs donnent un produit affecte du signe 0pposE &
+moins, ef par consequent positif,revient & la rögle
+tr2a-conmie de la grammaire: duplex negatio affır-
+mat.” Bei der Division der Buchstabengröfsen macht
+der Vf. unter Anderem auf die sonderbaren Erschei-
+
+und
+
+ 
+
+ 
+
+uungen aufmerksam, die sich darbieten, wenn man
+1 1 KIN 3222 La |
+= 173 wirklich dividirt, und für d z. B.
+die Werthe 1; 2 ete. setzt. III. Rechnung mit Po-
+tenzen. Die Ehtstehung von Potenzen mit negativen
+Exponenten hätte schärfer nachgewiesen werden müs-
+sen, Hat man nämlich z, B. a}:a*, 80 ist dies eigent..
+lich 229 _ 1_ 2 . Wendet man aber das eben
+008088 ea a
+
+gezeigte Verfahren der Division der Potenzen durch
+btraction der Exponenten, uneigentlicher Weise
+auch hier an, so erhält man a3-)=a-?, So er-
+scheint also die Form a? nur als ein uneigentlicher
+Ausdruck für > . Die Darstellung des Vfe. über
+das Krgebnifs von z——, wenn man a=1, d=2,
+x =—3 setzt, was Allerdings eine sonderbare Erschei-
+nusg gewährt, ist nicht ohne Interesse. IV. Auszie-
+hung der Wurzeln und Rechnung mit Wurzelgrüfsen.
+Ks wäre wohl in $. 81 der Lehrsatz aufzustellen und
+zu beweisen gewesen, da(s die nt® Potenz einer gan-
+zen Zahl höchstens » mal soviel, und wenigstens m
+mal soviel weniger (n—1) Ziffern haben müsse, als
+die Zahl selbst. Statt dessen sagt der Vf, blos „die
+Quarirate von einstelligen Zahlea haben 1 oder 2
+tellen 3 von Zstelligen Zahlen 3 oder 4 Stellen; von
+3stelligen Zahlen 3 oder 6 Stellen; von 4stelligen
+Zahlen 7 oder 8 Stellen” u.s. w. Recht zweckmälsig
+ist das $, 93 mitgetheilte Verfahren , eine Kubikwur-
+
+Num, 1228, JULIUS 1833,
+
+_-
+
+398
+zel auf 2n Stellen genau zu berechnen, wenn sie auf
+
+3
+n Stellen genau bekannt ist.’ Es ist z. B. V 124
+— 4,98663...; ferner ist (4,98663)? = 24,8664787569,
+Nun ist 124: 24,8664787369 = 4,9866328567.,
+Die doppelte Wurzel — 9,9732600000 addirt,
+
+; iebt 14,95308928567, durch
+3 dividirt, giebt 4.9686309522' die Wurzel auf 10
+Stellen genau, V. Bezeichnung der Wurzelgrößsen
+durch Bruchpotenzen, und Rechnung damit, VI. Rech-
+nung mit imaginären Gröfßfsen. Dals (—a)°= +1,
+ist klar bewiesen, nur könnte S, 1 von w, ein stören-
+der Druckfehler den Anfänger hier leicht irre ma-
+chen; es ist nämlich daselbst für (—a)°:(—a) zu
+lesen: (—a)":(—a)°. In $. 127 macht der Vf.
+auf die Ungereimtheiten aufmerksam, auf welebe:
+man stößlst, wenn man, wie man freilich scheinbar
+kann , die imaginären Gröfsen in reelle verwandeln
+wollte, Er sagt nämlich so: „es ist (2n+1)2
+
+== 4n-+2 eine gerade Zahl. Nach $, 125 aber ist
+2n+1 2n41
+—@3p imaginär, Es mufs aber —a”%»
+4n+2 4n+?2
+= —a "42" seyn; und — a713, ist
+= (—a) int =+V a + =+a 4p , Es
+
+mufs also eine imaginäre Gröfse einer reellen gleich
+seyn; oder es mufßs dieselbe Gröfse zugleich imaginär
+und reell seyn. VII. Reductionen. VII. Loga-
+rithmen. In 68, 136 lehrt der Vf. auf eine sehr sinn-.
+reiche Weise, die von der gewöhnlichen ganz ab-
+weicht, die Logarithmen für die Basis 10 zu berech-
+nen. Das Verfahren selbst können wir hier aus Man-
+
+el an Raum nicht mittheilen, In 8, 162 bemerkt der
+Wi. sehr richtig, dafs die Methode, die Lehre von
+den Logarithmen auf die Verbindung einer geometri-
+schen und arithmetischen Progression zu gründen,
+als höchst unzweckmäfsig zu verwerfen sey, Interes-
+sant ist die Bemerkung des Vfs, in demselben $., wie
+nahe es daran gewesen sey, dafs die Logarithmen ein
+halbes Jahrhundert früher erfunden worden wären,
+und dann einem Deutschen ganz angehört hätten,
+Michael Stiefel (oder Stifel) aus Efslingen , ein ge-
+lehrter Dorfprediger in Preufsen und trefflicher Rech-
+ner, stellt in seiner Arithmetica integra , vom Jahre
+1344, nachdem er vorher die Regeln über die Vor-
+zeigen erklärt hat, folgendes Täfelchen auf:
+
+Z3TZ2T ION 2137 #1 3767
+EEE.
+
+Dann sagt er: ‚Posset hic fere novus Hber integer
+scribi de mirabilibus numerorum, sed oportet, ut me
+hic subducam , et clausis oculis abenm, Repetam vero
+unum ex superioribus, ne frustra dicar fuisse in campo
+isto. Sed sententia inversa repetam , quod mik repe-
+tendum videtur. — Qualiacungque facit pro-
+gressio geometrica multiplieando et divi.
+dendo, talia facit progressio arithmelica
+ad-
+
+ 
+

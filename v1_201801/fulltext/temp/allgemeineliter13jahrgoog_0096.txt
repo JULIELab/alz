@@ -1,0 +1,104 @@
+1738 > Num. 22. MÄRZ 1840. 174
+— B . get hieraus: B B2 CC
+und da x = % — z— ist, 80 folgt hieraus: +57 — V (Fa — 7) — 0
+B B? C
+Ja A B BO
+2A (a 7) X + 5A + Y (ax:
+
+Dadurch erhalten wir die beiden Gleichungen des er-
+
+sten Grades:
+B? C
+
+— +) =0
+
+und da aus dem Produkte derselben
+
+A DDr (+0
+
+die gegebene Gleichung
+3 + BE TS + £ = O hervorgeht, 89 folgt hieraus,
+
+dass sich auch diese Gleichung in zwei Gleichungen
+des ersten Grades als Factoren zerlegen lässt, und
+dass daher dieses Produkt auf doppelte Weise 0 seyn
+kann, indem entweder der eigye oder der andere
+Factor O ist. Hierin liegt der Grund, dass im Allge-
+meinen zwei verschiedene Werthe für x der Forde-
+rung der Gleichung ein Genüge leisten.” — Die Glei-
+chungen vom dritten und von höheren Graden. — Die
+Logarithmen. Wünschenswerth wäre es gewesen,
+dass der Vf. die Lehre von der Interpolation für Zah-
+len von mehr als fünf Ziffern, nicht lediglich den
+Tafeln zu entwickeln überlassen hätte. Die Begrün-
+dung derselben gehörte doch in ein Lehrbuch. —
+Die bgarithmischen Gleichungen werden natürlich nur
+ganz kurz berührt. — Von den Eigenschaften der
+Zahlen, und zwar zuerst von der Theilbarkeit der
+Zahlen. Zweitens von den unbestimmten Gleichun-
+gen. Drittens von den rationalen und irrationalen
+Zahlen, Vierteus von den Kettenbrüchen. — Von
+den Reihen. Sowohl für die ariıthmetischen , wie für
+die geometrischen Reihen sind die zwanzig Formeln
+vollständig abgeleitet. Doch konnten für die arith-
+metischen Reihen noch die Fragen beantwortet wer-
+den: 1) wie weit man die Reihe fortsetzen müsse,
+um, wenn @ und d entgegengesetzte Zeichen haben,
+ein — z zu erhalten, wenn @ + und d—, oder ein
++ zz, wenn a4 — und d + ist; 2) unter welcher Be-
+dinguug zZ 1-0 werden könne; und 3) das wievielste
+Glied dann = 0 werden müsse. Ebenso wären bei
+den geometrischen Reihen wohl noch die Fälle zu
+berücksichtigen gewesen, wo a, oder e, oder beide
+negativ gesetzt werden. — Der zweite Haupttheil
+des Buches begreift die Geometrie, und auch hier geht
+der Vf. einen ganz eigenthümlichen Gang. Er be-
+ginnt mit der niederen ebenen Geometrie , gıebt, nach
+Vorausschickung der nothwendigsten Vorbegriffe über
+Linie, Winkel u. s. w., die nothwendigsten Sätze
+über die Congruenz der Dreiccke, und geht dan 80-
+gleich über zu der Lehre von der Proportion und
+
+Aehnlichkeit , .die auf die Lehre von den Ordinaten
+und Abscissen gestützt wird. XNun sagt er: „Wir
+haben früher bei den congruenten Dreiecken nachge-
+wiesen, dass die Bestandtheile derselben von einan-
+der abhängig sind, wir sind aber über die Art dieser
+Abhängigkeit nicht weiter eingetreten, und hier zeigt
+sich zuerst in einigen speciellen Fällen, auf welche
+Weise einige Bestandtheile die übrigen bestimmen
+und diese aus jenen berechnet werden können. Da
+aber die Kenntniss dieses arithmetischen Zusammen-
+hanges der Theile des Dreiecks zur genauen Einsicht
+in die Natur desselben durchaus erforderlich ist, so
+wollen wir uns jetzt mit diesem Gegenstande beschäf-
+tigen. Hierdurch wird ein besonderer Abschnitt der
+Geometrie gebildet, den man zuweilen ganz getrennt
+von dieser Wissenschaft hingestellt, und alsdann mit
+dem Namen der ebenen Trigonometrie bezeichnet hat.”
+Es folgt demnach sogleich die Lehre von den trigo-
+nometrischen Zahlen, auch wieder auf die Lehre von
+den Abscissen und Ordinaten gegründet. Die Dar-
+stellungsart des Vfs. ist folgende, wobei man sich die
+zugehörige Figur leicht hinzudenken kann: „Die
+Lage des Punktes M in Beziehung gu der Abscissen-
+linie und dem Anfangspunkt A der Abscisse ist durch
+die beiden Coordinaten AP und PM gegeben; wenn
+wir uns daher dio Linie AM gezogen denken, so wird
+auch die Länge dieser Linie. und die Grösse des Win-
+keis A durch jene Coordinaten bedingt, und umge-
+kehrt müssen sich auch durch die Linie AM und den
+Winkel A die Coordinaten bestimmen lassen. Ueber-
+haupt stehen diese vier Grössen in ciner solchen Be-
+ziehung zu einander, dass durch je zwei von ihnen
+die übrigen gegeben sind. Wenn wir uns daher vor-
+stellen, dass mit einer von diesen Linicn als Maass
+oder Einheit eine andere derselben ausgemessen und '
+durch eine Zahl, die sich auf diese Einheit bezieht,
+ausgedrückt wird, ‘so sind die beiden anderen Grös-
+sen, und namentlich der Winkel, von dieser Zahl ab-
+hängig, dergestalt, dass jede Veränderung des Win-
+kels, vorausgesetzt, dass die Einheit sich gleich
+bleibt , eine Veränderung dieser Zalıl und umgekehrt
+bedingt. Diese Zahl drückt daher die Beziehung
+

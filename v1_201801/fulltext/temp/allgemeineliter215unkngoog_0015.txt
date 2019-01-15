@@ -1,0 +1,134 @@
+. as TDPARLNVES ULN .
+a5 be Se
+
+Es wird auch gewifs keiner derfelben diefe Anleitung
+unbefriedigt aus den Händen legen. Der Vf. hat defs-
+halb fo wenig als Möglich aus der gemeinen Algebra
+worausgefetzt, ja fogar Lehren, die dort vorkommen,
+müffen, wo es nöthig fchien, nach feiner eignen Metho-
+de vorgetragen und mit den übrigen in Verbindung
+bracht werden. ‚Bey etwas ichwerern Materien
+echt er einen Grad von Deutlıchkeit zu erreichen,
+der einem fyftematifch gebildeten Kopfe gewillerma-
+fsen läftig werden mufs; dadurch ilt aber auch das
+Buch etwas voluminös geworden, indem auf Raumer-
+fparnifs und auf die fonft fo beliebte mathematilche
+Kürze nieht Rückhcht genonımen werden konnte.
+Der Vf. folgte hier, dem Urtheile (einer Schüler, deren
+er feit 8 Jahren nicht wenige hatte. Deductionen, bey
+welchen der natürliche Gang des Verltandes nicht
+gleich hervor leuchtet, hat der Vf. möglichft zu ver-
+meiden gefucht. . Den Diiferenzialcalcul hat er, {ei-
+ner wahren Natur nach, mit Vermeidung der unend-
+lich kleinen Gröfsen, dargeftellt und diefe Darftel-
+Jungsart ift ganz fein Eigenthum. Das. Werk felbft
+fängt mit einigen Vorbegriffen an. Zuerft von dem
+uanıum, welches allemal als ein beftimmtes oder
+unbeftimmtes Aggregat aus gleichartigen Einbeit
+vorgeftellt werden mufs. Aufser dieler allgemeinen
+Eigeufchaft können ihm aber noch befondere zukom-
+kommen, die fich auf die Befchaffenheit des zu ef-
+nem Quantum vereinigten Bleichartigen und auf die
+Art der Vereinigung deffelben gründen, welches der
+Fall bey allen denen ift, dıe man gegmetri/che ennt.
+Auf -diefe befondere Eigenfchaften aber nimmt der
+arichmetifche Theil der reinen Mathematik, den
+man wohl beffer allgemeine Gröfsenlehre nennen
+follte, -. keine Rücklicht. Gleiche Beftimmtheit und
+Klarheit herrfcht auch im ganzen übrigen Vortrage.
+Nun weiter vom beftimmten und unbe/ftimmten ‚„. vom
+abfoluten, relativen, abhängigen, bedingten .. Shan
+tum; vom algebraifchen Ausdruck und von der Form
+deffelben, mit Erläuterungen durch Beyfpiele aus der
+Geometrie. Hierauf die Beftimmung, was niedere
+und höhere Analyfıs (Anal. finit. et infin.), und wie
+die letztere mit dem
+verweht ift. Erftes Hauptft. Von dem Begriffe, der
+Eincheilung und den verfchiedenen Formen der Fun-
+etionen einer einzigen veränderlichen Gröfse. „Kin
+relatives Quantum, heifst es hier gleich anfangs, bey
+welchem map eins oder etliche unter den abf{oluten
+Quantis , ‚von welchen es abhängig i(t, als veränder-
+Keh, die übrigen aber als conftant annimmt, wird
+eine Function diefer veränderlıchen Gröfsen genannt.
+Ht unoter den abfoluten Quantis nur eins als veränder-
+lich angenommen und durch z bezeichnet, M heifst
+das relatiyve Quantum eine Function von einer einzi-
+” gen veränderlichen Gröfe, z; find aber mehrere un-
+ter den abfoluten Quantis als veränderlich angenom-
+men, up] durch u, v, X, u. f. w. bezeichnet, {fo nennt
+man das relative Quantum eine Function von meh-
+
+ifferential- und Integralcalcul
+
+AVU I Se J411VU 411 38312- 7 16
+
+rern veränderlichen Gröfsen u, v, x, u. f. w. Wenn
+eine Function durch einen einzigen Buchftraben be-
+zeichnet werden {oll, fo bedient man Gch ebenfalls
+eines der letztern Buchftaben des Alphabets, welr
+cber aber ein anderer feyn mufs, als.der, womit die
+veränderlichen Gröfsen, .von denen die Function ab-
+hängt, bezeichnet ift.” Hier auch yon der Binomial-
+und Polynomialfarmel und deren Anwendungen. Ver-
+wandlungen der gebrochenen Functionea in Reihen,
+und Zerlegung derfelben in Partialbrüche. Irratio-
+nalfunctionen. Von den Formen der transcendenti-
+{chen Functionen einer veränderlichen Gröfse über-
+haupt. Nach der allgemeinen Form derfelben, der
+Vebergang zu der Lehre von den Logarithmen, Ex-
+ponentialgröfsen und den trigonometrifchen Functio-
+nen. Am Ende diefes Kapitels auch von der Form
+desjenigen allgemeinen algebraifchen Ausdrucks, wel-
+cher die algebraifchen Ausdrücke aller Arten der
+Functionen einer einzigen veränderlichen Gröfse in
+fch begreift.‘ Ziwpeytes Hauptft. Von den Differen-
+zen, Differenzialien und den erften Begriffen der In
+tegralien der Functionen einer einzigen veränderlb-
+chen Gröfse. Ver Vf. hat hier aufser feiner eigenen
+Darftellungsart auch die von andern, z. B. von Euler,
+gewählte, 6. 227. befchrieben ‚ auch von Gefehichte
+und Literatur (owohl hier, als bey andern Hauptieb-
+ren fo viel mit heygebracht, als es zu feinem Zwecke
+nöthig fchien. °
+
+JUGENDSCHRIFTEN.,.
+
+MaGDz8uRG, b. Heinrichshofen: Aufgaben zur Ue-
+bung des Kopfrechnens in Knabenjchulen , üner
+Gegenftände der Befchäftigungen des Handwer-
+kers, des Kaufmanns, des Oekonomen u. f. w.;
+in ftufenweifen Fortfchritten vom Leichrern zum
+Schwerern; von J.C.F. Buumgarten, Lehrer der
+Erwerbfchule in Magdeburg. .8099. 155 S. 8.
+(12 Gr.)
+
+Der Titel fagt ganz genau, was’ man in diefem Büch-
+lein zu fuchen hat. Keine Regeln zum Rechnen felbft;
+auch keine Ausrechnungen, fonitern blofs Beyfpiele
+mit dem dazu gehörigen Facit. Bey vielen ift aufser
+der Rechnungsaufgabe auch noch fonft manche nütz-
+liche Kenntnifs .mitgetheilt worden. Das Buch hat
+völlig die Einrichtung wie das ähnliche Werkchem
+welches der Vf. ein Jahr vorher für Mädchenfchulen
+bearbeitete, und der Beyfall, den jenes erhielt, hat
+den gegenwärtigen vorzüglich zum Dafevn verhok
+fen. Die Beyfpiele beziehen fich auf die Kechnungs:
+arten mit gleich und ungleich benannten Zahlem
+Brüchen und Regel de tri, wo jedem Hauptabfchnitte
+auch .noch einige vermifchte Aufgaben angehäugt
+find, in welchen wegen des mehrern hier zulamınen
+kommenden, die Aufmerklamkeit nad Reflexion
+noch ftärker geübt wird.
+
+SE
+
+a _ _ „-
+dp
+
+na a
+
+ED DER m zz SD a
+
+zZ
+

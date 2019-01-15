@@ -1,0 +1,128 @@
+| SA
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+TERATUR - ZEITUNG
+
+LLGEMEINEN LI
+
+54$
+
+} ’
+
+ 
+
+a Junius 1828.
+"EEE
+
+PHYSIK.
+
+PEHRAGEN, b. dem Vf£.: Beytrage Zur ver, lei-
+chenden Klimatologie, von Dr. Joakim Frederik
+Schouw vu. [.w. °
+
+fehlufs der im vorigen Stück abgebrochenen Recenfion,)
+
+ıer der folgenden Abfchnitte handelt von den
+netrifchen SW indrofen. Der Vf. theilt darin
+Sinflufs der Winde auf den Barometerfiand mit
+Kopenhagen (? Jahr), Apenrade (3 J.), Ham-
+uek), Berlin (v. Buch), Paris (Burkhardt),
+endet dann bey der Vergleichung derfelben
+he Unterfchiede, welche er ausführlich zu er-
+zi fucht. Aber abgefehen davon, dafs die Be-
+ıtuılgen an mehrern Orten nur kurze Zeit
+iellt und die Anomalien noch nicht vollfiän-
+atfernt ind, bleibt doch immer die Frage er-
+» ob denn die Windbeobachtungen fo genau
+zeichnet werden, dafs man bey einer Unter-
+ng diefer Art auf kleine Unterfchiede Gewicht
+darf. Eine Vergleichung der barometrifchen
+Irofen, wie he an demielben Orte aus den
+yüchern verfchiedener Beobachter folgen, lie-
+las befie Mittel zu Beantwortung diefer Frage.
+Jaris hat uns Burkhardt eine Windrofe mit-
+lt, aus 11jährigen Mittagsbeobachtungen Ara-
+hat Rec. eine eben folche hergeleitet. Um
+‚ang beider gehörig zu überfehen, dürfen wir
+ır die Curve eine Interpolationsgleichung ent-
+ln und aus diefer die Extreme herleiten. Bef-
+ormel: ,
+= ß+afin (45°.n +v) + a’ Jin (90° .n +v')
+die Ordnungszahl des Windes, Bn der ent-
+ende Barometer(tiand, ß, a, a’, v, v‘ confiante
+die Beobachtungen zu beliimmende Gröfsen
+eignet fch fehr gut zu diefer Vergleichung,
+ınen wir die Conlianten vermittelt der Me-
+der kleinfen Quadrate, fo liegt nach Arago das
+num bey N 24°O, das Minimum bey S 23° W;
+Burkhardt find diefe Punkte N 86° O und
+W. Und faft in derfelben Gegend liegen die
+s für die Extreme in ganz Kuropa; fo befinden
+efelben, um bey den beiden vom Rec. benutz-
+enzorten (leben zu hleiben, in London (10 Jahr.
+bey N 47° O und nahe S; in Moskau bey
+) S 123° W.
+te Uaer Vf. die thermometrifche Windrofe
+kelt, {fo würde er fich dadurch überzeugt ha-
+dafs die Wärme die wichtigüe, wenn auch
+ng. BI. zur A. L. Z. 1828.
+
+nicht die einzige Urfache diefes ungleichen Baro=
+meterflandes bey verfchiedenen Winden if: zugleich
+aber würde er den Grund für manche {cheinbare
+Anomalie aufgefunden haben. Eine zweyte Urfache
+deffelben fcheint in den Luftüirömungen zu liegen.
+Wenn nämlich NOwind weht, fo if diefer der all-
+gemeinen aus SW kommenden Luftürömun mehr
+entgegengefetzt, es mufs alfo dadurch eine Anhäu-
+fung der Luft entfiehen und das Barometer mulfls
+aus diefem Grunde fieigen, Eine Vergleichung der
+numerifchen Relultate an mehrern, Örten {cheint
+die Richtigkeit diefer Hypothefe zu zeigen. Neh-
+men wir nämlich an, die Anhäufung der Luft fey
+proportional mit fin1x, wo x den Winkel bezeich-
+net, welchen der Wind mit der allgemeinen Luft-
+firömung bezeichnet, legen wir dann den Nullpunkt
+der Peripherie nach SW und gehen von hier bey
+der Zählung der Winkel nach S, il ferner v ein
+durch die Verfuche zu befimmender Hülfswinkel,
+ß der Barometerfiand, welcher bey demjenigen
+Winde Statt £nden würde, wo die Lufttemperatur
+0 wäre und endlich t die Temperatur bey einem
+Winde, fo il für Paris (Millimeter und Celfius Ther-
+mometer) '
+
+Bn = 775,60 + 2,21 fin} (19° 42' + n.45) — 1,526. t
+Die folgende Tafel zeigt eine Ver leichung der be-
+
+obachteten Refultate mit den berechneten. |
+
+Wind t beobachtet berechnet Unterfchied
+mm mm . mm
+N 12%,02C 759,18 759,13 | — 0,05
+NO 11,76 9,50 9,83 ‚+ 0,33
+0) 13,50 7,23 2161 — 0,07
+SO 115,25 4,04 4,13 | + 0,09
+S 15,43 8,16 8,23 + 0,07
+SW |14,92 8,51 ‘8,21 | — 0,80
+W |13,64 5,56 5,27 | — 0,29
+NW |12,59 7,77 7,96 | + 0,19
+
+Spricht fchon hier die Uebereinfümmung zwi-
+fehen den beobachteten und berechneten Monaten
+fehr für die Richtigkeit der angeführten Hypothefe,
+fo wird diefelbe noch durch einen andern Um-
+fand befüätigt. Nach der obigen Formel nämlich
+liegt die mittlere Luftfirömung bey S 64° 42 W;3
+nach den vom Vf, mitgetheilten Tafeln if die mitt-
+Jlere Richtung des Windes S 65° 4/W. Faß eine
+
+eben fo grofse gebereinGimmung fowohl im ganzen
+Jahre, als in den einzeinen Jahrszeiten, zeigt fch
+an andern
+
+ZZ an,
+

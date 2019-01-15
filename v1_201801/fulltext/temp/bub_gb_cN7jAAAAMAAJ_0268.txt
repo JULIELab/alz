@@ -1,0 +1,136 @@
+525 ‚:Num, 66,
+Aus dem’ Gefagten ergiebt fich, dafs dem Vf. die
+1817 erfchienene Haumannifche Schrift über die(en
+Gegenftand wohl nicht:zur Kenntnifs gekommen ift,
+und da Ge der Rec. auch in der A, L. Z. noch nicht
+angezeigt gefunden hat, fo wird er hernach das
+Weitere davon angeben. — *Unfer Vf, bezeichnet
+die gegebenen Elemente: Punct, Linie, Kreis, durch
+. L. C., und ihre verfchiedenen Lagen gegen ein-
+ander durch a. b. c. d. die Combinationen der ge-
+ebenen Elemente: mit Wiederholungen ohne Ver-
+se werden:von der erften bis zur dritten Cla(-
+fe in einem Schema einzeln zur UeberfGcht aufge-
+ftellt. Es wird bemerkt, dafs von mehr als drey
+egebenen Elementen bey diefer Aufgabe nicht die
+Rede feyn könne. / Ein viertes kann nur unter ge-
+willen befondern Bedingungen von dem gefuchten
+Kreife zugleich’ mit berührt werden, z.B. durch
+drey Puncte läfst fich immer ein Kreis befchreiben;
+aber durch vier Puncte nur, wenn die Gegenwinke
+des Vierecks zulammen 180° betragen. Die Com-
+binationen der Lagen, die bey jeder der erwähnten
+Combinationen der gegebenen Elementen ftatt fin-
+den können, werden vom Vf, durchgezählt. Die-
+jenigen, welche entweder in Rückficht der gegebe-
+nen Elemente an fch,‘ oder in Rückfcht ‚des ge-
+fuchten Kreifes unmöglich,: oder mit andern ‚in
+Rückficht der Auflöfung gleichgeltend find, hat der
+Vf, mit einem *.bezeichnet. I. Cla/ffe. Kin Element
+gegeben P. L.C. Weil hier keine Verfchieden-
+eit, folglich auch keine Combination, weder
+von Elementen felbft, noch von Lagen ftatt findet,
+hat man blofs die drey Fälle: P, ein Punct; L.
+eine Linie; C. ein Kreis gegeben. Der erfte Fall
+ift eine blofse Forderung, und die beiden andern
+kaum mehr. Ueberdem wenn nichts weiter als
+eins diefer Dinge gegeben. ift, fo ift die Aufgabe
+unbeftimmt, fo wohl in Rückfckt der Gröfse, als
+der Lage des Halbmeffers vom gefuchten Kreife,
+Bey der Il. Claffe, wo zwey Elemente gegeben
+find, ift die Mannichfaltigkeit fchon auf das fe-
+benzehnfache angewachfen, ohn» dafs ein unmög-
+licher Fall darunter wäre. Die lll. Claffe für drey
+gegebene Elemente, ift begreiflich die reichhaltigfte
+und erftreckt .fich auf nicht weniger als auf 156 Fäl-
+le, unter welchen aber 36 unmögliche für dıe Auf-
+gabe find. Die Steindrucktafel, die‘ einen ganzen
+grofsen Bogen füllt, enthält 176 kleine Fächer mit
+14 leer gelaffenen für unmögliche Fälle. , Es ift bey
+jedem auf den Text hingewiefen. Die darin ent-
+tenen Figuren (ollen blofs dazu dienen, die mög-
+lichen Fälle nur ungefähr darzuftellen; zu wirkli
+chen Auflöfungen (die überhaupt in der Schrift gar
+nicht vorkommen) müfsten fre vie} gröfser und
+forgfältiger gezeichnet feyn. Jede diefer kleinen
+Figuren {teilt nur eine einzige individuelle Lage
+dar,. und. jede kann anf mannichfaltige Art abgeän-
+dert werden, ohne die durch die klöney Buchfta-
+ben  angedeuteten Bedingungen: zu ändern. In
+Rückficht. der Lage des: gefuchten Kreifes finden
+wieder mancherley Verfchiettenheiten ftatt; da
+gen fand auch mehrere unter den dargefiellten Fal-
+
+JUNIUS
+
+1822.. 526
+
+len in Rückficht der Auflöfung, nicht wefentlich
+ver{chieden.
+
+Der Titel, der in vorftehender RecenGon er-
+wähnten Haumannifchen Schrift it:
+
+Verfuch einer Wiederherfiellung der Bücher des
+Apollonius von Perga von den Berührungen,
+von Dr. C. Gotelieb Haumann, Lehrer am Gym-
+naßum zu Oels, Mitgl. d. neuen Gefellfch. zu
+Jena. Breslau 1817 bey W. A. Holäufer. 159 S-
+8: 3 Kupfert.
+
+Der Verf, rechtfertigt fein Unternehmen damit,
+dafs die Apollonifche Aufgabe zu ihrer Auflöfung
+eine vollkommene Bekanntfchaft mit der Lehre
+vom: Kreife in der Elementargeometrie erfodert,
+indem alle dahin gehörige Sätze dier zerftreut und
+in der verfchieden{ten Verbindung mehrmals vor-
+kommen; der Vf. maehte verfehiedene Verluclhe,
+das Problem zu löfen, fie waren aber fo lange ver.
+glich bis er feine Zuflucht zum Euklid nahm,
+
+etzt fah er ein, was für ein weites Feld die Ele-
+
+mentargeometrie darbietet, und dafs unfere Ele-
+mentargeometrie weiter nichts ift, als ein {ehr dürf-
+tiger Wegweifer durch diefes grofse Feldy eine
+Sammlung von Merkzeichen, um fich in dem faft
+unermefslichen Raume nicht zu verirren, Bey
+der Auflöfung des Problems felbft war nun zwar die
+fogenannte Wiederherftellung des Apollonius von
+Vieta dem Vf. zur Hülfe; allein fie war zu kurz und
+unvollftändig und enthielt nur die leichtelten gar
+keiner Hülfe bedürfenden Aufgaben. Gezen vier-
+zig der {chwerften mufsten ohne Beyhülre aufge-
+Jöflt werden; und die Hülfsfätze die Pappes zieht,
+erfchweren gerade noch die Auflöfaung, wie der Vf,
+befonders zeigt. Der griechifche Text, welcher
+nebft der deutfehen Ueberfetzung VOran SE SIENiCkE
+wird, der aus den mathematifehen Sammlungen d
+Pappus über Apollonius Bücher von den Berührun-
+gen befteht, ift zwar aus Camerers in der voran-
+ftehendem Recenhon angeführten Werke entlehnt,
+aber nicht wörtlich, Camerer hat in den Noten die
+yerfchiedenen Lesarten der Manuferipte genau an-
+gegeben, und dadarch wurde der Vf. in den Stand
+geletzt, manches zu verändern, wovon die Gründe
+edesmal geman angegeben find. Wegen des ausze-
+reiteten Nutzens der Aufgaben und weil doch
+noch einige Data übrig waren, hatten mehrere Ma-
+thematiker eine Wiederherftellung des ganzen oder
+einzelner Theile verfucht, wie aus der obgedachten
+Camererfchen Schrift ausführlic® zu entnehmen ift,
+und wozu auch Käftner in feiner Gefchichte der
+Mathematik zerftreute Notizen liefert. Unter den
+mehrern Bearbeitern ift /iesa der einzige, welcher
+das ganze Problem umfafst; aber auch feine Auflö-
+fung ift zu unvollftändig. Auch fuchten mehrere
+Bearbeiter auf arithmetilchem Wege zu ihrem
+Zwecke zu gelangen, da doch Apollonius rein ge-
+metrifch verfuhr. Es find fonach jene Arbeiten
+eher eine Auflöfung des Problems, als eine Meder-
+her/tellung des Apollonius zu rennen, Den Nutzer
+
+‚diefer letztern fetzt der V£. hauptfächlich darin, dafs
+
+«lie
+

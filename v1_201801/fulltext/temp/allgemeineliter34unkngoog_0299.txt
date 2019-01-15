@@ -1,0 +1,136 @@
+Ueber diesen Tadel mufs bemerkt werden, dafs
+der 5. 44 ein algebraisches Beispiel anführt, welches
+in drei Aufgaben zerfällt, wovon in zweien die An-
+nahme von -+ oder — vor der positiven Quadratwur-
+gel ohne das Resultat zu ändern zulässig ist, in der
+dritten Aufgabe aber nicht. Es wird hier durchijdie
+Rechnung vor Augen gelegt und bewiesen, dafs ge-
+wisse Bedingungen einer Aufgabe die Anwendung von
+beiden Zeichen + oder — nicht zulassen; so lange also
+die Richtigkeit dieser Rechnung nicht bestritten wer-
+den kann, so lange wird auch der vom Verf, aufge-
+stellte Satz gelten müssen,
+
+Dafs der Verf. behauptet, die bisherige Auflö-
+sung des zweiten Grades finde auf directe Weise nur
+einen Werth von x, liegt jedem Sachkenner, der in
+die neue Lehre des Verf. eingeht, wodurch beide Wer-
+the von x selbstständig und directe aus der Auflösung
+gefunden werden, klar vor Augen,
+
+2. Sagt die Rec.: „der Verf. will uns lüberreden,
+man habe früher bei der Gleichung des Sten Grades,
+weder den Ursprung noch das Resultat — die Carda-
+nische Formel — geahnt, noch viel weniger richtig
+erkannt, und er beweise zuerst, dafs die Cardanische
+Formel ein Totalausdruck sey. Diese Behauptung kann
+doch offenbar nichts Anderes sagen wollen, als, es sey
+
+bisher unbekannt gewesen, dafs v z ein dreideutiges
+Zeichen ist, und wofür, wenn es als ein eindeutiges
+betrachtet werden soll, /,.,/ı gesetzt werden mul;
+so dafs nun die Dreideutigkeit auf S ı fällt. —” Auf
+diesen seyn sollenden Beweis der Rec., dafs man schon
+früher eingesehen und erkannt habe, wienach das
+Auflösungs - Resultat der kübischen Gleichung ein To-
+talausdruck sey, möge es genügen zu erwiedern, dafs
+man bei der Art und Weise, wie man die kubische
+Gleichuug bisher aufgelöst hat, das Resultat dieser
+Auflösung durchaus für nichts anderes ansehen konnte
+und mu/fste, als für einen einzigen Werth von x. Es
+war absolut nicht möglich dieses Resultat für einen
+Totalausdruck zu halten, da man durch die anfäng-
+liche Construirung der Bedingungsgleichung nur einen
+Werth annahm, und daher auch nur einen Werth fin-
+den konnte, Schon die von dem Verf. gewählte Be-
+
+° zeichnung Totalausdruck ist bisher in diesem Sinne in
+
+der Mathematik ganz unbekannt gewesen, und selbst
+in Klügel’s umfassendem mathematischen Wörterbuche
+ist dieses Wort nicht einmal enthalten. Rec. scheint
+dafür zu halten, dafs, weil das Auflösungs - Resultat
+aus zwei Kubikwurzeln besteht, schon daraus sich der
+Totalausdruck ergeben habe, ohne zu bedenken, dafs
+eine kubische Gleichung z. B. folgende drei Werthe
+
+haben könne:
+
+zZ Ya —- Yr,
+zZ 7 Ye + Y
+zZ
+
+] Y_ >
+Yet Vr
+
+I
+
+ 
+
+Der Verf. ist weit entfernt irgend Jemanden von
+etwas, was derselbe nicht selbst für wahr hält, über-
+reden zu wollen. ;
+
+Dafs die Cardanische Formel in den Lehrbüchern
+der Algebra als ein Werth von x gefunden und darge-
+
+‚stellt wird, mufs jeder Mathematiker, der mit der
+
+bisherigen Lehre bekannt ist, zugeben. Man schlage
+in G. S. Klügel’s mathematischem Wörterbuch, Leip-
+zig, 1805, 1ster Theil, Seite 891, — in L. Euler’s
+Algebra, Frankfurt am Main, 1789, Seite 110, —
+in P. N. C. Egen’s allgemeiner Arithmetik, Berlin,
+1820, Seite 174, — in Clairaut’s Algebra, Berlin,
+1778, Seite 879, u, 8. w. u. s. w. nach, so wird man
+dies bestätigt finden. WUeberall wird die Cardanische
+Formel ausdrücklich als eine Wurzel der kubischen
+Gleichung angegeben. Clairaut sagt überdies: „dafs
+man durch die Cardanische Formel einen Ausdruck
+finde, welcher nur einen von den drei Werthen von x
+andeuten kann!” S, 879. .-
+
+Entweder ist also die Recension mit dem Gegen-
+stande selbst nicht hinlänglich bekannt und vertraut,
+oder dieselbe will die Priorität der Erüindung- eines so
+wichtigen, bisher nicht bekannten Saizes, für sich
+selbst in Anspruch nehmen. Im letzteren Falle, wenn
+Recensent oder irgend jemand Anderer diese Priorität
+vor dem Verfasser des obgedachten Werkes wirklich
+in Anspruch nehmen wollte, mülste vor allem gezeigt
+werden:
+
+a) ia welchem andern früher erschienenen Buche be-
+wiesen ist, und aus der Art der Auflösung selbst
+"directe und allgemein hervorgeht, dafs das Auflö-
+sungs- Resultat ein Totalausdruck ist, der alle drei
+Werthe der kubischen Gleichung in sich enthalte.
+8, 122. S. 247.
+
+B) in welchem andern Buche bewiesen werde, dafs
+das Auflösungs-Resultat der kubischen Gleichung
+aus wirklichen oder vollkommenen Cubis bestehe,
+und in welchem andern Buche die drei Wurzeln
+aus diesen Cubis — wohl za merken — auf eine
+allgemeine Weise in der That ausgezogen worden,
+wie dieses $. 125. S. 265 geschieht und unum-
+stöfslich bewiesen ist. '
+
+c) in. welchem andern Buche bewiesen ist, dafs das
+Auflösungs — Resultat der kubischen Gleichung
+niemals, wie man doch bisher in einer Menge von
+Fällen annimmt, irreduzibel ist. $. 128.
+
+” Es scheint hier wie in der bekannten Geschichte
+„mit dem Ei des Columbus” zu gehen; nachdem der
+Verf. jenen wichtigen Satz gefunden, aus einem höchst
+verwickelten algebraischen Ausdruck, wie Niemand zu-
+vor, die Kubikwurzel ausgezogen, und so die Lief ver-
+hüllte Wahrheit klar und bestimmt dargelegt hat, giebt
+es Menschen, die da sagen: das hätten wir auch ge-
+konnt, das haben wir auch gewulst. —
+
+(Der Beschlufs folgt.)
+
+ 
+

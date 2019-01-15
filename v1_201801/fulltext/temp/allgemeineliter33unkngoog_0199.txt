@@ -1,0 +1,128 @@
+a67 A. L. Z, Num, 108,
+
+lem Lehrsatze, dals in Jeder Proportion das Product
+der Zufseren Glieder gleich dem Produete der mitt-
+leren sey, ist uns nicht klar, Gleich darauf folgt
+der umgekehrte Lehrsatz;: „ist das Product zweier
+Zahlen gleich dem Produote zweier anderen, 80 hil-
+den diese vier Zahlen eine geometrische Proportion,
+wofern sie so geordnet werden, dafs u, s. w. Hier
+war zu zeigen, dafs man, je nachdem man bei dem
+Beweise mit einem anderen Producte dividirt (zwi-
+schen vieren hat man bekanntlich die Wahl), vier
+verschiedene Proportionen erhalte, Den practischen
+Theil zu der Lebre von den Proportionen hat der Vf,
+nicht gegeben, ohne sich über den Grund dazu zu er-
+klären, Zu den Progressionen ist aber ein solcher
+praetischer Theil vorhanden, welcher „die Anwen-
+dung der Sätze über die Progressionen zur Auffin-
+dung ihrer einzelnen Elemente aus hinlänglich gege-
+benen Bestimmungen” enthält. — Abschnitt 3.; die
+Combinationslehre, Zweite Hauptabtheilung;
+Theorie der Gleichungen, Sie zerfällt in sechs Ab-
+theilungen, wovon die erste die Auflösung der Glei-
+chungen des ersten, zweiten, dritten und vierten
+Grades enthält. Zu der Aufgabe, eine gegebene ein-
+fache Gleichung mit zwei und mehreren Unbekann-
+ten aufzulösen, gieht der Vf, aufser den drei bekann-
+ten Methoden durch Substitution, Combination und
+Elimination (der letzte Ausdruck ist wohl nicht ganz
+
+assend, da bei allen dreien eliminirt wird), oder
+
+er sogenannten Englischen, noch eine vierte, die
+er die Französische Methode nennt. Er sagt nämlich:
+„Man multiplicire eine beliebige der beiden gegebe-
+nen Gleichungen mit einem unbestimmten Ausdru-
+ecke m, addire diese.neue Gleichung zur andern, und
+bedinge den noch unbestimmten Werth von m so,
+dafs der Co&fficient einer der beiden Unbekannten
+gleich Null wird; hierdurch verschwindet aber mit
+dem Coefficienten zugleich auch die zugehörige Un-
+bekannte aus der Gleichung, wodurch man aber of-
+fenbar eine Gleichung erhält, in der nur eine einzige
+Unbekannte vorkommt. Multiplicirt man z. B. die
+
+erste Gleichung mit m, (gegeben sind die Gleichun- >
+
+genl,a.y+b.x=c,und2,0',y+Y.x= c€')
+und addirt die dadurch resultirende Gleichung zur
+zweiten, so erhält man: (a.m-+a).y+ (d.m
++ Y). x = cm + CC, Hier wird x gefunden, wenn
+man m 80 bestimmt, dafs der Coefficient von y, oder
+
+a.m + a’ = 0o wird, woraus aber m = — x her-
+
+vorgeht. Ebenso findet man y, wenn man den Co@f-
+ficienten von x, nämlich d ‚m + dd’ = 0 setzt, wor-
+
+aus alsdann m = — T folgt. Im ersten Falle er-
+hält man die Gleichung:
+
+BD) + Wr e (5) Her oder
+
+NOVEMBER 1837, 8uß
+(en Halle 8 era Im zwei-
+[A -+ra]ly=c.(-& ++ c‘, oder
+
+(B) (a.d— a. 0). y=d.0C —W.Cc. Aus der‘
+Gleichung (A) ergiebt sich aber:
+
+T = a. —a'.C —_ ad ,c—a.c
+a,b -— a,b ab—a0 ©:
+Aus der Gleichung (B):
+d.c-—Yıc YıcC— BC
+
+ 
+
+YES Ta S EV ZZ E*
+Abthbeil, 2.: Auflösung bestimmter Aufgaben, wel-
+cbe zu algebraischen Gleichungen des Ästen, 2ten,
+3ten und 4ten Grades führen, Abtheil, 3.: Auflö-
+sung bestimmter Aufgaben aus der höheren Zins-,
+Renten - und Productionsrechnung, Abtheil. 4.:
+Auflösung bestimmter Aufgaben über die Permuta-
+tionen, Combinationen und Variationen, Abtbeil, 5.:
+Anwendung der Progressionen; die höheren arith-
+metischen Reihen, und Auflösung bestimmter Auf-
+aben über dieselhen. Abtheil, 6.: Auflösung un- _
+bestimmter oder diophantischer Aufgaben, Diese
+Abtheilung hat uns nicht befriedigt; eines häufig
+vortrefflichen Hülfsmittels, nämlich der Kettenbrü-
+che, konnte sich freilich der Vf. nicht bedienen, weil
+er nicht für gut gefunden hatte, sie vorher zu lehren,
+In dem Inhaltsverzeichnisse, was wir noch lunge
+nicht in allen seinen Rubriken aufgenommen haben,
+sich zurecht zu finden, ist wahrlich keine geringe
+Kunst. Wir erinnern uns nicht, ein ähnliches ge-
+sehen zu haben, Papier und Druck könnten weit
+besser seyn, | M
+
+ERBAUUNGSSCHRIFTEN.
+
+HIıLDBURGHAUSEN, in d. Kesselring. Buchh. : Christ-
+liche Hauspostille, oder Predigten über vorzüglich
+wichtige Abschnitte der Bibel zum Vorlesen in Fi-
+Kialkirchen und zur häuslichen Erbuuung, von
+J, S. Grobe, königl. baier, Distriktsschulen - In-
+spector und Oberpfarrer zu Tann, 1834, VII
+u, 246 S. in 4, (1 Thl. 16 gGr.). ;
+
+Dasselbe Lob, welches den im Jahre 1824 und
+im J. 1830 von dem Vf, herausgegebenen Postillen .
+über die Sonntags - und Feiertags- Evangelien und
+
+‘Episteln zu 'C’beil geworden ist, gebührt auch dieser
+
+Hauspostille, die Predigten ither wichtige Ahschnitte
+der h. Schrift, wie über 1 Mos. 435, 3—13. 37, 1—
+
+20. 1 Sam, 22,5 —23. c, 24, Luc, 3, 1—4. 15—18
+
+9, 37 —62,. Maro., 6, 17—29 u. s, w. enthält. Alles
+Dargebotene ist gute, gesunde Nahrung für Landge-
+meinden,
+
+N
+’
+

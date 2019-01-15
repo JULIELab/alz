@@ -1,0 +1,119 @@
+203
+
+Geburtsort Abels heisst nicht Frindde, sondern Fin-
+döe und sein Geburtstag ist nicht der 25ste, son-
+dern der Ste August 1802. Ferner finden sich hierin
+als sehr angenehme Zugabe ein Brief von Crelle an
+Abel, ein Brief von Le Gendre an Crelle über Abel
+und zwei Briefe von Le Gendre an Abel selbst.
+
+Was den Text selbst betrifft, so stehen im
+ersten Bande alle Abhandlungen, die schon früher
+‚gedruckt und bekannt waren, es sind dieselben,
+welche in den vier ersten Bänden des Journals von
+Crelle enthalten sind, nur zwei, die XIII. und XIV.
+sind aus Nr. 138 u. 147 der astronomischen Nach-
+richten vom Jahre 1828. Die Abhandlungen des
+zweiten Bandes waren zum grössten Theil bisher
+noch gar nicht durch den Druck bekannt und er-
+regen dadurch ein besonderes Interesse. Sämmt-
+liche Abhandlungen hat der Herausg. in französi-
+scher Sprache geliefert. Selbst die, welche der
+Verfasser in deutscher oder norwegischer Sprache
+geschrieben und die, welche Crelle im ersten Bande
+seines Journals ins Deutsche überseizt hatte, sind
+ins Französische zurückübersetzt,
+
+Ueber den Inhalt des ersten Bandes würde es
+nach dem so eben Gesagten überflüssig seyn, ir-
+gend ein Wort zu sagen, da derselbe in seiner
+Vortrefflichkeit und Gediegenheit gewiss von jedem
+Mathematiker aus dem Crelleschen Journale zur
+Genüge gekannt wird. Ref. beschränkt sich da-
+her auf die blosse Anzeige dessen, was im zwei-
+ten Bande jetzt zum ersten Male im Druck er-
+scheint, indem er sich darüber auch jedes Urtheils
+enthält, da es ihm vermessen und unpassend er-
+scheint, noch irgend ein lobendes Wort über die
+herrlichen Arbeiten dieses Meisters der Wissen-
+schaft hinzuzufügen.
+
+Die beiden ersten Abhandlungen: Sur les maxi-
+mums et minimums des integrales aux differances,
+und II. Sur les conditions neEcessaires pour que Vin-
+tegrale finie d’une fonction de plusieurs variables
+et de leur differences soit integrable lorsque les va-
+riables sont independantes Tune de V’autre, ou en
+
+P=A.0 + Art AR at AB.
+
+ERGÄNZUNGSBLÄTTER. ZUR A.L.Z,
+
+204
+d’autres‘ termes pour qwune telle fonetion soit une
+difference complete enthalten nichts Neues und sind
+
+' nur, wie der Herausgeber anführt, deshalb merkwür-
+
+dig, weil sie Abel geschrieben hat, unmittelbar nach-
+dem er zum ersten Male die Lecons sur le calcul des
+fonctions von Lagrange gelesen hatte.
+
+Die drei folgenden Abhandlungen: II. De lg
+fonction transcendante X (3):
+
+IV, Les fonctions transcendantes X A , zz,
+a 8a
+
+30.
+
+7 zZ — exprimees par des intEgrales definies
+
+d e . 1 a-1 e-1/ 1 a«-1
+und V. Sur P’integrale definie / x A-z). (2) dx
+gehören zusammen. So wie unter den Integralen,
+die sich auf Differentiale beziehen Z ‚dx die erste
+transcendente Funktion ist, welche durch Ir be-
+zeichnet wird, eben so ist auch bei der auf Diffe-
+renzen bezüglichen Integration X !. die erste Funktion
+
+TC
+
+dieser Art und wird durch Lr ausgedrückt. Ist
+der Bruch zu einer andern als zur ersten Potenz
+
+erhoben, so wird ‚das Integral zL durch L(a,«)
+a
+
+‚bezeichnet. In den genannten drei Abhandlungen
+
+nun giebt der Vf. die Entwickelung dieser Funktio-
+nen, ihre Ausdrücke durch bestimmte Integrale, ihre
+Anwendung auf die Summation der Reihen und in der
+dritten Abhandlung umgekehrt Ausdrücke einzelner
+bestimmter Integrale durch diese Funktionen.
+
+VI. Sommation de la serie y = @ (0) + PU).
++ op (2). x +93). + .‚..-+ q (N). z,
+n Etant un nombre entier positif fini ou infini, et © (n)
+une fonclion alg&Ebrique rationnelle de n. Da @ (n)
+eine algebraische rationale Funktion von m ist, so
+kann man sie auflösen in Glieder von der Form
+A.n“ und GE die vorgegebene Reihe y wird
+also zerlegt werden können in mehre Reihen von
+der Form:
+
++ An“ .x”
+
+B Bx Bx?! ‘ DBxS
+und ger ZB EA Ben
+7 oß + (a+14)8 + (0 2)8 + (a -+ 3)ß + Tem
+Setzt man aber an LE f (a) und Z= F (8), so wird
+f@) —_ x.d(x.d(x.d(zx.,.... d(x.df(n)....))) und
+; dxu
+
+LA, far, fir (4
+FO=. /E. SE ES.
+
+A] E. füs.at 71. FO)
+

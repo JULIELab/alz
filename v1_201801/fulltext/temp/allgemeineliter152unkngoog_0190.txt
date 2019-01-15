@@ -1,0 +1,169 @@
+857 e , * Num. 45. FEBRUAR 1808.
+
+lie Differenz 00008 zunimmt und fich dem’ Werth 6
+: gsähert, die erften Differenzen von. .Q nur noch eine
+: ‚oder zwey bedeutende Ziffern haben follen, wenn Q
+
+A
+
+Be
+
+>
+-
+
+zit 14 imalen ausgedrückt wird. ‚Eine leichte
+ARechnunpg zeigt, dafs diefe Differenzen bis dahin we-
+
+x migftens fünf bedeutende Ziffern behalten; uoch we-
+_ miger verfchwinden fe, wenn P den Werth 6 über-
+„. &eigt, fondern erft für P= 10,7 werden fie bis auf
+
+E
+
++ eine Einheit in der vierzehnten Decimale abgenommeh
+
+haben; bis dehin hätte aber die Tafel über 21600
+
+. Glieder, .Was aber’ nooh wichtiger ift; man darf kei-
+
+mesweges.die dritten Differenzen überall als verfehwin-
+dend betrachten, wie Loenelli Gch einbildet, der nur
+quf die zwe Rückficht zu nehmen-für hinreichend
+halt. Zu dieflem Irrthume feheint ihn die von ihm be-
+rechuete Probe des Anfangs der Tafel verleitet zu
+haben, wo freylich die dritten Differenzen verfchwin-
+den; allein eine leichte Rechnung ‚zeigt, dafs diefe
+dritten Differenzen weiterhin zunehmen und allerdings
+bedeutend werden können, wenn man 14 Decimalen
+geben, und keine kleineren Differenzen bey P, als
+©, 0005 gebrauchen will:
+P=0,5719, wo die dritten Differenzen ihr Maximum
+erreichen, finden wir unter obigen Vorausfetzungen
+ihren Werth = 6377 Einheiten in der vierzehnten De-
+cimale. Weite
+als 5000 Gliedern ausreichen könnte, müfste die "T’a-
+fel, wenn die zweyten. Differenzen überall hinläng-
+Jich {eyn follen, eine fo grofse Ausdehnung erhalten,
+dafs ihre Berechnung die Mühe keinesweges belohnen
+
+würde. Allein wozu auch vierzehn Decimalen? Rech- ‘
+
+nungen, wo eine fulche Schärfe nöthig wäre, kom-
+men ja nur höchft felten vor, und für einen fo feltnen
+Fall eine doch nicht fehr bedeutende Abkürzung der
+Arbeit zu erhalten, daran ift wenig gelegen. Hin-
+gegen für Rechnungen , die täglich vorkorhmen, und
+wo feben Decimalen völlig hinreichen, würde eine,
+wenn auch nur mäfsige, aber oft wiederkommende Er-
+Jeichternnig der Arbeit allerdings fchätzbar {feyn. Dann
+müfste aber die. Tafel, um auch die nöthige Bequem-
+
+— Sichkeit zu gewähren, fo eingerichtet werden, dafs
+
+:. garithıjen von Tangenten betrachtet, ‘die
+
+überall auch die zweyten Differenzen verfchwinden;‘
+
+mit etwas mehr als 18000 Gliedern lieflse fich diefs
+
+‚ bequem erreichen, die nur ein mäfsiges Bändchen
+
+machen würden. Doch zu einer weitern Ausführung
+
+_5ft hier nicht der Ort.
+
+Noch eine Probe, wie oberflächlich Zeonelli fei-
+
+nen Gegenftand behandelt hat, giebt die S. 60. vorge-
+
+tragene Formel, für einen vorge ebenen Werth von
+R, der zwifchen zwey.der Tafel fällt, den entfpre-
+chenden von @ mit Rückficht auf die zweyten Diffe-
+xenzen zu finden. Diefe Formel, deren Deduction
+gem UVeberfetzer, feinem Geftändniffe zufolge , fo viele
+vergebliche Mühe gemacht hat, ift. ganz falfch; ftatt
+
+23 (r’n—n) follte nämlich ftehen Yin»
+Uebrigens bemerken wir noch, dafs, wenn man
+
+d
+die Zahlen der erften Columne als die doppelten Lo-
+ahlen der
+
+%
+
+ metrifchen Tafeln‘ zu g
+
+für2=2+Y3, oder für
+
+ernt alfo, dafs. Leonelli mit weniger.
+
+358
+zweyten und dritten die doppelten Complemente der
+Logarithmen der dazu gehörigen Sinus und Coßinus.
+feyn werden. Man känn daher mit den gewöhnlichen
+trigonometrifchen Tafelm. den ' vorgefetzten Zweck.
+ganz auf dielelbe Art erreichen, als mit den von Leo-
+ualli vorgelchlagenen ; nur erfpart theils die letztre die
+Divifion und Multiplication mit 2'(die aber doch ein
+mäfsig geübter Rechner leicht im Kopfe macht), theils
+riebt fie, wenn fie auf diefelbe Zahl von Decimalen
+rechnet it, doppelt fo, viele Schärfe. Sonderbar ift '
+es, dafs die fıch hierauf gründende Art, die trigono- *
+eicher Abficht anzuwenden,
+yon Delambre nicht erwähnt wird, da er doch eine .
+
+‘aßdere weit weniger bequeme anführt. Leonelli hat
+
+fehr Recht, fch zu befchweren , dafs man ein-folches
+Verfahren dem feinigen. an die Seite fetzen wollte.
+
+‘ VERMISCHTB SCHRIFTEN.
+
+WezimaAr, im geograph. Inftitut: Der Friede zw
+Freisbur vom 26. Dec. 1805. in feinen Folgen für
+Oeltreich, Baiern, Wirtemberg, Baden, das deut-
+fche Reich, Frankreich, Italien und ganz. Euro- +
+pa.. Geographifch, ftatiftifch und ftaatsrechtlich
+mit hiltorifchen Einleitungen, 2 Karten und einer .
+
+. Tabelle. 1806. 274 S. 8. fı Rthir. 18 gr.)
+
+Der Titel drückt beftimmt den Inhalt und die Ideen-
+folge des ganzen Werks aus, das, wie auch auf dem
+"Titelblatte angeführt ift, aus dem XIX. und XX. Ban-
+
+‚de der allgem. geograph. Ephemeriden befonders ab-
+
+edruckt wurde; Voran geht der Friede zu Prefs-
+urg in correctem franzöfilchen und deutfchen Texte
+als Grundlage; dann folgen in feben Kapiteln die Staa-
+ten, wie fe anf dem Titelblatte angegeben find, Oeft-
+reich, Baiern, Wirtenberg, Baden, das deutiche
+Reich, Frankreich und Italien, mit hiftorifchen Ein- -
+leitungen und mit Darftellung der Folgen in geogra-
+hifcher, ftatiftilcher und ftaatsrechtlicher Hinfücht;
+tatt einer Ueberficht der Folgen diefes Friedens für
+Europa aber eine Ahndung der Veränderungen, ‘die.
+dem nördlichen Deutfchlande bevorftehn, und auch
+den Frieden zur See herbeyführen können; den Be-“
+fchlufs macht eine Vergleichungstafel des Zuftandes |
+der im Prefsburger Frieden betroffenen Staaten vor
+und nach demfelben, und zwar von Oeftreich, Bai-
+ern, Wirtemberg, Baden, des deutfchen und Johanni-
+ter- Ordens, der unmittelbaren Reichsritterfchaft, des
+Königreichs Italien,- der helvetifchen und batavi-
+fchen Republik. Der Vf. fpricht mit Kenntnifs,
+Gewandheit, Unbefangenheit — Tugenden, die an
+ftaatswiffenfchaftlichen Werken nicht genug zu fchät-
+zen find- Daher viele {ehr treffende Bemerkungen.
+So zum Beyfpiel ftellt er nicht blofs die Macht
+Frankreichs in Verbindung mit denjenigen Staaten,
+die unter feinem Einflufle {tehen, nach allen Beziehun-
+gen’ richtig dar, fondern nachdem er das Mafs aller
+zum Vortheil Frankreichs wirkender Kräfte zu 30713
+Q. Meilen, 72,717000 Menfchen, 927000 "Truppen zu
+ande, 103 Linienfchiffen und 3119 Fregatten, und.
+zu 489,675000 Flor. Einkünften angenommen hat, °
+wür-
+

@@ -1,0 +1,153 @@
+035
+
+-
+
+, mean +m).? und T? =
+
+nen Untersuchungen entweder eine räumliche Con-
+struction oder eine Formel zu Grunde zu legen, so
+läfst sich wieder nicht einsehn, weshalb man nicht
+mindestens fast eben .so allgemeine Betrachtungen
+dort wie hier solle vorstellen können. Wenn z.B.
+die Differenzial- Rechnung lehrt, dafs das Ver-
+hältnifs der Differenziale der. beiden veränderlichen
+Gröfsen (y und x) die trigonometrische Tangente
+des Winkels bezeichne, welchen die Berührungs-
+linie einer einfach gekrümmten Curve mit der Ab-
+scissenlinie bildet , so ist hiedurch nur im Allgemei-
+nen die Art und Weise vorgeschrieben, wie man
+aus einer gegebenen Function eine andere, von ihr
+abhängige finde, welche gewissen Bedingungen, hier
+die des Berührens, genügt. Eben so gut könnte
+man aber synthetisch folgende Vorschrift geben:
+
+‚ Man suche die Gleichung oder Construction einer
+‘Sehne für den Augenblick ihres Verschwindens,
+
+Dafs diefs möglich sey, wollen wir durch ein Bey-
+spiel erörtern: Es sey n die Abscisse einer Parabel
+
+‚für den Punkt, durch welchen man eine Tangente
+
+legen will; a@ ihre äufsere Verlängerung bis zum
+Durchschnittspunkt einer. Secante; m die innere
+Verlängerung bis zum perpendicularen Abstand vom
+zweyten Durchgangspunkt der Secante; t? die klei-
+nere und 7 die gröfsere Ordinate; dann ist: (a +n)
+:t = (a+n-+m):T, ferner n:t? =(n-+m): 1°, also
+
+rm). 9 £ . also
+
+ 
+
+(a + nr)
+a m \ _ „2m m?
++)
+
+m v2. Im m m
+= (1 +7) mithin (a$n) + (any oder
+
+ 
+
+2 m 1 /1 2
+
+Gt pay 5 m der m = (5 — ar)
+23 23 . .
+
+(a + nn)! = &—B .. Soll nun, wie es der syniheii-
+
+sche Begriff der Tangente nothwerdig macht ,’m = 0
+seyn, SO ist auch a? — n* = 0, mithin a=n.
+
+Der Vf. theilt hingegen die eben entwickelte
+
+. Ansicht nicht; er stimmt vielmehr dem yom Prof.
+
+Ohm aufgestellten Motto: „Die Analysis erfindet,
+die Synthesis begründet”, völlig bey. In dem vor-
+liegenden Beyspiele sehen wir aber eine Erindung
+und Begründung zugleich. — Wir kommen durc
+
+diese. Betrachtung zu der Frage, ob der Vf. den
+Begriff der Synthesis auch wohl wirklich im antiken
+Sinne genommen habe? Im zwölften Buche der
+Euklidischen Elemente erblickten wir zunächst
+nach der Exbaustions-- Methode die Bedingungen
+entwickelt, von welchen der Körperinbalt dreysei-
+"tiger Pyramiden abhängig ist; dann wird erwiesen,
+dafs sjch jedes dreyseitige Prisma in drey gleich-
+grofse Pyramiden schneiden läfst, und endlich wer-
+den diese Sätze auf die Gröfsenbestimmung der Cy-
+linder und Kegel angewandt. Allerdinga nennt Eu-
+klides hier, wie io den übrigen Büchern, die Wahr-
+
+ERGÄNZUNGSBLÄTTER ZUR A.L.Z.
+
+heiten, welche er zu beweisen gedenkt; aber diese
+Angaben erscheinen mehr als Titel zur Uebersicn
+einer consequenten Reihenfolge, denn als noth-
+wendig für den Gang der Untersuchung. Auf glei-
+che Weise beweiset Archimedes’ (de sphaeru et
+
+läindro) nach einer mehr ausgebildeten Exbaustions-
+methode z.B.den Satz, dafs die Kugel zwey Dritthei-
+Je eines Cylinders der mit ihr gleiche Grundfläche
+und Höhe hat; nach der Euklidischen Vorstellungs-
+weise müfsten wir uns die Kugel hingegen als eine
+Pyramide denken, deren Grundfläche gleich ihrer
+Oberfläche, und deren Höhe gleich ihrem Radius,
+Beide Vorstellungsarten mit . einander verbunden
+führen zu dem Schlusse, dafs die Oberfläche der
+Kugel viermal so grofs als ihre gröfste Dyrchschnitts-
+fläche sey, und diese Folgerung tritt mithin selbst
+
+‘nach der antiken Synthesis als eine Wahrheit auf,
+
+deren Kenntnifs uns bisher ganz verborgen seyn
+konnte; d. i. es ergiebt sich aus diesem Beyspiele,
+welches wir noch durch viele andere zu vermehren -
+vermöchten, dafs auch die Synthesis sowohl erfindet,
+wie begründet.
+
+Erkennen wir also, dafs die Alten, selbst Apol-
+Jonius, nur Solche Wahrheiten an der Spitze der
+Lehrsätze aussprachen, welche sich gleichsam dus
+dem Vorangehenden ahnen liefsen; oder vielmehr,
+gestehen wir, dafs die Natur der Synthesis gar
+nicht verändert würde , wenn wir aus ihr jene
+Ueberschriften wegnähmen, so müssen wir auch
+zugeben, dafs die durch den Vf. S. 404 u. 405 auf-
+gestellte Reihe von Beyspielen aus der höhern Geo-
+metrie nach der Art ihrer Behandlung nur sehr we-
+nig zur Erweiterung der Synthesis der Alten bey-
+zutragen vermöge. So begegnen wir z. B. gleich zu
+Anfang in der Form eiues Lehrsatzes einer auf die
+Evgpte der Parabel sich beziehenden Declaration,
+welche fast eine Seite lang ist; das möchte nun ‘
+noch hingehn, wiewohl alle die sich auf Normalen
+beziehenden Hülfssätze des Apollonius in Anspruch
+
+enommen werden müssen, um auch nur eine un-
+Bestimnte Vorstellung von den Grenzen jener neuen
+Curve zu erhalten; allein wenn der Vf. S. 411 dann
+auch eine wirkliche Eigenschaft, dafs nämlich die
+Normale der Curve Tangente ihrer Evolute sey,
+durch ähnliche (synthetisch seyn sollende) Anschau-
+ungen zu Stande zu bringen meint, so müssen wir
+bekennen, dafs jener. Beweis, nachdem man ihn in
+seine wesentlichen Argumente zerfallen läfst, zu ei-
+ner petitio principit wird. “
+
+Wäre es nun auch begründet, dafs von dem,
+was der Vf. unter synthetischer Methode versteht,
+für die Ausbildung der Geometrie wenig zu hoffen
+sey, So müssen wir doch mit Vergnügen anerken-
+nen, dafs der Vf. sehr oft zum Nachdenken an-
+regt, und viele seiner Lehrsätze, namentlich die
+sich auf den Inbalt und die Oberflächen der (einfa-
+chen) Körper beziehen (S. 856 und 886), exacter
+und consequenter sind, als man sie sonst zu finden
+gewohnt ist.
+
+In-
+

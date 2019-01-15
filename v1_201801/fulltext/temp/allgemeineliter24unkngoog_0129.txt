@@ -1,0 +1,163 @@
+{
+
+248
+
+beyhehalten wissen, Rec, derjenige ist, der die Män-
+el in der bisherigen Ioßnitesimalmethode deutlich
+ervorzuziehen, auch durch sein sorgfältig begrün-
+detes’ System des algebraischen + die ärgsten Par#-
+
+‚.doxien des gewöhnlichen Calculs zu lösen, seit mehr
+als 380 Jahren bemüht geweSen ist; so wird es, auch.
+
+der Kürze wegen, schicklich seyn, auf seine eigenen
+Schriften hier geradezu zu verweisen.
+
+In der Vorrede zur Integralrechnung (dem
+dritten Bande einer bündigen und reinen Darstel-
+lung des Infinitesimal- Calculs, Vresden, b. Wal-
+ther 1824 — 1826) sind nicht weniger als acht Be-
+denklichkeiten gegen den Calcul des Unendlichen
+aufgestellt. Sind sie sämmtlich von mir gehoben, So
+habe ich dieses meinen, sorgfältig überdachten
+Grundlagen der Differentialrechnung (in den beiden
+ersten Bänden) zu verdanken.
+jener Grundlage ist es, dafs zwischen dem noch
+immerfort gröfser und gröfser werdenden << und
+dem vollgrofs, überendlich grofs gewordenen
+(z. B. in zwey immerfort weniger convergirenden
+
+_uhd den überendlich parallel gewordenen Linien des
+
+Euklid), folglich auch zwischen dem noch immerfort
+
+kleiner und kleiner werdend gedachten °d x = E
+
+A «
+9
+
+und dem = 0o gewordenen Differential dx =
+
+allemal und allenthalben zu unterscheiden sey. Nimmt
+man hinzu, dafs alle der Differentialrechnung eigen-
+thümlich zugehörigen Auflösungen, durch genau
+
+- gewordene Differentialquotienten, wie dz 53=P
+
+können abgeschlossen werden , für die Aufgaben der
+
+Integralrechnung aber, falls man die von mir soge-
+nannte calculaterische Definition des Integrals be-
+folgen will, lediglich die Form des Integranden, von
+der Gröfse der darin vorhandenen Differentiale un-
+
+-” ‘abhängig, zu beacht£h habe, falls man aber, wie es
+
+für angewandte Mathematik gar oft sehr heilsam ist,
+die sachliche Definition beachten wolle, dann das
+
+Differential als Euklidisches Element des Integran-
+
+den zu betrachten sey, und auch durch dafür gehö-
+rige calculatorische Ausdrücke als solches behandelt
+werden könne: so dürfte wohl gegen ein solches
+. System der Infinitesimal- Methoden, nicht mehr der
+
+orwurf Statt finden, dafs es auf schwankende Be-
+griffe des Unendlichkleinen und Mysticismus
+gründet sey; besonders da dieses System auch das
+relative Verschwinden niemals nöthig hat, son-
+dern irgend ein Differential neben einer. andern
+.Gröfse wegzustreichen, nicht eher sich anzuma-
+fsen braucht, als -bis' das Differential völlig =o
+geworden seyn soll.
+
+Von Hn. Eytelwein wird zuvörderst, in mehren
+Kapiteln, durch dy die erste und überhaupt durch
+
+d® y die nte Ableitung (Fonction derivce), also un-
+dy
+
+‚ser erster und nter Differentialquotient und
+
+1
+
+ERGÄNZUNGSBLÄTTER ZUR A.L. Z.
+
+Kin Hauptsatz in -
+
+Fim+de) fx
+
+E-
+
+24
+
+X, späterhin dagegen durch dy und dıy unser
+
+erstes und nmtes Differential, dy und d"y ange-
+) dy di y
+deutet, und dann auch 7 und überhaupt ——,
+
+für die Ableitungen geschrieben; welches aber nicht
+für eine eingeschlichene Verwechselung der Cha-
+rakteristik zu achten, und daher etwas umständ-
+lich von uns zu erörtern ist.
+
+„Es ist zwar mehrmal angeführt worden, dafs
+die Einführung des unendlich Kleinen unter dem
+Namen der Gränzverhältnisse, Differentiglverhält-
+nisse, Verschwindungsquotienterr u. Ss. w. die An-
+wendung der Differential- und Integralrechnung
+auf höhere Geometrie und Mechanik erleichtere
+und vereinfache; allein eben diefs wird in aller
+Strenge und Einfachheit vermittelst des $. 570 ent-
+wickelten Satzes erreicht, ohne dafs es nöthig wäre,
+bey der Begründung dieser Rechnungsart , die Diffe-
+rentiale als verschwindende Gröfsen einzuführen.”
+(Vorrede S. III und 1V.)
+
+In dem 6. 570 wird nun zuvörderst aufge
+führt, dafs z. B. aus (dem Differenzenquotienten)
+
+= 8x + 38xlx + A x? für Ar= 0,
+
+(der Differentialquotient da sich ergiebt.
+
+„Statt Ax als Zuwachs von x anzunehmen,
+kann man auch dx dafür wählen oder Ax= dx
+setzen, So wird alsdann
+
+dy dx'=
+iz = f zoder =f'x für dx = 0,
+
+Nach 6. 179 ist aber dx = 1 für die Ableitung fx;
+weil aber die Einheit, welcher dx gleich ist, ganz
+willkührlich, also so grofs oder klein als man will,
+angenommen werden kann, so läfst sich dieselbe
+auch so klein annehmen, dafs sie kleiner als jede
+angebliche Gröfse wird, und zwischen ihr und Null
+kein angeblicher Unterschied vorhanden ist.”
+
+(Die Ableitung von der absolut veränderlichen
+Gröfse x zu finlen, setze man f'x = x, So wird
+nach der Regel $. 176:
+
+f'x=1.x°=1 oder auchdx = 1, heifst es in $. 179.
+Bedenken wir, dafs dieses dx des Vfs hier noch die
+
+Ableitung , also unsern Differentialquotienten A
+für den Fall y= x bedeutet, so können wir in dje-
+sem $. 179 nur erwiesen Sehen, dafs 2 = 1 seyn
+mufs, )
+
+„Bey den bisherigen Ableitungsrechnungen war
+
+‚dx nur als Ableitung, aber nicht als Zawachs von =
+
+an_esehen, und daher in Beziehung auf die übrigen
+Ableitungen = 1 geseızt worden. Will man dage-
+gen dx als einen Zuwachs von x ansehen, dann
+bleibt zwar das Verhältnifs von dx zu dy. ungeän-
+
+n. dert,
+

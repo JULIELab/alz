@@ -1,0 +1,155 @@
+Mn Am re BE A SRH SS 3
+
+* a
+
+0000 PUR RR TH BR. CZ. 5 a P ?
+
+2453
+Kbhensoa auch bei der Auszichuhg der Cubikwurzel;
+Die Abkürzung‘ $, 114 kunnte deutlicher seyn, nd
+es mufste namentlich gezeigt werden, warum man
+die durch 5 vorgestellte' Ziffer unmittelbar an die
+anter 2a gedachte Zahl anfligen könne, um 2d + 5
+2u erhalten, Es ist diels gerade ein Punkt, der, wie
+
+Wir aus Erfahrung wissen, für den Lernenden eine
+nicht unbedeutende Schwierigkeit enthält, Iır $. 123
+
+hätte wohl die Entstehung der Bezeichnungsart x %
+Yür "/xm angegeben werden müssen, Der Vf, sagt
+hier so; „wenn aus einer Potenz eine Wurzel gezo:
+gen‘ werden soll,‘ 80 pflegt man Uiels der Kürze we-
+gen auch so anzudeuten, dals man den Wurzelexpo-
+hienten, als Nenner, unter den als Zähler betrach-
+teten Potenzexponenten setzt,” Hiernach scheint
+diese Bezeichnungsweise einer blofsen Willkür ihre
+Entstehung zu verdanken, was’ jedoch keinesweges
+der Fall ist, Diese war vielmehr abzuleiten aus der
+Lehre von der Ausziehung der Wurzeln aus Po-
+tenzen durch Division des Exponenten der Potenz
+durch den Exponenten der Wurzel, Dieses Verfah:
+ren, eigentlic
+der Potenz durch den Exponent der Wurzel theilbar
+ist, wird dann auch uneigentlicher Weise auf den
+Fall übertragen, wo diefs nicht Statt findet. Da
+
+Verfahren, welches Briggs (nicht Brigg, wie der Vf,
+
+Wum, 31. FEBRUAR 1887,
+
+nur da zulässig, wo der Exponen$
+
+schreibt) angewendet Laben soll, um die Logarith- .
+
+men der Primzahlen zu berechnen, wird vom Vf, 80
+dargestellt: „um z.B. den Logarithmus von 3 zu fin-
+den, verfuhr Briggs folgendermafsen: da Sals Potenz
+
+von 10 betrachtet, zwischen 10° und 10- fällt, indem.
+
+10° < Sund 10 > S ist, so versuche man, ob vielleicht
+10 auf die SH = ze Potehz erhoben, die Zahl 5
+giebt, Man hat nun-107 == V/10—3,1622776601,...
+Folglich ist 105 < 3; der log. 5 liegt daher zwischen
+
+den schon engeren Grenzen I und 1, indem 10: < 3und
+10 >Sist, Aufdiese Weise kann ınan die Grenzen
+immer enger zusammmenziehn, indem man nach und
+nach die halbe Summe des kleineren und des grölse-
+ren Kxpeonenteh , zwischen welche der gesuchte fällt,
+auf die Probe’nimmt u.s, w.” Das ist nun zwar rich:
+
+‚ ° sig; damit aber diese AufGßndungsweise der Loga-
+Yitdım
+
+. metische Mittel nimmt, Auch mulfste
+
+en nicht zu sehr als ein wiederholter Versuch
+erscheine, hätte der Vf. den Satz vorausschicken
+sollen, dafs’ man allgemein zwischen zwei Zahlen
+mit ihren Logarithmeh eine neue Zahl mit ihrem Lo-
+barithmus einschalten könne, wenh man ads den Zah-
+n das geortietrische, aus den Logatithmen das arith-
+ezeigt wer-
+den, warum die Logarithmen aller Zahlen, welche
+nicht der Zahl 1,10 oder einer höheren Ordnung von
+10 angehören, nie genau, sondern nur durch fort-
+
+. Jaufende,- nicht periodische Decimalbrüche ausge-
+
+drückt werden können, Der Anhang, welcher An-
+merkungen und Ergänzungen enthält ist recht schätz-
+bar, Es scheint fast, als habe der Vf, gefürchtet,
+
+das därig Vorgetrageh& möchte dem Anfänger noch
+zu schwer seyn 3 und es deshalb Vans Ende van
+apart, statt es! da zu geben; wohin es'eigentlich $
+
+hört hätte, Sofüdet man z. B. hier die Vermmed:
+Jung der Decimälbrüche in gemeine Brüclie, was ins
+dessen, da es sehr leicht ist; recht gut bei der Lehre
+von den Decimalbrächen vorgetragen werden komtin
+Hier erscheint denn aüch der für die gesammte Aritin
+metik so wichtige Lehrsatz, dafs, wenn p eine Prima
+zahl, a und 5 aher zwei. gänz beliebige Zalılen. bes
+deuten, welthe jedoch, einzeln ‘nicht Yurch p'ohae
+Rest theilbar sind; Auch das Product a6 nicht durch
+p theilbar seyn könne, Der Beweis selbst aber läfst
+gich einfacher and fafslicher geben, als‘&s der Vf, gas
+than hat. Die Menge von Druckfehlern siad ein
+grofser Uebelstand; sehr viele sind angezeigt, aber
+sicherlich viele übergangen, Aufser deni, den wi
+oben schon geriügt haben, bemerken wir nudh S, 173
+letzte Z, v.u., wo es heifst: Y' GP = V 04, und
+heifsen mula: {64° = / 64*, Sonst ist das,Aenlss-
+re das Buches lcbenswerth, .; . ur M'
+
+Dog
+
+MATHEMATIK,
+
+EnLanorw, b. Palm u. Enke:. Beispielg über die Leh-
+ren des ‚Differential- Integral und Variations-
+Calculs , und Aufgaben über deren Üngerricht
+
+®
+y
+
+. Für Lehrende zum Gebrauche: beim; Unterrichte
+für Lernende zur, weiteren Unterweisung un!
+Ausbildung in Anwendung .der erlernten Leh-
+ren, hesopders zur Unterstützung des Selbst-
+studium (8); . Von 6. Strauch, Pr yatlehrer det
+
+:+ Mathematik, Erster Band, Differential- Calcn
+
+- ‘Mit 4 Figurentafelo, 1835, Y.414,288 8, gr,
+‚(1 Rthlr.. 12 ger) | vo Y- N :
+Es ist auffaltend, daäße, während für die Lehren
+der niederen Arithmetik.eine Menge: yon Beispiels
+sammlungen und Uebungsbüchern erschiendh aind
+und mit jedem Jahredetetft noch brecheiden, . ab Aha,
+lichen Werken füt die‘ höhere Arithmetik: wirklich
+Mangel ist. Wenn auch gleich die Zahl dbrer, die
+bich diesen Höheren Leliren widhen) geringer ist, eb
+ist sie doch immer noch so grofs, dafs die Bearbei;
+tung von Rechnungsbeispielen gewifs eine wilikom-
+mene Erscheinung seyn wird, Daher betrathten. wir
+auch das vorliegende Werk. als eine seht niitzliche
+Arbeit, Der Vf, giebt als Hauptzweck,des Buckes
+an, solche Beispielb aufzustellen, weltäe die beste
+Uebung in den höheren analytischen Opkrationen. bö-
+ten, und wünscht, dafs man bei der Beurtheailung
+des Werkes durchaus diesen Zweck zum Malsstahe
+
+nehmen möge, Ddanoeh können wiribicht umhin
+
+bei aller Anerkennung dessen, was der Vf, geleist
+bat, den Wunsch auszusprechen, dafs derselbe in
+seinen Beispielen mehr Rücksicht auf das practische
+Leben genommen haben möge, Ks macht dem Ler-
+nenden die Uebungen weit interessanter, wenn er
+das Gelernte auf wirkliche Fälle des Lebens, als
+wenn er es blos auf Formeln anwenden kann, - Sol-
+; cher
+

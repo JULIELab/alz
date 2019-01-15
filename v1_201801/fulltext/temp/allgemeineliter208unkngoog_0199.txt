@@ -1,0 +1,140 @@
+391
+
+gehen aus ihr hervor, wenn die Sinus als Cosinus
+ausgedrückt, und wenn 90 — x statt x gesetzt wird.
+Sie lehren also nichts Neues. Der Abschnitt, in
+welchem die Formeln für die Sinus, Cosinus u. 8. w.
+‚der vielfachen Bogen, ‘durch die Functionen der eio-
+fachen Bogen ausgedrückt, mitgetheilt werden, ist
+sehr vollständig, und Rec: will nur bemerken, dals,
+ob es gleich scheint, dafs die.hier mitgetheilten For-
+meln nur für ginen ganzen und positiven Werth von
+n gültig seyn sohen, sieauch für ein negatives gau-
+zes n ihre Gültigkeit nicht verlieren. Setzt man
+z.B. in die Formeln 7) und 8) S. 17 —n statt n, so
+ergeben sich die neuen fast niemals angeführten
+
+— N —1 ,
+
+sinn = n in COX
+(+0 (7-92 2. (ED) (MEZ) (+3) (@-F4)
+{1 2. 8 ER (ext —eto.]
+
+cos nz =cosx ”
+
+fa le EEE kai
+Diese beiden Gleichungen erwähnt Gaufs (disquis.
+generales circa seriem inf. 1+ <E x + ete.p.6, N.XIX
+
+‚und XXIII), ohne jedoch ihre Herleitung anzuge-
+ben. Der Beweis ihrer Richtigkeit beruht vorzöüg-
+lieh auf dem der beiden Gleichungen
+
+WEJD- GIG
+
+Tal
+
++2] LE  [E]=-9
+=] - DC] +[ll=
+
+— 1) [2] f in welchen Ausdrücken [3] die
+
+Kutersche Bezeichnung für den &te Binomial - Coef-
+ficienten der mteo Potenz ist. Dafs aber diese beiden
+Gleichungen jedesmal, und zwar nicht blofs für ein
+
+anzes und positives z, sondern;für jeden beliebigen
+Werth von = richtig sind, kann man auf folgende
+Art beweisen. Maıt multiplicire die nach dem
+binomischen Lehrsatze gemachte Entwickelung von
+a {(1 +4 x)" — (1— x)” } mit der von (1 — x?)”", be-
+halte blofs den Theil des Products, welches in z?4
+multiplicirtist, und bemerke, dafs das Product selbst
+= (1 — xy +(1+4+<x)—} folglich der CoeGfoient
+
+| nA.
+
+von x" +' in demselben = (— 1)” +* GL | ist,
+so wird durch die Gleichsetzung beider Resultate
+die erste Gleichung zum Vorschein kommen; ganz
+eben so ergiebt sich die zweyte, wenn man Anfangs
+statt der binomischen Entwicklung von 3 {(1 +x)"
+—(1—x)" } nur dievon Ad)” +(1—x)"} zu Grun-
+de Tegt, und die Coefficienten von x! mit einan-
+der vergleicht. Hieraus ergiebt sich also, dafs die
+
+ERGÄNZUNGSBLÄTTER Num. 49. MAY 1882
+
+1 898
+im Texte angegabenes Entwicklungen auch für etn
+
+.
+
+anzes negatives z gültig bleiben. Sie gelten sogar
+ür jeden beliebigen Werth von zn, wenn nur
+
+Winkel x die Grenzen — 3x und +43 nicht über-
+schreitet. — Für alle die Formeln, in denen das
+letzte Glied ein verschiedenes ist, je nachdem nz eine
+gerade oder ungerade Zahl, ist hier mit Worten
+angegeben, wann das eine und wann das andere ge-
+braucht werden solle. Diefs reicht in der That für
+jeden praktischen Gebräuch vollkommen hin. Für
+den theoretischen Gebrauch aber ist es oft sehr
+wünschenswerth, wenn etwa mit diesen Entwick-
+lungen Rechnungen vorgenommen werden sollen,
+das letzte Glied so ausgedrückt zu haben, dafs es
+für jeden Fall passe, um nicht die verschiedenen
+Fälle von einander erst trennen zu müssen, und
+
+. diefs geht auch oft sehr gut an. So heifst es hier,
+
+um einen der schwierigern Fälle hervorzuheben,
+. . n—Q De)
+sin nX = sin {@ cos X) 2 (* ) (2 cos x)
+
++ .. Von den doppelten letzten Glie-
+
+dern mui{s das obere genommen werden, wenn
+n gerade, und das untere, wenn n ungerade ist;
+dabey gilt in beiden Fällen das obere oder untere
+Zeichen , je nachdem im ersten Falle 3n, und im
+letzten 3(n—1) gerade oder ungerade ist. Hier
+hat man also 4 Fälle; das letzte Glied ist —n cosx,
++7 cos, +1, —1, je nachdem resp. }3nr gerade,
+3” ungerade, }(n—1) gerade, 3(n—1) ungerade ist.
+Aber alle diese Fälle können in einen zusammenge-
+fafst werden, wenn man sagt, das letzte Glied sey
+
+Ha-+7+1) nn 1 ’ 1
+
+= (—1) f- z— — (1) ()) COS VI,
+(rl
+
+WO 9 = — eine Zabl ist, die = 1 oder =0 -
+
+wird, je nachdem n eine gerade oder ungerade Zahl
+bedeutet. '
+
+Fncosz .
+
+ 
+
+(Der Beschlufs fFolgs.)
+
+VERMISCHTE SCHRIFTEN.
+
+Fravzrurta.M., b. Brönner: Gedichteinund auser
+(außer) der Schule, ausgewählt von E. WW, 6.
+aE8%, Director der Musterschule zu Frankf.
+a.M. 1881. Erste Abtb. für das Alter der ersten
+Schuljahre. XVI u. 2388 5. Zweyte Abth. f. das
+reifere Alter. IX u. 3105.8. (1 Rthir. 6 2Gr.)
+
+Sammlungen dieser Art werden immer gesücht
+werden, und wir können die vorliegende, ibrer
+Mannichfaltigkeit und zweckmäfsigen Ordnung we
+gen sowohl, als um des schönen Drucks und dabay
+wohlfeilen Preises”willen empfehlen. In den An-
+merkungen ist manches Entbehrliche.
+

@@ -1,0 +1,141 @@
+ba
+
+Summen und Differenzen. Die Behandlungsweise
+_ der entgegengesetzten Gröfßsen verdient Lob. Einer
+
+Schwierigkeit, die sich hier häufig dem Schüler auf-
+dringt, begegnet der Vf, auf eine zweckmüälsige Wei-
+se, wenn er sagt: „Die Vergröfserung und Verklei-
+nerung negativer Gröfßfsen kann in zweifacher Art ge-
+dacht werden. Kine negative Gröfßsee z. B. (—7)
+kann vergröfsert und verkleinert werden im Sinne
+der negativen Gröfsen, und auch im Sinne der posi-
+tiven. So z.B. ist (— 9) eine Vergrölserung von
+(—7) im Sinne der negativen Grölsen, dagegen
+; (—6) eine Vergröfserung von (— 7) im Sinne der
+positiven Gröfsen, Denn um aus der Zahl (—7)
+die Zahl (—9) zu erhalten, muf(s ich der Zahl (—7)
+‚zwei negative Einheiten zusetzen, Um aber aus der
+Zahl (—7) die Zahl (—6) zu erhalten, mufs ich zu
+
+der Zahl (—7) eine positive Einheit, d. i, (+ 1):
+
+addiren, wodurch ich offenbar die Zahl (— 6) er-
+halte” u. s. w.. Abschnitt 2.: von den Produeten
+und Quotienten. Kigenthümlich ist es dem Vf., von
+den widerstreitenden Gröfsen im Sinne der Multipli-
+cation zu sprechen (nachdem er früher, wie gewöhn-
+lich, positive und negative Gröfsen widerstreitend
+im Sinne der Addition genannt hat). Er sagt näm-
+lich so: „Die widerstreitenden Gröfsen im Sinne der
+Maltiplication müssen, nach der Erklärung wider-
+streitender Gröfsen überhanpt, so beschaffen seyn,
+dafs durch die Multiplication mit der einen, eine
+schon geschehene oder blos als geschehen gedachte
+Maulitiplication mit der andern wieder aufgehoben
+‚wird, 80 da(le es einerlei ist, ob man mit beiden, oder
+mit keiner von beiden multiplicirt,” So nennt denn
+
+Hr. C. @rund Z widerstreitende Gröfsen im Sinne der
+
+Multiplication, und es ist nicht zu leugnen, da(s er
+mit Gewandtheit und Scharfsinn diese Ansicht spä-
+ter durchführt, Das für die Multiplication und Di-
+vision gleiche Vorzeichen +, ungleiche — geben, ist
+zwar bemerkt, aber der Beweis mit den Worten ab-
+gefertigt: „Die Beweise der acht in der Behauptung
+aufgesten Fälle ergeben sich sehr leicht aus den blo-
+fsaen Begriffen der
+billigt das keinesweges, denn es möchten wohl nur
+.der Schüler wenige seyn, die im Stande wären, diese
+Beweise aus jenen Begriffen so ohne Weiteres abzu-
+leiten, Bei der Division der Buchstabengröfsen hätte
+bei dem Falle, wo Divisor und Dividendus aus meh-
+reren Theilen bestehn, darauf aufmerksam gemacht
+werden missen, dafs man, wenn man zweckmäfsig
+rechnen wolle, wohl thue, zuerst in das höchste Glied
+des Dividendus, d; h. in dasjenige, in welchem die-
+gelbe Buchstabengröfse als Factor am öftersten wie-
+derholt vorkommt, hineinzudividiren, Den in den
+meisten Lehrbüchern ziemlich künstlich gebildeten
+Beweis für den Lehrsatz, dafs, wenn zwei Zahlen @
+und & durch eine Primzahl p beide nicht theilbar sind,
+dann auch ihr Product a. b durch p nicht theilbar sey,
+führt der Vf. sehr einfach, und, wie es uns scheint,
+mit genügender Strenge so: „Denn wäre a.5 dureh
+gp theilbar, so müßte entweder der Factor p in einer
+
+ALLG. LITERATUR -ZEITUNG
+
+ultiplication und Division,” Rec,
+
+der Zahlen a oder d schon vorkommen, oder der Fa-
+ctor p miäfste bei der Multiplication von a mit 6 dureh
+Zusammentreten von kleineren Factoren entstanden
+seyn; ersteres ist aber gegen die Voraussetzung,
+weil sowohl a als 6 nicht durch p theilbar, und letz-
+teres ist unmöglich, weil p eine Primzahl; folglich
+ist das Product a.d durch p nicht theilbar.” Ab-
+schnitt 3,: von den Potenzen, Wurzeln und Loga-
+rithmen., Erste Abtb.: von den Potenzen und Wur-
+zeln. Theoretischer Theil, Erstes Capitel: von den
+Potenzen, Der Vf. sucht hier allen Schwierigkeiten,
+die sich später durch negative und gebrochene KExpe-
+znenten etwa bieten könnten, gleich von vorn herein
+
+‚durch die Erklärung des Begriffs Potenz entgegenzu-
+99
+
+treten, Er sagt nämlich; „‚Unter einer Potenz aP ver-
+steht man eine Zahl, die.aus der Zahl a, Wurzel
+u, s, w. genannt, auf dem Wege der Multiplication,
+d. h. durch Setzen und Verknüpfen von Fuctoren,
+ebenso erzeugt wird, wie die Zahl ps Exponent A
+pannt, aus der Einheit auf dem Wege der Addition,
+d. h, durch Setzen und Verknüpfen von Theilen, ge-
+bildet wurde.” Es ist wahr, diese Erklärung leistet
+dem Vf. gute Dienste, aber dennoch gefällt sie uns
+nicht recht, da man eigentlich nicht sieht, wie eine
+Potenz entsteht, sondern nur, wie eine einmäl vor-
+handene erklärt werden könne. Wie der Satz: „Das
+Quadrat der Summe zweirr Zahlen ist gleich der
+Summe der Quadrate dieser Zahlen, mehr dem dop-
+pelten Producte aus diesen Zahlen” ein Zusatz sey
+zu dem Lebrsatze: „Sind die Exponenten ganze po-
+sitive Zahlen, so sind die zu ihnen gehörigen Poten-
+zen jedesmal Producte ans so vielen der Grundzahl
+gleichen Factoren, als der Exponent Einheiten ent-
+
+ält,” vermögen wir nicht wohl einzuschn, Aus dem
+schon oben avgegebenen Grunde hat die Erklärung
+
+der Potenz a7, die der Vf, giebt, unseren Beifall
+
+p
+nicht, Er sagt nämlich; „Jede Potenz a7, mit ei-
+nem gebrochenen positiven Kxponenten erhält man,
+wenn man die Grundzahl a in so viele gleiche Facto- -
+ren zerlegt, als der Nenner q des Exponenten Ein-
+heiten enthält, und ein Product aus so vielen dieser
+Factoren bildet, als der Zähler p des Exponenten
+
+Einheiten hat, Beweis, Der Exponent P_ entsteht
+
+auf dem Wege der Addition aus der Einheit, indem
+ich die Einheit in g gleiche Theile zerlege, p dieser
+Theile hinsetze und .sie zu einander addire, Also
+
+pP
+mufs ich, um die Potenz a’g zu erzengen, nach dem
+von der Potenz gegebenen allgemeinen Begriffe, die
+Zahl a in g gleiche Factoren zerlegen, (d. h. in g
+gleiche Zahlen von der Beschaffenheit zerfällen, dals,
+wenn sie mit einander multiplicirt würden, die Zahl
+a wieder zum Vorschein käme) p dieser Factoren
+hinsetzen, und sie alle mit einander multipliciren,”
+Die Leltre von den hesonderen Kigenschaften der
+Zahlen in Beziehung auf ihre Potenzen ist reichhal-
+tiger und besser zusammengestellt, alg man sie in
+
+®
+

@@ -1,0 +1,134 @@
+715
+
+keit ungemein verliert, fo wie durch gröfseres For-
+mat die Bequemlichkeit. — Der erfie Theil des
+Werks, oder die Zahlenlogarithmen haben in der
+vor uns liegenden Ausgabe folgende Einrichtung:
+Don der fechsten Seite an gerechnet, enthält jede
+
+ctavfeite 40 vierziffrige Zahlen (von 1000 bis 9999);
+die zweyte fenkrechte Columne giebt die Logarith-
+men jener 40 Zahlen auf 6 Decimalen; in den übri-
+gen neun Columnen fiehen die Logarithmen fünf-
+ziffriger Zahlen, fo dafs, wie in den gewöhnlichen
+Ausgaben den Zahlen der erlien Columne von hinten
+noch 1, 2, 3 u. f. w. beygefetzt wird. Die drey erfien
+Stellen eines jeden Logarithmen find, fo lange fe
+unverändert bleiben, nicht wiederholt; jede Columne
+ift von der andern durch einen fenkrechten Strich,
+und bey dem Vebergange von 4 auf 5 durch einen
+flärkern, abgefondert. Die zur Seite der Vega’fchen
+und anderer Handausgaben fiehenden Proportional-
+theile find hier änziich weggelaffen, um Raum zu
+erfparen; der Vf. fetzte voraus, dafs bey den kleinen
+Differenzen zweyer auf einander folgenden loga-
+rithmen die Proportionaltheile fch leicht im Kopfe
+werden berechnen laffen, was man ihm gern zugeben
+wird, da clie gröfste Differenz 43 nicht überlieigt.
+Es if zwar nicht zu leugnen, dafs zur Abkürzung
+des Gefchäfts der obgleich mehr mechantfche Ge-
+bratich der Proportionaltheile auch das Seinige bey-
+trägt; das Denken, das bey keiner Rechnung ent-
+behrlich ifi, können alsdann andere Theile der
+Rechnung um fo ungehinderter in Anfpruch neh-
+men. Allein fo wünlchenswerth in dieler Hinhcht,
+zumal für minder geübte Rechner, bey Logarithmen
+‘mit 7 Decimalfiellen, die beygefügten Proportional-
+theile fcheinen könnten; fo wenig kann man von
+dem Vf. fordern, dafs er folche auch bey 6flelligen
+Logarithmen hätte beybehalten follen, da fie hlofs
+&as, fchöne Ebenmaafs der Zahlenreihen auf jeder
+Seite gefiört haben würden, und da man, um ihren
+Mangel zu ergänzen, im Grunde mehr nicht, als
+die Multipla der Zahlen 4, 3, 2 zu kennen braucht.
+Im Falle, dafs von den drey erflen (nicht wiederhol-
+ten) Stellen eines Logarithmen die dritte um die
+Einheit fich vergröfsert, hat der Vf. diefe Aenderung
+durch einen kleinen, oben auf der vierten Stelle des
+Logarithmen angebrachten horizontalen Strich , aber
+nur Einmal, bemerklich gemacht; die Vega’fchen
+Mandausgaben enthalten mehrmalen, und fo lange
+der Irthum möglich ii, ein eigenes Warnungszei-
+Ehen?“ auch öhne Wiederholung hätte der vr viel -
+a doch ein mehr indie Augen fallendes Zeichen,
+
+&r-din Sternchen, fiatt des Striches, wählen dür-
+fer. Was fehr zu billigen if, und bey Vega fehlt,
+fo hat der Vf. feiner Tafel der Zahlenlogarithmen
+auch die Hülfszablen S und T von 0° bis zu 2° 46’
+80“ oben auf jeder Seite beygefügt , und S.2 die An-
+zahl von Secunden bemerkt, die jedem Winkel von
+1000“ bis zu 10000“ oder bis zu 2° 46’ 8S0“' zuge
+hören. Wird S und T von dem Log. eines in Se-
+cunden ausgedrückten Winkels fubtrahirt oder dazu
+addirt, fo erhält man, wenn überdiefs noch der Log.
+
+ERGÄNZUNGSBLÄTTER ZUR A. L.Z.
+
+716
+
+Conft. S.314425 addirt wird, der Log: Sin. oder Log.
+Tang. jeaes Winkels, nnd durch ein ähnliches Ver-
+fahren erhält man aus dem gegebenen Log. Sin. oder
+Log. '"Tang. den entfprechenden Winkel. Diefs if
+nicht nur ein eben fo Veichtes als fcheres Mittel, die
+kleineren Winkel in den erfien Graden des Qua-
+dranten genau zu befümmen, fondern durch diefel-
+ben Hülfsgröfsen S und 7'laffen iich auch folche tri-
+onometrifche Rechnungen am Schluffe verbeffern,
+Bey denen man, der Bequemlichkeit halben, An-
+fangs die Bogen fiatt des Sinus und Tangenten ge-
+nommen hatte. Im Durchfchnitte läfst fch anneh-
+men, dafs, wie der Vf. auch in der Vorrede erwähnt,
+mit Logaritlımen von 6 Decimalen fich eine Zahl un-
+efähr bis auf ihren 500000fen Theil genau finden
+lst, ein Grad von Präcifion, der felten einen noch
+
+höheren zu wünfchen übrig laffen wird. — Im
+ten Haupttheile des Werkes Gnd enthalten: „, Loga-
+rithmi Sinuum et Cofinuum, Tangentium et Cotan-
+genlium ad dena Minuta fecunda.” Was diefen
+echsfielligen Logarithmen des Vfs, einen wichtigen
+Vorzug vor den fünflielligen, und felbfi auch vor
+manchen Gebeniielligen giebt, aber nothwendig auch
+den Umfang einer Handausgabe vergröfsern mufste,
+i(i, if eben jene Ausdehnung der Logarithmen trigo-
+nometrifcher Functionen, fiatt nur auf einzelne Mi-
+nuten, auf 10 zu 10 Secunden des Grads. Die Ein-
+richtung ift hier fo getroffen, dafs auf jede Seite
+6 Minuten, allfo 10 Seiten auf einen Grad kommen.
+Zunächft neben den Logarithmen der Sinus fiehen die
+Log. der Tangenten und Cotangenten, und zuletzt
+die der Cofinus. Von 10 zu 10 Secunden find die lo-
+rithmifchen Differenzen, wenn fie nicht gar zu
+Jlein find, für jede diefer vier trigonometrifchen
+Functionen beygefügt. Da diefe Differenzen meiß
+viel beträchtlicher find, als bey den Zahlenlogarith-
+men, fo konnten Ge nicht füglich wegbleiben; indeß
+fcheinen hie dem Vf. doch nicht fo beträchtlich zu
+feyn, dafs nicht die Proportionaltheile durch eine
+wenig mühfame Kopfrechnung gefunden werden
+könnten; auch ifi in den drey erfien Graden, alfo
+erade da, wo eine folche Rechnung am befchwer-
+ichfien feyn würde, fchon dafür gelorgt, dafs, mit
+Umgehung der freylich hier fehr grofsen Differen-
+zen, durch Anwendung der oben erwähnten Halfe-
+gröfsen Sund T die Winkel fehr genan bis auf die
+einfien Theile der Secunde befiimmt werden kön-
+
+nen. Nach des Vfs.‘Urrheil ‘‘läfst eh überhat
+
+beym Gebratiche der Logarithmen mit’6 Heci
+ein Winkel bis auf den achten Theil ‘einer Secunde
+finden; diefs iG aber nur unter beflimmten Bei Dr
+ngen richtig, und eine der vornehmflen derfelties
+it, dafs überall nur paffende Formeln (aptae for-
+mulae, wie der Vf. fagt) gebraucht werden, daS
+heifst mit andern Worten, dafs män es durchaus
+vermeidet, einen Winkel durch den Log. feines Co-
+finus aufzufuchen; allein gänzlich läfst fch in der
+angewandten Trigonometrie doch der Gebrauch der
+Cofinus, ohne öfters zu befürchtende gröfsere Weit-
+Jäuftigkeit, nicht umgehen; auch kann man nicht
+immer
+

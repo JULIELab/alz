@@ -1,0 +1,150 @@
+403. *
+
+° 5 es De |
+„ax.43 = (TE ++ Se z)(ple)),
+oder:
+
+y=C—(Sp(x)dx+S a(x)dx +S’plr)dr Au)
+
+worin C irgend eine Constante bedeuten möge,
+Sey wiederum 9 (x)= ax’, so folgt:
+C ax? az! ax’ =
+y= (+ es tnetee)>
+23 x?
+C— 12,30)
+für g(r)= ax» kommt: a
+
+.y=C—1.2.30a(e— (Az +... +7);
+
+für ydır=sinz-+dy, wiefrühery = 3 (sinx+cos x)}
+für ydr=erdr—dy, wie früher: y=23eX; u,8, W.
+
+Sey endlich in ydr—g(x)dr+d X)= 0!
+so bleibt ydxr=dy, woraus Cut ewöhnliche Weise
+der Werth von y integrirt werden kann. Nach vor-
+liegender Methode aber können wir setzen:
+. y=C+Sydx, woraus. folgt: y(1—Sdx)=C,-
+welches gibt:
+
+y=(1—Sdx)—"C=C+5SC.dx+S?!Cdx*
+" +S’Cdx) +00,
+
+oder y == C+Cx+{5 ++ ..s=C.e%*;
+
+also auch umgekehrt: X=19. (Z); einstimmig mit
+
+den Resultaten der Integralrechnung, Zweitens,
+wenn die Verhältnisse von der Art sind, dafs sie
+einer‘ Verwandlung bedürfen, um gesetzlich expo-
+nirt werden zu können. Drittens, wenn der E -
+Veirungsansdruck einem vorgeschriebenen Gesetze
+olgt. /
+
+. Zweite allgemeina Aufgabe, Die Entwickelung
+eines explicirt - vorgelegten Verhältnisses zu bestim-
+men, SS, 138 — 180. Und zwar erstens, wenn die
+Kxplicirungsfunctionen noch unaufgelös’t in den vor-
+gelegten Ausdrücken vorhandeu sind, Zweitens,
+wenn bestimmte Functionsanzeigen in den Ausdrü-
+cken noch unaufgelös’t geblieben sind, während an-
+dere verwandte aufgelös't worden sind. Drittens,
+wenn die Anzeigen für das Entstehungsprineip eines
+entwickelten Ausdruckes gänzlich verschwunden sind,
+Dritte allgemeine Aufgabe. Wenn Functionsglei-
+chungen gegeben sind, die Functionen selbst zu be-
+stimmen. SS, 181 — 246, Dals der Vf, für die
+Yunktionenrechnung etwas Bedeutendes geleistet
+hat, ist demnach nicht zu leuguen., Wir beschlie-
+fsen unsere Anzeige mit der Mittheilung einiger
+orte aus seiner Schlafsbemerkung: „zu einer wei-
+teren Ausbildung der Funktionenrechnung würde es
+jetzt hinlänglich seyn, allgemeine Funktionsanzei-
+isherigen Ausführung. Damit wird man die Me-
+thodik, wonach gewisse Funotionsannahmen allen
+Bechandlungsarten gewöhlicher Gröfsen unterworfen
+
+. gen zu substituiren in die speciellen Beispiele der
+
+ALLG, LITERATUR + ZEITUNG
+
+408
+
+werden, zu gröfserer Allgemeinheit erheben, Und
+tritt dazu eine Verwandlung irgend andeysarti
+Funktionen in die ursprünglich - gewählten einfachen‘
+(welches an vielen Beispielen als möglich na
+
+wiesen ist), ‘so erhalten wir eine einfache Entwicke-
+Jungsfähigkeit der Funktionsverhältnisse überhaupt,
+
+Da nun zugleich andersartige Funktionen andern ur-
+
+sprünglichen, ihnen eigenthümlichen, allgemeinen
+Betrachtungsweisen unterliegen können, so wird
+eine vergleichende Darstellung verschiedener Ent.
+
+. wickelungen möglich, woraus eine Verallgemeine-
+
+rung unserer Angaben abzuleiten ist, Die allge-
+meinste Ansicht der Funktionenrechnung mufs leh-
+ren, dafs alle solche Eiuzelnheiten mur Beispiele
+eind, wovon wir das Einfachste vorgelegt haben,”
+
+PREDIGERWISSENSCHAFTEN.
+
+Bremen, b, Heyse: Veber das Wesen und die Form
+
+der christlichen Predigt, Für gebildete Nieht-
+theologen., 1834, 20258, 8. (15 gGr.)
+
+Den Zusatz „für gebildete Nichttheologen” wählte
+der Vf, wohl mehr als Entschuldigung wegen des
+nicht eben streng systematischen Ganges in seiner
+Schrift, die sonst gerade von dem denkenden und
+weiter strebenden praktischen  Theologen.sehr be-
+rücksichtigt zu werden verdient, ‚Sie gehört näm-
+lich in die Reihe der in den letzten Jahren immer
+häufiger werdenden Monographieen, welche eine
+Umgestaltung der in der Theorie allerdings ziemlich
+starr gewordenen Homiletik vorbereiten, Diese
+Umgestaltung macht sich um so fühlbarer, je reger
+das Lehen ist, welches sich auf dem Gebiete der
+kirchlichen Praxis zu Tage legt. Denn während
+wir dasselbe einerseits als ein erfreuliches Zeichen
+der Zeit betrachten können, ist andrerseits doch zu
+fürchten, es dürfte leicht -— exempla sunt odiosa —
+zu bunt und zu kraus werden, wenn eine gesunde,
+von allem steifen Formen - Wesen wie von aller ne-
+
+"belnden Unklarkeit freie Theorie nicht feste Grund-
+
+sätze und leitende Gesichtspunkte aufstellt und so
+die rechten Schranken zieht, innerhalb deren sich
+die kirchliche Rede zu bewegen hat. Der Vf. ver-
+sucht es vou seinem Standpunkte, den wir als den
+der Hegel’schen Philosophie bezeichnen können,
+
+‚Sein Versuch tritt also dem Aufsatze von Erdmann
+
+(Theol. Studien und Kritiken 1834) und der Bro-
+
+schüre von Müller (Breslau 1834) zur Seite, über-
+
+trifft aber jenen au Vollständigkeit, und diese an
+Klarheit und an einem viel wissenschaftlicheren Tone,
+Geistlicher scheint der Vf, zwar nicht zu seyn. Al-
+lein es ist kein leeres Vorgeben, wenn er versichert,
+gich Jahre lang mit seinem Gegens beschäftigt
+zu haben und wenn Rec, ihm auch nicht in seinem
+Principe beistinmen kann, dafs die Religion nur
+als ein Denken begriffen seyn wolle (153; vgl. 114),
+ja wenn er gerade diejenigen Partieen seiner Schrift,
+die dies weiter ausführen sollen (S. 21 ff. 40 ff.) so-
+wohl wegen der mehrfach unterlaufenden riffs-
+verwirrung als wegen mancher lästigen Wiederho-
+lungen für’ die schwächsten erkläsen mu{s: so hut
+
+; N 8
+
+Es. a En
+

@@ -1,0 +1,178 @@
+= un u —
+
+925
+
+scheint es auf den ersten Anblick, als liefse sich
+ihr-/ mit Vortheil der elfte Grundsatz substituiren,
+indem man diesen so formt: Parallele - Linien sind
+
+jene gerade Linien in einer Ebene, welche zu einer -
+
+Aritten, sie durchschneidenden geraden Linie einer—
+Jey Neigung haben; allein man.erkennt leicht, dafs
+diese technische Explication das eigentliche Wesen
+der Parallel - Linien ganz unberührt läfst, wogegen
+die Euklidische Erklärung echt synthetisch den
+Begriff der,parallelen Linien, dem der Winkel bil-
+denden , Sich berührenden, geradezu entgegenstellt,
+Weil der Begriff von parallelen Linien aber kein
+einfacher ist, sondern die Fundamental- Begriffe
+von Richtung (als Linie) und von Neigung (als Win-
+kel) combinirt, so bedurfte Euklides eines beson-
+dern Grundsatzes, um durch denselben jene Com-
+binationen synthetisch zu begründen, und wir glau-
+ben, dafs er diesen Zweck mittelst des elften Grund-
+satzes vollkömmen erreicht habe. Was der Vf. ge-
+en denselben einwendet, ist: a) dafs er die Con-
+struction des rechten Winkels voraussetze, %) dafs
+das Zusammentreffen der geraden Linien unter jener
+Bedingung nicht für sich selbst als nothwendig er-
+scheine. Was den ersten Einwand betrifft, so ge-
+nügt es zu bemerken, dafs Euklid den rechten
+Winkel erklärt hat, aber überall nicht construiren
+will; was den zweyten Einwurf angeht, So ist es jä
+'eben die Eigenschaft eines Grundsatzes, an sich als
+nothwendig (in der Erkenntnifs oder Anschauung)
+
+zu' bestehen. — Um indessen die Perception zu‘
+
+erleichtern, hat wahrscheinlich Euklid den zwölften
+
+' Grundsatz ‘als Supplement hinzugefügt; denn wir
+
+finden von demselben in der Elementar - Geometrie
+keine andere Anwendung. (Die Anwendung dessel-
+
+‘ben in Lib. 11. Prop. 3. bezieht sich ebentalls auf
+
+eine Perception des Begriffs der Ebene, mittelst der
+Richtung.) Wollte man etwa diese Ergänzung. in
+der’ Form eines Lehrsatzes nachweisen, so würde
+dieses in folgender Art geschehen können: Wenn
+gerade Linien in einer bene, welche von einer
+
+ritten geraden so geschnitten werden, dafs die
+Summe der innern Winkel an einer Seite zwey
+Rechte beträgt, an dieser Seite irgendwo zusammen-
+stielsen, sp mülste dieses auch an der andern Seite
+der Fall seyn, weil auch dort die Summe der innern
+
+' Winkel zwey Rechte beträgt: mithin müfsten zwey
+
+a
+
+gerade Linien einen Raum einschliefsen. — * Wir
+recurriren also wieder auf den Satz des zureichen-
+den Grundes, auf dem alle Grundsätze basirt sind.—
+Länger uns bey diesem alten Paradoxon der Geo-
+meter aufzuhalten, gestattet uns der Raum nicht.
+
+8) Bey den Lehrsätzen von der Congruenz der
+Dreyecke neigt sich der. Vf. der constructiven An-
+sicht, d. h, derjenigen , bey der man untersucht,
+wann und unter welchen Bedingungen aus drey ge-
+
+ebenen Stücken, von Linien und Winkeln, ein
+reyeck, und zwar nur ein Dreyeck gebildet wer-
+den könne. ‘Dafs diese Theorie der‘ geometrischen
+
+Zeichenkunst aber nicht dem Euklides vorgeschwebt.
+
+naben könne, ergiebt sich bereits aus der Stellung
+
+x
+
+Num, 116. DECEMBER {18382
+
+des achten Lehrsatzes, wo der Beweis, dafs zwey
+Dreyecke congruiren, wenn die drey Seiten, einzeln
+
+genommen , gegenseitig gleich sind, erwiesen wird,“
+
+während erst später (Prop. 20.) die Bedingung zur
+Möglichkeit der Construction, dafs nämlich je zwey
+
+‘Seiten zusammengenommen gröfser als die dritte
+
+seyn müssen, in der Form eines Lehrsatzes auf-
+ırıtt. — Es fragt sich überhaupt, ob die Aufga-
+ben, streng genommen, zur synthetischen Methode
+gehören, und ob sie nicht blofs deshalb eingeführt
+sind, um die Zahl der Forderungen zu vermindern?
+Zur Beweisführung des fünften Lehrsatzes (der
+Gleichheit der Winkel an. der Grundlinie in einem
+gleichschenkeligen Dreyecke) wendet der Vf, die
+orstellungsweise des Proklus an; «diese: würde
+
+auch in der That genügen uhd den Vorzug der
+
+Kürze besitzen, wofern nur die Umwendung einer
+Figur zu den echt- synthetischen Grundbegriffen
+gehörte. Im Grunde genommen stützt sich dieser.
+Beweis auf den Satz des zureichenden Grundes,
+
+‚angewandt auf die Symmetrie des gleichseitigen
+Dasselbe gilt auch von den durch den
+
+Dreyecks.
+Vf. ın (6) und (c) aufgestellten Erörterungen.
+scheint also, als müsse der Euklidisehe Beweis.
+auch hier beybehalten werden, wofern man nicht
+ein ganz anderes System der Geometrie zu entwer-
+fen beabsichtigt.
+
+Zum 29sten Lehrsatze fügt der Vf, eine ziem-.
+lich vollständige Literatur über die Theorie der‘
+
+Parallel - Linien, durch einen eigenen Versuch ver- .
+
+mehrt, dessen Ungenügen indessen der Vf. selbst
+anerkennt. Wir haben unsre Ansicht über diese
+Crux Geometrarum bereits oben ausgesprochen, und
+
+fügen nur noch hinzu, dafs es uns, um alle Sohwie+*
+
+rigkeiten, aufser den 'sophistischen, zu eliminiren,
+
+hinreichend scheint, den 11ten Grundsatz so aus-
+
+zusprechen: Durch einen gegebenen Punkt aufser-
+
+halb einer gegebenen geraden Linie giebt es (in der=
+
+selben Ebene) nur‘ eine andere parallele (gerade)
+nie,
+
+Ueber den sogenannten Pythagoräischen Lehr-
+satz giebt der Vf, (welcher über denselben früher‘
+eine eigene Abhabdlung geschrieben) viele interes-
+sante Bemerkungen , sowohl in historischer, als in
+geometrischer Hinsicht. Besonders beachtungwerth
+erscheint, seiner Einfachheit und gröfsern Allge-
+
+meinheit wegen, S. 286 der nach Pappus gebildete
+
+Beweis,
+4) Da der Vf. keine eigenthümliche geometri-
+sche Proportionen - Lehre zugesteht, so sehen wir
+den Grund nicht ein, weshalb derselbe nicht auch
+das zweyte Buch , welches offenbar jene Lehre vor--
+bereiten soll, übergangen hat, zumal, weil nur der
+
+3öste, 36ste und 37ste Lehrsatz des dritten Buchs, _
+
+welche dann freylich auch hätten übergangen wer-
+den müssen, jene Sätze in Anspruch nehmen, in-
+dem sie selbst zu ihrer Gättung gehören. Die An-
+merkungen zu diesem zweyten Buche geben eine
+rein - arithmetische Recapitulation der darin enthal-
+tenen Sätze in bekannter Manier. '
+
+»
+
+5)
+
+/
+
+I
+

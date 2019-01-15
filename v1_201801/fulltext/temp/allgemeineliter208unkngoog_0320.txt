@@ -1,0 +1,144 @@
+N
+
+Indem wir uns nun zu dem über 100. Seiten
+starken Anhang wenden, müssen wir sogleich be-
+vorworten, dafs nach unserer, bereits im Voran-
+
+ehenden vielfach motivirten Ansicht Synthesis der
+Böhern Mechanik ufıd Phoronomie durchaus gleich-
+bedeutend sey; ist dem so, so darf es uns nicht
+wundern, in den anz:ytischen Schriften über höhere
+Mechanik Manches (namentlich die Fundamental -
+
+ätze) als unbeweisbar‘ aufgestellt zu finden, was
+die Phoronomie mittelst ihrer mechanischen Con-
+structionen sogleich ad hominem begründet. Auf
+der andern Seite wird nicht allein die Bestimmung
+
+der Quantitäten mehrförmiger Bahnen (als Functio-.
+
+nen der‘ Zeit) Gegenstand der Analysis bleiben,
+sondern auch der ganze Inhalt der eigentlichen Dy-
+namik, welche die Wirkungen an sich d. i. in ihren
+unendlichkleinen Zuständen betrachtet. Nach die-
+sem unserm Glaubensbekenntnifs wird es uns mög-
+lich, die Arbeit des Vfs (welche übrigens ohne
+Zweifel vielen, für Anfänger verfafsten, astrono-
+mischen Schriften vorzuziehen ist) so zu beurthei-
+Jen, dafs wir weder ungerecht gegen ihn erschei-
+-nen, noch uns gegen unsere eigene Ueberzeugung
+auszusprechen genöthigt würden.
+
+Ohne uns mit dem Vf. in die Metaphysik der
+Begriffe von Bewegung, Geschwindigkeit und Kraft
+einzulassen, wollen wir sogleich zu ihrer mechani-
+schen Attribuirung schreiten. Ganz recht bedient
+sich der Vf. zu diesem Zwecke nach dem Vorbilde
+des Theodosius der mehrförmigen Verhältnisse;
+
+allein unverkennbar liegen diesen die Begriffe des -
+
+Unendlichkleinen zum Grunde. Wählen wir also
+die abkürzende Symbolisirung der Differenzial-
+Rechnung, so erhalten wir aus der Euklidischen
+Formel y..x=Y..X erst d'y:dxzr = daY:dX1, im
+Sinne der Division, so dafs wenn n=1, y':x/ =Y':; X”.
+Euklid sagt nämlich: Wenn ax > < by u.cx > < dy,
+so ist a..b6=c..d. Nun sey ax = by + K, fer-
+
+ner cx = dy-4+L, und K und L, wie bey allen
+einförmigen Gröfsen, constant: so wird ad = bdy,
+
+1. 64 6 .
+und cdx = döy, mithin 7= zZ =. Also bezeich-
+
+net zz immer den Exponenten des Verhältnisses,
+
+oder die Einheit zweyer abhängigen Gröfsen im
+Zustande ihres gleichförmigen Wachsens oder Ab-
+nehmens, und dieser Exponent kann selbst zur ab-
+soluten Einheit werden, wenn sich jene Grüfsen im
+Aggregat -Verbältnisse befinden, z.B. x=y-+a, wo
+
+De =
+az =
+
+Dafs nun aber der Exponent des einfachen Ver-
+hältnisses zwischen Raum und Zeit bey der Bewe-
+gung Geschwindigkeit, hingegen bey dem mehrfas-
+chen Verhältnifs, also der mehrförmigen Bewegung
+(sie sey nun gerade - oder krummlinigt) Kraft ge-
+mannt werde, ist nicht einmal Gegenstand dzr Pho-
+
+Num,: 80, - AUGUST 1882. 0
+
+ronomie, sondern’ gebört ia die philosophische Er-
+örterung unsers auf objective Darstellung gerichte-
+ten Anschauungs - und Erkenntnifsvermögens.
+Sehr'wahr sagt Lagrange (Theorie des fon-
+ctions analytiques; application a la Mecanique): On
+peut regarder la mecanique comme une gdomdtri dä
+quatre dimensions, et V’analyse mecanique comme une
+extension de ’analyse geometrique. Dem gemäls be-
+trachtet derselbe anfänglich jede Bewegung, gerade
+Linie oder Curve, als Resultante, durch Absecis-
+sen- und Ordinaten - Bewegung hervorgebracht
+= f(8, y=0@(0, z=wW(E), zeigt dann, dem
+Tangenten - Problem analog, dafs in der Reihe
+Ax = (ft— a) At+( 1" 1—d) 40+J" +14),
+
+3
+» wo a den Coeffcienten in der Gleichung x = at,
+
+und & den Coefhcienten der Gleichung x = dt?, also
+
+das, was man nach den Begriffen des gemeinen Le-
+
+bens (aus der Erfahrung adtstrahirt) Geschwindig-
+keit und Kraft nennt, bezeichnet, wofern man nur
+At genugsam klein annimmt, ein jedes vorange-
+hende Glied beliebig mehr, als die Summe aller
+folgenden betragen könne (die Einwürfe, welche
+Cuuchy in neuerer Zeit gegen dieses Princip erho-
+ben, treffen, wie sich genau nachweisen lälst, kei-
+nesweges die eigentliche Analysis, sondern die so-
+genannte Incrementen - Rechnung, welche leider
+noch immer den leeren Platz in der höhern Iute-
+ral- Rechnung ausfüllt), woraus dann folgt, dafs
+r den Fall der gleichförmigen Bewegung von einem
+ewissen Punkte der Bahu aus, f’t — a, und für den
+all der gleichförmigen Acceleration } f”t=d seyn
+müssen, welches dann auch mit den Begriffen von
+Richtung und Krümmung vollkommen überein-
+stimmt. Endlich setzt Lagrange die Bewegungen,
+Geschwindigkeiten und Kräfte auf eben die Weise
+zusammen, wie man sich in der Geometrie Curven
+durch gerade Linien, Richtungen und Richtungs-
+Abweichungen bestimmt denkt, wobey sich dann die
+Probleme der Coordinaten- Verwandlung, der Krüm-
+mung, Gröfsenbestimmung und Variation wieder-
+holen, modifcirt durch
+sprüngliches Continuum gegebene Argument der
+Zeit, und gewisse erfahrungsmäfsige Bedirgungen
+für die als Kräfte auftretenden Functionen. — Aus
+dieser kurzen Uebersicht ergiebt sich, wie wir
+meinen, dafs die analytische Behandlung der höhern
+Mechanik keine andern Dunkelheiten besitzt, als
+die man selbst unnöthigerweise hineinmischt; von
+der synthetischen Behandlung , namentlich von den.
+Proben, welche uns der vr vorhält, können wir
+hingegen keinesweges ein Gleiches behaupten.
+
+Der Fundamentalsatz von dem Parallelogramm
+der Kräfte besitzt dieselbe Unvollkommenheit im
+höhern Maafse, weiche der Vf. dem haplace’schen
+vorhält (und welche auch dem neuvern Poisson’schen
+anhaftet), oder vielmehr vorhalten sollte (s. S. 485),
+nämlich die Annahme des constanien Einflusses des
+
+Wio-
+
+as gemeinsame, als ur-:
+
+>
+

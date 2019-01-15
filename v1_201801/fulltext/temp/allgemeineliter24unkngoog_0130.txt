@@ -1,0 +1,154 @@
+246
+dert , allein die Einheit, welcher dx gleich ist, mufs
+
+alsdann so klein angenommen werden, dafs sie klei- .
+2
+
+ner -als jede angebliche Gröfse, oder dafs dx für
+sich selbst betrachtet = o wird, obgleich dx sein
+
+Verhältnifs zu dy behält, und für X
+licher Werth gefunden wird.”
+
+„Hieraus folgt, dafs in allen den Fällen, für
+welche dx nicht als Zuwachs der unabhängig Ver-
+änderlichen x betrachtet wird, dx = 1 jeden Werth
+behält, welchen man dieser Einheit beylegen will;
+wenn aber dx als Zuwachs von x in Rechnung ge-
+bracht werden soll, welches vorzüglich bey den Un-
+tersuchungen in der böheren Geometrie und der an-
+
+= ein angeb-
+Q
+
+ewandten Mathematik der Fall ist, dann mufs die
+
+Cinheit, welcher dx gleich ist, kleiner als jede an-
+gebliche Gröfse angenommen werden, so dafs als-
+dann dx und dy für sich betrachtet =0o Sind, ob-
+
+gleich das Differentialverhältnifs
+ten Werth hat.”
+
+Sollte nicht die Forderung, dafs, wenn dx der
+Zuwachs von x (das Differential, noch besser die
+Belegung des x) seyn soll, dann die Einheit, wel-
+cher dx gleich. ist, kleiner als jede angebliche Grö-
+
+ı fse, = o solle angenommen werden, härter als ir-
+gend eine von den harten Zumuthungen in bisher
+gewöhnlichen Vorträgen der Infinitesimalrechnung
+uns. auffallen, die doch sämmtlich zu vermeiden
+sind!
+
+Selbst auch die vorhergehende Aeufserung,. dafs
+
+SEA einen bestimm-
+
+A 1 in Beziehung auf die übrigen Ableitungen
+
+A als = 1 gesetzt worden, muls uns anstöfsig wer-
+dy
+; dx
+verhältni/fs, wie es von dem Vf. allemal ‘genannt
+wird, nur heifsen kann, wo y und x, folglich auch
+dy und dx, calculatorisch gleichartige Gröfsen aus-
+
+dy ein Differential
+
+den, wenn wir bedenken, dafs ein Differential-
+
+machen, im Allgemeinen aber
+
+,
+
+quotient heifsen mufs. Wenn z.B. y eine kubische
+
+und x eine lincdre Gröflse ist, so mufs im’SX = > =PD,
+
+die p eine Flächengröfse seyn.
+
+In dem Anfange dieses ührigens hier wesentlich
+vollständig abgedruckten 6. 570, hat der Vf. geradezu
+bemerkt, da/s, wenn Ax=0o wird, auch Ay =0
+werden mufs. Allerdings mufs diese Beleuchtung,
+sobald nur die Abhöngigkeit der Functions - Bele-
+gung Ay von der Urbelegung Ar dargestellt ist, dem
+unbefangenen Menschenverstande geradezu ein-
+leuchten. Aber der Verstand der Mathematiker ist
+hierin nicht blofs durch die Lehren der Infinitesima-
+listen, sondern auch der elementarischen Functio-
+
+Num, 91. APRIL 18841.
+
+‘:Dimensionszeichen be
+
+246
+
+nisten sehr befangen worden. Denn -pachdem Jo-
+
+hann Bernoulli und Euler durch mangelhafte Erör-
+terung des Unendlichen gefunden hatten, dals die-
+ser Satz nicht allgemein wahr, sondern merkwür-
+digen Ausnahmen unterworfen sey, und diese Aus-
+nahmen von allen Lehrern der Differentialrechnun
+die darauf kamen, immerfort anerkannt waren,
+so wufste auch Lagrange durch seinen Funcetiönen -
+Calcul mit lauter endlichen Gröfsen ebenfalls diese
+Ausnahmen zu beweisen, und durch eigenthümliche
+Motivirung zu erhärten. In meiner Kleinen Schrift,
+Formulae radii osculatoris etc., Dresdae 1825, pag.
+141 sq., ist dieser Verstols der Mathematik gegen
+den gemeinen Menschenverstand umständlich erör-
+tert. Zur grofsen Ehre und Beruhigung würde es
+mir gereichen, wenn der Vf.,.ein sehr competenter
+Richter, meine dortige Rüge etwa für so bündig
+anerkannt hätte, dafs man jene Ausnahmen für völ-
+Jig beseitigt achten könne. Indem aber hiemit die
+völlige Allgemeinheit der gewöhnlichen allgemeinen
+Differenziirungs- und  Ableitungslehren gerettet
+wäre, so brauchte auch in der Lehre vom Gröfsten
+und Kleinsten nicht fernerhin, wie gewöhnlich, zu-
+gestanden zu werden, dafs die Taylor’sche Reihe in
+einigen Fällen unbrauchbar werde, und man daher,
+zu einer anderweitigen Entwickelung seine Zu1lucht
+nehmen müsse ($. 978). Im Ganzen aber sind auch
+die Lehren vom Gröfsten und Kleinsten mit vieler
+Sorgfalt behandelt, und die einseitigen Eminenzien
+des Rec. für statthaft anerkannt worden. Nur möchte
+ich erinnern müssen, dafs meine sogenannten Emi-
+nenzien überhaupt mehr, als die vom Vf. sogenann-
+ten ausgezeichneten Werthe umfassen. — Der Tay-
+lor’sche Lehrsatz ist nur hypothetisch, unter der
+Voraussetzung, dafs jedes y = A, + Ay...
+
+‚ sey, erwiesen. In meiner Differentialrechnung habe
+‘ich Kap. XVI. 6$. 3 auch einen unbedingten Beweis
+
+hinzugefügt. — Der binomische Lehrsatz ist in sei-
+ner ganzen Allgemeinheit durch combinatorische
+Analysis erwiesen. Bekanntlich hat man zwey un-
+gieic kürzere bündige Beweise, den verbesserten
+Culer - Segnerischen, ‚und den durch Kästner ge-
+schärften mit Hülfe der algebraischen Differentiale.
+Indessen hatte der Vf. zugleich die Absicht, alle Ei-
+genschaften der Binomial- Coefficienten und Reihen
+vollständig darzustellen. Seine einfache, mit vieler
+Umsicht gewählte Charakteristik , dürfte dazu bey-
+tragen , diese Hindenburgische Methode weniger
+mühsam und langweilig zu machen, als sie von dem
+ruhmwürdigen Erfinder nach und nach dargestellt
+wurde. (Mehre Hauptlehren derselben erfand der
+Hr. Prof. Fischer zu Berlin durch seine Theorie der
+weitem eingänglicher für
+jeden Mathematiker, der lieber mit dem Verstande,
+als mit den Händen zu arbeiten wünscht.) — Die in
+
+5.9 gegeb&ße Methode, für ZZ wenn fx =0o wird,
+
+zu bestimmen, ob man + x oder — w erhalten ha-—
+be, dürfte eine oftmals ganz unnöthige Arbeit ver-
+anlassen, weil man doch wissen kann und muls, ob
+
+eine
+

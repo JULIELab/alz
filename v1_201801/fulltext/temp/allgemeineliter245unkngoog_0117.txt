@@ -1,0 +1,154 @@
+219
+Die zahlreichen Duzchsel welche in-8 Nj-
+‚thographirten Tafeln dem Bande beigegeben sind,
+erscheinen gut gewählt und lehrreich,
+; Für.Frankreich ist das Buch yon Werth und
+ird die. geognostischen "Kenntnisse gut fördern.
+ie deutsche Literatur ist aber in neuerer Zeit mit
+- einigen guten geognostischen Lehrbüchern, als vater-
+Jändische Erzeugnisse und als Uebersetzungen aus
+dem Englischen,
+einer Uebersetzung des vorliegenden "Buches nicht,
+Billigen können wir es immer nicht, dafs der Vf,
+die Versteinerungen so sehr vernachlässigt hat, wel-
+ches indefs’in seinem — in unsern Augen eben des-
+halb fehlerhalten — Plane lag, Bei einer solchen
+‘Behandlung wird die Geognosie zu sehr auf dasjenige
+Extrem wieder zurückgeführt , welches wir bei Wer-
+
+ner und seiner Schule zu tadeln hatten, .
+
+MATHEMATIK,
+
+Hemzısero, in der Oswald, Universitätsbuchh,:
+Forschungen im Gebiete der höhern Analysis mit
+den Resultaten und ihrer Anwendung, Von L.
+
+UVettinger, Prof, in Heidelberg, 1831, IV und
+
+36958; 4. (2 Rihle, 16 gGr.) ; :
+Diese Untersuchungen beziehen sich alle auf Ge-:
+nstände, die mit der Combinatiönslehte in Ver-
+
+indang stehen. Ehe wir in das Einzelne eingehen,
+wollen wir nur die Bemerkung wiederholen, welche
+wir sehon früher bei Beurtheilung eines andern Wer-
+kes desselben Verfassers gemacht haben, mämlich:
+dals es wiünschenswerth gewesen wäre, dd(s der
+Vf, ‚sich weniger auf Entwickelun; specteller Fälle
+eingelassen und mehr Sorgfalt auf Abkürzung der
+
+"Wormeln verwandt hätte, wodurch viel Raum er-
+spart und das Buch viel wohlfeiler geworden wä-
+
+re. Wir wollen nur ein Beispiel anführen, Die
+
+‚Combinationen‘ zu q Elementen aus den Elementen
+
+G,, 4, ..@m bezeichnet Hr. O0, durch
+C(g; A, 62.01 8m)
+und findet (S. 103) als Werth des Ausdrucks
+(r+a,) (z+a,) ... (5 + am)
+die Formel
+m +CC; G,, 6,
++C(02; a. 6
+TC 4,5 6,
+
++C(R; a, 6,..am) zm—R
+
+  
+
++UC (m; a,, Brest) 2?
+
+Würde er sich dagegen z, B, der Bezeichnung bedient
+haben, die Schweins in seiner Analysis $. 88, für
+diesen Fall anwendet, se hätte er das Resultat in
+einer Zeile ausdrücken können,  Diefs und der Um-
+Stand, dafs nieht überall die Quellen, aus welchen
+der Vi}. geschöpft hat, angegeben sind, was man bei
+einem Werke, das auf Selbstständigkeit Anspruch
+macht, erwarten ‚darf, ist aber auch das Wesent-
+lichste, was.wir auszusetzen haben; sonst sind viele
+Kir
+
+ERGÄNZUNGSBLÄTTER ZUR A,L.Z,
+
+ereichert worden, und bedarf daher _
+
+‚Auf die Theorie der Zerfällaugen läfst
+
+schätzbare. und ‚neue Untepsuchunm; in diesem
+
+Werke enthalten, Das Gate zerfällt in. drei: Un-
+
+tersuchungen, Die erste behandelt die Zerfällun;
+der Zahlen in ihre Bestandtheile, was man au 8
+Lehre von den Variationen und Ciba
+bestimmten Summen nennt. ‘Wiewohl dieser Ge-
+genstand schen vielfach behandelt. sden ist, so
+mufs man doch dem Vf, das Verdie: an, dals
+er denselben sehr allgemein und auf ei achem Wi
+behandelt und manches Neue hinzugefügt hat, Z
+Letzterem mufs besonders gerechnet werden; die
+Untersuchung über Zerfällungen mit Wiedert,
+gen und Versotzungen, wem Elemente usges
+san sind. ($, 16,), Der Vf, betrachtet zwei Fälle:
+nämlich einmal, wenn die niedersten Elemente und
+dann, wenn ‚die höchsten Elemente an }
+werden; den Fall, wenn Zwischenelemente ausge-
+schlossen werden, Ist er unberücksichti| Ferner
+die Bestimmung der Anzahl der Zerfällungen mi
+Wiederholungen und Versetzuigen, wenn Böthate
+Elemente ausgeschlossen sind, und auch, .wena zu
+gleich eine. hestimmte Anzahl von höchsten uud.nie-,
+ersten Elementen ausgeschlossen sind en U, 20.)
+Vf, eini|
+Anwendungen derselben folgen, namentlich auf die
+KEntwiockelung der Polynomien von beschränkter Glies
+derzalıl ($. 22.), auf Petenziirung geometrischer Reiz
+hen ($. 23.) , die nicht sehr bedeutend sind, und auf
+einige Fälle aus der Wahrschein| it
+& 24.). In diesem letzten Abschnitte findet dee VE
+zelegenbeit, einem. Irrtdhum Jokann Bernowlli'g zu
+beriehtigen, .. Im 4ton Bande seiner Werke (Lang
+und Genev. 1742,
+Mathematiker die
+
+ 
+
+age auf: A spielt mit 8 Würfe
+
+unter der Bedii ‚ ‚dafs A gewinnt, wenn eig .
+r die mittlere. er rtzemale zwiael
+
+Wurf fällt, de: re. Prop! her
+dem gröfsten und kleinsten Wurfe oder mehr alg
+diefs s und im ‚entgogen| ten Falle ver,
+liert; wie ist das Verhältnifs der Wahracheinlichkeit
+beider Spieler? Es zeigt sich leicht, dafs die Wahr
+schein eit Beider gleich ist, wesen die.Anzahl der
+Würfel ungerade ist, Ist aber die Anzahl der Wür-
+fol gerade und == 2n,. 00 s6ll nach Bernoulli die
+Walrscheinhichkeit für A‘...
+= 6" +(?n— 1) (In—2)'... (In +1):
+
+Im B.00 n—1
+und für B N : .
+= 6% _(In— 1. (Im —2)... (5041)
+
+1.2. a9
+
+seyn. Diese Formeln sind aber unrichtig und geben
+nur in dem Falle, wenn n=1 ist, ein richtiges Re-
+sultat. Schon wenn n==2 ist, sind sie unriehtig;
+denn nach ihnen wäre das Verhältnifs der beiden
+Wahrscheinlichkeiten wie 1010:1382, während es
+in Wahrheit wie 1150:1442 ist. Die Formeln, wel-
+che Hr. Vett. giebt, sind allgemein richtig. In einem
+besondern Anhange finden sich Bemerkungen über
+die Maxima und Minima der durch‘ die Zerfällung
+
+. “ er
+
+31 und 32 Ch
+

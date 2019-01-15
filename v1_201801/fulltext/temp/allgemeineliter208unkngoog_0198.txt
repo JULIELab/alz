@@ -1,0 +1,145 @@
+- — un u = SD Va DD -
+
+89 ©) | Num. 49. MAY 1882. | 890
+
+zwey Hauptklassen zerfallen, die zweckmäfsig durch
+
+besondere Ueberschriften getrennt worden wären;
+
+In die erste derselben , die selbst in 27 Unterabthei-
+Jungen zerfällt und von S. 1—852 reicht, gehören alle
+Formeln, die sich auf die Theorie der Kreisfunctio-
+nen, ohne Rücksicht auf ihre Anwendbarkeit bey
+Wer Berechnung der Dreyecke und Polygone bezieht,
+also alle diejenigen, welche man sonst unter den
+Benennungen Goniometrie, Cyclometrie, Cyclotech-
+niezusammenzufassen pflegt. In der zweyten Haupt-
+klasse, mit den Unterabtheilungen Nr.27—50 S. 553, —
+110, sind die auf die ebene und spbärische Trigono-
+metrie, so wie mehrere auf die Berechnung der Vier-
+ecke und ebenen Vielecke sich beziehenden Formeln
+enthalten. Zu diesen beiden Klassen von Formela
+& kommen zuletzt, S. 111—120, noch 4 Tafeln hinzu,
+nämlich eine für die Umwandlung der Centesimal-
+Grade, Minuten und Secunden ia die entsprechen -
+den Quantitäten der Sexagesimal - Theilung; eine
+zweyte Tafel, welche die umgekehrten Rechnungen
+ausgeführt mittheilt, eine Tafel, um einen in Gra-
+den u. Ss. f. gegebenen Kreisbogen in Theilen des zur
+Einheit angenommenen Halbmessers auszudrücken,
+und endlich eine Tafel, welche die analytischen
+Ausdrücke für die Sinus und Cosinus der Winkel
+Yon 3 zu 3 Graden enthält. Alle diese Tafeln würden,
+‘unsers Erachtens, ihren Platz besser gleich hinter
+
+: den Formeln der ersten Klasse gefunden haben, da
+
+‚sie sich nicht auf die Berechnung der Dreyecke und
+Vielecke beziehen. — Der Vf. beginnt die erste
+Klasse mit einer Uebersicht der positiven und nega-
+tiven „Lage” der trigonometrischen „Hülfslinien”
+in den verschiedenen Quadranten des Kreises, —
+entgegengesetzte Qualität” und ‚„, Function” wären
+wohl ‚für diese Abtheilung die richtigern Ausdrücke
+gewesen —, und den trigonometrischen Grundglei-
+chungen, so wie denen, vermittelst welcher jede
+der acht einfachen trigonometrischen Functionen
+durch jede der andern ausgedrückt wird; dafs er
+zu den einfachen Fanctionen noch den Sinus und Co-
+8inus versus zählt, ist überflüssig, da diese fast ganz
+aufser Gebrauch gekommen sind. Hierauf folgen 106
+Ausdrücke für den Simus, Cosinus u. 8. f. der Summe
+und Differenz zweyer Bogen, nebst. den daraus
+hervorgehenden wichtigsten Verbindungen. Wir
+gestehen aber darunter so überaus leichte und sich
+von selbst darbietende Umwandlungen gefunden zu
+haben, dafs wir die Aufnahme derselben nimmermehr
+billigen können; wer z. B. nicht von selbst sieht,
+cos(x F y)
+| COS X COS Y”
+Umwandlongen nicht selbst nrachen kann, für den
+reicht auch 4ie ausführlichste Formelnsammlung
+Dicht hin, und es fragt sich, ober, was er sucht,
+fiaden kann, Selbst wenn es im Buche enthalten ist.
+;f ‚gg: MEI EIgy _ sin(x+y),
+
+Ferner heifst es Nr. 79 CB Ye 006 (WFy Fe;
+125 +1gy _ n(cky)
+cotg x+tgy cos (x Fy)
+
+dafs 1 4tgx tgy = wer diese und ähnliche
+
+und Nr, 80: igx; von
+
+diesen Formeln ist also eine nberflüssig, da die zweyte
+aus der ersten entsteht, wenn die Zeichen x und y
+
+‘mit einander verwechselt werden; eine ähnliche
+
+Bewandtnifs hat es mit Nr. 81 und 82, 84 und 85
+87 und 88, 92 und 98, 94 und 99, 95 und 100. End-
+lich gehören die Formeln 7— 11, in welcher die
+trigonometrischen Functionen der Summe dreyer
+Winkel und die Tangente der Summe von 4 Bogen
+durch die Functionen der einzelnen Winkel ausge -
+drückt werden, nicht hieher, sondern in die Abthei-
+Jung Nr. VIII, wo die Formeln entwickelt werden,
+die sich auf 3 oder mehrere Winkel beziehen; unter
+diesen fehlen hingegen einige wichtige, die in der
+Polygonometrie eben solche wesentliche Dienste lei -
+sten können, als die bekannten sin a sin (6 —c) +
+sinb sin (c— a) + sinc sin(a -— b) =0o in der Trigo-
+nometrie leistet; setzt man z. B. hierin c + d statt c,
+so wird man nach einigen sehr leichten Reductionen
+für 4 beliebige Winkel a, 6, c, d erhalten: sin a sın
+
+'G— c- d) + sind sin(c+d— a) + sincsin(d+a
+
+— 85) + sind sin(a —b —c)=0; auf dieselbe Weise
+folgt aus dieser Formel eine ähnliche für 5, 6, ... be-
+liebige Winkel. Durch ähnliche Umwandlungen er-
+hält man eine Reihe neuer, jedoch nicht so eleganter _
+aus der Formel für3 Winkel cosa sin (b—c) + cosb
+
+"sin (c—a) + cosc sin (a —). (Yergl. Strehlke’s Auf-
+
+aben über das geradlinigte Dreyeck. Königsb., 1826.
+8 101.) Ferner wird gewifs Mancher bier un-
+gern Formeln von folgender Art vermissen: sin
+(d—L) cos (1—L) — cos(&—L) sin (4+—L;) == sin (1—1);
+cos 1? + sin I? sin P
+es Fa > cos L?; cos (1 + 8) cos L—5)
+— cos 1 — s) cos(L+&5) = in(L4+1) sin (S—6) +
+sin (L—1) sin (S+s) (S. diese letzte Gleichung in
+Zach’s monat]. Corresp. 12ter Bd. S. 316), weil in
+die beiden ersten ein &eliebiger Winkel eingeführt
+ist, und.die letzte eine geschickte Umfaermung dar- :
+bietet. Die Abschnitte, in denen die Gleichungen
+für sinx, cos x u. 8. w. durch die triganometrische
+Function von }x und Qx ausgedrückt, so wie die
+Gleichungen, in denen von den beiden durch Addi-
+tion und Subtraction verbuedenen Bogen, der eine
+gleich 45° ist, mitgetheilt werden, sindeher zu reich
+ausgestattet, als unvollständig zu nennen. Die Ve-
+rihcationsfermeln aber, um Tafeln der Sinus u. S. w.
+zu prüfen, hätten wohl erst hinter den Formeln ihre
+Stelle finden dürfen, vermittelst welcher die trigono-
+metrischen Tafeln berechnet werden können. Unter
+‘den Verificationsformeln findet sich eine recht arti-
+ge, weniger bekannte; nämlich: sin x = cos (18 + ®)
+— cos (18—x) + cos (45 + x) — cos (54 — x); diese
+folgt offenbar aus den Formeln sin 18° = 1(—1+ 9);
+sin 54° = 43(145); folglich sin 54° — sin 18° «= 4,
+d. h. 2sin 54° sinzx — 2sin 18° sin x = sinx, welches
+die obige Formel ist, Unter den Winkeln, deren
+Anzahl von Graden durch 83 theilbar ist, finden sich
+nur die beiden Winkel von 18° und 54°, die in der
+angegebenen Beziehung zu einander stehen, und in
+
+so fern ist die Formel allerdings merkwürdig. Die
+
+beiden andern noch im Text auf diese folgenden
+
+S--
+.
+

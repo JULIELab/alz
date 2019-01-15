@@ -1,0 +1,140 @@
+475
+
+von der Decimal- Rechnung; im wierten Kapitel
+(S. 21 ff.) von der Decimal Bruch - Rechnun und
+ihrer Anwendung auf die Gefellfchafts - Rec nung
+u. f. w. Der Geometer vom Fach wird diefe Kapite
+entbehren können; defto willkommner aber wer-
+den fe dem noch weniger Geübten, fo wie dem An-
+fänger feyn, der daraus eben fo vollftändig als deut-
+lich fch wird belehren können. Im fünflen Kapitel
+; (S. 29 ff.) wird nun zu der Einrichtung und Berech-
+nung der Figuren felbft übergegangen, und hierbey
+abermals, jedoch mit unwiderlegbaren Gründen, be-
+wiefen, dafs es nur felten wahr ift, wenn man be-
+hauptet: je gröfser der Umfang einer Figur ift „. defto
+grö ser ift fie felbft. Aus den Fig. 12 und 13, Tab.
+eygegebenen zwey Ackerftücken geht die Wahr-
+heit des Gefagten deutlich hervor. Eben fo wird
+5.86 f. auf dem häußg vorkommenden Fall aufmerk-
+fam gemacht, dafs, und warum das Refultat zweyer
+angeltellten Vermeffungen felten, faft nie, überein-
+ftimmend feyn wird. Der Unterfchied kann auf
+100 R. als Seite eines Quadrats fehon bedeutend
+feyn, wenn die Mefsketten der beiden Geometer
+nur um 5” von einander abweichen. — Die diefem
+Kapitel ‚Deygefügten erläuternden Beyfpiele laffen
+an Vollftändigkeit und Klarheit kaum etwas zu
+wünfchen übrig. Das fechfie Kapitel (S. 68 ff.) han-
+delt von der Berechnung der Kreisfläche, desKreis-
+Ausfchnitts, des Dreyecks, nach feinen drey Seiten,
+fo wie von der Abfiteckung, Ausme(ffaung und Berech-
+nung der Figuren von beftimmter Grölse u. f. w.;
+von der Aufnahme der Winkel mit der Mefskette
+nach Graden, durch Hülfe der Winkelmefler - Ta-
+belle, Auftragung derfelben mit dem Transporteur,
+und Ausziehung der Quadratwurzel. Wenn (chon
+zirkelrunde Flächen weder in Forften noch auf Fel-
+dern vorkommen dürften , fo wird doch in manchen
+anderen Beziehungen die Berechnung des quadrati-
+fchen Inhalts einer zirkelrunden Fläche nicht ohne
+Nutzen feyn. — Was von fo Vielen als fehr fchwie-
+rig angefehen wird, die Ausziehung der Quadrat-
+wurzel nämlich, hat der Vf. mit einer in der That
+fehr zu beachtenden Deutlichkeit dargeftellt. Gleich
+wie man zur Multiplication das Ein mal Eins im
+Kopfe haben mufs, fo bedient man fich hier einer
+urzeltafel, welche die Quadrate der neun erften
+
+- Zahlen enthält:
+Wurzeln [1|2]8|/41516|718|9
+Quadrate |1|41|9 16[25/36149164[81
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hieraus ergiebt fich zugleich, dafs zwar alle Zahlen,
+von 1 an, Wurzeln find und Quadrate haben, dafs
+aber nicht umgekehrt alle Zahlen der Reihe nach
+folche Quadrate fnd, deren Wurzeln unter den gan-
+zen Zahlen angetroffen werden, da z. B. zwifchen
+1 und 4 noch die Zahlen 2 und 8 liegen, welche
+keine vollkommenen Quadrate find, und von denen
+in ganzen Zahlen Gch keine Wurzeln angeben laf-
+fen. — Die SS. 79 ff. befindliche Winkelmeffer- Ta-
+belle geht zwar nur bis auf 173° 22‘, allein fie wird
+ausreichen, weil ftumpfere Winkel wohl nur felten
+
+ALLG. LITERATUR - ZEITUNG
+
+476
+
+vorkommen, oder, wenn diefs ja def Fall wär:,
+vermieden .. werden müffen. Im iebenten. Kapitel
+S. 94 ff.) folgt die Lehre von den Progrefüonen und
+ogarithmen, mit vielen erläuterten Beyfpielen,
+ohin befonders die S. 107 und 108 befindlichen Ta-
+feln mitzurechnen find. Nachdem diefes auf dem
+ewöhnlichen Wege erläutert ift, fo folgt im achten
+Kapitel (S. 125 ff.) die Eigenfchaft und Berechnung
+der Logarithmen nach einer andern Methode, wel-
+che durch angenommene Buchftaben ftatt der Zahlen,
+auf einem kürzern Wege zum Ziele führt. Nachdem
+der Vf. von Neppers Erlindung gefprochen hat, geht
+er zu dem Briggilchen Syftem als dem bequemern über,
+und diefes ift es, welches der Vf. S. 128 ff. genau
+lehrt und mit vielen erläuternden Beyfpielen erklärt.
+Im ncunten Kapitel wird von den logarithmifchen
+Tafeln aller natürlichen Zahlen der Logarithmen
+von 1bis 10000, fo wie von den Tafeln der Hülfs-
+linien zur Trigonometrie u. f. w. gehandelt. Nach-
+dem eine hinreichende Erklärung über den Gebrauch
+u. f. w. diefer Tafeln S. 1386 ff. vorausgegangen ift,
+folgen die Tafeln der Logarithmen S. 145 ff. felbit,
+welchen fıch S. 169 ff. die Tafeln der Hülfslinien der
+Trigonometrie und der zultimmenden gewöhnlichen
+Logarithmen, für die fünf erften und letzten Grade
+von Minute zu Minute, für den übrigen Theil des
+Viertheils eines Kreifes aber von 10 zu 10 Minuten,
+nebft den Unterfchieden, berechnet, anfchliefsen.
+Viele Tafeln find als ein wichtiger Theil des Ganzen
+zu betrachten, und machen, in den angegebenen
+Beziehungen , jedes andere Werk entbehrlich. Die
+den erftern beygegebenen S. 168 befindlichen Gene-
+neral-Regeln zu Berechnung geradliniger Dreyecke
+find Rurz, erläutern aber das Cefagte vollfändig und
+deutlich. Das zehnte Kapitel enthält (S. 194 ff die
+Lehre von der ebenen Trigonometrie, womit {ich
+die erite Abtheilung Johliefst. 01 n Sie
+ie z e Abtheilung (S. 2 ehrt im er
+Kapitel S. 209 ff.) die Theilung der Figuren nach
+verfchiedenen Richtungen u. f. w., fo wie die Ver-
+wandlung derfelben, und befonders der Grenzen,
+und im zweyten Kapitel (S. 219 ff.) die Aufnahme,
+Berechnung und Theilung der Figuren und Gewan-
+nen, oder Kleinerer und gröfserer Feldabfchnitte, fo
+wie die Theilung nach der Bonität und Güte des Bo-
+dens u. f. w. Es wird hier zuförderft von der Thei-
+Jung geradliniger Figuren nach der wirklichen L
+in gleiche und proportionirte Theile, nach gerader
+Richtung, fodann von einigen befonderen Fällen,
+welche öfters bey 'Theilungen, vorzüglich bey
+Dreyecken, vorkommen , und endlich von der Thei-
+Jung gröfserer Gewannen (Feld - Abfchnitte) , wel-
+che fowohl von krummen als geraden Linien einge-
+fchloffen find, gehandelt, Die grofse Anzahl von
+Figuren, welche hier getheilt und genau berechnet
+find, werden gewifs für alle im praktifchen Leben
+
+vorkommende Fälle ausreichende Anleitung und
+Zurechtweifung geben können, Das dritte Kapitel
+
+(S. 260 ff.) handelt vom Planzeichnen im Allgemei-
+nen, und zwar I. vom Bergzeichnen nach der Leb-
+mann’
+

@@ -1,0 +1,172 @@
+ 
+
+I A. a]
+
+ass © | ALLG: LITERATUR - ZEITUNG
+
+bey beiden Methöden durch Reduction auf einen be-
+Trimmten Mechanismus noch abgekürzt; wer häuß-
+zen Gebrauch von diefen Tafeln zu machen denkt,
+
+ut‘ wohl, fich mif demfelben vertraut zu machen.
+Nach einiger Uebung wird,man 8s dann gewifs bald
+
+dahin bringen, fich die anzuwendende Aufmerkfam-
+
+keit mechanifch zu machen, und wir halten daher mit
+Zeonelli den Vorwurf Delambre’s für Nbereilt, dafs
+ey, wenn
+
+. eine ermüdende Aufmerkfamkeit nöthig rend
+gen -
+
+man nicht jedesmal alle die vielen über
+Jen auffchreibe.
+2» ‘Man Geht leicht, ‘dafs man auf ähnliche Weile
+auch A oder % unter die Form “
+| 1088 (14-750) (14 ra 6)... |
+Tetzen könne, fo dafs a, b, cc... lauter ganze Zahle
+unter :00 bedeuten. Bey jedem einzelnen Falle wir
+man dann nur halb fo viele Glieder nöthig haben; da-
+en wird die Hülfstafel zwar auch nur halb fo viel
+‚ Ordnungen, aber in jeder 99 Logarithmen enthalten,
+alfo einen faft fünf Mal fo grofsen Umfang haben müf-
+fen. Leonelli hat auch eine (olche Hülfstafel , aber nur
+‚für die Briggifchen-Logarithmen, und nur auf ı5 De-
+cimalen beygefügt; fe enthält 485 Logarithmen. Es
+i{t Schade, dafs nicht auch diele Tafel für 20 Deci-
+malen eingerichtet ift,
+
+‚Für die umgekehrte Aufgabe, zu einem: gegebe-
+nen Logarithmen die Zahl zu finden, Gnd Leonelli’s
+Tafeln. nicht/weniger anwendbar. Durch Zerlegung
+des gegebenen Logarithmen in feine in den Tafeln
+befindlichen Beftandtheile erhält man die Faetoren-
+
+reihe der Zahl, und durch deren Multiplication (wo-'
+
+für fich. leicht -ein
+die Zahl felbft.
+
+Wo man übrigens mit fieben oder zehn Decima-
+Jen ausreicht,. gewähren freylich die gewöhnlichen
+oder die Vlacg’fchen , auch von Vega herausgegebenen
+“Tafeln bey weitem mehr Bequemlichkeit, als die
+Leonellifchen. Und in der That find jene auch bey
+den allerfeinften aftronomifchen oder fonft auf die Kör-
+
+gefchmeidiger Algorithmus findet)
+
+erwelt fich beziehenden Rechnungen, oltne Ausnah- -
+
+me, überflüfGg genau. Bey analytifchen Rechnungen,
+oder auch bey der primitiven Conftruction von Ta-
+fein, kommt man jedoch allerdings öfters fin den Fall,
+wo man eine gröfsere.Schärfe wünfcht, und dann,
+“ wenn man anders nicht noch mehr als 13 oder 18 Zif-
+fern verlangt, God Zeowelüs Tafeln unftreitig das
+Brauchbarfte und Bequemfte, was man zu diefem Be-
+hufe anwenden kann. ' '
+
+Dem Delambre’fchen Berichte zufolge hat übri-.
+
+gens Brigg ganz diefelbe Methode in feiner arithmeii.
+
+. 6a logarithmica vorgetragen, und eine ähnliche Hülfs-
+tafel auf 14 Decimalen berechnet; allein die franzö-
+fifchen Geometer {elbft haben von diefem feltnen Wer-
+ke nur Ein Exemplar auftreiben können, worin gra-
+de diefer Theil gefehlt hat. Das Verdienft der eignen
+ErSndung und eignen Berechnung bleibt alfo Zeonelli
+immer ungelchmälert, und es ift ilig, dafs wir ihm
+
+° befonders für letztre den gebührenden Dank zollen.
+
+SL a na
+
+‚deren . Loga
+
+' lambre’fchen
+
+Den Zweck ‚der zweyten Abhan ‘ haben
+bereits oben angezeigt; wir wollen nun fehen,
+Leonelli denfelben erreichen will. Er (chlägt eine
+drey Columnen beftehende Tafel vor; um uns I}
+zer zu fa(fen, wollen wir, anftatt Leonell’s fchweı
+lige und unnöthige Terminologie zu gebrauchen,
+zufammengehörigen Glieder diefer drey Colum
+durch P, Q, R bezeichnen. Diele Gröfsem {foles!
+von 'einander abhängen, dafs, wenn man die X
+rithmen P ift, durch x bezeick
+
+= log (1+#), R=log (1+x)fey: daher im
+
+= P+ Q feyn wird; ferner {oll diefe Tafel nz
+nach x, fondern nach P geordnet feyn, oder Pk
+gleichförmig wachfen, und zwar von o bis ins Ui
+endliche, oder vielmehr. bis Q.als verlichwindend bı
+trachtet werden kann. Der Gebrauch einer foiche
+Tafel läfst fich leicht überfehen. Soll aus log # un.
+log b der Logarithm von 4 -+b beftimmt werden: (c
+geht man (wenn man vorausfetzt, dafs a gröfßser ıf
+
+s 6) mit log a — log d in die erfte Columne ein, oder
+fetzt diefe Differenz = P: dann ift offegbar -
+
+log (8'+b)= Qt losa= + logb.
+Soll man hingegen den Logarithmen der Differenz #
+ftimmen: fo wird man log a— logb entweder iıd
+zweyten oder dritten Columne finden; je Dad
+diefe Differenz kleiner oder gröfser ift, als kr
+Im erften Falle, wenn man log a — log & = Q ma,
+wird log (4 —b) = log b — P= log a— R feyn; in
+zweyten hingegen, wenn man log a—logb=bgl
+fetzt, wird der gefuchte Logarithm
+= Togb+P=1 a— Q
+
+Sonderbar ift’s, dafs Leonelli diete Art, den )
+men der Differenz zu beftimmen , wem die Difterenz
+der Logarithmen kleiner als log z ift, nicht Bin
+merkt Tat; in der Schrift felbfit giebt er für di
+Fall ein anderes verwickelteres Verfahren, und a&
+durch die Rüge diefer Unvollkommenheit in denDe
+erichte ift er auf die doch fo npabe be
+gende Art, die Tafel zu benutzen, geführt, wi#
+er in feinen Bemerkungen über diefen Bericht @#
+ler .Weitfchweißgkeit erklärt.
+
+Obgleich wir Lconell?s Gedamken,
+folche Tafel die logarithmifchen Rechn
+leichtern, im Ganzen genommen unfern Be
+verfagen können, fondern vielmehr die wirkliche A
+führung einer folchen Tafel für wänfchenswerth
+ten: fo können wir doch allem übrigen, was
+über diefen Gegenftand fagt, nur wenig Werk bey
+legen. Seine Entwicklung des Gebrauchs if fireine
+fo elementarifchen Gegenftand mit unnöthiger We
+Jäuftigkeit vorgetragen. Auch nur etwas tiefere U
+terluchungen über das Gefetz des Fortganges def 1
+feln und der Differenzen, welche doch zur B
+mung des ihnen zu gebenden Umfanges {chr nö
+wären, finıtet man far nicht, wohl aber einige
+hingeworfene, und zum Theil ziemlich verw
+ausgedrückte Aeufserungen , aus denen fch (chli
+Jäfst, dafs LZeonelli dergleichen gar nicht, oder
+ganz unrichtig angeftellt hate Dahin gehört z.B
+grundfalfche Behauptung ‚dafs, wenn PP immer
+
+ 
+ 
+   
+   
+ 
+  
+ 
+ 
+    
+ 
+ 
+    
+    
+    
+

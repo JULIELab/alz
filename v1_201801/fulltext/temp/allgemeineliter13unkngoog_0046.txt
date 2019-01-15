@@ -1,0 +1,181 @@
+ar nd LA vw
+
+vr
+
+' ihrer
+
+17 Num, 90.
+
+mend, die Lehre von’'den Logarithmen von der Po-
+tenz- Rechnung gar nicht verschieden hält ( wenig-
+ztens nicht wesentlich verschieden, etwa wie
+Bruch- und Decimal - Bruch - Rechnung), und uns
+ferner die Potenz- Erhebung , so wie das Quadrat -
+und 1Cubic- Wurzel - Ausziehen ein viel zu abge-
+nutzter und allzutrivialer Gegenstand für eine Mo-
+nographie zu seyn Scheint, so tragen wir nicht das
+misdeste Bedenken, das 5te und 6te Havptstück
+zu überschlagen, und uns sogleich zu dem Binomial-
+Satz zu wenden. „In 6$. 129 habe ich den Bino-
+mialsatz für den Fall erwiesen, wenn der Expo-
+nent eine ganze Zahl ist.” Es ist dieses der alte
+Beweis von zn auf n+1. „In dem 7ten Haupt-
+stück suche ich ihn in seiner ganzen Allgemein-
+heit, d. bh. für jeden (!) Werth des Kxponenten
+zu erweisen. Sind die gegebenen Beweise richtig
+(was ich Kennern zu beurtheilen überlasse), so
+wird dieser so wichtige Satz von, nun an (!) aus
+dem hböhern Theile der Arithmetik in den Ele-
+mentartheil übertragen werden können.” Dieses
+ist der Beachtung werth. Was nun zunächst die
+Form (a-+5ö)— angeht, so ist die Richtigkeit
+Dtwickelung von dem Vf. allerdings voll-
+ständig, wiewohl etwas umständlich, durch Zu-
+rückführung auf Division und Inductionsschlufs,
+erwiesen worden. Allein abgesehn davon, dafs
+bereits Klügel (im Anhange zu seiner analytischen
+Trigonometrie) 1770, einen ähnlichen Beweis ge-
+
+; 1
+geben, so könnte man, weil (a+5)— = 5
+durch unmittelbare Division der entwickelten Reihe
+für (a+ db)" in 1 bey weitem kürzer.und auf ger
+radem Wege zum Resultate gelangen. Was aber
+den Beweis für die gebrochenen Exponenten an-
+
+ belangt, sa müssen wir doch Bedenken tragen den
+
+Beweis als vollständig anzusehen... Des Vf, Schlufs-
+weise ist hier im Kurzen folgende: Wenn n und m
+beide ganze positive Zahlen sind, so ist auch ihr
+Product eine ähnliche Zahl, mithin kann man ohne
+
+Bedenken setzen (a +)" = at Zn.ma“ 5 7ib+
+n.m.n.m—1 n.m= 2,2
+
+1. 2
+((a+5)r) >, so folgt, dafs wenn man eine Form von
+
+n.n—1 nn
+
+at“) de...
+
+ 
+
+der Gestalt a” +na""d+ 3
+
+auf die Potenz des ganzen und positiven Expo-
+nenten m erhebt, eine ähnliche aus n.m gebildete
+
+Reihe entstehe. Fingiren wir nun ferner (a+b)n
+1 2 1=1 1—1 1 = 2
+
+= a°+2ng® 'bd+ 137) a? b +...)
+
+erheben diese Reihe nach derselben Regel zur nten
+Potenz, so entsteht ganz richtig a +d=a+bd. —
+Glücklicherweise erkennt der Vf. zur Hälfte seinen
+Irrthum; doch bevor wir nachsehn, wie sich der=
+
+und
+
+ 
+
+a 6 +... Danun (a +8) =
+
+MAY 1882. ' 78°
+
+selbe vergebens bemäht durch einen zweyten Fehl-
+
+schlufs den ersten zu bedecken, sey es uns erlaubt.
+
+nun auch eine Substitution zu machen. Bedeutg
+demnach & eine unendlich kleine und n eine un-
+endlich grofse Gröfse, so ist nach bekannten Be-
+
+griffen N I
+
+0 ,
+=a +a” +...) SO dafs also ganze Massen von
+Unendlichkeiten = o seyn müfsten — ein Bele
+
+‚ dafs mdn keinesweges in eine für. gewisse Fä
+
+abgeleitete Formel‘ nach Gutdünken alles hinein-
+setzen darf. Wie gesagt, der‘ Vf. erkennt selbst;
+
+dafs man aus der für (a+ b)= fingirten Reihe nur
+dann zur nten Potenz mittelst der Substitution
+von n.= = 1 für k gelangen könne, wenn man,
+
+was eben bewiesen werden soll, die Richtigkeit
+der Fiction im Voraus annimmt. Aber, was thut
+der Vf. in dieser Verlegenheit? Er greift zu ei-
+nem andern Mittel und sagt, es sey in (a + 6)®
+
+= a +na "1b +4 a" Ad = Br
+
+1 ® 2
+und a = p, mithin a =pr. Dies giebt nun
+
+ 
+
+richtig berechnet (a+5d)° = (pr+ ß.r)" = P+
+nrp “p *ß+
+
+PN.,T NR  — Tr Zr 2 ;
+pp B +. (=); er-
+
+hebt man nun ferner an beiden Seiten zur mten
+Potenz, unter m eine ganze Zahl verstanden, so
+
+n.m er.
+
+erhält man eben so richtig: (p” +An)” Zp +
+
+nm =—>r PAIR. PN.M=T DM
+ramp .p .ß+ " x
+
+2
+
+1.2 PP ‚ß +, .(m%)
+Setzt man nun endlich n.r= d, so gestaltet sich :
+1) (pr + Br) =pt+d.pf.p"*ß |
+
+d.d—r a =2
++ 173 , BA und
+
+2) (pr + Br) ap dmp ”p""n
+4 Am.dm—r am —2r 2
+| 1. 8 BA
+woraus der Vf. wieder ebenso unb ife]
+Schlufs zieht, dafs eine Reihe von "der Beschaften.
+
+ 
+
+ 
+
+ 
+
+“beit von Nr. 1 zur Potenz m erboben, eine Reihe
+
+‚von der Gestalt in Nr. 2 giebt. Da nun ‘der-
+selbe ferner, d wirklich ein Product aus SE Ce
+„So wird man die Wurzel des rten Grades dieser
+Reihe (von Nr. 1) erhalten, wenn man in ihr über-
+all statt d schreibt n.” und dann r weglälst , oder
+kurz, bier an Statt d schreibt zn.” — Dieses letz-
+tere ist aber nicht wahr, wie sich einleuchtend er.
+giebt, wenn man das täuschende Abkürzungszei-
+chen d gar nicht anwendet. Es ist ja die Reibe (mx)
+aus der Reihe (3) nur dadurch entstanden , dafs
+wir für die ganze Zahl rn die ganze Zahl n.m
+substituirten, wo gegen nichts zu sagen war.
+
+. Wol-
+
+”
+<
+
+EL La bt LA pr -
+

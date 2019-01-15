@@ -1,0 +1,141 @@
+371
+
+stofs gefunden. Er wird im Folgenden seine abwei-
+chenden Ansichten angeben,
+
+Bei der Lehre von den Potenzen beweist der Vf,
+m
+den Satz, es sey — = am—5 für positive ganze Zah-
+
+len, wenn m >n, und fügt hinzu, der Satz gelte nur,
+wenn m >n ist. Später wendet er ihn gleichwohl
+auf den Fall an, wenn m<n, welches, wie er selbst
+sagt, eigentlich unerlaubt wäre,
+
+Eben so stellt er den Satz auf, es sey V a®
+‚ = a, behauptet aber, dafs er nur Gültigkeit habe,
+wenn n in m aufgehe, Gleichwohl fügt er die Er-
+klärung hinzu, es solle fernerhin allgemein am/n die
+nte Wurzel aus am bezeichnen,
+
+Rec, kann es nicht gut heifsen, wenn Formeln
+eine allgemeine Gültigkeit beigelegt wird, von wel-
+chen versichert wird, dafs sie dieselbe nicht haben,
+Und er hält es darum für absolut nothwendig, eine
+allgemeinere Definition für eine Potenz an die Spitze
+zu stellen, als die, sie sey ein Product von gleichen
+‚ Factoren, deren Anzahl durch den Exponenten ange-
+geben wird, unter welche Definition sich gebrochene
+und negative Exponenten nicht subsumiren lassen,
+Er ist seit längerer Zeit gewohnt, den Vortrag der
+Potenzenlehre mit folgenden Erklärungen zu begin-
+nen: „eine Wurzel von a ist einer der gleichen Fa-
+etoren von a; eine Potenz von a ist ein Product aus
+der Einheit in eine Wurzel von az und wenn in dem
+
+Bruche © ger Nenner q die Anzahl der gleichen Fa-
+
+etoren von a, der Zähler p die Zahl bezeichnet, wel-
+ehe angiebt, wie vielmal die Einheit mit einem der-
+
+selben multiplicirt werden soll, 80 heifst ? ger Ex-
+
+q
+‚ponent der Potenz” und er glauht dadurch allen Un-
+hequemlichkeiten der älteren Theorie auszuweichen,
+
+Der Stereometrie hat der Vf. im zweiten Theile
+einen gröfseren Raum, als sonst zu geschehen pflegt,
+' zugewendet, weil er mit Recht ihr eine grofse bil-
+dende Kraft beilegt, und hat, um das Interesse an
+ihrem Studium zu erhöhen, die Hauptaufgaben der
+sogenannten Geometrie descriptive, mehrere Sätze
+aus der Lehre von den Projectionen aufgenommen,
+und verschiedene Anwendungen auf die Perspective,
+die Gnomonik und das Zeichnen der Landkarten ge-
+macht. In 10 Kapiteln hehandelt er gerade Linien
+und Ebenen im Raume, körperliche Winkel, Pro-
+jectionen, Anwendungen dieser Lehre zur Darstel-
+ung der ersten Gründe der Perspective, namentlich
+der Verfertigung der Landkarten, und zur Constru-
+etion von Sonnenuhren, eckige, insbesondere regu-
+lire Körper, Parallelepipeda und Prismata, Pyra-
+miden, Eylinder, Kegel und die Kugel. Rec. fin-
+det diesen Theil vorzüglich reichhaltig und anzie-
+hend bearbeitet,
+
+Der dritte Theil behandelt die Trigonometrie,
+ebene und sphärische, jene in 5 Kapiteln, wovon
+
+ALLG. LITERATUR - ZEITUNG
+
+das erste von der trigonometrischen Linie handelt,
+das zweite die Auflösung rechtwinklicher , das dritte
+schiefwinkliche Dreiecke lehrt, das vierte unter dem
+Titel: analytische Auflösung der Dreiecke, bequeme
+analytische Ausdrücke für gesuchte Stücke aus den
+gegebenen herleitet, und Anwendungen derselben
+auf die Berechnung eines Vierecks und die Bestim-
+mung des Halbmessers eines um, oder in ein g
+benes Dreieck beschriebenen Kreises mittheilt, “ao
+fünfte trigonometrische Auflösungen einiger A
+n aus der praktischen Geometrie z. B. der Potl
+
+notschen Aufgabe, der Bestimmung der Höhe einer
+Bergspitze, der Entfernung eines Weltkörpers von
+der Erde, der Wurfweite, der ngszeit eines
+geworfenen Körpers, giebt, Das erste Kapitel erhielt
+zwei Anhänge, in deren erstem die Entwicklung der
+trigonometrischen Functionen in Reihen, im zweiten
+die Auflösung der Gleichungen des zweiten und
+dritten Grades mittelst der trigonometrischen Ta-
+feln gelehrt wird, ,
+
+Es bedarf bei diesem Vf, der Wiederholung der
+Versicherung nicht, dafs er seinen Gegenstand: mit
+Bachkenntni und Gründlichkeit behandelt habe. Die
+
+an weise ist mehr analytisch, als geome-
+trisch, wie, es die neuere Zeit beliebt. Rec, es’ aber
+nicht ganz billigen kann. Wunderlich mul es einem
+Anfänger immerhin vorkommen, zu vernehmen, unter
+der Tangente eines Winkels verstehe man den Queo-
+tienten aus dem Sinus und Cosinus, unter der Sekante
+den reciproken Cosinus, unter der Cotangente den
+Quotienten aus Cosinus und Sinus u, s. w.. Der Vf,
+sucht das zwar dadurch wieder gut zu machen, dafs
+er die geometrische Bedeutung jener Ausdrücke nach-
+weiset, aber doch wird der Antänger schwer begrei-
+fen, dafs nicht die umgekehrte Ordnung die natür-
+lichere sey.
+
+Bei Bestimmung des Zeichens der Tangente, wel- .
+
+sin, a
+ehe aus der Formel tan, a = see hergeleitet wird,
+
+sagt der Vf., es wäre die Construction der Tangente
+durch alle vier Quadranten eines Kreises auszuführen,
+um die völlige Uebereinstimmung der analytischen
+Sprache, denn eine solche gebe es in der That, mit
+der Construction nachzuweisen, Kine Behauptung,
+welche ohne Zweifel richtig ist. Gleichwohl versi-
+chert er bald darauf, dafs die Zeichenänderung der
+Sekante und der Cosekante sich durch eine Verschie-
+denheit der Lage nicht darstelle, Das eine wider-
+spricht dem anderen, und das Unbefriedigende des
+Jetzteren hätte den Vf. dahin führen können, die
+Uebereinstimmung der Lage der Secante und Cose-
+cante mit der analytischen Zeichenänderung nur dann
+zu erwarten, wenn diese Linien auf denselben Dia-
+meter gelegt werden, wie ja auch die übrigen trigono-
+metrischen Linien aller Bogen cines Kreises auf der-
+selben Linie liegen, Es ist dies auch in neueren Lehr-
+büchern vollzogen , namentlich die Secante eines Bo-
+ens dadurch bestimmt worden, dafs man eine in dem
+dpunkte des Bogens angebrachte Tangente bis zu
+
+r
+
+ 
+

@@ -1,0 +1,142 @@
+MN
+‘cher Beispiele finden sich aber sehr wenjge in dem
+‘Buche. Wir verkevnen die Schwierigkeit der Bear-
+
+beitung derselben keinesweges, aber gerade diese
+
+Schwierigkeit würde den Werth des Buches bedeu-
+tead erhöht haben... Im Vortrage. bediente sich der
+Yif. nur der Bezeichnung des Differentials , erklärt
+
+aber ausdrücklich, da(s' dieser Wahl nicht der Sinn
+unterzulegen sey, als wolle er die Methode des Un-
+
+endlichen wieder in Anregung bringen, die, wie sie
+verdient habe, längst aus jeder guten Theorie ver-
+
+” banntsey, da sie schon in ihren ersten Prineipien
+
+ganz aus dem Reiche der Begriffe hinausführe; er
+$ey vielmehr dabei von der Absicht ausgegangen,
+
+sein. Buch zum Seitenstücke eines jeden Lehrbuchs
+gu machen, und dazu hielt er gerade die Bezeich-
+nung des‘ Differentials wegen ihrer Leichtigkeit und
+
+Einfachheit am geeignetsten, zumal da sie auch de-
+
+nen, welche diesen Calcul in einer anderen Form er-
+
+Jernt hätten, leichter 'zugänglich sey, äls es umge-
+
+kehrt der Fall seyn dürfte. Zudem könne diese Be-
+geichnungsweise bei den Theorien, welche das Un-
+endlichkleine vermeiden, eben so güt gebraucht wer-
+den, als die anderen , für Anfänger oft lästigen Be-
+zeichnungsweisen, In der zweiten Abtheilung, wel-
+ehe.die Anwendung des Differential- Calculs enthält,
+schickte Hr. Str. jedem Kırpitel eine kurze Einleitung
+voraus, um sich im Verlaufe desselben darauf bezie-
+hen zu können, ' Ist nun auch gleich der Grund, der
+den Vf, dazu bestimmte, wohl schwerlich so gültig,
+wie der Vf.’glaubt, sv ‘sind doch diese Eimeitungen
+eine sehr dankenswerthe Zugabe, Da jindefs diese
+Einleitungen, aus Mangel an. Raum, nicht mit den
+vollständigen Beweisen aller darin gegebenen Sätze
+Versehn werdeh darften, so gab er aus den besten
+Lehrbüchern die! Stellen atı „wo man weitere Beleh-
+rung finden könne. Mit Recht glaubte er das Werk
+yon M, Ohm berücksichtigen zu miüigsen , sowohl we-
+gen seiner übrigen Vorzüge, als auch wegen der
+überall angewendeten Aggregatentheorie, Da wir
+noch keine Geschichte . der. Literatur dieses Caleuls
+haben, so bearbeitete er einen kurzen Grundri(s der-
+selben, der sich jedoch hier nur auf die Aufzählung
+der besseren Werke beschränkt, da ‚Mangel an Raum
+im die Aufnabme jener Liternturgeschichte nicht
+gestattete. Ebenso hatte er den geometrischen Auf-
+ben jedesmal die geometrische Construction der er-
+Baltenen algehraischen Formeln beigefügt, was auß
+demselben Grunde weggelassen werden mufste, Den
+feten Theil der Beispiele bearbeitete der Vf.
+selbst, zur bei dem, Kapitel über das Gröfste und
+Kleinste benutzte ex das dahiu einschlagende erk
+
+von Lehmus. Das Werk zerfällt in zwei Abtheilun- ı
+
+gen, wovonidieerste blos Uebungen im Differentiiren
+, a‘ dor | 1, ;
+
+‘
+>
+asabh vod- - 4871 1
+’ "414 r ° „ ’ . =
+.jb: 244 4
+
+.
+S.00
+
+A, L. Ze . Nu mM, 31. 4
+
+FEBRUAR 1837, 248
+
+enfhält, Abschnitt 1, wo Funetionen zwischen zwei
+Veränderlichen . differentiirt werden, Kap. 1: ent-
+wickelte Functionen, X) Differentiale der ersten
+Ordnung bei algebraischen und bei transcendenten
+Functionen. 2) Differentiale höherer Ordnungen.
+Kap. 2: unentwickelte Functionen, Abschnitt 2,
+wo Funetionen zwischen drei. und mehr Veränderli-
+ehen differentiirt werden, Kap. 1: wo die Functionen
+in Hinsicht auf eine der Veränderlichen entwickelte
+eind. Kap, 2: wo. die Fünetionen nach keiner der
+Veränderlichen entwiekelte sind. .‚Die-zweite Ab.
+theilung, welche: die Anwendung des. Differential-
+calculs enthält, zerfällt in sechs Kapitel, Kap. 1:
+Entwickelung der Funetionen in Reihen nach dem
+Taylor’schen, Maclaurin’schen und Lagrange’schen
+Satze, Kap. 2: Auflösung der Gleichungen durch
+Näherung, Kap, 3: Bestimmung solcher Functionen,
+welche in gewissen Fällen unter einer unbestimmten
+Form, erscheinen, Kap, 4: Zerlegung rationaler
+Brüche in Partialbrüche, Kap. 3:
+Kleinste, soweit es Gegenstand des. Differentiakal-
+tuls ist.‘ Kap. 6: über Berührungen und andere da-
+mit zusammenhängende Aufgaben, Als Probe geben
+wir nun noch eine Aufgabe zus dem fünften Kapitel
+der zweiten Abtheijung: Ein Kaufmann kauft 100
+Centner Waare, den Centner zu 50 Rthlr, Kr fin-
+det, dafs er, wenn er die Waare auswärts sendet ,
+für jede fünf Meilen 1 Rthlr, an dem Centper gewinnt,
+Wenn die Waare nun jeden Tag um 5 Meilen weiter
+gebracht wird, und die Fracht für den ersten Tag 60
+thir., für den folgenden 64 Rthlr, , und so fort für
+jeden Tag 4 Rthlr, mehr beträgt: wie weit kann die
+aare geliefert werden, damit der Kaufmann den
+rößfsten Gewinn macht? Aufl, Wenn die Waare m
+age unterwegs ist, so vertheuert sie sich um 100.x
+Rthir, Die Fracht aber für den ganzen Weg ist:
+
+60+64... + [60 +4(x—1)] =[120+4(x—1)] ?,
+Also ist der Gewinn des Kaufmanns,
+u=100x— [120 +4(x—1)]3, oder
+u=42r—2g?, ST =42—40 '
+
+Also ist # — 101, d.h. die Waare ist 10} Tage un-
+terwegs, oder sie wird 525 Meilen weit auswärts ge-
+
+führt, Und da De = —4, so ist der Gewinn des
+
+Kaufmanns = u = 220% ein Maximumg denn wenn
+die Waare 11 Tage lang weiter gefahren würde, so
+
+würde der Gewinn nur 11.100 — (120 + 4.10)22
+= 1100 —880 = 220 Rthir; seyn, Druck und Papier
+sind gut... nn 0 M
+
+ 
+
+as Gröfste und.
+
+d—
+

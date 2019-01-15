@@ -1,0 +1,133 @@
+za II
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LITERATUR - ZEITUNG
+
+ 
+
+Februar 1828.
+
+ 
+
+MATHEMATIK.
+
+1) Wıer, b. Gerold: Anfangsgründe der analy-
+tifchen Geometrie. Zum Behufe des öffentli-
+chen Vortrags und Selbfiunterrichts. Bearbei-
+F tet und herausgegeben von Adam Burg, öffent-
+; lichem Repetitor der höhern Mathematik und
+' AfGftenten diefes Lehrfachs am k. k. polytech-
+. pifchen Infitute in Wien. Mit 2 Kupft. 1824.
+
+. XVII u. 807 S. 8. (1Rthlr. 16 gGr.)
+
+' 2) Lzirzıe u. Sorav, b. Fr. Fleifcher: Die Kegel-
+fehnitte. Ein Lehrbuch für den öffentlichen
+und eigenen Unterricht von Dr. Joh. Aug. Gru-
+nert. Mit 7 lithographirten Tafeln. 1824. 10u.
+484 S. 8.° (2 Rthlr. 8 gGr.)
+
+. nd
+u
+
+ß. dem lange Zeit hindurch herrichenden Mangel
+an dentfchen /erken über analytifche Geometrie
+fchien es falt, als ob man fich in Deutfchland nur mit
+den Arbeiten der Franzofen in diefem Fache begnüge.
+Die fa gleichzeitige Erfcheinung der info vieler Hin-
+icht ausgezeichneten Arbeiten von Brandes, Littrow,
+Umpfenbach und die beiden vorliegenden mulste
+daber jedem Mathematiker höchfi erfreulich feyn.
+Die zuletzt genannten Werke beifchäftigen fich zwar
+zur mit den Elementen der höhern Geometrie, aber
+gerade darin war es auch fafß am nöthigfien, die
+we elegante Behandlungsweife der franzößhfchen
+Geometer bey uns einzuführen, um deren Anwen-
+Eu auf höhere Unterfuchungen dem Anfänger zu
+tern. Rec.-würde daher diefe Werke fchon
+
+gi in der A. L..Z. angezeigt haben, wenn er es
+icht für zweckmäfsiger gehalten hätte, er( deren
+
+Braschbarkeit beyın Unterrichte durch eigne Erfah-
+mag genau kennen zu lernen. Um ein vollftändiges
+Unbeil über beide Bücher zu begründen, {cheint es
+am befien, zuerft eine Ueberficht des Inhalts eines
+jeden, nebft einigen Bemerkungen mitzutheilen, und
+
+n noch einige allgemeine und vergleichende Be-
+tachtungen darüber folgen zu laffen.
+
+Nr. 1. Einleitung. Von der geometrilchen Con-
+fimection der Gleichungen. (Gröfstentheils fo wie
+| in Biet’s analytifcher Geometrie, doch mit erläu-
+% enden Zufätzen, befonders auch über den Unter-
+] khied der algebraifchen und geometrifchen Ana-
+ges) Kap. 1. Von der Beflimmung der Lage eines
+
+kts in einer Ebene. (Meiftens {o wie Biot , doch
+Einiges mehr ausgeführt, Anderes zufammengezo-
+gen oder weggelalfen.) — Kap.‘2. Von der geraden
+
+Ergänz. Bl. zur A. L. Z. 1828.
+
+ 
+
+ 
+
+Linie. (Die Gleichung der geraden Linie wird hier
+nur für rechtwinklige Coordinaten und auch da
+nicht für alle Lagen der geraden bewiefen. Eben
+fo die Gleichung für den Abfiand zweyer Punkte
+von einander. Dagegen ift zum Nutzen des Anfän-
+gers Manches recht ausführlich verificirt worden.) —
+ap. 3. Von geraden Linien, die zu einander parallel
+find, oder Gch [follte heifsen: einander] fchneiden,
+Nur für rechtwinklige Coordinaten. ap. 4. Vom
+reife. (Aus der Gleichung für rechtwinklige Co-
+ordinaten werden die übrigen hergeleitet.). Ka ‚5.
+Umwandelung der Coordinaten. (Zwar nicht allge-
+mein und fireng genug, ‚aber für den Anfänger hin.-
+reichend.) Am Schlulfe diefes Kapitels Einiges über
+Polargleichungen. — Kap.6. Verbindung der Kreife
+mit geraden Linien und unter einander. Unrichtig
+heifst es S. 77, .dafs wenn aus einem aufserhalb eines
+Kreifes liegenden Punkte noch fo viele Secanten zu
+diefem gezogen werden, die Producte, oder geo-
+metri{fch die Rechtecke aus ihren Abfchnitten [follte
+heifsen: aus jeder ganzen Secante und ihrem äufsern
+Abfchnitte] einander gleich find.) — Kap. 7. Ver-
+bindung mehrerer geraden Linien unter einander.
+(Gleichung des geradlinigen Dreyecks zwifchen
+rechtwinkligen Coordinaten, Sätze über merkwür-
+dige Punkte im geradlinigen Dreyeck, Einiges aus
+der T’etragonometrie und Polygonometrie.) — Kap. 8
+Allgemeine Eigenfehaften der linien der zweyten
+Ordnung. (Auf ähnliche Weife wie in Euler’s‘ In-
+troductio in Analyin Infinitorum Y. 11. Cap. V. wird
+die allgemeine Gleichung Ay? + Bx? + Cry + Dy
++ Er + F= 0 zum Grunde gelegt, und daraus wer-
+den die den Linien zweyter Ordnung gemeinfchaft-
+äichen Eigen{chaften abgeleitet. Ein Paar kleine Feh-
+Jer, die dem ungeübten Lefer Schwierigkeiten ma-
+chen können, will Rec. hier bemerklich machen.
+
+S. 166 Z.4 v. u. fieht aus Verfehen P fatt X. S. 169
+X
+
+hätte, um die Bündigkeit des dort gemachten -
+fes „„4A+Bd+ Cd? = 0 alfo = 0” einzufeben
+noch klar gemacht werden müffen, dafs d dort wirk-.
+lich eine veränderliche Gröfse if, welche felbit —0
+werden kann. — Kap. 9. Befondere Eigenfchaften
+der Linien der zweyten Ordnung. A. Die Ellipfe
+und Hyperbel. (Aus der Gleichung der Curve wer-
+den ihre Eigenfchaften hergeleitet; der Vf. zeigt aber
+nicht, dafs für eine Curve, welcher folche Eigen“
+fchaften zulammengenommen zukommen, auch noth-
+wendig die gegebene Gleiehung gelte; auch nicht,
+Y war
+

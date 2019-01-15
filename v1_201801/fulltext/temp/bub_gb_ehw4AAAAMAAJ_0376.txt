@@ -1,0 +1,129 @@
+717
+
+und hiezu ift das Werkzeug die Zahl. Es giebt eine
+eometrifche und eine arithmetifche Zuflammenfaf-
+ung ‚gleichartiger Dinge; erftere verbindet fowohl
+ungleiche als gleiche Gröfsen und Klfst in der Vor-
+tellung des Ganzen die Vorftellung der Theile un-
+tergehen; letztere hingegen verbindet nur gleiche
+oder gleichgefchätzte Gröfsen und da die, an fch
+nicht anfchauliche , Vorftelung eines Vielfachen erft
+durch die Erkenntnifs des Einzelnen möglich wird , fo
+müffen wir bey der arithmetiflchen Zufammenfaffun
+die Vorftellung des Ganzen und des Theils zugleich
+haben. .‚Hiernach ift leicht der‘ Unterfchied zwi-
+{chen der geometrifchen und der arithmetifchen Grö—-
+feenbetracı kung anzugeben ($$. 39 — 47). Die
+Arithmetik lehrt ($. 42) uns eine anzuwendende
+Zahl finden, wenn diefelbe durch Abzählung nur
+fchwer oder gar nicht gefunden werden kann; fie
+bedarf um auch folche Gröfsen, die kleiner als die
+angenommene Einheit find, vergleichen zu können
+der Brüche ($$. 44 — 46). Weil fich aber die Bil-
+dung der Brüche nichtins Unendlichetreiben Kfst (?),
+fo bleiben, auch nach Einfchaltung derfelben in die
+Zahlenreihe, noch unzählige Lücken; zu ihrer Aus-
+füllung dieren die Irrationalzahlen ($$. 48 — 53).
+Die Rechnungsarten, ihre Ent/tehung aus jeinander
+(z. B. der Multiplication aus der Addition) ihre Ent-
+gegenfetzung (z. B. Addition und Subtraction) u. f. w.
+($5- 54 — 66). Der Arithmetik als Wilffenfchaft it
+es nicht fowohl um die Auflöfung beftimmter Auf-
+gaben zu thun, als um die Form der Auflöfung; fe
+edarf daher der allgemeinen Zahlen (66. 67.468).
+Die Rechnungsformen follen nun nicht blofs Veran-
+Jaffung der Rechnung werden, fondern felbft mit in
+die Rechnung eingeführt werden (6.69). Die For-
+men der Addition und Subtraction erklären fıch aus
+diefen Rechnungsarten. So lange mun die Formen
+(a + 5) und (@ — b) ungetrennt gebraucht werden,
+kann man fie wie/einfache Zahlen in die Rechnuug
+einführen; find aber deren Befltandtheile für fich zu
+betrachten , fo führt diefs auf die fogenannten entge-
+gengeletzten Zahlen ($$. 70. 71). Von den entgegen-
+gefetzten Gröfsen überhaupt ($.73 u. f.) Das Ent-
+gegengeletzte ift, nach unlers V£fs Meinung ($$.-80. 81)>
+nichts anders als „die Vorftellung entgegengefetzter
+Operationen, durch. deren Gröfsenbeftimmung wir
+er[t zu der Vorftellung von entgegengefetzten. Grö-
+fsen gelangen.” Diefen Gedanken führt der Vf. in
+. 82 u. f, in Beziehung auf Zahlen. weiter aus. Die
+enannte algebraifche Addition ift ihm die Addi-
+tion einer Vermehrung oder Verminderung, Ei-
+ne vollzogene, oder als vorher vollzogen gedachte,
+Operation. wegnehmen heifst das Refultat derfelben
+vernichten, und diefs kann nur durch die entgegen-
+gefetzte Operation gefchehen. Die Form A — (+ b)
+verlangt die Vernichtung einer vorherin 4 vollzoge-
+nen (oder als in.4’vollzogen gedachten) Vermehrung
+um b; 4 — (— b)- verlangt die Vernichtung einer
+vorher in 4 vollzogenen., oder als in 4 vollzogen
+edachten Verminderung um b ($, 92). Anwendung
+jevon. auf die Multiplication und Divißon (negative
+
+Num. 310. DECEMBER 1822.
+
+718
+
+Multiplication) und Ableitung der bekannten Regeln
+für die Vorzeichen der Producte und Quotienten
+($$.'94— 120). — Von den Potenzen ($$. 1 21— 142)-
+ine Potenz ift ($. 128) eine |Multiplication einer
+Multiplication. .A° bedeutet ein nzahl, deren Ein-
+heit eine Multiplieation durch „A ift. Eine Zahl in
+die nte Potenz erheben heifst die Multiplication durch
+diefe Zahl mit %” multipliciren ($. 129). Hieraus
+werden nun die Ausdrücke a° u. f. w. erklärt. —
+Die Wurzelziehung führt von der Potenz (d. ij. von
+der multiplicirten Multiplication) auf die Wurzel
+(auf die einfache Multiplication von der die Poten—
+zierung ausging) zurück ($. 143)- — Formen und
+Grundregeln der Wurzelextraction nach obigen Be-
+riffen ebtwickelt ($$. 144 — 154): Unmögliche
+röfsen find einmal die Bezeichnungen unmöglicher
+Operationen , dann aber auch deffen, was eine fol-
+fche Operation geben follte, aber natürlicher Weile
+nie geben kann. Alle Zahlenveränderungen find
+entweder vorfchreitend oder rückfchreitend, denn .
+jede der letztern fetzt eine entfprechende der erftern
+voraus. Wo num diefle Vorausfetzung unftatthaft
+ilt, da wird die rückfchreitende Zahlenveränderung
+unmöglich. Dafs Subtraction und Divifion nicht auf
+unmögliche;Ausdrücke führen, verhütet der Gebrauch
+der negativen Zahlen und der Brücke. Dagegen
+jebt die Wurzelextraction zweyerley unmögliche
+en nämlich ı) die vorausgeletzte Potenzierung
+kann da nicht Statt gefunden haben, wo ihre Wur-
+zelzahl eine isrrationale Fiction hätte feyn müflen;
+doch Geht die ausübende Rechnung die Irrational-
+zahlen nie für unmöglich an, weil fie fich durch
+Brüche den(elben beliebig nähern kann. Dagegen
+
+enthalten. 2) Formen. wie V—« eine nicht blofs be-
+dingungsweife, fondern abfolut unmögliche Fode-
+rung, indem die Multiplication eines negativen Mul-
+tiplicators ((— a). ı Jaus einer graden Anzahl glei-
+eher Multiplicationen. zufammengefetzt feyn. {foll,
+und fich doch für diefe Multiplicationen weder po-
+ftive, noeh negalive, noch Zahlen fehlechthin an-
+geben laffen ($$. 155 — 164). Die Verhältnilfe find,
+unferm.V£, nach, dadurch von den vorher aufgezähl-
+ten 6 Rechnungsformen verfchieden „ dafs in diefen
+zwar ein Schlufs gemacht werden kann anf die er-
+zeugte Gröfse und auf diejenige , aus welcher erzeugt
+wurde „ aber niemals auf die Operation, welche er-
+zeugte, indem diels vielmehr erft durch die Ver-
+hältnifle} vermittelt wird, wovon, mit jeden zwey
+einander reciproken Rechnungsformen , eine eigene
+Art verbunden. ift, — Es giebt alfo 9 Rechnungs-
+formen; aufser diefen. ift aber weiter keine gedenk-
+bar ($$ 165 — 180).
+
+Diefe Ueberfcht des Inhalts wird hinreichen
+zu zeigen, was die verliegende kleine, aber lefens-
+werthe Schrift Eigenthüntliches hat. Ein lobens—
+werthes Streben nach Gründlichkeit und Klarheit ift
+in derfelben unverkennbar, und Rec.. kann daher
+dem Vf, feinen Beyfall nicht verfagen, obgleich er
+keineswegs durchgängig mit ihm sinyerfalden
+

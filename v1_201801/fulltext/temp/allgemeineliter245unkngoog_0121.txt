@@ -1,0 +1,186 @@
+27
+
+also (x-+A)m, aus dem eben gefundenen allgemeinern.
+ab, nein, er mufs einen neuen Mifsgriff machen, Er
+entwickelt die ersten Potenzen bis zu (x + A)‘ und
+‚sagt alsdann ganz naiv; „setzt man in letzterem Aus-
+
+drucke 5 = 'n, so folgt nachstehende allgemeinere Dar»
+
+stellung:
+
+(z+M)r = an + ann
+und somit ist der binomische Lehrsatz ein für alle
+Mal abgetban,‘ Dals es dem Vf. bei einer solchen
+Art der Davstellung nicht darauf ankommen darf, ob
+% eine positive oder negative, ‘ganze oder gebrochene
+
+Zahl ist, versteht sich von selbst, und wir.wollen .
+
+deshalb nicht besonders mit ihm rechten, Nachdem
+; ‚der binomische Lehrsatz in die Sprache der Diffe-
+‚renzialrechnung umgesetzt worden und so ein spe
+
+cieller Fall des Taylor’schen Lehrsatzes gefunden .
+
+ist, wendet sich die Betrachtung zur Entwickelung
+der Exponentialgröfsen, Man fihndet zuerst nach der
+Binomialformel .
+
++6 I
+und wenn man d = a—1 setzt, .
+© = Ma) -D Ha
+
+Entwickelt .man nun die Binomialcoefficienten und
+ordnet nach den Potenzen von A, so findet man für
+- eine nach den Potenzen von h fortlaufende Reihe,
+Dafs nun die Coefficienten dieser Potenzen auf irgend
+eine’,Art von einander abhängig seyen, meint der
+WVf,, liefse schon der hlofse Anblick vermuthen:
+durch die Multiplicationsmethode überzeuge man
+sich aber leicht, dafs alle folgenden Coeflieienten
+Potenzen des ersten seyen, Hiermit mufs ma
+Arieden seyn. Es wird nun a* 1A
+
+gesetzt, und so geht es munter weiter, Es wäre
+wirklich Kleinigkeitskrämerei, wenn man einen
+
+   
+
+ 
+
+Schriftsteller, der es sich so leicht macht, fragen wolite, -
+
+    
+
+mit welchem Rechte er die Reihe e =2+3+3;%
+"braucht, ‘ehe er sich überzeugt hat, dafs es X
+convergirende ist. Freilich ist auch ji ganzen Buche
+von Kennzeichen einer tonvergirenden Keihe keine
+Rede, wiewohl Hr, E. selbst (S. 92) bemerkt, dafs
+es nicht rathsam sey, eine Reihe als Näherungswerth
+anzunehmen, von welcher man das Gesetz des Fo:
+. ganges nicht genau kennt, Dals es dem Vf, bei se:
+ner sorglosen Manier nicht schwer fallen konnte, nun
+auch die Formel für die Logarithmen‘ als Function
+der Zahl zu finden, versteht sich von selbst, und
+wir halten es nicht für nöthig, die hiebei angewandte
+Ungründlichkeit nochmals besonders‘ hervorzuheben,
+Es folgen nun’die Reihen für Sinus und Cosinus, die
+der Vf. ganz richtig, ohne Einmischung geometri-
+scher Betrachtungen , ableitet,. Er zeigt, wie Auch
+diese Reihen mit der Form des Taylor’schen Lehr-
+. satzes.zusamimehstimmen, wie er es auch schon frü-
+her bei der Formel für die Logarithmen‘ gethan hat,
+
+ERGÄNZUNGSBLÄTTER ZUR A. L, z,
+
+"est par rapport au calcul differentiel”), so ist di
+
+” widerlegt, da man z, B, bei den vielen
+
+  
+
+; der unbekanzten Größe angedeutet wird
+
+‘228
+Wenn ar aber nun den Faylor’schen Lehpsatz im
+Allgemeinen beweiten il To können wir aur wie-
+darholen, dafs eine magere Indnetion nichts weni-
+‚ger als ein schlagender Bewejs ist und die, Wjs-
+
+senschaft durch solche Darstellung nur verds
+kelt werden kann, Es folgen nun weitere even
+
+ 
+
+. über das Differenziiren, worauf sich der Vf, zur In-
+
+jogralrechnung wendet, Gegen diesen Abschnitt
+haben wir am wenigsten einzuwenden, da sich hier
+der Vf. streng an bekannte französische Vorbilder
+gehalten hat. Nur die Erklärung der convergiren-
+len Reihen, die ihm eigenthümlich ist, können wir
+nicht zulassen. Er sagt nämlich, eine convergirende
+Reihe sey eine solche, bei welcher die folgenden
+Glieder im Verhältnifs zu den nächst vorhergehen-
+‚den immer kleiner werden; eo ist indessen bekannt
+‚enug, ‚dafs auch eine solche Reihe, wie z, B. die
+rmönische, divergent seyn kann. Auch Folgen-
+des wollen wir gelegentlich bemerken: Der Vf,
+
+  
+
+. $.223, die Bernoulli’sche Reihe sey der Ta lor’schen
+
+aualog. Versteht ‘man hierunter blofs, dafs beide
+gen, wie man einen verwickelten Ausdruck durch
+eine entwickelte Reihe darstellen kann, so.ist dielg
+allerdings richtig, Will man aber damit sagen,
+dafs die Bernoulli’sche Reihe für die Integralrech-
+nusg dasselbe leistet, . wie die Taylor’sche für die
+Differenzialrechnung, was auch viele Mathematiker
+zu glauben scheinen, und z, B, Lacroix in seinein
+
+ 
+
+ 
+
+ 
+
+frait€ du cale. differ. et int£gr, ausdrücklich sagt _
+
+(„Fune est & Pegard du calcul int&gral, ce que T’autre
+
+ 
+
+ein Irrthum, den auch die Erfahrung hinlänglich
+iscussionen
+” über Integralformeln, die in der neuern Zeit Angers
+
+ül
+
+"worden sind, immer nur wenig odet gar keine
+
+bei der Bernoulli’schen Reihe gefunden hat] Der
+Grund liegt auch ganz einfach darin, dafs diese For-
+
+” mel nicht, wie die Taylor’sche Reibe, zt den gut fe .
+r
+
+ordheten gehört, inWahrbeit vielmehr nur schein!
+
+nach den Potenzen einer bestimmten Hauptgrößse x
+“fortschreitet, indem diese Hauptgröfse auch wieder
+den Coefficienteh der einzelnen Glieder vorkommt,
+Joch wir kehren zu unserm Buche zurück, Im 3ten
+"Abschnitte betrachtet der Vf, die Polynomien, und
+
+ 
+
+ 
+
+‘zwar wendet er sich zuerst zur Theorie der GJei-
+chungen, ‚Wie verführt er aber hiebei? Da früher
+’ gezeigt wihrde, dafs sich ein Produc£ von der Form
+
+X+U) (&-E6),., In ein Polynomium verwandeln
+last, n Süccessiven Potenzen von x Tort-
+schreitet, 86 mufs auch, umgekehrt, ein solches Poly-
+
+ 
+
+|nomium sich‘ immer in Factoren ‚Herlegen Tassen,
+
+Hierniach versteht sich denn der Satz, dafs die Ah-
+‚zahl der Wurzeln durch -den höchsten Exponenten
+t um dessen
+“Beweis sich die gröfsten‘ Mathematiker bemübt. ha-
+ben, natürlich ganz von selbst, Eben so wenig Ab-
+stand findet der Vf. bei‘ dem Cartesischen Lehrsatze
+
+über die Anzahl, der positiven und negativen Wur- .
+
+„zeln, ‘Statt aber den Satz richtig so auszudrücken,
+"da(s eine Gleichung nicht mehr positive Wurzeln als
+

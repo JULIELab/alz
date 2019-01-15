@@ -1,0 +1,153 @@
+_ 805 -
+
+binomischen Liehrsatze oder durch blofse Division
+in Reihen entwickelt werden, hier nothwendig Platz
+finden mufsten, wird Mancher bezweifeln; dahin-
+egen Andere, und wie es uns scheint mit Recht,
+n dem sonst sehr dankenswerthen Abschnitte: Sum-
+menformeln für mehrere trigonometrische Reihen
+viele brauchbare und häufig wiederkehrende Rei-
+hen ungern vermissen werden, ‚und unter diesen
+vorzüglich diejenigen, in welchen die trigonome-
+trischen Functionen der vielfachen Winkel mit den
+fortschreitenden Potenzen eine Hauptgröfse, oder mit
+irgend welchen Gattungen von Coefhcienten, oder
+- mit beiden zugleich verbunden sind; also Reihen,
+wie etwa diese: .
+1 + mz= cos@ + ZZ m )
+m. (m —1) (m —?)
+5 3 x3 cos3@ + etc.
+
++
+— 2\5 . X NO
+= (P+Qx cos + x)" cos m Arctg
+
+und ähnliche, von denen eine Anzahl in Abel’s Auf-
+
+satz über die Reihe 1 +7 N mA 1
+
+(Crelle’s Journal für die reine und ang. Math. Ir Bd.
+
+4s Heft, S.811) vorkommt. Ferner wäre es die Pflicht
+
+des Vfs gewesen, zu bemerken, dafs Entwicklungen
+wie diese: 7=2 sinx— 3 sin Lx +? sin8x — F sin 4x
+
+A etc. (S. 25. Nr. 27) nur innerhalb der Grenzen
+
+x = 412 und x = — mr gelten, und ein unsinniges
+
+Resultat geben, wenn man x aufserhalb dieser Gren-
+
+zen annimmt; dafs diese nothwendige Beschränkun
+
+fehlt, glaubt Ree, scharf rügen zu müssen, wei
+
+- man endlich aufhören sollte, unendliche Reihen mit
+
+so grofser Sorglosigkeit hinsichtlich der Grenzen
+
+ihrer Gültigkeit zu gebrauchen, als lange Zeit, man
+darf es wohl sagen, zum grofsen Nachtheil der Ma-
+thematik und der Theorie der Reihen insbesondere,
+und mit nicht zu entschuldigender Vernachlässigung
+der mathematischen Strenge geschehen ist. Einige
+von den hier verlangten Reihen finden sich in der
+
+Abtbeilung XV: „Mehrere brauchbare Entwicklun-
+
+gen”, jedoch ohne Angabe der Grenzen, und an ei-
+
+ner Stelle, wo man sie schwerlich suchen wird; In
+der der eben genannten vorhergehenden Abtheilung:
+
+x? cos 29
+
+Formeln für die Rectihcatjon des Kreises, hätten,
+
+wir gewünscht, aufser den Reihenentwicklungen
+auch die Formeln zu finden, aus denen diese herge-
+leitet werden, also z. B. die Buzengeiger’sche Formel
+in = 8.Arc1g 75 — 4 Arctg y4s — Arcig 735 seibst,
+. nebst ihrerReihenentwicklung; beide fehlen übrigens
+in dem Buche. Auf gleiche Art hat Rec. auch in die-
+sem Abschnitte den Ausdruck für log‘ = durch die
+Summe der reciproken geraden Potenzen der gera-
+_ den Zahlen oder durch die Bernoullischen Zahlen,
+und den Brouncker’schen Kettenbruch für das Qua-
+drat des Durchmessers in Bezug auf die Kreisfläche
+als Einheit, vergebens gesucht, einen Ausdruck,
+der schon aus historischen Rücksichten, als erster
+‚ Kettenbruch, von welchem ınan Nachricht hat, hätte
+
+-
+
+?
+
+ERGÄNZUNGSBLÄTTER ZUR A. L. Z.
+
+x . x -
+
+apfgenommen werden sollen. Die folgenden Abthei-
+Jungen, welche von der Berechnung der trigono-
+metrischen Tafeln, den Formeln, um aus dem gege-
+benen Logarithmus einer trigonometrischen Functioa
+unmittelbar den Logarithmus einerandern zu findeh,
+ohne erst den entsprechenden Bogen aufsuchen zu
+dürfen; ferner den unmöglichen Exponentialaus--
+drücken für Sinus, Cosinus u. s. w. und den daraus
+folgenden ’unmöglichen Ausdrücken für die Functio-
+nen der vielfachen Winkel durch die einfachen und
+einigen andern daraus ‘'hervorgehenden Entwicklun-
+gen, so wie von den Ausdrücken des Sinus, Cosi-
+us u. S. w. darch unendlich viele oder eine begreuzte
+Anzahl von Factoren, nebst den Summenformeln
+‚einiger unendlichen Reihen für die reciproken Po-
+tenzen der natürlichen, oder der ungeraden, oder
+der Primzahlen, mit denselben oder abwechseln-
+den Vorzeichen, Gödet Rec. gröfstentheils hiuläng-
+lich vollständig bearbeitet. Dieser würde vi
+
+Jeicht npch Manches, wie etwa den Ausdruck
+
+(YZD)' = 7 z weggelassen haben, wäre es auch ,
+nur’aus demselben Grunde, weswegen man scharfe
+und leicht verletzende Spielereyen, wären sie auch
+moch so art anzusehen, Unerfahrnen oder Unge- -
+schickten gern aus den Augen rückt. Von den letzt-
+enannten Reihen finden sich hier die Summen
+höchstens bis zur 6ten Potenz angegeben. Ohmue
+diefs tadeln zu wollen, müfs Rec. doch bemerkeg,
+dafs es Vielen angenehm gewesen wäre, wenigstens
+die allgemeinen Reihen, die für jeden Exponzenten
+gelten, so wie die Stellen angegeben zu sehen, in
+denen, wie z. B. in Euler’s Einleitupg in die Ana-
+lysis,. in seiner Differentialrechnung‘, in Legendres
+ercices du calcul integral, man diese und ähnliche
+Reihen weiter fortgesetzt findet. Literarische Nach-
+richten fehlen überhaupt so durchgehends, dafs Rec.
+in dem ganzen Buche nur einen einzigen Namen,
+‚nämlich den von Legendre, bey Gelegenbeit der Mit-
+theilung seines Satzes über die Berechnung kleiner
+sphärischer Dreyecke gefunden hat. Es wäre aber
+zuversichtlich Vielen mit Nachweisungen , wo-jeder
+Hauptsatz zuerst vorkommt, und wo man weitere
+Auskunft über den besprochenen Gegenstand findet,
+sehr viel gedient gewesen. Ferner werden Manche
+ing dem zuletzt genannten Abschnitte gewisse Reihen
+ungern vermissen, deren Euler sich in seinen Schrif-
+ten fortwährend bedient, und die hier, als aus
+den Productenentwicklungen der trigonometrischen
+Functionen folgend, ihren Platz gefunden hätten, z. B.
+1
+‚1+4+xx + ++ IX + I xx + 164 xx + a6
+RE —1 9 ° -
+= ZZ = ER LI) (Kuler’s Einleit. Is Buch,
+$. 183, Diff. Rechnung-2ter Th. $. 865, Ztes Beysp.;
+1 1 1 %
+1— xx + 9— xx + 2 — xx + 6. = az 83
+Ein], $. 181; Diff. Rechnung a. a. O. Stes Beysp.).
+je Angahe der trinomischen Factoren von a® TI
+von #°" . Ze°x" cos gg -+ x", die Ausdrücke für die Selr-
+. nen
+

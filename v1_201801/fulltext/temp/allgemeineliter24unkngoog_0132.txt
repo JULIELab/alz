@@ -1,0 +1,141 @@
+70 m nn — vw
+Kz* >
+
+-=- 5 7 un nn we  —
+
+ERGÄNZUNGSBLÄTTER
+
+Z UR
+
+Pa
+
+r
+
+ALLGEMEINEN LITERATUR - ZEITUNG
+
+ 
+
+April 1881. .
+
+ 
+
+MATHEMATISCHE PHYSIK.
+
+Stertix, b.Morin: Zur physischen Krystallonomtie
+und geometrischen Combinationsichre.
+
+) Auch unter dem Titel:
+
+Zur Mathematik und Nuturkunde. Von Justus
+
+° Günther Grassmann. BEBrster Band. Erstes Heft.
+1829. 184 S. mit 3 Figurentafeln. (1 Rthir.)
+
+: Deorch einen Punkt.des Raumes gehen drey unter
+sich rechtwinkliche Linien, vorwärts, rechts und
+
+° oben, durch 6, c und d, rückwärts, links und un-
+
+ten, durch 4’, d’ und d’ bezeichnet und Träger ge-
+panut, in so fern man sich irgendwo in der Rich-
+zung derselben auf ihnen senkrechte Ebenen vorstellt.
+Diese sechs Ebenen werden, wenn die Träger gleich
+sind, einen Würfel bilden. Man. kann sich jene
+Eberten auch aus dem Anfangspunkte in ihren re-
+spectiven Richtungen fortrückend vorstellen. Je
+zwey Bewegungen lassen sich.in der Diagonale zu
+einer dritten vereinen u, S. f., und auf diese Weise
+entsteht durch Combination der Bewegungen, wel-
+cher eine GCombinätion der Träger entspricht, jede
+regelmäfsige oder un regelmäßige körperliche Gestalt
+/NB. in so fern sie durch Flächen begrenzt wird). —
+Die Combinationslechre ist.kein Theil der Arithmetik,
+sondern eine eigenthümliche Wissenschaft, welche
+die Verknüpfung des Ungleichartigen zum Zweck
+
+- bat, während die Gröfse aus der Verknüpfung des
+
+Gleichartigen hervorgeht. Dieser Grundbegriff ist
+bisher verkannt oder übersehen worden. | Daher
+alle bis jetzt erschienenen Combinationslehren man-
+
+elhaft und unwissenschaftlich sind. In Folge jener
+Vorstellungsweise gehört z. B. die Complexion b66ccd
+nicht zur sechsten , sondern zur dritten Classe; die
+wieJerholten Elemente treten nicht allein für sich,
+sondern zugleich als Zahl auf: in 6% c7 z. B. be-
+stimmen die Wiederholungsexponenten ß’y die Form
+der Complexion. Hiernach ergiebt sich die Auflö-
+sung der Aufgabe, aus den Elementen &, c, d, &, c',
+d’ alle Combinationen mit unbeschränkter W ieder-
+holung vollständig und geordnet darzustellen, an-
+genommen , dafs entgegengesetzte gleichnamige Ele-
+
+_ mente (z. B. 6 und 6°) in einer und derselben Com-
+
+x
+
+plexion nicht vorkommen dürfen: man setze nur
+die drey wesentlich verschiedenen Klemente ineinen
+Kreis, und combinire nun, in die Runde lesend, in
+Beziehung zu den Accenten und Classen. Die sche-
+- Ergänz. Bl. zur..A, L. Z. 1881.
+
+_ matisirten Complexionen haben bey Binionen die
+
+Dimensionen der Länge nnd Breite, bey Ternionen
+nach die der Tiefe; hiernach ergiebt sich (?) durch
+Theilung der Seiten die Erscheinung der Hemi&drie,
+oder des Ueberwachsens der primären Krystallflä-
+chen. — Wie hier in ihrep Grundzügen dargestellte
+neue Ansicht der Combinationslehre führt‘ zu bis»
+her übersehenen combinatorischen Verknüpfungen
+und Rechnungen. Addition und Subtraction: es ist
+
+ab+ecd = abed, a*bFab=z= a, BA.Z A
+= BaAdZVAd ZAd us. f. Multipli-
+cation: Bezeichnet man mit Mohs das Hexa&der mit
+
+-H, das Dodekaeder mit D, so ist HX D ein Rhom-
+
+bendodeka@der mit abgestumpften pyramidalen Ek-
+ken. Durch die combinatorische Schematisirung
+der ‚Träger, als construirende Elemente, würde.
+die Vorstellungskraft bald ermüden, und es ist also
+erbeblich, ihr durch graphische Darstellung zu
+Hülfe zu kommen. Zu diesem Zwecke ist am besten
+die Kugelfläche geeignet, deren man sich zur Auf-
+
+‚ ösung aller Aufgaben der Krystallographie eben so,
+
+wie des Himmelsglobus zur Auflösung astrenomi-
+scher Aufgaben bedienen kann. Das Princip, wel-
+ches diesen Constructionen zum Grunde liegt, ist,
+dafs die Resultante zweyer geradlinigten Bewegun-
+gen, welche von einem Punkte ausgehe, allemal in
+eine Ebene fällt , die durch die Richtung jener Li-
+nien bestimmt wird. (Jedweder, der Sphärik ver-
+steht, wird keine weitere Auseinandersetzung die-
+ses Gegenstandes begehren.) Als Hauptsatz der
+phoronomischen Combinationslehre kann nun fol-
+gender aufgestellt werden: Die sämmtlichen gleich-
+namigen Complexionen einer und derselben Form
+eben allemal eine einfache Gestalt. Ferner ist zu
+Bemerken : im regelmäfsigen Systeme sind die Wie-
+derholungsexponenten Mafse senkrechter Coordina-
+ten; die Verhältnisse derselben unter sich und zu
+den’erzeugten combinatorischen Trägern sind daher
+unmittelbar trigonometrische Fünctionen der gebil-
+deten Winkel. Ferner: das regelmäfsige System,
+bey welchem die Elementarträger rechtwinklich und
+leich sind, ist unter allen Systemen zusammenge-
+örender Gestalten in combinatorischer Hinsicht
+das verwickeltste und begreift die Lbrigen Systeme
+schon unter sich, die sich aus ihm dureh gezogene
+Linien evolviren. Zu ihnen gehören das prismali-
+sche System und das Pyramidal- System. Paralle-
+Lamas der Kanten und darauf gegründete Entwicke-
+i , ung
+
+250
+

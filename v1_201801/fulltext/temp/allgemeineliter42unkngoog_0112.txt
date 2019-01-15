@@ -1,0 +1,114 @@
+   
+
+210
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LITERATUR - ZEITUNG
+
+März
+
+1842.
+
+ 
+
+MATHEMATIK.
+
+CHRISTIANIA, b. Gröndahl: Oeuvres complites de
+N. H. Abel, mathematicien, avec des notes et
+developpements , redigees par ordre du rot par
+B. Holmboe etc.
+
+(Beschluss von Nr. 26.)
+
+XVI. D Emonstration de quelques‘ formales el-
+liptiques. Hier werden zwei Sätze bewiesen. Zuerst,
+wenn
+
+\
+
+za +++.
+= +++...
+
+ 
+
+ 
+
+ 
+
+ 
+
+‚und man setzt:
+
+n—gzd— AUF)
+‚= A(z—gF,) (E— Pd «(X — Pu)
+so wird:
+p(E3,+ Std, 0... +3u)=C.
+Es ist derselbe Satz, der sich im Journal von Crelle
+Tom. IV, pag. 240 findet. Zweitens leitet er mit
+
+Hülfe der Ausdrücke für @ ( @. 7) und f ( @. 3):
+
+welche sich im Jornale von Crelle Tom, II, pag. 180 '
+finden, folgende drei Formeln ab;
+
+ 
+
+z. 8 5m
+e 2 4n—1 e? N 4n— 1 e2
+x 3 ° 37 9 "5x =
+e +1 e +1 e +1
+N 37 Sz_
+2 4n+1 e? 4n+1e ? 4n+23
+€ — ‚ ‚€ be m a 3 An, _
+X 3 än 57 , zz
+e +1 e+1 e +1 ,
+7 8x 5m
+e“ an, ‚e“ + 20 ‚e° = 1 B,; w: \22+1
+— 3 83% $ 57 mn EA —)
+e—1 e—1 e—1
+
+worin A und B die Coefficienten in der Entwicke-
+lung von qI und f9 nach den aufsteigenden Po-
+tenzen von & sind.
+
+XVIL Methode generale de trouver des fon-
+ctions d’une seule quantit& variable Vorsqwune pro-
+priete de ces fonctions est exprimee par une Cqua-
+tion entre deur variables ‘independantes. Wenn“
+a@, P, y etc. gegebene Funktionen ‘der beiden unab-
+hängig Veränderlichen x und y sind, so seyen &@
+f ‚ Fetc. die gesuchten Funetionen , zwischen denen
+eine Relation /= 0 bekannt ist. Da x und y un-
+abhängige Grössen sind, so kann man eine von bei-
+den oder eine gegebene Funktion beider als con-
+stant annehmen. Will man nun eine der gesuchten
+Funktionen bestimmen, so muss man natürlich die
+andern unbekannten Funktionen aus der Rechnung
+schaffen. Um zunächst etwa @ nebst den Diffe-
+
+Ergänz. Bl. zur A. L. Z. 1842.
+
+rentialen dyau, d’ra, .... d’qu zu entfernen, nimmt
+man « als constant an, differentürt /=—0o, n+1
+mal und eliminirt hieraus die Funktion ga und ihre
+Differentiale, wodurch man eine neue Gleichung
+V)—0 erhält, in welcher die Funktion g@ fehlt. In-
+dem man mit dieser Gleichung auf analoge Weise
+verfährt, kommt man am Ende zu einer @leichung,
+in der nur eine einzige gesuehte Funktion mit ihren
+Differentialen enthalten ist, durch deren Integration
+man diese Funktion selbst finden kann.
+
+XVII. Besolution de quelques problömes & Paide
+d’integrales definies, In dieser Abhandlung werden
+1) der Ausdruck 9 (5+YV—1) +95 —-Y Vi)
+und 2) die Bernouillischen Zahlen durch bestimmte
+Integrale bestimmt. Bei Gelegenheit der letztern
+wird auch npch' ein Ausdruck für das endlickhe In-
+tegral Zpx gefunden.
+
+Dd
+

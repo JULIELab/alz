@@ -1,0 +1,137 @@
+> ED OA u es 2 — ss - -
+
+- der Bedi
+
+688
+
+mm SM) —A m
+
+634
+
+ERGÄNZUNGSBLÄTTER
+
+Z U.R ;
+
+ALLGEMEINEN LITERATUR
+
+. ZEITUNG
+
+ 
+
+August 1882.
+
+ 
+
+MATHEMATIK,
+
+Zerast, b. Kummer: Mathematische ‚Abhandlun-
+gen, betreffend, die Begründung und Bearbei-
+tung verschiedener muthematischer Theorieen
+— = von J. W. H. Lehmann u. Ss. w.
+
+(Beschlufs von Nr. 79.)
+
+-
+
+Da: wir eine grofse Achtung vor der Euklidischen
+Lehre von den Verhältnissen und Proportionen, und
+namentlich vor der Sten Erklärung des 5ten Buches
+hegen, wollen wir unumwunden eingestehen; wir
+hätten also erwartet, durch den Vf, diese Lehre
+mehr aufgeklärt, oder noch lieber, mehr ausgeführt
+und auf die Bedürfnisse unserer Zeit angewandt zu
+sehen; ja wir glauben, dafs die höhere Synthesis,
+wofern ihr Daseyn überhaupt factisch nachgewie-
+sen werden kann, nur allein auf jener Lehre
+beruhen köone. Unsere Ansicht von diesem Ge-
+genstande, weiche. wir unsern Lesern mitzutheilen
+'uns verpflichtet glauben, ist nämlich in kurzen Wor-
+ten die folgende: Wir bedürfen der mathematischen
+Schlufsfolge, sie sey nun syuthetisch oder analy-
+tisch, wie man der Maschinen bedarf, nämli ls
+Mittel zum Zweck. Wir vermögen nicht Ohne
+Hülfsmittel verwickelte Formen und Verhältnisse
+zu durchschauen, weil überhaupt nur das Einfache
+unserm Vorstellungsvermögen zugänglich ist: nie-
+mand vermag z. B, einer Parallel- Fläche ohne Wei-
+teres anzusehen, dafs sie zwey Drittheile von dem
+Producte der Axe mit der senkrechten Sehne sey,
+wenn wir gleich annehmen, dafs ihre Construction
+
+enau bekannt wäre. Was thut nun die Wissen-
+schaft ? Sie sucht den einfachen Bestandtheil (Ele-
+ment) der Form, wodurch die Flächengröfse be-
+
+. zeichnet wird, und setzt dann aus ihm anf eben die
+
+Weise die Formel zusammen, wie sich der Raum auf
+seine elementarische Construende bezieht. Ist nun
+eine ursprüngliche Synthesis möglich, so mufste sie
+mittelst einer allgemeinen Elementar - Formel ihre
+Gebilde zu Stande bringen; eine solche Formel be-
+zeichnete also jedenfalls den universellen Begriff des
+Verhaltens, d. i. des sich auf einander Beziehens
+ungen, wodurch mehrfache Formen und
+Gestalten hervorgebracht werden. Dafs num unser
+simpeles Dividiren diesem Kanon nicht entspreche,
+versteht sich wohl von selbst; ob es aber der Eu-
+
+Ergänz. Bl. zur A. L. Z. 1882. “
+
+klidischen Erklärung der Proportionen lich
+sey — dieses hätten wir gewünscht durch den Vf,
+nachgewiesen zu finden.
+statt dessen-bemäüht sich der Vf. vergebens, die
+arithmetische und geometrische Ansicht der Pro-
+ortionen mit einander auszusöhnen, oder eigent«-
+icher gesagt, der Euklidischen Lehre eine Arith-
+metik der Linien zu substituiren, welche weniger
+anstöfsig, als eine geradezu ausgesprochene Meta-
+morphose von Linien in Zahlen wäre. '
+„Ausgeschlossen aus dem Gebiet der Synthesis
+bleiben die meisten Sätze, welche sich auf Curven,
+Flächen u. 8. f. im ‚Allgemeinen beziehen und Eigen--
+schaften derselben lehren, ohne eine bestimmte Art
+herauszuheben. Solche allgemeine Betrachtungen
+gehören allein in die Analysis, und es ist ein eigen-
+
+thümliceher Vorzug dieser Wissenschaft, dafs ihe
+
+dergleichen Untersuchungen‘ zugänglich sind. Die
+Synthesis, wenn sie sich consequent bleiben will,
+mufs sich scheuen, irgend eine Eigenschaft, die
+sich auch bey noch so vielen Arten von Curven,
+Flächen u. s. w. nachgewiesen hat, für allgemein zu
+halten; aber sie mufs, wenn sie auf Vollendung
+Anspruch machen will, im Stande seyn, nachdem
+ihr die Analysis ein solches allgemeines Gesetz sup-
+peditirt bat (das sie selbst, die Analysis, mit Hülfe
+des Unendlichkleinen auffand), dasselbe an jedem
+besondern vorgejegten Beyspiele, an jeder beson-
+dern Gattung von Curven, Flächen u. s. w., ohne
+die Hülfs des Unendlichkleinen, zu prüfen und zu
+begründen, oder — in seiner Nicbtigkeit darzule-
+
+. gen.” S.350. Uns scheint hingegen der Unterschied
+
+zwischen der Synthesis und Analysis ein anderer, als
+der zwischen dem Besondern und dem. Allgemeinen
+zu seyn; die für alle Winkel alilgemeingültige Glei-
+chung sin (n-+m) = sin(n) . cos(m) + cos(n) . sin (m)
+z. B. wird echt synthetisch aus.einer Figur mittelst
+der Lehrsätze aus der Aehnlichkeit der Dreyecke
+abgeleitet, wobey man diesem oder jenem Verhält-
+nils der drey Seiten eines rechtwinkeligen Drey-
+eckes diesen oder jenen Namen giebt; echt analy-
+tisch folgen diese Gleichungen hingegen aus. den
+Reihen für Sinus und Cosinus. — Auch der Begriff
+des Unendlichen kann den Unterschied zwischen
+Synthesis und Analysis nicht begründen, man müfste
+sonst auch die Algebra und ganze Analysis finito-
+rum zur Synthesis rechnen. — Sollte aber der
+Unterschied in der Bediogung bestehen, bey sei-
+
+L (4) nen
+
+U
+

@@ -1,0 +1,144 @@
+163
+
+wissenschaft dient, so würde jener Uebelstand ver-
+mieden worden seyn. Der von Vielen als‘ Axiom
+angenommene Satz: „dafs mit entgegengesetzter
+Lage der in Rechnung zu bringenden Linien stets
+auch entgegengesetzte Aggregationszeichen für die
+Zahldusdrücke derselben, und umgekehrt, zu ver-
+binden seyen”, wird hier natürlich verworfen, und
+‚ das Wesentliche der analytischen Darstellungen der
+
+Trigonometrie in die durchaus rechnende Ablei-.
+
+tungsart und in die Erklärung und Anwendung der
+Winkelfuncetionen als blofser Zahlformen gesetzt.
+— 1) Verschiedene Bestimmungen und Bezichun-
+gen der Bogen und Winkel, S.12—46. Der Vf.
+erörtert hier den Begriff Winkel, den er so erwei-
+tert, dafs auch Winkelsummen, welche über jedes
+Vielfache des rechten Winkels hinausgehen, darun-
+ter verstanden werden können, obgleich, wie erin-
+nert wird, in der Construction nur solche Winkel
+unterscheidbar sind, welche bey der Division mit
+vier rechten Winkeln nicht gleiche Reste geben.
+Hierauf folgen einige, bey so erweitertem Umfange
+‚ des Begriffes nöthige, neue Benennungen und Sätze
+für Winkelbeziehungen und Winkelaggregate, de-
+ren Betrachtung den Vf. auch auf negative Winkel-
+werthe führt. Daran knüpft sich dann die Betrach-
+tung der Bögen und Bogenaggregate, ihrer Zusam-
+mengehörigkeit mit den Winkeln, ihrer Messung
+nach Theilen des Quadranten und des Halbmessers
+und die Bestimmung der verschiedenen Winkel am
+Mittelpunkte, die sich bey einer jeden Gleichthei-
+lung der Bögen ergaben. — Ill) Goniometrische
+Functionen , 8 46— 67. So wie der cosinus eines
+Winkels sehon vorher unter dem Namen Pro-
+jectionsfactor als Zahl erklärt worden ist, so ge-
+schieht hier dasselbe in Beziehung auf den Sinus,
+die Tangernite u. s. w. Es folgt dann das Nöthigste
+über Beziehungen, Werthe und lineare Construction
+dieser Functionen, Vergleichung der zugehörigen
+Winkel u. s. w. — IV). Coordinatenformeln , S. 67
+— 83. In diesem Abschnitte leitet Hr. v. Münchow
+aus der Projection der Schenkel eines Winkels auf
+rechtwinklige Coordinatenaxen die Bestimmungen
+ab, wann die zugehörigen Cosinus, Sinus u. 8. w.
+nothwendig positiv und wann negativ zu Setzen
+seyen, damit für jede Gröfse. des Winkels einerle
+
+Coordinatenformel gültig bleibe. — VWV) Erster Fall
+der ebenen Trigonometrie. So nennt der Vf. ‚den
+Fall, wenn drey gerade in einerley Ebene liegende
+Linien einander in Einem Punkte schneiden und
+erörtert demnach hier die zwischen dem Cosinus,
+Sinus u. s. w. eines Winkelbinomiums (@— ß und
+a +8) und den Cosinus, Sinus u. s. w.. der Glieder
+des Binoms Statt findenden Beziehungen. VI) Grund-
+formeln der Polygonometrie, S. 102—120. Da sich
+diese Formeln fast eben so leicht als die des vom
+Vf. sogenannten , zweyten Falls der ebenen Trigo-
+nometrie, und nach der nämlichen Betrachtungs-
+weise aus den vorhergehenden Coordinatenformeln
+ableiten lassen, So sind sie hier vorangestellt, und
+die trigonometrischen Formeln werden im folgenden
+
+; ERGÄNZUNGSBLÄTTER ZUR A.L; Z.
+
+Abschnitte als ein besonderer Fall daraus hergelei-
+er Fall der ebenen Trigonometrie
+ie in diesem Abschnitte enthaltene
+Darstellung der eigentlichen ebenen Trigonometrie
+weicht, aufser in dem, was so .eben angegehen
+wurde, nicht bedeutend von der, welche. andere
+gute neuere Lehrbücher geben, ab. VII) Sphäri-
+sche Trigonometrie , S. 131—186. Der Vf. zeigt zu-
+
+tet. VII) Z
+S. 120 — 181.
+
+erst den Zusammenhang der Coordinaten des ersten
+und letzten Punkts einer, auf drey rechtwinkliche
+Coordinatenebenen bezogenen, begrenzten Geraden,
+und führt die dadurch erhaltenen Ausdrücke mit-
+telst: der schon im vierten Abschnitte erwiesenen
+Regeln für die Vorzeichen der sin. und cos. auf drey
+allgemeine Coordinatenformeln zurück. Aus diesen
+entwickelt er den allgemeinen Ausdruck für der
+Abstand zweyer Punkte mittelst ihrer Coordinatea,
+und daraus eine Formel für den Cosinus des Winkels
+zweyer Geraden von beliebiger Lage, welche dann,
+mit geringer Veränderung der Bezeichnung, die
+erste Grundformel der sphärischen Trigonometrie
+cos G = cos b cosc + sin 6 sinc cos a giebt. Die
+bekannte Formel für sin & wird hieraus wie gewöhn-
+lich, die zweyte Grundformel der sphärischen Tri-
+gonometrie cos @ = C0saG sin ß sin y- — cos fß cos y,
+aber ohne Hälfe des Supplementardreyscks abgelei-
+tet. Aus Vergleichung der angegebenen Grundfor-
+meln folgert der Vf., noch immer. ohne.des bey ihm
+erst viel später vorkommenden Supplementardre
+ecks zu erwähnen, die Regel, dafs diese Grund-
+formeln und alle durch bloß arithmetische Umfor—
+mungen und Verbindungen daraus abgeleiteten ,
+zichtig bleiben, wenn man darin alle griechis
+Buchstaben [d. i. die Winkel] und alle lateinischen
+[d. i die Seiten] mit einander vertauscht, zugleich
+aber dann alle Cosinus negativ nimmt. Hierauf die
+Entwickelung der gebräuchlichsten Formeln für
+recht- und Schiefwinkliche sphärische Dreyecke,
+wie in andern guten Lehrbüchern, nur dafs hier
+die von Andern oft übergangenen Beziehungen zwi-
+schen fünf und allen sechs Stücken eines ‚sphäri-
+schen Dreyecks ausführlich mitgenommen werden.
+
+‚Ueberall hat der Vf. die rein ana ylische [rechnen-
+
+de] Entwickelungsweise festgehalten und erst ge-
+gen Ende dieses Abschnitts kommt er auf die vor-
+
+züglichsten geometrischen Beziehungen der Bestim-
+
+mungsstücke sphärischer Dreyecke auf die Polsr-
+
+dreyecke, das Chordendreyeck und die dazu gehö-
+rige Pyramide. 1X) Goniometrische Reihen, S. 186
+— 244. In diesem Abschnitte werden einige für das
+Vorhergehende nicht erforderliche Vorkenntnisse
+von den Reihen, von der Entwickelungsmethode
+nach unbestimmten Coefficienten, von der Reihen-
+umwendung, von den Entwickelungsreihen der Bi-
+nomialpotenzen, der Exponentialgröfsen und der Bi-
+nomiallogarithmen vorausgesetzt, doch weifs der Vf.
+den Gebrauch der Differentialrechnung , den letzten
+$ ausgenommen, auch hier. zu vermeiden. Rec. kann
+aber nicht umhin, hier einen schon oft von Andern
+bey ähnlichen Gelegenheiten gemachten Einwurf zu
+
+wie-
+
+164
+
+—— mE
+
