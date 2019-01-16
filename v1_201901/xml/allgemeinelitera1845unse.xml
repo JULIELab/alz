@@ -37,7 +37,7 @@
 </address>
 </publisher>
 <pubPlace>Jena</pubPlace>
-<date type="publication">2019-01-16 10:59:57</date>
+<date type="publication">2019-01-16 11:59:30</date>
 <availability>
 <licence>
 <p>NOT_IN_COPYRIGHT</p>
@@ -45,7 +45,7 @@
 </availability>
 <idno>
 <idno type="URLWeb">https://raw.githubusercontent.com/JULIELab/alz/master/v1_201901/xml/allgemeinelitera1845unse.xml</idno>
-<idno type="DTADirName">allgemeinelitera1845unse</idno>
+<idno type="DirName">allgemeinelitera1845unse</idno>
 </idno>
 </publicationStmt>
 <sourceDesc>

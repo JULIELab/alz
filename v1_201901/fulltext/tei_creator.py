@@ -38,7 +38,7 @@ def make_tei(idno,meta):
 		f.write(licence)
 		f.write('\n</licence>\n</availability>\n<idno>\n<idno type="URLWeb">https://raw.githubusercontent.com/JULIELab/alz/master/v1_201901/xml/')
 		f.write(idno)
-		f.write('.xml</idno>\n<idno type="DTADirName">')
+		f.write('.xml</idno>\n<idno type="DirName">')
 		f.write(idno)
 		f.write('</idno>\n</idno>\n</publicationStmt>\n<sourceDesc>\n<biblFull>\n<titleStmt>\n<title>Allgemeine Literatur-Zeitung</title>\n</titleStmt>\n<publicationStmt>\n<pubPlace></pubPlace>\n<date type="publication">')
 		f.write(meta[idno]['year'])

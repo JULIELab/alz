@@ -37,7 +37,7 @@
 </address>
 </publisher>
 <pubPlace>Jena</pubPlace>
-<date type="publication">2019-01-16 11:04:19</date>
+<date type="publication">2019-01-16 12:03:52</date>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <p>Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</p>
@@ -45,7 +45,7 @@
 </availability>
 <idno>
 <idno type="URLWeb">https://raw.githubusercontent.com/JULIELab/alz/master/v1_201901/xml/bsb10501993.xml</idno>
-<idno type="DTADirName">bsb10501993</idno>
+<idno type="DirName">bsb10501993</idno>
 </idno>
 </publicationStmt>
 <sourceDesc>

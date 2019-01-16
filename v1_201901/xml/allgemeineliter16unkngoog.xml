@@ -37,7 +37,7 @@
 </address>
 </publisher>
 <pubPlace>Jena</pubPlace>
-<date type="publication">2019-01-16 11:03:47</date>
+<date type="publication">2019-01-16 12:03:20</date>
 <availability>
 <licence>
 <p>NOT_IN_COPYRIGHT</p>
@@ -45,7 +45,7 @@
 </availability>
 <idno>
 <idno type="URLWeb">https://raw.githubusercontent.com/JULIELab/alz/master/v1_201901/xml/allgemeineliter16unkngoog.xml</idno>
-<idno type="DTADirName">allgemeineliter16unkngoog</idno>
+<idno type="DirName">allgemeineliter16unkngoog</idno>
 </idno>
 </publicationStmt>
 <sourceDesc>

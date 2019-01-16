@@ -37,7 +37,7 @@
 </address>
 </publisher>
 <pubPlace>Jena</pubPlace>
-<date type="publication">2019-01-16 11:05:15</date>
+<date type="publication">2019-01-16 12:04:48</date>
 <availability>
 <licence target="https://creativecommons.org/publicdomain/mark/1.0/">
 <p>Public Domain Mark 1.0</p>
@@ -45,7 +45,7 @@
 </availability>
 <idno>
 <idno type="URLWeb">https://raw.githubusercontent.com/JULIELab/alz/master/v1_201901/xml/bub_gb_zDQ4AAAAMAAJ.xml</idno>
-<idno type="DTADirName">bub_gb_zDQ4AAAAMAAJ</idno>
+<idno type="DirName">bub_gb_zDQ4AAAAMAAJ</idno>
 </idno>
 </publicationStmt>
 <sourceDesc>
