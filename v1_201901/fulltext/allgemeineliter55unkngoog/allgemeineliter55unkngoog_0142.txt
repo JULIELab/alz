@@ -1,0 +1,142 @@
+Num, 184, OCTOBER 1838, 262
+Dr. C. H, Gräffe, Professor der Mathematik,
+
+| 261
+‚ führlich besprochen haben; doch wollen wir, einge-
+
+denk des eigentlichen Zweckes unseres Instituts, der
+vorliegenden Schrift einige literarische Notizen ent-
+heben,
+in verschiedenen Fächern hervorgebracht als z, B,
+Ferdinand Berthoud, geboren zu Planemont ‚1727,
+gestorben zu Paris 1807 und seinen Neffen, den im
+ahre 1813 ebenfalls zu. Paris verstorbenen Louis
+houd, deren Chronometer der Astronomie und
+der Schiffahrtskunde die wesentlichsten Dienste lei-
+sten, In Couret, dem bedeutendsten Dorfe des Tha-
+les, ist Emer de Vattel (1714) geboren , dessen Trai-
+te du Droit des Gens einen classischen Ruf sich er-
+wöorhen hat. Aus demselben Ort sind die Gebrüder
+= Ferdinand Olivier Petitpierre und Frederic- Louis Pe-
+titpierre gebürtig, der Erste Verfasser des bekann-
+ten und zu seiner Zeit vielfach besprochenen Plan de
+Dieu envers les hommes, der Zweite der treueste fran-
+zösische Uebersetzer von Klopstocks Messias,
+
+Bekanntlich ertheilte die Gemeinde ( Communaute)
+zu Couvet J. J, Rousseau während seines Aufenthalts
+
+im nahen Dorfe Mötiers das Gemeinde - Bürgerrecht,
+
+Als der berühmte Sonderling in Folge der zu Mötiers
+erlittenen Kränkungen den Entschlufs fafste, sich
+anf die St. Petersinsel im Bieler See zurückzuziehen,
+bot Couvet ihm eine Zufluchtstätte an.
+hat aus dem Archive der Gemeinde das bezügliche
+Danksagungsschreiben beigebracht, das wir um so
+mehr hersetzen wollen als es, unseres Wissens, nir-
+end woanders abgedruckt stehet. „A TIle St, Pierre,
+A 15 septembre 1763, — Messieurs de 1a communaute€
+de Couvet” , — „Si je disposais de moi selon mes de-
+sirs, c'est au milieu de vous que je voudrais vivre,_ et
+si la süretE parmi d’honnetes gens , pouvait me suffire,
+je ne la chercheruis pas ailleurs, Mais, Messieurs,
+j’ai besoin ausst de la paix, et vous avez des voisins
+i malgre vous ne men laisseraient pas jouir. La
+conduite la plus irreprochable , le desir.d’etre utile a
+tous, la protection des lvis, du prince, du gouverne-
+snent, du magistrat, qui n’ont pu me garanltir chez
+
+eux de leurs mains, ne me garantiront pas chez vous
+
+de leurs langues. Il faut vivre loin deux, comme de
+ces serpens venimeux ui portent le poison de leur
+souffid oü ne peut alteindre celwi de leurs dents. —
+Agreez donc, Messieurs, aveo mes trös- humbles re-
+
+snercimens de vos offres, mes regrets de wen pouvoir -
+
+‚ofiter. Je ne m’eloigne de vous entier , puisque
+A d’etre, nar votre choiz ,‚ membre de votre
+communaute , m'impose des devoirs d’attachement et
+de reconnoissance qui me seront toujours chers et qui me
+rap nt de Vous sans.cesse,”” J, J, Rousseaw
+
+- Cd
+
+MATHEMATIK,
+
+Zünıca, b. Schulthefs; Die Auflösung der höheren
+numerischen Gleichungen, als Beantwortung ei-
+mer von der Königl. Akademie der Wigsenschaf-
+ten zu Berlin aufgestellten Preisfrage, von
+
+Das Val-de-Travers hat berühmte Männer
+
+Der Vf.
+
+3837, II.u. 34 5, gr.4. (14g6Gr.)
+
+Gegen den üblichen Gehrauch machte der Vf, sei-
+nen Versuch, jene Preisaufgabe zu lösen, früher.
+bekannt, als dessen Schicksal entschieden war, da
+er glaubte, seine Methode, die Wurzeln numerischer
+Gleichungen zu berechnen, werde auch dann immer
+noch berücksichtigt zu werden verdienen, wenn an-
+dere Methoden noch schneller zum Ziele führen soll-
+fen, In der Einleitung hemerkt er, wie man, seit-
+dem man die Hoffnung habe aufgeben müssen, eine
+allgemeine Auflösung der Gleichungen höherer Grade
+durch algebraische Functionen der Coöfficienten der-
+selben zu bewerkstelligen, alle Bestrebungen auf die
+Auflösungen der numerischen Gleichungen gerichtet
+habe, um die Regeln zu vervollständigen, nach wel-
+chen die Wurzeln einer Gleichung für jeden speciel-
+len Fall leicht und sicher berechnet werden können.
+Diese Regeln seyen nun auch in Beziehung auf die
+reellen Wurzeln, besonders durch die letzten Ar-
+beiten Fouriers so vervollkommnet, dafs man diesen
+Theil der Untersuchung für geschlossen erklärt ha-
+be; allein in Beziehung auf die unmöglichen Wur-
+zeln sey dieses keinesweges der Fall. Zwar habe
+man verschiedene von ausgezeichneten Mathemati-
+kern vorgeschrjebene Wege, die zum Ziele führen,
+allein diese seyen hei Gleichungen, deren Grad nur
+einigermafsen beträchtlich sey, so beschwerlich,
+dafs man sie kaum zu betreten wage.‘ Der Vf, ent-
+wickelt nun eine Methode, nach welcher die unmög-
+lichen Wurzeln, wie er glaubt, verhältnifsmälsig
+leicht und völlig sicher gefunden werden können,
+Zugleich findet er durch dieselbe Methode auch die
+reellen Wurzeln, und zwar hofft er, dafs dieses,
+wenn man mehrere reelle Wurzeln einer Gleichung
+suche, deren Grad beträchtlich sey, auf diese Weise
+leichter und bequemer geschehe, als nach den bishe-.
+rigen Methoden, von denen er einjge der wichtigsten
+zugleich einer genaueren Untersuchung unterwirft,
+Diese sind die KEliminationsmethode; die Methode
+von Lagrange, vermittelst der Gleichung, deren
+Wurzeln Difierenzen der Wurzeln der ‘gegebenen
+Gleichung sind, und die Auflösungsweise durch die
+recurrirenden Reiben, Den Schluls macht. die Me-
+thode des Vfs, selbst. Die beiden ersten Methoden,
+sagter, suchen Gleichungen zu bilden, im welchen
+einer der beiden. Theile 5 oder y der unmöglichen
+Wurzel, x‘4+ yy — 1 als reelle Wurzel vorkommt,
+und diese Methoden würden alsdann ihre höchste
+Vollendung erhalten haben, wenn ‚man durch. sie
+eine Gleichung finden könnte, deren Wurzeln 80-
+wohl die reellen Wurzeln der gegebenen Gleichung,
+als auch die reellen ile x und y derunmöglichen
+
+. Wurzeln sind, und deren Grad daher nieht höher,
+
+als der Grad der gegebenen Gieichung ist, Allein
+
+‚ von diesem Ziele sind die:obigen Methoden noch weit
+
+entfernt, Durch die racurrirenden Reihen erhält man,
+das Product und die Summe der unmöglichen Wur-
+zeln, aber nur unvollkommen, und durch die Methode
+des Vfs, zunächst das Produot oder den Modulue der
+

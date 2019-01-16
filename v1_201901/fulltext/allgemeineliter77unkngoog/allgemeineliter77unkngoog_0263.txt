@@ -1,0 +1,111 @@
+511 A. I. Z., Num. 206.
+
+die alleinseligmachende betrachten. Wir denken,
+ein umsichtiger Mathematiker wird bald synthetisch,
+bald analytisch, bald sokratisch, bald wieder an-
+ders dociren, je nachdem ihn nun der Stoff, oder
+die Fassungskraft der Schüler oder andere Um-
+stände das eine oder das andere als vortheilhaft
+erscheinen lassen. Die vom Vf. durchweg erfolgte
+heuristische Methode hat uun gewiss das Eine für
+sich, dass die Schüler stets rege erhalten und
+hierdurch am ehesten zur Auffindung neuer Wahr-
+heiten angespornt werden; aber sie ist gegen die
+meisten andern Methoden gehalten die am wenig-
+sten durchweg ausführbare, Wenn der Schüler
+unter Anleitung des Lehrers durch eigenes Nach-
+denken und Combiniren zu den mathemathischen
+Wahrheiten gelangen soll, so sind wir gewiss, dass
+der Lehrer in einem Jahre mit den Elementen der
+Planimetrie nicht fertig werden würde, und wenn er
+10 Stunden dazu verwenden köunte. — Doch las-
+sen wir dies und kommen zum Inhalte der Schrift.
+
+Die Planimetrie bringt der Vf. in zwei Ab-
+schnitte I. die geradlinigte Planimetrie und Il. den
+Kreis. Der erste Abschnitt zerfällt wieder in 4 Ka-
+pitel: 1) Lage gerader Linien in der Ebene. Winkel,
+"Theorie der Parallelen. 2) Bestimmung und Con-
+gruenz der Figuren. 3) Linienverhältnisse und
+Aehnlichkeitslehre. 4) Ausmessung und Verhält-
+nisse der Figuren. Auf den zweiten Abschnitt
+kommen 3 Kapitel: 5) Mass der Winkel, Lage
+und Verhältnisse der Linien am Kreise. 6) Meh-
+rere Kreise. 7) Regelmässige Vierecke und Aus-
+messung des Kreises.
+
+Was zunächst die Eintheilung der Planimetrie
+in die genannten beiden Abschnitte betrifft, so ist
+und bleibt sie unausführbar, denn schon das ein-
+fache Abtragen einer Geraden, die Construction
+eines Dreiecks aus den drei Seiten, das Fällen und
+Errichten eines Lothes, das Antragen eines Win-
+kels u. s. w. machen den Kreis schon im ersten
+Abschnitte unumgänglich nöthig. Ks muss deshalb
+die Eintheilung als eine verfehlte bezeichnet wer-
+den. Doch nun zu dem Kinzelnen. — Die Paral-
+lelentheorie baut der Vf. auf den Satz: ‚im Dreieck
+ist die Winkelsumme — 180%.” Zu diesem Satze
+wird in $. 12 ein Beweis gegeben. Abgesehn jedoch
+davon, dass man aus diesem Beweise deshalb nicht
+recht klug wird, weil die dazu gehörige Figur gar
+nicht recht dazu passt, (der Buchstabe F ist gar
+
+ 
+
+SEPTEMBER 1846. 512
+
+nicht in der Figur und es lässt sich auch schwer
+sagen, wo er stehen soll,‚) so entibehrt er auch
+durchaus aller mathematischen Strenge. Der zweite
+Einwand, den man hier machen muss, ist schon
+bei Nr. 4. berührt worden.
+
+Die Untersuchungen über die Bestimmungs-
+stücke eines Dreiecks in $. 19., welche zugleich
+die Aufstellung der 4 Congruenzsätze entbehrlich
+machen sollen, entbehren selbst aller wissenschaft-
+lichen Schärfe. Die Sache wird nur an einer Figur
+plausibel gemacht und kann also bei den Forde-
+rungen, die man an den mathematischen Unterricht
+machen muss, durchaus nicht genügen.
+
+Die Incommensurabilität der Linien ist noch
+mehr übers Knie gebrochen, als in Nr. 4., denn
+hier hat sich dieselbe mit einem Citate am Ende
+einer Seite begnügen müssen.
+
+Eben so dürftig erscheint uns die Bestimmung
+des Flächeninhalts eines Rechtecks. Denn nach-
+dem der Satz: „Rechtecke von gleichen Höhen
+verhalten sich wie ihre Grundlinien ” an einem blo-
+son Zahlenbeispiel plausibel gemacht worden und
+hieraus der Satz: „Rochtecke verhalten sich, wie
+die Producte aus Grundlinien und Höhen”, abge-
+leitet worden ist; wird der Satz von der Inhalts-
+bestimmung des Rechtecks als daraus ohne Wei-
+teres hervorgehend aufgestellt. Wir denken, es
+wird das Angeführte genügen, um unser Urtheil
+zu bestätigen, dass solche Schulen, die sich Wis-
+senschaftlichkeit ihrer Lehrgegenstände zur Auf-
+gabe machen, sich mit dem Lehrbuche des Hrn.
+Prof. Büsser nicht befriedigen können. —
+
+In Nr. 6. wird das in der ersten Lieferung er-
+schienene enghsche Werk ‚,‚KElementary proposi-
+tions in the geometry of co-ordinates, both of
+two and three dimensions: with their application to
+the demonstration of some interesting theorems by
+Rutherforth and Fenwick” in der deutschen Ueber-
+setzung mitgetheilt. Die Art der Ableitung analy-
+tischer Sätze, die sich hier findet, hat gar man-
+ches Eigenthümliche und es dürfte somit bei dem
+Interesse, das man jetzt diesem Literaturzweige
+schenkt, das Unternehmen der Uebersetzung ge-
+rechtfertigt seyn. Dieser ersten Lieferung, die
+übrigens auch als ein Ganzes für sich bestehen
+kann, sollen die nachfolgenden sofort in deutscher
+Uebersetzung folgen. Dr. 9.
+
++
+

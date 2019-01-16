@@ -1,0 +1,168 @@
+852
+systematische Anordnung von discreten Gröfsen
+
+nach. einer gemeinschaftlichen Basis; es hoilst Zah-,
+
+lensystem, wenn jene Grundzahl. bestimmt angege-
+n wird, und dieses führt wieder seinen besonderen
+
+Nämen nach der Menge der Einheiten, welche in,
+
+jener Grundzabl enthalten sind.” In diesem Ab-
+schnitte spricht daher der Vf. von den Potenzbrü-
+chen, von der Addition, Subtraction, Multiplication
+und Division systematisch gebildeter Zahlen, sowie
+vom Quadrat - und Cubikwurzel - Ausziehen aus
+dekadischen Zahlen und Decimalbrüchen, Diese
+Lehren sind recht gut behandelt, wenn gleich die
+Allgemeinheit der Darstellung, nach welcher der
+Vf. überall strebt, dem Anfänger manche Schwie-
+
+rigkeit bieten wird. Daher erklärt es sich denn:
+
+auch, wie der Vf, bei der Division der Decimalbrü-
+che ein Verfahren empfehlen kann, was er selbst
+schwerlich anwenden möchte, Er sagt nämlich
+pag. 107: ‚Bei der Oivision von Decimalbrüchen ist
+es am einfachsten, den Quotient auf die gewöhnliche
+Bruchform zurückzuführen, und dann diesen Bruch,
+wenn es gefordert wird, wieder in einen Decimal-
+bruch aufzulösen, Werde z. B, der Dividend durch
+5 der Divisor durch Yo angedeutet, und nun
+angenommen, es sey 1) n>m, und zwar n=m +Tr,
+
+80 ist— = -——, Multiplieiren wir nun Zähler
+
+ 
+
+ 
+
+ 
+
+ 
+
+10° 210m*r°”
+und Nenner von 35; durch 107, so erhalten wir
+B__ B.10®° 0.1. 4‘. B A „. B.107
+10° 10m? mithin 10°) 10% = 10m: ° 10m +7 ==
+
+36: Ferner sey 2)n<m, und zwar n+r = m,
+80 erhalten wir wieder:
+
+4 ° B — A ° 10° . 3 4, 107 ® ®
+10% °10m = 10=+: ° 10°+7 == BO) also in bei-
+den Fällen die einfache Regel: „man gebe (durch
+Anhängen von Nuflen) dem Dividend und Divisor
+
+‚gieichviel Decimalstellen, und dividire diese dann
+wie ganze Zahlen (also ohne Rücksicht auf die Kom-
+ma).” Geowils wird der Vf., wenn er z, B, 0,975468
+durch 3, 2 dividiren soll, nicht 3, 2 ers$ in 3,200000
+verwandeln und dann etwa die Division vornehmen,
+Das bequemere Verfahren wird zwur auch ange-
+führt, der Vf, scheint aber nieht viel daven zu hal-
+
+; ten, da er es mit den Worten einführt; „so triflt
+
+man auch wohl diese zusammengesetztere Regel ge-
+geben.” Auch sehn wir nicht ein, warum diese Re-
+gel eine zusammengesetztere seyn sollte. Der dritte
+
+Abschnitt handelt von den Grundoperationen mit be-
+
+nannten Zahlen, nämlich vom Addiren und Subtra-
+hiren mit benannten Zahlen, von der Multiplication
+und Division benannter Zahlen , von den Verhältnis-
+sen und Proportionen, und sehliefst mit der Auwen-
+dung derselben auf das praktische Rechnen, Der
+
+Unterschied zwischen geraden und umgekehrten Ver-
+
+hältnissen scheint uns nicht deutlich genug angege-
+ben zu seyn, Die Mischungs- oder Alligationsrech-
+nung scheint uns zu kurz abgefertigt, und der letzte
+
+ 
+
+®
+
+Num, 20. JULIUS 1837,
+
+leitenden Krörterungen und allgemeinen
+
+338
+
+Fall. doch fast zu mechanisel behandelt worden zu
+seyn, was doch sonst des Vfs, Fehler geuwife' nicht
+
+ist, Der Vf. sagt nämlich so: ‚Fir den einfachen
+
+Fall indessen (alles Uebrige der Alligationsrech-
+aung hat Hr. v. S, mit Verweisung auf einen frühe.
+ren $ in 15 Zeilen abgethan), wo entweder nur zwei*
+fache Stoffe zu verbinden sind , oder wo, bei verbun-
+denen Stoffen, die Verhältnifszahlen zugleich die
+Gröfse der Theile, ihre Summe also das Ganze be-
+zeichnet, tritt die Abkürzung des $. 4 Nr, 10 Zus. 2
+ein, und (es) läfst sich darauf wieder ein einfacher
+Mechanismus gründen; denn wofern A entweder den
+Werth a hat, oder aus den Theilen a und 8 besteht,
+ferner B entweder den Werth von » besitzt, oder
+aus den Theilen n und m zusammengesetzt ist {so
+dafs, im letzteren Falle, a und n, sowie d und m
+einerlei Art sind), und man will hieraus einen Kör-
+
+r C zusammensetzen, der entweder den Werth p
+bat, oder aus den Theilen p und 4 hesteht (so dafs p
+mit a und n, qmit d ımd m der Art nach überein-
+stimmt) und man setzt nun noch A=-=B=C=1(d.
+der blofsen Gröfse nach), 80 erhält man, wofern £
+das von A, y das von B zu nehmende Stick bezeich-
+
+"net; -
+
+z=P7", mithin
+
+d—n
+y=l1—xz=1—P7) „Sn (p-n) 7, also
+a—n a—n a-n
+.y=P7" ,27P — (B—n): (a— ; Cm
+
+SYS zn an (p—n):(@—p), woraus Kuß
+folgendes Schema hervorgeht:
+
+a p—n
+
+n a-—p, d.h. weil p>n, a >p (also
+
+der Gröfse nach zwischen @ und n liegen muls,
+wenn r und y nicht negativ werden sollen, was hier
+keinen Sinn giebt, weil man wirkliche oder positive
+Theile von. 4 und B nehmen soll); man setze den
+gröfseren Werth a zunächst, darunter den kleineren
+n, dann rechts gegen die Mitte den Mittelwerth oder
+Durchschnittspreis p, nehme hierauf in der Diago-
+nale die Differenzen p—n und a—p: 80 erhält man
+die gesuchten Verhältnifszahlen. Sind diese gefunden,
+so wird man danach jedes andere beliebige Quantum
+D, das diesen Mittelwerth besitzt, zusammensetzen
+können, Die Elementar - Geometrie , der zweite
+Haupttheil dieses Bandes zerfällt , nach einigen ein-
+eometri-
+schen Erklärungen in drei Abschnitte, Abschn, 1:
+von der Construction einfacher Liniengebilde, näm-
+Ech von den Winkelu, von den Parallellinien und
+Dreiecken, von den Vierecken, von den Vieleeken,
+besonders den regelmälsigen und vom Kreise; Der
+
+‘ bekannten Schwierigkeit in der Parallelentheorie hat
+
+der Vf, auf folgende Weise auszuweicben gesucht:
+er erklärt nämlich so: ‚Linien in einer Ebene, wel-
+che mit einer dritten, sie gemeinschaftlich durch-
+schneidenden, gleiche gleichliegende Winkel bilden,
+heifsen gleichlaufend (parallel); Linien, die sich
+treffen und schneiden , heifsen u, s, w.. Wir können
+
+a8
+

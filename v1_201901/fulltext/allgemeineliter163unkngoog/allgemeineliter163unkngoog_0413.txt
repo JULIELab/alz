@@ -1,0 +1,139 @@
+811
+
+dem Cosinus des Winkels, den sie mit der Axe macht,
+andeutet.” Das vierte Capitel enthält die Theorie
+
+der freien geradlinigen Bewegung eines Atoms. Das;
+
+fünfte Kapitel handelt von der krummlinigen Bewe-
+gung eines Atoms, und schlielst mit verschiedenen
+dahju einschlagenden Aufgaben zur Bewegung der
+Himmelskörper, zur Ballistik und zur Pendelhewe-
+gung. Der zweite Band, der zur Ostermesse 1837
+"erscheinen soll, wird die gesammte Statik fester
+Körper, und der dritte die gesammte Dynamik fe-
+ster Körper, und das Wissenswürdigste aus der Hy-
+drostatik/’und Hydraulik enthalten, Druck und Pa-
+pier sind sehr gut. . . , M. -
+
+Dazspen u. Lerzic, b. Arnold: Leitfaden zum
+Unterricht in der Mathematik von W. H. von
+Rouvroy, Hauptmann im Kön, Sächs, Artillerie -
+Corps und Lehrer der Mathematik an der Mili-
+tair-Bildungsanstalt. Erster Theil VI u. 1748,
+Zweiten Theiles erste Abtheilung X u. 138 8,
+mit 4 Kupfertafeln; zweite Abtheil. IV u. 738,
+mit 1 Kupfertafel u, 1 Tabelle, Dritten Theiles
+erste Abth., Xu, 303 58,; zweite Abth. VI u.
+126 8. 1836. gr. 8. (3 Rthlr, 13 gGr.)
+
+Der Vf. schrieb zunächst nur für die Anstalt, der
+er als Lehrer angehörte, an welcher dem Vortrage
+der Mathematik die Zeit etwas sparsam zugemessen
+ist, Da z.B. der Zahlenrechnung und der Algehra
+höchstens 150 — 160 Lehrstunden gewidmet werden
+können, so war möglichste Vereinfachung des Lehr-
+gebäudes das Häupterforderhils. Der erste Theil
+enthält jene beiden oben genannten Lehren in 13 Ab-
+schnitten: Einleitung — Von den vier Rechnungs-
+arten überhaupt und mit Zahlen ins Besondere, und
+ven den gemeinen Brüchen — Decimal- und Ketten-
+hrüche, Rechnung mit benannten Zahlen mehrerer
+Gattungen — Regel de tri und ihre Anwendungen —
+Die ‘vier Rechnungsarten mit algebraischen Gröfßen
+ins Besondere, und die Rechnung mit algebraischen
+Brüchen — Bildung ganzer und gebrochener Poten-
+zen eingliedriger, der Quadrate und Cuben mehr-
+gliedriger Gröfsen, Ausziehung der Quadrat- und
+Cubikwurzeln aus Zahlen, Rechnung mit Warzel-
+gröfsen — Gleichungen mit einer unhekannten Grö-
+
+se — Von den Gleichungen mit mehreren unbekann-
+ten Gröfsen — Zusammensetzung der Gleichungen
+' aus gegebenen Aufgaben, — Anfangsgründe der
+Combinationslehre und Anwendung derselben auf die
+Theorie der Gleichungen und die Bildung der Poten-
+zen. — Von den Reihen überhaupt, und von den
+eometrischen und arithmetischen Reihen ins Beson-
+ere. — Begriff and Bezeichnung des Unendlich-
+grofsen, nnendliche Reihen... — Von den Logarith-
+men, Da Altes dies auf 174 Seiten , bei einem nicht
+übermäfsig sparsamen Drucke, abgehandelt ist, so
+kann man schon hieraus schlielsen , wie sebr sich der
+Vf. bemüht habe, die Lehren soviel wie möglich zu-
+sammenzudrängen, Kr hat Alles hinweggelassen,
+was seinem unmittelbaren Zwecke fremd war, und
+
+a)
+
+ERGÄNZUNGSBLÄTTER ZUR A. L, Z.
+
+‚ oder leicht verständlich,
+
+812
+
+yraktische Anwenlharkeit bestimmte ihn bei der
+Vahl des Aufzunehmeuden und der kürzeren oder
+weitläuftigeren Ausführung jeder einzelnen Lehre,
+In dieser Beziehung hat er gut gewählt, daher wir
+für diesen Zweck das Buch recht sehr empfehlen
+können; für andere Lehbranstalten dägegen möchte
+es sich weit weniger eignen, da nicht selten die prak-
+tische Tendenz der Wissenschaftlichkeit Eintrag ge-
+than hat, Doch sieht man.leicht, dals der Vf, sei-
+nen Stoff vollkommen beherrschte. Wir belegen nun
+unsere Behauptung zunächst mit einigen Stellen aus
+dem ersten Theile, Der Vf, erklärt sich über ent-
+gegengesetzte Gröfsen in $, 8.. so: „Eine Größe,
+welche von eiger andern binwegzunehmen, und des-
+halb mit dem Zeichen (—) versehen ist, muls zwar
+aus Einheiten derselben Art, wie die letztere bestehn,
+aber einen entgegengesetzten Sinn haben, und wird
+daher in Beziehung auf diese letztere oder die posi-
+tive (bejaende) Größe, negative (Ferneinend) ge-
+nannt; Berechnet man z. B, das Vermögen einer
+Person in 'Thalera, so werden die negativen Größen
+nicht Thaler Vermögen, sondern Thaler Schulden
+BeyYB.,..... Aus diesen Erörterungen geht der Sinn
+hervor, welchen eine Gröfse (m — n) erhält, wenn
+n > m wird. Alsdann ist nämlich das Resultat der
+angezeigten Suhtraction keine Größe in dem Sinne
+von m, sondern eine Gröfse in dem Sinne von »,
+welche durch — (n — m) ausgedrückt wird.” Wir
+halten diese Entwickelung keinesweges für deutlich
+enn es $.3 heifst: ‚, Iden-
+tisch nennt man eine Gleichung, in welcher auf bei-
+den Seiten des Gleichheitszeichens dieselben Aus-
+drücke oder Größlsen stehen, z.B. a=a, 3=3
+u, 8. w,”, so ist diese Erklärung zu eng, da be-
+kanntlich die Gleichung (a + 5)? = a? + 2ab + db?
+nichts weiter, als eine identische ist. In 8. 16 wird
+die Anleitung gegeben, Brüche auf gleiche Benen-
+nung zu hringen, der Beweis aber fehlt ganz, auch
+hätte wohl die andere Methode durch Zerlegung der
+Nenner in ihre Primzahlenfactoren erwähnt werden
+sollen. Einen eigenen Weg schlägt der Vf. zur Er-
+klärung der Decimalbrüche ein, wenn er $, 19 sagt:
+
+'„ Wenn man bei einer Zahlendivision, welche nicht
+
+aufgeht, nach Bestimmung der Kiner des Quotienten
+die Stelle derselben durch ein rechts neben sie ge-
+setztes Komma, oder durch einen Punkt bezeichnet,
+und dann die Division fortsetzt, indem man an jeden
+der nach und nach erscheinenden Divisionsreste eine
+Null anhängt, so entsteht ein Decimalhruch. ” Die
+Proportionen berührt der Vf, nur kurz, indem er da-
+für Gleichungen substituirt, und sagt: ‚„, Durch diese
+Entfernung von dem ersten und natürlichen Begriff,
+wurde eine Menge von Hülfssätzen nethwendig, wel-
+ches (?) unmittelbare Folgen jener Gleichungen , und
+völlig entbehrlich sind, wenn man, wie im Verfolg
+dieser Vorträge, den Zwischenbegriff der Propor-
+tion vermeidet.” Für seinen Zweck hatte der Vf
+‚sicher Recht, ob aber auch im Allgemeinen es zweck-
+mälsig. gey, die Proportionsform aufzugeben, läfst
+sich wohl so kurz nicht entscheiden, Der $,36, zwei
+
+. 1-
+

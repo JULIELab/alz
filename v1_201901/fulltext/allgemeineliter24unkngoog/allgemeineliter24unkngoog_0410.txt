@@ -1,0 +1,144 @@
+-
+
+805
+
+zusammengenommen 360° beträgt. Hier war also
+z. B. gleich ein Fall, in welchem der zum Ueber-
+. gangsdreyeck gehörende Kugelhalbmesser wenig-
+stens für gleichschenklige Dreyecke sich leicht be-
+stimmen liefs. Denn da, wenn a« der Winkel an
+der Spitze des gleichschenkligen Sehnen A des
+sphärischen Dreyecks ist und der gleicffe Schen-
+kel des ebenen durch & bezeichnet wird, siniA
+__2R sin 4a
+> y 4R?— 6?
+gaben, 2r Th. S. 52, wo jedoch der Kugelhalbmes-
+ser R. restituirt werden mufs), so wird für jedes
+gleichschenklige Dreyeck der Uebergangspunkt da
+Statt incdlen, wo A = 2a, also
+
+nı <A ; 2 sin ! x 2R sin 5a
+
+nz == 53 C% = sn 3% COS zC = /2RILE
+
+ 
+
+R ; b cos 3a
+00a = TEE dh wo
+_bcos zu
+ia /i +2 cos‘
+
+ist, welcher Ausdruck reel ist, so lange «den
+Werth von 120° nicht übersteigt. So leicht ergiebt
+sich nun der Werth des Halbmessers natürlich nicht
+in jedem Falle; vielmehr haben wir gefunden, dafs
+die Gleichung für R? im Allgemeinen auf den achten
+Grad steigen würde; man hat nämlich, wenn a, 5,
+c die Seiten; a, £#, y die Winkel des Sehnendrey-
+ecks sind, für den Uebergangpunkt, bey wel-
+chem’ die zu « und ß gehörenden Excedenten gleich
+seyn sollen, wie man gleich finden wird, die Glei-
+chung ; x
+
+‚ 2R (4R vos 8 — ac) VRR? sin a? — a?
+
+—2R (4Rcos a — bc) R? sin 8 — 6 N
+
+=— (4R? — c?) sin (a—ß) V (4R*— a’) (4R*—5°)
+
+Da aber in dieser Gleichung alle Bestimmungsstücke
+des Sehnendreyecks zu gleicher Zeit vorkommen,
+so kann es sehr wohl seyn, dafs sie solcher Reductio-
+zen fähig ist, dafs ihrer allgemeinen Auflösung we-
+nigstens in speciellen Fällen kein Hirnderniis im
+ege steht. Diefs ferner zu untersuchen, ist na-
+türlich hier nicht der Ort. — Wir können übri-
+gens diese Anzeige nicht schliefsen, ohne der be-
+sondern Sorgfalt und Eleganz, mit welcher die Ku
+fertafeln ausgeführt sind, rühmlichst erwähnt zu
+haben. Scherb.
+
+Mıınz, b. Kupferberg: Der höher - geometrische
+Jugendfreund oder populäre Darstellung der
+Grundiehren der höhern Geometrie für Anfän-
+ger, von Joh. Jos. Ign. Hoffmann, 1829. 242 S.
+mit 11 Steintafeln. (1 Rthlr. 4 gGr.)
+
+Ein Jugendfreund ist immer eine angenehme Er-
+scheinung, besonders wenn er nicht -6lo/s unter-
+halten, sondern auch bilden und lehren will. Die
+
+'Num. 101. NOVEMBER- 18841.
+
+= ist (s. z. B. Meier Hirsch’s geometr. Auf- .
+
+‚chungen gröfstentheils verloren geht.
+
+Unterhaltung bey matbematischen Lehrsätzen soll
+aber durch Anwendung auf die Natur hervorge-
+ebracht werden. Grofs und erhaben stellen sich
+em kindlichen Gemüthe die Gesetze der Natur
+dar; von Erstaunen und Ehrfurcht ergriffen, er-
+kennt es auch in der kleinsten Erscheinung den
+Zweck und die Ordnung: wer diese Hebel zu be-
+nutzen weils, dem wird es gewifls gelingen, mora-
+Jlisch und geistig einzuwirken und die Wifsbegierde
+für das trockene Studium abstracter Lehren beliebi
+zu stimmen. Nicht, wie es auch jetzt leider noc
+häufig der Fall ist, soll der Lernende mit Abnei-
+Bung; ja vielleicht mit dem Vorurthei]l einer nutz-
+osen Anstrengung, den Vorhof der Mathematik
+betreten; sondern er mulfs ihr Gebäude als ein Hei-
+ligthum betrachten, in welches einzutreten ihm als
+eine besondere Begünstigung gestattet wird. Sollte
+einst dieses glückliche Gleichgewicht zwischen .
+menschlichen Bedürfnissen und den Forderungen
+der Vernunft, zwischen Formal- und Real- Er-
+kenntnifs in dem Act der Erziehung wirklich dar-,
+gestellt seyn, so dürfen wir echte Bildung erwarten,
+und wahre Humanität verbreitet seheo. — ‘Doch
+bis dahin bleiben es fromme Wünsche, was Man-
+cher im Stillen dachte, und Mancher, ohne Erfolg,
+Jaut zu sagen wagte! — ;
+
+In dem vorliegenden Jugendfreunde ist von An-
+wendungen nicht die Rede; es bleibt also nur Zweck-
+mäfsigkeit in der elementarischen Darstellung ab-
+stracter Lehren zu. erwarten übrig. Die Anfangs-
+gründe der höhern Geometrie haben an sich selbst
+ihren Nutzen in der Vorbereitung zur Analysis, Dif-
+ferenzial - Rechnung und Mechanik. In der syn-
+
+:thetischen Methode der Alten wird das construotlive
+
+Vermögen der Phantasie erweckt und ausgebildet;
+die Algebra selbst ist ihr fremd und ersgheint hier
+als. ein Vehikel der Einbildungskraft. Den Unter-
+suchungen des Pappus, -Apollonius und Archimedes
+liegen die Begriffe der Proportionalität und Com-
+
+”mensurabilität zum Grunde; aus ihnen evolvirt sich
+
+bey höhern Formen die Exhaustion des Gebildes
+aus den bildenden Potenzen — die Quelle der ana-
+lytischen Erkenntinifs. Die Euklidische Erklärung
+der Proportionalität ist im Grunde eine allgemeine
+Differenzial- Gleichung, welche erst nach möglich-
+ster Herabstimmung in die Gestalt von Quotienten
+eingeht. Aus diesem Gesichtspunkte müssen die
+Probleme der Tangentenziehung, der Quadratur
+und Cubatur betrachtet werden.
+
+Der Vf. führt hingegen die Verhältnisse zwi-
+schen den. construirenden Linien, nach dem Vor-
+bilde anderer Schriftsteller, auf absolute Einhei-
+ten zurück, und bahnt sich ‘hierdurch den Weg
+zur Algebra — worüber der Geist der Untersu-
+Dennoch
+giebt es einen dritten Gesichtspunkt, aus welchem
+wir den Jugendfreund der höhern Geometrie beur-
+theilen können: er mufs nämlich seine Schüler in
+die Eigenthümlichkeiten der algebraischen Methode
+
+; . ein-
+

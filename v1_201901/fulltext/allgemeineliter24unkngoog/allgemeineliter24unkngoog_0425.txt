@@ -1,0 +1,142 @@
+835
+selbst der kleinste-Umstand nicht vergessen. Wir
+heben folgende Stelle atıf $. 171 aus: ZEs soll vitra
+
+zehn Tage nach meinem Tode in allen Kirchen mei-
+nes Landes: meine Leichenpredigt gehalten werden.
+Von meinem Leben und Wandel, ateh Actionen
+und Personalien, soll nicht ein Wort darin gedacht,
+dem Volke aber gesagt werden, dafs ich solches
+expresse verboten habe, mit dem BeyfFug, dafs ich-
+als ein grofser und armer Sünder stürbe, der aber
+bey Gott und seinem Heilande Gnade suchte,
+— Ueberhaupt Soll man mich in solchen Leichenpre-
+digten zwar nicht verachten, aber auch nicht loben.”
+
+Ueber Friedrich 1. enthält das Buch im Ganzen
+‚genommen wenig Neues, doch ist auch diefs über-
+all mit der Anerkennung gesagt‘ worden, welche
+dem glorreichen Andenken des grofsen Königs ge-
+.bührt, dem weder ein Adam Müller, noch die Her-
+ren Steffens und Arndt, und Heine ( Reisebilder,
+Th. 1. S. 14.) die verdiente Krone ‚der Unster
+
+- lichkeit entreifsen werden. G. J.
+PRAKTISCHE GEOMETRIE.
+Maıınz, b. Kupferberg: Geographische Trigono-
+metrie odet die Auflösung geradlinigen,
+
+sphärischen und sphäroidischen Dreyecke, müt
+ihrer Anwendung bey gröfsern geodätischen Ver-
+messungen und der Projection der Charten so-
+wohl theoretisch als auch rein praktisch darge-
+stellt und mit eipdem Anhange über Winkelmels-
+'instrumente begleitet von J. P. 7. Stein, Lehrer
+der Mathematik am Gymo. zu Trier, Mitgl. der
+Gesellsch. nützlicher Untersuchungen daselbst
+und vormaligem ingenieur gdographe in franz.
+Diensten. it 8 Steindruckta eln. 1825. XXu.,
+3165S.4. (8 Rıthl. 16 gGr.)
+
+Der Vf., welchem nach der Erscheinung dieses
+Werks von der Bonner philosophischen Facultät
+der Doctor - Grad ertheilt wurde, giebt in der Vor.
+rede seinen Zweck mit folgenden Worten an: „In
+dem gegenwärtigen Werke habe ich diejenigen tri-
+gonometrischen Kenntnisse darstellen wollen, wel-
+
+che man von dem, mit der Triangulation und dem _
+
+Entwurfe der Charte eines grofsen Landes beauftrag- .
+ten Geodäten fordert. Das Astronomische, welches
+sich, streng genommen, auf die Bestimmung der
+geographischen Breite eines einzigen Punktes und
+des Azimuthes einer durch diesen Punkt gehenden
+geodätischen Linie beschränkt, ist nicht mit einbe-
+griffen.” ;
+
+‚ ° Zur Beantwortung der Frage, wie die so ausge-
+‚sprochene Aufgabe gelöst sey, wird eine detaillirte
+' Schilderung des vorliegenden Werkes am geeignet-
+sten seyn, die auch deshalb Interesse haben dürfte,
+weil der Vf. durch seine frühere Anstellung als in-
+Enieur gEographe nämentlich in diesem Zweige der ’
+athematik als Mani vom Fache erscheint, und
+seine Kenntnisse Bereits durch andere wissenschaft-
+
+ERGÄNZUNGSBLÄTTER ZUR A, L. Z.
+
+836
+liche Arbeiten bewährt hat. Auch in‘ der fvorlie-
+genden Schrift wird man sie finden, wenn auch an
+einzelnen Stellen Wünsche übrig bleiben. Das ei-
+gentliche Werk zerfällt in drey Theile, von welchen .
+der 1ste analytische und trigonometrische Vorkennt-
+nisse, der Zte die Theorie der Geodäsie und-Map-
+pirung und der Ste Rechnungsformulare enthält; je-
+der dieser Theile zerfällt wieder in mehrere Kapitel.
+
+Erster Th. 1stes Kap. „Wiederholung mehrerer
+Sätze und Formeln aus der Trigonometrie, der
+Lehre von den Reihen und der Differentialrechnung.”
+In Betreff der Angabe solcher Hülfssätze und Vor-
+kenntnisse läfst sich zwar Manches für und wider
+sagen, nach des Vfs Absicht aber scbeint sie zur
+
+: Ersparung der Citate und für Ungeübtere sehr zweck-
+
+mäfsig. Diese Sätze betreffen zuerst $. 1—4 die
+Beziehungen zwischen den trigonometrischen Linzer,
+d.b. Formeln für sin(a4-6), cos(a4+&), Summen und
+Differenzen der sin und cos u. s. w. Der Ausdruck
+
+‚&rigon. Linien scheint Rec. irrig, und richtiger
+‚Yrigon. Functionen, weil alle diese Gröfsen ab-
+
+stracte Zahlen sind, und nur als solche in der Ana-
+‚lysis, dem allgemeinen und ersten Haupttheile, der
+Mathematik auftreten, so dafs a se —
+u. s. w. die Deßnition von Sinus der Zahl a, und
+ähnlich bey cos, fang y ist, und bey allen diesen
+Gröfsen die bekannten merkwürdigen Beziehungen,
+welche sie untereinander und zu der Zahl x= 83, 14
+haben, dort nachgewiesen werden. In dem, dem
+wissenschaftlichen Systeme gemäfs folgenden zwey-
+ten und besondern Haupttheile der Mathematik be
+Betrachtung der Raum - Gröfsen zeigt sich herna
+bey der Aehnlichkeit der Dreyecke, dafs in den
+rechtwinkligen Dreyecken die Verhältnisse der Ka-
+theten zur Hypotenuse und unter einander ein—
+zig Functionen der Winkel] sind; und unter dieser
+Fuoction dieselben Beziehungen Statt finden, wel-
+che die Analysis für die Sinus, Cosinus u. s. w.
+nachweist, weshalb man ihnen auch diese Namen,
+sie einstweilen allenfalls dürch das Beywort: #r170-
+nometrisch von den erstern unterscheidend, beyle-
+
+‚gen kann. Zuletzt ergiebt sich aber bey der Recti-
+
+cation des Kreises (als der einzigen bey einem j6-
+den bestimmten Parametet nur einem Winkel pro-
+portionalen Curve) aus dem bekannten jAusdrucke
+
+m A “ns
+für einen Bogen rf‘ Zr m =) 2. dafs zwischen
+
+"diesem Bogen und = dieselbe Beziehung , wie zwi-
+
+schen a und sin a Statt finde, woraus denn weiter
+
+"folgt, dafs sina mit dem trigonametrischen Sinus _
+
+Zeinerley sey, dasselbe rücksichtlich cos, tarıg, co®
+
+einträte, und endlich die Zahl = das Peripberie-
+Verhältnifs ausdrücke. — Die Gröfse eines Win-
+kels kann dem zufolge durch den‘ ihm entsprechen-
+den hnd proportionälen Bogen, d.b.in Th jlen von =
+
+x ... x ' Bow - QusS-
+
+\
+

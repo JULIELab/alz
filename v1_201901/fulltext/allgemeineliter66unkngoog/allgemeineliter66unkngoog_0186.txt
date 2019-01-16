@@ -1,0 +1,126 @@
+ 
+
+ERGÄNZUNGSBLÄTTER
+ALLGEMEINEN LITERATUR - ZEITUNG
+Mai 1833. ,
+
+/
+
+— @&
+
+ARITHMETIK.
+
+Tama, b. Lintz: Die Elemente der Algebra — —
+von J, P. W: Stein u. 8. W.
+
+(Fortsetzung von Nr. 45.)
+
+V V ir wollen jetzt sogleich etwas näher eingehen
+auf die im zweiten Theile gegebene Darstellung der
+Theorie negativer Gröfsen. Um jedes Mifsver-
+ständnifs zu vermeiden, wollen wir Stein’s Worte
+selbst (Th. I, IX) hersetzen. Es leitete ihn dabei
+die Grundansicht, dafs negative Gröfsen und Nullen
+nur Zeichen, welche sich im algebraischen Calcul
+als nothwendig darbieten, aber keine Darstellungs-
+mittel wirklicher Gröfsen. sind. Kr sagt von ihr
+(I,.X1I), da(ls er sie als neu und befriedigend an-
+
+sehe, und in philosophischer Hinsicht keine Mängel
+
+an ihr entdecken könne. Wenn man sie aber als
+enstand des Unterrichts betrachte, so lasse sich
+Mehreres daran aussetzen. Sie sey nicht ohne Weit-
+Jäüufigkeit und schwer zu lehrer, wegen des im Men-
+achen vorherrschenden Hanges, vom Besonderen auf
+das Allgemeine zu sehliefsen. Vorzüglich aber habe
+sie den Mangel, dafs sie da, wo es auf Anwendun-
+gen ankomme, die Resultate nicht so leicht voraus-
+zusehen erlaube, als es mit Hülfe der Lehre vom
+Entgegengesetzten geschehen könne, obgleich diese
+Resultate allerdings auch ohne die Begriffe von den
+entgegengesetzten Gröfsen sich entwickeln lassen,
+wie von ihm wirklich geschehen sey. Indessen müsse
+man auch hier gestehen, aß die Lehre vom Entge-
+gengesetzten der geheime Wegweiser sey , und man 80
+oft an dieselbe erinnert werde, daß man ihr wohl
+eine mehr als zufällige Stelle in der Algebra geben
+MÜSSE.
+Die Offenheit des Vfs überheht uns alles dessen,
+was wir selbst etwa in methodischer Hinsicht gegen
+die von ihm gegebene Darstellung der Lehre von den
+negativen Gröflsen zu erinnern haben möchten; und
+es bleibt uns nur noch übrig, unsere Verwunderung
+zu erkennen zu geben, dafs alle diese Einwürfe gegen
+seine Methode, welche die im ersten Cursus ent-
+wickelte sämmtlich nicht treffen, ihn dennoch nicht
+abhielten, sie zu :bef . — Betrachten wir
+aber die Sache in philosophischer Hinsicht , so ändert
+
+‚sich der Standpunkt der Frage ganz und gar. Wir’
+
+wollen also eine kurze, prüfende Uebersicht des vom
+Vf. befolgten Ganges zu geben versuchen, -
+Ergänzs, BI. zur 4. L. Z, 1833.
+
+ 
+
+. fsen in subtractiver Verbin
+
+Nach Entwicklung der Regeln für die vier ein-
+fachsten Rechnungsoperationen in den Fällen, wo .
+nur positive Gröfsen zum Vorschein kommen, wird
+(Th. II, S. 10) die Frage aufgeworfen, was es hei-
+
+se, eine Zahl von einer ihr gleichen suhtrahiren?
+
+Die Operation wird als eine ganz nene bezeichnet,
+
+welche mit den Regeln der gewöhnlichen Subtraction
+nichts gemein habe, als das, was allenfalls aus ihrer
+noch anzugebenden Definition folgen möge. Diese
+Definition aber sey willkürlich, und diese Willkür
+werde nur dadurch etwas näher begrenzt, da(s die
+ganze Untersuchung den Zweck habe, die neuen Ar-
+ten der Subtraetion in Einklang zu bringen mit den
+Regeln der gewöhnlichen Subtraction, so wie blofs
+durch die gemeine Arithmetik die bisher aufgestell-
+ten Sätze an die Hand gegeben worden seyen. —
+Zuerst ist nun klar, dafs in den arithmetischen An-
+fangsgründen gelehrt wird, dafs zwei gleiche Grö-
+
+dung sich gegenseitig ver-
+nichten , oder aufhören vorhanden zu seyn, und dafs
+dieser Mangel des Vorhandenseyns von Gröfsen
+durch 0 bezeichnet wird. Die Frage, was 7—7,
+20 —20 oder allgemein a — a bedeuten, ist also schon
+in den Klementen der Arithmetik gelöst; sie verlangt
+keine neue Operation, keine neue Definition, und
+wenn St, S. 12 behauptet, dafs in einigen Fül-
+Jen der Arithmetik, in einem ganz andern Simne,
+O0 in den Rest geschrieben werde, wenn gleiche Zah-
+len im Minuend und Subtrahend stehen, so findet
+Rec. durehaus nicht, in welchem anderen Sinne, und
+warum in einem andern Sinne, — Nachdem: darauf
+aufmerksam gemacht worden ist, . dafs a—a keine
+Zahl (5) seyn könne, weil sonst gegen die Regeln
+der gewöhnlichen Subtraction (a-+5d) —a=a— a,
+und dafs alle Differenzen von der Form a — a einen
+und den nämlichen Werth haben müssen, um mit den
+Regeln übereinzustimmen , denen gewöhnliche Diffe-
+renzen unterworfen sind, wird das Zeichen 0 gowählt
+für jede Differenz von der Form a—a und definirt
+a—a=0, Nach dem Sinne, den man gewöhnlich
+mit dem Zeichen 0 verbindet, würde man die{s 80 in
+Worte übertragen: a weniger a ist nichts > Stein
+übersetzt es: a weniger a ist keine Zahl. Auf dieser
+künstlichen und dennoch zweideutigen Erklärung be-
+ruht die ganze Methode. Da von 0 nichts bekannt
+ist, als dafs es keine Zahl ist und Differenzen von
+der Form a — a repräsentirt, so wird angenommen:
+0+5=—5d, und wiederum angenommen: b-+0=b,
+
+| 2
+
+u, $, W.s
+

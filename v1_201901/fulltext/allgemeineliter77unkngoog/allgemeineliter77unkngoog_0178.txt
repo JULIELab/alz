@@ -1,0 +1,122 @@
+341 Nun. 187.
+
+Der Stoss unelastischer und elastischer Körper
+ist mit besonderer Ausführlichkeit im 6. Cap. be-
+handelt. Alle Fälle für den Sitoss unelastischer
+Materien werden aus der allgemeinen Formel:
+
+X — MC + mc
+M + m
+entwickelt und alle bei dem Stoss elastischer Kör-
+per vorkommenden Fälle aus den Gleichungen:
+Y = (M— m C + 2? me
+M+m
+y= (m —Mc++2MC
+M + m
+auf eine leichte und ausprechende Weise erörtert.
+Die sodann im $. 243 und 249 enthaltenen Gesetze
+sind zwar für den Physiker sehr interessant, hät-
+ten aber in einem Schulbuche ohne Nachtheil aus-
+fallen können. Die in $. 252 enthaltene Percus-
+sionemaschine ist zwar deutlich beschrieben, man
+vermisst aber dabei die nähere Kinrichtung der Ge-
+schwindigkeitsscale.
+
+Das 7. Cup. behandelt die Reibung fast zu
+kurz, und auch im 8. Cap. wo von Cohäsion, Ad-
+häsion u. 8. w. die Rede ist, hätten die Krystall-
+verhältnisse ausführlicher eutwickelt werden sollen,
+da dieser Mangel später in der Opüuk fühlbar seyn
+wird. Dagegen hätte der chemische Theil wohl
+mehr abgekürzt werden können; doch scheint der
+Vf. die Absicht gehabt zu haben, hier alles das
+aus der Chemie zusammenzustellen, was für die
+Physik uothwendig ist , da allerdings dıe Vermischung
+chemischer und physischer Lehren leicht Verwir-
+rungen erzeugt.
+
+Das 9. Cap. bespricht in 5 Abtheilungen die
+iropfbar flüssigen Körper, Die 1. Abtılheiluug be-
+handelt das Gleichgewicht derselben auf eine sehr
+zweckmässige Weise und giebt geuügende Krklä-
+rungen der hierher gehörigen Vorrichtungen und
+Maschinen, wobei aber die in den Gewerben viel-
+fach benutzte Reul’sche Auflösungspresse eıno aus-
+führlichere Beschreibung verdient hätte. Der in $.
+325 enthalteue Ausdruck für den vorticalen Druck
+auf eine schiefe Seitenwand:
+
+1 H?, bp. B ,
+ist sehr zweckmässig und gestattet mannigfache
+Anwendungen.
+
+Die 2. Abtheilung haudelt von der Cohäsion
+und Adhäsion des Zropfbar - flüssigen in einer kla-
+ren und vollständigen Uebersicht dieser Erscheinun-
+gen, und $. 337 giebt darüber sehr belehrende
+Uebungssätze. Nicht minder kurz und deutlich wird
+
+AUGUST 1846.
+
+348
+in der 3. Abtheilung das GHeichgewicht zwischen
+tropfbar - flüssigen und festen Körpern besprochen,
+und die 4. Abtheilung enthält über die Bewegung
+des Wussers an sich mehrere wichtige Formeln für
+den Wasserabfluss aus den Gefässen, welche in
+den meisten physikalischen Schulbüchern fehlen
+und gerade hier zoigen, welche Vortheile eine ma-
+thematische Behandlungsweise der Physik gewährt.
+In der Note S. 122 soll wohl anstatt der Aussprache
+Motschia , Mottscha stehen. Die Construction der
+Wasseruhr ergiebt sich nach $. 366 aus der Pro-
+portion;
+H:h=T:m
+
+und ist nur kurz angedeutet; dagegen sind für die
+Bewegung des Wussers gegen feste Körper und die-
+ser gegen das Wusser mehrere für die Praxis wich-
+tige Formein gegeben, welche man in den meisten
+physik. Lehrbüchern vermisst.
+
+Das 10. Cop. enthält die Iuftförmigen Körper.
+Die Eigenschaften der ausdehnsamen Flüssigkeiten
+und besonders der atmosphärischen Luft sind gut
+entwickeli, und die verschiedenen Erscheinungen
+und Vorrichtungen finden eine deutliche Erklärung.
+Die Dichtigkeit der comprimirten Luft giebt hier
+die Formel:
+
+av w
+D= "TV q
+
+und die Luftverdünnung
+
+— w\“
+D= (Fr) 0
+Der für die Luftpumpe wichtige Senguerd’sche Hahn
+
+hätte durch eine Zeichnung illustrirt werden sollen.
+
+In der 2, Abtheilung vom Drucke der Luft
+hätte das Burometer wohl eine vollständigere Dar-
+stellung verdient, und Rec. würde überhaupt den
+Anfang der Lehre von der Luft mit dem Barome-
+ter gemacht haben. Uebrigens ist das Mariotte’-
+sche Gesetz auf eine sehr zweckmässige elemen-
+tare Weise entwickelt und daraus der wichtige Satz
+abgeleitet, dass die Abnahme der Barometerhöhen
+eine geometrische Reihe bildet, wenn die Zunah-
+men der Ortshöhen als Glieder einer arithmetischen
+Reihe sich zeigen. Die Bestimmung der Ortshöhe
+giebt die sehr einfache Formel:
+
+H — 2,3025. 24479,417. log. N Pariser Fuss,
+
+welches für den Schulgebrauch völlig ausreichend ist.
+
+Die 3. Abtheilung giebt alles Erforderliche über
+Dichtigkeit der Luft und die Steigkraft des Luft-
+balloıus in deutlicher Kürze. Kbonso die 4, Abthei-
+lung über Saug- und Druckwerke uud den Heber.
+

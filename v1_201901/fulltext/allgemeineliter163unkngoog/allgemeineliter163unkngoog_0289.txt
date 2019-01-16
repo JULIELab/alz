@@ -1,0 +1,135 @@
+g, wenu irgend zwei Glieder des Divisors glei-
+’otenzen des Buckstaben,enthalten, auch wel-
+man geordnet habe,‘ Im Dividendüs sey eine
+8 Zusammenziehung nicht gerade nöthig, aber
+ıy sie ein Mittel, die Theilbarkeit sichtbar zu
+en, —" "In $, 38 2eigt. der Vf., dals im ANge-
+m‘ ein Polynom zm + PEDAL ED AT A ie
++sr-+t, getbheilt durch zx— a den Quotienten
+) ap) Da IF
+4 8(4), wo das Gesetz, nach welehem‘ die
+icienten der verschiedenen Glieder gebildet wer-
+leicht erkennbar sey, Der Rest sey wieder
+‚pam + gan? ..c. Aral 86 +1, und
+16 ganz dem gegebenen Polynom, nur dafs dar-
+a er Rey. izt @ sey nun eine
+dusch rsetzt gey. Gesetzt a soy i
+je der Art, dafs, wenn man sie in das Polynam
+substituire, dasselbe auf Null redugirt werde,
+y das Polynom durch z— a theilbar, und man
+» jade Größse.g, welche diese Eigenschaft habe,
+Yurzel des Polynams, . Dann führt der Vf,
+„Das Gesgetz;; nach welchem die Co#lfcienten
+m Quotienten. (4) gebildet werden, ist für jetzt
+lich noch nicht bewiesen, sondern es wird blos
+roßser Wahrscheinlichkeit:oder. darch Iadaction
+ıommen, dafs es für alle Glieder, die man nicht
+ı die Division direet findet, Statt habe, . Da io-
+n der Lehrsatz, dafs jedes nach den Potenzen
+;goordnete Polynom durch z — 6, wenn a eine
+r Wurzeln ist, theilbar sey, von sehr grofjfeer
+tigkeit ist, pe folgt hier noch ein anderer Be-
+‚ in’ welchem keine Induetion vorkommt: Es
+; eine Wurzel des Polynams 7" + pyw-l +
+;2 + ..... > I} IX ts an hat ‚man: die Glei-
+) am + pan-! ++ gan + 0000 + rg? FI +
+‚ daber f = — gr — pan-! — gan-
+80. . bo 440
+jetzt man nun den hier, gefundenen Ausdruck
+„. Statt £ in das gegebene Polynom, so erhält
+gende Gestalt:
+pr gan I IH ET AR— Dan‘
+ı=2__ ya? — sa, oderauch z7— au + pxw-—!
+a1 gen gan =? Az? — nal EN — 80,
+(am — an) + p (gu! — an!) + q (am
++04 Fr(Z?— a?) + s(5— a), Alle hier
+en Parenthesen eingeschlossene Girüfsen sind,
+ifferenzey ‚gleich hoher Potenzen von x und g,
+‚die Differenz ihrer Wurzeln x — a theilbar;
+;h ist auch das gauze Poulyaom theilbar durch
+‚ Divridirt man nun, jeden einzelnen Theil
+‚gw), p(z9@-l— a7), gl — a7?) 8,
+duxgch x-—a und sammelt die Quotienten, so
+‚ man ohne Induction den Quotienten. (.4).”
+geht der Vf, über zu den Brüchen, Kettenbrü-
+Proporfionen, dem Potenziren, der Auszie-
+der Wurzeln; den trigonuometrischen Funetio-
+den Logarithmen und Combinationen, . Dann
+die Analysis, vorzugsweise gut bearbeitet,
+einer Einleitung über die Gleiehungen über-
+‚ werden die Gleichungen vom ersten Grade
+ner„.zwei und mehreren unbekannten Größen
+
+ey 0d
+
+‘yon,
+
+MO
+behandelt, Ser ‚der Lehre von den letzteren theilem
+wir hier glei s Einigesmit, Der Vf, sagt näm-
+lich $. 131? + Vermittelst der Eliminationsmethode
+durch Addition und Subtraction, wie wir sie im vo-
+rigen $ angewendet haben, wird ein System von we
+Gleichungen für m Unbekannte auf ein System von
+m— 1 Gleichungen für m-— XI Unbekannte redueirf.
+Es bietet sich nun die Frage dar, ob es nicht möglich
+wäre, die m Gleichungen mit m solchen Zahlen zu
+multipliciren, dafs durch die nachherige Verbindung
+sämmtlicher Gleichungen durch Addition und Sub- -
+traction zugleich m — I Unbekannte verschwänden,
+so dafs man dadurch eine Gleichung‘ mit einer einzi-
+
+en Unbekannten erhielte, Suchen wir diese Frage
+'än Beziehung auf drei Gleichungen für sr, y, z zu
+beantworten, Die Methode wird sich dann leicht auf
+eine beliebige Anzahl von Gleichyngen anwenden
+lassen, Die drei Gleichungen seyen: ax -} by + cz
+=P3 aAx+ by+Fez=p 3 ax+0Ö'y+ ee =. pp”
+Setzen wir, m und m‘ geyen zwei Zahlen der Art,
+‚dafs, wenn man die erate Gleichung mit m; und die
+zweite mit m‘ multiplicirt, und dann von ihrer Sum-
+me die dritte abzieht, die Coöfficienten- von y und %
+Null werden. Es bleibht.daun für y die Gleichung
+MAX A MA X— A’ = Mn + B‘p—p“, und man hat
+‚zur Bestimmung von m und m‘ die zwei Gileichun-
+gen! ‚
+
+by + m'by-— d'y= 0; mez+m0z— 3 = 035 oden:
+‚00 + mb = bb", mc + me = 0.
+
+Multiplicirt man die erste dieser zwei Gleichun-
+gen mit c‘; die zweite mit 8‘, und zieht die zweite
+‚von der ersten ab, 80 findet man: ;
+mbe' — mc = ch — Yo/z daher m (do — c&’) =
+
+ 
+
+eör— We, und m = SE, Auf eine ähn-
+kehe Weise flhdet man m’ = em. Es
+
+folgt hieraus, dafs man eine Gleichung für x al-
+kein erhält, wenn man die erste Gleichung mit
+e’h4__ bl . ° os bett— ch ._ 02
+az eb? die zweite mit bzw multiplieirt , und
+dann von. ihrer Summe die dritte abzieht. Da die
+Werthe van z und m; gleiche Nenner haben, a9 kann
+‚man auch die erste Gleichung blos mit dem Zähler
+von m’, die dritte hingegen ‚mit dem gemeinschaftli-
+ehoa Neunmer multiplicirev, und dann von der Sum-
+me der zwei ersten die ‚dritte abziehn. Max:hätte
+‚demnach die erste mit c'’6 — bw‘, die zweite mit
+&c/-— ch", und. die drätte. ‚mit de’— ec) zu mulsspliet-
+Z. B., 3r+7y +32 = 10, Ar +3y+53z=1
+2x + Ay +32 = 17, Hier ist 8=7, 61=—.3, V’'=4,
+c=3, c'=3, c’=2, Maltiplieirt man nun .die er-
+ste Gleichung mit c'&”— Ye =3,06—3,2=—= 16, die
+‚zweite mit dc — eb" =7,2-—3.4= 32 und die dritte
+mit dc’ — ec’ = 7,5—3,.3 = 26, so erhält man:
+20x + 98y + 422 = 2063; 45,09 4 10x 223; 188
++4 104y 4 323 == 0442, Zieht man nun die dritte Gleß-
+ehung von. der Summe der zwei ersthn ah, sa ver-
+schwinden zu und z, und man. erhält — 4082 = — 1546,
+und x = 143. Sahstituiren wir. in dia Gleichung
+
+ 
+

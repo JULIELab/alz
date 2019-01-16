@@ -1,0 +1,134 @@
+- u. 8. W«, nicht aus Gründen , die in der Sache selbst‘
+
+liegen, sondern um eine gezwungene Uehereinstim-
+mung mit der Elementararithmetik hervorzubringen,
+welche Uebereinstimmung wahrlich! auf leichterem
+
+Wege zu erhalten war, -
+
+Vielleicht stellen wir nur eine subjective Ansicht
+auf, aber es scheint uns leicht zu seyn, auf solche
+Weise alle die Schwierigkeiten zu überwinden, wel-
+che die Theorie negativer Gröfsen darbietet , wiewohl
+der Vf, (Th. 1, S. IX) versichert, dafs der von ihm
+eingeschlagene Weg, wenn auch ein sehr natür-
+licher (?), doch als neu betretener, ihm manches
+Hindernifs wegzuräumen gegeben habe. Man hat
+nämlich nur eine Definition aufzustellen und so lange
+schon vorher bekannte Wahrheiten als Resultate dar-
+aus herzuleiten, bis man auf solche stöfst, welche
+sich nieht daraus herleiten lassen, wo dann eine neue
+Definition das Mittel zum Weitergehn ist. — Um
+seine Theorie jedoch fester zu begründen , sucht der
+Vf, einen Einwurf zu widerlegen , der ihm gegen
+dieselbe in sofern gemacht worden sey, als er die
+Null als ein blofses Zeichen, und nicht als etwas
+Wirkliches, Anschautiches aufgeführt habe, ‚, Null,
+sey ihm eingewendet worden, ist das Darstellungs-
+
+mittel von Nichts; und wer begreift , was Etwas ist,
+begreift auch was Nichts ist. Null kann also gemäfs
+
+dem Grundbegriffe von Nichts behandelt werden;
+und nur in Folge einer zu künstlichen Systematik
+bringt man NuH als blofses Zeichen in Rechnung,
+und stellt demnächst willkürliche Definitionen von
+den Rechmungen mit Null auf.” — Diesen ganz
+natürlichen Kinwurf sucht St. zu entkräften, indem
+er darauf aufmerksam macht, dafs der Grund-
+begriff von Nichts nicht hinreichen könne, um die mit
+Null vorzunehmenden Operationen ohne specielle
+Krklä n zu verstehen, Die für einzelne Fälle
+richtige Bemerkung thut hier darum nichts zur Sa-
+che, weil sie von allen arithmetischen Operationen
+überhaupt gilt. Wer da begreift, was ein Ganzes
+ist, begreift, was ein Theil ist. Der Begrift Theil
+aber ist der Grundbegriff für die Rechnung mit Brü-
+chen. Welche Theorie der Brüche nun 1äfst sich auf-
+‚stellen, wo nicht specielle Erklärungen für die Ge-
+setze der Addition, Subtraction und aller elementa-
+ren Rechmungen mit diesen Größen nöthig wären?
+Und könnte darum mit Recht behauptet werden, dafs
+noch keine gründliche Theorie der Brüche vorhanden
+ist? dafs gewisse Definitionen eingeführt werden
+müssen, um jenen Grundbegriff Theil entbehren zu
+können, der ja doch nicht specieller Erklärungen ei-
+ner jeden Rechnungsart mit Brüchen überhe
+Das Gesagte enthält die Beantwortung dessen in
+sich, was der Vf. noch zu dem Obigen fügt, indem
+‚er an die alte Erfahrung aus der Schule erinnert,
+
+den Anfänger a.0=a, md5 = a setzen zu sehen,
+Es zeige diefs, meint .St,, sehr deutlich, dafs
+die Art der Operationen mit @ nicht sowehl eine
+
+ERGÄNZUNGSBLÄTTER ZUR A,KR., Z,
+
+3864
+
+Folge des Grundbegriffs von Nichts ist, als vielmehr
+jener Systematik, welche es sich zum Endzwecke
+mache, allgemeine Regeln zu erhalten. Wir mei-
+nen, dafs der Anfänger darum jene Schlüsse macht,
+
+weil er in dem Augenhlieke, wo er sie noch machs,
+die Bedeutung des Nichts sich nicht deutlich vorstelft,
+weil er das Nichts mit dem Nicht verwechselt, So
+
+ühersetzt er sich den Ausdruck 5 durch: a ist durch
+
+keine Größe überhaupt ( oder nicht) zu dividiren, an-
+statt: ’a ist zu dividiren durch eine Größe, die noch
+kleiner als die kleinste welche sich nur denken läfst
+(durch Nichts,.). Um der Analogie treu zu bleiben,
+so ist dieser Fall Qenem nur bei Weitem leichteren
+ähnlich, wo der Aufänger, welcher daran gewöhnt
+ist, aus Multiplicationen gröfsere Zahlen als die ge-
+ebenen Factoren entstehen zu sehen, sobald er mi
+Brüchen rechnen lernt, nicht gleich einsieht, wie
+eine Multiplication auch ein kleineres Product gehen
+könne als der Multiplicandus ist,
+
+Die vom Vf. vorgetragene und so eben kurz be-
+urtheilte Theorie der negativen Gröfsen liefert eineg
+zeuen Beweis, wie wenig überhaupt noch für diesen
+elementaren Gegenstand gethan worden ist, Rec,
+glaubt nicht Zu viel zu sagen , wenn er den Satz auf-
+steilt, dafs noch keine strengmethodische Darstellu
+desselben existirt. Fast alle sind nicht ersehöpfen
+und alle verfahren viel zu indireet: nur derjenige,
+welcher mit der Sache schon völlig vertraut ist,
+durehschaut den Zweck dieses oder jenes so oder se
+bewiesenen Satzes, Auerkennung verdient also je-
+der Versuch, hierin Besseres zu leisten; und diese
+zollt Rec. auch dem Vf,, wenn schon er mit demsel- _
+
+ben nicht einverstanden seyn kann in Beziehung auf
+diu Art der Darstellung selbst, — '
+Rücksichtlich der übrigen vorgetragenen Gegen-
+
+stände ist St. bisweilen eben so eigenthümlic!
+aber zugleich immer glücklicher gewesen. Die Werke
+der neueren französisehen Mathematiker, namentlich
+den cours d’analyse algEbrique von Cauchy und den
+traite€ d’alg&bre Elementaire von Noel, ‘so wie des
+letzteren melanges d’alg&bre, führt er als hauptsäch-
+lich benutzte an, Rec. kann nicht beurtheilen, wie
+weit der Einflufs der eitirten \Verke sich auf die vor-
+Kegende Behandlung der Analysis erstreckt, da ihm
+keines. derselben zur Hand ist. Indessen zeigt
+St. überall so viel Selbstständigkeit und Conse-
+
+enz in der Methode (worauf es bei einem Lehr-
+buche gerade ankommt), dafs in dieser Hinsicht wohl
+nur an eine sehr eingeschränkte Benutzung des ge-
+rade anderen Schriftstellern Eigenthümlichen zu den-
+ken ist. — Wir geben hier eine kurze Uebersicht
+des Inhaltes, ; 7 N
+
+Nachdem im ersten Theile die Lehre von den ent-
+gegengesetzten Grüfsen und die Buchstabenrechnung
+vorgetragen sind (S. 1— 60), folgen die Gleichangen
+des ersten Grades (is S, 140). Die Anwendungen
+derselben auf eins Menge Aufgaben (8. 101 bis Ende)
+

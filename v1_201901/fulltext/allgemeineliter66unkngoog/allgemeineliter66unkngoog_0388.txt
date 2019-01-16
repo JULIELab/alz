@@ -1,0 +1,145 @@
+708 2
+
+dritte u, s. w.”—. Wer sagt nun aber, 'dafs wenn
+man in Ay — FF. 4x? + GG. 183 + Hıdat Fi...
+Ax und Ay, eder 4x? und Ay (denn eine Null wir
+
+doch wohl so viel werth seyn, wie die andere?)
+= 0 setzt, daraus dx? und d’y (welches nun offenhar
+
+‚ gerschiedene Derivationen der Null sind) werde? Wer
+
+bürgt dafür, dafs F—B, also die Operation, wodurch
+ınan das zweite Differenzial aus dem ersten findet, die-
+selbe sey, wodurch sich das erste aus der gegebenen
+Funetion gestaltet? — - Von den corrigirenden Per-
+mutationszahlen der Potenzen des Inkrements ist
+beim Vf, gar nicht die Rede; wahrscheinlich, weil
+er sie dem gleichlautenden Gesetze bei der Ehtwicke-
+lung analytischer Reihen überläfst, wie dieses auch
+namentlic aus dem $, 64, angeführten Beispiele er-
+
+t.
+
+Wenden wir uns nun mit dem Vf, zur geometri-
+schen Begriffsbestimmung des Differenzials, Hier
+mag es, zur Vergleichung seiner Ansicht mit dem
+bis hieher verfolgten, jedoch durch den Vf. nur ein-
+geitig wiedergegebenen Derivations- Calcül, als be-
+kannt angenommen werden, dafs ange den Ueber-
+
+gang von den Discreten zu den continnirlichen Grö-
+
+sen auf zwei analytische Wahrheiten stützt: dafs
+nämlich 2) jedes Glied einer nach den successiven
+Potenzen des Inkrements steigende Reihe, durch An-
+nahme eines’ beliebig kleinen Ar, gröfser als die
+Summe aller folgenden werden könne, und 2).dals
+
+- der Rest einer irgendwo abgebrochenen Inkremen-
+
+tenreihe eine ähnliche Function von den nächsten
+Grenzen sey, für welche die abhängig yeränderliche
+
+° Gröfse odereine ihrer Derivationen die Zeichen wech-
+
+selt. — Genau erwogen, spricht sich hieg offenbar
+der Begriff des Unendlichkleinen, als der Moment
+des VUeberganges einer Form in die nächst einfachere
+oder einfachste der Art aus (je nachdem man weni-
+r oder mehr Differenzial-Coefficienten herverhebt),
+indem nur unter dieser Bedingung von einer für alle
+Fälle passenden Kleinheit und von wirklich nächsten
+Grenzen geredet werden kann, d.h. der bis dahin
+formell gebliebene Begriff seine geometrische Real -
+Bedeutung findet, _ a
+Dagegen ist der Vf, durchaus nicht auf die Be-
+gründung eines wissenschaftlichen Ueberganges zwi-
+schen arıthmetischen und geometrischen Betrachtun-
+gen bedacht, ’sondern leitet $. 23, aus der Gleichung
+
+BE=—y. X, worin BE das Stück der verlängerten
+
+Abscissen - Linie zwischen dem Fufspunkte der Ordi-
+aate und dem Durchschnittspunkie einer beliebigen
+
+Secante, ohne Weiteres ab: Subtangenrte =y 5
+
+‚ Hierbei ist nun weder klar, wie man zum Resultate
+
+gelangt, noch warum = oder 9 die vorhin ausgespro-
+chene arithmetische Bedeutung , als erster Coefficient
+der für Ay entwickelten Inkrementen- Reihe, be-
+sitze; denn wenn Ar wirklich — 0 gesetzt wird, so
+
+äst man eben dahin gelangt, von wo man ausging,
+
+Num., 9%, OCTOBER 1833,
+
+SH = a a
+
+206
+
+. . . © 4
+und es ist gar kein Grund vorhanden, der durch Tr
+
+bezeichneten frigonometrischen Function irgend eine
+Beziehung zur Fanetion der Curve zuzuschreiben,
+Dieses Iängst anerkannte Gezwungene und Uu-
+genügende der Nullen- Rechnung wiederholt sich
+6. 67, recht anschaulich bei der Bestimmung der
+gröfsten und kleinsten Werthe der Functienen, .
+(Alles Zwischenliegende , hier Uebergangene be-
+trifft elementare Gegenstände der Aualysis, die,
+man mag auch immer von welcher Ansicht ausge-
+hen, von selbst folgen, sobald die Hanptregel ein-
+mal feststeht, wie dieses die Verwandtschaft unter
+den Functionen ‚nothwendig macht.) Bekanntlich
+liegt jenen Begriffen ein Cyklos entstehender Gröfsen
+zum Grunde, der nur als Continuum vollständig auf-
+‚efafst werden kannz daher denn selbst‘ Lagrange
+Bei seinen rein analytischen Betrachtungen hier zu-
+nächst von der Vorstellung einer Curve ausgeht, und
+später, mittelst der vorhin genannten Criterien, in-
+direeterweise, d. h. blofs formell, das Unendlich-
+kleine mit seiner Annäherungsgrenze, d.h. den Ueber-
+ang von Form zu Form, in Rechnung bringt. —
+Der Vf, hingegen lälst für den Fall eines Gröfsten
+oder Kleinsten, den ersten Differenzial - Coeffcien-
+
+ten A = 20 seyn: „Denn es wird 4 notb-
+wendig positiv bleiben, so. lange y für die gröfsern
+
+Werthe von x zunimmt, aber alsdann negativ wer-
+den, wenn beim gröfsern Wachsthume von x der
+Werth von y anfängt abzunehmen. In demselben
+Momente aber, wo der Werth von A aus dem posi-
+tiven Zustande in den negativen übergeht, muls A
+
+nothwendig = X = = 0 werden.” Nun ist aber
+A nach dem Vf, eben der Werth des veränderlichen
+Zustandes der Function für das vollkommene Ver-
+schwinden oder Nullwerden der Inkremente , und es
+ist also gar nicht einzusehen, wie von einem positiv
+oder negativ Werden des A, bei einem noch nicht
+bis dahin gelangten, oder vielmehr gar nicht Statt
+findenden Inkremente die Rede seyn kann, Aufser-
+dem leuchtet es hier keinesweges ein, wie der Werth
+des ersten Coefficienten in der Inkrementen - Reihe
+über das Zeichen derselben allein zu entscheiden
+vermag, mindestens bis dahin nicht, wo nachgewie-
+sen worden, dafs unter Bedingungen (nämlich der
+unendlich nahen Annäherufng) das erste Glied mehr
+als die Summe aller folgenden betrage, Diese Ver-
+säumnifs hat denn auch der Vf. in $. 68, bei Erwä-
+ung des zweiten Coefficienten zur Entscheidung der
+rage, ob es ein Maxinrum oder Minimum sey, nach-
+holen missen — wiewohl auch hier von keinem of-
+dentlichen Beweise jener Eigenschaft die Rede’ ist.
+Jedenfalls liegt aber in der Aufführung einer voll-
+ständigen Ihkrementen - Reihe bei der durch den Vf,
+bewirkten Feststellung des Begriffs vom Differenzial
+ein unüberwindlicher Widerspruch, weil überhaupt
+bei ihm keine Inkrementirung Statt findet, und wenn
+sie
+

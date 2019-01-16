@@ -1,0 +1,139 @@
+‚09
+
+geringste Verdienst dieser Arbeit, Der Vf. erklärt
+sich ım Allgemeinen darüber «0: ;,der Üebergang”
+von der einen Vorstellungsweise zu der anderen ist
+‘ ein discontinuirlicher, In der zweiten entgehen uns
+
+g, B, die eonjugipten Puucte der Curven; die Polare
+einer solchen Curve hat eine zugeordnete isolirte ge-
+rade Linie, deren Spur wir ganz verlieren, wenn
+wir uns, um die Curve darzustellen, gewöhnlicher
+Coordinaten bedienen, Der Begriff der Tangonte ist
+in den beiden Vorstellungsweisen ein, dem Wesen
+nach, ganz verschiedener, Hiermit steht eine Schwie-
+yigkeit in Betreff der Reduetion, welche die Ordnung
+der Polar - Curve in gewissen Fällen erleidet, in Ver-
+bindnng : eine Schwierigkeit, an der hisher alle Er-
+klärungsversuche gescheitert sind. Ach gebe diese
+Beklärung vollständig ,. und glaube in demselben die
+volle Bestätigung zu finden, dafs dio Theorie der
+singulären Punete, die man als fertig anzusehen ge-
+neigt ist, aus einem neuen Gesichtspunete behandelt
+werden mufßfs, Ich gebe unter andern das unmittel-
+bare analytische Criterium zur Unterscheidung der
+drei Hauptarten von Doppelpaneten in dem Zeichen
+des Ausdrucks: (rt—a?), wobei r, s# und $, der ge-
+wöhnlichen Bezeichnung gemäfs, die drei zweiten
+
+stiellen Differential - Coefficienten der Funretien be-
+Bouten die, gleich Null gesetzt, die bezügliche
+
+Curve darstellt.” Ganz besonderes Gewicht legt end. -
+
+lieh der VE, daranf, dafs man in seiner Schrift neue
+und fast.die ersten Untersuchungen über Wendangs-
+akte finde , deren Betrachtung ihm zu den suhtil-
+en, welchp die Geometeie bietet, zu gehören sehei-
+une. Kr giebt ihre allgemeine Construction, und be.
+stimmt. ihre Anzahl Bei algebraischen Curven, Er
+sagt darüber Folgendes: ‚die Curven der dritten
+. Orduung haben im Allgemeinen neun Wendupgs-
+uakte, und unter diesen immer drei reekle und sechs.
+imaginäre. Die Discussion hierüber knüpft sich an
+‚ Gleichungen , deren Grad zu hoch ansteigt, als dafs
+wir auf dem Wege der blofsen Elimination zu, einem.
+Resultate kommen könnten 3 die unmittelhare An-
+schauung mufs wenigstens einen neuen, noch verwe-
+enern Fiug nehmen, als bisher, um das zu ergrei-
+a, was in allen Fällen imaginär ist ımd imaginär
+hleibt. Unsere Methode führt hier leicht zum Ziele;
+ja unmitteibar sogar erkennen wir in der Form: pgr-
++us1—0, die Nothwendigkeit der. obigen Behaup-
+tung, dafs eine Curve dritter Opdnung neus Wen-
+dungspunkte hat, und von diesen immer sechs ima-
+ginär sind, Die Existenz imaginärer Wendungs-
+punkte habe ich zuerst aus dem Umetande erschlos-
+sen, dals eine Curve der dritten Ordnung mit einem
+conjagirten Punkte ihre drei reellen Wendungspunkte-
+beibe Alt, während, wenn zwei reelle Zweige einer
+solchen Curve sich schneiden, nur noch ein einziger
+
+reeiler Wendu nkt übrig bleibt, Ich habe hier.
+nach gezeigt, dafs ein Doppelpunkt im Allgemeinen
+
+seche, und insbesondere. ein Rückkehrpunkt acht‘
+Wendungspunkte in sich aufnimmt.” ir geben
+nun eine kurze Uebersicht des Inhaltes. Erster Ab-
+schnitt: über allgemeine Coordinaten - Bestimmung,
+
+ERGÄNZUNGSBLÄTTER ZUR A.L. zZ.
+
+1) Punkt -Coordinaten, Bestimmung aller möglichen
+Systeme hinvarer Punkt: Coprdinaten. 2) Coordina-
+ten gerader Linien, Bestimmung aller möglichen Sy-
+gteme linearer Linien-Coordinaten. 3) Allgemeine
+Betrachtungen über Coerdizaten-Bestimmung. Thes-
+
+'rieder Transversalen, Verwandtschaft geometrischer -
+
+Constructionen Uebertragungsprincipe. Collineation.
+Reciprocität, Zweiter Abschnitt: die Curven zweiter
+Ordnung und zweiter Classe. 1) Discussion der all-
+gemefnen Gleichung des zweiten Grades zwischen zwei
+veränderlichen Gröfsen, Qi heorie der Curven zwei-
+ter Ordnung und zweiter Classe. Dritter Abschnitt:
+die Curven dritter Ordnung. 1) Discussion der allge-
+meinen Gleichung des dritten Grades zwischen zwei
+veründerlichen Gröfsen, 2) Geometrische Bedeutung
+der verschiedenen Fälle der allgemeinen Gleichung.
+Asymptoten, Mafs der Annäherung an dieselben.
+Osculirende Asymptoten. Hyperbolische und para-
+bolische Asymptoten, Allgemeine Kintheilung der
+Curven dritter Ordnung in Arten, 3) Allgemeine geo-
+metrische Construction der Curven dritter Ordnung,
+4) Mittelpunkte, Doppelpunkte: Durchschnittspuak-
+te zweier reellen Zweige der Curve, conjnugirte Punk-
+te, Rückkehrpunkte. Durchmesser, 35) Aufzählung
+der verschiedenen Arten der Curver dritter Ordnung,
+6) Nähere Untersuchungen über Doppelpunkte und
+endusmgspunkte. 7) Discussion der allgemeinen
+Gleichung der Curven dritter Ordnung unter der
+Form: +48? =0, 8) Discussion der allgemei-
+nen Gleichung der Curven dritter Ordnung unter der
+
+Form: par xe3 = 0. Wir geben num noch, zu-
+leich als Probe der Darstellungsweise des Vfs., eine
+
+urze und allgemeine Uebersicht der verschiedenen
+Curvengattungen dritter Ordnung, freilich ohne die
+einzelnen, an-Zahl 219, aufzählen zu können, Nach-
+dem nämlıch der Vf. schon frither den Satz gegeben
+hat, dafs eine Curve dritter Ordnung von ihren drei
+Asymptoten in solchen drei Punkten geschnitten
+werüe, die in gerader Linie liegen, welche gerade
+
+: Linie er $ nennt, sagt er nun so: „I. Erster und all-
+
+gemeiner Fall. Es lassen sich die hierher gehöri
+Curven dritter Ordnung darch die allgemeine G{ei-
+chung pgr + us = 0 darstellen, sie haben drei grad-
+linige Asymptoten P, Q und KR, und werden von die-
+sen in selchen drei Punkten geschnitten, welche auf
+der Linie S liegen, Nach der vorstehenden Gleichung
+werden die Curven dritter Ordnung durch die gegen-
+seitige Lage von vier geraden Linien (den drei
+Asympteten und der Linie S) und durch die constan-
+ten Coefficienten u vollkommen bestimmt. Wir be-
+gegnen zwei Haupt - Abtheilungen: entweder sind
+ie Asympteten alle drei reel, oder zwei derselbe
+sind imagınär. I, Curven mit drei reellen geradlini-
+gen‘ Asympteten, von welchen nicht zwei parallel
+sindi Den weiteren Eintheilungsgrund für diese Cur-
+ven wollen wir aus ihrer Bestimmung durch vier ge-
+rade Linien und einen constanten Coeffeienten her-
+nehmen, und zwar so, dafs wir nach der gegenseitigen
+Lage jener vier geraden Linien verschiedene Gruppeu
+von Curven dritter Ordnung bestimmen, und dann,
+' in
+

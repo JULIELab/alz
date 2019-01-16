@@ -1,0 +1,120 @@
+447
+
+sonderen Form, auch eine besondere Bebandlung er-
+' fordere; sodann dadurch, dafs diese Methode, wie-
+wohl sie die Wurzeln so genau wie möglich zu erfor-
+schen beabsichtige, doch niemals gewifs sey, diesel-
+ben vollkommen genau zu finden, und sich mit Wur-
+zeln begnügen müsse, die sich dem wahren Werthe
+derselben nur annähern, folglich der Forderung der
+reinen Wissenschaft nicht entsprechen; und endlich
+
+dadurch, .dafs zwar die Mittel, welcher sich diese-
+
+Methode zur Erreichung ihres Zweckes bediene, an
+sich der reinen Wissenschaft angehören, dafs sie je-
+doch in Beziehung auf die Gleichungen, mit diesen
+
+röfstentheils nicht verwandt, sondern meistens von
+fremdartiger Natur seyen, und als Nothmittel ange-
+sehen werden müssen, um die Anwendbarkeit der
+Gleichungen, sofern man mit ihrer algebraischen
+Auflösung nicht zu Stande komme, zu sichern, Weil
+jedoch das Resultat der algebraischen Auflösung der
+Gleichungen des dritten und vierten Grades nur eine
+geringe Anwendbarkeit dargeboten habe, und sich
+der Auflösung der höheren Grade, von dem fünften an,
+unübersteigliche Schwierigkeiten entgegen gestellt
+hätten, so seyen die Mathematiker veranlafst worden,
+diese Bahn zu verlassen, und sich jener zweiten Me-
+thode zu bedienen, Obwohl nun zwar der Vf. aller=
+dings anerkenne, dafs auf diese Weise für die ma-
+thematischen Wissenschaften, und besonders für ihre
+Anwendung viel geschehen sey, so bezwecke er jedoch
+‚in diesem Werke den ersten Weg wieder einzuschla-
+gen. Er beabsichtige also, eine Theorie zur allge-
+meinen Auflösung der algebraischen Gleichungen auf-
+zustellen, d. h, die Grundsätze anzugeben, mittelst
+welcher diese Auflösung ohne fremdartige Mittel zu
+Hülfe zu nehmen, auf eine allgemeine Weise durch
+die Algebra selbst bewerkstelligt werden könne, Das
+Buch zerfällt in drei Hauptabschnitte, Im ersten
+
+iebt der Vf, die Erklärungen und Vorbegriffe über
+‚die Benennung und Eintheilung, Construirung und
+Auflösung der Gleichungen, Schon hier hat der Vf,
+mauches Kigenthümliche, z. B. die Ansicht über die
+imaginären Gröfsen, Dahin will er auch gerechnet
+wissen die neue Aufstellung eines Totalausdrucks,
+der alle Wurzeln einer Gleichung zusammenfasse,
+und woraus diese einzeln abgeleitet werden können,
+Dieser Totalausdruck ist nämlich allgemein für die
+
+Was je-
+
+doch damit für die Wissenschaft gewonnen sey, kön-
+nen wir nicht einschen, Ferner den Satz, dafs jedes
+einzelne Glied -einer zusammengesetzten Gleichung
+
+. Gleichung des m'e Grades: x = M | nm,
+
+ 
+
+ERGÄNZUNGSBLÄTTER' Nam. 3%. JUNIUS 1836.
+
+as
+
+auf der höchsten Potenz derselben stehen müsse, was
+undeutlich ausgedrückt istz sodann die: Nermalgiei-
+chung, mittelst welcher die Auflösung: hewerkstel-
+ligt werde; endlich die Bildung derselben durch reine
+Gleichungen der ersten Potenz; wodurch dann die
+ganze Autflösungslehre auf die einfachste, aber sicher-
+ste Grundlage gebauet werde... Im zweiten Abschnitte
+untersucht der Vf. zuerst die bisher üblichen und be-
+kannteh Methoden, die Gleichungen -des zweiten,
+dritten und vierten Grädes aufzulösen, und sucht zu
+
+.beweisen , dafs sie, ganz ohne Zusammenhang unter
+
+einander , keineswegs wissensehaftlich Begründet
+seyen, Namentlich sücht er zu zeigen , ‚dafs bei dem
+zweiten Grade eigentlich nur Eine Wurzel der Qua-
+dratgleichung gefunden, und die andere willkürlich
+angenommen werde; dafs der Wechsel von +- und —
+vor der Quadratwurzel nicht unbedingt angewendet
+werden dürfe, Der Beweis des Vf’s, ist folgender:
+„e8 sey a -+ d =c; werden beide Theile dieser
+Gleichung aufs Quadrat erhoben, ‘so ‚ist; a?
+
+2 ab +8’ = c'3 wird dann wieder aus beiden Theilen
+der Gleichung die Quadratwurzel ausgezogen, 80
+kommt nach der bisherigen Lehre: a+db=+y€&,
+woraus dann wird: a +b=+cunda+8&d = -—&
+Vergleicht man beide Gleichungen, so erhalten wir
++Cc=—e, oder + 1= —1, welohes doch nicht seyn
+kann.” MDals aber hier der Widerspruch nur ein
+scheinharer ist, bedarf wohl kaum einer Erläuterung,
+Für den Werth a + & — — c versteht es sich vom
+selbst, dafs a und d beide als negative Gröfsen zu
+betrachten sind, Mufls denn die Quadratwurzel aus
+(a? +2 ab + b?) durchaus a + & seyn, und giebt nicht
+(—a—b)! auch a? + 2464-5? Kanm ist zu glaur
+ben, dafs der Vf, daran nicht gedacht haben sollte.
+Auf eine ähnliche Art sucht der Vf, nachzuweisen,
+dafs bei dem dritten Grade weder der Ursprung, noch
+das Resultat der Auflösung bisher richtig erkannt
+worden sey 3; dafs die sogenannte Cardanische Formel
+nicht einen einzigen Werth darstelle, sondern alle
+drei Werthe in sich begreife; dafs es keinen irredu-
+ciblen Fall geben könne u, s. w. Der Mangel an
+Raum gestattet uns nicht, auch hier Kiuzelnes mit-
+zutheilen. Der dritte Abschnitt enthält die Grund-
+sätze, worauf die Theorie zur allgemeinen Auflö-
+sung der Gleichungen ven dem Vf, gestützt wird,
+Im Allgemeinen fällen wir über das Buch das Ur-
+theil, dafs es nicht ohne Interesse für den Algebrai-
+ker seyn wird; wenn gleich der Vf. schwerlich über-
+all mit seinen Behauptungen und Beweisen Beifall
+finden dürfte, Papier und Druck sind sehr gut,
+

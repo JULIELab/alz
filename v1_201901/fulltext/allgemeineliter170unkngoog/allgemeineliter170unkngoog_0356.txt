@@ -1,0 +1,133 @@
+_— 88 —
+
+ERGÄNZUNGSBLÄTTER
+
+ZUR
+
+ALLGEMEINEN LITERATUR-ZEITUNG
+
+a DE — EEE
+
+ GEOMETRIE.
+
+BeaeriLıy, bh. Duncker u, Humblot: System der ana-
+Iytischen Geometrie, auf neue Betrachtungswei-
+
+ründet, und insbesondere eine ausführ-.
+
+gen 508
+liche Theorie der Curven dritter Ordnung ent-
+
+haltend. Von Dr. Jul. Plücker, ord, Prof, der‘
+
+Math. an der vereinigten Friedrichs - Universi-
+tät zu Halle „set in Bonn). Mit 6 Kupferta-
+feln, XVJIu,29258$, 1834, gr. 4. (3 Rthlr, 12 gGr.)
+
+D.: Vf. ist als geistvoller und dabei gründlicher
+Schriftsteller im mathematischen Fache schon zu be-
+kannt, als dafs man etwas Mittelmälsiges von ihm
+- erwarten könnte. Auch diese Arbeit, ohne Zwei-
+fel die bedeutendste unter den bisher. von ihm gelie-
+ferten, ist ein Gewinn für die Wissenschaft, Ueber
+die Entstehung derselben und ihre eigentliche Ten-
+denz erklärt sich der Vf, selbst ausführlich, und wir
+werden, soviel wie möglich mit seinen eigenen Wor-
+ten, die Hauptsache davon unseren Lesern mitthei-
+len. Der von Poncelet in Crelle’s Journal gegebene
+Satz; dafs eine Curve dritter Ordnung ihre Asym-
+
+toten in solchen drei Punkten schneide, die in gera-
+der Linie liegen, fiel dem Vf. gleich anlangs auf,
+als er vor einigen Jahren seine Aufmerksamkeit auf
+die Curven höherer Ordnung richtete. Er erkannte
+sogleich, dafs derselbe, in die Sprache der Analysis
+übertragen, nichts anders heifse , als dafs es im All-
+gemeinen möglich sey, eine Curve der dritten Ord-
+nung durch eine Gleichung von der Form + 8
+=—0, darzustellen, Leicht erblickte er den Nerv
+dieser Möglichkeit in der Anzahl der neun Constan-
+ten, welche auch diese Form implicite enthält; leicht
+liefsen sich hiernach neue Formen bilden und die
+neuen Formen geometrisch deuten. Aus dieser Be-
+merkung entfaltete sich die hier vorliegende neue
+„Gestaltung der analytischen Geometrie, deren Ki-
+
+enthümlichkeit und Stärke der Vf. in den vollstän-
+digsten Parallelismus zwischen geometrischen und
+analytischen Formen, oder bestimmter in den Um-
+stand setzt, dafs man durch das Zusammenrücken
+von Construction und analytischer Darstellung, da-
+hin gelange, über die grofsartigen Betrachtungs-
+weisen der Analysis gebieten zu können, ohne irgend
+einen der unersetzlichen Vortheile aufzugeben, wel-
+
+ehe die unmittelbare Anschauung gewähre. Schon.
+
+früher, sagt der Vf., habe er mit einer Art von Vor-
+liebe eine
+Argäns, BI. sur 4, L. Z. 1836.
+
+ 
+
+’ September 1836.
+
+„stimmt,
+
+ten und ein beliebiger
+
+heorie entwickelt, nach welcher man-
+
+> >
+
+alle Sätze der linearen Geometrie vermittelst Sym-
+bole, welche lineare Fuuctionen bedeuten, und un-
+bestimmter CoeffGcienten, beweisen könne, Jetzt
+lasse er in den Gleichungen der Curven solche Fun-
+etionen in Evidenz treten.‘ ‚Den linearen Fuactio-
+nen entsprechen solche gerade Linien , welche zu der
+Curve in einer vollkommen bestimmten, und nur mit
+der Form der Gleichung wechselnden, Beziehung
+stehen, Eine Curve dritter Ordnung ist durch vier
+solche gerade Linien und einen unbestimmten Co#ffßi-
+eienten, der auch durch die Annahme eines Punctes
+der Curve vollkommen ersetzt werden kann, be-
+Zunächst knüpfen sich an jede solche
+Bestimmung einfache Constructionen der Curven,
+und dann fliefst aus der gegenseitigen Lage der
+vier geraden Linien einerseits, und der Annahme
+des Punktes andrerseits, für solche Curven ein natür-
+liches Eintheilungs - Princip. Wenn wir z, B, bei
+der oben erwähnten Form stehen bleiben, so sind
+drei der fraglichen Linien die drei Asymptoten, und
+die vierte ist diejenige, welche durch die drei Durch-
+schnittspunete der Curve mit den Asymptoten geht,
+Ist aufserdem noch irgend ein Punct der Curve gege-
+ben, 80 stellt sich sogleich eine Construction heraus,
+nach welcher beliebig viele Punkte derselben sich
+anz auf dieselbe einfache Weise ergeben, wie die
+uncte einer Hyperbel, wenn die beiden Asympto-
+Punet ‚gegeben sind, i die-
+ser Construction tritt der Fall, dafs die Curve einen
+Doppelpunet hat, auf ausgezeichnete Weise hervor, -
+und weiterhin ergiebt sich, da(s die- Erüfete dem
+Asymptoten- Dreiecke eingeschriebene Ellipse der
+geometrische Ort für Rückkehrpunote ist, und dafs
+isolirte Punkte innerhalb, Durchschnittspunete zweier
+reellen Zweige aufserhalb dieser Ellipse liegen. Hier-
+mit ist eine Eintheilung der Curven dritter Ordnung
+in 219 Arten gegeben: eine Eintheilung, die ohne
+die Kenntnifs jener Lage des Rückkehrpuncetes und
+der dadurch bestimmten Lage der vierten gegebenen
+geraden Linie, gegen die drei Asymptoten , keinen
+Grund und Boden hat,” Der Vf, macht sodann dar-
+auf aufmerksam, dafs man in seinem Werke auch die
+Grundzüge einer neuen Theorie der singulären Punete
+finde, die darauf, dafs man eine Curve, einmal als:
+von einem Puncete beschrieben, das andere Mal als
+von einer geraden Linie umhüllt, sich vorstellen
+kann, als einer Fundamental- Unterscheidung beruhe.
+Es ist diels ein eben so wichtiger, als schwieriger
+Punet, yand die Behandlung desselben ist nicht 8.
+( ge-
+

@@ -1,0 +1,157 @@
+. Wurzeln die Coöfficienten der folgenden Gleichung
+
+I
+
+267
+
+rithmischen Tafeln, welches meistens der Fall ist, so -
+achen sich-die riehtigen Abkürzungen von selbst, und
+
+er Rang der Coöffcienten wird durch die Kennzif-
+
+_, fern der Logarithmen angegeben, In dem Verlaufe
+
+dieser Rechnung, werden die nachfolgenden Quadri-
+rungen der Wurzeln immer leichter, weil sich bei
+der obigen Annahme über die Beschaffenheit der
+
+immer mehr den
+
+Quadraten der: Coöfficienten der
+nächst verhergehen
+
+en Gleichung näheren, und wach-
+
+sen sie endlich nur quadratisch, welcher Fall noth-
+
+wendig eintreten muls, 80 hat die Gröfse auf der lin-
+ken Seite des Gleichheitszeichens die Form wie Nr.
+S erlangt, Zieht man alsdann aus jedem Coefficien-
+ten die rte Wurzel, und dividirt jeden nachfolgenden
+durch den nächstvorhergehenden, so erhält man die
+absoluten Zahlenwerthe der Wurzeln der vorgeleg-
+ten Gleichung. Man nimmt natürlich bei diesen
+Wurzelausziehungen nur die reellen Wurzeln, und
+
+: bestimmt die Zeichen derselben durch einfache Sub-
+
+stitution der nächsten Grenzwerthe, — So erhält
+man z, B. aus der folgenden Gleichung eine Reihe
+anderer Gleichungen, in der die Wurzeln zur 2ten,
+Aten, 8ten u. 8. w. Potenz erhoben sind:
+
+ste Potenz: x* — 14.73 + 59x23— 94x74 48—0. >
+2te xz%— 7873 + 94372 — 31725 + 2304 —0.
+
+Macht man jetzt Gebrauch von den Logarithmen
+und schreibt man anstatt’ der Coöffieienten deren brig-
+
+- gische Logarithmen, so erhält man:
+
+4te Potenz; x* — 3,6226284 x3 + 5,6050906 x?
+
+— 6,7564097 x + 6,7249650
+
+Ste — xt-—7,2248964 x3 + 11,0583835 x?
+; — 13,4516890 x + 13,4499300
+16te — xz*- —14,4494399 x3 + 22,0840414 x?
+— 26,8998664 x + 26,8998600
+32te — x 28,8988797 x3 -{- 414,1667624 x?
+
+:. — 53,7997195 x + 53,7997200
+
+Jetzt wachsen bei folgenden Quadrirungen alle Coöf-
+ficienten quadratisch, und man hat daher:
+
+28,8988797-
+
+ 
+
+108, 0, = —— = 0,9030900 = log. 8
+10g. 0a = Ah VBSEO —0,4771213 = 1,3
+' log. ag = 7007105 — 44100702 _ g 3910209=1,2
+
+33,7997200 — 33,7997 193 = 0,0000000 == 1.1
+. Man überzeugt sich alsdann sehr leicht, dafs
+die Wurzeln sämmtlich positir, und dafs daher
+a =+8, 0g= +3, ag= +42, cz= 18ind; u. 8.w.”
+Das Papier ist gut, der Druck von Fehlern nicht
+frei, Q&
+
+ 
+
+NATURWISSENSCHAFT.
+Manyusım, b. Heinr. Hoff: Untersuchungen über
+Seelen- und organisches Leben. Ein Vermächtnifs
+‚an Psyohologen und philosophische Aerzte, Von
+
+ALLG, LITERATUR - ZEITUNG
+
+1 268
+D. Friedrich Groos , Grofsherz. Badenschem Hof-
+rathe:u, s, w- 1836. VI u, M@S. 8; (14 gGr.)
+
+Es ist der alte, aber in neuerer Zeit mit verjting-
+tem Eifer geführte, Streit der psychischen und soma-
+tischen Schule im Gebiete der psychischen Mediein,
+zu welchem uns die vorliegende kleine, aber jeden-
+falls sehr anziehende, Schrift eines würdigen Vete-
+ranen, der einer. größlseren Landes - Irren - Anstalt
+als dirigirender Arzt nahe an zwei und zwanzig
+Jahre vorgestanden und jetzt als Greis vom Schau-
+
+Jatze practischer Thätigkeit abgetreten it, zurück-
+
+übrt, Der Widerspruch, den des Vfs, aus frühe-
+ren Schriften bekannte Ansichten des Seelen - Lebens
+von Seiten Friedreich’s erfahren haben, das theilweise
+Mi(sverständni(s dieser Ansichten, zu welchem „eine
+frühere unklare und noch sehr mangelhafte Darstel-
+Jung derselben Veranlassung gegeben haben mag”
+und die von Friedreich in seiner ‚, Historisch - kriti-
+
+‚ schen Darstellung der Theorieen über das Wesen und
+
+den Sitz der psychischen Krankheiten” an unseren
+Vf. erlassenen Aufforderung zu weiterer Vertheidi-
+gung seiner Ausichten haben diese Blätter, die —
+wie der Vf, (S.6.) besorgen läfst — sein Sohwanen -
+Gesang seyn dürften, und die „weit entfernt, eine
+blofse Wiederholung des früher Gesagten zu seyn,
+vielmehr neue Gesichtspunkte darbieten und tiefer
+Ins Seelenleben einzudringen streben” (S, 6.) veran-
+alst, —
+
+' Das Buch zerfällt, nächst dem Forworte (9.3.),
+aus welchem wir die angezogenen Stellen entlchnt
+haben , in sechs Abschnitte. I, (S.7.) Um die. Le-
+ser in seine Untersuchungen einzuführen, stellt ih-
+nen der Vf, ein allerdings treues Bild des gegen-
+wärtigen Zustandes der psychischen Medicin vor die
+Augen, Geistes- Störungen sind so häufig, ‚als
+pflanzten sie sich als eigenes Mifsgeschlecht durch
+einen Zeugungsact in progressiver Zunahme von
+selbst fort,” ihre Heilungen, mit Ausnahme der
+uoch nicht veralteten Tobsucht, so selten, dafs sie nur
+als Ausnahmen von einer traurigen Regel gelten kön-
+nen, und die Schwierigkeiten , welche in diesem Ge-
+biete der ohnehin überall problematischen Heilkunst
+entgegenstehen, sind nothwendig um so gröfser, als
+körperliche Störungen neben den geistigen zu be-
+rücksichtigen sind, und es sich fragt, ob auf jene,
+oder auf diese, oder auf beide eingewirkt werden
+müsse, Es setzt aber diese. Frage die noch höhere
+voraus: Kann denn auch die Seele selbst erkranken ?
+und die Antwort: Unmöglich! echeint um so unbe-
+dingter durch die Erfahrung selbst gegeben zu seyn,
+als man noch kein Beispiel von wirklicher durch
+reine Seelenmitte) (vernünftige Vorstellungen ‚-reli-
+giöse Gründe) herbeigeführter Heilung des Wahn-
+sinlıs aufzuweisen hat. Ganz natürlich erscheint da-
+her auch die Annahme: In den Seelen - Störungen
+ist blofs das materielle Urgan der Seele verletzt, sie
+selbst bleibt frei von’aller Krankheit, Indefs stellen
+sich doch dieser Annahme bei Erwägung des unleug-
+bar grofßsen Einflusses der Gemüthsbewegungen und
+Leidenschaften auf das Physische und des so unend-
+

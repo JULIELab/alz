@@ -1,0 +1,156 @@
+\
+
+843
+
+gende Elemente in einer Normal - Ebene liegen, wel-
+ches eben nicht genau ist; dena dadurch, dafs die
+angegebene Normale ganz in dieser Ebene liegt, wird
+diese noch nicht zu einer Normal - Ebene; diefs ist
+allgemein:nur der Fall bey Normalen auf einer Ebene
+oder auf der Oberfläche: der Kugel und speciell bey
+der einiger anderen Körper. Die angegebene Dar-
+stellung des Vfs ist für Anfänger recht anschaulich,
+hätte aber etwas kürzer seyn können; da das Bild
+eines Fadens doch keinen scharfen Beweis giebt.‘
+
+In den folgenden 6$ 88 —187 ist nun zuerst der
+Rede vom Bestimmung der Axen des Erdellipsoids
+(.wobey nur die Resultate der französischen Messung
+Angeführt werden), und den Formeln, wodurch:
+man bey der Messung eines Meridianbogens die KEx-
+centricität (welche richsig als abstracte Zahl und
+nicht als Linie angege wird) nähernd berück-
+sichtigt, worauf der Vf. erst später zu der Auflösung
+der geodätischen Aufgaben „„durch.ganz genaue For-
+meln”. übergeht. Rec. glaubt, dafs auch die Ord-
+nung; der letzten beiden Abtheilungen besser umge-
+° kehrt gewesen wäre, indem sich dadurch alles eben
+
+° ‘so deutlich aber bedeutend kürzer würde haben dar—-
+
+; stellen lassen. Io.der angeführten - vorletzten Ab-
+
+theilung beginnt der Vf. zwar ‚Eewils richtig mit
+Entwickelung der Formeln für. die nöthigen Linien
+im Ellipsoide als Functionen der Breite de3 betref-
+fenden Punktes:( 105) und der Gleichung zwischen
+“geographischer und Legendres reducirter Breite
+(welche letztere jedoch nicht mit der geocentrischen
+oder verbesserten Breite zu verwechseln ist) (106);
+dann folgt aber gleich inBezug auf die eben angege-
+‚ bene nähernde Berücksichtigung die Berechnung der
+_ angeführten Differenzen (107—118); welches die
+weitere Ausführung der Aufgaben in (938 ist, wobey
+jedoch nur die Glieder 2ter Ordnung beybehalten
+werden, und die Kugelfläche als mit einem Halb-
+messer, welchen der bis zur kleinen Axe verlänger-
+ten Normale des ganz bekannten Punktes A gleich
+ist, heschsieben angenommen wird, ,wie diefs auch
+Puissant thut, die Entwickelung der Formel für die
+
+esuchte Breite des anderen Punktes B ist eben so
+
+urz als bey Puissant (1. N. 194), die in Bezug auf
+das Azimuth PB _A4 ist aber bey letzterem kürzer und
+genügender, dagegen zeigt aber der Vf., dafs die Dif-
+ferenz der Länge der geodätischen Linie auf dent
+Ellipsoid. und dieser Kugel hierbey unter der ge-
+machten Voraussetzung der Kleinbeit von AB zu
+vernachlässigen sey, welches Puissant nur angiebt,
+aber nicht nachweist. Ebenfalls unter Voraus-
+setzung der Kleinheit von £B sprechen 6 114 und
+115 über die Findung der Länge und Breite des
+
+Punktes B aus dessen Abständen von dem Meridian’
+
+und der Perpendiculäre von 4, so wie über die um-
+
+ekebrte Aufgabe. In Betreff der ersteren sind des
+AZ Formeln kürzer und leichter als die von Neu-
+mann abgekürzten Bohnenbergerschen Formeln in
+der Monatl. Corr. VIIl. (Sept. 1803) S. 275, welche‘
+
+sich ebenfalls nur auf kleinerm Abstande, d. h, unter .
+
+100,000 Taisen, beziehen. - Nicht su ist es’in Bezug
+
+x
+
+) ERGÄNZUNGSBLÄTTER ZUR A.L. Z.
+
+1
+844
+x ‘4
+auf die allgemeinern Formeln, welche der Vf. $ 128
+giebt, und der Bohnenbergerschen, welche sich in
+der Mon, Corr. VI S.2%, VII S. 43 und/’deren Ta-
+feln, VIU S. 81 sich finden, und bequemer als die
+des Vfs sind. Die neueste Arbeit von Oltmanns über
+diesen Gegenstand konnte der Vf. noch nicht ken-
+nen. — Der $ 116 zeigt zum Schlufs dieser Abthei-
+lung, dafs die Excentricität auf die Messung der
+Grundlinien und der Winkel, so wie auf die Be-
+rechnung der Dreyecke nach der Sehnenmethode
+keinen zu beachternden Einflufs habe. ;
+Die folgeode letzte Abtheilung dieses Kapitels ‘
+
+‚behandelt, wie bereits bemerkt, in völliger Allge-
+
+meinheit sowohl die früher erwähnten Aufgaben als
+alle, welche‘ Dreyecke, ‘die eine geodäuische Linie
+mit zweyen Meridianen bildet, und deren Bezie-
+hung mit Abständen von einem Meridian und dessen
+Perpendiculäre betreffen. Die .Ordnung ist dabey
+kürzlich folgende: $ 117— 119 Differentialgleichung
+der geodätischen Linie mit und ohne Hülfe der Va-
+riations - Rechnung; $ 120— 124 Beziehungen zwi-
+schen den Breiten 4, A der beiden betreffenden Punk-
+te, dem Azimuth der geodätischen Linie an dem
+zweyten V, das an dem ersten: = 90° angenommen,
+der Längendifferenz beider Punkte @, und der Länge
+der geodätischen Linie zwischen derselben S; $ 125
+bis 127, Auflösung der Aufgabe aus S und 7, die
+Gröfsen @ ahdı zu finden, und der umgekehrten,
+wenn @ und 2} gegeben sind; $ 128, Auflösung der
+Aufgabe aus 114 und 115- bey wilikürlicher Entfer-
+
+nung beider Punkte; $ 129— 182, ähnliche Bezie-
+
+hungen wie in 120—124 für ein Dreyeck, in welchen
+die geodätische Linie zwar klein ist, aber beide Me
+ridiane schief durchschneidet (Zurückführung auf
+die früheren Angaben durch Verlängerung der geo--
+dätischen Linie); $ 1838, Vergleichung mit den For»
+meln in 112, weil hier die kleine Axe als Halbmes-
+ser der Kügel angenommen ist, und Glieder dritter
+Ordnung. ‘beybehalten werden, sodann‘ Angabe,
+welche Gröfse der geodätischen Linie diese Beybe--
+haltung nöthig mache; 6$ 134— 186, Ableitung an-
+derer Formeln Für die Aufgaben in 114, 115 und 94
+mit Begybehaltung der Glieder höherer ( beziehungs—-
+weise vierter und dritter) Ordnung; endlich 6 137;
+Auflösung der bisher behandelten Aufgaben bey be-
+liebiger Gröfse der geodätischen Linie. Schon diese
+Skizze wird das obige Urtheil, dafs bey einer. an-
+deren Anordnung sich maches kürzer abthua
+liefse, rechtfertigen, Uebrigens ist der Vf., wie er
+auch selbst am Ende anpiebt, und von Puissant im
+ersten Kap. des sechsten Buchs geschehen ist; bey
+der. letzten Abtheilung vorzüglich der Arbeit von
+Legendre (Memoires de Vinstitut, Lieme Semest..
+
+1806) gefolgt, jedoch ist die Darstellung des Vfs
+
+mehr constructiv als bey P., welches. sie zwar min-
+
+der angenehm, für den Anfänger aber, indem er die _
+räumliche Bedeutung der Gröfsen näher kennen
+
+lernt, anschaulicher macht. Aus diesem Grunde, und
+
+weil die Darstellung überhaupt im einzelnen leicht
+
+fafslich, wenn auch gerade nicht elegant ist, möchte
+
+. ; . . auc
+

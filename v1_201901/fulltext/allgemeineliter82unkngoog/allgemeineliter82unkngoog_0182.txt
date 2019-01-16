@@ -1,0 +1,91 @@
+342 | “_ Num, 193.‘ NOVEMBER 1835. 3.
+
+1+)y-—B—0 ) 1.2.3....mM
+
+| m aa Im = FD a2). (arm)
+Sa Zr und 1 1 I
+= << NO m 3 |
+A 8m ma EEE 0m = og m— {— HH
+(z +) (1 la ) ist, und a keine negative ganze Zahl seyn darf, Für
+
+d 0,
+
+und VO so wie VI eine von m ganz unabhängige Zahl jede Reihe wird erst der Werth von 1 and
+
+ist, aus dem Lehrsatze F*; wenn I +y-— B—ane * dA 6m h
+
+gatıy, und mit den beiden ersten-Lehrsätzen in Ver- gapatız nach dem dritten Lehrsatze die Convergenz
+indung mit dem letzten Hülfssatze, wenn I+y-—f gefunden. Bei der ersten Reihe erhält man nämlich
+
+— a = 0 ist, die Divergenz der fragliehen Reihe; nach einigen Reduotionen,
+
+Mehrer Unterscheidungen bedarf jedoch der Fall; 2 A B
+wenn bei x = +4- 1 zugleich 1 + 7 — S— « positiv ist, — AP dB W,
+Für 5 — — 1 ergiebt sich nach dem Lehrsatze 2, in 40m +1 SE
+
+r 8
+
+Verbindung mit dem Sten und Oten Hülfssatze die dia
+
+Convergenz; für x == + 1 findet diese „jedoch nor, m
+wenn 14+7—ß-— «a >1 ist, nach dem satze N .
+in den beiden andern. F ällen aber (d, h, sowohl für wo 4, B, A', B, von m unabhängige Gröf(sen sind,
+
+1+7y-—ß-—a< lalsfür1+97-—ß-— a=1) nach : ;
+1+7 ß y—Bß—a=1) Hieraus folgt
+
+14 + dh 8, WW.
+
+ 
+
+tzen 4, und 5. Divergenz statt, Hiernach M= .
+ist also die fragliche Reihe der Gl. II convergeunt 40 +1 '
+daher die Gaussische einer Summirung fähig, nur Gr, v.n. ———. = 1, .
+in den drei Fällen: 4 Gym
+1) wenn x < 1, 2 NM =— 8 = DO
+ee IE Sn da en ah
+wenn = +1 md 1 +)7y—Bß-—a > listz a N — 1) — — Cr = (—, 0).
+in allen andern Fällen ist aber die durch die Gil. IT} Gr ( 1 Ar ) n
+
+angedentete Ce Qivergenb, in der ı unübertreflli- M =
+
+chen, eines Gaufs gen : Disquisi- ‚4b. = (+,
+
+;  tiones generales circa seriem infinitam ee (def de. oder Gr. dba = (+, ®;
+
+ron zweiten Theil das mathematische P ubreum  llom und Gr. nn 4 br — 2 also = ( > 1),
+
+8 und erfreuen doch dem gro(lsen Vf, gefallen .
+möge), wird im $,3 bemerkt, daß, weil die Coöfß- wodurch nach dem dritten Lehrsatze sich ergiebt
+eienten von x” und x” + 1 für ein wachsendes m der Gran — (go);
+
+Gleichheit sich räherten, die Convergenz und Diver- ° m de a te Keihe
+nz der Reihe zunächst von dem bestimmten Werthe also Convergenz der ersten °
+s x abhauge, namentlich für << +1 o0oderz7»=a+ Bei der zweiten Reihe erhält man
+
+äy-—1, wenn a’ +b? < I,die Reike, wenn auch nicht 2 3) ı 1
+‚ von Anfang, doch weiterhin convergend werde, und zur log (1 > — )— wol + -) m a+2
+‚ einer völlig bestimmten Summe-führe; fürx > + 1oder 40, +1 m 1+—
+a? + 5°> 1 aber die Reihe sicher wenigstens weiter- ——— — =
+hin divergire, folglich von ihrer Summe keine Rede 4m 1 _2_21_
+seyn könne, und dafs endlich für x = 1 oder a? + db log (+ mw m LAN
+1die Convergenz und. Divergenz von der Natur der F
+Gröfeen a, £, y abhange, wonacli ix dem vierten Ab - 2 fm)
+schnitte die Bedingungen für a; SZ, y nehst ihren Fol- a Cm) ,
+gen mit höchster Strenge nachgewiesen werden. a m und
+ulser den Verdiensten, welche sieh der gelehrte Vf,
+
+M = 20
+der vorliegenden Schrift, dureh sie sowohl um die . , @. ist.
+Theorie der Reihen überhaupt, als auch namentlich. wo Gr; f (m) =
+die ihrer Convergenz erworben hat, mul man es Hierans folgt
+dankbar anerkennen , dafs.er, seine neuen Lehrsätze mM =
+
+auf die Reihe der Gl. ( III) anwendend, die ange-. 48m +1
+gobenen wichtigen and interessanten Eigenschaften Gt, 0, m, dan = 1,
+
+erselben auch auf eine andere Weise, ausführlich . 7
+und mit der ihm eigenen Schärfe nachwies. Uesgleichen die Grenzen von 4b und ron nn 4 um
+Er beschliefst seine treffliche Abhandlung mit gerade so wie bei der vorigen Reihe, un Fr eben
+Anwendungen auf die beiden Reihen , für welche so auch die Convergenz der zweiten Reibe, Wir
+

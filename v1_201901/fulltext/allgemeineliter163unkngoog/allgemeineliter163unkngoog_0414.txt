@@ -1,0 +1,145 @@
+=» = II 3:
+
+77 ware
+
+.. —
+
+818
+
+Seiten lang,. behandelt die Division eingliedriger
+Gröfsen dureh eingliedrige, die Erklärung negativer
+und der nullten Potenzen., Da mufste sich freilich
+der Vf, kurz fassen, Als eine Probe von dem ge-
+gedrängten, aber dennoch: hier lobenswerthen Vor-
+trage geben wir die .Daratellung des binomischen
+Lehrsatzes in 5.65, wo der Vf. sagt: ,, Nimmt man
+in dem ersten Thaile. der Gleiehung V(x + a)
+(x +0) (Tr CE) 0.000.000 = @ die willkürliche
+Gröfse /|V = ‘1 an, so ergiebt sich ans dem Bildungs-
+setze der Coöffieienten in jener Gleichung , dafs ein
+Product aus » Fauctoren (@ +.u), (x + 5), (x + €)
+De Se WW, die Form * „° ‘ se
+ar An + Ayan-? + Ayyn-—3,...0t An
+hat; indem allgemein Ap'die Summe der Combina-
+tionen der pter Ordnung sämmtlicher zweiten Glieder
+a,b, c u. 8. Ww. ist, Setzt man daher a = b=c
+u, s. w., folglich das obige Product = (x + a)", 80
+wird jede Combination der pten Ordnung aP, und da
+die Zahl dieser Combinationen
+
+_ n(n— 1) (n—2).....(n-p-41)
+1 2 3
+
+ 
+
+» :p .
+‚ beträgt, so verwandelt sich der CoöfGoient des p!es
+Gliedes nach dem ersten in:
+
+n(n—1)(n—2).....(n—p + 1) ap?
+1 2 3. “pP
+Daher ist für alle ganze positive Zahlen nı:
+
+(x + a)i = x" +nazı-x + Al a?zn-?
+A apa
+4 D@—2).....3.2.1 m
+
+‚21 2 3 (n—2) (n— 1) n
+
+Die Theorie der höheren Gleichungen behält der Vf.
+mit Recht der Differentialrechrung vor.‘ Der zweite
+Theil behandelt in der lsten Abth. die Geometrie und
+die mathematische Theorie des Aufnehmens mit dem
+Mefstische,. Seinem Plane getreu liefs hier der Vf,
+alle diejenigen Lehrsätze weg, welche er weder von
+wesentlichem Nutzen bei der Lösung geometrischer
+Aufgaben, noch für den Zusammenhang des Ganzen
+pöthig fand, Andere Kücksichten glaubte er dage-
+gen bei der Bearbeitung der Trigonometrie nehmen
+zu müssen, welche die zweite Abtheilung dieses
+Theiles hildet, und er erklärt sich darüben so: ‚, Das
+Wesen(liche derselben ist eine Sammlung von Sätzen
+und Formeln, welche innerhalb gewisser Grenzen,
+alle möglichen Combinationen umfassen müssen, und
+die Vollständigkeit dieser Sammlung durfte nicht zu
+sehr vermindert werden, wenn nicht ihre Branuchbar-
+keit zum Nachschlagen in allen verwickelten Fällen,
+darunter leiden sollte,” Dessen ungeachtet aber hat
+sich auch hier der Vf, wieder ungemein kurz gefafst,
+da auf 73 Seiten die ebene und sphärische Trigono-
+metrie, ja sogar noch die Theori:e des Richtens der
+Geschütze abgehandelt worden ist. Die erste Ahth,
+zerfällt in 10 Abschnitte: Einleitung. — Von dem
+Kreise und von den Winkeln, — Von der Gleichheit
+
+(Num, 102, . NOVEMBER 1837,
+
+der Dreiecke und Vielecke. — Von der Aehnlich-
+keit der Dreiecke und Vielecke. — Von den Eigen-
+schaften des Kreises und von den regelmäfsigen Viel-
+ecken. —- Ausmessung und Berechnung der Flä-
+ohen, — . Allgemeine Untersuchungen über die ge-
+genseitige Lage von Linien und Ebenen im Raume, —
+Von den vorzüglichsten ebenen und runden Körpern,
+— Berechnung der körperlichen Inhalte ebener und
+runder Körper, Kin Anhang enthält sodann noch
+die Theorie des Aufnehmens ohne Instrumente (so
+wohl heifsen: blos mit der Kette) und mit dem Mef(s-
+tisch, die Untersuchung des Höhenunterschiedes
+durch Nivellement, Erklärung der Winkelmesser,
+Dafs der Vf, die Begriffe der Gleichheit und der Con-
+
+ gruenz der Figuren nicht unterscheidet ,- können wir
+
+nicht billigen. Manche Dinge findet man hier, die
+eigentlich noch nicht dahin gehören, so $, 23 geome-
+trische Construotionen von Linien, deren Läuge
+
+durch algebraische Ausdrücke gegeben ist, wie Z— |
+
+V ab, Va? +6, Va? 6% So $, 24 die Trans-
+versalmaafstäbe , und $. 23 den Nontus und die Mi-
+krometerschraube, Die zweite Abtheilung giebt kurz
+die Erklärung und Bestimmung der trigonometrischen
+Linien, die Entwickelung ihrer gegenseitigen Bezie-
+hungen, die Anleitung zum Gebrauche der trigono-
+metrischen Tafelm und die Berechnung der ebenen
+Dreiecke, Dann folgt das Wichtigste aus der sphä-
+rischen Trigonometrie , sofern es dem Vf. für prakti-
+sche Zwecke taugte, und aus der Theorie des Rich-
+tens der Geschütze, Den Schluls macht ein Nach-
+trag, welcher eine von dem Oberstlieutenant Leon-
+hardi bekannt gemachte directe Bestimmung : des
+Standpunktes der Mensel aus drei gegebenen Visir-
+punkten enthält. Der dritte Theil enthält in der er-
+sten Abtheilung die Infinitesimalberechnung. Auch
+
+hier beschränkte sich der Vf, auf die Hauptsachen,
+
+und überging Alles, was_nicht unumgänglich nö-
+thig schien , um die SchüleP mit dem Geiste der Wis-
+senschaft vertraut, und zu der in ihrem Kreise lie-
+genden praktischen Anwendung derselben geschickt
+zu machen, Dahion rechnete er die Theorie der Inte-
+grallogaritkmen. einen umfassendern Vortrag über
+ie Integration der Differentialgleichungen mit nicht
+abgesonderten Veränderlichen und mit höheren Dif-
+ferentialen, die Integration der Gleichungen mit par-
+tiellen Differentialen, eine weitere Entwickelung der
+Theorie des Kreises, der Variationsrechnung und
+der Lehre von den höhern Gleichungen. Diese Ab-
+theilnng zerfällt in 4 Abschnitte: Differentialrech-
+nung, — Integralrechnung,. — Aufsuchung der
+röfsten und kleinsten Werthe von Functionen verän-
+derlicher Gröfsen, Erklärung der Variationsrech-
+nung, Ergänzungen zur Theorie des Kreises. —
+Theorie der höheren Gleichungen, Die zweite Ab-
+theilung enthält die analytische Geometrie und die
+matbematische Geographie. Auch hier befleifsigt
+sich der Vf. gleicher Kurze, und überging daher die
+Abwickelung der Curven, die Theorie der Einhül-
+Jungscurven, und des gröfsten Theiles der einzelnen
+; 18-
+
+814
+

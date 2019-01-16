@@ -1,0 +1,160 @@
+865.
+
+auch diese Abtheilung für den Anfang sehr zu em-
+pfehlen seyn. Für eine weitere Ausbildung des Geo-
+däten, bleibt aber das Studium von Puissant und
+Oriani ( Elementi di Trigonometria sferoidica) sehr
+räthlich, und.das der Arbeiten von Bessel (Astr.
+Nachr., N. 8, 6 und 86) Littrow u. s. w., So wie in
+Bezug auf die jetzt unerläfsliche Anwendung der
+Wahrscheinlichkeitsrechnung , das der Arbeiten von,
+Laplace und'Gauss durchäus. nöthig, und der Vf.,
+dem freylich bey der Ausarbeitung seines Werks
+die neuern Arbeiten von Bessel und Gauss noch nicht
+bekannt seyn konnten, hätte wenigstens der übri-
+
+en, und namentlich der Anwendung der Wahr-
+scheinlichkeits - Rechnung mit Hinweisung auf La-
+place erwähnen sollen. ’
+
+Das dritte Kapitel handelt von der Projection
+der Karten, und beginnt mit den nöthigen Defini-
+tionen von Projiciren, Projections- Art, so wie des
+Unterschieds zwischen perspectivischer Projections-
+‚Art und der durch Entwickelung., Bey jener wäre
+zugleich der erst später erwähnte Unterschied zwi-
+
+schen orthographischen und stereographischen Pro- .
+
+jections- Arten anzugeben gewesen. Der Vf. be-.
+bandelt nur letztere, obwehl jene, so wie überhaupt
+der Unterschied zwischen geographischen und topo-
+graphischen Karten nicht ganz zu übergehen und
+eine gröfsere Benutzung des vorzüglichen Werks von
+Mayer (prakt. Geom., “Vierter Theil), in mehrerer
+Hinsicht zu wünschen gewesen wäre. Die Preis-
+schrift des grofsen Gauss , welche die umfassend«
+sten und allgemeinsten Untersuchungen über die
+-Projectionen enthält, :und in Schumacher’s Astren;
+
+Abhandlungen sich findet, konnte wohl dem Vf.
+
+noch nicht bekannt seyn. Mit. Recht beginnt der
+Vf. die Lehre von der perspectivischen stereogra-
+
+phischen Projectionsart in $ 161, mit der Projection
+
+einer-Hemisphäre auf den Horizont, als dem, allge-
+meineren Falle, und läfst erst $ 147 und 150 die auf
+den Meridian und Aequator folgen, wodurch seine
+Darstellung an Kürze gegen die Mayer’sche gewinnt.
+
+Auch ist sie.in Bezug auf den Fundamental - Satz, _
+
+dafs jeder Kreis auf der Kugel bey dieser Projections-
+Art auch auf der Karte ein Kreis werde, besser, läfst
+sich jedoch noch mehr vereinfachen. Wie beym Vf.
+den Mittelpunkt der Kugel als Anfarigspunkt der
+Coordinaten angenommen, werden nämlich die Co+
+ordinaten.,. welche den beiden Gleichungen x* + y?
++2 = R* und z= Ax + By + D (1) entsprechen,
+offenbar zu einem Kreise auf der Kugeloberfläche ge-
+hören, und zwar zu jedem beliebigen nach: Ver-
+- schiedenheit. der Gröfsen .4, B, D. Ferner werden,
+_ wenn X, y, %z die Coordinaten eines bestimmten
+
+Punktes eines solchen Kreises, und die des Augen-
+punktes x =0o, y=0o, z=-—PR sind, die allgemei-
+nen-Gleichungen für eine gerade Linie a +ax=zZ
+und b +Zy=z nach Einführung dieser besonderen
+Werthe zu einer Linie gehören , welche durch diese
+beiden Punkte geht, und daher auf der Oberfläche
+eines Kegels liegt, dessen Spitze der Augenpunkt,
+und dessen Grundfläche der fragliche Kreis ist; der
+
+'
+x
+
+Num. 106. NOVEMBER 1881. a
+
+"und den Gleichungen für den
+
+++
+
+846
+
+Dürchschnitt dieser Kugelfßäche mit der Projections-
+Ebene giebt aber offenbar die gesuchte Projection.
+Durch die erwähnte Einführung erhält man nun die
+Jetzten Gleichungen sogleich im der bequemsten ,
+Form: '
+
+x R+zT ZZ y_R+z7_Z
+ESR4E zZ 7 Rz zZ
+
+und durch Elimination von x’, y', z’ zwischen diesen
+reis, .die Gleichung
+für die Kegelfläche. Durch Substitution aus (11) in
+(1) ergiebt sich nämlich leicht:
+
+Zu (m +y) =2R— Z’ oder Z' (2 Ey! + Z?)
+2 ' = RZ (1)
+und
+
+Z(4x+By)+D=Z'-— Roder Z{— Ax—By+Z)
+Ä = (D+R) Z (IV)
+11) die Gleichung für die
+
+(IV) _
+Kegelfäche, und aus dieser für z=0o oder Z=R die
+für die Projection  RA(DLR
+2 RR? 2(D—R) _
+BER (4m 4 By) + = ©
+folgt, welches die Gleichung des Vfs ist, die noth-
+wendig zum Kreis gehört, weil sie sich unter die
+Form > | ;
+
+(X + a)? + (y+D)? = ya? +1
+bringen läfst. -
+
+Der Rest dieses Kapitels betrifft die Projectio-
+nen durch Entwickelung und zwar $ 132—154 erst
+einiges Allgemeine über die Vorzüge dieser Pro-
+jections - Arten, ihre Hauptaufgaben, Entwickel-
+barkeit einer Fläche u. s. w.; $ 155 die cylindrische,
+6 156 die konische, $ 157 — 166 die ursprüngliche —
+und $ 167 — 188 die modiheirte Flamsteed’sche, So-
+dann $ 184—191 die Cassinische, und zuletzt 6 192
+bis 195 die Mercator’sche Projection, “Sowohl ‚bey
+Erörterung dieser als der perspectivischen Proje-
+
+woraus durch Division
+
+ 
+
+ctions- Arten zeigt sich der Vf. als unterrichteten
+
+Mann vom Fache; er behandelt die angegebenen Pro-
+jections - Arten, und namentlich die verbesserte
+
+ı Flamsteed’sche, welche er mit Recht als die vorzüg-
+
+lichste für gröfsere Länder ansieht, mit aller für vie
+
+wirkliche appirung erforderlichen Ausführlichkeit,
+C
+
+und schwerlich dürfte in dieser Beziehung ein an-
+deres .deutsches Werk diesem vorzuziehen seyn.
+Zu wünschen wäre nur gewesen, dafs der Vf. die
+Literatur nicht auch hier so ganz übergangen, und,
+wenn gleich die erörterteh Projections- Arten inr
+Allgemeinen die vorzüglichsten sind, doch die übri-
+
+gen wenigstens kurz angegeben hätte.
+Viertes Kapitel. Von den Höhenmessungen (mit
+gänzlicher Uebergehung des Nivellirens). $ 197 Hö-
+henbestimmung auf der sphärischen Erde aus &}-
+ner Zenithdistanz, und Reduction des gemessenen
+WS in-
+

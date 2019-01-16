@@ -1,0 +1,163 @@
+595
+
+Widerstand äufsert, der Geschwindigkeit propor-
+tional gesetzt werden kann.
+
+Betrachtungen über Coordinaten und Projectio-
+
+nen leiten den Vf. zwar , durch Einführung des Be-
+
+riffs vom Hebel, zu der Gleichung zwischen dem
+
+omente der Resultante und der Summe. aus den -
+
+Momenten der Constituenten; aber was hier gerade
+von Wichtigkeit wäre, die Bestimmung des Werths
+der Coordinaten des Schwerpunkts für ein gleich-
+zeitiges Verschwinden vom Zähler und Nenner des
+Bruchs, wodurch sie angedeutet werden, und wie-
+derum die Darstellung ihrer Function für jein Beliebig
+
+estaltetes materielles (z. B. schweres) Continuum,
+Bat der Vf. in der Popularisirung dieser Art von Be-
+trachtungen begreiflich übergehn müssen. Zur Ent-
+schädigung für den Anfänger sucht derselbe den
+Schwerpunkt einiger Figuren nach der „.‚Symetrie ;”
+allein vergebens sieht man sich hier nach den sinn-
+reichen Methoden des Cavalleri und Wallis um. So
+z. B. giebt der Vf. keinen Beweis für die Behauptung,
+dafs der‘ Schwerpunkt eines Dreyecks in dem
+Durchschnitt zweyer Linien liege, welche mau aus
+"den Spitzen nach der Mitte der gegenüberliegenden
+Seite zieht, und hält sich nur mit der geometrischen
+Bestimmung dieses Ortes auf.
+
+Die letzten Abschnitte des ersten Theiles han-
+deln von den einfachen Maschinen oder mechani-
+schen Potenzen, von der Reibung und von der Wa-
+ge. Diese Gegenstände sind in der Form vorgetra-
+gen, wie es der erste Unterricht in der Statik wün-
+schen läfst , nämlich ohne künstliche Raisonnements,
+
+esuchte Rechnungen und scheinbare Strenge. Der
+
+ernende kann hier erkennen, Yals er nicht mehr
+allein mit mathematischen Principien zu thun habe,
+und es vielmehr darauf ankomme, diese anzuwen-
+den; dafs die Erfahrung immer der Theorie vor-
+ausgehn müsse , aber dann auch durch die Theorie
+gehoben werde; dafs man keine richtige Erfahrung
+ohne Theorie anzustellen vermag, aber diese Theo-
+rie eine andere sey, als der Anwendung zum
+Grunde liegt, und endlich, dafs die Elemente der
+Mechanik nur durch das Vermögen der höhern
+Analysis in wahre Principien einer eigentlichen
+Naturlehre umgesetzt werden können.
+
+Der zweyie Theil handelt von der Bewegung
+überhaupt, und von der Bewegung durch Parallel-
+und Central- Kräfte insbesondere. Der Vf. hält
+dafür, über den Erfolg der Zusammensetzung von
+rotirender und progressiver Bewegung einen neuen
+und elementaren Beweis gegeben zu habeo. Wir
+sehn indessen in dieser Demonstration nur eine
+Erörterung: denn einmal ist es kein Beweis (der
+überhaupt nur durch Differential - Rechnung ge-
+führt werden kann) zu nennen, wenn man zeigt,
+dafs ein Körper durch Umdrehung um eine zu
+berechnende Axe in dieselbe Lage gelangen kön-
+ne, in welche er durch die bewegenden Ursachen
+auf‘ irgend eine Weise wirklich kommt (welches
+der eigentliche Sinn dessen ist, was der Vf, S. 10 bis
+12 beybringt), und dann gilt überhaupt der ganze
+Satz nur für dem Fall, dafs der Körper mehrere
+
+ALLG. LITERATUR - ZEITUNG
+
+596
+
+Stöfse in verschiedenen Richtungen erhal en hätte,
+wo sich dann immer die Wirkung zweyer Stölse
+
+in eine mittlere Richtung vereinen läfst, 'aus wel-
+
+cher Vereinigung also zuletzt eine gemeinsame
+Drehungsaxe entspringt. Der folgende Satz, dafs
+
+nämlich jeder Körper, auf weichen beliebige Stölse |
+
+wirken, sich so bewegt, als wenn nur eine Axe
+progressiv vorschritte, während sich der Körper
+um diese e dreht; ist nur eine unmittelbare
+Folgerung aus dem vorhergehenden, und setzt
+stillschweigend die Annahme der Unabhängigkeit
+von progressiver und drehender Bewegung voran;
+
+6. 45 und 46 redet der Vf. zunächst von Krif-
+ten, welche &inen Körper, der sich in einem
+Kreise bewegt, nach dem Mittelpunkte treiben;
+in der That kann aber bey freyer Bewegung mit-
+telst Centralkräfte, niemals von einem Kreise die
+Rede seyn, da diese Bahn nur durch gezwungen‘
+
+Bewegung hervorgebracht wird. Ferner redet der |
+
+Vf. von der GCentrifugalkraft. Was sollen wir
+
+uns aber unter diesem Worte denken, da esbe |
+
+kannt ist, dafs bey allen in der Richtung des ro-
+dius vector wirkenden Kräften, gar keine drehen-
+de Kraft, sondern nur ein ursprünglicher Impuls
+vorhanden ist? Müssen wir nicht glauben, der
+Vf. habe die einfache Idee.von Normal- und Tan-
+gential - Kräften einer ältern unrichtigen Specul-
+tion aufgeopfert ? Wir fühlen uns zu dieser Mei-
+Bung um so mehr veranlafst, ‚als der Vf. S.%
+ausdrücklich behauptet, dafs bey jeder centralen
+Bewegung die Centrifugalkraft der Centripetalkraft
+
+vollkommen gleich sey. — Allerdings ist die Cen-
+
+tripetalkraft (wenn man dieses Wort einmal gestat-
+ten will) von der Normalkraft sehr verschieden;
+wir begreifen aber nicht , wie jemals ein Meister in
+der Mechanik hieran habe zweifeln können, und
+sehn eben so wenig ein, wie der Vf. glauben kann,
+durch die Anmerkung von S. 74 — 75 diesen Unter-
+schied auch nur richtig angedeutet zu haben, indem
+es uns vielmehr scheinen will, als wäre derselbe üß
+dem Irrthume befangen, welchen er andern, n?-
+mentlich den Herausgebern der neuen Auflage von
+Gehler’s physikalischem Wörterbuche, unterlegt.
+Nur die Normalkraft ist eine Function des Krüm-
+2
+
+mungshalbmessers ( ); denn durch sie wird
+
+in einem jeden Punkte die Krümmung der Bahn
+bestimmt.
+
+S. 289 Anm. 2, behauptet der Vf. der Mittel-
+punkt des Stofses wäre nicht derjenige Punkt, in
+welchem die ganze Wirkung des Stofses concentrirt
+gedacht und mithin durch einen gleichen Wider-
+stand aufgehoben werden könnte; diese Ansicht be-
+ruht aber in der Unvollkommenheit der zum Grun-
+de gelegten Formel, in welcher die Summe der-Pro-
+dukte eines jeden Elements in seine Gesch windig-
+keit, für die Summe der Produkte der Massen in
+die Quadrate der Hebelarme, oder mit andern Wor-
+ten, eine blofse Summation für Integration genom-
+men wird. Die Begriffe von Mittelpunkt des Stofses
+
+un
+
+-
+
+ 
+
+ 
+
+ 
+

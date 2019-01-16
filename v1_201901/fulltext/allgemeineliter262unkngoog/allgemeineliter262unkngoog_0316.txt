@@ -1,0 +1,130 @@
+693
+
+935 —
+
+894
+
+„ALLGEMEINE LITERATUR-ZEITUNG:
+
+ass ara va =>
+7 — December 1830.
+
+tn nn m a m
+a EA —_ — )—
+x
+’
+
+MECHANIEK.
+' DüsseLnonrF u. EıLserreLD, b. Schaub: Lehrbuch
+der Mechanik von Johann Paul Brewer. — Er-
+
+ster Theil: Lehrbuch der Statik fester Körper.
+
+1829. 215 S. mit 8 Steintafeln. Zweyter Theil:
+Die Lehre von der Bewegung fester Körper. 1830.
+268 S. mit 5 Steintafeln. (83 Rthlir. 2 gGr.)
+
+D.: Vf. beabsichtigt ohne Hülfe der Differential-
+und Integral - Rechnung dem Anfänger eine voll-
+ständigere Einsicht in die Mechanik zu verschaffen,
+als dieses nach der bisherigen Methode in Anfangsr
+gründen der Fall seyn konnte. Allerdings wäre zu
+wünschen, dafs eine gründliche.und zugleich mög-
+lichst deutliche, auf Experimental - PhySik gestützte,
+Entwickelung-der Begriffe, auf welche es bey me-
+chanischen Betrachtungen vorzüglich ankommt,
+immer dem Calcul vorangeschickt würde: denn die
+sogenannte angewandte Mathematik enthält nur
+die Theorie möglicher ‘Erfahrungen, und die be-
+rühmten Werke eines Euler, La Place, Lagrange
+u: A., besitzen nur dadurch auch praktischen Werth,
+dafs sie aus der unendlichen Zahl denkbarer Unter-
+suchungen, besonders diejenigen hervorhoben und
+ausbildeten, welche den Bedingungen der erfah-
+rungsmäfsigen Naturkunde genügen!
+
+Aus diesem Gesichtspunkte betrachtet, wird
+den Elementar- Schriften ‚über Statik und _Mecha-
+nik ein zwar enges, aber sehr nützliches Feld der
+Wirksamkeit angewiesen. So wie die Elementär-
+Geometrie auf anschaubaren Grundbegriffen beruht,
+und sich nicht, ohne ihr Gebiet zu verlassen, zu
+dem Abstracten und Functionellen erheben darf; so
+sollte die niedere Mecbanik die Grundlage der Be-
+wegungslehre (Phoronomie) bilden, und in einem
+zweyten Abschnitte die Darstellbarkeit bestimmter
+Bewegungen und eine Theorie des Experiments be-
+gründen — das, was man bisher Statik zu nennen
+
+ewohnt war, und sehr irrthämlich für den Vor-
+
+of der Mechanik ansah. Was ist eine gehinderte
+Bewegung, was ein Bestreben zur Bewegung, das
+sich nicht thätig äufsert? Alle künstliche Erklärun-
+gen bleiben dem Anfänger dunkel, und er greift in
+die Körperwelt, um sich von dort her Licht zu
+holen.
+
+Der Vf. stellt den Satz vom Parallelogramm der
+Kräfte an die Spitze seiner Untersuchungen. Er
+versuchte eine Demonstration dieses Lehrsatzes,
+welche, wiewohl sie von Duchayle abstammt, kaum
+eine oberfläächliche Prüfung zu ertragen vermag.
+
+A. L. Z. 1880. Dritter Band, ; l
+
+'Derselbe will nämlich zuerst darthun, dafs wenn
+die Richtigkeit des Satzes für die Seiten- Kräfte p
+und m, und danoa für die Seiten- Kräfte p und
+einzeln angenommen würde, sie auch für p und
+m + n stattänden müsse. Mittelst eines entbehrli-
+chen Umweges wird nun gezeigt, dafs wenn man
+sich m +n als eine gerade Linie vorstellt, und dann
+durch den Anfangspunkt von n eine Parallellinie p'
+mit und gleich p zieht, der Endpunkt der durch n
+und p‘ bestimmten Resultante in die Richtung einer
+Linie m‘ fällt, welche mit m durch den Endpunkt
+von p parallel gezogen ist, — woraus der Vf. fol-
+ert, die Resultante von p und m + n müsse eben-
+falls durch diesen Punkt gehn. Dafs aber dieser
+Schlufs nicht den mindesten Grund habe, geht schon
+daraus hervor, dafs alles wie zuvor bleiben würde,
+wenn man auch die Richtigkeit des Satzes für die
+Kräfte p und m gar nieht annehmen wollte; der
+Fehler aber ist in der unmöglichen Verpflanzung der
+Kräfte zu suchen: weder die durch nm und p be-
+stimmte Resultante, noch die substituirte Kraft m'
+sind. auf den gegebenen materiellen Punkt gerich-
+tet, und können ihn also gar nicht afbciren. ;
+
+Das Grundgesetz des Hebels, welches den .
+zweyten Hauptpunkt im ersten Theile ausmacht, ist
+nach der Ansicht des Rec. eben so wenig im Geiste
+der Statik abgeleitet , als der Satz vom Diagonal der
+Kräfte. Eine Linie ohne widerstehendes Medium,
+Stütz- oder Drehpunkt, folgt, nach dem Satze des
+zureichenden Grundes, in einer mit sich parallelen
+Lage, der Richtung eines ihrer in Bewegung ge-
+setzten Punktes, und es ist durchaus gleichgültig,
+an welchem Punkte die Kraft wirkt;. daher für
+zwey oder mehrere Kräfte nur in entgegengesetzter
+Richtung irgendwo eine ihrer Summe gleiche Kraft
+angewandt zu werden braucht, um die progressive
+Bewegung sogleich aufhören zu lassen. Bey der
+drehenden Bewegung aber, welche durch einen
+Stofs ( Wirkung der Kraft in einem unendlich klei-
+nen Zeittheile) veranlafst wird, gilt (mindestens in
+abstracto) der Grundsatz, dafs der bewegte Punkt
+genau dieselbe Baho als Kreishogen beschreibt, wel- ‘
+che er, sich selbst überlassen , in derselben Zeit als
+gerade Linie beschrieben haben würde. Sind also
+zwey bewegte Punkte in verschiedenen Abständen
+von dem gemeinsamen Drehpunkte verbunden, so
+müssen im statischen Moment des Gleichgewichts
+die drebenden Geschwindigkeiten entgegengesetzt
+und gleich seyn. Wodurch dieser phoronomische
+Satz erst physische Bedeutung bekommt, ist, dafs
+die Masse, in sofern, sie sich als Druck—- oder als
+
+F (4) Wi-
+

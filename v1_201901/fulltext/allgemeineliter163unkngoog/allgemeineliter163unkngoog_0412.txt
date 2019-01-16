@@ -1,0 +1,135 @@
+—— Ed a A
+
+-—=— — —— — — un uu- un as —-  —
+
+809
+
+— 102 —
+
+810.
+
+ERGÄNZUNGSBLÄTTER
+
+Z U R
+
+ALLGEMEINEN LITERATUR-ZEITUNG
+
+ 
+
+November 1837.
+
+>
+
+MATHEMATIK.
+
+Bzeuing b. Enslin: Lehrbuch der Mechanik, zu-
+gleich mit den dazu nöthigen Lehren der höheren
+Analysis und der höheren Geometrie — — von
+Dr. Martin Ohm u, 8, W.
+
+(Beschlufs von Nr. 101.)
+
+D.s dritte Kapitel handelt vom Gleichgewichte der
+Kräfte, welche einen Atom angreifen, Wir theilen
+hier noch daraus die Art und Weise mit, wie der
+Vf. zu den drei Gleichungen für das Gleichgewicht
+gelangt, Er sagt: „wenn mehrere Kräfte an einem
+Atom gleichzeitig wirken, in ihren Wirkungen aber
+dergestalt wechselseitig sich aufheben und vernich-
+ton, dafs gar keine Wirkung erfolgt, so sagt man:
+diese Kräfte halten einander das Gleichgewicht, oder
+sie stehen im Gleichgewicht. ,... Hieraus folgt
+I. Zwei an einem Atom gleichzeitig wirkende Krälte
+halten einander allemal im Gleichgewichte, aber
+auch nur dann, wenn die eine derselben der anderen
+genau gleich, aber der Richtung nach genau entge-
+gengesetzt ist. II. Drei an einem Atom gleichzei-
+tig wirkende Kräfte, P, Q, R, welche unter sich
+die Winkel (QR), (PR) und (PO) bilden , halten ein-
+ander das Gleichgewicht, wenn irgend eine davon,
+z, B. R, der mittleren Kraft, welche aus der Ver-
+einigung der beiden anderen Kräfte P und Q (mit-
+telst des Kräften - Parallelogramms) hervorgeht, der
+Gröfße nach genau gleich, und der Richtung nach ge-
+nau entgegengesetzt ist. Sind daher solche drei
+Kräfte P, 0, R, im Gleichgewichte, so missen sie
+nothwendig in einer und derselben Ebene wirken;
+und es geht aus der geometrischen Betrachtung des
+Kräften - Parallelogramms, und der durch die Dia-
+govale und durch die Seiten - Kräfte gebildeten Drei-
+ecke sogleich hervor: ;
+
+ 
+
+1 P ‚o R
+DD CHOR) " (mPR) © (in PO):
+
+und 2) P=V Q%+R'+20.R.c0(0R);
+
+Q=V P1+R7+2ZPER.co(PR);
+
+R=/ Pr+0°+2P.0.0 (PO),
+
+Aus je zweien von diesen sechs Gleichungen kann
+
+män aber die übrigen allemal auf rein‘ trigonometri-
+
+schem Wege ableiten (wenn man nur nicht übersicht,
+Ergäns, Bl, sur 4, L. Z. 1887.
+
+ 
+
+a— eo
+
+dafs die Summe der drei. Winkel (PO), (PR) und
+(OR) genau 360° ist), 111 Beliebig nel z.Bn äf-
+te, die einen Atom gleichzeitig angreifen, halten ein-
+ander das Gleichgewicht, wenn irgend eine der
+n Kräfte genau gleich und entgegengesetzt ist der
+mittleren Kraft, welche aus der Vereinigung der
+übrigen » — 1 Kräfte hervorgeht. Umgekehrt: das
+Gleichgewicht existirt nicht blos allemal, sondern
+kann auch nur dann existiren, wenn diese Bedingun
+
+erfüllt ist, Liegen demnach »— 1 von den 9 Kräf-
+ten, die an einem Atom: einander das Gleichgewicht
+halten, in einer und-derselben Ebene, so liegt die
+nie Kraft nothwendig in derselben Ebene, irken
+daher, genau wie im $, 17, (d. h, wie bei dem Kräf-
+ten - Parallelepipedum) die dortigen n Kräfte auf ei-
+
+‚nen Atom, so sind diese n Kräfte alle im Geichpe-
+@-
+
+wichte, so oft unter Beibehaltung der dorti
+zeichung (die drei Kräfte heifsen dort P,. P, und P3;)
+die drei Gleichungen X=0, Y=0, Z=0 erfüllt
+sind, so oft also die Gleichungen
+1) Pi. cosa,+ Pı.cosa P3ı,
++ Pa. cos an = 0 at 5 Mas toc.
+2) Pı. cos 8, + Pr. cos Ps,
++ Pp.c08ßa=0 B3+ 3 CO8 Pay -t o0ow0
+u. 3) Pr. cos y + P;,., cos Py , cos e.
+TE ya + Ps 7 + '..
+statt finden, weil sich diese Resultate ergeb
+man die ersten n—1 Kräfte P, bis P a In eine
+einzige (P mit der Richtung «, £, y) vereinigt, diese
+einzige mittlere Kraft P aber, der letzteren Kraft
+P. gleich und genau entgegengesetzt nimmt, Diese
+eben genannten Bedingungen sind aber erfüllt, 8o-
+bald man )
+Pa.cos an = — P.cosa,
+P„..cos 8 n = — P. cos ß
+und P_..c08syn = — PP, cos
+setzt und diese drei Gleichungen fallen mit den vor-
+stebenden (1-—3) genau zusammen, Diese drei
+Gleichungen für das Gleichgewicht sind nolkwendig
+und ausreichend, Sie werden häufig kürzer so ge-
+schrieben:
+JE (P.cos a) = 03 II, X (P. cos 5
+HE (P. cos y) = "0; (P- 086) == 05
+wo das vorgesetzte Z die Summe aller der durch
+P,cosa, oder P. cos 8, oder P. cos y vorgestellten
+Producte aus jeder einzelnen Kraft multiplioirt mit
+K (3) dem
+

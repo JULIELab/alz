@@ -1,0 +1,157 @@
+|
+4
+
+ICh
+
+dd
+
+5 a-S-
+
+>
+
+—— —— a
+
+-— ——— — -— ——-- -
+
+p
+
+805.
+
+von Ah! dieser Reihe nehme, während hier unter &
+gunerst f_, dann Of, dann ©? f„> dann ®@) fu. 8. W.
+
+acht werde, Dieser Satz (4), in der jetzigen
+Allgemeinheit aufgefafst, werde der Taylor’sche
+Lehrsatz genannt. In $ 19 zeigt der Vf., wie man
+mittelst dieses Taylor’schen Satzes eine blofse Fun-
+ction fin eine Reihe verwandeln könne, welche nach
+Potenzen von x—a, oder nach Potenzen von x fort-
+laufe, „Setzt man nämlich”, sagt er, „in der Formel
+
+; X fopn= fa fach zz Nazi
+
+a statt x, und in der dadurch entstehenden Gleichung
+( welche kein x mehr hat) wieder x—a =h, 80 er-
+ält man
+
+J fz=|fx]a + [9x] (ze) +H EZ
+
+EL
+
+und wird hier noch 0 statt « gesetzt, so geht diese
+Gleichung über in
+
+Hl f_ = [fzlot [zo + [92h ” Zi +
+
+x?
+- N [® fzlo°s5r + oc:
+Dieser Satz III wird häufig der Maclaurin’sche Lehr-
+
+satz genannt; den Satz II dagegen kann man den
+allgemeinen Maclaurin’schen Lehrsatz nennen.” Der
+Vf. bemerkt sodann noch, dafs da f_,, auch als
+
+blofse Function von A angesehen werden könne, von
+selbst folge, dafs wenn man diese, als solche, nach
+dem Maclaurin’schen Lehrsatze (111) in eine nach
+Potenzea von A fortlaufende Reihen verwandele , man
+nothwendig wieder die Taylor’sche Reihe (1) erhalten
+müsse, Das zweife Capitel handelt vom unendlich
+Kleinen und von den Verhältnissen der unendlich
+
+einen Zuwachse zweier oder mehrerer von einander
+abbäüngiger Veränderlichen. Der Taylor’sche Lehr-
+satz in den Zeichen der Infinitesimalrechnung be-
+schliefst dieses Capitel. Cap, 3: Integralrechnung.
+Quadraturen oder Integration der entwickelt gege-
+benen Funetionen, Nebst einem Anhange über die
+Zerlegung der echt gebrochenen Funetionen in ihre
+
+. Partial- Brüche, Cap. 4: Fortsetzung der Integral-
+
+rechnung. Von den bestimmten Integralen, Cap.3:
+Fortsetzung der Integralrechnung. Integration der
+Ditfferential- Functionen und der Differential - Glei-
+chungen. Cap. 6: Vom Gröfsten und Kleinsten,
+Die zweite Abtheilung enthält die höhere Geometrie
+und zerfällt in drei Capitel. Cap. 1: Von den Pro-
+jectionen, Coordinaten und von der Verwandlung
+dieser letzteren, Der Vf, handelt hier von den Pro-
+jestionen eines Punetes, oder einer Linie auf eine
+
+inie und Ebene; von den Coordinaten- Werthen in
+der Ebene und im: Raume; von dem Ausdrucke der
+Winkel, welche eine gerade Linie mit den Axen
+macht, in die Coordinaten- Werthe dieser Geraden,
+und von dem Ausdrucke der Kntfernung zweier
+
+Num, 101. NOVEMBER 183%
+
+806
+
+Punete und des Winkels, welchen zwei Linien unter
+sich machen, in die Winkel, welche diese beiden
+Linien mit den Axen machen. Dann geht er über
+zu den Projectionen einer Figur auf eine Ebene, und
+giebt einigo Sätze dieser Projectionen ebener Figu-
+ren. Das Capitel schliefst mit der Verwandlung
+der Coordinaten in andere rechtwinkelige und in Po-
+lar-Coordinaten, in der Ebene und im Raume, Cap.4:
+Wie Linien in einer Ebene durch Gleichungen ZwI-
+schen den Coordinaten - Werthen eines beliebigen
+ihrer Puncte ausgedrückt werden, Der Vf. handelt
+hier zunächst von den geraden Linien, parallelen,
+senkrechten Linien; von dem Darchschnittspunkte
+und von dem Winkel zweier geraden; von der Länge
+eines Lothes; von der Gleichung der Geraden in Po-
+lar-Coordinaten ; von den krammen Linien im Allge-
+meinen. Dann geht er über zu der Rectification
+und Quadratur der ebenen Curven, Sodann zu den
+Berührungen und Osculationen der ebenen Curven,
+den geradlinigen Tangenten und Normalen, zu dem
+Krümmungs- Kreise und den berührenden Kreisen,
+Dann von den Kegelschnitten insbesondere, und von
+den Cycloiden. Ein Anhang von den Evolvenden und
+Evoluten beschlielst das Capitel. Cap. 3: Wie Flä-
+chen und Linien im Raume durch Gleichungen aus-
+
+edrückt werden, Es enthält die Kintheilung der
+
+Jächen; die Grundschnitte derselben; die Gleichung
+der Ebene; parallele Ebenen; Gleichangen der gera-
+den Linie im Raume, und insbesondere, wenn diese
+auf einer Ebene senkrecht steht; parallele Linien;z
+Bestimmung der Winkel, unter denen sie sich schnei-
+den; die Gleichung der Kugel, des Kreises im Rau-
+me; Gleichungen der berührenden Ebene, der be-
+rührenden Kugel, der Normale; den Inhalt der
+krummen Fläche, so wie des durch sie begrenzten
+Körpers. Das Capitel schliefst mit den Linien dop-
+pelter Krümmung und den Flächen der zweiten Ord-
+nung. Auch diese Abtheilung zeichnet sich durch
+Klarheit der Darstellung und consequente Anord-
+nung aus. Interessant ist unter Anderem, wie der
+Vf. bei der Theorie der Osculationen Lagrange ge-
+
+en einen Vorwurf Cauchy’s vertheidigt, welcher be-
+Bauptet, dafs das Verfahren Lagrange’s die Oscula-
+tionen von der Lage der Axen, und namentlich von
+der Lage der Ordinaten- Richtung, in welcher der
+Abstand genommen ist, abhängig erscheinen lasse.
+Herr 0. zeigt dagegen, wie auf eine leichte Weise,
+durch Einführung neuer Axen, das Verfahren von
+Lagrange zu einem vollkommen strengen werde,
+Die dritte Abtheilung enthält nun die Mechanik des
+Atoms selbst, jedoch umfalst dieser erste Band nur
+die Lehre von der Bewegung und dem Gileichge-
+wichte eines Atoms, welche in fünf Capiteln vorge-
+tragen ist. Das erste handelt von der Bewegung
+eines Atoms in ihrer Erscheinung; das zweile von
+den Ursachen der Bewegung eines Atoms, und von
+der Zusammensetzung und Zerlegung der Kräfte,
+Dabei hat uns der Beweis des Princips der virtuel-
+len Geschwindigkeiten seiner Natürlichkeit und Kin-
+fachheit wegen, besonders wohl gefallen, Der vr.
+
+g°
+

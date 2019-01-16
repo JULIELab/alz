@@ -1,0 +1,135 @@
+83
+ulationen, der Gebrauch der Petitio prineipis
+
+‚ nicht nur erlaubt, sondern gar methodisch einge-
+führt scheint, und wohl gar für ein System ausgege-
+ben wird,” Das Folgende müssen wir bekennen,
+nieht gapz verstanden zu haben. Der Vf. 'fährt.näm-
+3Meh fort: „‚es ist dies allerdings der historische Gaog,
+denn das Bedürfnis ist die Mutter aller Künste. Aber
+die Geschichte soll commentirt, sie soll pragmatisch
+bearbeitet werden; dies ist das Geschäft der Mufse
+und Speculation. So bildet sich die Theorie, die
+Wissenschaft , und eröffnet der Erfahrung ein neues,
+ihr bisher unzugängliches Feld, — ‘jedoch nur bis
+ziü einem gewissen Ziele, denn sie selbst ist Erfah-
+rung in höherem, in geläutertem Sinne, An die
+Stelle des Xufseren Stofles tritt nun der innere, der,
+bis soweit er gefafst ist, nun in seiner Form verar-
+- beitet , zur plastischen Vollendung herangebildet
+werden mufs, — Aus diesem. dritten und letzten
+Gesichtspunkte, welcher, wie man sieht, die bei-
+den andern in sich vereint, aber zugleich über ihre
+fehlerhafte Beschränkung hinausgeht, zeigen sich
+die Elemente in ihrer wahren Gestalt, als die wirk-
+lichen, sieh gegenseitig auf einander beziehenden,
+sich gegenseitig bestimmenden und entwickelnden
+ime der Wiesenschaft, wobei die practischen Rück-
+sichten gegen die theoretischen zurückstehen, oder
+vielmehr durch dieselben uur höher gesteigert wer-
+den, indem sich das eigentlich Practische (hier die
+' angewandte, Mathematik) zur eigenen Selbstständig-
+keit absondert, Hieraus erklärt und rechtfertigt
+.gich nun die Kinrichtung des vorliegenden Grundris-
+ses. Diese erste Abtheilung des vorbereitenden Thei-
+les hätte den Umfang der eigentlichen Elemente völ-
+lig erschöpft, wofern das Studium der Mathematik
+nicht mit denselben in der Regel abgebrochen würde,
+Dadurch hat sich nun die Inconvenienz geltend ge-
+macht, aus ihr Einiges (die Elemente der Körperleh-
+re) wegzulassen, und für dasselbe Anderes, aus hö-
+heren und zum Theil angewandten Beziebungen Ent-
+nommenes (über den Zusammenhang der Gestalten,
+oder die Ausführuug der Construction) zu substitei-
+ren. Die zweite Abtheilung wird nnn, aufser dem
+hier Weggelassenen, einiges, aus dem zweiten Thei-
+Je Entlehntes, die Reiben, die Gleichungen und die
+arithmetische Geometrie betreflend, elementar be-
+handeln (d. h. also hier, der concreten Auffassung
+zugänglich machen), uad ist also nur als eine Vorbe-
+- zeitung zu betracklen, die selbst keinen Anspruch
+auf wissenschaftlichen Gehalt macht, und daher auch
+möglichst kurz gehalten wurde, Der zweite Theil”
+umfafst also die Wissenschaft selbhat, ‚Er hat es da-
+her auch selbst zu zeigen, bis wie weit es dem Vf,
+gelungen ist, sie in ihren Hauptumrissen wiederzu-
+geben.” Es läfst sich aus dem Obigen schon schlie-
+fsen, dafs der Gang des Vfs, ein eigenthümlicher
+seyn werde, und das ist er auch wirklich, Wir sind
+indessen dem Vf, mit Vergnügen gefolgt, denn, ob-
+wohl er selbst sagt, dafs diese Abtheilung auf wis-
+senschaftlichen Gehalt keinen Anspruch mache, so
+ist sie doch wirklich mit echt wissenschaftlichem
+
+ERGÄNZUNGSBLÄTTER ZUR A. L, Z,
+
+half. selbat. At
+
+5
+
+Geiste und grofsem Scharfsinne verfalst, Der Ia-
+folgender, Nach einer Einleitung,
+worin der das Nöthigste über die Begriffsbe-
+stimmung der Mathematik, die Eintheilung dersel-
+ben, sowie über Methode und System der Mathema-
+tik, vorausschiekt, geht er über zur Klementar-
+Arithmetik, Der erste Abschnitt derselben handelt
+von den Grundoperationen mit unabhängigen Zahlen,
+Der Vf, nennt die Grölsen oder Zahlen abhängig,
+wenn in ihnen die Art, wie die einzelnen Theile aus
+einander hervergehn und hierdurch das Ganze bil-
+den, besonders ausgedrückt oder bezeichnet ist; im
+entgegengesetzten Falle unabhängig. Bei der Lehre
+von der Multiplication bringt der Vf, auch die Lehre
+von den Potenzen vor, was wir nur billigen können,
+Weniger billigen wir pag. 37 den Beweis des Lehr-
+satzes, dafs bei der Division eintheiliger Zahlen ei-
+nerlei Zeichen einen positiven, verschiedene Zeichen
+aber einen negativen Quotient geben, Der Vf, be-
+weist nämlich so:
+
+„Behauptung 1) Zi=+6 3) z5=— 6 .,
+2) Zi=+6; 4) Tees
+
+Beweis, Man nehme diese Behauptungen als richtig
+
+an, multiplioire an beiden Seiten der Gleichheitszei-
+chen mit den Divisoren, und setze für a an die Stelle
+b.c, so erhält man die identischen Ausdrücke: 1)
+4) + 5c = + Gc; mithin sind auch die Behauptungen
+wahr,” Gegen die Richtigkeit dieses Beweises ist
+nun freilich nichts zu erinnern, aber als besonders -
+förderlich für die Verstandesbildung können wir ihn
+
+nicht betrachten, Wir ziehn es vor, den Beweis so
+
+zu führen, dafs wir die Division als eine Auflösung
+eines Produktes in zwei Fartoren betrachten, von
+denen der eine, nämlich der Divisor gegeben is®
+Ast nun der Beweis lür die Zeichen bei der Multipli-
+cation bereits geführt worden, so ergiebt er sich bei
+der Division leicht von selbst. Noch überzeugender
+wird dem Anfänger der apagogische Beweis, Z.B., um
+
+zu beweisen, da(s To= —C sey, sage man 80: ge-
+
+setzt der Quotient sey -+c, so müfßste der positive
+Quotient mit. dem negativen Divisor multiplieirt,
+den positiven Dividendus geben, was nach der Leh-
+re der Multiplication unmöglich ist u, s, w. Wohl
+gefallen hat uns der Beweis des Lehrsatzes: wenn .
+eine Primzahl kein Maals mehrerer anderer ist, so
+ist sie auch ein aliquanter Theil (soll wohl heifsen:
+kein aliquoter Theil) des Produktes derselben, d, h,
+dieses Produkt läfst sich durch jene Zahl nicht ohue
+Rest theilen. Nur wäre damit ein anderer Lehr-
+satz zu verbinden gewesen, nämlich der, dafs jede
+zusammengesetzte Zahl ein Produkt aus bestimm-
+ten Primzahlen sey, deren jede in ihr nur auf eine -
+Weise wiederholt vorkommen kann, Der zweite
+Abschnitt handelt von den Grundoperationen mit
+systematisch gebildeten Zahlen. Der Vf, erklärt
+sich darüber so: ‚Kin Potenzensystem ist eine-
+
+8J- .
+

@@ -1,0 +1,148 @@
+. oe „; 7 !
+
+ERGÄNZU
+
+ALLGEMEINEN LI
+
+4
+mn - UM
+
+—__ PRAKTISCHE GEOMETRIE,
+
+- Maınz, b. Kupferberg: Geographische Trigonome-
+
+trie, oder die Auflösungen der geradlinigen,
+
+sphärischen und sphäroidischen Dreyec
+von J. P. W. Stein u. Ss. W.
+
+‚ . (Beschlufs der im vorigen ‚Stück abgebrochenen Recension.)
+
+De dritte Theil ist überschrieben: ‚Formulare
+zu trigonometrischen Berechnungen”, enthält aber
+diese nicht allein, sondern auch einzelne ganz ausS-
+geführte Beyspiele, Schemas zu Tabellen bey geo-
+dätischen Arbeiten u. S. w., kurz eine völlige Anlei-
+tung zu praktischen, Rechnungen; über jefs sind
+auch noch einzelne Bemerkungen über die Sache
+zelbst beygefügt. Diese Anleitung wird gewifs den
+meisten angehenden Geodäten und Rechnern, wenn
+sie nicht mündlichen Unterricht bey ihrer practi-
+schen Ausbildung benutzen können, sehr nützlich
+seyn, indem bekanntlich bey dem Rechnen nach
+Formeln gewöhnlich im Anfange oft gefehlt, oder
+durch mangelhafte Anordnung manches übersehen
+Zum Verständnifs der Formulare sind einige
+Bemerkungen über Zeichen bey den Logarithmen
+und die Beziehung Zwischen den trigonometrischen
+Functionen des spitzen Winkels a und denen von
+90° + a, 180°+a, und 270° + a vorausgeschickt.
+‚ Wenn diese Beziehungen auch hinreichend aus den
+Anfangsgründen bekannt sind , so war es doch wohl
+für Anfänger nicht undienlich,
+schlagens dieser Functionen hier zu wiederholen.
+Was aber die Zeighen bey den Logarithmen betrifft,
+so scheint Rec. die zwar in Frankreich allgemein
+
+Abliche Bezeichnung des Logarithimen eines Bruches
+
+durch das Zeichen — über der Kennziffer und des
+arlthmetischen .Complements eines Logarithmen
+
+durch — l6ög. der bey den‘ meisten deutschen Rech-
+
+nern gebräuchlichen Bezeichnungsart, bey welchen
+die Kennziffer des Logarithmen eines Bruches so;
+dafs man — 10 dabey versteht, genommen, und das
+comp. log. so oder durch c. 4. angedeutet wird, we-
+sentlich nachzustehen, weil bey Addition von Lo-
++ garithmen mit negativer und anderen mit positiver
+ennziffer man bey diesen Ziffern allein bald addi-
+ren bald subtrahiren mulfs, wodurch die Aufmerk-
+samkeit unnöthigerweise in Anspruch genommen
+wird, und leicht ein kleiner Fehler in der
+Ergänz. Bl. zur. A. In Z. 3881. _ -
+
+SAP IP EI 1 0 /
+NGSBLÄTTER
+va FT O
+
+TERATUR -
+
+November {881d. ; \
+
+ 
+
+sie wegen des Auf-,
+
+’
+> EI
+
+ZEITUNG
+
+entsteht , der eben, weil er klein ist, nicht so: auf--
+fällt als ein grofser von 10 oder 20 Einheiten, wel-
+cher bey der anderen Bezeichnungsart‘ allenfalls
+möglich ist, aber bey dem flüchtigsten Recknen nicht
+übersehen werden kann. Ferner bedeutet das Zei-
+chen — dog: eigentlich einen abzuzieherwden Loga-
+
+rithmen, und ist nicht kürzer als c;, 2. Aus jenem
+
+Grunde kann es ebenfalls leicht Quelle eines Irr-
+thums werden, und jeder ‚etwas geübte Rechner
+weifs, wie sebr bey wirklichen Rechnungen alles
+was unnöthige Aufmerksamkeit fordert, zu vermei-
+den, und alles auf einen einfachen Mechanismus
+zurückzuführen ist. Uebrigens wird ein solcher
+Rechner Zeichen wie comp. log. ohnebin selten
+brauchen, weil bey gehörig geordneten Rechnungen
+gleicher Art die Stelle eines jeden Legarithmen er-
+ennen läfst, zu welcher Zahl er gehört. za
+Was nun die Formulare und Schemas selbst an
+geht, so sind sie gut und klar geordnet, und die
+Schemas so wie die Beyspiele gröfßtentheils aus der
+französischen Gradmessung oder der Base du sy-
+sicme metrique entlehnt,“ Sie-sind in mehrere Kapi-
+tel vertheilt, von denen das erste, zweyte., dritte
+
+und neunte die eigentlichen geodätischen, das 4te .
+
+bis 7te, die zur Mappirung gehörigen, und d
+
+die bey Höhenmessungen vorkommenden Rechnum
+en, sämmtlich nach den Formeln des ten
+‘heils, enthält und betrifft, Im ersten Kapitel
+jebt überdiefs die zwiefache Berechnung des gro
+sen Dreyecks Juiza Montyo Desierto, in welchem.
+
+die diesen‘ Winkeln gegenüberstehenden Seiten -
+
+72959,80, 82555,44 und 56559 Toisen betragen, dem.
+
+facıisahen Beweis von der Anwendbarkeit der Le
+
+gendre’schen Regel, Auch sind in Bezug auf die
+Mappirung mehrere practische Bemerkungen bey-
+gefügt: ; °
+
+über „Winkel- Mefsinstrumente”, in der Absi
+
+„die Fehler im Baue eines Winkelmessers erkennen
+vermeiden, oder doch wenigstens ihren Einflufs be-
+rechnen und corrigiren zu lernen; dann zu unter-
+suchen, welche Wirkung der fehlerhafte Gebrauch
+eines genauen Instrumentes auf die durch dasselbe
+erhaltene Resultat haben kann”. Nach dieser An-
+gabe des Zwecks folgt $ 2 die Eintheilung in Hori-
+zontalwinkelmesser und solche, welche den Winkel
+in ihrer eigenen Ebene geben, wobey der Mefstisch
+
+. mit einer Kippregel als allgemeiner Kepräsentant je-
+ennziffer ,
+
+ner angenommen wird, Diese Wahl ist zar Betrach-
+P (5) 22.7 tung
+
+In einem Anhange spricht der Vf. zuletzt noch -
+

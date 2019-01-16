@@ -1,0 +1,151 @@
+"" vn Al F°- vn I DD 0 zur.
+
+f
+
+102
+
+Nun läfet fıch die Aenderun
+be M befindlichen electrof
+der Zeit dt auch durch
+du “
+1 Ed a
+und die Aenderunng der Electriditätsmenge in der-
+{elben Zeit durch ,
+
+der in der Scheil-
+en Kraft während
+
+. ur dxdt
+gusdrücken; es ift mithin .
+.° du d’u
+wobey indeffen vorausgefetzt wird, dafs die Aen-
+derung in der Electricitätsm der Aenderung der
+electrofcopifchen Kraft proportional fey, eine Vor-
+
+ausfetzung welche die bisherigen Unterfuchungen
+
+zu beftätigen fcheinen; der Vf. bildet jedoch diefe
+Formel auch für den Fall um, wo ch bey der
+Electricität ein Phänomen zeigen follte, welches
+der Capacität der Wärme ähnlich wäre. — Dividiren
+wir nun diefen Ausdruck durch wdxdt, fo wird
+du dw be °
+da (C)
+Setzen wir iu den oben gefundenen Ausdruck
+für die Electricitätsmenge welche von M’ nach MX
+geht, für ww feinen Werth, fo ift diefelbe
+md
+Eben fo erhalten wir für die Electricitätsmen
+welche von M, nach M kommt, nach Subftituirung
+
+des Werthes von x», |
+du
+u KO d= dt ,
+
+beide Ausdrücke find alfo gleich und entgegengefetzt
+und es folgt hieraus dafs diefelbe Electricitätsmenge,
+welche in der Zeit dt von der einen Seite in die
+Scheibe M kommt, in derfelben Zeit nach der an-
+dern Seite abfliefst. Denken wir uns diefes zu,der
+Zeit dt in der zur Ableciffe x gehörigen Scheibe
+herrichende Fortrücken der Electricität in unuverän-
+derlicher Stärke auf die Zeiteinheit bezogen und
+nennen es den electrifchen Strom, S, foiltt %
+
+du
+S= 0
+
+wo poßtive Werthe von S anzeigen, dafs die Rich- .
+
+‘tung des Stromes der der Abf(cilien entgegengefetzt
+ift, und umgekehrt. . '
+
+Diefe Ausdrücke gelten auch noch, wenn fich,
+wie diefes bey den galvanifchen Combinationen der
+Fall ift, mehrere heterogene Körper berühren. Be-
+trachten wir nämlich zway gut leitende Körper 4
+
+und B von gleichem oder uggleichem Queerfchnitte, f
+
+fo gilt für ihre electrofcopifchen Kräfte z und ww noch
+
+der Affiruck (C), und zwät für 323, fo lange die
+
+Abfeiffe x dem Körper {73 entfpricht, wenn wir
+our zugleich auf das abfolute Leitungsvermögen
+
+Nm, 18. JANUAR 1828,
+
+. auf die
+
+' in Berührung ftehen,
+
+2
+x und», fo wie auf die Queerfchnitte derfelben
+w und ww’ Rückfcht nehmen. Indeffen ift an der
+emeinfchaftlichen Grundfläche diefer heterogenen“
+
+örper noch ein aus der Natur diefer Combinationen
+hervorgehender. Umftand zu beachten, Bezeichnen
+wir nämlich die Werthe von wu und ww’ an diefer
+Grundfläche mit (u) und (u), fo findet hier ein plötz-.
+licher Sprung in year ir fiatt und es i |
+
+U) — (U )= 0 ;
+
+wo « eine conftante, von der Befchaffenheit der
+Körper abhängige Gröfse ausdrückt, welche wir
+oben die electriliche Spannung genannt haben. Be-
+zeichnen wir ferner die Werthe von ie und‘ E
+an diefer gemeinfchaftlichen Grundfläche mit
+
+(Z) und (* fo ift nothwendig ;
+x (EZ) = ww’ ) (D)
+
+denn hätte der electrifche Strom « diefer ge-
+meinfchaftlichen Grundfläche nicht einerley Gröfse,
+fo würde aus dem einen Körper nach.diefer Grund-
+fläche mehr Electricität zugeführt, als nach der
+andern Seite abfliefst, und es müfste hier alfo die
+electrofeopifche Kraft fehr fchnell wachlfen, was -
+die Erfahrung keinesweges beftätigt.
+
+Wenn wir den oben gefundenen Ausdruck (C)
+electrofcopifchen Erfcheinungen galvanifcher
+Ketten anwenden wollen , fo können wir in demfel-
+ben noch mehrere Aenderungen anbringen. Es hat
+nämlich in den aus guten Leitern zulammengefetzten
+Ketten die Zeit gar keinen Einflufs auf die Erfchei-
+nungen, es i{t allo hier t= 0; ferner zeigt die Luft
+hier keine oder doch nur eine fehr geringe Einwir-
+kung auf die Stärke der Electricität, indem fich bey ,
+diefen Erfcheinungen die Electricität durch. das .In-
+nere der Körper verbreitet , fo dafs nur ein verhält-
+nifsmäfsig fehr geringer Theil auf die Luft wirken
+kann. Dadurch wird alfo d==0 und die Gleichung
+(C) verwandelt fch in ; ;
+
+du -.
+
+dr
+
+. Denken wir uns nun einen "prismatifchen Körper,
+
+welcher feiner ganzen Länge nach aus derfelben
+Materie gebildet ift und deffen Enden mit einander
+fo erhalten wir durch Inte-
+gration diefer Gleichung folgenden Ausdruck für die
+electrofcopifche Spannung
+' u=fxz+cC ;
+wo f und c zwey conf{tante Gröfsen find. Um hier
+zu beftimmen denken wir uns den Anfang der Ab-
+fciffen irgendwo in der Axe des Leiters, io find die
+ABfeiffen an den beiden Enden deffelben x, und x, >
+und wenn wir die electrofcopifchen Kräfte eben die-
+{er Punkte mit u, und u, bezeichnen , fo ift
+u =fx,+c, u=fx, +0
+
+folglich (w,—u,) = f(2,—23)-
+
+Hier
+

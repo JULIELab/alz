@@ -1,0 +1,139 @@
+: ‚AU
+
+Le de die AU A408
+
+eigentlich gleichfalls in die Statik; das Resultat,
+‚welches indessen der Vf, hier zunächst gewinnt und
+‚go ausspricht: ‚Die Intensität einer bewegenden
+‚Kraft wird also jedesmal erhalten, durch das Pro-
+dukt der Masse des bewegten Körpers in seine
+Geschwindigkeit”, ist nichts anders, als eine spe-
+eielle virtuelle Momentengleichung, — Hieraus will
+dann später der Vf, den Schlufs ziehen, dals zwi-
+schen einer momentan und einer continujrlich wir-
+kenden Kraft keine numerische Vergleichung statt-
+finden könne3 ganz recht, so bald man versäumt,
+das Discrete durch Kinführung des Unendlichklei-
+men in ein Continuum aufzulösen. Allerdings ge-
+hört zu einer unendlichkleinen Zeit eine unendlich
+‚grofse Kraft, so bald ein endliches Resultat her-
+vorkommen soll, Unsere künstlichen Stößlse gesche-
+. hen aber in keiner unendlichkleinen Zeit, und in
+‚go fern ist die Kraft auch endlich, Wenn der Vf,
+die Heterogenität zwischen stolsweise- und conti-
+nuirlich wirkenden Kräften mit der Heterogenität
+von Linien und Flächen vergleicht, so müssen wir
+hierbei, wie es bereits lange vor uns geschehn, an
+‚den wesentlichen Unterschied zwischen Summation
+
+und Integration erinnern; dann fällt es auch auf, .
+
+„dafs gerade der Vf. diesen Einwurf macht, da der-
+selbe doch ohne Bedenken in seiner Statik, und
+auch zuweilen hier, Linien aus Punkten, Klächen
+aus Linien u. 8, f, zusammen setzt,
+
+Fünftes Kapitel: Von der Wirkung des Stofses
+bewegter Körper. Wir haben so eben bemerkt,
+„dafs diese Untersuchung, ihrem Wesen nach, zur
+Statik gehört; was man davon der Mechanik bei-
+messen kann, ist etwa die Berechnung der Gröfßse
+des Stofses, welche der Kürper durch seinen Fall
+‚von einer gewissen Höhe erlangt. Uebrigens be-
+stimmt der Vf, die Gesetze des Stofses bei harten,
+weichen ,. vollkommen und unvollkommen elastischen
+Körpern, zwar auf einem elementaren Wege, aber
+mit einem für seinen Zweck genügenden Grade der
+Deutlichkeit und Schärfe, Den Beschluls dieses
+Kapitels bildet eine theoretisch - praktische Un-
+tersuchung über die Wirkung der Ramm - Ma-
+‚ schine,
+
+Sechstes Kapitel: Vom Fall der Körper auf
+vorgeschriebenem Wege, nebst Theorie des Pendels.
+Zunächst betrachtet der Vf. den Fall eines schwe-
+ren materiellen Punktes auf einer geneigten Linie
+oder Ebene; sodann leitet derselbe durch Betrach-
+tung eines unendlichen Polygons den Satz ab; dafs
+ein Körper durch den Fall in einer Curve dieselbe
+Endgeschwindigkeit erlange, als wenn er von der
+
+zugehörigen verticalen Höhe frei herabgefallen .
+
+‚nämlich ein Curvenelement in derselben
+
+‚dem dazu gehörigen unendlichkleinen
+
+‚ hört eigentlich nicht hierher, sondern in die
+
+MUERUDLEL 100% =
+
+‚wäre, Dieser Satz ist aber nur dann wahr, wenın j
+
+man die Abscissenkraft des fallenden Körpers = X
+stellt; für jeden andern Werth werden die zu ein—
+
+ander gehörigen momentanen Geschwindigkeiten des
+
+fallenden Körpers zwar immer gleich grofs seyn
+welches auch "ie Krümmung der Curve ist, und
+
+-80 sehr sie sich der geraden Linie nähern mag,
+‚nur bleibt hiervon diese Linie
+„Höhe ) selbst ausgeschlossen: die Schlielsweise des
+
+(die senkrechte
+
+Vfs würde aber auch hier das Gegentheil ergeben.
+— Dann bringt der Vf. auf eine ähnlicbe Weise
+wie dieses Emerson in seinen Principles of Mecha-
+nics gethan, iso elementar, jedoch noch einfacher
+als es dort geschehen, die tautochronische Eigen-
+schaft der Cykloide zur Sprache; jedoch entsprän-
+ge mittelst einer völlig gleichen Schlufsfolge (dafs
+eit mit
+der mittlern Geschwindigkeit gleichförmig beschrie-
+ben. würde, wie dieses in der That mit ungleich-
+förmiger Geschwindigkeit geschieht) beim Kreise
+ein der Strenge nach durchaus falsches Resaltat,
+dafs nämlich die unendlichkleine Polygonseite mit
+gen in der-
+selben Zeit beschrieben würde. — Delswegen sah
+
+‚sich denn auch wohl der Vf. veranlafst, statt die-
+‚ses direoeten Weges, bei der Theorie des einfachen
+‚Pendels eine Approximation an die Cykloide ein-
+
+zuschlagen, welcher aufserdem, als praktischen Con-
+sequenz, sonst nichts vorzuwerfen ist,
+
+‚ Siebentes Kapitel: Von der Centralbewegung und
+den Centralkräften. Diese Untersuchungen gehö-
+ren eigentlich in die Astronomie, und sind die sie
+betreffenden Gegenstände hier nur ziemlich dürf.
+tig behandelt worden. Den Hauptsatz, dafs näm-
+lich in gleichen Zeiten bei allen Centralbewegun- -
+gen durch den Radins Vector gleiche Flächensecte-
+ren beschrieben werden, leitet der Vf. zwar recht
+deuflich auf die in populäreıi Astronomien übliche
+Weise ab. — Die beiden andern Kepler’schen‘ Be-
+wegungsgesetze führt der Vf. nur historisch an.
+Die zweite gröfsere Hälfte des Kapitels beschäftigt
+sich mit der Schwungkraft ; diese Untersuchung ge-
+heo-
+rie von den Normalkräften, und zwar von den be-
+ständigen ,. da die sogenannte Schwungkraft wei-
+ter nichts als eine etwa als Druck fixirte Nor-
+malkraft bei der Umdrehung eines Körpers’um eine
+Axe ist. WVUebrigens sind .die Folgerungen ganz
+zweckmäßig Bezogen und auf physische Geo raphie
+berechnet. Den Beschlufs des Kapitels bildet eine
+Erörterung des Centrifugal-, richtiger, Schwung-
+Pendels., ' \
+
+' (Der Beschlufs folgt.)
+
+ 
+
++
+

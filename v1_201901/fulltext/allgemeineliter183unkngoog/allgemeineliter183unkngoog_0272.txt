@@ -1,0 +1,143 @@
+505
+
+/ zz 63 —
+‚ALLGEMEINE LITERATUR- ZEITUNG
+
+N .
+
+März 1828.
+
+ 
+
+MATHEMATIK.
+
+Berity, b. Reimer: Lehrbuch der Arithmetik und
+Algebra — — von Dr. 4. L. Crelle u. {. w.
+
+(Befchlufs der im vorigen Stück abgebrochenen Resenfion.)
+
+n $. 220. fagt der Vf.: „Eine Poteftät ift alfo, um
+es nochmals zu wiederholen, im Allgemeinen dieje-
+nige Zahlengröfse, welche die Eigenfchaft hat, dafs
+z. B., wenn a, x und & ganze oder gebrochene oder
+iacommenfurable, pofitive und negative Zahlengrö-
+
+fsen find, was man will 1.a*. ak a7 tk und
+2. (ax)* = a** ft.” Die zweyte Bedingung, dafs
+(ax) a fey, ift überflüfüg, da fe von der erften
+
+dafs a%.a*=a*t* ift, involvirt wird, Aus dem-
+felben Grunde ift auch $. 221. überflüffg, in welchem
+gezeigt wird, dafs beide Bedingungen neben einan-
+der beftehen können, und fich nicht einander wi—-
+derfprechen. — In 6. 222., welcher die Sätze:
+
+a°=—=1,d=ad, 8 7 => u. f. w. enthält, fehlen ei-
+nige wichtigeSätze, z,B. (— a)? =a?*, (—a)?*£*
+
+= —a* 4" al. w..— Das Verfahren im 6. 230,
+
+Logarithmen - Reihen convergent zu machen, aus
+einer Abhandlung von Lavernede in den Annalen
+der Mathematik von Gergonne entlehnt, . verdient
+Beachtung.
+
+In dem neunten Abfchnitte, welcher von den
+imaginären oder eingebildeten Gröfsen handelt,
+leugnet der Vf. die Exiftenz derfelben, obgleich er
+nachweift, dafs fe exiftiren. Da üe exiftiren, fo
+
+kann bier nur die Frage feyn: wie und auf welche”
+
+Weife exiftiren Ge? und die Beantwortung diefer
+Frage ift um fo wichtiger und intereffanter , da, wie
+der Vf. zu Ende des € 253. felbft ausdrücklich fagt,
+fıe in der Rechenkunft (Rechnung) von grofsem
+Nutzen find, und öfter die Refultate fehr leicht und
+einfach geben. Aufgefallen ift es dem Rec. , dafs der
+W* in diefem Abfchnitte die vier Species übergangen
+at.
+2» Der zehnte Abfchnitt, von den imaginären Lo-
+garithmen oder den fogenannten Kreis Cröfsen, ift.
+mit ‚vielem Fleifs ausgearbeitet, und der Vortrag in
+demfelben fehr deutlich. Aus der Entwickelung
+
+von €” erhält der Vf. die Entwickelung von
+ex, wo i far —1 fteht, und fetzt diefelbe, weil
+
+fie aus einem re
+“4. L; Z. 1828. Erfter Band.
+
+ellen und aus einem imaginären.
+
+vr
+
+Theile befteht, =u-+iv. Vermittelft der Gleichung
+
+e*'* _ u+iv entwickelt er, indem er Cos x für u
+und Sinx für vv fetzt, mehrere trigonometrifche
+Formeln, Ausdrücke für (+ 1)", (+), Reihen für
+(2 Cosx)", (2Sina)", Cosmx, Sinmx u, f. w. und’
+zu Ende giebt er, nach der Beftimmung von x, die
+
+Entwickelung von log Cos(x+&) u. f. ww. Wenn
+
+—-—-
+
+aber Ree. hey diefem Abfchnitt in Beziehung auf den
+
+Vortrag und auf die Sache nichts auszufetzen findet,
+fo ift doch diefes bey einer befondern Anfıcht des
+Vfs nicht der Fall, welche derfelbe indeffen mit ei-
+nigen neuern mathematifchen Schriftftellern theilt.
+
+: In $. 259. heifst es nämlich: „Man ift übereingekom-
+
+men, den reellen Theil z von e*'* qurch das Zei-
+chen Cos x, und den Factor v des imaginären Theils
+
+von e*** durch Sin x zu bezeichnen u. f. w.” und in
+der Anmerkung diefes $.: „Diejenigen Lefer, wel-
+che mit JerBedeutung gleicher Bezeichnungen Cosx
+und Sin in der Geometrie, namentlich in der fo-
+
+genannten Trigonometrie, ‘ bekannt find, werden
+
+wohl thun, die geometrifche Bedeutung der Zeichen
+
+mit den gegenwärtigen noch in keine Verbindung
+zu bringen. Cosx und Sinx find, wie man fieht,
+nicht aus der Geometrie genommen, was auch nicht
+feyn kann und darf, weil. die Geometrie nicht der
+Rechenkunft vorhergeht, fondern diefe jener. „Die
+Arithmetik geht allerdings der Geometrie vorher,
+indem fie die Aufgaben löfen mufs, welche ihr zu
+geben diefe gezwungen ift. Hieraus folgt aber nur,
+dafs die Arithmetik im Stande feyn müffe, die Auf-
+
+gaben zu löfen, welche ihr die Geometrie vorlegt,”
+
+eineswegs aber, wie Hr. Crelle in derfelben An-
+merkung weiter fagt, die Worte in feinem Sinne
+enonımen, dafs die Arithmetik es zum Vorwurf
+abe, die Refultate der Geometrie zu liefern, ohne
+die Aufgaben derfelben zu kennen. '
+
+Der eilfte Abfchnitt hat zu feinem Vorwurf die
+Gleichungen des zweyten, dritten, vierten und
+der folgenden Grade. Deutlichkeit und die mdg-
+lichfte Ausführlichkeit, fo weit diefe durch den
+Zweck des Buches erlaubt ift, zeichnen diefen Ab-
+fchnitt aus. Er zerfällt feiner Natur nach in zwe
+Theile, nämlich 1) in den Theil, welcher die Auf£-
+löfung der Gleichungen mit einer unbekannten Grö-
+fse, und 2) in den, welcher die Auflöfung der Glei-
+chungen mit mehreren unbekannten Gröfsen lehrt.
+Der erfte zerfällt wieder in Unterabtheilungen , wel-
+che folgende find: ‚4. Von den Gleichungen mit
+einer unbekannten Gröfse überhaupt.” Auflöfung
+
+Rrır er
+
+"
+

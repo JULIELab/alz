@@ -1,0 +1,138 @@
+/
+
+807
+
+malbrüche mit ihren Logarithmen. 8. 54. Die hier
+mitgetheilten Tafeln enthalten:
+
+1.3.5.... Z2(n—1)— 1} 1.8.5....(Q2n —1)
+g.4.6......28 ” 2.4.6....2n.(@n +1)"
+
+1.8..... 2n—1 1.8.5..... <2(n—1)— 1}
+Z.4....2n 2.4.6.....2n(n +1)
+
+{ämmtlich bis n == 10. — V. Tafel der Binomial-
+Coefficienten in Decimal - Theilen ausgedrückt.
+S. 55. — VI Tafel zur Reduction des Duodecimal-
+maafses auf Decimalmaafs. S. 56. — VI. Tafel der
+emeinen Logarithmen aller Zahlen von 1 bis 10800.
+f 57—78. Die Einrichtung if nahe diefelbe als in
+den Tafeln von Vega; in der Verticalfpalte fiehen
+indeffen nur drey Ziffern; die Logarithmen felbf
+find bis auf 6 Ziffern gegeben, eine Genauigkeit,
+die für die meiften Rechnungen mehr als hinrei-
+chend if, da felbf die fechste Decimalziffer wohl in
+wenigen Fällen erfordert wird. Nur von 1 bis 250
+und von 10000 bis 10800 giebt der Vf. 7 Decimal-
+(tellen. — VIM. Tafel der gemeinen und der hy-
+erbolifchen Logarithmen mit zehn Decimalfiellen
+Ber natürlichen Zahlen von 1 bis 1000 und der Prim-
+zahlen von 1009 bis 10883, S. 79 —96. — IX. Ta-—
+fel der Logarichmen der Sinus und Tangenten von
+Secunde zu Secunde für die zwey erfen Grade und
+yon zehn zu zehn Secunden für alle Grade des
+Quadranten. S. 97—897. Rec, leugnet nicht, dafs
+er in diefer Tafel, welche die Logarithmen bis auf
+feben Stellen giebt, eine bequemere Einrichtung
+gewünfcht hätte, Der Vf. giebt nämlich in vier au
+einander folgenden Verticalfpalten die log. in. von
+vier auf einander folgenden Graden; wir finden alfo
+in einer Horizontallinie log. fin. 4°53‘10*“, 5° 58’ 10*,
+
+6° 53‘10", 7°58'10“, nebft den entfprechenden Dif-
+
+ferenzen. So fetzt der Vf. die Tafel bis 90° fort.
+Hieraus aber entfieht eine grofse Unbequemlichkeit
+
+beym Rechnen. Sehr häufig it es erforderlich Zog.
+
+fin. x und log. caf. x zugleich zu kennen; in den mei-
+fien Tafeln fliehen beide Gröfsen zufammen. Hier
+aber if erforderlich log. fin. x und log. Ön (90° — x)
+einzeln aufzufuchen. Sehr zweckmäfsig wäre es
+aufserdem geweflen, wenn der Vf. bey jeder Minute
+einen Horizontalfrich gezogen, oder wenn er hier
+die Zeilen etwas weiter auseinander gerückt hätte,
+wie er diefes in der fogleich zu erwähnenden zwölf-
+ten Tafel gethan hat. — X. Hülfstafel zur Berech-
+nung der Logarithmen. S. 898 — 400, VDiefe Tafel
+‚enthält die natürlichen und künfllichen Logarithmen
+von 1 bis 9, von1, 1bis1,-9, van 1, 01 bis 1, 09,
+von 1, 001 bis 1, 009...... von 1, 000000000001 bis
+1, 000000000009 fämmtlich bis auf 20 Decimalfiel-
+len. — XI Länge des Kreisbogens in Theilen des
+
+ 
+
+ 
+
+A.L.Z. Num. 99. APRIL 1828. |
+
+Halbmeflfers S. 400. Es wird hier die läy
+Kreisbogens für jedes Zehntel des
+
+für den ius 1 bis auf 40 Deei
+
+XIL Tafel der natürlichen Sinus und
+von Minute zu Minute für alle Grade des(aia
+ten. S. 401 — 462. Sinus, Coins, Tapın
+
+ Cotangens fliehen hier neben einander. - Lö
+
+folgen auf S. 468 — 466 noch de kachl
+Tafeln: 10°? bis 10°", 10°°% bis 10%...
+bis. 10°,°°" 5 fodann Fotenzen der Grasthte
+
+‚/18...., eben fo wie die vorhergehende Tür
+
+erichtet fämmtlich mit 12 Decimalüeles (&t
+
+gt, er habe diefe Tafel aus Erers Hand. d 4
+Arithm. zwar entlehnt, aber neu berechset md
+dortigen Fehler verbeflert), Sodann folıt dacle
+fel für die Verwandlung der Grade is Decimaltil
+des Quadranten und_der Minis zıd Secandes B
+Decimaltheile des Grades. De Sci exdich
+macht eine Tafel für die Vidbden(1t5 9) ru
+
+\
+1 1 8 —
+
+4 67 äx) 12’
+
+   
+   
+  
+
+Der eben angegebene Inhalt ee hm
+dafs die vorliegende Sammlung man
+hält, welche in vielen anderen Schriften ver
+Inhaltes vermifst werden; zu en
+nicht, dafs Gch ohne bedeutende Vernäng#
+Volumens noch manche zweckmilsi Ar
+hinzufügen laffen , fo die Bernoulli'lc en Zahlen
+Binomialcoeffcienten für ganze poftire :
+Tafel für die Coefhcienten der Factor
+oftiven und negativen enten 0. } *
+Tl indeffen durch das eben Gelagie den FO
+diefer Schrift keinesweges herabletzen, 00
+fchwer, ja wohl unmöglich feya möchte, 5;
+lung von Tafeln herauszugeben, welct kr
+nen zu grofsen Umfang zu haben, allen bt
+genügen foll. Schliefslich glaubt Rec wc is
+en zu müffen, dafs faß fämmtliche Talk 0%
+Vf. neu berechnet find, nur die I P
+Zahlen und trigonometrifchen Fu
+Vega’s und Gallet’s Tafeln gegebedb. |
+
+Druck und Papier find gut, dien el
+zu erkennen, namentlich hat man et
+wechfelung von 8 und 8 zu befürchte zn
+den Tafeln von /ega, wehn fie NCST rm
+leicht möglich if. Auch die Comet,
+orgfältig zu fe wenigliens ad
+men der Zahlen und trigonometrifche? To
+an mehreren Stellen mit anderen Sam
+glichen, ohne dafs ihm ein Druckfehler
+wäre. ’
+

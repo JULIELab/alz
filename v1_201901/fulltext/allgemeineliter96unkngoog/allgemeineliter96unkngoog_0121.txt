@@ -1,0 +1,137 @@
+SAP
+
+sitiven und negativen Zahlen, Gesetze der Ver-
+< Bindung von Gleichungen und Ungleichungen mit
+Rücksicht auf dis positiven und negativen Zahlen,
+Anh. Uebungsanfgahen, Zerlegung der Aggregate
+‘in Faktoren, — Abschn, Vi -Die vier Grundopera-
+tionen mit Zahlen, welche durch ein bestimmtes
+Zahlensystem ausgedrückt sind, Von der abgekürz-
+ten Multiplication und Division der Decimalzahlen,
+Fourier’s Regel der geordneten Division. Anh. Zu
+den Zahlensyatemen überhaupt. Anwendang auf Län-
+n-, Flächen. und Körpermaafse, Rechnungsvor-
+eile, welche die Anwendung der dekadiechen Er-
+gänzungen gewährt. Allgemeiner Beweis der Lehr-
+‚ sätze von der Abkürzung der Zahlen irgend ei-
+nes Systems,, VUebuugsbeispiele, Abschn, VI. Von
+der Ausziehung. der Quadrat - und Kubikwurzel,
+Ankh, Allgemeine: Beziehungen, Gergonne’s Methode
+der '"Quadratwarselauszichung. Uebungsbeispiele,
+Grundformel zur Ausziehung der. fünften Warzel, —
+Abschn., VII. Vor den einfachen und zusammenge-
+setzten Zahlen, Allgemeine Lehrsätze, Kennzei-
+chen der Theilbarkeit einer Zahl durch andere Zah-
+len mit Rücksicht auf das dekadische System, Anh,
+Allgemeine die Theilbarkeit betreffende Lehr-
+sätze. Eigenschaften der geraden und ungeraden.
+Zahlen,. Eigenschaften der vollständigen Quadrat -.
+und Kubikzahlen, Kigenschalten der absoluten und
+relativen Primzahlen, Aufsuchung des gröfsten ge-
+meinschaftlichen Theilers zweier Polynome. KEigen-
+schaften der Zahlen in Beziehung auß das dekadische
+System, Die periodischen Decimalbrüche,. — Abschn.
+IIT, Von den Rotenzen, Wurzeln und Logarith-
+men, Anh, Uebungsaufgaben, — Abschn, 1X,
+Von den algebraischen Gleichungen des ersten Gra--
+das mit einer und mit mehr is einer Hauptgräfse
+und ven der Auflösung der Aufgaben vermittelst der
+algebraischen Gleichungen. Anh, Unmittelbare Be-
+stimmung jeder.von n Hauptgröfsen aus-ehen se viel
+einfachen Gleichungen. Beispiele, — X,
+Von den quadratiesgien Gleichungen, Fourier’s Auf-.
+lösungsweise. Anh. Uehungsaufgaben. Grundei-
+genschaften der imaginären Wurzelausdrücke, —
+Abschn, XI. Allgemeine Eigenschaften der Ketten-
+hrüche., KEinfache Kettenhrüche, Periodische Ket-
+tepbrüche, Anh. Erweiterung der allgemeinen Ki-
+schaften. Independente Darstellangsweise der
+Küherangsbrüche. Ausziehung der Quadrat wurzel,
+Uebusngsaufgaben. — Aödschn. XII. Von der unbe-
+stimmten Analytik, Anh. Uebungsaufgaben zur
+Auflösung einfacher unbestimmter Gleichungen,
+Cyklische Perioden u, s. w.. Unbestimmte quadrati-
+sche Gleichungen, — Aödschn. XIII. Von den Rei-
+hen, Allgemeine Begriffsbestimmungen, Figurirte
+Zahlen, Arithmetische Reihen. Geometrische Rei-
+hen, Binominal- Reihe, Anwendung der Methode
+der unbestimmten Kaefficienten auf die Verwandlung
+einiger Funktionen in Reihen, Von der Konvergenz
+und Divergenz der Reihen. Vom Interpoliren der‘
+Progressionen, Anh. Zahlenbeispiele, Altgemei-
+. nere Aufgaben und Anwendungen, Geometrische
+
+—>——._
+
+ 
+
+AM REDEN URN LH LUNG.,
+
+lation, Von der Zins- und Rentenrechnung. A
+
+     
+
+Reihen höherer Ordnung, Fall der Körper. Peris
+den der Decimalhrüche, Kingeschriebene. Krwise-und
+Kugeln, Näherungswerthe für Warzeln. - Interpe
+
+AH. - Die- Kombinationsiehre. Konstruirender
+Theil derselben ; independente, rekurrirende, inve-
+lutorische Kombinatorik, Variationen u, s. w. zu be
+stimmten Summen, Wechselbeziehungen der kom.
+binatorischen Operationen, Rechnender "Theil der
+Kombinationslehre. Anwendung der Kombinatione
+Jehre auf die Arithmetik, Kombinatorische Aggre
+gate, Polynomischer Lehrsatz, Anh. Uebungsauf-
+gaben, Allgemeine Anwendungen, Darstellung der
+rodukte, P(—ay +02-+a3...), Aufgaben aus
+der Wahrscheinlichkeitsrechnung. — Abschn. XV,
+Von den höhern Gleichungen, Umformung der Glei
+ohungen, Allgemeine Eigenschaften der Glefchun-
+en in Bezug auf ihre Wurzeln, Grenzen der reel-
+‚len Wurzeln, Bestimmung der rationalen Wurzele,
+Irrationale Wurzeln der Zahlengleichungen. Aul-
+lösung der allgemeinen Gleichungen des dritten und
+vierten Grades, Elimination, Anh, Uebungsaufga-
+ben, Ueber die imaginären. Wurzeln der Gleichun-
+en, Die Gaufsische Krweiterung des Cartesischen
+ehrsatzes, '
+
+‚». Was die Vertheilung der Abschnitte auf die ver-
+schiedenen Schylklassen anlagt, so hat der Vf. die
+beiden ersten für die vierte Abtheilung ; die vier fol-
+genden für die dritte bestimmt, so dafs in letzterer
+auch die Lehre von den Jrrationalzahlen vorkommen |
+soll. Dieses scheint dem Ree. denn doch zu gewagt
+yed sicher. heifst es dem Geiste eines Schülars der
+dritten Klasse zu viel. zumuthen , wenn.er sich eine
+richtige Vorstellung von Irrationalzahlen machen
+soll, während er noch Nichts von Potenzen und Wur
+zeln weifs, denn die Ausdrücke Quadrat und Kubus,
+welche schon in den beiden ersten Abschnitten vor-
+kommen, können und dürfen ihm noch nichts Ande-
+res seyn als Benennungen für die Produkte aus zwei
+oder drei gleichen Faktoren, keineswegs aher die
+zweite und dritte Potenz als specielle Fälle der
+Potenz im Allgemeinen, — Der 7ie, Ste, 91e und
+10te Abschnitt sind für die zweite Klasse und die
+fünf letzten für Prima bestimmt, '
+
+Für höchst zweckmiilfsig ist es zu halten, daß
+der Vi. gleich von Anfang an, schon bei den ersten
+Elementen die Idee der Gleichung andvendet und den
+Schüler die so sehr einfache, schon in der Natur der.
+Bezeichnung begründete Auflösung der Gleichungen
+vom ersten Grade lchrt, nicht gerade dafs er ihnen
+ein besonderes Bapitel widmete, sondern indem er
+sie als ganz beiläufig, als sich von selhst ergebend bei
+Gelegenheit der Umformung algebraischer Aus-
+drücke mittheilt, Ebenso mufs man dem Vf. Dank.
+wissen, dafs er der Theorie der Ungleichungen eine
+besondere Aufmerksamkeit geschenkt hat, indem er
+sie ‚vollständig, so weit.es für den vorliegenden
+Zweck nöthig war, als ahgesenderte Lehre behun-
+delte, während sie in allen dem Ree, bekanzten
+
+a rn A — Ga ——
+

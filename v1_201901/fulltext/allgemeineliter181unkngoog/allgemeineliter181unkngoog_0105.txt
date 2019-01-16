@@ -1,0 +1,149 @@
+der ihnen zum Grunde liegenden Schlufsfolge ist
+bereits hinreichend, gie aus einem jeden Elamen-
+gar - Lehrbuche, hesenders wenn dasselbe für die
+Praxis berechnet ist, zu verweisen, und an ihre-
+Stelle Wie: einfache X Resultats der
+Zusammensetzung gleichförmiger Bewegungen‘ zu
+bringen ‚ indem man als Grundsatz feststellt, dafs
+die Bewegungen in der Resultante einzeln und neben-
+einander bestehn.
+
+Auf eine sehr deutliche, durchaus consequente
+‚und den besten Vorbildern entsprechende Weise
+‚zeigt nun der Vf. in den drei ersten Kapiteln die
+Anwendung des Princips vom Diagonal der Kräfte
+‚auf eine bestimmte und unbestimmte (jedoch end-,
+liche) Anzahl mit Druckkräften belegter materiel-
+
+‚ler Punkte, sowohl wenn diese Kräfte anf einen fach
+‚der virtuellen Geschwindigkeit eine statische Deu-
+
+Punkt gerichtet sind und sämmtlich in einer Ebene -
+liegen, als wenn sie überhaupt dem Raume ange-
+. hören, oder auf mehrere Punkte gerichtet sind, wo-
+bei- dann wieder eine parallele und divergirende
+‚Richtung unter denselben unterschieden wird,
+
+Das vierte Kapitel handelt von dem Princip der-
+virtuellen Geschwindigkeit. | Hier haben wir es wie-,
+der mit der Metaphysik der Wissenschaft zu thun.
+Allein dies ist ganz unnöthig, namentlich in den
+Elementen. Wir sehen nicht ein, wefshalb.der Vf,
+. _hier nicht eben so.kurz und plan zu Werke ging,
+wie bei seiner Erörterung der statischen Momen-
+_ten- Gleichung, Es bezeichnet nämlich bei dem Vf.
+die Gleichung der virtuellen Momente, weiter nichts,
+als die = 0 gesetzte Summe der Produkte aus einer
+jeden Kraft mit der Projection ihres Hebelarms
+auf ihre eigene Richtung. So wie nun der Mittel-
++ punkt der Momente eine reine Fiction ist, um da-
+
+urch den Zustand des Gleichgewichts zu bezeich-
+nen, so gut ist dieses auch bei dem Fortrückungs-
+punkt der virtuellen Momente der Fall, Eigent-
+ich findet durchaus keine Fortbewegung Statt, min-
+destens beim Verfasser nicht — und so können wir
+nicht umhin , offen zu erklären, dafs der elemen-
+‚tare Beweis, welchen der Vf. von diesem Principe
+",giebt, etwas. sehr Verschiedenes von dem befafst,
+was man in der höhern Mechanik bisher darunter
+verstand, Auch ist zu befürchten, dafs Erstbegin-
+nende leicht durch so unbestimmte Begriffe, wie
+Streben nach Geschwindigkeit u. dergl. bezeichnen,
+könnten verwirrt werden, Vielleicht möchte es
+genügen und vorzuziehen seyn, dieselben erst in der
+echanik mit dem Grundsatze des Descartes, und
+zwar praktisch, bekannt zu machen,
+
+Das fünfte Kapitel handelt von der Anwendung
+der allgemeinen Gesetze des Gleichgewichts auf die
+Lehre vom Schwerpunkte, Bei dieser echt statischen
+Untersuchung zeigt sich ganz vorzüglich der Nutzeg,
+ja die Unentbehrlichkeit der Infinitesimal - Rech-
+nung; denn wollte man auch nach der Anleitung des
+
+)
+
+ALLG. LITERATUR - ZEITUNG
+
+Cavaleri die Linien aus Punkten; die Flächen aus
+Ainien und die Körper aus Fälichen zusammen—
+setzen, so würde man doch in den meisten FäHen,
+wie sich auch beim Vf, ergiebt, in aufserordentliche,
+nicht zu beseitigende Weitläufigkeiten verfallen,
+und fast jeder deutlichen Einsicht und consequen—-
+ten Vorschrift entbehren müssen. Was sich jedoch
+auf elementarem Wege leisten läfst, hat der Vf,
+mit vieler Kunst und Klarheit zur Ausführung ge-
+bracht. — Es ist übrigens keinesweges übertrie-
+bene Strenge, wenn man bei dergleichen Unter-
+
+„suchungen volle Gründlichkeit fordert, denn die so-
+
+kann eben sowohl zu Irr-
+
+genannte Popularisirun
+e hrheiten führen,
+
+thümern, wie zu Wa
+
+Das sechste Kapitel befalst die Theorie der ein-
+en Maschinen. Wenn man von dem Principe
+
+tung ‚zulassen will, die sich dann an und für sich
+
+‚mindestens höchst plausibel machen läfstz oder mit
+
+andern Worten, wenn man, wie der Vf., des Des-
+
+_cartes mechanischen Grundsatz bereits als wissen-
+
+schaftlich begründet ansieht: dann besteht die Theo-
+rie der einfachen Maschinen in einer blofsen ‚An-
+wendung dieses Grundsatzes auf besondere Verbin-
+dungsweisen zwischen Kraft und Widerstand oder
+Last, und man hat für jeden einzelnen Fall dann
+nur noch die Bahnen aufzusuchen, welche beide in
+‚derselben Zeiteinheit durchlaufen, um sie selbst
+damit in ein umgekehrtes Verhältnifs zu bringen,
+Indessen hat es der Vf., nach dem Beispiele frühe-
+rer Schriftsteller , vorgezogen, gröfstentheils zu ei-
+ner ursprünglichen Ableitung mittelst des Kräften-
+Parallelogramms und der statischen Momenten- Glei-
+
+chung zu schreiten; und dieses Verfahren mag denn
+
+auch wohl dem Fassungsvermögen der Anfänger am
+
+Angemessensten seyn.- Bei Jer Schraube mit drei-
+eckigem Gewinde, und bei dem Flaschenzuge, fin-
+det indessen. eine Ausnahme Statt, indem hier der
+Vf. unmittelbar an den genannten Grundsatz appel-
+lirt. — Bei der Aufgabe: das Minimum des Druckes
+
+"von einem zweiarmigen materiellen Hebel auf sei-
+
+nen Unterstützungspunkt zu finden, wenn die Län-
+ge des zweiten Arms und die Gröfse des Gegen-
+ewichts zugleich unbekannt sind, hedient$ sich der
+Yr. der ersten und zweiten Differenzial - Coefficien-
+ten, nach der Methode des Lagrange als derivirte
+Funetionen bezeichnet; bekannt ist es, dafs bei
+dergleichen Untersuchungen beide Vorstellungs-
+arten, die des unendlichkleinen und die des un-
+bestimmtgrofsen Inkrements, zu denselben Resul-
+
+taten führen,‘
+
+Das siebente Kapitel handelt von der soge-
+nannten Seilmaschine, als Vorbereitung auf die Ket-
+tenlinie, und das letzte oder achte Kapitel von der
+Gleichgewichts - Curve oder Epicykloide. Diese Ge-
+genstände gehören eigentlich in die höhere Mecha-
+nik, und konnten defshalb hier nur eine kurze An-
+a - Se U-
+
+ 
+
+ 
+

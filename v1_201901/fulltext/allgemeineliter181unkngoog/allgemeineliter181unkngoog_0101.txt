@@ -1,0 +1,146 @@
+179
+
+und nur die Natur der geraden Linie, und die ein-
+fachsten Fälle der durch sie erzeugten ebenen Flä-
+chen betrachtet. Deswegen zerfällt das- Ganze in
+zwei Abtheilungen oder Kapitel, die folgende Ueber-
+schriften führen, .
+Kap. I. De symbolorum, quae lineam rvectam re-
+spiciunt , natura. n
+Kap. II. De symbolorum usu ad
+
+- monstrandas:
+
+In der ersten Abtheilung zeigt der Vf, wie die
+Lage eines Punktes durch zwei Ordinaten- Axen be-
+stimmt werden könne, und entwickelt die Begriffe
+die hierauf Bezug habefi z, B. Ordinaten- Axen, Ab-
+scissen, Ordinaten, positive und negative Ordinaten
+und Abseissen einfach und klar. Keineswegs gelun-
+gen aber kann Rec, die Entwickelung der Gleichung
+
+y=ar+ b
+die bekanntlich für eine gerade Linie gilt, nennen,
+- und es ist nicht zu erwarten, dafs sich der Anfänger
+nach dieser Entwicklung eine deutliche Vorstellung
+zu bilden vermag; Dasselbe gilt von der Gleichung
+) “ Sin a
+
+propositiones de-
+
+' 6 Sin(ß— a)
+die in $. 10 gegeben wird, wo a den Winkel, wel-
+chen die gerade Linie mit der Abscissen - Axe bildet,
+ß den Coordinaten - Winkel bezeichnet. Viel einfa-
+cher ist die(s alles von Moth im angeführten Werke
+$ 74. S. 138 entwickelt. - |
+' Die Natur der Gleichung y = ar + wird nach
+der für sie gegebenen Kntwickelumg nüher unter-
+
+sucht und darauf die Gleichungen für Linien gegeben,
+
+die eitten oder zwei Punkte treffen. Hierauf folgen
+
+Darstellungen der Gleichungen für Linien die Win-
+kel bilden oder mit Winkeln in Verbindung treten
+ferner Gleichungen für Durchschnitte zweier und
+dreier Linien,
+
+Die Sätze, welche der Vf, im ersten Kapitel
+aufgefunden und entwickelt hat, sind als Vorberei-
+tungen für weitere Folgerungen, die im zweiten
+Kapitel gemacht werden sollen , zu betrachten. Der
+‚ Ynhalt des zweiten Kapitels ist im Wesentlichen der,
+
+lineam rectam spectant) ad demonstrandas propositio-
+nes geumetricas sint adhibenda , und diels geschicht
+hauptsächlich in der Absicht um den Gegnern der
+analytischen Geometrie zu zeigen, dafs die analyti-
+sche Geometrie allerdings geeignet sey , die Beweise
+für die Sätze der Elementargeometrie auf eine leichte
+Weise zu liefern.
+
+Diese "Abtheilung ist bei weitem reichhaltiger
+"als die erste Abtheilung und mufs es ihrer Natur
+nach seyn. Sie heginnt wohl] mit den einfachern und
+leichteren Fällen und geht von ihnen zu den schwe-
+rern fort; jedoch vermissen wir bei der Zusammen-
+stellung ungern ein ordnendes Princip, und viele der
+Sätze scheinen mehr nach äufseren Merkmalen, als
+nach einem System an einander gereihet zu seyn,
+
+zu zeigen quomodo ea Yad de symbolorum, quae ad:
+
+= wie sich aus einigen wenigen Sätzen, mit denen der
+
+ALLG. LITERATUR - ZEITUNG
+
+' Dreiecke, oder den Linien, welche
+
+1860
+Vf.gieses Kapitel beginnt, deutlich zeigt. Denn hier
+stehen der Reihe nach folgende Sätze hinter einander.
+‚$. 34. Von einem Punkte aufserhalb einer geraden
+Linie kann nur eine einzige Linie senkrecht auf. die
+gegebene gefällt werden. $, 35. Wenn eine gerade
+inie ‚den‘ Scheitelwinkel eines gleichschenklichen
+Dreiecks halbirt und bis zum Durchschnitte mit der
+Grundlinie verlängert wird, so halbirt sie die Grund-
+linie, und steht senkrecht auf ihr. 8. 36. Wenn ei-
+ne gerade Linie einen Winkel eines ungleichseitigen
+Dreiecks halbirt, und bis zum Durchsehnitte er
+Grundlinie verlängert wird, so theilt sie die dem
+Winkel gegenüber stehende Seite nach dem Verhält-
+nisse der anliegenden Seiten‘in zwei Ahbhachnitte.
+6.37. In jedem Parallelogramme halbiren sich die
+Diagonalen gegenseitig. $. 38, Halbiren sich zwei
+durchschneidende Linien in ihrem Durchschnitts--
+unkte, und werden die Endpunkte der halbirten
+inien durch gerade Linien mit einander verbunden,
+so bilden die letztern ein Parallelogramm; $. 39
+und 40 enthalten Sätze über das Antiparallelogramm,
+wie es der Vf. mit Andern benennt, Dann folgen in
+den $$. 41 und 42 Sätze von der Achnlichkeit der
+zwei Seiten ei-
+nes Dreieckes oder ihre Verlängerungen parallel mit
+der dritten durchschneiden. $, 33 und 36 gehören in
+soferne zusanımen , als 335 ein specieller Fall von 36
+‚ist, denn ist das Verhältnifs der beiden Seiten, die
+den halbirten Winkel umschliefsen , gleich, so müs-
+sen auch die’ nach ihm erzeugten Abschnitte der drit,
+ten Linie unter einander gleich geyn. $. 35 hätte
+demnach als Folgerung nach 8, 36, aber nicht v&r
+denselben gesetzt werden missen.  $, 36.und 37 ste-
+hen in keinem innern Zusammenhang unter einander,
+8.43 — 45 finden wir die Sätze die über die Durch-
+schnittspunkte der drei hohen und Halbirungs-L&-
+nien und ihre Gesetze handeln, worunter 44 sagt,
+dafs die Perpendikel, die in den Mittelpunkten der
+Seiten eines Dreiecks errichtet werden, sich in ei-
+nem Punkte durchschneiden, Dieser Satz ist nach
+der begleitenden Figur nur auf ein- spitzwinkliges
+‚Dreieck bezogen und der Vf. hat nicht bemerkt, dafs
+er auch für ein stumpfwinkliges gilt. Wir tragen
+hiermit nach, dafs dieser Satz auch von einem stumpf-
+wihkligen Dreieck gilt, 5, 46 — 48 handelt von den
+Parallelogrammen. “
+In den $$. 49 — 70 folgen Sätze, die sämmtlich
+über die Bestimmung des Mittelpunktes der Schwere
+bei Flächen handeln, Obwohl dieser Gegenstand
+sehr anziehende Resultate liefert, so gehört er doch
+nach der Ansicht des Rec, in die Mechanik, und fin-
+det dort am füglichsten seine Stelle. In den An-
+fangsgriüinden einer aualytischen Geometrie möchte
+er wohl nicht zu snchen seyn. $. 71 — 75 werden
+noch einige Sätze über das Dreieck und die mit ihm
+in Verbindung tretende Linien gegeben.
+Wir schliefsen diese Worte mit der Bemerkung,
+dafs der Vf, in dieser Schrift seine Aufgabe im We-
+
+- sentlichen gut gelöset hat. Er verbindet Kinfachheit
+
+mit klarer Darstellung. Ausstellungen im Kinzelnen
+kön-
+
+- -„
+

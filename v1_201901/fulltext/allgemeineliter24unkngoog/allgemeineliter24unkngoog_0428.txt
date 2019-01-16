@@ -1,0 +1,144 @@
+841
+
+ERGÄ
+
+ 
+
+— 106 ——
+NZUNGSBLÄTTER
+
+ZUB
+
+ALLGEMEINEN LITERATUR
+
+bad
+
+842
+
+- ZEITUNG:
+
+November 1881.
+
+. aD
+
+PRAKTISCHE GEOMETRIE.
+
+Maınz, b. Kupferberg: Geographische Trigonome-
+trie, oder die Auflösungen der geradlinigen,
+sphärischen und sphäroidischen Dreyecke — —
+von J. P. W. Stein u. Ss. W.
+
+(Fortsetzung der im vorigen Stück abgebrochenen Recension,)
+
+L dem zweylen Theile ist in den beiden ersten Ka--
+-niteln von den eigentlichen geodätischen Aufgaben
+die Rede, und zwar im ersten Kapitel in der Vor-
+aussetzung, die Erde sey eine Kugel, und in dem
+zweylen Kapitel bey der Annahme der elliptisch—-
+sphäroidischen Gestalt, Wissenschaftlicher und oft
+. kürzer möchte es wohl gewesen seyn, erst die Auf-
+gaben in ibrer völligen Allgemeinheit zu behandeln,
+-und hernach die genäherten Auflösungen bey der
+Annahme der Kugelgestalt nebst den Fällen, wo sie
+
+enügen, anzugeben. Inzwischen läfst sich doch
+
+ür des Vfs. Anordnung die gröfsere Leichtigkeit, be-
+
+sonders für Anfänger, und den Umstand anführen,
+
+dafs er hernach im zweyten Kapitel wegen der Klein-
+heit der Abplättung meistens nur die Differenzen der
+fraglichen Größen in beiden Voraussetzungen sucht.
+-— Nach einigen einleitenden näheren Angaben über
+einige Gegenstände des vorhergehenden Kapitels
+Ö; 4) und Erklärung des Begriffs der geodätischen
+
+perationen, geographischer Karten , trigonometri-
+schen Netze u. dgl. in den $ 85-—87 ist zuerst im $ 88
+die Rede von der Messung einer Grundlinie, wobey
+der Vf. nur das Verfahren bey Messung der Basis
+von Melun angiebt; statt dessen aber wohl eine all-
+gemeine Erörterung des nöthigen Verfahrens bey
+
+einer Basismessung mit Angabe der Specialitäten bey
+der Meluner und einiger neueren Messungen der Art,
+
+z.B. der Bayerischen, der kleinen Speyerischen , der
+
+Dänischen vorzüglicher gewesen wäre. Alle bey der
+essung angewandten Correctionen
+
+angegebenen
+sind übrigens deutlich nachgewiesen und mit nume-
+rischen Beyspielen erläutert. Hierauf folgt im $ 89
+
+die Theorie der Winkelmessung nebst der der nd-
+thigen Reductionen aufser der Correction wegen der
+Phase des beobachteten Signals, welche im Anhange
+328 behandelt wird. Nur des Vfs Vorliebe Für die
+anzösischen Messungen kann ihn bewogen haben,
+
+noch jetzt dem Wiederholungskreise den unbeding-
+
+ten Vorzug einzuräumen, da ihm dieser vor dem
+
+-MTheodaliten und Reichenbachischen Universalin-
+Ergänz. Bl. zur A. I» Z. 1881.
+
+ 
+
+Auflösun
+
+strument höchstens im Falle einer unsichern Auf-
+stellung etwas zuzugestehen ist. In Betreff der Re-
+duction auf den Horizont hätte auch wohl der hierzu
+dienenden Tafeln, z. B. in dem Memoire t G-
+phique militaire, oder de Uebersetzung, oder in
+Puissant's Glodesie erwähl® werden können. 6 90
+und 91 über die bekannte Vertheilung der Summe des
+sphärischen Excesses und der Fehler auf die 3 Win--
+kel eines Dreyecks und dessen Auflösung nach der
+Legendre’schen Regel. Ziemlich ungenügend; für
+etwas gebildetere Geodäten wäre dieser Gegenstand
+in der von Laplace im zweyten Supplement zu sei-
+ner Theorie anal, des probabilit/s angedeuteten Art
+auszuführen gewesen. $ 93—995 handeln über die
+des )reyecks Zwischen‘ dem Pol und
+zweyen Orten PAB, und $ 96 — 100 über die Be--
+stimmung des Radius der Erde. Jenes ist natürlich
+fast blos eine Anwendung früherer namentlich der
+in Reihen entwickelter Formeln, und die besondere
+Erörterung hier nur durch die obige Bemerkung:
+wegen der -hernach gesuchten Differenzen gerecht-
+fertigt. Die angegebene Bestimmung des Erdhalb-
+miessers hätte aber füglich ganz hier wegbleiben
+können, da sie doch nur historisches Interesse hat
+und die eigentliche Bestimmung der Dimensionen
+der Erde erst im folgenden zweyten Kapitel zur or-
+dentlichen Erledigung kommen kann, wo sie alsdann _
+im Zusammenhange vorzutragen gewesen wäre. In
+diesem zweyten Kapitel enthalten nun dem $ 101 und
+102 die Gründe für die Annahme eines Ellipsoids,"
+und $ 103 und 104 die genaueren Bestimmungen der
+Definitionen aus Th. 1. Kap. 4. Jene Gründe sind
+mangelhaft; auch giebt die Theorie nicht einen ab-
+geplatteten kugelä nlichen Körper, sondern genau
+ein Revolutions- Ellipsoid für eine rotirende homo-
+gene flüssige Masse oder den Meereshorizont. Was ‘
+die nähere Bestimmung der früheren Definitionen
+betrifft, so ist die-geodätische Linie oben 684 als die
+kürzeste Linie, welche man von einem Punkte 4 zu
+einem andern B auf der Erdoberfläche ziehen kann,
+bezeichnet; hier soll nun durch das Sinnbild eines
+zwischen .4 und B angezogenen Fadens nachgewie-
+sen werden, dafs die kürzeste Linie mit derjenigen
+einerley sey, bey welcher, in der durch die dre
+Endpunkte zweyer unmittelbar auf einander folgen.
+den Elemente gelegten Ebene zugleich diejenige Nor—
+male auf der krummen Oberfläche, welche durch
+den mittleren Punkt gehet, liege. Der Vf. giebt
+diese By nschaft so an; dafs zwey auf einander fol-
+
+gende
+

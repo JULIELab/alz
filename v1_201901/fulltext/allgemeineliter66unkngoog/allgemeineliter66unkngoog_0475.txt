@@ -1,0 +1,161 @@
+7 q
+
+Pe Fr
+
+Hauptwörter und Nebenwörter, welche bei der Be-
+schreibung der Pflanzen Aebraucht worden sind, so
+wie ein Register über die Pflanzennamen, machen
+den Schlufs dieses eben so durch Gehalt als Druck
+im Ganzen empfehlungswerthen Buches, wenn es
+schon von einigen Mängeln nicht ganz frei ist, wel-
+
+° che jedoch dem Hauptzwecke: keinen Eintrag thun,
+Wir aber wünschen nichts mehr, als dafs es recht
+viele Leser unter den Schulmännern finden möge,
+welche die darin angewandte Methode zu ihrem Ki-
+genthum machen, um darnach ihre Schüler zu unter-
+richten, Indessen dürfen sie es nicht dabei bewenden
+Jassen, sondern, wollen sie jene Methode mit Erfolg
+anwenden, so muls von ihnen selber noch ein weit
+gründlicheres Studium begonnen werden, als sie es
+
+nach dieser Schrift vermögen. Zu diesem Zwecke
+
+findet sich, .wie schon oben erwähnt, ein Verzeich-
+nifs brauchbarer Schriften gleich nach der Vorrede,
+Aus ihnen. würden ‚wir besonders Sprengel’s An-
+Zeit. zur Kenntnifs der Gewächse, 1817. 3 Bde. und
+Möfsler’s Handbuch, , Ausgabe von Reichenbach,
+so wie als Kupferwerk Skuhr bot. Handbuch her-
+vorheben, Weil wir aber im vorliegenden Buche die
+vorgeschlagene Methode billigen, welche hier die
+Hauptsache ausmacht, so enthalten wir uns aller>
+wreitern Ausstellungen bei der Behandlung des Stof-
+fes, die man hier und da wohl bei strengerer wissen-
+schaftlicher Prüfung machen könnte, ,
+
+MATHEMATIK.
+
+'. Waunr, b,. Heubner: Elemente der reinen Muthe-
+:  matık' zum akademischen Gebrauche, wie auch
+zum Selbststudium, Dem neuern Bedürfnifs Jer
+
+Wissenschaften gemäfs bearbeitet von Leopold >
+
+Schulz von Strasznicki , ordentl. Prof. der reinen
+Elementar - Mathematik, aufserordentl. der hö-
+hern Mathematik am k.' k. Lyceo zu Laibach,
+Mit einer Vorrede von J, J. Littrow, Director
+‚der k. k. Sternwarte u. Prof. der Astronomie,
+
+Erster Theil, Elemente der allgemeinen Arith-
+
+metik, 1831. (1 Rthlr; 12 gGr.)
+
+‚Hr, Prof. Littrow empfiehlt dieses Lehrbuch vor-
+züglich wegen der darin herrschenden Deutlichkeit
+uhd lichtvollen Ordnung, wegen des Reichthums der
+behandelten Materien und der Beschränkung auf das
+wahrhaft Nützliche, und wegen der ununterbroche-
+nen Anleitung zum Selbstdenken und Anwendung des
+Belbstgedachten. Ve
+‘ Roc, ist im Ganzen mit diesem Urtheile einver-
+‚ standen. Er billigt es z. B. auch nicht, wenn in ei-
+ner elementaren Schrift weitlänfig von dem Beweise
+des Satzes gehandelt wird, dafs die Ordnung der
+Factoren eines Produetes auf die Gröfse desselben
+keinen Einflufs habe, : Aber doch findet ersich in Be-
+ziehung auf wissenschaftliche Anordnung in dieser
+Schrift nicht überall befriedigt.
+
+_ u der Einleitung. z. .B. wird der Begriff einer
+Potenz folgendermaßen aufgestellt; „So wie m aus
+© ; Vo
+
+.. x
+
+ERGÄNZUNGSBLÄTTER ZUR A. L, Z,
+
+° dureh
+
+'thode gar nicht gemäfls ist,
+
+ad
+
+der Einheit entstanden ist, eben so aus « durch die
+nächsthöhere Operation eine Gröfse bilden, heifstt a
+zur mten Potenz erheben.” Abgesehen davon, dafs
+nicht klar ist, was unter nächsthöherer Operation
+verstanden wird, und warum zpäter die Multiylies-
+tion, welche doch nur eine wiederheite Addition ist,
+als solche angesehen wird, wird daraus der Satz,
+dafs a° = 1 sey, folgendermafsen hergeleitet: .„„Es
+ist 0o=1—1, daher a° =a:4=1,.” Rec. bekennt
+offen, dafs er nicht glauben würde , seinen Zuhörern
+diesen Beweis eine deatliche Erkenntuifs jenes
+Satzes beigebracht ‚zu'hahen. Aus dem, was 5 09
+angegeben wird, goht zwar hervor, dafs, wenn der
+Kxponent aus der Einheit durch Addition hervorge-
+bracht wärde, die Potenz am und a durch Multipli-
+cation hervorgebracht werden solle. Aber doch hält
+es Rec, für wünschenswürdig und möglich, eine De-
+finition einer Potenz an die Spitze der Lehre von den
+Potenzen zu setzen, aus welcher sich die verschie-
+denen Lehrsätze, welche sich auf negative und gebro-
+ehene. Exponenten beziehen, mit gröfßserer Klarheit
+ableiten lassen, als es in vorliegendem Lehrbuche.
+aus der ohen angegebenen Definition geschehen ist,
+Er findet sich namentlich schon durch das, was Krise
+in seinem Lehrbuche der Elementarmathematik sagt,
+viel mehr befriedigt, als durch die vorliegende Dar-
+stellung, welche überdiefs diese Lehre ohne innern
+
+‚Zusammenhang an verschiedenen Stellen der Schrift -
+
+‚behandelt, So wird z. B. in dem Kapnitel von der
+Multiplication S, 39 die Gültigkeit des Satzes hewie-
+gen, dafs am ,arn =am-+n, wenn mn, n Brüche sin
+
+‚und erst in dem Kapitel von der Potenzürung S,
+
+die Frage aufgeworfen, wie die Potenzürung ver-
+‚richtet werde, wenn der Exponent ein Bruch ist.
+In der Einleitung wird von dem Unterschiede
+.rationaler und irrationaler Zahlen, realer und ima-
+.ginärer Gröfsen geredet, ohne .dafs vorher von. der
+‚Kealiest dieser Begriffe die Rede gewesen wäre, Es
+‚ist ein nicht genug zu preisender Vorzug der Geome-
+
+.trie des Eukliıdes, dafs sie in diesen Fehler nicht ver-
+
+fällt, und namentlich einen Begriff construirt, che sie _,
+denselben aufstelltz eine Kigenthimlichkeit, welche
+
+in keinem mathematischen Buche fehlen sollte, Man
+
+wird nicht leicht in diesen Fehler verfallen, wenn
+man nach dem Muster der alten Geometer in allen
+mathematischen Schriften einen jeden Satz, welcher
+aufgestellt wird, überschreibt mit Lehrsatz, Auf-
+gabe, Grundsatz, Forderung, Grundbegrif, Erklä-
+
+‚rung u, s, w., und aufbört, Lehrbücher in Paragra-
+
+phen zu schreiben, welches der mathematischen
+
+Der Vf, giebt den Gegenstand der allgemeinen
+Arithmetik als den dreifachen an: Ordnung, Rela-
+tion der Gröfsen und Bestimmung der Größen selbst,
+und zerlegt ihr Gebiet.in die 5 Haupttheile: Combi-
+
+‚nationslehre, Arithmetik im engern Sinne, Algebra,
+
+die Theorie der Reihen , die gesammte Analysis.
+Um den Begriff der Arithmetik im engern Sinne
+
+;zu bestimmen, sagt er, ihr Gegenstand sey die Knt-
+‚wickglung. aller. Gesetze und Regeln der Operationen,
+; “die
+
+so ° .. X .. obeo .0
+

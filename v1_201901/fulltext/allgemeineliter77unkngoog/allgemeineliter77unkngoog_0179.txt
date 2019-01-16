@@ -1,0 +1,115 @@
+343 A. L. Z. Num. 187.
+
+‚ Die 5. Abtheilung beleuchtet die Bewegung der Lufi
+an sich, und enthält mehrere praktisch wichtige
+Erörterungen und Formeln, welche in den meisten
+Schulbüchern fehlen. Das Gasometer ist mit Recht
+erst in dieser Abtheilung aufgeführt , da hier erst von
+der Luftströmung die Rede ist, worauf dasselbe
+beruhet. Für die Bewegung der Luft gegen fesıe
+Körper und umgekehrt finden sich in der 6. Abthei-
+Jung die hülfreichsten Formeln, Die Zeichnung des
+Flugkahns in $. 466 scheint zu der ohnehin etwas
+unvollkommnen Beschreibung nicht zu passen, und
+auch die Degen’sche Maschine hätte etwas voll-
+ständiger erörtert werden können.
+
+Das 11. Cap. vom Schalle. Die 1. Abtheilung
+handelt deutlich und übersichtlich von der Ent-
+siehung und Fortpflanzung des Schalles, von den
+schallenden Körpern und der Stärke und der Ge-
+schwindigkeit des Schalles, wobei eine sehr in-
+structive Zeichnung das menschliche Ohr erklärt.
+Die 2. Abtheilung spricht von der Zurückwerfung
+des Schalles, belehrt über das Hörrohr und die
+Sprachgewölbe. Hinsichtlich des Echo’s wird die
+Entfernung KK der reflectirenden Fläche von dem
+Beobachter aus der Gleichung:
+
+E = z (1022,5 + 1,926 . t)
+2
+
+bestimmt. Die Transversalschwingungen der Sai-
+ten sind mathemathisch gründlich in der 3. Abthei-
+Jung abgehandelt. Die Erklärung der Töne ($. 514.)
+ist sehr bemerkenswerth und dem Hrn. Vf. eigen-
+thümlich , sie giebt ein treffliches Mittel an die Hand,
+mit Hülfe mathematischer Sätze alle Tonverhältnisse
+auf eine leichte und übersichtliche Weise zu er-
+klären. Die Longetudinalschwingungen der Saiten
+(4. Abtheilung) und die Schwingungen gerader und
+gekrümmter Stäbe (3. Abtheilung) sind durch die
+nöthigsten Formeln erläutert. Auch sind die Schwin-
+gungen ebener und gekrümmter Flächen (6. Ab-
+theilung) sehr vollständig erörtert. Es kommen
+hier mehrere ganz neue Klangfiguren vor, und das
+Verhältuiss dieser Klangfiguren zu den Tönen ist
+genau angegeben. Die 7. Abtheilung enthält meh-
+rere interessante Sätze über die hörbaren Schwin-
+gungen der Luft und über menschliche und fhie-
+rische Stimmen.
+
+Im 12. Cap. wird die Wärme abgehandelt. Die
+1. Abtheilung spricht von der Wärme überhaupt
+und ihrer ausdehnenden Kraft. Der Vf. giebt die
+beiden Hypothesen über das Wesen der Wärme
+
+AUGUST 1846. 344
+
+an, welches zu billigen ist, weil keine dieser An-
+sichten allgamein angenommen ist. Dass er sodann
+im $. 5375 schon von dem Lichte spricht, hat viel-
+leicht darin seinen Grund, dass in der Wärmelehre
+das Feuer vorkommt, welches ohne Erklärung des
+Lichtes nicht wohl definirt werden kann. Die Ther-
+mometer hätten etwas vollständiger behandelt werden
+sollen, doch sind im $. 582. mehrere nützliche, in
+vielen Lehrbüchern fehlende Formeln zur Reduction
+der Thermometergrade gegeben, z. B.
+
++n°R=+ (4) c= + [9128 ee) pa [C0-m6]'D
+
+5n\° —_ 0 ©
+
+—nR= (5 c=— [2 | F= + [O5] D
+U. 8. W.
+
+Zweckmässig ist es, dass $. 585. auch die
+wichtigsten Pyrometcr angegeben sind. In der 9.
+Abtheilung findet sich das Nothwendigste über Ver-
+breitung der Wärme. Eine genauerc Angabe über
+die Versuche Melloni’s würden wünschenswerth
+seyn; doch ergänzen hier die zahlreichen Uebungs-
+sitze den Text.
+
+Die Wärmecapacität und specifische Wärme ist
+in der 3. Abtheilung abgehandelt und für letztere
+in $. 612. die einfache Gleichung gegeben:
+
+t
+Ss — T
+Unter den Uebungssätzen $. 617 möchte Nr. 17.
+aus dem Vorhergehenden nicht wohl erklärlich seyn.
+In der 4. Abtheilung wird die Veränderung des
+Aggregutzustandes der Körper durch die Wärme
+kurz dargestellt, und in der 5. Abtheilung die Wir-
+kungen der Dämpfe und ihre Anwendungen zu be-
+stimmten Zwecken zureichend erörtert, wenn auch.
+eine speciellere Angabe über das Verhältniss des
+Druckes zur Temperatur des Dampfes fehlt. $. 637
+enthält eine sehr instructive Zeichnung und Erklä-
+rung der Dampfmaschine und Andeutungen über
+Locomotive, Dampfschiffe u. s. w.. Die Abtheilung
+schliesst zweckmässig mit Angabe des Dalton’schen
+Gesetzes. Die 6. Abtheilung vou dem Wasserge-
+hulte der atmosphärischen Laft beschreibt die vor-
+züglichsten Hygrometer, und vollständiger das Au-
+gust’sche Peychrometer als das ‘brauchburste, doch
+vermisst Rec. die Formel zur Berechnung der Feuch-
+tigkeit vermittelst desselben. Einfach und zweck-
+mässig ist in der 7. Abtheilung die Verbrennung ab-
+gehandelt.
+(Der Beschluss folgt.)
+
+N a a
+

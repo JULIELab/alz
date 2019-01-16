@@ -1,0 +1,161 @@
+567
+
+Sehr - geringe Fehler is Abmeffung der Beobachtun-
+- gen Ge unfcher machen; und es ilt gleichwohl, na-
+mentlich bey zwey Verfuchen, die wir in der unten
+folgenden Aufführung beftimmt haben, aus’ mehrern
+Gründen fehr einleuchtend, dafs beträchtlich fehler-
+hafte Abmeffungen dabe
+Indeffen ift von vorn her {o viel abzufehen , dafs für
+die von Bofut gebrauchte, zweymal cylindrifche Ein-
+mündung, jenes du =0,8.% ungefähr {eyn mufste,
+und daher von Bofut felbft, und nach ihm auch‘ von
+Zytelwein zu geringe gefchätzt ift; — Je kürzer nun
+die Röhren find, um defto merklicher mufsten bey
+
+Prony,‘ der für den Kraftverluft ow_ gar nicht unter- .
+
+Sehied, die Anomalien ausfallen! Da auch bey len
+mehriten Mafchinen nur kurze Röhren vorkommen,
+da ferner z. B. bey Bofut’s von Prony mit benutzten
+Verfuchen ungefähr 9 = 0,8 war, bey andern von ihm
+benutzten Verluchen wenigltens = 0,5. gewelen feyn
+wird, und dagegen bey gut eingerichteten Maifchinen
+man 0 auf = 0 wenigftens herabbringen, eigentlich
+fogar ins negative übergehend machen kann ıund
+mufs: fo erhellet fehon .hieraus , dafs es nicht rath-
+fam {ey, Prony's Formeln auf das Mafchinenwelen an-
+wenden zu wollen; zu gefchweigen, dafs das einzige
+Beyfpiel feiner eigenen Anwendung auf die Pumpe
+auch in anderer Hinlcht unbefriedigend ift, — Nach fei-
+ner fehon angeführten Hauptformel {oll a == (0,00017.4
+
++ 0,9034.1 U) 5 2 feyn. Suchen wir ftatt zu lie-
+ber die Gefchwindigkeitshöhe. u = = hineinzubrin-
+
+n, wie es fr äufserft rathfam ift; D erhalten wir
+u 0,0277) zu ’ worin aber fernerhin
+
+ 
+
+O——
+ad
+
+nicht nur das eine Glied, in welchem ftatt der ablo- .
+
+—-Juten ‚Zakl '0,00136 eigentlieh eine Linie aufgeführt
+feyn follte, vom gebrauchten Metre abhängig ilt , fon-
+dern auch das übrige, an fich dimenfionenrichtige
+Glied deshalb nicht allgemein richtig feyn kans, weil
+ja auch. das vorhergehende Glied durchaus als eine
+
+Function von > # behandelt, und für die Gröfse
+) (0++1).# nicht unterfchieden ift! — Als eine noch
+ziemlich richtig abgekürzte Formel wird von Prony
+
+2 : , D ‘u
+
+S, 71. abgegeben u = 26,79 V =, nach welcher alfo
+
+„GG ‚A: ; ; ;
+
+WE zu u {eyn foll, wiederum auf den Metre
+
+. eingel® ränkt! Um bey diefer Formel die ihr fo na-
+türliche Dimenfionenrichtigkeit herzuftellen, haben
+
+2619® x ag 79 betrachten, alfo
+
+Ä °
+8=0,0273. 5 % Nach des Rec, Behauptung ift
+
+ 
+
+wir fe als a =
+
+; 3 |
+a = (+ I +85) ‘x und fo weit man aus Boffut's
+‘4 mal 6 Verfuchen zu fchliefsen vermag: fo würde
+
+A. L. Z. Num. 309. NOVEMBER: 1809.
+
+vorgefallen‘ feyn müflen,
+
+ten.betrifft, haben wır hiermit Bedernklichkeiten
+
+568
+für u x=0,30014 Par, Fofs, die Zahl Ei=0,07706: Verfuch MV
+‘= 0,27084 — — 0,02070 =. 11
+z— O21200 vn — ORZI23 — Wa‘
+— 0,18704 — — 0,0919890 — 111
+— 0,14715 — — 9.021094 + — 1V3
+= 0,12652 — 00220 —
+— 0,1098 ._, 9,02291 — [IV
+> 000819 00 =—=) — . 0,9234. — MAHl2
+= 0,00065 — = 002514 — 11,3
+ZZ = WM
+ale .— no. . Q0 — |
+— 0,00626. mar Pan „on Q,02630 — To
+— 0,00519 z— wu Q,02520 — 3
+m 0,00278 — o w— 0,0202 an 12
+-— 0,05216 Ta zu 0,0215 — 13°
+— 0,05087 .( [ ©0278 — 15
+— o£ wu ‘ — 0,0258  — 1114
+— 0,04125 — — 0,0208 . — , 14*
+— 0,094106 w—— 0,0239 0 — 116
+— 0,03854 “0 — ‘1 00269 — IM5
+=> 0,0303$ — =; 00285 '— Mö
+‚— 0,02270 — — 09009312 — |
+— 0,01815 - — — ©,0328 — ü
+fich ergeben. Immerhin ift aus diefer Tabelle abzu-
+
+nehmen, I) unter welchen Umftänden Prony's Fo
+beträchtlich fehl führen kann, und dafs man 2 EM
+für eine Mafchine mit. geringen Gefchwindi eitanM N
+indem man diefe fchon im Voraus ungefähr
+fchätzen weifs, eine für diefe. Mafchine conflante Zahlfi
+mit hinreichender Genauigkeit wählen kann; ung
+dafs 3) für die beträchtlichen Gefchwiandigkeiten
+der oben erwähnten Wafferfäulen - Mafchine das dort
+gebrauchte f == 0,03 gewifls nicht zu. klein angenommes
+ift. — Hauptfächlich nur. gegen. den einen Theil den
+Prony'(chen Unterfuchungen , welcher die Röhrenfahm
+Pa
+
+  
+  
+ 
+   
+ 
+
+eftellt, weil doch der Vf. diefen Theil als vor.
+ich neu und wichtig für die Mafchineniehre empfe
+und die deutfchen Mai(chiniften zu beurtheilen habel
+ob fe davon Gebrauch machen wollen. Auch die
+dere Unterfuchung , über den Lauf des Waffers in of
+fenen Bettungen, wird dem Tadel ebenfalls un
+worfen feyn, dafs die dafür aufgeftellten Formel
+nicht dimenfionenrichtig ausgedrückt find. Dana
+hierbey das unbeachtete ou {ehr unbeträchtlich il:
+fo i{t diefer Theil des Buches unferer obigen wiah-
+tigften Einwendung gegen das Verfahren des Vie.
+nicht blofs geltellt; und wir find vielmehr der Mein
+nung, dafs hierin durch die äufserft forgfältigen Ab{
+leichungen des Vfs. etwas iehr Vorzügliches geles
+tet ift. Upeberhaupt aber kommen auch in der Bas
+handlung des erften Gegenftandes mehrere fehr beschi
+
+tungswürdige Betrachtungen vor, und der Vortrag
+
+des Buches überhaupt genommen ift, wie fchon gli
+fagt, der Vortrag eines vollendeten Meifters und &
+nes äufserft {orgfältigen Lehrers in feiner Willes“
+fchaft; daher wir dieles Buch zur eigenen Benutzung,
+denen wenigen Mathematikern in D .
+{ehr empfehlen, welche dem {chwierigen Gegenftande,
+auf eine fo fchwierige, aber auch in vieler Hinfcht
+
+fehr merkwürdige Weife behandelt, gewachfen find,
+
+ 
+

@@ -1,0 +1,161 @@
+165 2 Num, 2L. FEBRUAR 1834. ' 168
+
+tiger meteorologischer Beobachtungen und die Mön-
+che in Toscana mufsten auf Geheifs vor Ferdinand II,
+meteorologische Beobachtungen machen.‘ Indels die
+‚Academia del Cimeuto wurde durch die Intriguen der
+römischen Kurie aufgelöst, und die fmeisten Hand-
+sehriften verbrannt. Nur wenige der letztern wurden
+erhalten und unter diesen ein Band Thermometer -
+Beobachtungen, welche der Pater Rayneri im Klo-
+‚ster degli Angeli zu Florenz I6 Jahr hindurch ange-
+stellt hatte. Aber diese so wie mehrere andere An-
+
+ben der Akademiker waren unbrauchbar, da die
+
+cale des benutzten Thermometers unbekannt war.
+
+Vor wenigen Jahren fand man in Florenz einen Ka-
+sten, der unter vielen andern alten Instrumenten
+auch eine grofßse Anzahl von den in 30 Grade getheil-
+‚ten Thermometern der Acad, d, Cim, enthielt, Durch
+eine sorgfältige Vergleichung fand der Vf., dafs der
+Nullpunkt des Thermometers der Akademiker del
+CGimento dem 13ten Grad Reaumur und der S0ste Gr,
+des ersteren dem 44sten des letzteren entspreche, Im
+schmelzenden Eise zeigte es 131 Grad. — Am Schlus-
+se fügt der Vf. hinzu, aus einer. Vergleichung je-
+nef älteren Thermometer- Beobachtungen mit den
+neneren gehe hervor, dafs sich die Temperatur von
+Klorenz seit 130 Jahren nicht geändert habe,
+
+Zur Messung hoher Temperaturen sind in den
+Jetzten Jahren mehrere er vorgeschlagen wor-
+den. Prinsep (Phil. Trans, 1831. 350) schlägt dazu
+Legirungen von Silber und Gold, Gold und Platina
+vor, welche je nach ihrer verschiedenen Zusammen-
+setzung ungleiche Hitzegrade zum Schmelzen erfo-
+dernk in abgesonderten Fächern kleiner Kapellen
+werden 8 bis 10 solcher Legirungen der zu bestim-
+
+menden Temperatur ausgesetzt und die strengflüssig-
+ste von ihnen dient dann zur Bezeichnung des Hitzc-
+grades. Darch die Ausdehnung der Luft in einer
+goldenen Retorte bestimmte er die Temperaturen bei
+welchen einige der benutzten Körper geschmolzen
+wurden; so fand er für den Schmelzpunkt des Silbers
+999° C. — In mehreren Aufsätzen hat Daniell ein
+anderes Pyrometer beschrieben, welches auf der
+ungleichen Ausdehnung verschiedener Körper heruht,
+welche Borda und Andere schon seit langer Zeit zum
+genauen Messen von niederen Temperaturen ange-
+wendet haben, Kr wendet eine Graphitröhre an,
+auf deren Boden ein Platinastab steht und leitet aus
+der durch ein Hebelwerk gefundenen ungleichen Aus-
+dehnung beider die Größe der Hitze unter verschie-
+denen Umständen her. Das Detail des Apparates
+und der Versuche befindet sich in den. Phil. Trans.
+für 1820. S. 257 und 1831 Part. II ader dem Philos,
+Magaz, and Ann, of philos..X., 191; dem London and
+Edinb. Phil. Magaz, and Journ, of Science 1, 197. —
+Das Pyrometer von Neumann aus Platima, welches
+hisher nur vorgeschlagen wurde (Baumgartner und
+Ettingshausen Zeitschrift X, 284) und dasjenige von
+artz bei welchem ein erhitzter Platinawürfel in
+tiecksilber abgekühlt und aus der Temperaturerhö-
+hung, so wie der Wärme- Capacität der beiden
+Körper die Hitze hergeleitet wird (Erdmann’s Jour-
+
+'nal für t&chnische Chemie TI, 341,‘ und Poggendorff'a
+Ann, XIV, 330) so wie das Verfahren von M.
+
+s Ann. XIV, 531) mögen hier nur dem _
+
+( end
+amen nach angeführt werden, -
+
+‚Ausdehnung durch die Wärme.
+
+Zu den umfassenderen experimentellen Untersu-
+chungen über diesen Gegenstand gehört die eben er-
+wähnte Arbeit von Daniell, in welcher er die Resul-
+
+tate seiner Messungen bei verschiedenen Körpera .
+und But
+
+mittheilt. Es wird dadurch das von Dulong u
+
+aufgestellte Gesetz der ungleichen Ausdehnbarkeit in
+verschiedenen Temperaturen bestätigt. Es enüßS
+hier aus dem Philos. Mag. and Ann, of phil. 1, 06
+die Ausdehnung einiger Metalle anzugeben, wenn
+ihre Länge bei 62° F, als Einheit angesehen wird
+
+; | Bei 212° FF. | Bei 662° F. | Beim Schmelz-
+| ‚4 | punkte
+
+(1,009926 war die
+
+gröfste beobachtes
+te Ausdehnung
+
+. aber das Meta {4
+
+wurde. nicht ge-
+
+Platina . . , | 1,000785 1,002995
+
+schmolzen
+Eisen (Schmiede) | 1,000984 1,0044838 1(1,018578 bis zum
+Schmelzpunkte
+des Gufseisens
+Gufs - Eisen 1,000898 1,008943 1,016889
+Gold . or 8, 1,001025 1.004238
+Kupfer . . . | 10014380 | 1006847 1,024876
+ii er . 8 2 1,001626 1,006886 1,020640
+ink. . we 1,002480 1,008527 1,012621
+Blei . .. so 1,002323 0—_— „— 1 009072
+
+Zinn . . ... | 1001472 | — —.
+. In Betreff der Platina fand Daniell, dafs ihre
+Textur in sehr hohen Temperaturen etwas umgeän-
+
+dert wurde, indem sie eine ranhe, krystallinische .
+
+Oberfläche erhielt, aber dennoch war die Größe
+
+ihrer Ausdehnung noch eben so grofs, als dieses -
+
+früher der Fall gewesen war, Dieses Resultat
+
+weicht von einem andern ab, welches Prinsep bei
+
+seinen Untersuchungen fand; darnach erhält Gufs-
+eisen nach jeder Erhitzung ein gröfseres Volumen,
+Der Inhalt einer Retorte von diesem Material wurde
+
+durch die Quecksilbermenge bestimmt, welche nö- -
+
+thig war, sie bei einer Temperatur von ‚80° F. zu
+füllen; darnach betrug ihre Capacität vor dem ersten
+Versuche 9, 13 Kubikzoll; nach der ersten und drit-
+ten Erhitzung 9,64 und 10, 16 Kubikzoll. (Edind,
+Journ, 0 Se. X 26.) ©
+
+Ueber die Ausdehnung flüssiger Körper sind
+mehrere ausführliche Arbeiten erschienen, /a8
+namentlich die Ausdehnung des Wassers betrifft, so
+hatten Hällström ( Pugge s Ann, I, 129) und
+Muncke (Gehlen’s Wörterb, 8, v. Ausdehnung) die
+älteren Resultate mit grofsem Fleiflse zusammenge-
+stellt; derletztere entschlofs sich zu einer neuen Reibe
+von. Beobachtungen, welche er dergestalt machte,
+da(s er die Raumänderung einer gegebenen Wasser-
+menge, die in Thermometer eingeschlossen war, für
+bestimmte Temperaturdifferenzen bestimmte, Er lei-
+tete aus dieser mit Umsicht und Genauigkeit go-
+
+mac
+
+I
+

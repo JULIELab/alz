@@ -1,0 +1,138 @@
+———
+
+be.‘ V: Rechnung in bestimmten Zahlen.
+
+‚ misse und Prop
+
+a 3 >» X
+
+BO —
+ALLGEMEINE LITERATUR - ZEITUNG
+
+\
+
+ex
+
+ 
+
+März 1834.
+
+ 
+
+MATHEMATIK.
+
+: Lehrbuch der beson- x
+
+AUCHAFFENBURG, b, Pergay: J .
+. deren -Zahleniehre für lateinische Vorbereitunge +
+„wa. Gewerbeschulen , als Vorbereitung zum gründ-
+lichen Studium der Mathematik von Dr. ers;
+‚kön, baier. Professor der Mathematik am Gymn,
+* zu Aschaffenburg. 1834. VII u, 21758, gr. 8,
+(14 gGr.)
+
+De Vf. gewann bei der Berücksichtigung der bes-
+seren aryithmetischen Lehrbücher, der ihrer
+Bearbeitung und Bestimmung, die Ueberzeugung,
+dafa selbst mit der grofsen Anzahl der vorhandenen
+den gefühlten Bedürfnissen und besonders den For-
+derungen der vaterläindisehen Vorbereitungs- und Ge-
+werbschulen nicht abgeholfen sey. Bereits im Jahre
+3832 hatte er in einem Programme, welches wir nicht
+gelesen haben, kurz angegeben, nach welchen Ga-
+gsichtspunkten ein Lehrbuch der Arithmotik entwor-
+fen werden müfste, wenn es dem Geiste der Wissen-
+schaft, den Bedürfnissen und Erfordernissen des
+arithmetischen Unterrichtes, sowohl für gelehrte als
+gewerbliche Berufsbildung , den Fähigkeiten der Ler-
+nenden entsprechen, und den gehofften formellen und
+materiellen Nutzen bringen soll, Da sich nun so
+schnell wahrscheinlich Niemand fand, der die Auf-
+abe gelöst hätte, so that es der Vf. selbst, Mit
+echt können wir def(shalb den Mafsstab strenger
+itik an vorstehendes Buch legen, und unser Ur-
+theil geht kürz dahin, dafs es den Forderungen der-
+gelben durchaus nicht entspreche, Wir geben nun
+zuerst kurz den Inhalt desselben an, und werden
+dann unser Urtheil mit den nöthigen Beweisen bele-
+en, Einleitung. Abschn. I: Cbarakter- und Stel-
+nwerthe der Ziffern, das Numeriren, Absochn. II:
+Veründerungsarten ganzer unbestimmter (?) Zahlen,
+JI1: Theilbarkeit oder Einheitsverhältnisse der Zah-
+Ten, IV: Die unhestimmt gebrochenen Zahlen, Brü-
+Gleichheit,der Zahlen, Gleichungen. VII: Verhält-
+ortienen, VII: Auwendungen der
+geometrischen Proportionen auf Rechnungsfälle des
+gemeinen Lebens, Angehängt sind Vergleichungs-
+tafeln der verschiedenen Meise und Gewichte, Da
+der Vf. vorgeblich auf mathematische Strenge einen
+grofsen Werth legt, da die Lehre von den Potenzen
+und von den Gleichungen mit aufgenommeu ist, da
+er sogar von bejaheten und verneinenden Zahlen
+apricht (weshalb er einmal das Purtic. Act, und dann
+s Part, Pass. braucht, ist uns nicht klar), so hätte
+4A. & Z. 1834. Erster Band. .
+
+man mit Recht erwarten dürfen, dafs auch die Ele:
+
+mente der Buchstabenrechmung mit aufgenommen wor-
+n seyen, Das ist nun aber nicht geschehen, ver«
+muthlich, weil sich diese Lehre mit dem Titel des
+Buches nicht vertragen Mitte, Die Folge davon ist
+natürlich die, dafs die Allgemeingültigkeit der.mei-
+sten Beweise vermilst wird. Doch wir wollen zum
+Einzelnen übergehen. 58. 18, I können wir die Er.
+
+- klärung der Multiplication nicht billigen , und halten
+
+vielmehr die andere für weit wissenschaftlicher ımd
+fruchtbarer (besonders für die Lehre von den Brü- .
+chen), Multipliciren heilse, aus einer Größfse, dem
+Multiplicandus, eine neue Gröfse, das Product, eban
+so entstehen lassen, wie der Multiplicator aus Eins
+entstand. $- 232 heifst es 60: „Lehrsatz: Producte
+zwischen (7%) bejahenden ‚und verneinenden Faetoren
+sind verneinend, zwischen 2 bejahenden oder 2 ver-
+neinenden aber bejahend, d, bh, für 7 und 3 ist‘:
+3) 7X 3=7X—3=-—21 und
+
+weis zu 1) —7X3 heifst-7 in seiner rückwärts ge-
+
+zählten Beschaffenheit 3 mal zu sich zählen, oder Pe
+‚ (-D+(—D+(—7)=-7X3=—21;
+aber —7X3=7X—3; also7X —3=—21
+und —71X3=7X —3
+
+Beweis zu 2) Dafs 7XX3=21 ist einfachs aber
+—7X—3 heilst eine rückwärts gezählte Zahl im Zu-
+rückzählen mehrmal zu sich setzen, d, h, sie bejahen;
+also —7X-—3=21. '
+
+Hoffentlich wird kein Mathematiker das einen
+Beweis nennen, und was eine rückwärts gezählte Be-
+schaffenheit sey , Yird schwerlich Jemand zu ergrün-
+den vermögen. as eine bejahende oder vernei-
+nende Zahl sey, hat der Vf. nicht für gut gefunden,
+zu sagen, Eben so unmathematisch ist der Beweis
+
+ir die Division entgegengesetzter Zahlen.$. 29, —
+
+. 40 ist der Ausdruck /2, 36 verwerflich, indem
+
+as Komma keine Decimalstellen anzeigen, sondern
+blofs zur.Eintheilung in Klassen dienen soll. $, 52,
+IV „Zühler und Nenner eines Brucbes kann man
+durch ihren gemeinsamen Theiler dividiren ($. 28,
+XII); Brüche zur Meinsten Benennung bringen, re-
+duciren, z. B. $= 5 3=4.” DLetztereg. geschieht
+aber nur dann, wenn man Zähler und Nenner dure
+den größfsten gemeinsamen Theiler dividirt, $. >
+VI: Grundsatz: ein Bruch wird pötenzirt, oder aus
+
+‘ihm die Wurzel gezogen, wenn man Zähler und Nen-
+
+ner potenzirt, oder aus beiden die Wurzel zieht.”
+ii : Ist
+
+r
+

@@ -1,0 +1,133 @@
+803
+
+Der XIVte Abschnitt befafst sich mit den all-
+gemeinen und besondern Bücher - Verzeichnissen, von
+welchen die wesentlichsten genannt sind, Endlich
+
+der XVte Abschnitt sollte die Genealogie der jetzt
+bestehenden Buch-, Kunst- und Musik-Handlungen
+liefern, ist aber mit unverzeihlicher Oberflächlich-
+keit bearbeitet, indem die Namen und Jahr& der Be-
+gründer der Handlungen gröfsten Theils gar nicht,
+oder höchst unrichtig angegeben sind, obschon die
+Register der Leipziger Mef(skataloge hinlängliche
+Anhalts - Punkte zur genaueren Bestimmung ge-
+währt hätten. e‚Manoher Buchhändler, der früher
+Epoche machte , ‘ und in den letzten Buchhäadler-
+erzeichnissen nicht aufgenommen wurde, ist ganz
+übergangen, während blofse An@quare als Buch-
+händler aufgeführt sind. Diese Genealogie allein
+würde einen reichen St(off zu einem gangbaren Buche
+darbieten, wenn zugleich einige Biographien be-
+rähmter Verlegen eingewebt würden, üher deren
+Nichteintreffen der Herausgeber sich mit Recht be-
+klagte. a
+
+MATHEMATIK,
+
+Bazauın, b. Enslin: Lehrbuch der Mechanik, zur
+gleich mit den dazu nöthigen Lehren der höhe-
+ren Analysis und der höheren Geometrie, Kle-
+mentar vorgetragen und mit sehr vielen Bei-
+spielen der Anwendung versehen vom Profes-
+sor Dr. Martin Ohm, an der Kön, Fr. W.
+Universität u. s. w. Erster Band. Mechanik
+des Atoms. Mit einer Figuren - Tafel. 1836,
+VIII u, 4758, gr.8. (2 Rthir, 12 gGr.)
+
+Dals nichts Mittelmäfsiges hier geboten werde,
+dafür bürgt'schon der Name des Vfs,, und wirklich
+haben wir mit grofser Befriedigung das Buch gele-
+sen, Auf eine würdige Weise schliefst es sich an
+die Elementar - Mathematik des Vfs, an, und be-
+weist, dafs dem Vf, eine der ersten Stelle unter
+den mathematischen Schriftstellern gebühre, mag
+man nun auf logische Consequenz in der Errichtung
+und Durchführung eines Systems, oder auf die Fä-
+higkeit sehn, theoretische Wahrheiten praktisch
+nutzbar zu machen. Zuvörderst glaubt der Vf, über
+das Wort Atom Kiniges sagen zu müssen, um jeder
+Mifsdeutung vorzubeugen. Kr erklärt daber, dals
+er der atomistischen Ansicht der Natur nicht zuge-
+than sey. Es babe ibm vielmehr blos bequem ge-
+schienen, einmal das, was man häufig einen ange-
+griffenen oder bewegten Punkt nenne, mit dem Na-
+men „ Atom” zu belegen, und sodann in den An-
+‘ wendungen der Mathematik auf Physik (also auch
+auf Technik) die Materie als ein Aggregat solcher
+Atome sich zu denken, Diese Einrichtung werde
+den Atomisten genügen und hoffentlich auch bei den
+Dynamikern keinen Anstofs finden, da sie nicht daran
+hindere, die Materie als stetig und den Atom noch
+beliebig sich zu denken, Dieser erste Band zer-
+fällt in drei Abtheilungen, wovon die erstere die
+
+ERGÄNZUNGSBLÄTTER ZUR A, L,Z.
+
+804
+höhere Analysis enthält, Cap.J: Gesetze und allge-
+meiner Zweck des Differenziipens. Was der Vf, hier
+
+über den Taylor’schen und Maclaurin’schen Lehrsatz
+und ihr Verhältnifs zu einander sagt, ist eben 80
+interessant als klar vorgetragen. Der Vf. bedient
+sich hier der Kürze wegen einiger Zeichen, deren
+Bedeutung wir, damit das Folgende nicht unver-
+ständlich sey, hier angeben wollen.‘ So schreibt er
+z. B. nn! statt des Products 1.2.3...n, so dafs 4!
+das Product 1.2.3.4, eben so 2! das Product 1.2
+bedeutet, während man der Gleichförmigkeit wegen
+unter 1! blos 1 zu verstehen hat, . Ein anderes Zei-
+chen führt der Vf, 67 ein, den wir zugleich als eine
+Probe der Darstellungsweise des Vfs, hier mittbei-
+Jen. Er sagt nämlich: ‚verstehen wir unter (der
+Function) f_ etwa blos die Potenz x”, so wird f_
+
+die Potenz (x+A)= vorstellen... Man hat also unter
+dieser Voraussetzung nicht blos
+1)’ fz = 5m, sondern auch fzrn =(x+4A)",
+
+also nach dem binomischen Lehrsatze: 2:
+2) fr = IRA mM, a m—1 TE
+
+m(m—1) (m—2)am- 8,6 Fass
+
+Beobachten wir diesen Ausdruck zur Rechten auf-
+merksam, so finden wir: ‚jeder folgende Coöfficient
+der verschiedenen Potenzen von A (mit denen wir
+ibre Nenner innigst verbunden ansehn) wird gefur-
+den, wenn wir den nächstvorhergehenden Co&fficien-
+ten mit dem Exponenten der Potenz von x maultipli-
+ciren und dann 1 vom Exponenten subtrahiren, w5h-
+rend das allererste Qlied 5m die Function fx selbst
+ist. Bezeichnen wir nun das, was mit jedem dieser
+Co&Effeienten (nach vorstehender Hege ) vorgenom-
+men werden soll, um den nächstfolgenden Coefß-
+eienten zu geben, dadurch, dafs wir diesem vorber-
+gehenden Coöfficienten ein rundes © vorsetzen, 86
+wird derselbe binomische Lehrsatz (3.) auch noch
+diese Form:
+WS AH HT
+
+ax+h nt ‘ZT x 30 1m
+
+annehmen, wenn wir, der Bequemlichkeit wegen, noch
+S) 9?f_ statt 9 (9f_)
+6) 9’f, statt 9 (9?f_)
+
+u, 8. w. f. schreiben.” Der Vf, zeigt sodann, daß
+die Gleichung (4) für jede beliebige Function f,
+
+gelte, sobald man nur unter dg_ für jede Functios
+
+Pin P
+@x das verstehe, was aus = werde, wenn
+
+man zuerst durch } wirklich wegdividire, und dann 0
+statt h setze; oder mit andern Worten, sobald man
+Sg, (wie auch gp_ gedacht seyn möge) dadurch finde,
+dafs man © in eine nach ganzen Poteuzen von A
+
+fortlaufende Reihe entwickele,- und den CoöfhGcienten
+von
+

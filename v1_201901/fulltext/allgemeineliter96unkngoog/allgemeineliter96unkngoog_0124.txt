@@ -1,0 +1,145 @@
+gr
+
+s x
+m
+
+«
+. ° f ‘
+
+Ob 4 de
+CLLG
+en 29T
+
+0 zo
+EMEINE LITERATUR-ZEITUNG
+
+226
+
+m
+
+ 
+
+4... MATHEMATIK,
+Ay LLE, ‚ind. Waisenhaus, -Buchb.:. Lehrbuch.der
+uthematik sr Gymnasien und Realschulen —.—
+‚ von Johann Heinrich Traugott. Müller — Erster
+
+Theil u. 8, w, 2 I
+‚15; .. 0 (Poptsetzung von, Nw 108;) * ..
+
+2 9 N Wert NOT
+m vierten Abschwitte finden sich die Rechnungs.
+y\pgratignen. mit Agaregafen ad. nter ein Kapi-
+e4 über. positive ‚und: negative Zahlen;,. welchen letz.
+even der Vf, die Ohmsche Definition, dafs nämlich
+ug ‚negative Zahl der Unterschied zwischen 0 und
+rgend:einer Zahl sey, zum Grunde legt. Diese Er-
+
+Klärung, welche schon an und für-aich nicht ganz zu _
+
+yilligeneeyn mächte, ist für die Schule durchaus.un-
+‚wenkmäfsig ; debn was könate sich wohl det Sehiü-
+bey“ dahei danken, wenn :ihim gesagt wird, eri.salle
+Ktwas wagneahunem) wenn gakı nichts vorhanden ist;j
+ron dem ar 68 nehmen könnte ?: mul 6x diese Zume-
+hung. nächt geradezu für Unsinn erklären? : Ree.
+möchte beinahe sagen: ‚jede andere Erklärung, die
+man. sanst wahl über diesen. Gegenstand zu geben
+pflegs,-sei beaser und deutlicher als diese. 1 Weshalb
+anll man z.Bunicht entgegengesetzte Gröfsen als sol-
+che erklären, welche in.Bezug auf einen gewissen Fre-
+gepunkt einen Gegensatz unter einander bilden ? oder
+die negative Zahl für sich‘ allein betrachtet als eine
+Zahl definiren,. welche, wenn sie in Verbindung mit
+andern teitt, als. sabtraktiv. erscheint, so dafs maw
+vorläufig mit ihr wie mit dem Subtrahendus einer
+vollstä ndigen Differenz rechıgen mus, indem es denk-
+bar ist , dafs der Minuendus sich erst im Verlauf der
+Rethhung ZT A 2870 3
+
+Im darauf folgenden fünften Abschnitte werdern
+die vier Grundogeratigren mit Deecimäalzghlen durch-
+aus zweckmäfsig und genügend vorgetragen, nur
+möchte es vielleicht gewagt zu nennen seyn, schon
+hier in diesem Kapitel, welches)der VF.für die dritte
+Abtheilung eines Gymnasiums bestimmt hat, Fowu-
+rier’s Regel der geordasten Division zu lehren. Die
+Regel selbst können gewiß ‘die Schüler der Tertia
+fassen, den Grund aber dayon ordentlich einzusehen
+würde Rec, selten Einem von ihnen zumutben. Im
+Anhange davon zu sprechen, wäre sicher passender
+BR eESeD TEN W
+
+Der ganze sachate Absalinitt dagegen , in wel-
+chem von, der, Ausziehung der .Quadrat- und Kubik-
+wurzel gesprochen wird, mufs mit Ansnahme zweier
+Sätze geradezu verfehlt genannt werden. Zunächst
+wird eine involntorische Entwitkelkungsart von Qua-"
+
+A. L. Z. 1898, Zweiter Band,
+
+te
+
+3
+
+nt 2 . : ZN A
+drat und Kubus eines nach absteigenden Potenzen
+einer emp CE Töne geordneten Aggregats angegeben,
+welche schon beim Quadrat wenig nützlich, beim
+Kubus aber gewifs höchst unpraktisch ist, Soll z.B
+axs + öx?+cx+d= P zum
+den, so schreibt der Vf,
+Pi = a? x6 I N
+0. A daxr+ 5) bat.
++ (Car + d)r-ho).cx? ' .
+A U@ar+ör+dc)rpdl.d,
+ahd ist dieselbe Gröfse zum Kubus zu‘erheben, so
+setze man: © a
+; @x.+ ö= 51
+Blr+c= cl
+
+Sn ‘ur+d=dl „Te
+
+alsdann wird: PS = a549° ° 2.
+
+; + [34.0784 (34a5 -K5ö)b]. dx8'
+ı A [IL 87 -Gölr4o)el.cxr®
+
+. + Bez + Ber+ d)d}.d.:
+
+Dafs’ ein Schüler hierdurch irgend eine’ Ansicht
+über die Zusammensetzung und Anordnung der Pot
+tenz eines Polynoms erhält, ’ist nicht yet möglich:
+denn wenh er auch hier ein Bildungsgesetz erkenn?
+und demgergäfs ‚eine beljebig vielnamige Gröfse po-
+tenzirt , quo kann er doch, abgesehen; davon, da(ls er
+
+Quadrat erhohen wer-
+
+‚noch eine unangenehme Zwischenrechnung wegen der
+
+Finsetzpng der Werthe für d2,.cl, dl.y. s. w. hat, si-
+cherließ njcht die verschiedenen Beafändtheile erken-
+nen, aus welchen das Quadrat oder der Kubus einer
+mehrnamigen Gröfse zusammengesetzt ist, Jeden
+Falls wäre es vorzuziehen gewesen zu sagen: das
+Oradran eines Polynoms, besteht erstens aus dem
+adrate jedes einzelnen‘ Gliedes und zweitens aus
+dem doppelten Produkte jedes Gliedes in jedes fol-
+gende; der Kubus dagegen besteht aus drei von ein-
+ander verschiedenen Bestandtheilen: 1) aus dem
+Kubus jedes einzelnen Ghiedes-, ‘2) aus dem dreifa-
+chen Produkte des Quadrates-olhes jeden Gliedes in
+jedes vorhergehende und in jedea folgende and 3) aus
+den sechsfachen Produkten Je dreier Glieder, .Diese.
+Regeln der Potenzirung prägen sith' leichter dem 'Ge-
+däüchtnisse ein und führen schüeHNer zum Resultat, —
+Auch die in demselben Abschbitt Nam. 6 und 20 ge-
+rühmte Einfachheit, welche sich für die Quadrirung
+und Kubirung eier Decimalzahl aus dieser involuto-
+rischen Entwickelutngsart ergeben soll, ist durchaus:
+nicht gegründet; denn man mn(s bei dem hier ange-
+gebenen ‚Verfahren sogar bedeutend mehr Ziffern
+
+ 
+

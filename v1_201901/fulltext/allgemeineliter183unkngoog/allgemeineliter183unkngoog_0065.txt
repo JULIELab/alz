@@ -1,0 +1,156 @@
+107
+
+oder wenn die Queerfehnitte gleich find; fo verbhal-
+ten fch die Leitupgsfähigkeiten der ‚Leiter wie die
+Längen derfelben.: 7
+
+°
+-
+
+s ift in dem obigen Ausdrucke für die Gröfse
+
+des Stromes die Summe aller Spannungen als ve-
+kannt angenommen, indeffen können wir dieß
+Gröfse auch aus der Befchaffenheit eines jeden ein-
+zelnen Theiles der in Thätigkeit b enen Kette
+herleiten. Zu dem Behufe
+um Ay und es feyen 4 u und 40 die entfprechen-
+den Aenderungen von u und O0, fo ift
+
+A_ 4u+40
+
+ET
+Man findet alfo die Gröfse des electrifchen Stromes,
+wenn man zur Differenz der electrofcopifchen Kräf-
+te an zwey beliebigen Stellen der Kette die Summe
+‘aller zwifchen diefen beiden Stellen liegenden Span-
+
+nungen adyirt und die Summe diefer Gröfsen durch.
+
+die reducirte Länge des zwifchen beiden Stellen lie-
+genden Theiles der Kette dividirt. ;
+; Aus diefen Unterfüchungen über den electri-
+
+fehen Strom ergeben üch ferner. die Fälle, in wel-:
+
+chen es bey gleicher Oberfläche der Metalle am vor-
+theilhafteften ift, eine Voltailche ‘Säule oder eine
+einfache Kette bey den Verfuchen anzuwenden. 1ft
+nämlich 4 die Summe der Spannungen in einer
+einfachen gefchloffenen Kette und L die reducirte
+Länge von diefer, fo ift die Gröfse des electrifchen
+Stromes
+‚A
+L ,
+Denken wir uns n völlig gleiche offene Ketten und
+bringen ftets das Ende der einen mit dem Anfange
+der olgenden dergeftalt in Verbindung, dafs zwi-
+fchen je zwey Ketten keine neue Spannung entfteht,
+fo ift die Gröfse des electrifchen Stromes bey diefer
+Combination
+2 nA
+' nL
+Es f£nd mithin die Ströme in beiden gleich grofs;
+‘diefe Gleichheit verfchwindet indeffen fogleich,
+wenn wir in beiden Fällen einen neuen Zwi/chenlei-
+ter von der reducirten Länge 4 anbringen; dann ift
+
+nämlich die Gröfse des Stromes .
+A
+
+in der aus m Elementen beitehenden Kette Er
+und es ift alfo der Strom in der zulammengefetzten
+Kette ftets gröfser. Gefetzt nun, man habe eine
+beftimmte Flächengröfse von Kupfer und Zink, wel-
+che man nach Belieben in ein einziges grofses Pht-
+
+in der einfachen Kette
+
+tenpaar oder in eine beliebige Anzahl gleicher Plat- _
+
+: tenpaare verwandeln kann, es fey ferner die zwi-
+fchen beiden Metallen befindliche Fläfggkeit ftets
+diefelbe und die Metalle behalten ftets 4„5n gleichen
+
+ Abftand von einander, fo können wir fe}, r Jeicht be-
+
+‚ALLG. LITERATUR - ZEITUNG
+
+ehren wir zu der Glei—
+chung (#) zurück und nehmen an, ‚es ändern fich y‘
+
+108
+
+ftimmen, in welchem Falle die Gröfse’des Stromes
+
+‘ein Maximum wird. Esfey' nämlich. 1 die rödudirte.
+
+Länge des Körpers auf welchen der Strom wirken
+foll, L die reducirte Länge des Apparates, wenn er
+zur einfachen Kette gebildet worden ift und 4 feine
+
+‚Spannung, fo ilt, wenn wir eine voltaifche Verbin-
+
+dung von n Elementen conftruiren n 4 die jetzige
+Spannung, nL die reducirte Länge eines jeden der
+jetzigen Elemente und n*L.die reducirte Länge aller
+Elemente, folglich die Gröfse des Stromes
+nA
+naL+ A
+Diefler Ausdruck wird ein Maximum für n= A >
+
+es wird alfo diefelbe Metallfläche am vortheilhafte—
+ften als einfache Kette augewendet, fo lange A<L
+
+- ift; dagegen bilden wir am zweckmiäfsigiten eine‘
+
+voltaifche Zufammenfetzung, wenn A>L wird,
+und zwar wird diefelbe am beften aus 2, 3, .... Ele-
+menten gebildet , wenn 4 4, 9.... mal gröfser ift
+als L ' ; ;
+
+Das bisher Gefagte möge genügen, um den Le-'
+fer auf den Inhalt diefer Schrift aufmerkfam zu ma-
+chem; wir wollen nur noch über den Anhang, wel-'
+cher von der chemifchen Kraft der voltaifchen Säule:
+handelt, einige Worte hinzufügen. Der Vf. fucht
+den Grund der durch den Strom in dazu geeigne-
+ten Theilen der Kette veranlafsten chemifchen Aen-
+derungen, in der eigenthümlichen Electricitäts-
+verthbeilung diefer Apparate. Es mufs nämlich jede
+zu einem Queerfchnitte gehörige Scheibe einer gal-
+vanilchen Kette nach Schliefsung des Apparates’
+einfeitig getrieben werden; die Kraft mit . welcher
+diefes geichieht fteht in einem Verhältniffe, wel-
+ches aus ‘der Größe des Stromes und der in der
+Scheibe befindlichen Kraft zufammengefetzt ift. Jlt
+diefe Scheibe.ein Körper, welcher aus Beftandthei-
+Jen von verfchiedenem electrifchen Verhalten zu-
+fammengefetzt ift, fo wirkt jener einfeitige Druck
+
+„auf die verfchiedenen Beftändtheile mit ungleicher
+
+Stärke und zum Theil auch in entgegengefetzter
+Richtung und fo erfolgt eine Zerfetzung diefer
+Scheibe. Die hier wirkende Kraft, welche der
+Vf. die zerfetzende Kraft des Apparates nennt, ift
+der Stärke des Stromes direct proportional und
+hängt aufserdem noch von einem Koefhcienten ab,
+welcher durch die chemifche Befchaffenheit des
+Körpers und durch den Zufammenhang zwifchen
+den Beftandtheilen deffelben beftimmt wird. Der
+Vf. unterfucht die Folgerungen aus diefer Hypo-
+thefe im Allgemeinen ausführlich und geht dann zu
+dem Falle über, wo der Widerftand, welcher feh
+diefer Entfernung der ‘1heile entgegenfetzt, gröfser
+wird als die zerfetzende Kraft; am Schluffe un-
+terfucht er endlich die durch diefe chemilche Zer-
+fetzung herbeygeführte Aenderung des in der Kette
+
+vorhandenen Stromes.
+Das Aeufsere der Schrift ift gut; auch die
+Correctüur ift forgfältig; Rec. fügt zu den wenigen
+. ° 30
+
+lite __.
+

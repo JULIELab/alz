@@ -1,0 +1,159 @@
+re
+se ®
+*
+
+die nur in sofern die verschiedenen Gattungen der
+operirten Gröfsen berücksichtige, als sich diese aus
+den Operationen welbst. ergeben. Die Algebra be
+zeichnet er als denjenigen Theil der- Mathematik,
+welcher unbekannte Gröfsen ans ihren Relationen
+zu bekannten finde, Rec, glaubt den charakteristi-
+schen Unterschied zwischen der Arithmetik im en
+
+rn Sinne und der Algebra darin gefunden zu haben;
+
+(s die eine das Unbekannte aus Bekanntem synthe-
+tisch, von den Gründen zu üen Folgen fortschreitend,
+herleite , die andere analytisch, von den Folgen zu
+den Gründen aufsteigend. Und er findet darin den-
+selben Gegensatz, wie zwischen synthetischer Geo-
+metrie und geometriseher Analysis,
+
+‘ In dem ersten Buche werden: die Elemente der
+Combinationslehre in 3 Kapiteln, worin vom Permu-
+tiren, Combiniren im engern Sinne.und Variiren. die
+Rede ist, klar und einfach vorgetragen. Und es wird
+ihm, ‚wie im den folgenden, eine kurze Geschichte
+der abgehaudelten Lehren beigefügt, ein Verfahren,
+welches den Werth der Schrift für den Anfänger
+ohne Zweifel erhöhet. Sa |
+
+Das zweite Buch enthält die Grundlehren der
+Arithmetik insbesandere, und behandelt dieselbe in
+6 Capiteln, welche die Addition: und Subtraction,
+Multiplication , Division, Potenziirung, die Lehre
+von den Legarithmen und die Geschichte und Litera-
+tur der Arithmetik vortragen,
+
+In dem Kap, von der Division wird von den Ver-
+hältuissen, von dem gemeinschaftlichen Maafse, von
+
+‚den Brüchen, gemeinen, Depimalhrüchen und:Ket-
+tenbrüchen gehandelt. Davon abgesehen, dals der
+unrichtige Ausdruck, Quotienten seyen Verhältnisse,
+vorkommt, indem die Quotienten nur die Exponenten
+der Verhältnisse sind, kann es Rec, nicht gut heifsen,
+
+wenn das für die Arichmetik und Geometrie gleich
+wichtige Kapitel von den Verhältnissen in das Kapi-
+
+tel, von der ‘Division übergehen, und der schönste
+Theil der Geometrie dadurch aufgegeben und in die
+Arithmetik herübergezogen werden’ soll... Es drängt
+sich immer mehr die Nothwendigkeit hervor, auf das
+Studium der Kuklidischen Elemente hinzuweisen. .
+Das Kap. von der Potenziirung schliefst die Leh-
+: ren vom binomischen und polinomischen Lehrsatze
+ein, und giebt einfache Beweise und mehrfältige An-
+‚wendungen derselben, 6
+Die Lehre von den Logarithmen:. schlie(st ‚sich
+an die Potenzenlehre an, weil der Logarithmus als
+der Exponent einer Potenz dargestellt wird. Der
+Leser erfährt. auf diesen Wege freilich nicht, was
+unter einem Logarithmus ursprünglich verstanden
+wurde und was das Wort Logarithmus eigentlich
+
+bedeute. Eine Folge der mangelhaften Behandlung .
+
+der. Lehre’ von den Verhältnissen,
+
+‘ Das Geluugenste in dieser Schrift scheint Rec, --
+
+die Behandlung der Algebra zu seyn. . Zuerst wer-
+den die bekannten ‚Lehrsätze, dals jede geordnete
+
+Gleichung durch ihren \Wurzejfuetor theilhar, dafs’
+
+sie gleich dem Producte ihrer \Wurzelfactoren sey,
+dafs eine reelle Wurzel zwischen zwey Zahlen liegen
+
+Num. 1168,. DECEMBER 1838,
+
+müsse, deren Sabätitation verschieden bezeichnete
+Resultate gebe, dafs die Substitution von Zahlen, zwi-
+schen welchen keine reellen Wurzeln, aber eine gerade
+Anzahl derselben liege, Resultate mit einerlei Zeichen,
+zwischen welchen aber reelle Wurzeln in ungerader‘
+Anzahl liegen, Resultate mit verschiedenen Zeichen
+liefere; dafs sich-ein Werth der unbekannten Gröfse
+finden lasse, welcher das erste Glied größer mache,
+als die Summe aller übrigen, angeführt; darauf wird‘
+
+'eine Gleichung ordnen gelehrt. Es folgt die Auflö-
+
+sung der Gleichungen des ersten, zweiten und drit-
+ten Grades mit einer unbekannten Gröfse, Die.des
+vierten Grades wird nicht gelehrt, als zu grofse Un-
+bequemlichkeiten darbietend. Es wird gezeigt, wie
+die Zerlegung des letzten Gliedes einer Gleichung
+zur Auffindung der rationalen Wurzeln dienen könne,
+wie man nach Newtön’s Methode, oder nach der so-
+genannten regula falsi die Näherungswerthe für die
+
+unbekannte Größe finde, wie letztere Methode mit .
+
+Vortheil bei der numerischen Auflösung transcen-
+denter Gleichung gebraucht werde. Es werden die
+Methoden angegeben, wie Gleichungen der verschie-
+denen Grade mit mehrern unbekannten Gröfsen au
+
+gelöst werden, und zuletzt die unbestinzmten Aufga-
+
+n des ersten Grades behandelt, die der übrigen.
+
+Grade in die höhere Arithmetik verwiesen, ”
+Den Beschlufs des Ganzen macht eine Darstel-
+Jung der Grundlehren der Theorie der Reihen, Zu-
+erst stellt der Vf. das allgemeine und das summato-
+.rische Glied einer Reihe aus dem ersten Gliede der
+‚Hauptreihe und den ersten Gliedern der Differenz-
+reihen dar, und wendet dieses auf arithmetische,
+geometrische und recurrirende Reihen an, Da das
+Buch für den Anfänger bestimmt ist, so hätte vor
+
+’dem Gebrauche der Polygonal- und Pyramidalzahlen
+
+eine Nachweisung ihrer Entstehungsart aus 'einer
+arithmetischen Reihe der ersten Ordnung durch Sum-
+
+mation der Glieder derselben gegeben, auch nachge- _
+‚wiesen werden sollen, warum sie di
+‚dreieckigen‘, viereckigen u, 8. w. Zahlen führen,
+
+e Namen der
+
+Diese Lehre, deren Behandlung hier am rechten Orte
+
+‚gewesen wäre, wird gar zu kurz abgefertigt. Dar-
+‚auf trägt er.die Lehre vun der Interpolation der Rei
+
+hen vor, Mit einer gewissen Vorliebe: und lebens-
+wirdigen Ausführlichkeit hat er dieses wichtige Ka-
+pitel vorgetragen. Kr lehrt die verschiedenen Inter-
+polationsmethoden in arithmetischen, geometrischen
+und recurrirenden Reihen, und giebt wegen des häu-
+figen Gebrauchs des Problemes der Interpolation in
+der Naturkunde zahlreiche Beispiele, welche sehr
+glücklich gewählt sind, , '
+
+der Geometrie; in dem Kreise, der CyKlorde ‚ den
+Kegelschnitten, der Cissoide u, der Conchoide new
+bearbeitet u, erweitert von Carl Friedr. Muhlert,
+1831. 1485,8, mit7Kpftaff. (1 Rthl, 12gGr.)_
+
+„Die krummen Linien, welche wegen ihrer ge-
+setzlichen Bildung in der Mathematik hetrachtet
+a wer-
+
+Lemzioc, b. Baumgärtner: Die Kampyl mmik ©
+

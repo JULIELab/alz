@@ -1,0 +1,151 @@
+a 2 —1065— 22 6
+ALLGEMEINE LITERATUR - ZEITUNG
+
+a a
+
+ 
+
+Or A -ER  ma
+
+Junius 1838.
+
+- > ES EEE
+
+ 
+
+MATHE M ATI K. ,
+Harz n d. Waigenhgus- Buchb.: Lehrbuch der
+aan ind ür.Gymnasien und Realschulen — —
+
+‚von Johann Heinrich Traugett Müller U. 8. W,
+
+(Beschlufs von Nr. 104.)
+
+L Jetzten Abschnitt ist die Theorie der ‚Ghei-
+chungen unil. zwar ziemliek weitläuftig abgehandelt,
+(bes gerade deshalb, weil der Vf. dieser Lehre ei-
+
+seh solchen Raum gestattele, wäre es ;gewils passen
+
+der‘ gewesen in Stelle mancher weniger wichtigen
+
+X Kan 1 + Kann —
+=(—0) TE ..o (X — An)3}
+und hildet man hjerans eine andere Funktion
+
+x X X
+
+Et OÖ
+L — 0 I’ — Ag
+
+mn © qq fr PA
+
+——
+nl
+
++
+
+T— a3
+
+le ra A Ds
+
+Da
+
+Sätze, die von Fourier und Sturm mit anfzusiehmen
+zumal da sie sich so sehr leicht elementar darstellen
+lassen, Das Kinzige was scheinbar aus der Diffe-
+renzialrechnung hinzugezogen werden mufs, lHilet
+sieh mit der geringsten Mühe auf anderm Wege un»
+gehen: es wäre dieses nämlich die Bestimmung der
+abgeleiteten Funktionen und der Beweis dafür, dafs
+ein Faktor, der in einer Funktion # mal enthalten
+ist, in der ersten abgeleiteten Fuhktion Cm —1) mal
+vorkommen mu(s, Dieses ergieht sich aben blomen-
+tan wohl am zweekmäfsigston auf. folgendem
+Bey X eine ganze rationale Funktion von x ni
+
+— 4q.. +(— DDP, Kon (1), Kanmıs + (Dr. n=0
+
+7
+
+X
+
+X — an?
+
+so wird diese wieder eine ganze rationale Funktion von x seyn müssen, weil jeder Summand eine sale
+
+istz denn man hat
+
+ 
+
+<
+
+' — 0,
+;‘ X
+ah)
+
+X
+
+Bzw => (x «1) (x @a) (X
+
+wo A1) ‚43, .... A) 2808 die Summe der Kombi-
+nationen zu je 1, je 2, .... ‚07 PP... aus allen Wur-
+zeln, der ureprünglichen G hung mit Ausschlu(s
+von «, sind, ebenso B,, Ba,...B ‚.... dasselbe: in
+Bezu auf alle Wurzeln mit Ausschlufs VON aa U. 8, W,
+
+wied aber offenbar A. — K,p weniger alle Kombi-
+mationen der pten Klasse welche a, enthalten, eben-
+so By = K, weniger alle Kombinationen der pten Klas-
+‚se welche a, enthalten u. s. w. mithin An +Bp-+...
++ MM, = n. K, weniger alle Kombinationen der pten
+
+= ya (n— 1) Kr +(n—2)K,.
+
+ 
+
+Indem mau nun eine zweite Funktion X: bildet, wel- '
+
+ehe ebenso aus X! entsteht wie.diese aus X und auf
+analoge Weise X", X’ u,.8.W., so erhält man die
+KRunktidaen - Reibe von welchem Fourier bei seinem
+Satae ausgeht. Auch ergiebt sich hier zugleich un-
+mittelbar, dafs wenn man in ir eine dieser
+Funktionen etwa in XV) für z den
+setzt, das Resultat = X) +4, X“) plus Glieder wel-
+che A? und höhere Potenzen von A enthalten, werden
+4. L. Z. 1888. Zweiter Band.
+
+erth z + ein-
+
+=(T— 8) (z— 03) wa (X — an) = 1 Ay Ay Sn (U) Azad ee
+
+F—3 (D— &1 )(z— aa) (X — an) zZE za-1.— BB, „an-3 + Ba 273.4 A (—1)r Ban FT en.
+
+° ® s ® ° ed e e s ® ®
+
+&n 1) = zn My + My 23-5, 4 (— DE Mora
+
+Klasse welche «, enthalten, weniger alle welche 3
+enthalten u. s, w. Da aber unter den letzten abzu-
+ziehenden Gröfsen alle möglichen Kombinationen
+
+der pten Klasse vorkommen müssen, und sich zu-
+gleich jede. Komplexion pmal findet, so erhält mau
+
+Apt BptocutH My=(n—p) Ko,
+woraus dann endlich folgt:
+X X X X
+X = S— 0 + £— &2 + Lt RZ
+a3... +(—1)P(n-— p)K Ep
+mufs, Endlich falgt auch aus dem Objgen, ıflafs ein
+Faktor welcher in X, n mal rorkommt in ke noth-
+wendig (n—1 ) mal enthalten seyn mul. Ist näm-
+lieh (x-— a)" Divisor von X, so wird in allen Glie-
+dern, aus welchen X" besteht, ‚X also Mies Cie ın
+im Zähler stehen und nur in dieser. Kilieder
+‚wird einer der n a Faktoren (r-—0a) ge
+den Nenner fortfallen können,. so dals.,‚alsp lan
+Giliedern yon X! der Faktor (z—a)!-! gemeinsam
+Gg
+

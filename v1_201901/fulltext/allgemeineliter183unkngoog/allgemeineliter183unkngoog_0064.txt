@@ -1,0 +1,142 @@
+$
+%
+
+1053
+
+a. A
+ALLGEMEINE.LITERATUR- ZEITUNG
+
+° 108
+
+a. Januar 1828.
+
+PHYSIK.
+Benııtv, b, Riemann: Die galvanifche Kette , ma-
+
+2hematifch bearbeitet von Dr. G, S, Ohm u. {. w.
+
++
+
+. (Befchlufs der im vorigen Stück abgebrochenen Aiecenfion.)
+
+*
+
+D.. Gleichungen unter (E) welche die electro-
+fcopifche Kraft an irgeud einer Stelle der Kette an.
+
+eben, laffen fich noch auf eine bequemere Art aus-
+Brücken. Es ift nämlich a -+a’ +4" die Summe al:
+Jer Spannungen an den Berührungspunkten , wel-
+che wir mit A bezeichnen wollen; ferner ift.
+1+X-+X die reducirte Länge der ganzen. Kette,
+weiche wir L nennen wollen. Was die Gröfse be-
+trifft, mit welcher. der gemeinfchaftliche Koeffizient
+am Anfange des Ausdruckes rechter Hand multipli-
+
+‚cirt ift, fo finden wir in allen drey (3leichungen eine
+. Summe, welche befteht aus den reducirten Längen
+
+der vorhergehenden Elemente der Kette und aus
+einem Quotienten, deffen Zähler das Stück diefes
+Elementes ift, welches die Abfeilfe durchlaufen
+hat, deffen Nenner das Product aus dem Leitungs-
+vermögen uud Queerfchnitte des Elementes ift. Wir
+wollen diefe Summe die reducirte Abfciffe nennen
+und diefelbe mit y beZeichnen. Von dem genannten
+Producte werden die Gröfsen a’ oder a’ + a” fubtra-
+hirt, wenn die electrofeopifchen Kräfte ww’ oder u”
+beftimmt werden follen ; diefe Gröfsen, welche die
+Summe der von der Abfeiffe überf: rungenen Span-
+nungen angeben, wollen wir mit bezeichnen ; auf
+diefe Art erhalten wir für die electrofcopifche Kraft
+an einer beliebigen Stelle der Kette folgenden allge-
+meinen Ausdruck
+A
+. U= zZ) O+0 - (F) ’
+Hieraus folgt 1) die electrofcopifche Kraft eines je-
+en homogenen Theiles der galvanifchen Kette än-
+dert fch Teiner ganzen Länge nach ftetig und auf
+gleiche Strecken um gleich viel, aber da wo er
+
+aufhört und ein anderer Theil der Kette anfängt,
+
+ändert fie fich‘ plötzlich um die ganze an diefer Be-
+rührungsfläche ftatt findende Spannung, 2) Wenn
+die electrofcopifche Kraft an irgend einem Theile
+der Kette geändert wird, fo ändert fich Nefelbe an
+allen übrigen Punkten der Kette um diefelbe Gröfse.
+Ohne hier bey den Fol erungen des Vfs. aus
+dem bisher Gefagten, ohne 7 er Unterfuchung
+derjenigen Ketten, auf welche die äufsere Luft oder
+auch die Zeit (trockene Säulen) einen Einflufs äu-
+A, IL. Z. 1828, Erfter Band.
+
+fsern, zu verweilen, wollen wir noch Einiges von
+
+demjenigen mittheilen, was der Vf, über die Er.
+fcheinungen des electrifchen Stromes fagt. Es ift
+
+fchon oben erwähnt, dafs die Größe des Stromes
+
+ausgedrückt wird durch | ;
+
+S = Xw d=
+Diefen Ausdruck wollen wir mit der für die electri—'
+
+{che Kraft gefundenen Gleichung (F) verbinden und
+alfo fetzen, es fey
+
+un du dy “
+
+, S = x dy‘ dx .
+Differentiiren wir den Ausdruck (F) und beachten,
+dafs y = —, fo wird
+
+A
+S = L
+
+d. h. der electrifche: Strom ift allenthalben gleich:
+rofs und von der Conftante c unabhän ig; wird die
+ette an einer Stelle geöffnet, fo wird x für einen
+
+Theil derfelben = o, alfo L unendlich grofs und
+
+jeder Strom in der Kette hört ganz auf. Es bleibt
+erner die Gröfse des Stromes in einer Kette die-
+
+{elbe, wenn die Summe aller Spannungen und die
+
+reducirte Länge der Kette nach einerley Verhältnifs‘
+eändert werden; werden daher die Theile der Kette ı
+eliebig‘ verwechfelt, fo bleibt die Gröfse‘des Stro-
+
+mes ungeändert, wenn nur zugleich die Summe al-
+ler Spannungen diefelbe bleibt. Hierin liegt ein be-
+uemes Mittel, die Leitungsfähigkeit verfchiedener
+
+Körper zu beftimmen, Es bleibt nämlich die Stärke
+
+des Stromes diefelbe, wenn ein Theil der Kette aus
+
+ihr entfernt und für denfelben ein anderer prismati-
+fcher Leiter genommen wird, wenn nur beide ei-
+nerley reducirte Längen haben und die Summe der
+
+Spannungen in beiden Fällen diefelbe bleibt; ift
+
+alfo umgekehrt die Summe der Spannungen und
+
+die Gröfse des Stromes unverändert geblieben, fo
+müffen auch‘ die reducirten Längen gleich grofs
+feyn. Sind mithin Z und X die wirklichen Längen
+der beiden Leiter, w und w’ die Queerfchnitte und
+x und x’ die abfoluten Leitungsvermögen derfelben,
+
+fo ift I
+- 21_ Fr ‘
+xw Ka
+. 1
+folglich verhält fich x: =
+
+oO ; oder
+

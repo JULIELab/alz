@@ -1,0 +1,128 @@
+815
+
+bisher untersuchten krummen Linien, Auch die
+Theorie der krummen Flächen glaubte er bis auf ei-
+nige elementare Sätze übergehen zu müssen, Zum
+Verständnifs der mathematischen Geographie hielt
+der Vf, einen Begriff von der Einrichtung er Tafeln
+für nothwendig, aus denen man die zu Ortsbestim-
+mungen erforderlichen Data entnimmt, nnd er fügte
+defsbalb dem Buche eine kleine Sammlung von Ta-
+foln bei, die der nöthigen Vereinfachung wegen,
+zwar nicht vollständig genau sind, aber dennoch eine
+bei weitem größere & ärfe gewähren, als die dem
+Privatmanne in der Regel zu Gebote stehenden In-
+strumente, Diese zweite Abtheilung zerfällt in 4
+Abschnitte: Analytische Bestimmung der Punkte in
+einer Ebene, Gleichungen gerader und krummer Li-
+nien, allgemeine Untersuchungen über dieselben, —
+Von den Linien des zweiten Grades und einigen an-
+dern Curven, — Bestimmung der Punkte im Raume,
+Gleichungen der Linien und Flächen, -— Mathema-
+tische Geographie. Das Papier ist gut, der Druck
+der. mathematischen Formeln könnte häufig besser
+seyn. S. 32 des lsten Theils erräth der, der es
+nicht weifs, wahrlich nicht, dafs einige der daselbst
+stehenden Zahlzeichen Neunen seyn sollen,
+
+GEODÄSIE.
+
+AnnnEIM , b, Hoff: Lehrbuch der höheren Geodäsie
+m Aug, Decker, Mit drei Figurentafeln, VIu,
+304,85. 1836, 8, (1 Rthlr. 12 gGr.)
+
+Der Vf, glaubte, dafs es, bei allem Reichthume
+der mathematischen Literatur, doch noch an einem
+solchen Lehrbuche der höheren Geodäsie mangele,
+welches eine vollständige Uebersicht aller bei einer
+allgemeinen Landesvermessung vorkommenden Be-
+rechnungen gewähre, und auch für weniger Geübte
+verständlich sey, Kr beschlofs daher, ein solches zu
+liefern, und so entstand vorliegende Schrift, wobei
+er hauptsächlich die Werke von Puissant, Delambre,
+Lättrow, Stein, Grunert u, A, benutzte, Wir wol-
+len nun zwar nicht leugnen, dafs das Buch manches
+Brauchbare enthalte , aber seine Aufgabe hat der Vf.
+nicht gelöst, Denn erstens scheint er nicht recht
+einig mit sich selbst darüber gewesen zu seyn, für
+- wen er sehreiben wollte. Dachte er sich unter sei-
+nen Lesern Anfänger in der Wissenschaft, so durfte
+er die Beschreibung der bei den geodätischen Opera-
+tionen gebräuchlichen Instrumente und die Methoden
+ihrer Rectifiaation nicht wohl übergehen, auch war
+dann über das eigentliche Messen selbst weit mehr
+zu sagen; schrieb er aher für Geübtere, so konnte
+er sich sehr häufig weit kürzer fassen, und die oft
+sehr weitläuftig ausgeführten Verwandlungen der
+Formeln diesen selbst überlassen, um so mehr, da er
+die Kenntnils der Infinigesimalrechnung schon voraus-
+setzte, Zweitens aher fehlt die yechte Ordaung, in-
+dem häufig auf Dinge verwiesen wird, die erst spüter
+
+ERGÄNZUNGSBLÄTTER Num. 102. NOVEMBER 1837.
+
+816
+
+vorkommen, So wird z, B. bemerkt, . dafs die beob-
+achtete Zenithdistanz von dem bekannten Fehler des
+Instruments befreit, und um die Refraction vermehrt
+werden müsse; von dieser Refraction aber ist erst
+später die Rede, Den Gang der Operation giebt der
+f, auf folgende Weise: „Die erste Operation bei
+einer allgemeinen Landesvermessung ist gewöhnlich
+die Ausmessung einer Basis, d, h. einer Linie, wel-
+che als erste Dreieckseite hei der erwähnten Trian-
+ulation dienen soll (lster Abschn.), Nach dieser
+peration kann man die Bestimmung des Winkels
+vornehmen, den die Basis mit dem Meridiane eines
+ihrer Endpunkte bildet, eine Aufgabe, die blos dureh
+astronomische Beobachtungen zu lösen ist (Ulter Ab-
+schn,). Sodann schreitet man zu der Auswahl , Beob-
+achtung und Berechnung der Dreiecke ersten, zwei-
+ten, dritten und vierten Rangs (4ter Abschn.), zu
+der Ausmessung der Umfangswinkel und Umfangs-
+seiten der Gemarkungen , Fluren und Gewanne, und
+berechnet sofort von allen Dreieckspunkten, so wie
+von allen Winkelpunkten der Gemarkungen u, s, w.
+die Coordinaten (Ster echn.), mit deren Hülfe
+man sodann leicht die Flächeninhalte der Gemarkun-
+gen u, s, w, findet, Nach allen diesen Arbeiten wird
+erst zur Vermessung der Parcellen übergegangen
+(6ter Abschn.) Ueberhaupt ist es bei allen bedeu-
+tenden Vermessungen Regel, von dem Gröfseren zu
+dem Kleineren überzugehn , und die früheren Arbei-
+ten zur Controlle und Verbesserung der nachfolgen-
+den zu benutzen, Die Beobachtung der Höhenwin-
+kel der Dreieckspunkte mittelst des Theodeliten wird
+am besten gleichzeitig mit der Beobachtung der Ho-
+rizontalwinkel der Dreiecke vorgenommen. Die ba-
+rometrischen Höhenbestimmungen können dagegen
+zu beliebiger Zeit ausgeführt werden (7ter Abschn,),
+Will man die-Resultate einer allgemeinen Landes-
+vermessung zu Entwerfung genauer Landcharten be-
+nutzen, 80 ist es erforderlich, die schon oben er-
+wähnte Länge- und Breiteberechnung hinsichtlich
+der wichtigsten Punkte dieses Landes vorzunehmen,
+zu welchem Zwecke man vorher durch astronomische
+Beobachtung die geographische Lage des Hauptortes
+mit der gröfstmöglichsten Genauigkeit bestimmt,
+Das hierher einzuschlagende Verfahren wird in den
+
+Abschnitten 9 und 10 gelehrt, nachdem zuror im ach-
+
+ten Abschnitte die erforderlichen astronomischen
+Vorkenutnisse gegeben sind, Hat man die geogra-
+phische Lage des Hau tortes durch Berechnung ge-
+unden, so wird durch blofse Rechnung die Länge
+und Breite der übrigen Punkte des Dreiecksnetzes
+gesucht (12ter Absehn,). Die Art nnd Weise, wie
+man sich der Resultate der geographischen Ortsbe-
+stimmung zur Entwerfung der Landchartennetze zu
+bedienen hat, ist in dem dreizehnten Abschnitte ans-
+einandergesetzt, Im letzten Abschnitte sind endlich
+als Anhang die Formeln für die Berechnung der bei-
+den Axen, der Oberfläche und des Körperinhaltes der
+Erde entwickelt.” Druck und Papier sind gut,
+
+Sina rel a mm ;
+

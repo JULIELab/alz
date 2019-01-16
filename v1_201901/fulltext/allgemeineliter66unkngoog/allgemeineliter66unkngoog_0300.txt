@@ -1,0 +1,172 @@
+u WW X u U DD OO —
+
+URHEBER LU HE)
+
+j
+W
+g nen Gruydziügen, erkannt werden könne,
+
+4 hinreichen, die $$, 1, 2 und 3 hier folgen zu lassen:
+
+x
+
+eV -
+589
+
+lassen, Andere werden- bewiesen. und: aufgelöst,
+
+Die Behandinng ist in der Regel eine geometrische,
+' ‚zuweilen eine algebraische,
+
+ei den geometrischen
+die Analysis nicht vorausgeschickt, sondern
+unmittelbar die Construction gegeben , auch die De-
+termination nicht hinzugefügt, sondern am Ende nur
+durch eine Frage oder eine kurle Bemerkung ang&-
+Geutet, dafs die Auflösung nicht immer möglich sey.
+Rec, hält Beides für einen wesentlichen Mangel,
+weil gerade die Aufsuchung der Analysis einer Auf-
+gabe das wahrhaft Bildende für den jungen Mathe-
+matiker ist, und eine vollständige Behandlung einer
+Aufgabe, wozu doch die jungen Milinner angeleitet
+werden sollen , eine bis auf die Verhältnisse der un-
+‘mittelbar gegebenen Stücke zurückgeführte Deter-
+mination erfordert, Von mehrern Aufgaben, welche
+eine doppelte Auflösung zulassen, fehlt die Angabe
+der zweiten Auflösung, wie z. B. bei den ‚Aufgaben
+von $. 44, 46. 47., ın welchen es sich um die Be-
+schreibung eines Kreises handelt, welchen, durch
+einen gegebenen laufend, zwei gegebene gerade Li-
+rien oder zwei gegehene Kreise berühren, oder durch
+zwei gegebene Punkte laufen und eine gegebene ge-
+rade Linie berühren soll. '
+
+Uebrigens enthält die Schrift eine sehr schätz-
+hare Materialiensammlung zu mannichfaltiger Uebung
+der Anfänger im Beweisen von Lehrsätzen, oder
+Auflösen von Aufgaben, welthe vielen Lehrern we-
+sentliche Dienste leisten wird. Und es ist deshalb
+die Fortsetzung, wozu der Vf, Hoffnung macht, sehr
+wünschenswerth,
+
+MECHANIK.
+fa heo-
+
+Görtmeen, b, Dieterich: Principia general
+vie figqurae idorum in statıu acquilibriüä auctore
+C. F. Gaufs. 1832, 338, 4, (16 gGr.)
+
+Nachdem der Vf. in der Kinleitung die Mängel
+der bisherigen Theorieen der Oberflächen, in Gefäfsen
+eingeschlossener , im Gleichgewichte befindlicher
+
+dachte Kinleitung mit folgenden Worteu:
+
+Resumemus itaque ab integro theoriam fiqgurae
+wilibrii fluidorum sub actione grauitalis et virium
+ecularium propriarum et vasis, in quo negotio
+
+methodum prorsus diuersam e primia dynamicae
+° principits petitam eequemüur, | ue gene»
+
+ralitatem stalim ab inılio amplectemur. dee dis-
+quisitio perducet ad insigne theorema nouum, theo-
+riam completam in vnicam formulam simplicissi-
+snam contrahens, e quo vtraque pars theoriae ill,
+Laplace sponte demanabit,
+
+‚ Eines’ Auszuges ist das Buch durchaus nicht fü-
+hig. Damit aber der Weg, den der Vf, eingeschla-
+gen hat, von den Lesern dieses, wenigstens in sei-
+wird es
+
+»
+
+Num, 244. AUGUST 1883.
+
+:- fus.conditionibus qualibuscungue
+
+flüssiger Körper erwähnt hat, schliefst er die ge-
+
+‚ wbi differentialia d(m, m’), d(m, m”) etc.
+Balal vipote ad hen ee Hal
+
+| 31. - ;
+Ad stabiliendam aequationem aequilibrii systema-
+'tis punctorum ‚physiCorum quotounque QqHOTUIM MO-
+ringuntur , ma-
+xime idoneum est principium motuum virtualium,
+quod sic enunciamus. ’
+Constet syslema e punclis physicis m, m', m’ elc.,
+
+.° £n quibus massae per easdem Itteras denotandae con-
+
+centratae cpncipiantur, . Sit P una e viribus accele-
+ralricibus in punclum m agentibus, et dum systemati
+'matus qualiscungue infinite us cum conditionibus
+aystematis sociabilis (motus virtualis) tribui Pc
+
+pro-
+
+_ fur, sit dp motus puncli m in directionem vis
+‚ geclus, €, e, per cosinum anguli quem fucit cum di-
+
+rectione vis P multiplicatusz denique sit ZPdp ag-
+gregatum omnium similium productorum respect
+omnium virium punctum m sollicitantium, Perinde
+
+. gvrepraesentet P' indefinite vires punclum m’ sollict-
+
+tanles, atque dp’ motus puncti m’ ad singularum di-
+yectiones protectos, similiterque de reliquis punctis,
+Quibus ita intellectis , conditio aequilibrıi systematis
+consistit in co, vt aggregatum. *
+“m 3 Pdp + m'3Pdp' + m" ZP"dp" + etc.
+
+pro quocungue motu virtuali fiat = 0, vti principium
+moluum virtualium vulgo exprimitur, vel accuratius,
+in eo, vt lud aggregatum pro millo motu virtuak
+adipisci possit valorem positiuum,
+
+2.
+Vires hic considerandae ad tria capita vedu-.
+cuntur. ;
+
+I. Grauitas,. cuius intensitatem pro singulis pen
+cfis eandem , direcliones parallelas supponere Kcet:
+ülam denotabimus per g.
+
+Il. Vires altractiuae, quas puncta m, m’, m” ete.
+a se muluo experiuntur, Intensitas altractionis
+functioni distantige proportionalis sixe producto huius
+functionis per characteristicam f denotandae in mas-
+sam in puncto atirahente concentratam aequalis sup-
+
+ponilur. -
+
+IUT. Vires quibus puncta m, m', m” etc. ad puncta
+quotcunque fixa attrahuntur, Pro his viribus simile
+modo characteristica F distantiae praefigenda vie-
+mur, et per M, M'’, M” etc. tum puncta fiza, tum
+Mmassas quae in tpsis concentratae, supponuntur , de-
+signabimus.
+
+Quodei iam distantiam inter bina puncta m, m’
+per hoc signum denotamus (m, m’), et perinde per
+(m, M) distantiam inter puncta m, M etec., nec
+non per z, zZ, z etc. altitudines punctorum m, m’,
+m” etc. supra planum horizontale arbitrarium MH,
+kac partes complexus XPdp habebimns: ;
+—mf (m, m’) d(m, m’) —.’.M (m, m”) d(m, m”)
+
+—m ”f(m, m”) d(m, m”) eto.
+
+—MPF(m, M) d(m, M) —M'F (m, M') d(m, M')
+= MI” F(m, MM”) d(m, 1’) ete.
+
+sunt par-
+
+em puncti m
+
+Tamm
+

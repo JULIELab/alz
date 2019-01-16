@@ -1,0 +1,143 @@
+a.
+
+:1063
+
+anzugeben und bei den Dämpfen. auf diesen Gegen-
+stand - zurückkommen. . Andere Umstände die.bei
+den .Thermometern zu. beachten sind, wie die. Ab-_
+weichung des gewöhnlichen Thermometers und der
+aus Metallen construirten von dem Luftthermometer
+In hohen oder sehr niedrigen Temperaturen konnteu
+
+dann an andern Stellen, namentlich bei der Ausdeh- -
+
+nung der Körper mitgetheilt werden. -Solche Bei-
+spiele von der Logik des Vfs liefsen sich noch zu
+Dutzenden anführen, — Das vierte Kapitel handelt
+von den Quellen der Wärme, wo sogar eine eigene
+Unterabtheilung „von der Kälte” überschrieben ist.
+‚ Wir wollen .nicht dabei. verweilen; den Inhalt
+des übrigen Theiles ausführlich anzugeben. Es wird
+darin von der. Verbrennung. und. den Brennmateria-
+lien, der Bewegung der warmen Luft und den Ka-
+minen oder Essen gehandelt, Zu dem Abschnitte
+über Breuinmaterialien hat der Uebersetzer viele Zu-
+sätze gemacht. ; |
+
+ 
+
+Wir wenden uns jetzt zu. denjenigen Untersu-
+chungen, welche über einzelne Theile der Wärme-
+Jehre in den Zeitschriften mitgetheilt‘ sind und begin-
+
+. nen mit dem ; ; ,
+
+‚Thermometer.
+
+. Durch die Arbeiten von Bessel *) und Egen **)
+wirden die Physiker in den Stand gesetzt , ohne Ver-
+leichung mit einem Normalthermometer eine genaue
+Scale für ein solches Instrument zu verfertigen , des-
+sen Röhre nicht calibrirt ist, Etwas später beschäf-
+tigte sich der ältere Pırrot mit demselben Gegen-
+stande und theilte die Resultate seiner Arbeit in dem
+‘zu Potersburg 1828 erschienenen  Memoire sur les
+noints fixes du thermomietre mit, die wir nur durch
+
+einen Auszug im Bulletin univ. 1830. p. 119 und aus
+
+Fechner’s Repertorium Bd. 2. S. 438 kennen. Diese
+Arbejten bezogen sich nur auf das Quecksilberther-
+” mometer, welches durch seine Bequemlichkeit bei
+: den meisten Untersuchungen stets den Vorzug vor
+den übrigen Instrumenten dieser Art hehalten wird.
+Um jedoch die Angaben desselben in sehr hohen
+Temperaturen auf die des Luftthermometers zu re-
+duciren , leitete August (Poggendorff's Ann. XIH,
+119) aus den Versuchen von Dulong und Petit eine
+Formel her, welche diesen Versuchen sehr guf ent-,
+spricht. Bezeichnet nämlich rt die Anzahl der Grade
+
+über 100° nach dem Quecksilberthermometer und d
+
+_ die Gröfse um welche dieses höher steht als ein Luft-
+thermometer, beides in Centesimalgraden , so wird
+d=3(0,00.7-+0,000287?) '
+Ueber 300° weicht das berechnete Resultat (d = 10,
+382 hei-330°} etwas von dem beobachteten (10°) ab,
+indessen ist diese Abweichung so unbedeutend, da(s
+wir uns ohne grofsen Fehler derselben fast bis, zum
+Siedepunkte des Quecksilhers bedienen können.
+Ist nun gleich durch diese Arbeiten die Einrich-
+tung dea Instrumentes im Allgemeinen zu einem ho-
+
+ 
+
+*) PnggendorfPs Annalen VI, 287. Eine Uebersicht dieser Untersuchung in Baumgaritner’s Naturlehre Supplementband S, 180,
+
+*%) Poggendorfs Annalen X1, 276,
+
+ALLG. LITERATUR - ZEITUNG
+
+hen Grade von Vollkommenheit erhoben, so gieht es
+doch eine Menge von. Fällen, in. denen-man,zur-Am-
+stellung genauerer Beobachtungen mit dem Apparate
+Abänderungen treffen mu(ls. Hauptsächlich gehören
+‚dahin. Temperatur - Bestimmungen, welche das In-
+strument selbst in Abwesenheit des Beobachtens ma-
+chen soll.- Es sind in den letzten Jahren mehrere
+Apparate dieser Art vorgeschlagen worden; eins der
+sorgfältigsten ist dasjenige, welches Magnus anwen-
+detg, um die Wärme in den Bohrlöchern bei Rü-
+zu messen und welches er Geothermometer
+nennt. (Pogg s Ann. XXIT, 136). Das Instru-
+ment hat grofse Aehnlichkeit mit dem . Maximum -
+Thermometer, welches ‚Gay- Lussac schon. einige
+Jahre -früher vorgeschlagen hatte. An ein eylindri-
+sches Gefäfs wird wie gewöhnlich eine -Glasröhre ge-
+blasen, diese am obern Ende zu einer feinen Spitze
+ausgezogen und letztere abgebrochen, ao dafs eihe‘
+feine Oeflaung übrig bleibt, Bei dem beschriebenen
+Instrumente war die Röhre in Vergleich mit dem
+Gefälse so fein, dafs ein Grad NR. die Länge eines
+‚halben Zolles betrug. Man füllt vor der Beobach-
+tung das Instrument ganz mit Quecksilber, indem
+‚man zugleich dafür sorgt, dafs die Wärme bei wel-
+cher es gefüllt wird , niedriger sey, als die des Ortes
+an welchem ınan die Beobachtung machen will, was
+am besten dadurch erreicht wird, dafs. man es mit
+einem andern genauen Thermometer in einen Kimer
+Wasser hält; hierauf wird es in thauendes Eis ge-
+‚stellt und endlich durch Vergleichung mehrere Punk-
+te der Scale bestimmt... Wird nun der Apparat an
+‚einen Pankt gebracht, dessen Temperatur höher ist
+als diejenige, bei welcher er gefüllt wurde , so Nielst
+‚eben 80 viel Quecksilber aus, als die vermehrte Aus-
+dehnung durch die Wärme erfodert, Aus der aus-
+eflossenen Menge, läfst sich auf eine einfache Weise
+ie Temperatur berechnen, die an dem Orte statt
+fand, wo die Messung. gemacht wurde, worüber der‘
+Vf, die nöthigen Formeln gegeben hat,
+
+— Kin Thermometer, dazu bestimmt, die hüäechste
+Temperatur‘ der Luft anzuzeigen, hat James King .
+vorgeschlagen (Edinburgh Journ, of Sc. IX; 113),
+ohne jedoch das Instrument ausgeführt za haben. Da
+die Beschreibung ohne Zeichnung nicht wohl ver-
+‚ständlich ist,. so verweisen wir. auf diese Abhand-
+lung oder auf Fechner’s Repertorium Il, 444,
+
+Ueber die Geschichte des Thermometers und die
+ältesten Beobachtungen mit diesem Instrumente-hat
+‚G. Libri eine interessante Notiz in den Annales .de
+chimie et de phys, T. XLV.p. 334 mitgetheilt, welche
+daraus in e 8 alen [, 325 überge
+gangen ist, Das Thermometer, von Galiläi wa
+scheinlich vor dem Jahre 1397 erfunden und von
+„Sagredo vervollköommnet , wurde bald ein meteorolo-
+gisches Instrument, Borelli zu, Pisa, Raineri und
+Andere in Florenz, Cavalieri und Riccioli in der
+Lombardei; errichteten unter Leitung der Academia
+‚del Cimento ein sehr ausgedehutes, System gleichzei-
+CH tiger
+

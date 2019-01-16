@@ -1,0 +1,140 @@
+ba
+
+S17 Num, 65, JULIUS 1836, 318
+
+scharfsinnig, als richtig sind wohl die Bemerkungen
+tiber 1, Jah, 3, 19. 20, gegen Lücke S, 4, 3; mit Recht
+weist der Vf, den Vorschlag Studer’s (h. Usteri) ab,
+nach örı xaya we Du«ic zu suppliren: yırycouaı. Rich-
+tig erscheinen ferner die Bemerkungen: S, 11. gegen
+KRettig, dafs dl dodtyzuv ns oapxös V, 13 nicht be-
+deuten könne: me propter vestram imbecilli-
+tatem doctrinam christ, vobis exposuisse, % e. me
+quum vobis christ. doctrinam traderem institutionem
+meam ad vestram imbecillitatem accommodasse cet.;
+ebenso S, 1}, gegen Winer und Usteri, dals dod&cay
+INS OaQxös hicht die aerumnae seyen, quilus corpus
+( eretur, ab inimicorum odio et insectatione pro-
+ectae, sed morbum; f.S. 14 gegen Winer und Koppe
+über xai; geg. Winer S. 16 über zöy nupanyıdv uov TOV
+ty 77) 069xl uov, wo W., zu viel sucht: calamitas, quae
+. corpus affügeret, non mentem attingeret; t. geg.
+Win, S, 18. „quae igitur erat vestra beutitalis iacta-
+#0?” besonders aue gegen Schott und Rückert S, 20
+über das &Eopvvoauy Tatcs üqpdukuorig, das beide wieder
+wörtlich (!') nehmen wollen; f. gegen Rückert‘S, 21
+über Sniolow iuäs, der so ungründlich erklärt: zelo-
+fypia in vos ferunlur, Die Widerlegung des Vfs, wird
+e em genügen, Mit Recht bebauptet auch der Vf,
+‚ 33, dafs aus /zd nodregor nicht folge (gegen Rü-
+ekert und Matthies), dafs Paulus vor Äbfassung des
+Briefes zwei Mal bei den Galatern gewesen secy, und
+macht mit dem gröfsten Rechte (S. 14) aufser anderen
+vorzüglich IV, 18. 19, als Beweise geltend. Weni-
+ger beitreten können wir dem Vf., dals (S, 8.) P. in
+der Forderung Tireade wg 2yw, Erı xdyw ws UMEIG NUP
+die früheren Heiden unter dtn Galatern ins Auge
+fasse. Freilich milfste dazu die Erklärung des Vfs.
+von’ der ganzen Stelle, worauf denn auch jene An-
+sicht sich gründet, genauer erwogen werden, als es
+uns hier erlaubt ist. Auch in der Kritik können wir
+hier den Vf. nicht immer Keipflichten, so z. B. S, 14.3
+besonders auch S, 17, über z(c ody 7v 6 HaXaAQLOLÖG
+$LÖy; die Auctoritäten sind überwiegend für zo 0&v
+v ete. Der Vf. hält mit Schott noü o&v cet, für ein
+altes Glossem, und beruft sich auf die variantes le-
+ctiones in Vergleich mit den Bemerkungen der älteren
+Ausleger, Aber die varianfes lectiones werden wohl
+darch die Einstimmigkeit der Eltesten codd, beseitig
+und die Ausleger (Theodor, Theophyl, Oecum.,) sin
+ja alle nicht nur viel jünger, sondern vielleicht schon
+durch verderhte codd, in ihrer Lesart bestimmt,
+
+MATHEMATIK.
+
+BrzsLaU, b, Grals, Bartha, Comp.: Elemente der hö-
+heren Algebra, zum Gehrauech bei Vorträgen in den
+oberen
+‚unterriehte entworfen von M, Jı K. Tobisch, Pre-
+fossor am Königl. Friedriche » Gymnasium zu
+Breslau, 1u.6558, 8. Ohne Jahrszahlı (8gGr.)
+
+° Vorstehendes Buch beschliefst den aritkmetischen
+Leitfaden des Vfs., und reibet sich den felberen Ab-
+schnitten würdig au, Dals der Vf. die höhere Alge-
+bra nicht vollständig hier liefern wollte, erhellt schon
+
+lassen der Gymnasien find zum Selbat- -
+
+aus dem Titel; das Buch ist vielmehr nur als ein
+Leitfaden bei dem Vortrage zu betrachten, und als
+solcher ist das Werkchen durchaus zweckmäfsig:
+
+. Der Vf. beginnt mit einer Einleitung, welehe von den
+
+höheren Gleichungen im Allgemeinen handelt, und
+die später nöthigen Krklärungen und Lehrsätze ent-
+hält, Sodann folgt die Lehre von der allgemeinen
+Auflösung der höheren Gleichungen des zweiten,
+dritten und vierten Grades, Ueber die quadratischen
+Gleichungen geht der Vf., da er sie schon Irühber be-
+handelt hat, mit wenigen Worten hinweg. Bei den
+Gleichungen des dritten Grades zeigt der Vf., dafs
+sich eine jede solche Gleichung auf die Form x3 +
+BX +C=0 bringen lasse, worauf daun die Auflö-
+sung derselben folgt. Für den Fall, wo B negativ
+
+und 4 S 3an absoluter Gröfse > C?, mithin 4 zZ 3
++ CC? hegativ, und folglich auch vr (sls 3+C?], so-
+
+3
+wie demnach auch der für x gefundene Werth imagi-
+
+när ist, bemerkt der Vf. richtig, dafs hier die Carda-
+
+‚nische Formel zur Auflösung numerischer eubischer
+
+Gleichungen hicht passend sey, da beide Theile jener
+Formel dann eftı imaginäres GHed, jedoch mit entge-
+engesetzten Vorzeichen, haben würden. KEs habe
+Jedoch gerade in diesem Falle die cubische Gleichun
+ärei reeile Wurzeln, und es müfsten sich also woh
+diese imaginären Theile irgend wie aufheben, wenn
+aueh die Algehra bisher nicht im Stande gewesen sey,
+den beiden Theilen der Cardanischen Formel eine sol
+
+.che geschlossene Form zu geben, dafs man das ge-
+
+genscitige Zerstören des Imaginären deutlich wahr-
+nehmen könne. Man könne jedoch mit Hülfe der
+Analogie beide Theile der Cardanischen Formel. in
+eine unendliche Reihe verwandeln, und so machwei-
+sen, wie sich das Imaginäre in den beiden Theilen
+gegenseitig zerstöre, So richtig das auch ist, so
+möchte es dock. schwerlich olıne Hülfe des Lehrers
+von den Meisten verstanden werden.. Auch die allge-
+meine Auflösung der Gleichungen des vierten Grades
+ist sehr kurz, doch sehr falslich vorgetragen, Dana
+folgt die Auflösung numerischer Gleichungen, Dean
+Beschlufs macht‘die Lehre von der Auffisdung irra-
+tioneller Wurzeln höherer Gleichungen durch Nähe-
+rung, wozu der Vf, zwei Methoden angiebt, Als
+Probe von der klaren Darstellungsweise desselben
+theilen wir hier die zweite mit. ‚Ks soy die gege-
+23 n
+bene Gleichung z.B. a + a x +ax!+....-+ AL? = 0.
+Setzen wir den Fall, wir wüßlten bereits zwei ganze
+Zahlen anzugeben , welche nur um eine Einheit diffe-
+riren, und zwischen welche eine Wurzel der. Glei-
+chung fällt; es sey z. B. die kleinere k, die gröfsere
+k-+1. Wir wollen also unsere Wurzel z, B. k+- —
+nennen, worin v>I seyn mufs, weil nämlich — <1
+ist; (wie so? Aum, d. V,). Setzen wir nım in der
+gegebenen Gleichung statt x den Werth k+--, und
+
+ordnen wir die Resultate nach Potenzen von v, so er-
+halten wir eine neue Gleichung, worin wir us aber-
+mals
+
+ 
+

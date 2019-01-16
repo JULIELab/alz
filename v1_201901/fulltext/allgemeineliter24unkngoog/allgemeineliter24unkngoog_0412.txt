@@ -1,0 +1,141 @@
+102
+
+‘810
+
+ERGÄNZUNGSBLÄTTER ©
+
+«= ZUR
+
+ALLGEMEINEN LLTERATUR
+
+ 
+
+zz. —
+
+November 1881. '
+
+ 
+
+MATHEMATIK.
+
+Maınz, b.. Kupferberg; Der höher- geometrische
+Jugendfreund — — von Joh, Jos. Ign. Hoff-
+mann u. $. w.
+
+(Beschlufs der im vorigen Stück abgebrochenen Recension.)
+
+L der zweyten Lehrübung dürfen wir wieder den
+Ausdruck „unbestimmte Gleichung” statt Function
+einer Curve, nicht billigen, und zwar um so weni-
+ger, als bey ihm die Begriffe von ursprünglich und
+_ abbängig veränderlichen Gröfsen unentwickelt ge-
+
+blieben sind. Bey, der Gleichung für die gerade
+Linie ist von keiner Spiral- oder Polar - Coordi-
+nation die Rede; also setzt der Vf. keine Trigono-
+metrie voraus (was man doch in der höhern Geo-
+metrie billig zu erwarten hätte), und bietet sich ihm
+keine Gelegenheit, die Fundamentalgleichyngen der
+Coordinatenverwandlung (als in der Function der
+geraden Linie enthalten) abzuleiten. Von dem
+Kreise ist viel und wenig gesagt worden; viel dem
+
+Raume nach, und wieder wenig, weil der Vf. aus
+
+seiner Function fast keine Wesentliche Eigenschaft
+dieser Curve ableitet, - der Anfänger also mit Recht
+fragen wird: wozu ihm eine solche Untersuchung
+nun eigentlich nützlich gewesen? Ausführlich han-
+delt der Vf. von der algebraischen(?) Kintheilung
+der krummen Linien; .hier erfahren wir, daf{s die
+Kykloide Zwglinie heifse, weil sie durch das Fort
+
+ziehen des  rehpunkts entstebe; dafs die trans-
+scenJenten Curven diejenigen sind, deren Glei-
+chungen aus einer unendlichen Anzahl von Gliedern
+bestehen (?), wodurch das Verhältnifs der Coordi-
+naten nicht vollständig(!) dargestellt werden kann
+u. dgl. m.
+
+_ Der zweyte Lehrgang befafst die Entstehung
+und Grundlehren der Parabel, Ellipse und Hyper-
+bel. Wir baben nichts dagegen, wenn der Vf. bey
+der Ableitung aus dem Kegel das Zeichen q für
+Quadrat oder zweyte Potenz verwendet; aber et-
+was türkisch will es uns dach vorkommen, dafs
+das Winkelzeichen immer von einem halben Monde
+durchschnitten wird. Der Rec. gesteht, bey dem
+Anblick dieser Hieroglyphe fast Augenschmerz zu
+‚empfinden. Uehrigens kann kein Billigdenkender
+an den Ableitungen, des. Vfs das Geringste auszu-
+setzen haben, denn sie sind alle in der Art des de
+
+Ergänz. Bl. zur A. LI. Z. 1881.
+
+la Chapelle und vollkommen mathematisch richtig.
+Zwar könnte es hier und dort selbst einem Anfän-
+ger auffallen, dafs man gerade den Punkt der Axe,
+in welchem die Ordinate dem halben Parameter
+gleich ist, Brennpunkt nennt, und aus ihm vor-
+zugs weise Gleichungen ableitet; allein ein guter
+Schüler gewöhnt sich auch ohne Erklärung an Me-
+taphoren, und der Erfolg beweist es, da{s die Glei-
+chung aus dem Brennpunkt in Beziehung zu dem
+
+radius vector vom ersten Grade wird. Gründlicher
+
+wäre es freylich, wenn man die Unta -
+kehrte und nachforschte: WO wo der Am
+Punkt zu finden sey, aus welchem die für den
+Scheitel, als Anfangspunkt der Construction, ent-
+wickelte Gleichung des Zuges, sich möglichst re-
+ducirt ? S, 63 steht: ‚Eine gerade Linie, welche
+eine Curve: nur in einem ihrer Punkte berührt,
+heifst Tangente oder Berührungslinie dieser Curve,”
+Das heifst doch: eine Linie, welche berührt, heifst
+Berübrungslinie; oder soll es heifsen: Die’ Tan-
+ente hat nur einen Punkt mit der Curve gemein?
+orin unterschiede sie sich dann in gewissen
+Fällen von der Secante? Nach der Theorie von
+Leibnitz verbindet die Tangente zwey unendlich
+nahe Punkte. Folgende Erklärung möchte viel-
+leicht dem Anfänger weniger Schwierigkeit machen:
+Eine gerade "Linie, ’welche durch irgend einen
+Punkt der Curve so gezogen wird, dafs die hier-
+durch bezeichneten beiden Theile derselben, bis zu
+einer namhaften Weite hin, entweder unterhalb
+oder oberhalb jener Linie liegen, führt den Namen
+Tangente; indessen hat auch diese Kegel ihre Aus-
+nahme in den Wendepunkten. Der hierauf fol- .
+gende Beweis, dafs jede Linie, welche den durch
+den radius vettor und einedurch den entsprechenden
+
+Punkt der Curve mit der Axe einer Parabel parallel ,
+
+ezogene Richtung gebildeten Winkel halbirt, eine
+angente der Parabel seyn müsse, weil diese linie
+
+nur einen Punkt mit der Curve gemein haben kann, _
+
+ist nicht vollständig; denn jene Linie könnte ja
+auch eine Secante seyn. Es mufste also vorber
+nachgewiesen werden, dafs jede gerade Linie, wel-
+che män aus einem beliebigen Punkte der verlän-
+erten Axe unter einem noch so kleinen Winkel
+
+zieht, endlich die Curve in einem zweyten Punkte
+schneiden und sich damn ins Unendliche von ihr
+entfernen müsse, welches gewifs nicht schwer zu
+zeigen war. Setzt man nämlich den Abstand jenes
+Punktes vom Scheitel =a, n
+K. (5) 8
+
+bad
+
++ ZEITUNG
+
+die Abscisse, für wel-
+. ” ch
+
+I
+

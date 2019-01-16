@@ -1,0 +1,149 @@
+525
+kanntlich, wenn man 1) das Differenziale des Zäh-
+lers mit dem Nenner multiplicirt. 2) Das Difleren-
+ziale des Nenners mit dem Zähler multiplicirt, und
+dieses Produkt vom vorigen abzieht, -. 3) Den Rest
+
+(der Vf. drückt sich weniger richtig aus, wenn er
+sagt „das Ganze”) durch das Quadrat des Nenners
+
+dividirt, Z.B. d 5) =, On OnEy
+Beweis, „Beistd (5°) = "7?
+ Nunist d(azx) =arxr+adx— ax
+
+und dy = y+dy —y
+‚d(ax) ax-+adx ax
+N
+
+Bringt man die Brüche auf gleiche Benennung, 80
+erhält man:
+d(° — axy+ aydı—axy-— axdy
+y ) EU Fady =
+was zu beweisen war.” Zu allem Ueberflufs fügt
+der Vf. noch hinzu, wie hier ein Nenner (soll wohl
+heifsen „ein Theil des Nenners”) ydy gegen y?, als
+unendlich, kleine Gröfse gegen eine endliche ver-
+eschwinde, da ;
+
+Yrydy=y+y. 7 =P+ Lay
+Beweis II. ‚Es ist
+
+CA dx —xdy
+(=
+Man setze 5 = Z, soistx=yz,
+
+und nun dr=ydz + zdy, .
+woraus .d x — zdy = ydz,
+
+d. i.de—idy = d (5): oder
+
+aydx —axdy
+
+Ed
+
+. dx sdy (}) dx zz dy dx xdy
+EI d{)T)=E LT, de 2
+„I y J y Yy JY y Sy
+
+ydx—xdy
+
+Ga
+
+( 5) was zu heweisen war. In
+
+$. 21 zeigt nun der Vf., wie nach den bisher gege-
+benena Formeln sich die Gleichungen für die Kegel-
+schnitte differenziren lassen, Mit $. 32 beginnt die
+Lehre von den höheren Differenzialen und ihren An-
+wendungen, besonders auf Functions- Reihen. In
+$. 40 u, 41 entwickelt der Vf. den Taylor’schen Lehr-
+satz , nachdem er $. 38 eine Formel gegeben hat, die
+deunselhen Zweck erreicht, wie dieser Lehrsatz, Es
+
+folgt dann von $. 43 an die Anwendung der Diffe-
+
+renzialrechnung auf die Bestimmung der Subtangen-
+ten, Normalen, Subnermalen und Asymptoten der
+krummen Linien, wobei namentlich die Sätze, dafs
+bei der Parabel die Subtangente doppelt so grofs,
+als die Achse; bei der Hyperbel an der Asymptote
+die Subtangente gleich der Abscisse; und bei der
+Logistik die Subtangente unveränderlich sey, recht
+klar hewiesen sind. Mit $. 33 folgt die Anwendung
+der Differenzialrechnung auf die Bestimmung der
+Krümmungshalbmesser der krummen Linien, wo der
+
+Num, 66, JULIUS 1836,
+
+‚ das Integrale
+
+. 526
+
+Vf. auch die Formel giebt, wodurch bei der letzten
+französischen Gradmessung der Durchmesser des
+Aequators — 12731482 Metres,. und die Erdachse
+= 12713304 Metres, und hieraus das Verhältnifs der
+Abplattung der Erde — 334 gefunden wurde, Dar-
+auf folgt die Lehre vom gröfsten und kleinsten Wer-
+the der Functionen, von U 68 an. Interessant sind
+hier die Aufgaben zur Üebung, z. B. eine gerade
+Linie in drei Theile zu theilen, dafs solche ein Drei-
+eck vom gröfstmöglichsten Flächenraume einschlie-
+fsenz in einen Kreis das gröfstmöglichste Rechteck
+einzuschreiben; wenn ein Cuhus von der Seite a ge-
+geben ist, ein Parallelepipedon von gleichem Kör-
+
+erinhalt und einer Seite ; zu finden, welches die
+
+einste Umfläche hat u, s. w. Da das Buch zum
+Selbstunterricht bestimmt ist, so hat der Vf. diese
+Aufgaben, 20 an der Zahl, eseämmtlich selbst voll-
+ständig aufgelöst. Von $. 77 an handelt der Vf, von
+dem Werthe des Bruches £, womit die erste Abthei-
+Jung des Buches, die Differenzialrechnug , schliefst,
+Mit $. 79 beginnt der Vf, die Grundlehren der Inte-
+gralrechnung, und schliefst den Abschnitt. wieder
+mit mehreren wohlgewählten Aufgaben, z. B. den
+Kubikinhalt eines Kegels zu finden u. s. w. Auch
+hier ist immer die Auflösung vollständig gegeben,
+Dann geht er mit $. 103 über zu der Entwickelung
+einiger mehr zusammengesetzter Integralien, z. B,
+
+xzudx(g + fxb)s, durch Potenzen
+
+von g + f xt auszudrücken. Mit $, 107 geht er ‘so-
+dann fort zu der Integrirung von Differenzialgröfsen,
+Yeelche von Kreisbögen und Logarighmen abhängen,
+enbar der reichhaltigste Abschnitt des ganzen Bu-
+cbes, Sämmtliche Integralformelu sind ‚mit grofser
+Klarheit und Eleganz abgeleitet. Drei Tabellen,
+worauf s£mmtliche, nach und nach abgeleitete In-
+thgralformeln, 85 an der Zahl, neben einander ge-
+stellt sind, machen den Schluls, Die Darstellung
+ist, wie gesagt, meist klar und leicht verständlich,
+und das Buch auch für den recht brauchbar, der ohne
+die früheren Theile gelesen zu haben, auf die der
+Vf. sich hin und wieder bezieht, sich selbst in dieser
+Wissenschaft unterrichten will. Ein Register wird
+ungern vermifst, Der Druck ist deutlich, das Pa; ,
+pier erträglich, M.
+
+GEDICHTE. '
+Berıty, im Verl, von Duncker u. Humblot: J, F,
+Castelli‘s Gedichte... Einzige vollständige Samm-
+Jung, in sechs Bänden, I, Mit dem Bildnisse
+des Dichters, VIIIu. 2198, — II, VI u. 2318,
+— IL, VIu. 2128, — IV. VIu. 2388, —
+V. VIu. 245S. — VI. VII u, 2518, 1835.
+‘gr. Duod, (4 Rthlr. 12 Ggr.)
+
+Die Namen Castelli und Frohsinn sind bereits seit
+geraumer Zeit für viele gleichbedeutend. Ks muls
+eine solche Erscheinung aus der guten alten Zeit in
+unsrer etwas trübseligen neuern dichterischen Lite-
+ratur wohlthätig seyn und sehr geneigt stimmen, sie
+freundlich aufzunehmen, ohne gerade genauer nach
+dem dichterischen Passe zu fragen, Den Vf, der
+
+- an
+

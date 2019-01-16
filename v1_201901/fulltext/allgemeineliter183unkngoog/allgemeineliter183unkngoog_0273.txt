@@ -1,0 +1,141 @@
+507
+
+der Gleichungen des zweyten, dritten und vierten
+Grades und vorbereitende Lehrfätze. . „,„B. Von
+den Gleichungen mit zwey Gliedern.” Deren Form
+zZ +v= 0, mit Benutzung der im vorhergehenden
+Abfchnitt entwickelten Werthe für (+ 1)”. „,C. Von
+der Auflöfung der Gleichungen des zweyten, dritten
+und vierten Grades. a) Gleichungen des zweyten
+Grades.” Auflöfung derfelben durch Eliminirung
+des zweyten Gliedes nach $.282., vorausgefetzt, dafs
+die gegebene Gleichung ‚vollftändig ift. „„ß) Glei-
+chungen des dritten Grades.” Auflöfung nach der
+fogenannten Cardanifchen Formel. Sehr gute Ent-
+wickelung des reducibeln und des irreducibeln Falls,
+in vielen andern Lehrbüchern der Algebra fehlend.
+„y) Gleichungen des vierten Grades.” Der Vf. trä
+ausführlich die Auflöfungsmethode von Euler, in fei-
+ner Algebra, vor; darauf giebt er die Auflöfungs-
+methode von H/auring , von Descartes, von Raphael
+Bombelli, von Pilatte , und er deutet die Auflöfungs-
+methode von Gergonne an. ‚,D. Von einigen Glei-
+chungen beliebiger Grade, die fich ohne Probiren auf-
+Jöfen laffen,” über reciproke Gleichungen und über die
+Auflöfung der Gleichung z" = +1, bis m = 10, han-
+delnd. „,E. Von der Auflöfung der Gleichungen durch
+Probiren.” Hier beginnt der Vf. mit der vorbereiten-
+- den Verwandlung der Gleichungen, geht dann über
+zu den Kennzeichen derArt der Wurzeln, hierauf zu
+den Grenzen der reellen Wurzeln, zu der Differenzen -
+Gleichung, zu der Form und den Kennzeichen der
+unmöglichen Wurzeln, und, nachdem er in $. 337.
+UeberGcht der vorgetragenen Sätze, betreffend die
+Figenichaften der Gleichungen der höhern Grade,
+gegeben, geht er in $. 340. zu der Budan’fche Me--
+thode, Gleichungen in Zahlen aufzulöfen, über.
+Nach des Rec. Meinung gieht die Aufnahme der Bu-
+dan’fchen Auflöfungsmethode dem vorliegenden
+Lehrbuche einen wefentlichen Vorzug vor vielen
+andern deut{cher Sprache, da Rec. nur wenige Lehr-
+bücher kennt (Eogen, allgem. Arithm, Bd. 11.,- Eytel-
+wein Analyfıs Bd. I.), in welchen diefe Methode vor-
+getragen wird. Bemerken mufs indeffen Rec. hier,
+afs er in diefem Abfchnitte fchmerzlich vermiffe die
+Entwickelung der bekannten höchft einfachen Nähe-
+rungsformel: s 1
+
+z— 1) RT A a) ak Am 5) HZ
+mk”— (m — 1) ak" 3 (m 3) Sr,
+. Auch hätte nach des Rec. Meinung die Auflöfung der
+Gleichungen durch Näherung vermittelt der Ketten -
+brüche hier wohl eine Stelle verdiemt. In 6. 851.
+lehrt Hr, C., wie Geh, wenn eine Gleichung zwey
+‚ oder mehrere gleiche Wurzeln enthält, diefelbe für
+fich finden laffen, ohne die ganze Gleichung aufzu-
+löfen, d. h. ohne alle Wurzeln derfelben zu ent-
+wickelo. Hat eine Gleichung lauter reelle Wurzeln,
+fo-Jaffen Gch_diefe durch Zerfällung des Zahlenglie-
+"des in feine Factoren finden, wie 9. 352. zeigt. In
+6. 353. erinnert Hr. C. ausdrücklich, dafs das, was
+er über die Gleichungen der höhern Grade gefagt,
+zu nehmen fey,. als nicht viel mehr denn eine Ein-
+
+bad
+
+ALLG. LITERATUR - ZEITUNG
+
+; nur das Kuler’fche Eliminations - Verfahren,
+
+‚Vorwurf die Summen - Reihen.
+
+ 
+   
+  
+  
+
+leitung zu ausfährlicheren Unterfuchungen. —
+zweyte Theil dieles Abfchnittes handelt, wie
+gefagt ift, von der Auflöfung beliebiger Glei
+mit mehreren unbekannten Gröfsen. Der V£
+
+Deutlichkeit zeichnet feinen Vortrag aus.
+„Zwölfter Abfchnitt. Von den Differenze af
+Summen, von den Reihen und dem KFinfchäm’
+Diefer Abfchnitt ift ebenfalls recht brav augeir-
+tet. Er zerfällt feinem Inhalte nach in wie
+Theile. Der erfte handelt von den MDifferm-
+Reihen, Nachdem der Vf. die erfte, zweyteur
+Differenzen - Reihe einer gegebenen Reihe ei®.
+hat, lehrt er die Glieder verfchiedener Differenzm-
+Reihen durch einander ausdrücken, geht dar
+über zu den arithmetifchen Reihen, und zeigt, w®
+durch die Potenzirung der Glieder einer ariıhmet>
+fchen Reihe erfter Ordnung arithmetifche Reihen
+höherer Ordnungen ent{tehen. Den Befchlufs diefer
+Abhandlung macht die Anwendung von Differenzen -
+Reihen bey Berechnung von Tafeln zulammengeleiz-
+ter Gröfsen. Sehr wahr fagt Hr. C. zu Ende des
+8. 265.: „Die Berechnungsart durch Differenzen,
+obald es nicht auf einzelne Werthe einer zu
+mengefetzten Gröfse, fondern auf Tafeln vieler
+Werthe ankommt, ift allen andern bey weitem vor-
+zuziehen, und {elbft im gemeinen Leben nützlich.” —
+Der zweyte Theil diefes Abfchnitts hat zu (eines
+Diefe Reihen ent-
+ftehen umgekehrt wie die Differenzen - Reihen, is
+dem man das erfte Glied einer gegebenen Beihe zum
+zweyten, das zweyte zum dritten u. f. w. addirt,
+und fo fortfährt. Die Summen folcher Reihen et
+wickelt Hr. :C. durch Vergleichung ihrer Glieder
+mit den Binomial - Coöfficienten. Mit grofsem Yot-
+theil hätte auch hier die fogenannte Methode &f
+unbeftimmten Coefkcienten angewandt werden bir
+pen. Von der Summation der arithmetifchen
+hen geht der Vf. zu den figurirten Zahlen über,
+er.handelt hier über die vielfeitigen und umgek
+vielfeitigen Zahlen. — Im dritten Theile, der die
+Ueberfchrift : Poteftäten -Reihen führt,
+der Vf. über die Summation der Reibe 15424
+A ...., und er kommt bey diefer Gelegenheit
+Bernoulli'fchen Zahlen, die er zu berechnen \ehtt. —
+Im vierten Theile wird die Lehre von den
+fchen Reihen fo vollftändig, als es die Abficht det
+Buches erkaubt, vorgetragen. — Der fünfte The
+enthält die Lehre von den rücklaufenden Reibe#
+Sehr freuet es den Rec., dafs Hr. Creile den rück
+fenden Reihen in feinem Lehrbuche eine .
+Stelle angewiefen hat. — DWVDer fechste Theil,
+cher den Befchlufs des Lehrhuches macht, handel
+über das Einfchalten. Rec. mufs aber gefte
+dafs er hier weit mehr Ausführlichkeit gewöänfct
+
+‚hätte, Ueber diefen wichtigen Theil der Analy®
+
+hat Hr. C. fo wenig beygebracht , .dafs man verf
+ift,' zu urtbeilen, dals der Anfänger der An?)
+nichts würde‘ verloren haben, wäre en ganz Ober“
+
+n wordem. A
+gANgen ex 1) Sonst
+

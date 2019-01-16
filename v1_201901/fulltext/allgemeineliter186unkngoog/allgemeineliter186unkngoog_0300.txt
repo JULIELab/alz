@@ -1,0 +1,163 @@
+d 4
+65
+Nachdem der Vf; der: obigen Satz gewonnen hat,
+dafs? z a=@ (u) feyn müffe; fo ‘gebraucht er: den,
+eigeatlich nur für die abftracte Analyfe blofs arithme-
+zißch richtig ausgedrückten Satz, dafs jedes @-(u)
+=c+«n -+Büu u. (. w. feyn müffe. Durch eine fcharf-
+fnnige Betrachtung, die auch du _Buat fchon’ benutzt
+hat, zeigt er, dais das erfte conftante Glied in den
+Fällen der.wirklichen Anwendung ellemal nur unbe-
+trächtlich-fey , gegen die folgenden mit u veränderli-
+chen Theile der Reihe. Da er übrigens fchon aus
+' de Arbeiten feiner Vorgänger es.abzunehmen meynte,
+das die Reihe mit Suu abgebrochen, zur hinreichend
+gwiuen -Praxis genüge; fo wird auch von Ihm
+Ou)=«n+4+Buun gefetzt. Durch die beften Kunft-
+Fette der Interpolierung, die er auch mit eigenthüm-
+cher neuer AnGcht, vamentlich.auch graphifch .dar-
+geftellt und durchgeführt- hat, werden nun aus 31
+durch Boffat, du Buat, Condorcet u. a. angeftellte Ver-
+foche mit Röhrenfahrten die beiden CoEfhcienten «
+‚ wad@ als abfolute Zahlen (alfo auch « ‘als folche!)
+‚_ dergeflalt gefucht, daß fie das Minimum der Anomalien
+gerihren: Auf diefem , mit mufterhafter Sorgfalt
+durchgeführten , {ehr mühlamen Wege findet der Vf.,
+
+, D ;
+dal 5-7 a = 000017.0-+0,0034U U fey, diefer Aus-
+
+;£ Aruck aber die Erinnerung auf Gch ziehe, dafs er auf
+i Böhrmfahrten von weniger als drey Metren nicht am
+| Jer fy, weil fchon bey diefer Länge die gröfsten Ano-
+‚Malen eintreten; und dafs dagegen die Formel für
+‚dm einen mit gebrauchten Verfuch einer ‘fehr lao-
+Röhrenfahrt fehr zutreffend: fey! Aber: die‘
+Erfeheinung wird man daraus zu erklären ha-
+‚ Jafs ja der Vf., indem er die ganze mechanifch
+Druckböhe a= Z 4. Ann anfetzt, und
+ch feine Zahien x und ß unter der Vorausfetzung
+, dafs die ganze merhauifche Druckhöhe ledig-
+nd allein durch den Widerftand der Friction
+Adhäfien längs der Röhre vermindert werde;
+@ doch in der Wahrheit überhaupt diefe Höhe a
+= (04+f+ 1). zu betrachten ift, fo dafs von dem
+; ichen 4 ein Theil = os bey den örtlichen Ge-
+indigkeitsänderungen in def“ Einmündung der
+&re verloren geht, sur ein zweyter Theil = fu auf
+Frietion längs der Röhre verwandt wird, und
+; däinerft der dritte Theil = 1. für die Unterhaltung
+. dee wirklichen Gefchwindigkeit u in der Röhre übrig
+’ Sieibt, Vermittellt diefer deutlichen Unterfcheidung
+‚der aufgeführten drey Theile in der mechanifch wirk-
+
+—
+
+ws
+
+  
+  
+   
+   
+    
+  
+
+ 
+
+    
+ 
+ 
+ 
+
+f
+z
+f
+
+ß PP
+— hat .Req fchon feit vielen Jahren die Bewe-
+g des Waflfers in Röhren behandelt, mehrere
+eher; als er fein oben fchon erwähntes Werk
+über die Wafferfäulenmafchine drucken liefs, auf wel-
+er hier glaubte verweifen zu müffen, weil feines
+Wiffens auch bey andern deutfchen Mathematikern
+
+  
+  
+
++
+
+drey Theile nicht ganz fo deutlich und allgemein
+
+Num. 309. NOVEMBER 1809.
+
+©
+| Druckhöhe a (vach Pronys Ausdruck = &
+
+66 .
+
+richtig unterfchieden und behahdelt werden, Indem
+es nun mir ausgemacht genug von vorn her ‚und
+durch Erfahrung war, dafs man für 6 eine conftante
+Zahl gebrauchen kann, weil fe bauptfächlich nur von
+der Geftalt und Lage der Einmündung abbängt, auch
+bey beträchtlich wachfendem s nur unbeträchtlich fich
+vermehren würde (m, f in diefen Blättern 1809, Nr. 197. .
+und 198. die dortige Recenfon über Michkelotti ky-
+draul. Verfuche): fo war-es ferner von vorn her durch
+ziemlich zuverläffige Combinationen, wie fie vorzüg- -
+lich. von Ayledhoein vorgetragen find, abzunehmen,
+dafs mein obiges fü = ß. -z « mit einer ziemlich con-
+ftanten Zahl für jede einzeln in Unterfuchung genom- .
+mene Maichine {eyn müffe. Was aber den Gang ih«
+rer Veränderlichkeit betrifft, fo glaubt Rec., dafs
+diefes ß mit wachfender Geichwindigkeit . abnehmen
+müffe, aus einem Grunde einzufehen, der, fo nahe
+er liegt, dennoch keinem Hydrauliker bisher beyg®-
+fallen ift, und aus welchem hch gleichwohl der fäch-
+liche Zufammenhang .des ß {ehr viel befriedigender‘
+zu erklären {cheint, als es felbft auch nach Girard’s
+Vorfiellung nicht gefchieht, weiche Prony S. 82. mit
+Recht als dasjenige rühmt, welche mehr, als alle
+die übrigen dort erwähnten Behandlungen, in die
+
+hyfilchen Gründe der Erfcheinung einzudringen
+Tucht. Man habe fich zuvörderft deutlich erklärt,
+warum ein Schiff, das vom Stapel läuft, einer. fo auf-
+fallend geringen Friction unterworfen ift; und übers
+trage dann,. was man dort mit entfchiedener Gewifs-
+heit einßeht, mit gehöriger Umficht auf fliefsendes
+Waffer, und die, dadurch zu trennende, weit gerin-
+gere, aber ebenfalls beftimmte Adhäfon: fo fieht man
+vor Augen,’ dafs R.mit wachlendem u geringe, und
+bey grofsem «* einem fehr beftimmten Werthe nahe
+kommen mufs. Girüard (cheint dagegen mit zu gro»
+fsem Vorurthejl für die Form xu-+ßuu feine phy-
+fikalifichen Gründe: beurtheilt ‚zu haben. . Am beften
+würden neue. Verfaches mit Michelotti°’s hydraulifchem
+Thurme darüber eeticheiden können, ob, des Reg
+Vermuthung gegründet fey, dafs (ma=ß ‚= % zu
+fetzen.fey, und darin 8 von 0,016 bis zu = 0,03 hin
+etwa fch ändere, von dem gröfsten u an bis zu demi_
+kleinften hin, ‚welche bey Mafchinen vorzusommeag
+pflegen Unter den 31 Verfuchen, welche Prony be-
+nutzt- hat, und Rec. kennt keine be(feren, fod ver-
+muthlich keine zweckmäfsig genug angeftellt, md
+genau genug‘ befchrieben, um aus ihnen darüber . ge-
+wifs zu werden. So weit Rec. diefe Verluche nach-
+zulehen weifs, fo hat Bot die Einmündungen noch
+am genaueften befchrieben, gleichwohl nicht genau
+
+enug, dafs man den in ihnen vorfallenden Kraftver-
+
+fit ou von vorn her mit grofser Zuverläffigkeit
+fchätzen könnte; und leider hat auch Boffut es ver-
+fäumt, diefen Krafttverluft durch einen vor/zufigm Ver»
+fuch ohne Röhrenfahrt geradezu zu beftimmen!- Will
+man durch Vergleichun feiner mehrern Verfuche auf
+
+o- fand die Schlüffe von der Art, dafs
+fehr
+
+®
++
+

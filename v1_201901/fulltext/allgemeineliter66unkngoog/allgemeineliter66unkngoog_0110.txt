@@ -1,0 +1,151 @@
+A a A
+
+Wi >
+
+= 5 SP OD U =
+-
+’
+
+Jogarithmisch brauchbar . ist,
+
+-
+
+—27—
+
+210°
+
+!
+
+ERGÄNZUNGSBLÄTTER
+
+ALLGEMEINEN LI
+
+—
+
+MATHEMATIK.
+
+- Braunschwrıie, in d, Schulbuchh, : . Die ‘Gröfsen-
+‘lehre. Zweiter Theil: Die Raumlehre — —
+Von Joh. Chr. Koken u. 8. w.
+
+(Beschlufs von Nr. 36.)
+
+Di. Trigonometrie war der Vf., wie ein Blick auf
+die Darstellung zeigt, ebenfalls nach seinem Vor-
+bilde darzustellen bestrebt, jedoch mit eigenen Ab-
+änderungen untermischt, die wir uns keinesweges
+als Verbesserungen zu bezeichnen erlauben dürfen:
+denn es bleibt hei der Arbeit des Vfs völlig unklar,
+eb sich derselbe zu den Verhältnissen, oder zu den
+Brüchen bekennt, d. h. ob er den trigonometrischen
+Funetionen eine geometrische, oder eine arithmeti-
+sche Bedeutung heimifst, Auch: wirft diese anfäng-
+Hehe Unklarkeit ihren Schatten über die ganze Dar-
+stellung, da der Vf. z. B.hald aus den Figuren, bald aus
+den Formeln die Bedentung ihrem Werthe nach be-
+stimmter Functionen zu entziffern strebt — ein Ver-
+fahren, welches die Darstellung verwirret und ihr
+die Kürze und Eleganz raubt, deren sie fühig ist.
+
+: WVen trigenemetrischen ‘Functionen zusammen-
+gesetzier Winkel oder Berechnung der Tabellen und
+was damit zusammenhängt, ist zwar nicht die Rede:
+dagegen durften wir erwarten, die Auflösung’ gerad-
+
+linigter Dreiecke und den Gebrauch der‘ Tabellen
+rocht zweckmäfsig und deutlich auseinandergesetzt
+zu finden. .D |
+
+iasen Erwartungen wird indessen nicht
+besonders entsprochen; Ausdrücke wie 8, 180:
+
+ab —3in.tabb. ach, ac. rad. tabb. '
+: sin. tabb. abc. rad. tabb. 08
+beleidigen das Auge und verwirren den Anfänger,
+
+S. 185 ist der Ausdruck {g . ß = c S.8in.« über-
+) — J .COS . &%
+
+flässig, weil der Vf. nicht aus ihm, sondern aus der
+bekannten Figur, den bekannten, logarithmisch
+brauchbaren ableitet. ' '
+
+Um ans zwei Seiten mit dem eingeschlossenen
+Winkel die dritte Seite zu berechnen, giebt der Vf,
+die Formel a = VW +25. C..cosu, die gar nicht
+Ferner , beliebt es
+dem Vf., bei der Berechnung 4reier Seiten aus ei-
+nem Winkel, statt der bekannten kurzen Formel
+© Krgäns, Bl.sur 4:1. Z/ 18380 5 '
+
+ZU R '
+
+TERAT
+
+Da SA
+
+UR - ZEITUNG
+
+ 
+
+März 183 3.
+
+ 
+
+sin? za Orb — 0. (00 FO gig folgende zu
+substituiren: in «a = .
+(e—d+c).(a+d—c) ‚(d8+c+a). b+c-—a)
+2.b.c‘ - >
+welches man doch unmöglich eine lobenswerthe Neu-
+erung nennen kann, — Nichts hätte mindestens den
+Vf. gehindert, die erst S, 199 gegebene Ableitung
+für den Sinus und Cosinus des halben Winkels aus
+dem Cosinus des ganzen Winkels jenen Gleichungen‘
+voranzuschicken, da es in der Trigonometrie min-'
+
+destens gestattet ist, die ‘vorbereitendem von den’
+
+wirklich praktischen Lehren zu trennen und in eine
+zweckmälsige Verbindung zu bringen.
+
+Den Beschlufs der theoretischen Betrachtungen
+machen goniometrische Relationen, deren Nutzen wir
+um so weniger anerkennen, als sie. (gerade weil sie
+am Ende stehen) nirgends in die Ableitung und Um-
+formung der die Auflösung der Dreiecke bezwecken-
+den Formeln eingreifen — von Aualogien, Differen-
+zen und Fehlern ist aher vollends gar nicht die Rede,
+Was hat-also der Vf, mit der Aufstellung dieses
+
+_ Anhbangs bezwecken wollen? Neue Relationen finden
+
+wir nicht eine, wohl aber giebt es eine grofse Zahl
+hier-übergangene; auch ist die Ableitung der aufge-
+stellten Formeln weder gedrungener, noch geschieht.
+sie in einer natürlichern Folge, als in der übergro-
+fsen Zahl längst gedruckter trigonometrischer Ele-
+mentar- Schriäten. Im Gegentheil kann z. B. die
+(Heichung für sin (n 4 m) oder cos (n4m), selbst mit-
+telst einer Figur, viel anschaulicher abgeleitet wer-
+den, als dieses durch den Vf, geschehen ist,
+
+Fast möchte man auf den Gedanken ‚kommen,
+dafs es dem Vf. nur darum zu thun war, einen Schatz
+von Gelehrsamkeit vor unsern Angen zu entfalten
+(ein Fehler, in den leider schon mancher Trigono-
+‚meter gefallen ist!); denn sonst liefse sich auf keine
+Weise der Grund gedenken, aus welchem der Vf,
+S. 206 A. S. fast mit unglaublicher Ausdauer Formeln
+folgender Artaufstellt:
+
+A) Gesucht Tang 3 (A+4 a).
+- Sin A+sin a _ 2sin}(A+0).cos3(A—a)_
+
+Cos A+cos@ Z.cos3(A+a).cos 3(A— <a)
+= 2sini(A+a) _ sin; (4+0)
+
+= tung 3 (44a)
+B
+
+"Zi (d+a)“ cos} (A+&)
+

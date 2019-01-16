@@ -1,0 +1,170 @@
+den bleibt , was für K==1 statt finde, und auf diesen
+| sehr wichtigen Fall beziehen sich verrzüglich die neuen
+Lehreätze des Vfe, Zu ihrer Begründung schickt der-
+selbe neun zum Theil ebenfalls neue ‚„Hülfssätze”
+voraus, die jedoch‘ hier nicht näher angegeben wer-
+den können, ;
+Ebenso müssen wir, was die schönen Theoreme
+des $. IT. betriflt, wegen ihrer Beweise, die ganz
+die Schärfe und Vollendupg besitzen, wodurch. sich
+die übrigen Arbeiten des gelehrten Vs. auszeichnen,
+auf die Schrift selbst verweisen, und yns hlos mit
+der Angabe der Sätze begnügen. 0
+Zehrsatz 1. Bezeichnet a. das allgemeine Glied
+einer primitiven Reihe und 4a, das von deren Dif-
+ferenz- Reihe erster Ardunag: so ist N
+
+MM ==
+
+Gb. An = (B49a)s
+wenn “.
+N == 00 4
+
+Om +1.
+
+Gn {v.% .- —
+le
+(posätiv) ist; es ist aber
+
+M_= & -
+
+„Gr. By = Ya, ;
+
+4a
+M = - m + 1
+A —H=(—, 8)
+ist (& h, die Wertho der eingeschlossenen Gröfse
+eine negativ - endlich- werdende Reihe bilden).
+
+‚ Lehrsatz 2, Setzt man
+
+Am 1
+4: Op = — Ibm
+
+1) = (+)
+
+. wenn
+
+ 
+
+ 
+
+vn
+und hat
+
+M = © ;
+Gr. 4 ber = , 0) >
+so wird -
+MM ==
+Gr, dp = (n. 92)
+seyn missen, wofern
+mM = ©
+seyn soll,
+Lehrsatz 3. Ist.
+4 Gm + 1
+4 Om
+
+M — &
+Gr, 4 d,, = (+),
+
+% N —I1=— 4bn,
+
+und
+
+mM =
+
+Gr. m 4 db, = (>11);
+so ist
+
+M =—
+
+Gr. Ay = Jar
+
+ALLG, LITERATUR - ZEITUNG
+
+Lehrsatz 4, Ist
+
+.—
+
+M = &® N
+Gr. 4 a = (+) oder=(-—), (also nicht = (+ > —))
+
+ 
+
+forner 4
+dm + 1
+
+V. 4 Gm — 1 = — Abm,
+
+M = %® .
+
+Gr. 4b = (+), | -
+und
+
+mM = % .
+
+Gr: (m 4 dp, — 1) = (—):
+so ist
+
+MM =
+Gr. 0, = (n, 9.)
+
+Lehrsatz 3. Sind die beiden ersten Vorausse-
+
+tzungen wie eben, ist ferner ;
+MN = %
+Gr. 4b = (+), 0), -—
+m A Ör X > d em).
+
+M- zn
+Gr. d0„=(+,0), ;
+überdiefs $ irgend eines angehbare positive Größe, und
+
+M zz .
+Gr. m' 4 c= (0) oder = (E)
+so ist
+‚ M= '
+’ Gr. 0, = (m g)
+
+Die Anwendungen von diesen Lehrsätzen im $.17/
+betreffen zuerst die bekannte Gaussische Reihe, oder
+vielmehr ihre summatorische Reihe bei welcher
+
+Ref Aa. 800+0
+Gm = 1+ Ly}+ "I270+0 * | ec000
+
+(ZI)
+a (a-+1)..(@ E+m-1)2(84+1..(8+m-1) m
+
+.„. 12... 0y+U...00+m-— 1) *
+ist, Durch‘ Aufsuchung dos algebraischen Werthes
+
+Am +1
+
+von und dessen zweckmüäfsige Umformung
+
+m
+ergiebt sich, dafs die Grenze des Zallwerthes dieses
+Quotienten gleich dem Zahlwerthe von x also auch
+
+M = OD
+
+4'841
+Gr. (&. nz an
+
+und: daher nach dom Lehrsatze-1. die Reihe, deren
+allgemeines Glied das, a, der Gleichung (LIT) ist, dis
+
+ent oder convergent sey., je.nachdem x — 1 eine
+
+ive oder negative Größe ‚ also z >11 oderr< )
+jet, welches. auch aus der 6.. ZZ für z-> + 1 und
+X< 41 folgt, Für x = 1 ergiebt sich durch die vor-
+hin genannte Umformung , wonach ; 4
+
+ 
+
+—1)= v.n (£ — 1)
+
+u
+

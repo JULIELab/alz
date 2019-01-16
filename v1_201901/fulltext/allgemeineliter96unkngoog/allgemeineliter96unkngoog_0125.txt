@@ -1,0 +1,170 @@
+SAL.
+
+schreiben, als wenn man eine Zahl ganz einfach
+urch wiederhaltes Multipliciren poteazirt, Um den
+ser selbst darüber eiten zu lassen, setze ich
+je Regel für die Kubirung einer mehrziffrigen Deeci-
+
+“malzahl, wie sie der Vf. S., 213.-Num, 20-giebt, hier -
+
+her, Es heifst: e
+
+%
+”
+
+a, Man bilde den Kubus der höchsten geltenden
+
+-Zifler der gegebenen Zahl,
+ß. Jede der übrigen Zahlen wird erhalten, wenn
+f* “Mn ‚0 ) “, ’ „1° ap 79
+‚ “1) das Dreifache der aus den r. ersten‘ gegebe-
+' nen Ziffern gebildeten Zahl mit dieser Zahl
+multiplicirt; a KO
+2) rechts an jenes Dreifache die nächst folgende
+. Ziffer hängt, und die dadurch erhaltene Zahl
+mit dieser Ziffer multiplicirtz _
+3) das in 2) erhaltene Produkt so unter das in
+1) erhaltene. stellt, dafs die letzte Ziffer von
+jenem um zwei Stellen weiter rechts steht,
+‚ als die letzte Ziffer von diesem und hierauf
+’ beide addirt; av a
+4) die gefundene‘ Summe endlich nochmals mit
+derselben Ziffer multiplieirt , wo statt r nach
+und nach 1, 2, 3 u. 8. w. zu setzen ist,
+v. Die in «, und £, zuletzt erhaltenen Zahlen wer-
+den der Reihe nach so unter einander gestellt,
+dafs die letzte Ziffer jeder derselben um, drei
+Stellen weiter rechts. steht, als die letzte der
+nächst vorhergehenden. ;....  ... .-
+‚ Dann. ist die Summe dieser Zahlen der verlangte
+
+ubus, - : x. . 4 . . 3
+. Wäre also 4567 zur dritten Potenz.«zu. erheheng
+go erhält man hierpach folgende Rechuung: .. :, ,
+- 4 64 35 125° 3 4 135g‘ 45 -} 1868
+vo | 4 0 oc tt ‚45 A
+
+2 37 MT
+Ye 623° . 7678‘ ‚ 6840
+Sp En 54253; 0‘ 6075 8208 „83
+wife, , 935 On. 1-1, 8136 623808
+€ 5 a 615636 |
+A “4 ' r 3693816 „62476609 (a:
+a Da 437336263‘ °
+„5. 64. .) Aw | .s |
+Hg 3693816 ot a, MN ‚a
+
+; 637336263
+Do 43672 = 952 36152263, ;
+
+worlach 138 Ziffern geschrieben werden müssen;
+während man bei der ganz einfachen Multiplikation’
+deren nnr 82 schreiben darf, so der Zeitverlust bei‘
+der hier angegebenen Methode am Tage liegt.
+
+. Die Regel für: die Ausziehung der Quadratwar-:
+zel ist die gewüähnliche; wogegen bei der Kubikwur-:
+zel wieder ein nach der involutorischen Kubirung ein-
+
+/gerichtetes. Verfahren angegeben ist, welches dem wo vsowehl positiv als,negatir seyn kann.
+
+ 
+
+ALL, LILEHARLRUR-L4DL1UNG
+
+"tern Be
+
+sonst Et BC dem Kubus eines Bivom
+abgeleiteten, in.Betr erKinfachheit und des Iech.
+tens weitinachstoht,. Takte Epedi
+beide Wurzeln tritt die Nothwendigkeit des Einthei-
+
+Jens in Klassen-zu je zwei oder zu je drei Ziffern nicht
+
+sicher yınd bestimmt genug hervor, was gewifs ge‘
+Schehen Wäre, wenn die Decimalzahl als ein Poly-
+-mom von der Form a-+ 10. 6 + 102. c-+ 10° + u. 8m.
+zur zweiten und dritten Potenz erhoben und die nö-
+thigen Bemerkuyngen hinzugp Füge waren. — Beach-
+tenswerth dagegen sind in diesen Abschnitte die Be-
+geln für die Atugziehung‘ der Orlädrat?2 Und Kulbik-
+wurzel ans einem auf'eine Fewisse Anzahl vom Bruch-
+stellen abgekürzten Deeimalbruch. ‘ Soll nämlich aus
+einer auf 3 n Bruchstellen abgekürzten -Decimalzahl
+die Kubikwurel- möglichst.scharf angegeben werden,
+so zieht man zuerst die Kubikwurzel, so weit sich
+diese'oline Anhäupen von Nulih diretellen FNfst, be-
+trachtet’ dann das dreifaclie: Quatltat: der‘ bie! dahin
+gefundenen Wurzel als Divisor,: mit welchem mn
+in den; gebliebenen Rest nach dem’ gowöhnlichen Re-
+geln der Division, indem man“eindzeine Nullet 'as-
+hängt, dividirt; dann wird sich die Anzahl der zrz-
+verlässigen :Brüchstellen:: der Geswnmtworzel‘‘
+
+ben, wem’ man zu 2, der Anzahl diler Bruchstallee
+des’ Radikanden die Ordnüungszahl dek ersten gelten-
+den Ziffer der Wurzel addirt, : Um bei: dieser Gele
+genheit. zugleich eine Probermenm der: Artraund Weise.
+zwigeben, wie‘ der Vf; einen Legenetand behandelt,
+fäge ich den Beweisidps.eben Gesagtun. genau vie er
+sich S, 217 findet, hier bei. Ist a der auf 34% Bruch-
+stellen abgekürzte: und.ıa 4 z der vollständige Radi-
+kand; « die Kubikwurzel, 80 weit ste’ sieh dureh un-
+mittelbare Ausziehung finden Mifst, und. « “X die
+veliständige. Wurzel.‘ Dann ist: du.
+wi nf an
+
+it =
+24 „Js v1" en.
+
+B.227 2
+
+.
+° ex
+1 Yo. .
+-
+.
+
+woraus sich durch eine-leichte Umformung ergiebt:
+
+.37 4
+»
+°
+
+„7
+
+pe . A zn 0797 73a ‚sl 300
+- 1) & Sa Cd U at ‚1 ae 3
+
+A „Bi OS, mn j.- dd
+Aus der Voraussetzung folgt, dafs z—43< LA
+
+Jst nyn Da tn ‚86 ri an}
+
+A N
+
+fe „5 Hd ; . ;
+
+° ' ’ / * ‘87 " a , y+23 . a .
+
+% ‘ N < 3a < 30? gi; also
+
+%
+% e #)
+»
+
+en Er 0) a
+En),
+
+Von diesen beiden Grenzen ist di it ‚de
+engere die allein brauellbare, su dafs en ns 0
+“3 an Aka
+
+(a) ED
+
+EC
+
+_- x 5 0. a ® x e- * |
+
+ 
+

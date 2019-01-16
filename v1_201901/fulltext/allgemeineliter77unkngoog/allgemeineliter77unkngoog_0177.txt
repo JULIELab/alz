@@ -1,0 +1,115 @@
+hierher in die Lehre von der gleichförmigen Be-
+wegung. 3) Die ungleichförmige Bewegung über-
+haupt. 4) Die Gesetze der gleichförmig beschleu-
+nigten Bewegung. Sie sind mit Recht ausführlicher
+behandelt worden , da sich daraus die wichtigen Ge-
+setze der Schwere ableiten lassen. 5) Die Gesetze
+der gleichförmig verzögerten Bewegung. 6) Die
+Centralbewegung. Der Beweis des Satzes, dass
+der radius vector in gleichen Zeiten gleiche Flächen-
+räume beschreibt, ıst ($. 81.) in zweckmässig ele-
+mentarer Kürze gegeben, und ebenso wird in $. 99.
+
+"für Centrifugalkraft F der Quotient 5 gefunden.
+
+2R
+
+ 
+
+Das zweite Capitel handelt von der Schwere.
+In 6. 93. wird gezeigt, dass alle Körper schwer
+seyn müssen. Das Gewicht wird in $. 97. definirt
+und in $. 100. gezeigt, dass alle Körper gleich
+schwer sind und dass ihr freier Fall, wenn der-
+seibe in der Nähe der Krdoberfläche erfolgt, eine
+gleichförmig beschleunigte Bewegung seyn muss;
+auch werden die Gesetze des freien Falles durch
+die Atwood’sche Fallmaschine erläutert und ver-
+sinnlicht. In der dritten Abtheilung kommen die
+wichtigsten Sätze von der schiefen Ebene vor, und
+es wird die für die Anwendung der Gesetze des
+freien Falles auf den Fall auf der schiefen Ebene
+wichtige Gleichung g — G. sin. @ gegeben. Die
+Verhältnisse zwischen absoluter, respectiver und
+drückender Krafi werden in $. 114. u. 113. durch
+einige Gleichungen gut entwickelt, auch ist der
+$. 117. aufgestellte wichtige Satz zweckmässig
+durchgeführt. Bei der Pendelschwingung (4. Ab-
+theilung) kommen zuerst die nöthigen Erklärun-
+gen vor, und es wird alsdann die Gleichung
+T = 147 VAL aus den vorhergehenden Sätzen
+dargeihan. Die Länge des Secundenpendels wird
+aus der Formel ) = ——, G = 0,202642. G ermit-
+telt, und der Fallraum der ersten Secunde aus der
+Gleichung G = *, |=4,934798. | bestimmt. Auch
+wird in $. 142. das Nöthigste vom zusammengeo-
+setzten Pendel gesprochen.
+
+ 
+
+Die Wurfbewegung (3. Abtheilung) wird nach
+ihren verschiedenen Richtungen und Verhältnissen
+vollständig entwickelt, und die parabolische Bahn
+geworfener Körper nicht blos versuchsweise, son-
+dern nach mathematischen Sätzen gründlich darge-
+stellt, auch werden Formeln für Wurfweiten und
+Höhen gegeben.
+
+ALLG. LITERATUR - ZEITUNG
+
+840
+
+Das 3, Cap. spricht von den Massen und Dich-
+tigkeiten, und die Formeln für letztere werden aus
+der Erklärung mit Leichtigkeit entwickelt, dass die
+Zahl der in einem Kubikfusso eines gleichmässigen
+Körpers vorkommenden kleinsten Theilchen die
+Dichtigkeit genannt wird. Die Sätze und Gleichun-
+gen für das specifische Gewicht ergeben sich sedann
+auf eine einfachere Weise als gewöhnlich aus der
+Erklärung: die (unbenannte) Zahl, welche entsteht,
+wenn man das in Contnern, Pfunden u. 8. w. aus-
+gedrückte absolute Gewicht eines Körpers durch
+das in gleicher absoluter Gewichtsbestimmung er-
+haltene Gewicht eines gleich grossen und gleich-
+müässigen Körpers bezichlich dividirt, wird das spe-
+cifische Gewicht des ersten Körpers in Bezug auf
+den zweiten genannt.
+
+Das 4. Cop. giebt aus der Erklärung des Be-
+wegungsmomentes M. C, mehrere, für Kräfte und
+Massen wichtige Gleichungen und veresinnlicht die-
+selben durch die Schwungmaschine.
+
+Das 3. Cap. handelt in der ersten Abtheilung
+vom Gleichgewicht fester Körper und bespricht den
+Heödel, indem es das Gesetz desselben einfach und
+für vorliegende Zwecke zureichend nachweist. Für
+die Wirkungen der Kräfte auf den Hebel in allen
+möglichen Richtangen enthält $. 188 die Proportion:
+
+P:p = (I. sin. v) : (L. sin. @)
+
+Die zweite Abtheilung giebt das Wichtigste über
+den Schwerpunkt, wobei die in $. 204 aufgestellten
+Uebungssätze sehr belehrend sind. Die 3. Abtheil,
+behandelt nur kurz den physischen Hebel und die
+Waage, welches in diesem Schulbuche gebilligt
+werden kann, da die Theorie dieser Werkzeuge
+lediglich auf dem einfachen Hebel beruhet. Die
+einfachen Maschinen werden mit Recht in der 4.
+Abtheil. auf mathematisch strenge Weise abgehan-
+delt und die Gesetze der Schraube auf die schiefe
+Ebene zurückgeführt. Es ist auffallend, dass hier
+der Vf bei der Wichtigkeit des Gegenstandes das
+Gesetz für das Gleichgewicht der Sehraube nicht
+mathematisch vollständiger abgeleitet hat, da er
+doch das Gesetz des Keils streng nachweist und
+sich dadurch vor mehrern andern auszeichnet, wel-
+che die Eigenschaften dieser Maschine ohne wei-
+tere Begründung hinstellen. Die ferner gegebenen
+einfachen Gleichungen für Rollen und Fiaschenzüge
+führen durch mathematische Behandlung zu vielen
+mteressanten Resultaten. Die Fig. 57 hütte aber
+besser auf S. 75 gesetzt werden sollen.
+

@@ -1,0 +1,138 @@
+ten die Planimetsäe; Abschn, 1; Die Prineipien der
+Panimetriv. % 5:-—'25, Absochn, 2: Fon der Con-
+&tiruetion des Dreiscks und seinen Kigenschafteh,
+S. 25— 4353. Wir bemerken hier den Lehrsatze
+ss, Wenn in zwei Dreiecken zwei Seiten nebst dem
+&ogenwinkel der einen gleich sind, der Gegenwin-
+kel der zweiten Seite aber in beiden Dreiecken ein
+rechter, oder ein spitzer, oder ein stampfer ist: so
+sind die Dreiecke congruent,” Der Vf, zeigt zu-
+ich, wie der Lehrsatz, dafe zwei Dreiecke, in
+nen zwei Seiten nebst dem Gegenwinkel der gröfse-
+ren wochselsweise gleich sind, einander congruent
+weyen, nur ein speeieller Fall des eben genannten sey.
+Schon in diesem Abschn, fängt.der Vf, an, wo es
+frgend thunlich war, die praktische Anwendbarkeit
+des Gelehrten zu zeigen. So wird hier das Wesen
+der Setzwage erklärt, und gelehrt, wie auf dem
+Welde mittelst der Mefskette ein Loth auf einer Linie
+errichtet werde, Ebenso wird gezeigt, wie mittelst
+der Kette von einem Punkte ein Loth auf eine Linie
+gefällt werde, wenn die Mefskette nicht kleiner ist,
+als die Entferaung des gegebenen Punktes von der
+Linie, Desgleichen: durch cinen Punkt auf dem
+Felde mittelst der Kette eine Parallele mit einer zu-
+gänglichen Linie zu ziehn 3 die Länge einer Linie auf
+em Felde zu finden, die nur in ibren Endpunkten
+zugänglich ist. Ebenso, wenn die Linie nur in dem
+einen Endpunkte, und wenn sie in keinem Endpunkte
+. zugänglich ist. Abschn. 3: Von den Polygonen im
+Allgemeinen; von dem Vierecke, insbesondere vom
+Parallelogramme, S, 45 — 63, Wir bemerken bier
+die Lehre von der Anzahl der Bestimmungsstücke für
+ein neck, und die verschiedenen Bestimmungsarten
+desselben, nebst der Anwendung davon auf die Auf-
+nahme eines Grundstückes. Die Methode durch Or-
+
+dinaten ' und Absecissen den krummlinigen Umfan
+eines Grundstückes festzulegen, gehörte wohl ei-
+entlich nicht hierher, Desgleichen bemerken wir
+ie Sätze über die Centricität der Dreiecke, Abschn,
++; Die Vergleichung der Flächen, der Parallelogram-
+me und Dreiecke mittelst der Grundlinie und Höhe;
+ihre Verwandlung und Vereinigung, S. 63 — 83,
+Zu dem Satze von der Gleichheit der Complemente
+wäre wohl zweckmäfsig bemerkt worden, dafs in
+dem Falle, wo das ganze Parallelogramm ein Qun-
+drat sey, die beiden Parallelogramme , durch welche
+die Diagonale gehe, auch Quadrate seyen, wo dann
+geometrisch die Wahrheit des arithmetischen Satzes
+ezeigt werden konnte, dafs (a + 5)? = a? + 206 + 07
+
+er Pythag, Lehrsatz wir
+
+Lehrsatz: „Wenn man aus den Winkelspitzen eines
+Dreiecks auf die Gegenseiten oder ihre Verlängerun-
+‚gen Lothe fällt, so sind die Rechtecke, die sich aus
+jeder der zwei zusammenstofsenden Seiten und aus
+em am .gemeinschaftlichen Scheitel liegenden Ab-
+stande bilden lassen, gleich an Fläche. Wir bemer-
+ken noch die Aufgaben: ein Quadrat zu construiren,
+welches ein nfaches, und ein solches, welches £ ei-
+nes gegebenen ist. Auch zeigt der Vf., wie man oh-
+ne die Lehre von den Proportionen die mittlere geo-
+metrische Proportionallinie zwischen zwei zusam-
+menstofsendeh Seiten eines Oblongums finden könne,
+
+®
+
+Nam, 147... AUGUST 1837,
+
+vorbereitet durch den ‘
+
+66
+
+Ju der Lehre von den Parallellinien folgte der Vf, im
+Allgemeinen dem holländischen Mathematiker van
+Swinden, Fünfter Abschn.: Der Kreis, rein geo-
+metrisch betrachtet. S. 83 — 110. Die Figur 38
+könnte in Beziehung anf die Worte des Lehrsatzes
+$. 173 „über dieser, als Durchmesser, einen zwei-
+ten Kreis beschreibt und nach den Durchschuitts-
+üunkten 4 und B beider Kreise ..... Linien zieht ”
+eutlicher seyn, da man von dem zweiten Kreise
+durchaus nichts sieht. Abschn, 6:. Anwendung der
+Lehre von den geometrischen Proportionen auf ebene
+Figuren, S, 110 —1352, Der Abschn, schliefst mit
+einer Anwendung der Theorie der Aehnlichkeit ge-
+radliniger Figuren auf die Lösung einiger Aufgaben
+der practischen Geometrie, Wir nennen hier die
+Aufgaben: 1) Wenn A, B, C drei auf der Erdober-
+fläche gegebene Punkte sind, deren Projeetionen als
+gegeben angenommen werden, die Grölilse des Win-
+els ABC zu bestimmen, 2) Man soll die Länge ei-
+ner Linie bestimmen , die zwar an ihren Endpunkten,
+aber nicht nach ihrer ganzen Länge zugänglich ist,
+3) Wenn die Lage und Entfernung zweier Punkte A
+und B auf dem Felde hekannt ist, die Lage eines
+dritten Pımktes C, zu welchem man von 4 und ß aus
+nicht kommen kann, zu bestimmen, 4) Wenn die La-
+ge zweier Punkte A und B, so wie auch ihre Entler-
+nung von einander bekannt ist, die Lage eines drittea
+Punktes C zu bestimmen, wenn man sieh in diesem
+Punkte, so wie auch in A oder B (aber nur in einem
+allein) mit dem Mefstische aufstellen kann. Abschn,
+7: Von der Berechnung des Umfanges und der Flä-
+che ebener Figuren und von der Theilung der Poly-
+one, S, 1532 — 216. Besonders gelungen ist hier die
+hre von der Berechnung der Seiten und Flächen
+der regelmäfsigen Polygone. Die Möglichkeit einer
+Berechnung des Kreises auf elementarem Wege wird
+hier ausführlich gezeigt, wenn gleich mit Hülfe er
+Analysis man weit leichter zum Zwecke kommt. Der
+Abschnitt schlielst mit der Theilung der Polygone,
+‚wo sich inde(s der Vf, nur kurz gefalst, und auf Un-
+gor’s Werk über diesen Gegenstand verwiesen hat,
+je zweite Abtheilung behandelt in vier Abschnitten
+’die Elemente der ebenen Trigonometrie, Abschn, 1:
+‚Grundlehren der Goniometrie S, 217 — 290. Unter
+allen Lehren iet dieser Abschnitt am ausführlichsten
+behandelt worden, da der Vf, glaubte, den Anfän-
+ger zu der Einsicht zu führen; wie es möglich war,
+ohne Analysis die vorhandenen Tafeln in ihrer jetzi-
+gen Vollkommenheit zu verfertigen. Nachdem der
+f, eine Erklärung der goniometrischen Funetionen
+gegeben hat, wobei er von dem Kreise ausgeht, geht
+er über zu der Beziehung der goniometrischen
+Funetionen unter einander und der Ableitung der
+goniometrischen Formeln, Dann folgt die Berechnung
+er goniometrischen Funetionen und die Einrichtuug
+und der Gebrauch der trigonometrischen Tafeln, Der
+Vf. giebt hier die Berechnung der Sinus und Cosinus
+von 9°; 12°; 13°s 18°; 22°30/3 30°; 36°; 45°; SC3
+60°; 67°30/; 72°; 73°; 78°; 81°, Abschn, 2: Auf-
+lösung der ebenen Dreiecke, S. 290 — 321. Hier ist
+die analytische Darstellung von der constructiven
+ganz getrennt, „Nachdem, sagt der Vf., die con-
+\ stru-
+

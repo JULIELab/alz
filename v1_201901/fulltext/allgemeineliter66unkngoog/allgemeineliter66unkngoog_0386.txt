@@ -1,0 +1,131 @@
+- 761
+
+ALLGEMEINEN LI
+
+ERGÄNZUNGSBLÄTTER
+ZU'R ;
+
+TERATUR - ZEITUNG
+
+.
+
+ 
+
+October 1833.
+
+ 
+
+MATHEMATIK.
+
+- Lrmzio, b. Baumgärtner: Neue Ansichten über die
+‘ ‚Grundprincipien der Differenzialrechnung , von
+. Dr. Johann Carl Fischer, Professor an der Uni-
+versität zu Greifswald, 131831,
+
+mit } Kupfertafel. (1 Rthlr.)
+
+De Vf. billigt in der Vorrede Euler’s Ansicht vom
+Differenzial, „als einfachste Differenzform (erstes
+Glied?) der allgemeinen Differenzfunction einer gege-
+"benen Function, in welcher die Differenz der verän-
+
+'derlichen Gröfse A/x = 0 geworden”, tadelt aber des--
+
+gen Vorstellung vom dx, als unendlich - kleine Grö-
+Ise. Der Vf. scheint sich also für die Ansicht aus-
+'zusprechen, welche man bereits seit langer Zeit
+"durch Nullenrechnung bezeichnete. Ist dem so, dann
+wären seine Ansichten eben so wenig neu, als über-
+'all genügend. Wir werden sehen.
+
+— Eine Vorsichtsmanfsregel, welche man bei der
+
+Würdigung phllosopliischer Abhandlungen , wozu
+° vorliegende Schrift sowohl, wie jede andere Un-
+
+tersuchung von Principien, ihrem Wesen nach ge-
+hört, nie vernachlässigen sollte, ist, die Grund-
+ansicht, Erklärung: oder Behauptung festzulmlten
+‘(nicht daran haften zu bleiben, sondern sie mit in
+‘die Untersuchung hiniüberzunehmen), da sie gleich-
+sam der Archimedische Stützpunkt ist, worauf man
+‘die Welt aus ihren Angeln dreht, oder, mit Leibnitz
+zu reden, das Complementum possibilitatis der Unter-
+suchung. Wir wollen von dieser Regel Gebrauch
+machen, Gleich im Anfang steht, was wir suchen:
+„Unendlich heifst alles dasjenige, was keine Gren-
+‘zen hat, und was uns daher nicht gegeben werden
+kann. Es ist folglich für sich klar, dafs eine wis-
+‘senschaftliche Erörterung unendlicher Gröfsen gar
+kein Gegenstand unsers Wissens seyn und werden
+kann.” Hier haben wir also Erklärung, Urtheil
+und Schlufs in einem Satze, und müssen nun an ihm
+‚zuerst die Kraft der Kritik versuchen, weil aus ihm
+alles Uebrige gleichsam von selbst folgt. — Der
+-Begriff von Unendlich hat offenbar eine oppelte Be-
+deutung, nämlich dem Raume und der Zeit nach,
+.d. i, in der Ausdehnung und in der Dauer, Bei bei-
+den kapn die Unendlichkeit sowohl in der Verschie-
+"denheit, wie in der Größe bestehen; z, B. ist die
+‚Richtung eines engbegrenzten Curvenstückes unend-
+‚lich verschieden ; dasselbe findet -in.Absicht der Dauer
+z.B. bei den Uebergängen aus einem
+
+Ergänz, Bl, sur A, L. Z., 1833
+
+13 Bogen in 4..
+
+Zustand in den andern Statt, so hald Körper durch
+beschleunigende Kraft in Bewegung gesetzt werden,
+Hier hat also das Unendliche Grenzen, welche es
+nicht überschreitet, und die noch dazu #0 enge wie
+man will, gezogen werden]können: es führt eine Un-
+endliebkeit des Ueberganges zu einer Endlichkeit
+der Ausdehnung; und darin liegt nicht der mindeste
+Widerspruch , so bald man nur den Begriff von Un-
+endlich gehörig analysirt, d. h. nach den einfachen
+Gesetzen ‘unsers Anschauungs- und Erkenntnifsver-
+mögens beurtheilt. Es entspringt nämlich der Be-
+riff des Unendlichen bei der Auflösung des Mehr-
+fachen oder Mehrförmigen im ein Einfacheres oder
+Einförmigeres, als Erzeugendes (Bildung und For-
+mung ist überhaupt das Geschäft jeder Wissenschaft),
+Wäre diese Auflösung endlich, so würde das Mehr-
+fache und Mehrförmige von dem Einfachen und Ein-
+förmigen nicht wesentlich verschieden seyn, da es nur
+durch eine (endliche) Wiederholung desselben ent-
+steht — die Vorstellung des Aggregats, Gerade das
+also, was die wesentliche Verschiedenheit hervor-
+bringt, d. h. was dem Mehrfachen und Mehrförmigen
+seine Eigenschaften (Attribute und Accidenzen) ver-
+leihet, ist das Unendliche, — So viel über den
+Grundbegriff der Wissenschaftz im Grunde ist es
+auch Alles, was man darüber sagen kann, wofern
+man sich nicht in psychologische Untersuchungen ver--
+wickeln will. — Mit dem Begriff verfällt also beim
+Vf, Urtheil und Schlufs in sein Nichts, a.
+Von der materiellen Seite hätten wir also von
+dieser Abhandlung gleich von vorn hinein wenig zu
+erwarten; wir wollen also nachsehen, was gie For-
+melles stiftet, Hier ist unser erster und letzter An-
+spruch: Consequenz! Wir verlangen, dafs die arith-
+metische , geometrische und dynamische Differen-
+zial- Rechnung, jede für sich (denn alle drei sind
+wesentlich verschieden, gerade wie die Wissenschaf-
+ten selbst , die man durch ihre Hülfe zur Darstellung
+bringen will), nach einem klaren, vollständigen,
+überall anwendbaren Principe dargestellt werde, und
+dann noch diese drei Prineipe einem höhern, gemein-
+samen, dem genetischen der Wissenschaft, unter-
+geordnet zu sehen, doch so, dafs man darin ihre
+
+particulare Stellung und individuelle Bedeutung vor
+
+Augen behält; d.h. wir verlangen, dals man uns
+die zuverlässigen Mittel und Wege zeige, durch wel-
+che und auf welchen wir ein Vielfaches oder Mehr-
+förmiges, an sich (wegen der in ihm liegenden Ver-
+wickelung) nicht zu Erkennendes, aber in seiner
+
+D (3) ' Ent-
+

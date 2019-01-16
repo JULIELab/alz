@@ -1,0 +1,152 @@
+337
+
+re
+
+.
+
+— 195 —
+
+ALLGEMEINE LITERATUR - ZEITUNG
+
+ 
+
+November 1835.
+
+’
+
+ 
+
+MATHEMATIK,
+BeaLın: Ueber die Bedingungen der Convergenz und
+
+‘der Divergenz der unendlichen Reihen, von Dirk-'
+
+sen, 1832,
+
+De Theorie der Reihen gehört zu den am unvoll-'
+
+ständigsten bearbeiteten Gegenständen der höheren
+Analysis, und, wenn auch mehrere grofse Mathema-
+tiker die treflichsten und tiefsten Untersuchungen
+über einzelne, zum Theil sehr ausgedehnte Fälle an-
+stellten, so blieb doch jene Theorie im Ganzen in den
+meisten Werken über Analysis wenig oder gar nicht
+beachtet, Sogar über die Conver enz und Divergenz
+der Reihen, welche wohl der wichtigste Punkt ihrer
+Theorie ist, und bei so sehr vielen Betrachtungen
+unerläfslich in Frage kommt, werden oft entweder
+gar keine oder doch nur sehr unzulängliche Begriffe
+gegeben, und erst Cauchy behandelte diesen Gegen-
+stand ausführlicher und gründlicher; eine weitere
+Vervollständigung erhält derselbe durch die obenge-
+nannte Abhandlung,
+
+Sie ist in drei Paragraphen getheilt, von denen
+der erste allgemeine Erörterungen, der zweite neue
+Lehrsätze und der dritte Anwendungen enthält. Jene
+Erörterungen betreffen die Eintheilung der Reihen
+und die Hülfssätze, auf welche sich die ferneren Un-
+tersuchungen stützen, Diese Kintheilung geschieht
+1) nach dem Zeichen, welches endlich die Glieder er-
+halten, in die drei Klassen, der positiv-, negativ-,
+und positiv - negativ-werdenden Reihen; 2) in die zwei
+Ordnungen der endlich - bleibenden und nicht- end-
+Jich- bleibenden Reihen, je nachdem in der Folge alle
+Glieder zugleich gröfser als eine angebbare Zahl «
+und kleiner als eine andere ß werden; oder nicht.
+Jede dieser Ordnung zerfällt 3) in mehrere Geschlech-
+ter und zwar die der nicht- endlich - bleibenden Rei-
+hen in sechs, je nachdem zuletzt alle Glieder jede
+noch so grofse Zahl « überschreiten , oder unter jede
+noch so kleine Zahl ß herabsinken, oder für einen
+Theil der Glieder der erste Fall, für einen andern
+der zweite eintritt, oder je nachdem für einen Theil
+der.erste Fall, für einen andren Theil gewisse bezie-
+hungsweise von %® und 0 verschiedene Grenzen der
+Gröfse und Kleinheit, oder für einen Theil der Glie-
+der der zweite Fall, für einen andern aber solche
+Grenzen, oder eadlich je nachdem für einen Theil
+der erste Fall, für einen andern der zweite, für einen
+dritten aber solche Grenzen statt finden. Die end-
+lich - bleibenden Reihen zerfallen nım in zwei Ges
+
+‚ schlechter, je nachdem eine Zahl Q der Art, dufs
+
+A Z. Z. 1833. Dritter Band, . . ’
+
+die Differenzen zwischen ihr und den verschiedenen
+Gliedern der Reihe zuletzt kleiner als jede angehbare
+Zahl u werden, sich denken läfst, oder di
+möglich ist. In jenem Falle hat die Reihe eine an-
+
+ebbare Grenze, ın diesem aber keine; z.B. die Reihe
+
+‚ 91, 93, 93, 94 u. s. w. hat eine solche, wenn die
+Glieder gleiche, qagegen keine, wenn die Glieder
+abwechselnde Zeichen haben, Da die Reihen mit an-
+
+ebbaren Grenzen nur zu einer .der beiden Klassen‘
+er positiv- oder der negativ- werdenden, alle Reihen’
+
+aus den übrigen Geschlechtern aber zu jeder Klasse
+gehören können, so hat man, wenn man jede der
+Klasse und dem Geschlechte nach bestimmte Reihe
+eine Gattung uennut, im Ganzen drei und zwanzig ver-
+schiedene Gattungen, welche sich durch’Zusammen-
+
+setzung der Prädicate bezeichnen lassen. Für sie
+führt der Vf, Passende kurze Zeichen ein, und deu-
+tet allgemein durch a ,
+
+M = ©
+
+Gr. 6, h
+
+die Grenze einer jeden Reihe, deren allgemeines Glied
+am ist, und dadurch ihre Gattung in Form einer Glei-
+chung an, wodurch er für diese sonst viele Worte er-
+fodernden Untersuchungen auch in dieser Beziehung
+ganz den Vortheil der algebraischen Zeichensprache
+gewinnt, und z, R, statt von einer positiv- negativ-
+endlich-unendlich klein werdenden Reihe zu reden,
+das Symbol > ;
+
+Mm =
+
+Gr. 0 = (+, —, E, 0)
+brauchen kann.
+
+Convergirend heifst hiernach eine unendliche
+Reihe, wenn sie entweder eine unendlich klein - wer-
+dende ist, "oder eine angebbare Grenze hat, in allen
+übrigen Fällen aber heifst sie divergirend; jenes wird
+in einer Gleichung wie die vorstehende durch g„, die-
+ses durch (n. gg.) angedeutet, Bezeichnet nun von einer
+primitiven Reihe
+
+65 Bıyz dass A;y in in ®
+4 am = Om 4 1-— Am das ai
+Differenz- Reihe erster Ordnung, ferner die einem
+algebraischen Ausdrucke vorgesetzten Buchstaben v.
+n. dessen Zahlwerth, so wie
+hat man
+
+M = © 4
+
+Em 1
+
+so convergirt die Reihe (FT), wenn K< 1, divergirt
+dagegen, wenn K>1, wonach es noch unentschie-
+u den
+
+ 
+
+Gr, v.n
+
+‚.J)
+emeine Glied ihrer
+
+. irgend eine Zahl, und
+
+nicht
+

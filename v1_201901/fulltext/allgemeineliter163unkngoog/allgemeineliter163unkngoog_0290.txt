@@ -1,0 +1,148 @@
+mar
+» zZ K “x
+
+063
+
+en „ a(c!bli — BICH) al (dell— abi!
+dh’, 00 oralen yılr E77 a RU
+en (50 Dom Bla . ntibell — ch DD ,
+A 2 dd
+wenn man alle Glieder mit dc‘ — eb’ multiplieirt ;
+gplch” — We‘) x+ a (de — ch) x — a’ (be — ch‘)
+a (0b BC) A pe (be m eb!) — BD — eB3
+dab P x Lafch — N 7 + A’ (be — c8')— a (be —
+; = p(08— Ye) +p' (be — eb) — pp (be —eb)
+und = — >
+
+Zi pp’
+(c’b# — B'ct) + y (bel! — ch) — pl (Bdel— hl) m
+(
+Wir. müssen hier aus Mangel an
+
+   
+ 
+ 
+ 
+
+a(c0—=d') + a’ (860—C I a’ )
+um abbrechen,
+
+ghgleich die jetzt folgenden Betrachtungen über die
+Außösung der Gleichungen mit mehreren Unbekannr
+: ten überhaupt eben so interessant, als lehrreich sind,
+Es folgen die unbeistihmten Gleichiungen vom erste
+Der Vf. behandelt zuerst dien Fall, wo in
+einer ‚Gleishung für x und y der Coöfäcient von y ne-
+‚ und das gauz bekannte Glied —.1 ist, und
+zeigt, dafs.oine solche Gleichung vermittelet der Ket-
+tenbrüche sich auflösen lasse, Dann geht er über zu dem
+alla, ‚wo der Cosffisient von y imwer negativ, aber
+das ganz bekannte Glird eine.haliebige positive eder
+aegative Zahl ist. Forner.wärd geneigt, dafs die
+Auflösung einer unbestämmien Gleichung ohne
+Schwiesigkeit gefunden werde, wenz einer der Ce-
+‚öffielenten == 1 sey, Es folgt die Auflösung der Gilei-
+ebungen vam zweiten Grade mit einer und mit meh-
+reren unbekannten Größen, Hier hat uns die Dar-
+‚stellungsweise des Vfs,, die Quadratwurzel auszu-
+‚ziehn, am wenigsten gefallen. Wir glauben, dafs
+das Verfahren klarer und schärfer hütte dargestellt
+werden müssen, Wenn hier der Vf, $. 13 sagt:
+„Um also zu erfahren, ob die versuchsweise ange-
+memmenen Einer richtig sind, setzt man die neu
+faundene Ziffer der doppelten der Zebnerziffer zur
+Rechten, und multiplicirt die so gebildete Zahl mit
+; ‚der Einerzifferz glnicht dann das Produkt dem Divi-
+. dgopden, so ist die angenommene Ziffer genau richtig;
+‚isg das Produkt gröfser, als der Dividand , se ist die
+‚angenommene Ziller zu grafs, und man mufs es mit
+‚einer kleineren veräuecken.” Den Fall, wo. die ge-
+‚.nommene Ziffer zu klein ist ,. hat der Vf. unberück-
+„gichtigt gelassen, abwohl leicht zu zeigen war, dals
+‚wann aie Zehner, & die Einer bedeutet, 6.zu klein
+„‚genammen ist, wenn der Rest, weleher-übrig bleibt,
+ abenn man; das Produkt von dam Dividendus abzicht,
+' ‚gleich. ader grüßer' ist, als 2(a+5)+1. Bei den
+„Gleichungen des zweiten Grades mit zwei unbekann-
+Aanı Größen scheidet. der Vf, die zwei Fälle, wo ent-
+‚weder eine Gleichung vom ersten Grade und eine vom
+gweiten, oder beide vom zweiten Grade sind, Im
+Besichung auf den letzteren Fall bemerkt er, dafs
+‚oplehe zwei Gleichuugen zwar im Allgemeinen zu
+‚gänen Gleichneg: vom vierten: Grade führen, dafs es
+„abet drif vesbchiedene Mütel gebo, sie auf Gleichun-
+gen vom zweiten Grade .mit giher anbekannten-Gröfse
+au bringen, welche Mittel aber alle nur in besende-
+
+‘ Nayz 7: AUGUST. IST. N
+
+Shen fir m gelnnsipnı kebene.die Werth, von. at und
+
+nem, mit aiulger Usbubg leicht zu-etiesnentlen Falz
+Jen anwendbar seyen, : Das erste dieser. Mittel’ be»
+stehe. darin, dafs: ah eine der beiden GHgichiligen
+in eige Gleichung vem-ersten Grade:zu fränsformiren
+suche, wie in dem folgenden Beispiele. „Es sollen
+zwei. Zahlen gefunden werden, deren Summe und
+deren Produkt der Differenz ihrer Quadrate gleichen;
+Bezeichnen wir die zwei Zahlen durch x und y, so
+haken wir die zwei Gleichungen vom zweiten Grad:
+X+Y = g—y!, und zy=x+y. Da ahbör x? —
+Y'=(5x+)y)(5-—y), so kann mah beide Theile der
+ersten Gleichung durch x -+y dividiren, und man er-
+hält die Gleichung vom ersten Grade: 1=x— %
+und 14+y==x, Substituirt man diesen Werth von
+x in die zweite Gleichung, so erhält man y(1+ y)=
+ÄArytryı = 1420; y—y=1, Daher y =
+
+++ DIEB =", dsl +
+A455 a EV, Das zweite Mittel zur Auflösung
+
+zweier Gleichungen mit zwei Unbekannten, die zu
+einer Gleichung vom vierten Grad führen, empfiehlt
+der Vf, dann, wenn diese Gleichung nur x* und x%
+enthält, in welchem Falle man erst nicht x selbst,
+sondern x? sucht, das man durch einen Buchstaben
+vorstellt, wodurch die Gleichung vom vierten Grad in
+eine vom zweiten Grad verwandelt wird, Hat manz. B,
+die Gleichung x* +px? = qg, sosetzt man x? = z, daher
+
+Kt==z2, u.3'+pz=g. Man hat aunz=— 3 EV (g+ 5)
+und x = + vz=4y[-34y(9 + g)) welche
+
+Formel vier Werthe von x giebt, indem man jedes
+der beiden Zußseren Zeichen mit jedem der beiden
+innern Zeichen verbinden kann, Diese Methode
+Jäfst sich überhaupt hei allen höheren Gleichungen
+
+ge- ‚anwenden, in welchen nur mit zwei verschiedenen
+
+Exrponenten. vorkommt, von denen der eine doppelt
+so grofs ist, als der andere. Hat man z, B, die Glei-
+-ehung x?" + px” —g, so setze man x” —z, daher
+„ge =, und die Gleichung wird dadurch z?+-pz
+
+s:qg., Man hat nun sy (+ und 7 =
+
+V = V [-— P Ay (gE a) nnneen00000
+
+' Das dritte Mittel, wodurch man oft nicht blos Glei-
+ehungen vom zweiten Grad mit mehreren Unbekann-
+ten, sendern auch höhere Gleichungen auflösen kann,
+
+‚hestebt darin, dafs man nicht unmittelbar die Unbe-
+
+-kannaten selbst sucht , sondern Functionen derselben,
+
+.z, B, ihre Summe, ihr Produkt, worauf man dam
+vermittelst einfacherer Gleichungen, als die gegebe-
+nen, die Unbekannten selbst finden kann, Z, B.
+Es sollen zwei Zahlen gefunden werden, deren Dif-
+ferenz mit der Differenz ihrer Quadrate multiplieirt,
+473, und deren Summe mit der Summe ihrer Qua-
+drate multipkieirt 3667 zum Produkt babe. Bezeich- -
+wen wir die zwei Zahlen durch x und y, so haben
+wir die zwei Gleichungen (x—y) (*?—y') e 17
+
+SAY
+

@@ -1,0 +1,128 @@
+283
+
+unmöglichen Wurzeln auf eine sichere Weise, und
+alsdann auf verschiedenen Wegen den zugehörigen
+Winkel, oder auch ohne diesen die beiden Zahlen
+x und y.” Die nene Methode des Vfs, besteht in der
+Auflösung der Gleichungen durch successives Quadri-
+ren der Wurzeln; und es ist nicht zu leugnen, dafs
+er mit vielem Scharfsinne und vieler Gewandtheit zu
+Werke geht, so dafs seine Methode gewifs alle Auf-
+merksamkeit verdient, wenn gleich auch sie hinsicht-
+lieh der Leichtigkeit und Einfachheit noch Manches
+zu wünschen übrig lassen sollte. Wir theilen nun
+im Folgenden wenigstens soviel davon mit, dafs man
+den Weg, den der Vf, eingeschlagen hat, einiger-
+mafsen erkennen kann. Er sagt nämlich: „Bei un-
+serer neuen Methode bringen wir das gleiche Prineip
+in Anwendung, auf welches sich der Gebrauch der
+
+PA n—2
+
+A, L. Z, Num, 184. OCTOBER 1838.
+
+recurrirenden Reihen gründet, indem wir eben-
+falls durch fortgesetztes Potenziren die kleineren
+Wurzeln gegen die gröfseren zum Verschwinden
+bringen. Diese Potenzirung wird aber bei dieser
+Methode auf einem ganz anderen Wege vollzogen,
+und zwar durch die längst schon bekannte, aber bis
+jetzt noch nicht zu diesem Zwecke gebrauchte Qua-
+
+‚drirung der Wurzeln, wodurch man sicherer und
+
+schneller zu demselhen Ziele gelangt, als bei irgend
+einer der bisher hekannten Methoden,” Hat man
+nämlich die Gleichung:
+
+1) adn IR An — 1 FE — 1 ana —3 + ..0....
+a2xiı+aı x + aq=0 und setzt man in derselben
+= X 80 erhält man, wenn n% eiue gerade Zahl
+ist:
+
+; n— 1 n— 4
+ax 2 +a EL & +.....0x+a0=— [a X 2 + 8 SE 2 00000 | Vs.
+„1 n—3 1 21 0 n-—11 n—3 1 1
+
+Ein ähnliches Resultat erhält man, wenu n eine un-
+
+erade Zahl ist, nur wird alsdann Y£ı auf der an-
+Seren Seite des Gleichheitszeichens als Factor stehn,
+In beiden Fällen erhält man aber, wenn man auf
+
+n—p+g n—P—9
+
+beiden Seiten des Gleichheitszeichens zum Quadrat
+erhebt, und hierauf alle Glieder geordnet wieder auf
+eine Seite des Gleichheitszeichens bringt:
+
+2 23 2 n—1 2 2-— 32
+2) az + [a —1+2 a: ]+ ; +[+a—2-—20 a +2aa ]= A 00000
+nn 2 n 2—2) 1 ‚2 n—1n—3 nn—4] 1 .
+2 %
+(1) [ a “—ZG 6 +2a a .....
+; n—D n—-p-+1 8-—-p--1 s—p +2 n—p—3
+2 2 n-— pP)
+(—1) 2a a ‚44 |
+
+n—2| 2
+.0.0.0.0(—1) | —2aü+2a0 | -
+2
+
+8 1 40
+
+2 n— 1 2 ; nn
+x +(-1) [= — 2a @ ]e+ 1)a =0,
+2 1 2 0 0
+
+wobei in der Entwickelung des allgemeinen Gliedes
+dadurch Grenzen gesetzt sind , dafs die Zeiger nicht
+unter 0, und nicht über n hinausgehn, Wir wollen
+
+n=3, x, +[- a 7 + 2a, ]e, + [s,—2a a
+
+2 0
+
+jetzt diese Formel für die gewöhnlich vorkommenden
+Fälle specialisiren und hierbei den CoöffGcienten
+a = 1 setzen: ;
+
+2
+
+2
+]= —a 0
+1 0
+
+#8 = A, + [—a) +20 | x +[ — 2a, a, + 2a] x - [- a +20 a ]=,+ an = 0
+
+5 2 4 2 3 2 ) 2
+n = dd, +[- +20 ]- +[« — 20 6 +24, |» +[-e +20 —20 a |s* +
+1 ‚4 3 | 1 3 23 1 2 3 1 4 0 1
+
+2 ; 2
+E — ZA a z—a =0
+1 2 0 0
+
+6 2 ° 5 | 2 2 ; ‘+2
+N” 6,214] at a, | 1 4 5 3
+
+3 2 2
+— 2 — @ 2a a |®*® +a =0
+a4 [+0] 2a. a + A „+ ‚t 2 ‚] 1 0
+
+a, 8, W., woraus man sieht, dafs das Bildungsgesetz
+dieser neuen Gleichung sehr einfach ist, und dafs sie,
+
+‚+ [04 200 —20.a + 2a}
+
+wie schon längst bekannt, ebenfalls vom n ten Gra-
+e ist, ; ) .
+
+(Der Beschlufs’folgt.)
+
+r . ® « * . .. e° » <
+
+CE
+
+ 
+

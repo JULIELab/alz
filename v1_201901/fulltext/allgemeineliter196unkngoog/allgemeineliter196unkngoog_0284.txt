@@ -1,0 +1,122 @@
+— 143 —
+
+330
+
+ALLGEMEINE LITERATUR-ZEITUNG
+
+ 
+
+August 1837.
+
+ 
+
+ GEOMETRIE,
+
+‚ Lemzi8, in d. Hinrichs, Buchh,: Anleitung, mehr
+
+‚ ° als 30 Millionen gröfstentheils neue geometrische
+Figuren, die durch einen in der Ebene sich bewe-
+genden Punkt nach gewissen Verbindungen zweier
+Kegelschnitte werden, aus einer allgemei-
+nen Construction herzuleiten und zu entwerfen.
+Nebst allgemeinen Bemerkungen über die Au-
+weonrdung dieser Figuren in der Zeichnenkunst
+und Mechanik. KEin Beitrag zur Curvenlehre,
+Von Gustav Adolph Jahn, Dr. Phil. und Leh-
+"ger der Mathematik in Leipzig. Mit 14 Stein-
+drucktafeln, 1836. X1Iu,. 2125, gr.8. (2Rithir,
+4 gr.) '
+
+Der Vf. glaubt, dafs eine solche Schrift, wie die
+vorliegende schen darum micht unwillkommen seyn
+werde, weil sie sowohl einen Beitrag zur Curven-
+lehre, als auch ein ganz vorzügliches Mittel abge-
+” ben könne, ans einer einzigen Construction hach
+systematisch geordneten verschiedenen Annahmen
+eine ungewöhnlich grofse Menge von Curven abzulei-
+ten, Er giaubt dies um so mehr, da in keinem bis
+jetzt vorhandenen Werke der analytischen Geometrie
+die Entstehung der Curven durch Bewegung nachge-
+wiesen werde, ausgenommen etwa für .die Kegel-
+schnitte in den Lehrbüchern der Mechanik; da fer-
+ner in dergleichen Werken gewöhnlich nur die all-
+gemeinen Gleichungen des ersten, zweiten und drit-
+ten Grades für die Curven erster, zweiter und dritter
+Ordnung sogleich unmittelbar aufgestellt , die analy-
+tische Discussion derselben vorgenommen, und, um
+die Natur der sich aus ihuen ergebenden Curven zu
+erforschen, mittelst: Differentialrechnung untersucht
+werde, .welche Maxima und Minima, und welche be-
+sonders merkwürdige Punkte diese Curven haben;
+and endlich deshalb, weil nur solche Schriften vor-
+handen seyen, die eine Sammlung geometrischer,
+° von einander umabhängiger Aufgaben nebst deren
+” verschiedenen Auflösungen enthalten, Der Vf, beab.
+sichtigt daher, die Erzeugung der Curven durch Be-
+wegung eines Punktes zu lehren, .die allgemeinsten
+Ausdrücke und Gleichungen der erzeugten Curven
+zu entwickeln, auzadeuten, wie aus.denselben die
+Curven für irgend ein Hauptgeschlecht, eine Fami-
+He: und Art von einem .besonderen Stamme sich ab-
+Jeiten lassen , und endlich im Allgemeinen.zu hemer-
+ken, wie solche Curven.ihre Anwendung in der Zei-
+obenkwust und Mechanik Kiaden können, Diese Auf“
+gabe: bat.der Vf, auf eine hufriedigende Weise ge-
+af L. Z. 1887. Zweiter Band, ;
+
+löst, und wir können sein Buch denen, welche sich
+für diesen Gegenstand näher interessiren, mit Recht
+empfehlen, as die Anzahl der hier gezeichneten’
+Curven betrifft, so zeg es der Vf. vor, die Menge
+derselben zu beschränken, um nicht durch eine zu
+kleine Zeichnung der Genauigkeit, Deutlichkeit und
+dem leichteren Ueberblicke zu schaden, oder durch
+zu viele Kupfertafeln den Preis des Buches beden-
+tend zu erhöhen. Auch unterliels er eine eigentlich
+theoretisch - mathematische Behandlung dieser Figua-
+ren und ihrer analytischen Ausdrücke, und setzte
+zum Verstehen des Iahaltes nur die Kenntni(s der
+ebenen Trigonometrie, der niederen Algebra und
+der Lehre von den Kegelschnitten voraus, Das Buch
+zerfällt in acht Abschnitte. Der erste handelt von
+der Entwjekelung der allgemeinen Ausdrücke für die
+Stammfigur und der dazu gehörigen Hülfsgröfsen in
+Bezug auf die 25 Hauptgeschlechter. Der Vf. hat
+hier einige Benennungen gewählt, die auf den ersten
+Anblick auffallen dürften, über die er sich aber ge-
+nügend erklärt, Er nennt nämlich diese Hauptge-
+schlechter so: gerade Gerade, gerader Kreis, gera-
+de Ellipse, gerade Hyperbel, gerade Parabel, kreis- -
+förmige Gerade, -kreisförmiger Kreis, kreisförmige
+Ellipse, kreisförmige Hyperbel, kreisförmige Para.
+bel, elliptische Gerade ‚. elliptischer Kreis, ellipti-
+sche Ellipse, elliptische Hyperbel, elliptische Para-
+bel, hyperbolische Gerade, hyperbolischer Kreis,
+hyperbolische Ellipse, hyperbolische Hyperbel, hy-
+perbolische Parabel, parabolische Gerade, paraboli-
+scher Kreis, parabolische Ellipse, parabolische Hy-
+perbel, parabolische Parabel. Der zweite Abschultt
+enthält die Entwickelung der allgemeinen Ausdrü-
+oke für mehrere der interessantesten Familien in Be-
+zug auf ein oder mehrere der 25 Hauptgeschlechter,
+Der dritte Abschnitt giebt mehrere allgemeine Auf-
+aben, die im zweiten Abschnitte angeführten 17
+Familien der Curven vom ersten und zweiten Stamme
+betreffend, begleitet von mehreren Beispielen, Wir
+theilen hier einige mit, Aufg, 1°: es soll die secun“
+däre Curve auf die primitive. Curve so gesetzt werden;
+
+dafs beider Abseissen einander parallel liegen, aü
+der Endpunkt der Ordinate von der primitiven Cu®-
+ve jedesnial den Anfangspunkt von der secundären
+Curve abgiebt, * Aufg. 6: an den Endpunkt der Oys
+dinate einer Curve soll unter einem beliebigen con-
+stanten Winkel die Abscisse der Curve angelegt
+werden, Aufg, 8: es soll sich die primitive Curve
+nm den Anfangspunkt ihrer Abseissen durch den
+veränderlichen Winkel bewegen, und vom Endpunkte
+dor Ordinate ‚an jedesmal die Ordinate der s00un“
+XxX -
+
+ 
+

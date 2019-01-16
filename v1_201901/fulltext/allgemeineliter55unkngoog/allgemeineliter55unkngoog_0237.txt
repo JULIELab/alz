@@ -1,0 +1,138 @@
+435 ALLG.
+
+drei Veränderlichen folgte der Vf. dem Wege, den
+Hr. Plücker, bei der Discussion der Gleichung zwi-
+schen ‘zwei Veriänderlichen, zuerst betreten hat,
+88. 77 — 86 enthalten Aufgahen üher Flächen höhe-
+rer Grade, 88. 87 — 104 endlich begreifen mehrere
+Aufgaben, welche die Erzeugung der Flächen durch
+Curven betreffen, Was nun den Werth des Buches
+betrifft , so ist man schon gewohnt, von dem Vf, nur
+Tüchtiges und Gediegenes zu erwarten, und so ist
+denn auch dieses Werk gewils eine eben 80 interes-
+sante, als wichtige Erscheinung in der mathemati-
+schen Literatur. Die Darstellung ist im Allgemei-
+nen klar und präcis, und wenige schwierige For-
+meln ausgenommen, wird der Lernende recht wohl
+im Stande seyn, bei gründlichen Vorkenntnissen,
+das Buch auch zum Selbststudium zu gebrauchen,
+Als‘ Beleg theilen wir Einiges aus den Lehre von
+der Central- Collineation, wie sie der Vf. nennt,
+bier mit,
+aus Punkten, die sämmtlich in einer und derselben
+„gegehenen Ebene liegen, das andere aber aus Gera-
+den im Raume hesteht, und welche in einer solchen
+Beziebung zu einander stehen, dafs jedem Punkte
+der gegebenen Ebene eine Gerade im Raume derge-
+stalt entspricht, dafs wenn drei Punkte des ebenen
+Systems in gerader Linie liegen , die drei ihnen ent-
+sprechenden Geraden sich in einer Ebene befinden,
+wollen wir central-collineare Systeme nennen. Da
+eine jede Gerade in der Ebene durch zwei Punkte,
+und eine jede Ehene im Raume durch zwei io ihr
+liegende Gerade vollkommen bestimmt ist, so kön-.
+nen, nach der aufgestellten Definition, allen Punkten
+einer und derselben Geraden in der gegebenen Ebene
+nur Punkte einer und derselben Ebene im Raume
+entsprechen, oder, mit anderen Worten, in cen-
+tral-collinearen Systemen entspricht einer Geraden
+
+in der gegebenen Ehene eine Ehene G im Raume,
+Einer Geraden g in der gegehenen Ebene, welche
+zwei Punkte d,, d, derselben verbindet, entspricht
+eine Ebene G im Raume, welche die den Punkten
+d,, da entsprechenden Geraden D,, D; enthält.
+Dem Durobschnittspunkte d zweier Geraden g,, ga
+in dem ebenen Systeme entspricht die Durchschnitts-
+linie D _ der Ebenen’G,; 62, welche den Geraden
+
+‚, ga entsprechen; denn da der Punkt d auf den
+
+eraden g,, ga liegt, so mufs die ihm entsprechen-
+de Gerade D auf den Kbenen G,, Ga liegen und so-
+mit daren Durchschnittslinie seyn. Aufgabe: Die-
+jenigen Gleichungen zu finden, durch welche die
+Relation zweier central -collinearer Systeme ausge-
+drückt wird, ( Aufl.) Wir beziehen die Punkte der
+gegebenen Ebene auf zwei beliebige in ihr liegende
+rechtwinklige oder schiefwinklige Achsen durch die
+Coordinaten £, u, und die Punkte im Raume auf
+drei beliebige rechtwinklige oder schiefwinklige
+Achsen durch die Coordinaten x”, y, z. Soll
+nun dem Punkte fu die, durch die Gleichungen
+
+| X=a2+03 Yy=P+ } ausgedrückte Gerade
+entsprechen, so miissen «, 8, « und b von £ und u
+auf eine bestimınte Weise abhängig, d. i, es müssen
+
+LITERATUR - ZEITUNG
+
+„Zwei Systeme, von welchen das eine,
+
+436
+diese Gröfsen Funectionen von £ A u seyn, so dafs
+u=o, (f, u); P=w, (H,u)za=f, (t,u);3ö=f,(t, u)
+ist. Alsdann sind die Gleichungen der, "dem A
+tu entsprechenden (zeraden
+
+{x = Tı (&, u). + ff (6,4); Yy=@,(t,u) ‚X +f2(t, u)
+aus welchen wir, wenn die. genannten Functionen
+bekannt wären, ı% und tin x, y, zZ ausdrücken
+könnten, Hieraus folgt, dafs ww und £ Functionen
+von x, y, % sind, dals also u= ww, (Fr, Y, Z)}
+t=vw,(x, Y, z) ist. Wenn daher gu+At+k=0
+die Gleichung irgend einer Geraden in der Ebene
+der tu ist, so wird die Gleichung der ihr entspre-
+chenden Ehene guy,(7,9,Z)+hw, (x, Y, 2) +k=0
+seyn. Da aber diese Gleichung, was auch immer
+g, h und k für \Verthe haben mögen, als die Glei-
+chung einer Ebene, nur vom ersten Grade seyn darf,
+so wird sie die Form g (m'z+ n"y +px + 0) +
+himz+ny+px+q ) + k(imz+ny +px +1)=0
+baben, woraus sich dern ergiebt, dufs
+
+N MAY AP A q
+u=W, (X, Y, S) FW FPEFA
+(1)
+
+N _ MZ+WYEPE+EI
+ist, Bezeichnen wir, der Kürze wegen, die Zähler
+und den Nenner dieser Ausdrücke durch 4, B und
+
+D, so dals also K=Z3 = 502) ist; so entspricht
+einer Geraden im Systeme tu, deren Gleichung
+gu+ht+k= 0 (3) seyn mag, die Ebene im Systeme
+5yz, deren Gleichung ga +4AB+kD=0 (4) ist.
+Diese Gleichung (4) wird, welche Werthe g, A und
+k auch haben mögen, durch diejenigen. Werthe von
+X, Y, Z befriedigt, welche den Gleichungen A=— 03
+
+= 03 D==0 zu gleicher Zeit genügen; es gehen .
+demnach alle Ebenen des Systems xyz, welche
+geraden Linien in der Ehene der {uw entsprechen,
+durch einen bestimmten Punkt 0. Diesen Punkt,
+der auch in unendlicber Entfernung liegen kann,
+nennen wir das Centrum der Collineation, Kinem
+Punkte in der Ebene der fu, dessen Coordinaten
+u=b, und t=a sind, entspricht eine Gerade im
+Raume, deren Gleichungen, durch Substitution
+aus (2)
+
+\4=5D; B = aD} (5)
+
+efunden werden, Da diese Gleichungen offenbar
+durch die Coordinaten des Centrums der Collineation
+O befriedigt werden, so gehen alle Geraden des
+Systems x y z, welche Punkten in der Ebene der fu
+entsprechen, durch dieses Centrum, Umgekehrt
+entspricht einer durch das Centrum O gehenden
+Ebene eine Gerade in der Ebene der tu. Denn jede
+durch den Punkt 0 gehende Kbene in dem Systeme
+xyz kann durch eine Gleichung von der Form
+
+_ gA+AB-+kD=0
+
+dargestellt werden; und setzen wir in Folge von
+(2), für A und B respective Du+ Dt, so kommt
+gu-+At-+k= 0, wodurch eine Gerade in der Ebene
+

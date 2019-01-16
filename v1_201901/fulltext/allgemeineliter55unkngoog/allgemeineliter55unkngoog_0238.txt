@@ -1,0 +1,149 @@
+‚ ve M beschreiht,
+
+437
+
+der fu ausgedrückt ist. U nd einer durchdas Centrum
+0 gehenden Geraden entspricht ein Punkt in der
+Ebene der tu.. Denn jede in dem Systeme xyz
+durch den Punkt O gehende Gerade kann durch zwei
+Gleichungen von der Form {4A=5D; B = aD} dar-
+gestellt werden; und setzen wir für 4 und B re-
+spective Due und Dt, so kommt u=b&; ta, wo-
+
+rch ein Punkt in der Ebemre der fıs ausgedrückt
+ist. Wir seben also, dafs, sowie das System tu
+nur aus Punkten besteht, die sämmtlich in einer
+Ebene liegen, das System ryz auch nur aus Gera-
+den besteht, die sich in einem Punkte O schneiden,
+Es ist noch zu hemerken, dals die Ebene D = o nur
+solche Gerade des Systemes zryz enthält, welche
+unendlich entfernten Punkten in der Ebene tu ent-
+sprechen, weil für D = 0 sowohl t = 0, als u = ©
+wird” u. s. w. Besonders gelungen ist der Ab-
+schnitt, welcher die Aufgaben enthält, die die Er-
+zeugung von Fiächen durch Curven betreffen, wes-
+halb auch von diesen eine hier Platz finden mag.
+„Aufgabe: Es sind zwei auf einander senkrechte
+Ebenen E, E’, und es ist in der zweiten Kbene E‘
+eine Curve M gegehen., Kin Kreis von gegebenem
+Radius v bewegt sich so, dafs seine Ebene der Ebene
+E parallel bleibt, und dafs sein Mittelpunkt die Cur-
+Es soll die allgemeine Gleichung
+
+der, von der Kreislinie erzeugten Fläche gefunden
+‚ werden. Aufl. Wir nehmen die Coordinaten recht-
+
+winklig, und zwar die Ebene E zur Ebene der xy,
+und die Ebene E’ zur Ebene der zz an. Es sey nun
+x=f(z) die gegebene Gleichung der Curve
+ist, da der Mittelpunkt des Kreises sich in der Ebe-
+
+- pe der zz befinden soll, = 0, und, da er auf der
+— Curve M liegen soll, « = f (y). Da ferner die Kreis-
+— ebene der Kbeue der xy parallel liegen soll, so ist
+
+deren Gleichung z=»y, Der erzeugende Kreis ist
+daher durch die Gleichungen
+z—y=05(z2—y7+y? +(x— a) =r?
+
+ausgedrückt, und eliminiren wir y, 80 kommt
+YAEC(z—fiz:)?=r?, (1) oder auch , was dassel-
+heist, f(z)=x+ Vr?—y?, (2) oder endlich, wenn
+wir uns z entwickelt denken, z=g(x+Vr?!—y?)
+(3) als die allgemeine Gleichung der erzeugten FIä-
+che, Es sey z. B. die Curve M eine Ellipse und
+a?z? + 6272 = a?b? ihre Gleichung, so ist x = f(z)
+
+43V bt, daher auch, nach (2), +5 V 62— zz?
+=1+ Vr? —y?, oder nach (3),
+a? —(x+Vr?—y*):(4) die Glei-
+
+ehung der erzengten Fläche, Wenn die Curve M
+Richt gegeben ist, so ist die Function f, und. daber
+auch die Function @ willkürlich, Ist dasn aber eine
+Curve V gegeben , welche auf der Fläche liegen soll,
+so ist die Fläche individualisirt und die genannten
+Funetionen werden dadurch bestimmt. Setzen wir
+z, B. dafs diejenige gerade Linie sich auf der Fläche
+
+ 
+
+z=+2
+7
+
+‚ 80
+
+Num, 206. NOVEMBER 1838...
+
+t
+
+438
+
+(2) befinden soll, welche durch die Gleichungen
+T=0) Yy=nz+p (3) ausgedrückt ist, so erhalten
+wir, durch Elimination von x und y zwischen den
+drei Gleichungen (2) und (3), a
+fz=+V rip? — 2pnz—n?!z?, (6). Da nun
+x=f(x)die Gleichung der Curve M ist, so ist, in
+dem gegenwärtigen Falle , ’ diese Curve M durch die
+Gleichung
+
+a=+Vr: — p: —2pnz—n*z?, oder, wenn
+wir rational machen, durch die Gleichung
+
+naz? + x? + 2pnz+p?—r?=0 dargestellt,
+und somit eine Linie zweiten Grades, Die Gilei-
+ohung der, von dem Kreise erzeugten Fläche ist
+aber
+
++Vr? — p? — 2pnz— nz? =x+Vr? — y?,
+wie wir durch Substitution des Ausdrucks (6) in
+die Gleichung (2) finden,” 85,
+
+NATURWISSENSCHAFT.
+
+Bonn, in Commiss, bh. Weber: Die Skelete der
+Raubvögel abgebildet und beschrieben von Dr.
+E. d’Alton d. Aelt, und Dr. E.d’Alton’d. J, —
+Der vergleichenden Osteologie zweiter Abthei-
+lung zweite Lieferung. Querfol, 2458. und 7
+Kupfertafeln, (7 Rthlr, 12 gGr, netto),
+
+Wir freuen uns die Fortsetzung eines Werkes
+anzeigen zu können, für dessen frübere Hefte Göthe
+ein so lebhaftes Interesse gehegt hat und das in
+der That geeignet ist, zu zeigen, wie die vergleichen-
+de Anatomie vor anderen Zweigen der Naturkunde,
+nehen aller wissenschaftlichen Strenge, einer frei-
+ern künstlerischen Bearbeitung fähig ist,
+
+Mit der zwölften, im Jahre 1831 erschienenen
+Lieferung ist die erste Abtheilung jenes kostbaren
+Werkes über die vergleichende Osteologie der Säuge-
+thiere abgeschlossen, das von den früher verbunde-
+nen Freunden d’Alton dem Aelteren und Pander be-
+gonnen, und, so weit es der Gegenstand und die
+Schwierigkeit sich die Objekte zu verschaffen, er-
+laubte, rasch gefördert wurde. Später trat der wür-
+dige Sohn des trefflichen Meisters in naturhistori-
+schen Abbildungen hinzn und schon diels letzte Heft
+der vergleichenden Usteologie der Säugethiere, wel-
+ches die Skelete der.Fledermäuse und Insektenfres-
+senden Raubthiere enthält, ist von E. d’Alton dem
+Jüngeren allein gezeichnet und bearbeitet, ;
+
+Die Skelote der Vögel sind ebenfalls von dem-
+selben übernommen worden und das erste Heft, wel-
+ches die straufsartigen Vögel enthält, ist schon im
+Jahre 1827 erschienen,
+
+Die vorliegende neue Lieferung giebt uns höchst
+gelungene Abbildungen und Brschreibungen der Ske-
+ete der Raubvögel. Die Darstellungen sind wie in
+der früheren Weise, indem die sorgfältig ausgelühr-
+ten Skelete in natürlicher Form auf den Körper des
+Thiers aufgetragen sind; diefser steht wie ein Schat-
+teu dahinter, Mit Recht hat Göthe das Anschauli-
+
+ 
+

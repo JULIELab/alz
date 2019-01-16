@@ -1,0 +1,147 @@
+173 .
+
+Y
+<q v ° ’ -
+- _ ; 23 '
+a
+‘ x
+
+wu”
+
+378
+
+ALLGEMEINE LITERATUR. ZEITUNG
+
+ 
+
+Februar 4 8 34.
+
+ 
+
+, a J
+; Uebersicht
+; der
+wichtigsten Untersuchungen in der Lehre von der Wärme
+seit dem Anfange des Jahres 1828 bis zum Anfange des Jahres 1833,
+
+ 
+
+; . (Beschluft
+«:Latente und specifische Wärme. (Schlufs.)
+
+Durch ein höchst sinnreiches Verfahren hat W. We
+ber die specifische Wärme einiger Metalle ‘bestimmt
+CToggendorff's Ann. XX, 177). Gesetzt, die eine
+
+ilfte eines Drahtes werde weit stärker gespannt
+als die andere, und die Spannung an der Trennungs-
+stelle höre plötzlich auf, so wird.sich zwar in kurzer
+Zeit eine gleiche Spannung herstellen , aber diese
+Spanuung ist im Augenblicke der Vereinigung weit.
+
+öfser als späterhin; diese Abnahme der Spannung
+
+{st sich aber nur aus einer Temperaturzunahme her-
+leiten; die Ursache der letzteren können wir nur in
+einer innern Wärmenquelle suchen, und so kann diese
+Untersuchung dazu dienen, die specifische Wärme
+
+der Körper zu messen. Der Vf. bestimmte die Grö-
+fse der Spannung der einzelnen Drähte durch die An-
+zahl der
+
+onschwingungen, welche sie machten und
+heitete hieraus die specifische Wärme von Eisen, Sil-
+ber, Kupfer und Platina her,
+Wir gedenken hier noch einer Arbeit von. Schitke,
+welche die meisten Wärmephänomene betrifft (Baum-
+rten’s Zeitschrift IV, V, 138 u. VI). Vf,
+beginnt zunächst mit Untersuchungen über scharfe
+stimmung der Wärmemengen, welche derselbe
+Körper bei verschiedenen Temperaturen besitzt, wozu
+unsere gewöhnlichen Thermometer nicht ausreichen,
+weil diese nur bei gleieben Aenderungen der Tem-
+atur gleiche Incremente des Velumens anzeigen,
+obne da(ls dadurch erwiesen ist, dafs der Körper auch
+wirklich gleiche Wärmemengen erhalten hahe, In-
+dem er statt der vermehrten Ausdehnung einen ver-
+mehrten Wärmeeinflufs annimmt, sucht er die Grö-
+(se zu bestimmen , um welche die gewöhnlichen Wär-
+megrade vermehrt werden müssen, um die gesammte
+Auedehnung des Körpers so zu erhalten , wie sie die
+Erfahrung giebt, Der Vf, geht nun davon aus, dafs die
+Anziehung der kleinsten Theile mit zunehmender Ver-
+gröfserung des Volumens abnimmt, dann mufs durch
+einen gleichen Zusatz von Wärme eine desto größere
+Ausdehnung erfolgen, je mehr Wärme bereits zuge-
+setzt wurde, wobei er nach der Analogie der Gra-
+vitation annimmt, dafs die Inoremente der Wärme,
+A. In Z. 1884. Erster Band,
+
+von Nr. 22.) ”
+welche in der Wirkung mit dem abnehmenden Wi-
+
+derstande gleich seyn sollen, das quadratische Ver-
+hältnifs hefolgen. . Bezeichnet nun « ein solches Wär«
+
+meincrement und würde das Volumen des Körpers,
+da bei 0° C gleich v ist, in der Voranssetzung eines.
+
+. constanten Widerstandes für den ersten Wärmegrad in
+
+v(1+ m) übergehen, so mülste es bei nachlassendem
+
+‘ Widerstande in v(1+ m) (1 + m)“ = v(14+m)!+*
+
+übergehen, KEben so würde dieses Volumen für zwei
+Wüärmegrade v(1+m)* T" (14-m)”* = v(14+m)* T 4“
+werden, und allgemein würde es für n Wärmegrade
+| y=o(1+m)"T"
+Wir haben demnach füt n und n, Wärmegrade die
+beiden Gleichungen, wepn v = 1 gesetzt wird
+
+log. y = (n + n?. a) log (1 + m)
+
+log. y,=> (n, +». a) log (1 + m)
+
+° log. y, 108. y
+folglich log (1 + m) = Apan) Sapan
+a log.y,—n, log. y
+
+2 og y— nn? log y, ,
+Für Gase setzt der Vf. a = 0 und y = v(1+m)”, weil
+diese der WVärme keinen ungleichen Widerstand ent-
+gegensetzen. Setzt man nun nach dem Luftthermo-
+meter die Grade des letzteren, welche n entspre-
+chen, gleich 2, und beachtet, dafs m =0,003753=b
+
+ist, so wird ,
+
+log (1 4-0,00875 . 7)
+0,00172556
+Für ein Quecksilberthermomefer, dessen Angaben
+nach der hunderttheiligen Scale mit £ bezeichnet wer-
+den und wo m = 0,00018018 ist, erhält man
+
+—1+ V [ (14 158,7850506) /og (1 4 0,00018018. £) }
+= ——————— 0500889 ——
+
+ 
+
+ 
+
+ 
+
+Aehnliche Ausdrücke hat der Vf. für andere Körper
+berechnet, Es genüge hier die Bemerkung, dafs die
+Thermometerscale des Vfs nach dem Gesagten sehr
+bedeutend von der gewöhnlichen abweicht. Wird
+z. B. bei dem Luftthermometer die Gröfse zwischen
+0° und 1° C als Einheit angesehen, so'wilrden 340°
+
+Z \ - es
+
+ 
+
+9 an
+

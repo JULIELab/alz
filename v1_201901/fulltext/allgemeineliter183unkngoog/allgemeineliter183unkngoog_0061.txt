@@ -1,0 +1,173 @@
+ee
+
+welehe in der Zeit dt von dem Elemente E zu B
+übergeht, ausgedrückt,durch .
+- a, mm (W—u)dt (A)
+
+‚wo @ ein von der Entfernung abhängiger Koeff-
+
+cient ift. Sind hier die Gröfsen w' und wu conftant,
+bleibt ferner die Entfernung zwifchen beiden uQ-
+veränderlich und fetzen wir w—xw und dt gleich 1,
+
+fo ift die Electriceitätsmenge, welche in der Zeit-
+
+einheit von X’ zu E übergeht
+r a P
+
+mm’.
+
+Um den Koeffcienten a auf eine einfache Art aus-
+zudrücken nehmen wir jetzt auf das Leitungsvermö-
+gen diefer Körper Rückücht. Die. Stärke der Lei-
+tung zwifchen zwey Orten wird ausgedrückt durch
+eine Gröfse, welche unter gleichen Umftänden dem
+Producte aus der Menge der in einer beftimmten
+Zeit von einem Punkte zum anderen übergefährten‘
+Klectricität und. ihrer Entfernung proportional ift,
+Ift mithin x das Leitungsvermögen, amm’, wie eben
+
+efunden, die Electricitätsmenge, welche unter den--
+elben Umfitänden in der Zeiteinheit von einem Ele-
+mente zum anderes übergeführt wird und s die Ent-
+fernung beider Elemente, fo ift N 8
+
+r ' N == GG JAM 8. "
+
+Wird der aus diefer Gleichung folgende Werth von
+« in den oben gefundenen. Ausdruck (.4) gefetzt, fo
+ift die Electricitätsmenge, welche in der Zeit dt
+von dem Elemente FE zu dem Elemente E’ übergeht
+
+A) a
+
+8
+
+Um' das bisher Gefagte auf die galvanifchen Er-
+fcheinungen anzuwenden, müffen wir uns noch an
+den von VYalta gefundenen Fundamentalfatz erin- ‘
+nern; verfchiedenartige Körper nämlich, welche
+{ich berühren, behaupten an der Berührungsftelle
+vermöge eines aus ihrem Wefen hervorgehenden.
+Gegenfatzes, fortwährend einen und denfelben Un-'
+terichied ihrer electrofcopifchen Kräfte, welcher die‘
+electrofcopifche Spannung‘ oder die Differenz der
+Körper heifst. Die Quelle diefer Erfcheinung mufs
+nach dem Vf. unmittelbar an der Berührungsfläche:
+beider Körper liegen, da die Electricität nach dem’
+Obigen ftets nur auf die unmittelbar anliegenden
+Elemente wirkt. Sa
+Wir wollen zunächft die Bewegung der Electri-
+cität an einem gleichartigen prismatifchen oder‘ cy-,
+lindrifchen Körper betrachten; es mögen in demfel-
+
+1
+
+- ben alle Punkte in dem ganzen Umfange eines be-
+
+liebigen fenkrecht auf die Axe geftellten Schnittes
+einerley electrofcopifche Kräfte beftzen , Io dafs die
+Bewegung der Electricität offenbar nur in der Rich-
+tung der Axe erfolgt. Es werde ein beliebiger
+Punkt der Axe als
+men; es werde ferner der Stab in eine Menge un-.
+endlich dünner Scheiben von gleicher Dicke ge-
+
+fchnitten; es fey x die Entfernung einer Scheibe M
+
+von dem Anfange der Abfeiffen, u die electrofcopi-:
+fche Kraft derfelben zur Zeit £, fo ift offenbar u ei-
+
+ne Funetion von x und t; es feyen ferner „/yınd u, '
+. . . ’ . * . ; » \ ? ' ij ‚ ’ a +
+
+A
+
+ALLG. LITERATUR - ZEITUNG
+
+‚wenn in diefe Function die Größen . x +dx
+
+”
+
+Functionen von x und £, welche feh aus u ergeben,
+u
+
+a — dx für x gefetzt werden, fo bezeichnen wW und
+w, die electrofcopifchen Kräfte zweyer Scheiben 2’
+und AM, zu welchen die Abfeiffen x + dx und x -— dx
+
+‚Echören und deren Mittelpunkte von der Mitte von
+
+refpective um die Gröfse dx entfernt find. Ift
+zun x-das Leitungsvermögen diefes Körpers, fo ifz
+
+Kl) die Electricitätsmesge, welche in
+der Zeit dt von M'’ zu M geht --
+
+die Electricitätsmenge, welche is
+
+der Zeit dt von M, zu M geht
+
+Es ift alfo die Aenderung der Electrieitätsm
+in der Scheibe M Während ger Zeit dt gleich
+(WA — 2) dt
+
+x(uw—u)dt
+
+/
+
+oder, wenn wir u’ und u, nach dem Taylorfchen
+Lehrfatze entwickeln und hiebey beachten, dafs dt
+conftant ifs, und dafs die Electricität nur auf die
+zunächft liegenden Elemente unmittelbar wirkt, dafs
+
+. alfo die höheren Potenzen von dx verfchwinden
+
+x TE dzdt.
+
+Die Gröfse x in diefem Ausdrucke bezeichnet das re-
+Zative Leitungsvermögen und es ilt hiebey nicht auf
+die Gröfse des Queer[chnittes Rückficht genommen;
+die Menge der Electricität, welche ein Körper in
+einer gewiffen Zeit durch Geh gehen läfst, hängt.aber
+offenbar von der Natur deffelben , alfo dem a6foluten
+Leitungsvermögen, und vom der Gröfse feines
+Queer{chnittes ab; wir wollen den letzteren mit w
+bezeichnen und unter x in Zukunft ftets: das abfolute
+Leitungsvermögen verftehen; dann. ift die Aende-
+rung der Eleetricitätsmenge in der Scheibe M wäh-
+rend der Zeit dt "a 1 ze
+88 .* 8
+Ko az Ledt. - (B)
+
+Bisher haben wir nur die Aenderungen betrachtet,
+welche durch die Einwirkung der Elemente des
+Körpers felbft erzeugt werden; wenn indeffen ein
+
+» electrifeher Körper mit der Luft in Berührung fteht,
+
+fo geht hiedurch etwas von feiner Electricität ver—-
+oren. - Nach den Verfuchen von Coulomöb ift' der
+durch die Berührung der Luft erzeugte Verluft an
+Kraft in einer fehr kurzen Zeit der Stärke der
+Electricität proportional und hängt aufserdem noch
+von einem fich nach der Befchaffenheit der Luft
+richtenden Koefhcienten ab. ' Wenn alfo c den Um-
+fang der Scheibe, 'cdx ihre Oberfläche, und b den
+
+nfang‘ der Abfeiffen angenom-’ von dem jedesmaligen Zuftande der Luft abhängigen
+
+Koefficienten bezeichnet , fo ift bcudardt die aus der
+
+Einwirkung der Luft erfolgende Aenderung in der '
+
+Zeit dt und folglich die gefammte 'Aenderung der
+-; d’ux
+N
+
+‚t Yıg a r 2
+
+: Electrieitätsmenge in diefer Scheibe
+
+|
+

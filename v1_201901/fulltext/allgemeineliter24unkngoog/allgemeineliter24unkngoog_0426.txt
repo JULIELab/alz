@@ -1,0 +1,146 @@
+887
+ausgedrückt werden, wonach, wenn man eine andere
+Eintheilung der halben Umdrehung, z. B. in 180°
+= 648000” bequemer findet , ein Winkel oder Bogen
+in jener Eintheilung a in einen gleichgeltenden nach
+letzterer Fintheilung a” durch die Multiplication mit
+
+4500 — 206264, 8.., wofür man passend den Buch-
+
+ 
+
+staben o einführen kann, verwandelt wird. Der
+Vf. bewirkt in 6. 15 diese Verwandlung nach fran-
+zösischer Art durch sin 7”, weil für die gewöhnlichen
+Tafeln sin 1” = tang 1’ = log 1” in Theilen des _Ra-
+dius sey. Es ist zwar richtig, dafs für diesen Um-
+
+fang 0 = at ist, ‚und daher letzteres so viel als
+decadische Ergänzung von jeaem gebraucht werden
+kann, der unbedingten Einführung von pe für 0
+
+in die Formeln liegt aber ein ungenauer Begriff zum
+Grunde, und sie kann möglicher Weise zu völligen
+Ungereimtheiten führen, wie z. B. S. 87 gesagt ist,
+weil die Angular- Gröfse (1 — 2’) hier eine abstracte
+Zahl seyn müsse, So müsse sie in Theilen des Halb-
+messers ausgedrückt werden, wodurch sie offenbar
+eine Linear - Gröfse würde, Ferner ist aus demsel-
+‘ben Grunde die Gleichung >
+; a3 sin 1”3
+1.2.3
+im $. 24 nicht homogen, weil Aggregate von Poten-
+zen den Linear-Gröfsen, als welche die Sinusse
+hier betrachtet werden sollen, und von denen die
+Potenzen blofs mit umbenannten oder ganz andern
+benannten Zahlen multiplicirt sind, unmöglich einer
+Linear - Gröfse selbst gleich seyn können, so weni
+wie ein Cubus einer Linie. Völlig homogen un
+streng richtig ist die Gleichung jedoch in der Form
+nr a3 .
+
+ 
+
+sin a = asinl” —— u, S, W.
+
+5 äne = — 7753
+weil nach obigem sin a sowohl als alle Potenzen von
+a abstracte Zahlen sind. — Hieran reiht sich auch
+
+je Bemerkung, dafs der Vf. die Potenzen der tri-
+on. Functionen durch Exponenten an Functionen -
+ichen z. B. sin ?°a schreibt. Diese Schreibart ist
+aber offenbar irrig, und daher in Deutschland nicht
+oder nur wenig gebräuchlich. Streng genommen
+müfste man in obigem Beyspiele (sin a)? oder sin a
+schreiben, wie auch von Einigen geschieht. Un-
+sere gewöhnliche Schreibart sima? enthält daher
+eine Abkürzung, die in der Regel ohne Zweydeu--
+tigkeit ist, indem das eigentlich dadurch Bezeichnete
+sich durch die sin (a?) davon unterscheiden läfst. Nicht
+so ist es aber bey sin ?a , welches der jetzigen ma-
+thematischen Zeichensprache gemälfs sin (sina) aus-
+drückt, und bey einem gröfsern Exponenten als 2
+sich von dem eigentlich dadurch bezeichneten nicht
+füglich unterscheiden läfst. Fernere Gegenstände des
+1sten Kapitels sind nun die Formel von Taylor, Ent-
+wickelung von fax, Lagrange's Theorem über die
+
+3 + u, Ss, WW. >
+
+\
+
+Num. 105, NOVEMBER 18381,
+
+888
+
+Gleichung u=a + tf(u), sodann Anwendung dieser
+Formeln anf Entwickelung trigonometrischer und lo-
+garithmischer Ausdrücke, Krümmungshalbmesser ,
+Berechnung kleiner Aenderungen von Functionswer- ‘
+then (wobey jedoch die Glieder 4x4y, 4x4z, 4y4z
+fehlen) und zuletzt Gebrauch der Logarithmen -1a-'
+feln. Die Darstellung dieser Gegenstände ist im Gan-
+zen kurz, jedoch klar und zweckmäfsig; auch ist zu
+Joben, dafs der Vf. auf die verschiedenen Quellen der
+Fehler bey.dem Gebrauche der logarithmischen und
+trigonometrischen Tafeln aufmerksam macht, nur
+wäre dabey eine etwas vollständigere und allgemei-
+nere Theorie der Interpolation zu wünschen, etwa
+wie sie z. B. Puissant in seiner Geodesie, 2te Ausgabe
+1819. gegeben hat, oder wie eine solche in Euler's
+Differential - Rechnung und mehrern andern Wer-
+ken sich findet. Die Behauptung $. 24, dafs der
+Gebrauch der logar, trigon. Tafeln für solche Bogen, .
+welche entweder sehr klein oder von 90° wenig ver-
+schieden sind, unsicher werde, ist übrigens einerseits
+zu allgemein, andrerseits zu beschränkt. Die Tafeln
+werden vielmehr da unsicher, wo die Aenderungen
+der gesuchten Gröfse bedeutend gröfser als die der
+gegebenen sind, welches überhaüpt nur in der Nähe
+des Anfangs und Endes der 4 Quadranten, und da be
+
+den einzeln, trigon. Functionen verschieden der Fa
+
+ist. Z. B. für einen Winkel nahe an 90° erhält man
+sehr genau den sinus, nicht aber umgekehrt, eben so
+genau aus einem solchen Sinus den Winkel. Ge»
+nauer wird dieser dagegen aus der Fangente, als diese
+aus dem Winkel erhalten u. s. w. Der oft so sehr
+nützlichen Gaufsischen und Matthiessenschen Ta-
+feln für Logarjthmen von Summen und Differenzen
+erwähnt der Vf. nicht, weil sie deutschen Ursprungs
+sind. ‚
+Das 2te Kapitel betrifft die ebene und ds Ste
+die sogenannte sphärische Trigonometrie. In beiden
+findet man aufser den gewöhnlichen Formeln auch
+einige für besondere F sfle gut entwickelt und durch
+Beyspiele erläutert. Beduemer als die gewöhnliche
+Formel a =J[c? + 6? — 2cb cos A) ist allerdings
+durch Einführung eines Hülfswinkels die $. 29 ge-
+
+gebene -
+= flo Tal
+
+noch bequemer und eleganter aber die bekannte
+
+a = Y[b + c) sin kA? +(b—c)? cos 3 A']
+oder, wenn, wie es bey trigonometrischen Rech-
+nungen oft der Fall ist, schon Iog & und log c gege-
+ben sind; dafs man setze: b—msinM, c=—cos M
+‘und, je vachdem „4 kleiner oder gröfser als 90° ist, 7
+Y 2 sin M cos 1 cos Ad = sinN oder = tang N, wo-
+nach in jenem Falle a = m, cos N in diesem, aber
+a= ‘ist. Die Hülfswinkel braucht man übri-
+
+cos N -
+
+gens nicht felbst, sondern geht |von einer trigono-
+metrischen Function direct zur andern über. Auch
+in 6. 42 hätte sich eine Näherungsformel für kleine
+Winkel 8 und C, wenn .A4 und die Seiten & und c
+
+. ‚ ge-
+
+or
+

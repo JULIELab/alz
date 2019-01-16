@@ -1,0 +1,136 @@
+in
+
+r ’ ; -
+
+ALLGEMEINEN L
+
+MATHEMATIK,
+‚ Lurzıo u, SturroantT, b. Scheible: Lehrbuch der
+Algebra, für höhere Schulen und zum Selbstun-
+
+terricht, von Dr. M, Creizenach, 1833, VIU
+Ya 319 S. 8, (2 Rthir.). ; .
+
+=
+
+‘Der VE, seit einer langen Reihe von Jahren mit
+«dem Unterrichte in den verschiedenen Zweigen der
+-Mathematik vielfneh beschäftigt, glaubt einige nütz-
+liche Erfahrungen sowohl hinsichtlich der Auord-
+‚mung, wie auch der Darstellung des Lehrstoffes ge-
+‚macht zu baben, deren Mittheilung jtingern Lehrern
+-uud Lernenden erspriefslich seyn dürfte. Er macht
+- daher anf kein anderes Verdienst Anspruch, als auf
+;:das der Klarheit und der möglichsten Beräücksichti-
+gnng der Bedürfnisse der Lernenden, Schom in sei-
+-nen frübern Lehrbüchern, namentlich‘ in seiner Ste-
+reometrie hat sich H, C. als einen erfahrenen Lehrer
+und scharfen Denker gezeigt, und diese Meinung von
+ihm wird durch vorstehendes Werk wieder bestätigt,
+‚und durch die Anspruchslosigkeit, die sich überall
+zeigt, noch erhöht. Der Vf. hat manches Neue,
+versichert aber, dafs es nicht hervorgebracht wox-
+den sey, um das Materielle der Algebra zu vermeh-
+-ren, denn diefs thue jetzt wahrlich nicht Noth; son-
+dern um dem Anfänger das Begreifen zu erleichtern,
+‚oder um dem durch Inducetian Erkannten eine feste
+‚. Begründung zu geben, oder um eine verwickelte
+“Operation zu erleichtern, Mit Recht hemerkt er,
+‚da(s die Algebra noch mancher Verrollkommnungen
+dieser Art bedürfe, dafs besonders ein edementarer
+-Beweis des Satzes zu wünselten sey, üafs jede alge-
+-braische Gleichung einen reellen oder einen imaginX-
+ren Werth habe, dafs, so lange ein soleher Beweis
+in den Lehrbilchern vermitst werde‘, die ganze Theo-
+
+-pie der höheren Gleichungen.nur hypothetische Wahr-
+‚beit abe: . Darızn.betrachtet er auch mit Recht die
+
+„Sturmi’sche Methode zur Trennung: der reellen Wer-
++he abs eine ‚wichtige Vervollkommnung dieser Art.
+‚Es sind nur wenige Punkte, in denen wir mit: dem
+Vf. nicht übereinstimmen, und dies ist namentlich
+‘sogleich bei den. @inleitenden Erklärungen der Fall,
+Dear V£& sagt nämlich & 7: ‚durch den Gebrauch
+ger Zeichen und Baekstaben unterscheidet wich die
+-Algehra, Kur: der Kufseren Form nach von der Arith-
+‚etzhik; sie nimmt aber auch in ihrem Lehrgebäude
+ein Elemtut auf, das der Arithmetik ganz fremd ists
+° Brgüns, BI, sur 4. I, Z. 1887. ;
+
+&
+
+7 ERGÄNZUNGSBLÄTTER..
+73 ZUR | VT
+ITERATUR > ZEITUNG
+
+August:
+
+Ba
+
+.‚.£ ® ne
+® a
+
+—
+
+1837.
+
+© '
+l ° +. ° b * ‘ f 7
+
+ 
+
+1es8 sind Zahlen, ‚die kleiner sind:als Null.” Wir
+haben uns mit dieser Vorstellungsweise niemals
+‘befreunden können, und halten auch den Ver-
+ıguch des Vfs,, das Ungereimte dieses 'Ausdrucks
+‚durch das Beispiel der Temperatur über und unter
+:Null} zu entfernen, für einen nur scheinbar gelunge- ;
+‚nen. Solche Zahlen, die kleiner als Null‘gedacht
+‚ygerden, nennt der Vf, negative Zahlen, und fährt
+"dann fort: „„Um anzuzeigen, dafs eine Zahl negativ
+ist, setzt man ihr das Zeichen !— zur Linkel vor a,
+s.‘w. ‘ Die Zeichen + und — sind demnach zugleich
+Operatiönszeicheny indem durch sie Additionen und
+Subtraetionen angedeutet werden, und: qualitative
+‘Zeichen, indem sie angeben, ob die Zahlen gröfßser
+oder kleiner als Null sind. Operationazeichen schei-
+nen sie immer, wenn die Zahlen oder Bachstaben,
+“bei welchen sie steben, in einem’ algebraischen Aus-
+-druek mit anderen Gliedern in Verbindung gebracht
+werden: qualitative Zeichen‘ hingegen, wenn sie al-
+
+‚Jlein stehen, Es wird sich indessen zeigeh, dafs sie
+
+allezeit als qualitative Zeichen gedacht werden kön.
+nen, ”- Wir halten diese Unterscheidung für. unnd-
+thig, und bezweifeln, dafs sie für die Wissenschaft
+förderlich sey, Dann folgen Grundsätze, Buchstä-
+benrechnuhg mit ikreiı Erundbegriffen, ‘Additiog,
+Subtraetien, Multiplieatien und Division algehtal-
+scher Gröfsen, Scharfsinnig erklärt sich hier der
+Vf. über den Fall, we Dividend und Divisor beide
+Polynome sind. Bekanntlich verführt man hier 26,
+dafs man zuerst das höchste Glied inf. Quotienfen
+sucht, indem män das höchste Gliell des Dividendws
+durch das Nöchste Glied des Divisoys -dividirt, "Der
+‚Vf, bemerkt uber richtig,‘ dafs diese’Metkode' nicht
+‚anwendbar scheine, wenn im Divisor ein? Buchstahe
+'z.B. «, nach dessen: abnehnierden Potenzen ‘er -ge-
+ordnet ist, in den zwei ersten Gäiddern dens Iben Ber
+enten babe; z.B) wo 154* 07 das erste Glied des
+ividendus ‚* und 5a? 'b3'— 2a?" 5° die zwei ersteh
+‚Glieder deb Divisore seyen. Richtig-bemerkt er, dafs
+
+es in diesem Falle nöthig sey, die zwei ersten Gil
+-der des Divisors in ein einziges zusaminenzuziehe),
+‚indem man sie als ein Product. zweier Faetorenätg-
+drücke, von welchen der eine die in beiden Gliedkrn
+enthaltene Potenz von a sey, und der andere, den
+man zwischen Parenthesen setze, die Co&fficienten
+‚dieser -Potenz mit ihren Zeichen enthalte, z. B. kier
+
+a? (I6—28°c) Statt. 3a?b3 — Za?b:c, Bine solc
+Zusammenziehung, sagt or ferner, sey nicht minder
+B (4) nöthig,
+

@@ -1,0 +1,131 @@
+31
+
+dären Curve, parallel mit der Abhscissenaxe liegend,
+ansgehn, Hier hat der Vf., um bei diesen Rechnun-
+gen das jedesmalige Nachschlagen der ehnehin nur
+bis 90° gehenden Tafeln der natürlichen Sinus und
+Cosinus zu ersparen, eine Tafel dieser Sinus und Co-
+sinus, in 10000 Theilen des = 1 gesetzten Halbmes-
+sers ausgedrückt, für alle einzelnen Grade des gan-'
+zen Kreises beigegeben , und an einzelnen Beispielen
+den Gebrauch dieser Tafel gezeigt. Aufg, 1l: es
+soll sich die primitive Curve dureh den veränderli-
+chen Winkel im Kreise herum bewegen, und die se-
+' eundäre Curve, mit ihrer Abscisse von dem End-
+punkte der Ordinate der primitiven Curve ausgehend,
+auf derselben stets senkrecht stehen, Der vierte
+Abschnitt enthält eine indirecte Methode, die nume-
+rischen Werthbhe der Abscissen x und Ordinaten y
+einer zu entwerfenden Curve durch einige, der
+Wahrheit sich schnell nähernde, Versuche leicht
+und sicher zu bestimmen, ' Der Vf. bemerkt nämlich
+sehr richtig, dafs, wenn die Auflösung einer Auf-
+gabe zu einer Gleichung für die gesuchte Curve füh-
+re, welche weder vom ersten Grade, noch eine qua-
+dratische ist, oder wenn eine in ihrer Form sehr zu-
+sammengesetzte Gleichung gefunden werde, das Be-
+rechnen der Ordinaten y für die zu entwerfende Cur-
+ve sehr mühsam und zeitraubend ausfalle, Im ersten
+Yalle, wo man für y eine Gleichung vom dritten oder
+vierten Grade gefunden habe, könne bekanntlich die
+numerische Auflösung nur durch Näherungsmetho-
+den bewerkstelligt werden, welche, ungeachtet der
+Leistungen eines Fourier und Cauchy, immer be-
+schwerlich seyen. Aber auch im zweiten Falle, wo
+die für y gefundene Gleichung zwar nur vom ersten
+oder zweiten Grade, also direct auflösbar, aber in
+ibrer Form 80 sehr complicirt sey , dafs die jedesma-
+lige Berechnung ‚des numerischen Werthes jedes
+Hauptgliedes der Gleichung am besten nur durch die
+guccessive Berechnung und Substitution der einzelnen
+Glieder geschehe, aus denen ein jedes der Haupt-
+glieder zusammengesetzt ist, werde die Rechnung
+nicht weniger schwierig und langwierig seyn, Wir
+theilen diese Methode, die allerdings Beachtung ver-
+dient, hier mit, so gut es ohne die angezogenen $$,
+und Formeln möglich ist. Der Vf. sagt nämlich
+$. 15: „, Nachdem man für alle x der gegebenen Cur-
+ven die Werthe von y/ und y“ numerisch bestimmt
+und in Tabellen gebracht hat, nehme man zuerst ei-
+nen beliebigen Werth x, von x an, substituire den-
+selben in die vier ersten der für den gegebenen Fall
+modificirten Gleichungen 2)(pag. 12), und berech-
+
+ps sind nämlich daselbst die Gleichungen x = Gx
++ Hy + Iy'+ K und {= Gr + Hy + Iy + KK
+emeint, und das Zeichen 2*) durch einen Druek-
+ehler ausgelassen), welcher man hier die Form
+7 — (Gr + Hy + Iy'+ K)= 0 (Nr. 29) geben
+an, Gesetzt nun, es machte, was auch meistens
+der Fall seyn wird, die Substitution von x, in die
+eben gegebene Gleichung diese nicht gleich 0, son-
+dern sie gäbe w.: so nehme man einen zweiten belie-
+
+ALLG. LITERATUR - ZEITUNG >
+
+bigen Werth x, von x an, substituire ihn in die vier
+
+$ hierauf die erste der Gleichungen 2*) (pag. 12)
+
+ersten Gleichungen von 2) und berechne higrauft
+abermals die Gleichung Nr, 29. Gesetzt nun, @€&s
+würde auch diese nicht erfüllte, und sie gäbe
+statt o die Gröfßfse w,:- so findet sich dann der ge-
+näherte Werth ‚5, von x durch die Formel x,
+
+= 8 — Wo (27) (Nr. 30), mit dem man
+
+jetzt das ganze Verfahren wiederholen und den Feh-
+er w, dieser dritten Hypothese finden wird, Die
+Betrachtung der drei gefundenen Fehler w,, 10,, w,
+wird nun leicht zeigen, zwischen welchen beiden
+der drei Werthe x, x,, x, der wahre Werth von
+x liegen müsse, und dann kann man zwei neue Hy-
+pothesen machen, die nebst ihren Fehlern, abermals
+nach der Formel Nr. 30 behandelt , die Gröfse x, als
+der Wahrheit x bedeutend genähertes geben werden,
+Auf diese Weise kann man 80 large fortfahren, bis
+man den letzten gefundenen Fehler für unbedeutend
+genug und folglich als verschwindend ansehen kanı
+Gemeiniglich aber kann man die Wiederholung der
+Versuche bereits einstellen, sobald man zwei Wer-
+the von x gefunden hat, die in der ersten oder in den
+zwei ersten Decimalsteilen übereinstimmen. Da die
+Substitution der Werthe von x in die Gleichungen 2)
+öfters eintritt, und mithin das Verwandeln der Deei-
+malstellen von x in die Minuten (und sogar Secun-
+den, wenn nämlich die Rechnungen scharf geführt
+werden sollen ) eben so oft vorkommt, dadurch aber
+beschwerlich wird; so kann man sich einer kleinen
+Tabelle bedienen, in welcher für jeden Dvcimalbruch
+von x dessen in Minuten und Secunden ausgedrück-
+ter Werth sich vorfindet.” KEine solche Tabelle für
+alle Hunderttheile von x hat der Vf. beigefügt. Der
+fünfte Abschnitt handelt von der Entwickelung der
+Ausdrücke für eine besondere Art von Curven, die
+zwar nicht unmittelbar von der Stammfigur erzeugt
+wird, deren Abscissen und Ordivpaten sich aber den-
+noch durch die im ersten Abschnitte gegebene Auß-
+lösung bestimmen lassen, Der sechste Abschnitt
+enthält die Erklärung der auf den Tafeln III bis XIV
+dargestellten Curven oder Figuren rom ersten ,, Zwei-
+ten und dritten , Stamme. Der siebente Abschni®
+giebt die Bestimmung der Curven dritter Ordnuag
+und deren Gleichungen vom dritten Grade, nebst
+der allgemeinen A ung der Grenzen, zwischen
+denen die Wurzeln einer numerisch ausgedrückter
+höheren Gleiehung überhaupt liegen, und der nähe-
+ren Bestimmung jeder dieser Wurzelu. Sehr wohl
+gefallen hat uns dabay, was der Vf, über die allge»
+meine Bestimmung der.beiden Grenzen sagt, zwi
+schen denen alle Wurzeln liegen müssen; wir
+den es mittheilen, wenn der Raum es gestattete,
+Dafür wollen wir aber hier eine von dem Vf, selbst
+erfundene, und sehr. oft mit em Vortheile von
+ihm angewandte Methode mittheilen, alle reeilen
+Wurzeln einer nen Gleichung vom dritten oder
+vierten Grade bald aufzufinden, und ziemlich aschuell
+vu 2. ‚x. &8R-
+
+\
+

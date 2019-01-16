@@ -1,0 +1,139 @@
+377
+
+WS
+
+878
+
+ALLGEMEINE LITERÄTUR-ZEITUNG
+
+ 
+
+’
+
+November 1831.
+
+ 
+
+MATHEMATIK.
+
+Lezmzıo, 'b., Kayser u. Schumann: Lehrbuch der
+reinen Mathematik zum Selbstunterrichte mit-
+telst Anwendung einer neuen Exponentialrech-
+nung, gründlich bearbeitet von F. C. 4. Pröwig,
+Prem. Lieut. v. d. K.Sächs. Armee. Erster Band:
+Zahlenlehre und Algebra. 1895. Zweyter Rand:
+Geometrie und ebene Trigonometrie. 1829. 8,
+(1 Rıhir. 12 Ggr.)
+
+. © - .
+
+‚E: ist schon öfter die Frage zur Sprache gebracht,
+ob es beym Unterricht in der reinen Mathematik
+besser sey, den Anfähger methodisch nach Gründen
+zu unterweisen, oder ihn zunächst mit den ver-
+
+” schiedenen Operationen praktisch vertraut zu ma-
+chen? Streng genommen, bezieht sich diese Frage
+auf den Unterschied zwischen der synthetischen und
+analytischen Darstellung, und es leidet in Gemäfs-
+heit einer gesunden Logik wohl keinen Zweifel, dafs
+die empirische Auffassung eines Gegenstandes seiner
+Erkenntnifs durch Begriffe voran chen müsse. Um
+zu beweisen, dafs in einem jeden Dreyecke die
+Summe der Winkel =2R, mufs man zuvor einen
+Begriff von Linien geben, in so fern sie ein Dreyeck
+bilden können, oder nicht, d. i. parallel laufen, d.h.
+snan mufs die empirische Unabhängigkeit zwischen
+der drehenden und progressiven liewegung, wel-
+che der Lehrsatz ausspricht, durch abstracte An-
+schauung zur Evidenz erheben, Fast die ganze Arith-
+wnetik mit der Analysis gründet sich bekannilich
+auf den Begriff der Näherung; was ist aber die Nä-
+herung anders als das Gesetz der empirischen An-
+schauung, der allmälige Uebergang des einen Zu-
+standes in den andern, die Erschöpfung des Mehr-
+fachen durch das an sich Einfache? Die Zahl x be-
+zeichnet ein Palygon; So ist es mit :allen Rectifica-
+tionen, Quadraturen und Cubaturen:
+Betrachtungen liefse sich der Weg leicht vorschrei-
+
+=> ben, welchen man bey mathematischen Untersu-
+chungen und im Vortrage zu verfolgen hätte; und
+wirklich ist er es auch, welcher in der Geschichte
+der Wissenschaft und der Ausbildung des Einzelnen
+am meisten benutzt worden ist, und selbst noch
+
+; gegenwärtig in seiner rein empirischen Gestalt ganze
+
+elder der angewandten Mechanik, der Hydrosta-
+
+‚tik, Aerometrie u. s. f., und überhaupt der formel-
+Jen Naturlehre durchläuft; aber, das Daseyn rein
+
+- mnalytischer d. s. algebraischer Formen, die Glei-
+chungen, Functionen und eigentlichen, d, s. nur in
+der Andeutung bestehenden Integrale, welche sich
+; «A. L. Z. 18831. Dritter Band.
+
+Nach diesen‘
+
+durch das in ihnen enthaltene Mehrdeutige, Un-
+mögliche, Transcendentale und Inexplicabele, als
+an sich unrealisirbar beurkunden, dabey dem Em-
+pirismus eine bestimmte Richtung geben, und so
+anscheinend, die Probleme a priori lösbar machen,
+steigern das Bedürfnifs der Wissenschaft höher und
+begründen die analytische Methode. So schwierig
+es nun auch ist, die Idee, worauf es hier ankommt,
+systematisch zu behandeln, und so gerathen ges seyn
+möchte, den Lernenden von allem Vagen und Un-
+fafsbaren frey zu halten, so darf sich der Lehrer
+doch nicht gestatten, die beweisende Kraft in die
+erfahrungsmäfsige Bestätigung gewisser Vorschrif-
+ten zu legen, oder gar, Behufs gewisser Zwecke,
+anscheinend willkürliche Forderungen zu machen.
+Woilte Rec, dem Vf. vorliegender Schrift nicht
+zu nahe treten, oder seine Arbeit über die Gebür er-
+heben, so war es unerläfslich diese Einleitung vor=
+auszuschicken; denn wir würden eben so richtig
+urtheilen, indem wir dem Werke alle wissenschaft-
+liche Strenge absprechen, als indem wir die er-
+wählte Methode für die leichteste und zum Fort-
+komınen, geeignetste erklären,‘ welche sich über-
+haupt denken läfst. Statt einer grofsen Zahl abwei»
+chentjer arithmetischer Operationen, welche ein-
+
+zelnen erklärt und bewiesen seyn wollen, giebt der ;
+
+Vf. nur eine, in jedem Falle, mittelst einiger Kunst
+oriffe, anwendbare Regel: die Vorschrift der Dif-
+ferentiation von Potenzen. Auf den 126 voran
+henden Seiten erörtert der Vf. auf- die gewöhnliche
+Weise die einfachen Rechnungsarten bis zu dem Be-
+griff der Function, so dafs jene Regel eigentlich nur
+als ein Mechanismus bey der Bildung von Reihen zu
+betrachten ist. Anlangend die sogenannte Analysis
+finitorum, so ist bekannt, wie dieselbe auf dem
+Grundsatz der Induction beruht und durch Um-
+kehrung- der Grundoperationen, mittelst einer
+Fiction‘ und Identiheirung gewonnen wird, und
+wie man diesem Verfahren, nach der Methode des
+Lagrunge, einen allgeineinen Typos zu geben ver-
+mag, welcher den Mac- Laurin’schen oder Taylor!
+schen Lehrsatz versteckt in sich enthält; mithin die
+Forderung des Differentirens in Anspruch nimmt.
+
+Eben so gut, und vielleicht noch mit mehr Recht, .
+
+könnte man, den Begriff der Function, als, streng
+
+genommen, nicht zum Gebiete der Arithmetik ge-
+
+hörig (weil derselbe jedesmal ein Continuum, mit-
+hin unendlich kleine Iotervallen erfordert), gänzlich
+ühergehend, von den Progressionen, und zwar zu
+nächst den arithmetischen, mit einer endlichen
+Zahl von Differenzen, den Anlauf nehmen, indem
+
+Bbb “ man
+

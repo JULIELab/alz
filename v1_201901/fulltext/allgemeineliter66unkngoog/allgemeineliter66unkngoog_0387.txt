@@ -1,0 +1,146 @@
+Entstehung oder Fortbildung zu Verfolgendes, sei-
+ner quantitativen und qualitativen Beschaffenheit
+nach, anzuschauen und zu erkennen vermögen, —
+Wir wollen nun nachsehen, in wie weit der Vf, die
+Möglichkeit zu einer einstigen Realisirung dieser
+Ansprüche begründet.
+
+as nun zunächst die arithmetische Bedeutung
+des Differenzials betrifft, so scheint es bereits gleic
+anfänglich hervor, dafs sich der Vf. der Lagrange-
+schen Darstellung von derivirten Functionen annähern
+werde, als der einzigen, welche dem Gegenstande
+_ wirklich genügt, und womit auch alle andern Gestal-
+tungen dieser Lehre, dem Wesen nach, coineidi-
+ren; nur dürfen wir nicht aus der Betrachtung las-
+sen, dafs, da hier der allgemeine Begriff des Unend-
+lichen aufhört, um dem speciellen Uebergangs
+von Form in Form (in stets höhern Graden der Mehr-
+fachheit) Platz zu machen, die entstehende (Function)
+und nicht die vorhandene Gröfßse (Zahl) Object ist,
+weil man sonst statt der Form nur eine Congulation
+(irgend ein geordnetes Aggregat) in die Betrachtung
+ziehen würde. — Diese Verschiedenheit, in der
+Größe als solche, und in sofern sie entsteht, hat der
+Vf, offenbar übersehen@da derselbe $.3. einen in der
+Idee unendlich angenäherten Werth (z. B, bei Aus-
+ziehung von Wurzeln irgend eines Grades) von der
+unendlich kleinen Differenz, die er an sich selbst
+für unmöglich erklärt, unterschieden haben will; und
+dann wieder $. 4, von der Differenzial- Rechnung
+behauptet, sie sey „ihrer Natur und ihrem Wesen
+nach die Bestimmung der einfachsten und leichtesten
+Differenzform von ‚irgend einer Fanetion, in welcher
+der Zuwachs oder die Differenz der veränderlichen
+Gröfse (dr) eine wirkliche Null, umd mithin die
+Differenz selbst gleich Null geworden ist,” -— Im
+andern Falle würde der Vf. anbezweifelt erkannt
+haben, dafs er hier eben dan Widerspruch zum Ge-
+
+setz erhebt, den er kurz zuvor bekämpfte; denn,
+
+wenn die Differenz wirklich =0, so findet wohl
+eben so wenig eine einfache, wie eine mehrfache
+_ Differenzform Statt (da Null an und für sich wohl
+ewig ungestaltet bleiben dürfte), so wenig wie die
+Irrational- Gröfse würde irrational bleiben können;
+wenn einmal die unendlich kleine Gröfse als Quan-
+tum feststände,
+
+Dieser Widerspruch erschwert das durch $. 5,
+bezeichnete Bestreben des Vfs, eine Regel zur Ge-
+
+staltung , des niedrigsten Gliedes in den Inkremen-
+ten-Reihen gegebener Functionen festzustellen, oder
+vielmehr, er nöthigt den Vf, zu einem neuen Wider-
+‚spruch zu schreiten, um dadurch die Rückwirkung
+
+es ersten aufzuheben, Ks bebauptet nämlich der-
+selbe, dx als Null könne, als Bestandtheil, die wirk-
+_ liche Größe a nicht verändern: a + dx =—=0; „ferner
+
+ist auch hieraus klar, dafs in jeder Diflerenzfunetion,
+in welcher aufser 4x, auch nuch 4x’, 4x3, ... VOr-
+kommen, alle Glieder, welche damit sind multipli-
+
+_ eirt worden, gänzlich wegfallen, wenn Ar gleich
+Null oder dr geworden, oder die einfachste Diffe-
+
+renzform entwickelt ist,” MDiels ist nun aber kei«
+
+\
+
+ERGÄNZUNGSBLÄTTER ZUR A,L, Z,
+
+. Statt finden,
+
+708
+nesweges hieraus klar; hingegen sellte man meinen;
+da, wo eine Reihe von Nullen steht, wäre die eine
+so gut wie die andere; :es muf[s also der Vf. noch die
+Absicht aussprechen, das erste und niedrigste Glied’
+(oder ‚vielmehr seinen Coeffeienten) gewinnen zu
+wollen; ist diese Absicht aber einmal ausgespro-
+chen (der Zweck findet sich wohl später), so kommt
+es nur noch anf die Mittel zu dessen Erreichung an
+ganz unnöthig wird es jedenfalls dann aber, Ay und
+4x gleich Null zu setzen, und zwar nicht allem un-
+nöthig, sondern selbst in vielen Fällen zweckwidrig,
+(Man sehe: Lagrange’s theerie des fonctions analyti-
+ques, Nr. 33 — 41,). -
+
+Es ist nun fast unerklärlich, wie der V£, diese
+Zweckwidrigkeit in der Bestimmung des ersten Dif-
+ferenzial- Coefficienten gar nicht erkennt, und sie
+vielmehr, um uns eines beliebt gewordenen Wortes
+zu bedienen, $. 18 manifestirt, indem derselbe dort
+ausdrücklich, % a 3 d. h, nach richtiger Lese
+weise, unbestimmt setzt; dergleichen Unbestimm£-
+heiten des ersten Coefficienten in der Inkrementen -
+Reihe finden aber bekanntlich nur dann Statt, wenn
+sich die Function reducirt, wenn also z. B. für einen
+gewissen Werth des ursprünglich Veränderlichen
+‚Wurzeln in ihr verschwinden, oder wenn von partieu-
+Jären Punkten einer Curve die Rede ist, u. dgl. m. —
+Nach dem Vf, müfste aber gerade hier: ein erster
+Differenzial - Coefficient von der gewohnten Form
+L Nun, es wird sich später ergeben,
+wie der Vf. diesen selbstgeschürzten Knoten löset;3
+vorausgesetzt, dafs er ihn nicht zur Seite schiebt, —
+So leicht dürfte aber die Lösung in keinem ‚Falle zu
+Stande kommen, wie der Vf. in der Anmerkung zu
+$, 19; den Begriff des Unendlichkleinen über den
+
+aufen wirft: „... es müfeste folglich die beständi
+Zahl 6 mit der unendlich kleinen Größe dx multipd-
+eirt ein Product geben, welches einer unendlich klei-
+nen Gröfse dy gleich seyn milfste, offenbar etwas
+Ungereimtes,” So ganz ungereimt wäre es nun wohl
+eben nicht, wenn Jemand z. B. so dächte: Das Ele-
+ment, oder das unendlich- kleine Wachsthum eines
+Rechtecks nach seiner Breite ist die Länge 6 multi-
+
+lieirt mit dem Elemente oder dem unendlich -kleinen :
+
+achsthum der Breite x, also mit dr, d. h. das
+
+suchte Element, des Rechtecks ist hier ein Unendlich-
+kleines ähnlicher Art, ' -
+
+Den Taylor’schen Satz trägt der Vf. recht leicht
+vor; erst wird nämlich $, 20, 4y = A.4x + B. 4x
+
++ C, 4x3 +... gesetzt, woraus N = A, früherer
+
+Bestimmung gemäfs, für den Fall folgt, dals man
+Ay und 4x = 0 setzt; dann stellt der Vf, A’y=F. 4x
++ GG. 4x5 + H.4x* +...) gewinnt hieraus auf glei-
+
+che Weise zz = F, und giebt endlich ohne Weite-
+
+res $. 21. die Regel: „Dals die zweite Differen-
+zialfanction gefunden wird, wenn man die erste
+
+Differenzialfunction von neuem differenziärt, die
+; dritte
+

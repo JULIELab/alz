@@ -1,0 +1,137 @@
+ihren ‚Richtungen eingefchloffenen Winkel halbirt.
+Zweyter Abfchnitt. Zufammenfetzung und Zerlegung
+der gekoppelten Kräfte, S. 49—87. Unter gekop-
+
+lten Kräften (Forces couplees) verfieht der Vf. die
+
+erbindung zweyer gleichen, paralleler und entge-
+‘gengefetzter Kräfte, die aber nicht an demfelben
+Bun te angebracht find. Die zwifchen den Richtun-
+
+en diefler Kräfte gezogene gemeinfchaftliche Senk-
+rechte heifst der Hebelarm der geko pelten Kräfre,
+und das Product der. einen diefer Kräfte mit dem He-
+belarm heifst das Moment derfelben. Rec,glaubt auf
+dielen Abfchnitt, in welchem der Vf. einen Gegen-
+
+fiand behandelt, welchen man bisher gewöhnlich nur ‘
+
+als einen fpeciellen Fall betrachtete, um fo mehr auf-
+merk(am machen zu müffen , da fich mit Häülfe diefer.
+Betrachtungen viele Sätze der Mechanik mit grofser
+Ninfachheit erweifen laffen. Der Vf. geht bey diefer
+"Unterfuchung von folgendem Satze aus: Ein beliebi-
+ges Paar gekoppelter Kräfte kann in feiner Ebene an
+irgend einen beliebigen Ort, oder auch in jede andere
+arallele Ebene hingebracht, und in diefer Ebene be-
+Jiebi gedreht werden , ohne dafs feine Wirkung auf
+den Körper, an dem es angebracht if, fich ändert,
+wofern nur der neue. Hebelarm deffelben an dem er-
+fiern auf eine unveränderliche Art befefigt ifi, ‘ Die
+Energie eines folchen Paares gekoppelter Kräfte wird
+durch fein Moment gemeffen. Der Vf. betrachtet fo-
+dann die Zufammenfletzung gekoppelter Kräfte, und
+leitet hieraus die Zufammenfetzung der Kräfte her,
+welche in dem Raume beliebig gerichtet find, wo er
+den allgemeinen Satz erhält, dafs beliebig viele Kräfte,
+‘welche auf eine willkürliche Art an einem Körper
+angebracht find, immer in eine einzige Kraft und in
+ein einziges Paar gekoppelter Kräfte zufammengezo-.
+en werden können, welche im Allgemeinen in ver-
+chiedenen Ebenen liegen. Soll hier ein Gleichge-
+wicht flattfinden, fo mülfen diefe Mittelkraft und das
+Moment des Paares gekoppelter Kräfte zu gleicher
+Zeit gleich Null feyn. — Zweytes Kapitel. Von den
+Bedingungen des Gleichgewichts, S.88—172. Die
+Unterabtheilungen diefes Kapitels handeln vom
+Gleichgewichte paralleler Kräfte, welche in derfel-
+ben Ebene liegen; vom Gleichgewichte. paralleler
+Kräfte, welche auf verfchiedene Punkte eines Kör-
+ers im Raume wirken; vom Gleichgewichte von
+räften, welche in derfelben Ebene nach beliebigen
+Richtungen wirken; vom Gleichgewichte willkür-
+lich vieler Kräfte, ‚die auf eine beliebige Weife im
+Raume gerichtet find ; von den Bedingungen des
+Gleichgewichts, wenn der Körper, auf welchen die
+Kräfte wirken, nicht ganz frey in dem Raume ill,
+fondern durch Hindernilfe gehemmt wird. Um die-
+fen letztern Fall allgemein zu unterfuchen betrachtet
+der Vf. einzeln das Gleichgewicht eines Körpers, der
+Gch nur um einen Punkt nach allen möglichen Rich-
+tungen und um eine durch zwey felfle Punkte gege-
+beae Linie drehen kann; endlich das eines Körpers,
+
+* ERGÄNZUNGSBLÄTTER Num, 88. JULIUS 1829,
+
+folgt S. 330 — 881 eine vom Vf. im May
+
+der fich gegen eine fefle Ebene Nützt, Da die Reful-
+tate, zu welchen der Vf. hier gelangen mufs, hio-
+reichend bekannt find, fo übergehen wir diefelben;
+die Deductionen werden indeffen durch die Einfäh-
+rung der gekoppelten‘ Kräfte häufig vereinfacht. —
+Drittes Kapitel. Vom Schwerpunkte, S. 173 — 217.
+
+Mit grofser Deutlichkeit find hier die vorläufigen Be-
+
+griffe abgehandelt; der Vf. fucht dann die Schwes-
+punkte einiger Körper ohne Anwendung der höheres
+Analyfıs auf. Indem der Vf. von dem Satze ausgeht,
+dafs „der Schwerpunkt aller Figuren, ia welchen
+fch ein Punkt befindet, durch welchen eine beliebige
+Ebene gelegt werden kann, die in jeder beliebi
+Lage die Figur in zwey vollkommen fymuetrilche
+Stücke theilt, in dielem Punkte liegt” giebt er alı
+Folgerungen aus diefem Satze die Lage des Schwer-
+punkts in einer geraden Linie, in einem Pirallelo-
+gramm und in einem Parallelepipedum. Um die
+chwerpunkte voh Polygonen zu finden, geht der
+Vf., wie gewöhnlich, vom Schwerpunkte des Drey-
+eckes aus, '— Viertes Kapitel. Von den Mafchinenr,
+S.218 — 8329. Der Vf. nimmt Hebel, Welle und (chiefe
+Ebene alseinfache-Ma{chinen an; er wählt diefe Ord-
+nung deshalb, weil bey der erfien ein Punkt, bey der
+zweyten eine gerade linie und bey der dritten eine
+Ebene das Hindernifs der Bewegung if. Sehr ein-
+fach werden die Beweife der Lehrlätze Hurch Be-
+trachtung der gekoppelten Kräfte geführt. Der Vf.
+betrachtet fodann einige zufammengefetzte Mafchinen,
+und handelt hierauf von einer neuen in Frankreich
+häufiger angewendeten Mafchine, welche man das
+Knie \genox) nennt. Diefe Mafchine, deren man fich
+eben io wie der Schraube bedienen kann, um mis
+Hülfe einer mäfsigen Kraft einen fehr beträchtlichen
+Druck auszuüben, beiieht aus zwey Stäben, deren
+Endpunkte durch ein Charnier verbunden find; das
+zweyte Ende des erfien Stabes ifi mit einem dritten
+feliltehenden ebenfalls vermittelß eines Charniers ver-
+bunden, fo dafs fich jener als ein.Hebel verhält, auf
+weichen die Kraft wirkt. Das Ende des zweyten
+Stabes befindet lich in einer Fuge des erfen, in wel-
+cher es auf- und abgleiten kann. Die fehr einfachen
+Ausdrücke für diefe Malchine werden aus den Ge-
+fetzen-für Hebel und fchiefe Ebene hergeleitet. Wir
+verweifen indeffen wegen diefer Deductäonen, fo wie
+wegen der fehr guten Erklärung des Vorganges bey
+Roberval’s Wage auf die Schrift felbit. — Bier
+
+ertien Klaffe des Nationalinflituts vorgelefene Abhand-
+Änng über die Zufammenfetzung der Momente und der
+Flächenräume. Wir empfehlen diefen Auffatz denes,
+welche einen kurzen Ueberblick über das Syfiem des
+Vfs. und namentlich über feine Anwendung der ge-
+koppelten Kräfte aben wollen. — Den Schluß
+macht eine Anmerkung über die doppelte
+
+der Erde und der Himmelskörper; PP Bewegung
+
+“S
+
+ 
+
+ 
+
+1804 in det
+
+ 
+

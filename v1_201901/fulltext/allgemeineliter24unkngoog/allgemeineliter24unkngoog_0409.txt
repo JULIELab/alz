@@ -1,0 +1,140 @@
+808 ERGÄNZUNGSBLÄTTER ZUR A.L.Z
+
+Winkel am Pole bestimmt wird, dessen Schenkel
+die auf die Schenkel des sphärischen gefällten Per-
+endikel sind. Die hier entwickelten Sätze lassen
+sich alle wohl noch leichter, als es in der Schrift
+geschehen ist, finden, wenn man bedenkt, dafs
+as Maafs jenes sphärischen Polarwinkels der ebene
+Winkel am Mittelpunkte des Grundkreises ist, des-
+sen Schenkel die auf die betreffenden Seiten des
+ebenen Dreyecks gefällten Perpendikel sind. —
+. Dorch die erwähnten vom Pol gefällten Perpendikel
+wird das sphärische Dreyeck in resp. vier oder sechs
+rechtwinklige Poldreyecke zerfällt, deren Inhalt bey
+den Dreyecken der ersten und zweyten Klasse posi-
+tiv ist; bey den Dreyecken der dritten Klasse hin-
+gegen haben 4 einen positiven, die beiden andern
+einen negativen Inhalt, jedoch so, dafs die alge-
+braische Summe der 6 Poldreyecke dem Inhalt des
+sphärischen gleich ist. Indem nun der Vf. aus den
+Flementen den Satz voraussetzt, dafs der sphärische
+Excels, also die Summe der drey Excedentepn, sich zur
+Peripherie verhalte, wie die Fläche des Dreyecks
+zur Halbkugelfläche, leitet er aus den früher für die
+Excedenten aufgestellten allgemeinen Gleichungen
+den Antheil ab, den jeder einzelne Excedent an
+dem Werthe dieser Summe nimmt, und bestimmt
+hienach den geometrischen Werth des Excedenten
+jedes einzelnen sphärischen Winkels durch den in-
+teressanten Satz, der zugleich eines der hauptsäch-
+sten Resultate der Abhandlung ist, dafs der Exce-
+dent eines sphärischen Winkels sich zur Peripherie
+verhalte, wie der Flächeninhalt der beiden Pol-
+dreyecke, deren eine Ecke in den Scheitel des Win-
+keis fällt, zur Halbkugel. Aufserdem wird’ hier—
+nach gezeigt, in welchem Zusammenhange mit den
+bisherigen Untersuchungen die Winkel stehen,
+welche man erhält, wenn man die sechs an die
+Scheitelpunkte des sphärischen Dreyecks zu zie-
+henden Tangenten auf die Ebene des Sehnendrey-
+ecks projicirt. Jede Sehne bildet dann an ihren
+Endpunkten mit diesen projicirten Tangenten zwey
+vleiche - Entwurfwinkel”, deren trigonometrische
+“unctionen hier bestimmt werden. — Bis dahin
+hatte der Vf., wie man sieht, nur die Eigenschaften
+der Excedenten selbst entwickelt, und von dem
+oben angegebenen Grundgedanken nur in Sofern
+Gebrauch gemacht, als nötbig war, um jene Eigen-
+schaften zu finden. Einen wichtigern macht er da-
+von ip der zweyten Abtheilung, wo er vorzüglich
+. & Gattungen von Dreyecken in dieser Beziehung
+untersucht, diejenigen nämlich, die auf Kugelseg-
+menten liegen, in denen der Durchmesser der Grund-
+fläche gegen den der Kugel verhältnifsmäfsig sehr
+klein ist, welche Dreyecke er „geodetische” (geodä
+tische) nennt, — unter geodätischen Dreyecken auf
+der Oberfläche des Sphäroids versteht man bekannt-
+lich etwas ganz Anderes — und die*sogenannten
+spitz - und stumpfwinkligen Regeldreyecke, d. i.die
+reyecke, welche entweder sechs gleiche und positive
+Poldreyecke und drey gleiche Excedenten ‘haben,
+oder die Dreyecke der dritten Klasse, deren drey
+
+/
+
+Scheitelpunkte mit dem Pole zwey gleichseitige
+VDreyecke bilden. Zwischen den geodätischen Drey-
+ecken,des Zweyten Falls, in denen zum gröfsern
+Winkel der gröfsere Excedent gehört, und an der
+andern Gränze den Halbkugeldreyecken, wo der
+zu einem Sehnenwinkel gehörende Excedent sein
+Supplement zu 2 rechten Winkeln, also der zum
+gröfsern Winkel gehörende Excedent kleiner ist, als
+der zum kleinern Winkel gehörende, liegen num
+unzählige Dreyecke mitten inne, oder wenn man
+durch fortwährende Veränderung des Kugelhalb—
+messers ein und dasselbe Kugelsegment von einem
+Halbkugelsegment bis zu einem geodätischen zusam -
+menschrumpfen läfst: zwischen dem kleinsten Wer
+the des Kugelhalbmessers, wo der zu einem grö-
+fisern Winkel des Sehnendreyecks gehörende Ex-
+cedent kleiner ist, als der zu einem kleinern gehö-
+rende, und demjenigen Werthe des Halbmessers,
+wo man anfangen kann, das Dreyeck als ein geodä-—
+tisches zu betrachten, und wo zum gröfsern Win-—
+kel auch der gröfsere Excedent gehört, giebt es
+nothwendig eines, wo der Uebergang vom Klei-
+ner- zum Gröfserwerden Statt findet, und hieraus
+folgt der sehr interessante Satz: dafs es für zwey
+ungleiche Winkel eines spitzwinkligen Sehnendrey—
+ecks unter den unendlich vielen von ibm abstam-
+menden ein Sphärisches giebt, in welchem die bei-
+den Excedenten gleich sind. Hier war nun, wie es
+
+ans scheint, der Punkt, auf welchem der Vf. hätte
+fortbauen und alle seine Kräfte anstrengen müssen;
+um das Verhältnifs der andern Lagen zu dieser zu
+bestimmen; das hat er aber nicht gethan. Wel-
+ches ist denn nun der Werth des Kugelhalbmessers,
+‘für den dieser Üebergangspunkt Statt 6ndet? steht
+er etwa in einfachen Beziehungen zu den Seiten des
+Sehnendreyecks? in welchem Verhältnifs nehmen
+
+die Excedenten zu gder:ab, wenn die Kugelhalb-
+
+messer gröfser oder kleiner als jene bestimmt wer-
+
+den? Die drey Uebergangsdreyecke, die hienach zu
+jedem ungleichseitigen spitzwinkligen Sehnendrey-
+ecke gehören und deren jedes zwey gleiche Kxceden-
+ten hat, stehen sie nicht, wie doch sehr wahrschein-
+
+lich ist, in bestimmten, und vielleieht sehr einfachen
+
+Beziehungen zu einander, und ist diefs nicht auch
+
+der Fall mit jenen Excedenten selbst in Beziehung auf
+die Winkel des Sehnendreyecks? Diese und noch
+
+viele ähnliche Fragen, über welche man wohl Aus- _
+
+kunft haben möchte, werden aber weder beantwor-
+tet, noch überhaupt angeregt, so dafs der gröfste
+Vorwurf, den man dem Vf. dieser sonst recht inter—
+essanten Schrift machen kann, der ist, dafs er sei-
+nen guten Gedanken nicht gehörig benutzte und
+nicht genug verfolgte. Das einzige erhebliche Re-
+sultat, welches er daraus zieht, ist der auch leicht
+auf trigonometrischem Wege zu beweisende Satz,
+dafs in einem sphärischen gleichschenkligen Drey-
+ecke, dessen dritter Winkel dem doppelten zu ihm
+gehörigen SehnenwinKel gleich ist, alle drey Exce-
+denten gleich sind, und die Summe der zwey glei-
+
+‘chen sphärischen Winkel und ihrer Sehnenwinkel
+
+ZzZu-
+
+a m ee
+

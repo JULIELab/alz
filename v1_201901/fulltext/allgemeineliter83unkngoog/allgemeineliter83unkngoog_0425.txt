@@ -1,0 +1,131 @@
+833
+
+tens, wo der Fufs bei beiden Mafßfsen gleichgesetzt
+wird. Zu $.9, wo der Lehrsatz aufgestellt wird,
+dafs das Flächenverhältnifs von zwei beliebigen Par-
+allelogrammen und von zwei beliebigen Dreiecken
+zusammengesetzt sey aus den Verhältnissen der
+Grundlinien und Höhen, wäre wohl noch eiuves spe-
+‚ ciellen Falles zu erwähnen gewesen, in welchem
+man auch bei schiefwinkeligen Parallelograınmen
+und Dreiecken das Construiren der Höhe erspart,
+des Falles.nämlich, wo die Parallelogramme oder
+
+Dreiecke einen gleichen Winkel haben; da sie sich '
+
+bekanntlich in diesem Falle zu einander verhalten,
+wie die Producte aus den den gleichen Winkel ein-
+schliefsenden Seiten. Bei $. 13, wo die Aufgabe
+gestellt wird, eiu Paralleltrapez auszumessen, hätte
+noch erwähnt werden können, wie man das arithme-
+tische Mittel aus den beiden parallelen Seiten durch
+
+. eine sehr einfache Construction geometrisch darstel-
+Jen könne. Abschn, 14; Einiges aus der Kreismes-
+gung. Hier wäre wohl, obgleich das, was der Vf,
+gegeben hat, recht gut ist, noch etwas mehr zu wün-
+schen gewesen. Aufser der Ludolph’schen Zahl
+
+. nämlich war noch eine andere zu bemerken , welche
+in der Praxis fast von gleicher Wichtigkeit ist, wir
+meinen den Ausdruck des Bogens, welcher an Länge
+dem Halbmesser gleich ist, in Secunden. Aufgaben,
+wobei diese Zahl gebraucht wird , kommen ja häufig
+vor, z, B. den Inhalt eines Kreissectors oder Kreis-
+segments zu berechnen, Abschn, 15: Das Nothwen-
+digste aus der praktischen Elementargeometrie, näm-
+lich Vermessungen auf dem Felde ohne und mit
+künstlichen Mefsinstrumenten, und das Höhenmes-
+sen, Ein Anhang enthält noch eine kurze Anleitung
+zur Ausziehung der Quadratwurzel, wobei der Vf.
+die van Swinden’schen Elemente benutzte, — Druck
+und Papier sind gut; der Druckfehler sind zwar sehr
+viele, doch sind die meisten angezeigt,
+
++
+
+SturroAarTt, b. Balz: Anleitung zu stöchiometri-
+schen Rechnungen, besonders Tür angehende Che-
+miker und Pharmazeuten. Nebst einem Anhange
+enthaltend Tabellen und Beispiele aus der prak-
+tischen Chemie. Von Dr. H. Glafser, Profes-
+sor der Mathematik am Gymnasium zu Erlangen,
+VII u 133 8, Sr. 8, (1 Rthir,)
+
+Die Absicht des Vfs. hei Abfassung des vorlie-
+enden Buches war folgende: ‚,es sollen, damit die
+Stöchiometrie solchen Leuten zugänglich werde, wel-
+che, sey es durch Mangel an Gelegenheit, was mei-
+stens bei den Pharmacie - Studirenden der Fall ist,
+sey es durch eigene Schuld, die nöthigen Vorkennt-
+nisse nicht haben, die zu stöchiometrischen Rech-
+nungen nothwendigen mathematischen Sätze deut-
+lich erklärt werden, und davon soll das Verfahren
+angegeben werden, wie diese Sätze auf stöchiometri-
+‚sche Gesetze anzuwenden sind,” Hr, GI, liefs des-
+
+ERGÄNZUNGSBLÄTTER ZUR A.L.Z:
+
+halb auf die mathematischen Sätze sogleich ihre An-
+wendung folgen, Was die Angaben der stöchiome-
+trischen Zahlen betrifft, so nahm der Vf, bei den
+Beispielen dieselben aus Berzelius, sowie sie sich in
+Meifsner’s neuester Atomenlehre von 1834 finden.
+Aus dem fünften Bande von Berzelius Chemie nahın
+derselbe die im Anhange befindliche Tabelle der ein-
+fachen Stoffe, und benutzte bei der Bearbeitung
+selbst vorzüglich, aufser dem schon erwähnten Werke
+von Meifsner, die dahin einschlagenden Werke von
+Bischoff , Buff, Mensing, Meinecke, Kastner, Osana
+u, A. Um nım zuerst ein allgemeines Urtheil über
+vorliegendes Buch zu fällen, so glaubt Reo., dals es
+zwar nicht ohne Nutzen gebraucht werden kös-
+ne, dafs jedoch der Vf. nicht recht mit sich selbst
+einig gewesen sey, was er eigentlich geben wollte,
+Der mathematische. Theil steht dem chemischen weit
+nach, und hier scheint der Vf, oft unzewifs gewesen
+zu seyn, wie weit er in der Begründung der mathe-
+matischen Lehren zu gehen habe. So ist es den ge-
+kommen, dals der Vortrag der frühereu Lehren weit
+weniger streng mathematisch ist, als der späteren.
+
+$. L— 11 enthält unter andern die Lehre von den
+
+riichen, ohne alle weitere Begründung. So heilst
+es $. 10: „sollen Brüche mit einander dividirt wer
+den, so kehre man den Divisor um und multiplicire,
+Kommen ganze Zahlen vor den Brüchen vor, 80 müs-
+sen sie zuerst in Bruchform verwandelt werden,
+Kommt eine ganze Zahl allein als Divisor oder Di-
+vidend vor, so gebe man ihr 1 zum Nenner, und bat
+dadurch dieselbe in Bruchform dargestellt, und kann
+
+eich der gegebenen Regel bedienen.” Also —:4=
+
+. 8
+ZT = 5 = AM Wer möchte 80 dividiren!
+Ebenso unmathematisch ist $, 13 von den Deecimal-
+brüchen. Man sieht, der Vf, hat sich Mühe gegebes,
+sich zu den Begriffen eines schlecht unterrichtete
+Pharmaceuten herabzulassen, was wir jedoch eben
+nicht für verdienstlich halten. Die Lehre von der
+Aufsuchung des gröfsten gemeinschaftlichen Malses
+für zwei Zahlen (für Zähler und Nenner eines Bru-
+ches) erwartet man billig bei der Lehre von den ge-
+meinen Brüchen zu finden, wohin sie gehört, Hier
+aber sucht man sie vergebens, man findet sie vieb
+mehr mitten zwischen der Anweisung , Decimalbrü-
+che in gemeine Brüche zu verwandeln; vermuthlich,
+weil der Vf, erst hier bemerkte, dafs er sie nicht
+entbehren konnte. Die Verwandlung eines periodi-
+schen Decimalbruches, vor dessen Periode noch al-
+dere Ziffern vorhergehen, ist höchst flüchtig behan-
+delt, und  entbehrt aller genaueren Begründung.
+Auch ist dieser Fall von dem einfacheren nicht gehö-
+rig geschieden, In $.39 wird gelehrt, zu drei gege-
+benen Gliedern einer Proportion das vierte zu finden,
+und dann heifst es $, 41: „unter den vielen Anwen-
+dungen, die $, 39 bat, sollen hier folgende ihrer
+Platz finden: wenn man weifs, in welchem Verhält-
+nisse des Gewichts oder des Raumes sich zwei eim-
+

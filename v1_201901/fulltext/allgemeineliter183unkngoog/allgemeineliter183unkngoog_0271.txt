@@ -1,0 +1,139 @@
+’
+
+808
+Sätze; zu tadeln ift indeflen, deis die Beweife der--
+felben in einem fo ausführlichen Lehrbuche nicht
+gegeben werden, da der fch felbit Unterrichtende
+jefelben wohl fchwerlich aufünden möchte.
+
+„Sechster Abfchnitt. Von deu Aufgaben, die
+feh unmittelbar durch Addition, Subtraction, Mul-
+tiplication und DiviGon auflöfen laffen. Erfter Theil.
+Von der Auflöfung der auf blofse Addition, Subtra-
+ction, Multiplication und Divifion fieh beziehenden
+Gleichungen des erften Grades. Erlte Abtheilung.
+Von der Auflöfung der Gleichungen erften Grades
+mit einer einzelnen unbekannten Gröfse. Zweyte
+Abtheilung. Von Auflöfung der Gleichungen erfien
+Grades mit mehreren unbekanten Gröfsen, wenn
+eben fo viele Gleichungen als unbekannte Gröfsen
+vorhanden find. 11. Wenn mehr oder weniger Glei-
+chungen des erften Grades als unbekannte Gröfsen
+vorhanden ünd. 1) Wenn mehr Gleichungen als
+unbekahnte Gröfsen gegeben, 2) wenn weniger
+Gleichungen als unbekannte Gröfsen vorhanden find.
+Zweyter Theil. Von dem Ausdrucke der auf Addi-
+tion; Subtraction, Multiplication und Divifon Lich
+beziehenden Aufgaben durch Zeichen und Gleichun-
+gen,” Im Ganzen ift diefer Abfchnitt recht gut und
+ausführlich abgehandelt.
+
+In 6. 175. giebt Hr. Creile eine Erklärung von
+den Gleichungen. Die Erklärung ift allgemein, be-
+greift alfo fowohl die analytifchen Gleichungen, als
+auch die algebraifchen. Indeffen werden die wefent-
+lichen Unterfcheidungsmerkmale zwifchen algebrai-
+fchen und analytifchen Gleichungen nicht hinrei-
+chend hervorgehoben, da bekannte und unbekannte
+Gröfsen beiden Klaffen von Gleichungen gemein find.
+6. 177. verbreitet Gch über die Auflöfung der Glei-
+chungen mit einer unbekannten Gröfse, und $. 178.
+zeigt, dafs fich Gröfsen, die einander nicht gleich
+find, auf eine ähnliche Art, durch Addition u. {. w.
+verwandeln laffen, z.B. wenn a >6b6, dafs (a + 6) >
+(Dr c) u. f. w. Ueber die Beftimmung der Grenzen
+
+er Gröfsen bey mehreren Ungleichheiten hätte noch
+mehr gefagt. werden können. — In $. 179. zeigt der
+Vf., dafs fo viele Gleichungen gegeben feyn müflen,
+
+. als fich in denfelben unbekannte Gröfsen befinden,
+
+wenn ihre vollftändige Auflöfung möglich feyn foll;
+er zeigt aber nicht, dafs diele Gleichungen unab-
+hängig von einander feyn müffen, alfo keine derfel-
+ben eine Folge aus einer oder mehreren der übrigen
+feyn darf. — Mit Recht nennt Hr. C. in $. 182. das
+Eliminations- Verfahren durch Subftitution im All-
+gemeinen zu weitlänfig; er hätte an diefer Stelle aber
+auch zeigen follen, dafs es Fälle gebe, in welchen
+daffelbe {ehr yortheilhaft fey, z. B. bey numerifchen
+Gleichungen, befonders, wenn bey diefen der
+Werth von einer der unbekannten Gröfsen {chon
+gefunden ift. — X. 188. lehrt, wie der Nenner des
+
+‚ A.L.Z. Nam 6. MÄRZ 1828.
+
+   
+   
+  
+    
+ 
+
+Werths von einer unhekannten Gröfse aus
+Gleichungen durch mechanifches Z
+(Permutiren) der Coefficienten der
+Gröfsen gefunden werde. Hierbey bemerkt
+1) dafs es wünfchenswerth gewefen wäre, dk
+Vf. zu gleicher Zeit die Uebereinftimmu
+gewiefen hätte, welche zwilchen dem Zähler
+em Nenner jenes Werthes Statt £ndet; 2)d6ü
+dem vorliegenden Werke ein Abfchnitt &r&
+Anfangsgründe der Combinations-Lehre miff
+wird. — In 6. 184. lehrt der Vf. das is
+fche Eliminations - Verfahren, welches &@Mb
+viel Aufmerkfamkeit verdient, weil gurch &-
+felbe aus m Gleichungen mit 7 unbekannten Gw-
+fsen zn — 1 unbekannte Gröfsen auf eiomal elimiein
+werden. — Der zweyte Theil enthält, wie {cbha|
+angezeigt ift, Aufgaben für die Anwesduag der GJes-
+chungen des erften Grades mit shren dußäknpem. —
+In $. 196. in diefem Theile bringt der V£ die Sztze
+von den geometrifchen Pr jonen SCHE,
+bey, weil, wie er zu Ende-des (int, ße Pro—
+portionen der Multiplication und Diniem exipre-
+chen, und fich daher in den Lehrbüchern eben fo
+überfüffg finden ; wie die arithmetifchen Proportig- |
+nen, welche der Addition und Subtraction en
+chen. Wenn man diefen Grund dem Vf.
+liefse, wie vieles andere, und namentlich auch ia
+feinem Werke, würde fch alsdann in a
+tilchen Lehrbüchern überflüfGg finden!
+hat Rec. feine Gründe, hier nicht mit demVf. üker-
+einzuftimmen. ,
+„Siebenter Abfchnitt. Von den N3
+und unbeftimmten Co&fhcienten.” Nachdem
+Vf. die in diefen Abfchnitt gehörenden Erklirse
+gen gegeben, verbreitet er fch über die beide
+eihen:
+
+1) P=a+Bßa+ ya? + daı+....
+EDEN
+e rläuternng derfelben ählten h
+Gnd fehr zweckmäfs . Bew
+
+Der achte Abfchnitt handelt über die Poteltiten
+und Logarithmen, und zwar 1) über die Entftehnag
+der Poteltäten und Logarithmen; 2) giebt er al-
+
+emeine Bemerkungen und Folgerunges för Pote-
+täten - Ausdrücke; 8) verbreitet er fidh
+Entwickelung der Poteftäten - Ausdrücke (über den
+binomifchen Lehrfatz); 4) über die Entwi
+
+der Logarithmen - Ausdrücke; o über die Ent-
+wickelung der Exponential - Gröfsen; 6) über da
+Ausziehen der Wurzeln; 7) über den Gebrauch äß
+Logarithmen. Diefer Abfchnitt ift mit vielem Bel
+bearbeitet, und er Zeichnet fch durch Ausführlich
+keit und Klarheit aus. Das aber, was Rec. bg
+
+demfelben zu bemerken gefunden, bringt er.hief
+ey
+
+  
+
+(Der Befchlufs folgt.)
+
+ 
+

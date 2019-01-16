@@ -1,0 +1,122 @@
+‚Der orste Ist hejaht, derzwaite vermeint, Durch Se“
+tzung des led die Proportion (Q) erhält man.;
+a: y(d’+30)— ja = (a4 }a")—3a:a—
+DO IV A 0) Gas
+und durch Setzung des zweiten: .... .. „G
+a:— Y(@+xa°)— 30 u V (0° + 310°) — 10:84
+Sa V(@? +30) +10
+Beide Proportionen sind richtig, woron man sich
+leicht überzeugt, wenn man bei jeder das Prodakt aus
+den mittleren und auch das aus den äulseren Gliedern
+- sucht. Der erste Werth in (&) ist kleiner als a, weil
+y(a?.+ 30°) <V(@ + 4a? + 50°), oder <a + a,
+Man mache also AE = Y(a?+j}ja?)— 1a, 60 ist 35
+AYE = AE: EB, Man mache ferner AE‘, yeiphes die
+Jlängerung von AB ist, «= — V (a° + 3a‘) — 3a3
+Miedanı tet AB : AB’ = ÄAE‘: BE’, Der erste Werth
+von.z löst die Aufgabe, deren Lösung man eigentlich
+beabsichtigt hat; der zweite eine andere ihr ver-
+wandte: an eine gegebene gerade Linie AB ein sol-
+ches Stück AE’ anzusetzen , dafs das angesetzte Stück
+die mittlere Proportionale zwischen der gegebenen ge-
+raden Linie und der Summe dieser Linie und des an-
+esetzten Stückes sey.” Dann geht der‘ Vf, über zu
+den algebraischen Linien, Cap-:1: von den Linien
+der ersten Ordnung oder von der geraden Linie,
+Cap. 2: die Linien der zweiten Ordnung 1) diese Li-
+nien einzeln betrachtet , also vom Kreise, von der El-
+lipse, von der Hyperbel und von der Parabel; 2) die
+Linien der zweiten Ordnung allgemein betrachtet,
+
+D? = (e—zY ++ FF —ZY
+
+. dw
+AL. Z. Nam, 100. JUNIUS 1837,
+
+‚8: von den Linien der ‚dritten Ordnung. - Die
+
+re von den, transcendenten Curven besehlielst diese
+Abtheilung; indem der Vf, zun der Reibe nach die
+Jogarıthmische Linie, die logarithmische Spirale, die
+Archimedische: Spirale, die parabolische und hyper-
+bolische Spirale und die Cycloiden behandelt, is
+2te Abtheilung begreift die Bestimmung der Lage von
+ton im Raume. Die Art, wie der Vf, hier in
+
+der Einleitung, die Aufgaben der sphärischen Trige-
+nometrie löst, hat uns vorzüglich wohl gefallen,
+Abschuitt 2: ‚Linien im Raume, Wir heben hier die
+Aufgabe herang, die Gleichungen eines Kreises im
+Raume zu finden, ‚Man nehme zwei Punkte im Rau-
+me als gegeben an, Die Axe des Kreises, ein Per-
+pendikel auf seiner Ebene durch den Mittelpunkt,
+werde durch diese zwei Punkte gelegt, Alle Punkte
+der Peripherie des Kreises haben von jedem dieser
+Punkte gleichen Abstand. Auch die Ahstände eines
+beliebigen Punktes der Peripherie ven den heiden
+Punkten, durch welche die Are des Kreises gelegt
+ist, seyen gegeben, Dann ist der Kreis und seine
+Lage gegen die coordinirten Ebenen bestimmt Die
+Coordinaten des einen der Punkte, durch welche die
+Axe des Kreises gelegt ist, des ersten, seyen x“, y', 2,
+des andern, des zweiten, x, y', z“, .und eines beliehi-
+gen Pannuktes der Peripherie des Kreises x, y, % Man
+setze des letzteren Punktes Abstand vom ersten = X,
+und vom zweiten = D”. Nach $. 377 (wo die Formel
+für die Projektion des Abstandes der gegebenen Punkte
+auf der Ebene der xy, sowie für den Abstand selbst
+gegeben wird) ist:
+
+= + YA ZA I)
+
+DR = (nm) FI — YA (3 — 2
+
+= BEE LAY YA ya+ 2m ZZ ZA AH):
+Also ist D? — DP = zB — ZOO AO AZ — ZOO
+(U — z).E— U —y)I — U — 3)
+
+Folglich: '
+
+za YA — a) 5 — US —y) I — (DI — De)
+
+2 (2 — zz”)
+
+\
+
+und y = x a ZU Ay my HM ES DD)
+' ' CB
+
+Durch Substitution des Werthes von z in die Glei-
+chung I. oder 11. erhält man eine Gleichung zwischen
+x und y, und durch Substitution des Werthes von y in
+eine jener Gleichungen eine Gleichung zwischen x und
+z. Jene ist die Gleichung der Projektion des Kreises
+auf der Ebene der xy, und diese die Gleichung der Pro-
+jektion desselben auf der Ebene der zz. Jene sowohl,
+als diese, ist, die Sache allgemein genommen, eine
+Gleichung des zweiten Grades, Also sind, im Allge-
+meinen, die Projektionen des Kreises Linien der zwei-
+
+ten Ordnung, Ks ist gesagt im Allgemeinen, weil der
+Kreis Lagen
+
+kann, bei welchen entweder eine oder zwei seiner Pro-
+jektionen nicht Linien der zweiten Ordsusg sind.”
+Abschn, 3: von den Flächen im Raume, nämlich von
+der Ebene
+von den Flächen , die durch Bewegung von Linien er-
+zeugt werden,  Abschn, 4: von den Durchschnitten
+der Flächen, Druck und Papier sind vorzüglich,
+
+9 a
+
+EEE
+
+. *
+
+288
+
+egen ‚die coordinirten Kbenen erhalten‘
+
+von den Flächen der zweiten Ordnung, und
+

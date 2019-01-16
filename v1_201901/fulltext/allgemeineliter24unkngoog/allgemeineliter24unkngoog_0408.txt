@@ -1,0 +1,142 @@
+801
+
+ALLGEMEINEN LI
+
+ 
+
+\ -— 101 -—
+ERGÄNZUNGSBLÄTTER
+ZUR
+
+TERATUR - ‘ZEITUNG
+
+802
+
+yo
+
+November 1881.
+
+%
+ang an Ga
+
+MATHEMATIK,
+
+Wızn, in Comm. b. Heubner: Beyträge zur Theo-
+rie der Sehnenwinkel, VonJ, Riedl. Mit sieben
+Kpft. ‚1827. IV u. 485. 8. (1 Rthir.)
+
+Besitsen wir viele Abhandlungen über die Sphä-
+rik, d. i. über die Geometrie der auf der Oberfläche
+der Kugel gezeichneten Figuren, welche der in ih-
+rer Art unübertrefflichen (im Creil’schen Journal
+für reine und angew. Mathem. 2r Bd. 1. Heft, S, 45
+beßndlichen) von Steiner „über die Verwandlung
+und Theilung sphärischer Figuren durch Con-
+struction” binsichtlich der Eleganz der Herleitun-
+gen und der Resultate nur irgend an die Seite ge-
+setzt werden könnten, oder auch allenfalls noch
+eine ganze Anzahl von Stufen unter ihr ständen,
+so würden Abhandlungen, wie die vorliegende,
+kaum in Betracht kommen können, wenn die Fra-
+
+e aufgeworfen würde, ob die Wissenschaft durch
+
+eselbe gefördert worden sey. Gegenwärtig aber,
+wo unsere Kenntnisse in der Geometrie der sphäri-
+schen Figuren verhältnifsmälsig noch sehr mangel-
+haft sind, und wo diese Disciplin, weil der Scharf-
+ginn der meisten Bearbeiter aus leicht begreiflichen
+Gründen sich der sphärischen gArigonometrie zuge-
+wandt hat, zu den noch sehr vernachlässigten ge-
+
+’ hört, mufs uns jeder noch so kleine Beytrag, der
+
+im Stande ist, diese Kenntnisse einigermafsen zu
+vermehren, sehr willkommen seynp. Aus diesem
+Grunde glauben wir auch die anzuzeigende Schrift
+einer etwas ausführlicheren Analyse unterwerfen zu
+müssen, als ihr Umfang sonst gestatten würde. Der
+recht gute Grundgedanke derselben ist folgender:
+Wenn man in der Peripherie eines Kreises drey
+beliebige Punkte annimmt, So wird durch diesel-
+ben ein einziges ebenes Dreyeck bestimmt, um wel-
+ches jener Kreis dann beschrieben ist. Nicht so
+verbält es sich, wenn man verlangt, dafs die 3
+Punkte die Eckpunkte eines sphärischen Drey-
+ecks seyn sollen. Läfst man nämlich diesen Kreis
+die Grundfläche des Segments einer Kugel von be-
+liebigem Halbmesser seyo, und beschreibt das durch
+die 8 Punkte gehende ebene Dreyeck in den Kreis,
+so werden die durch den “Mittelpunkt der Kugel
+und durch die Seiten jenes ebenen Dreyecks geleg-
+ten Ebenen auf die Oberfläche der Kugel Bogen
+größlster Kreise ausschneiden, welche dann, wie be-
+
+nnt, die Seiten desjenigen sphärischen Dreyecks,
+
+Ergänz. Bl. zur A. LI Z. 1881.
+
+ 
+
+——
+
+bilden, dessen Sehnendreyeck das ebene ist.
+aber der Halbmesser der Kugel in sofern ganz belier
+big ist, als er zwar nicht kleiner als der Halbmesser
+
+der Grundfläche des Kegelsegments, aber nach Be- .
+
+lieben bis ins Unendliche gröfser als derselbe ange-
+nommen werden kann, „so erhellt, dafs von 1e-
+dem möglichen Sebnendreyecke unendlich vieler-
+
+ley sphärische abstammen , da hingegen jedes sphä- -
+
+rische nur einem einzigen Sehnendreyecke ent-
+spricht.” Der positive oder negative Unterschied
+des sphärischen und des zugehörigen Sehnenwin--
+kels ist also eine veränderliche Gröfse, die nach
+Umständen ihre Maxima und Minima haben kann
+und mit der Aufsuchung der Eigenschaften dieses
+Unterschiedes, ‚den der Vf. einen Excedenten nennt
+mit Selner geometrischen Bedeutung im spbäri-
+schen Dreyecke und den Anwendungen derselben
+auf sehr kleine Dreyecke und das Fegelmäfsige
+
+Octaeder und Icosaeder beschäftigt sich diese Ab-
+
+handlung vorzüglich. Zu dem Ende werden die
+
+härischen Dreyecke zuvörderst in 3 Klassen ge-
+theilt, deren. Eintheilungsgrund von der Lage der
+einen Seite in Beziehung auf den Pol der Grund
+fläche des Kugelsegments hergenommen ist. In die
+erste Klasse gehören diejenigen Dreyecke, deren
+eine Seite durch den Pol geht; in jedem Dreyecke
+
+der zweyten Klasse liegt der Pol innerhalb, in je- >
+
+dem der 3ten Klasse aufserhalb des Dreyecks.
+dieser Eintheilung wird der Vf. -durch den Umstand
+gezwungen, dafs er es sich vorgesetzt zu haben‘
+scheint, die übrigens sehr‘ einfachen und am Tage
+liegenden Eigenschaften der Excedenten so oft, als
+es irgend angeht, auf geometrischem Wege abzu-
+leiten, und diefs gelingt ihm auch, gröfstentheils
+recht gut; denn aufserdem wäre diese Unterschei-
+dung, wenn der Vf. den trigonometrischen We
+gewählt hätte, der aber, wie man bemerken wird
+jer immer der weitläufgere und weniger passende
+gewesen wäre, unnöthig gewesen. Nach den an-
+gegebenen Vorbereitungen untersucht nun der Vf
+erstens die Entstehungsart der drey Klassen von
+sphärischen Dreyecken aus den Sehnendreyecken,
+‚wobey sich findet , was sich ohne alle Untersuchu
+von vorn herein erwarten liefs, dafs die Dreyecke
+der ersten Klasse aus rechtwinkligen, die der zwey-
+ten aus spitzwinkligen und die der dritten aus
+stumpfwinkligen Dreyecken abstammen; und zwey-
+tens die Gleichungen, vermittelst deren der Exce-
+dent aus seinem sphärischen Winkelund demjenigen
+1 (5) . - Win.
+
