@@ -1,0 +1,134 @@
+269 "4 Num. 34. MARZ 1823.
+
+nen erlangen, ungefähr fo, wie fe die Regeln der
+Sprache, des 2 Anılandes u. f,w., Anfangs ohne de.
+ren Gründe einzufehen, beobachten lernen. So will
+es die Natur, die das Gedächtnifs eher in uns aus-
+bildet ‚als den Verftand.  Erft wann in letzterem
+auch das Bedürfnifs angemeffener Thätigkeit fühl-
+bar, der Wunfch die Gründe der Dinge zu erfor-
+fchen rege wird, und wann fich auf einige Ausdauer
+rechnen läfst, erft dann ift es Zeit die ’eigentliche
+Arithmetik (d, i. die Zablenkunde, wozu als ein
+Theil die Theorie aller Rechnungsarten gehört,
+verfchieden von der fchon vorher betriebenen Re-
+chenkunft oder Logi/fzik im Sinne der Alten ) vorzu-
+nehmen. - Manche Menfchen bleiben in diefer Hin-
+ficht Zeitlebens Kinder, während andere früh auf-
+hören es zu  feyn. — ı %
+Doch zurück zu Hrn. Muhlert! Sein Bach be-
+a mit der Lehre von den entgegengefetzten Grö-
+sen (Cap. 1.), worüber das Gewöhnliche ziemlich
+‚ausführlich vorgetragen wird. Die Regeln von der
+‘Subtraction entgegengefetzter Gröfsen find mit ih-
+ren‘ Gründen zu weitfichweißg und dennoch nicht
+klar genug ausgedrückt. Warum: baut der Vf, die-
+felben nicht auf die vorhergehenden Regeln der Ad-
+dition, wie er gekonnt hätte, wenn er die Subtra-
+ction allgemein als Auffuchung einer Zahl erklärt
+hätte, die, zum Subtrahend hinzugefügt, den Mi-
+nuend gehn? Daraus könnte er fogleich {chliefsen,,
+dafs — b von a fubtrahirt den Reft a-+b geben müffe-
+Eben fo hätte fich die Regel über das Vorzeichen
+des Quotienten bey der Divifion kürzer und deut-
+licher aus den vorhergehenden Regeln über die Mul-
+tiplication herleiten laffen, da Divifion jetzt, bey
+ihrer Ausdehnung auf Brüche, negative, irrationale,
+ja felbft unmögliche Zahlen, in der Kunftfprache
+der Arithmetik nichts anders bedeutet als Auffu-
+chung einer Zahl, die mit einer gegebenen Zahl (dem
+Divi(or) multiplieirt, zum Producte eine andere ge-
+ebene (den Dividend) giebt. Das Subtrahiren und
+ividiren als ein Abziehen und Theilen zu erklären,
+äft dem gegenwärtigen Zuftande der Wiffenfchaft
+nicht angemeffen; denn ,.obfchon jene Operationen
+urfprünglich diefe engen Bedeutungen hatten, und
+daher ibre Namen haben, fo find doch die Sphären
+diefer Begriffe fehr erweitert. Auf ähnliche ‚Art
+werden bekanntlich jetzt in der Aftronomie. und in
+den” meiften andern Wiffenfchaften viele Kunftwör-
+ter in fehr veränderter Bedeutung gebraucht, daher
+es auch gar nicht wohl gethan ift, dergleichen Aus-
+drücke ins Deutfche:zu überfetzen. — Sonderbar
+iftes; wenn der Vf. S. 7. fagt: ,, die hier zu einer
+Summe zu vereinigenden Gröfsen beftehen theils aus
+Zahlen, theils Buchftaben.” Bedeuten denn die
+Buchftaben nicht auch Zahlen, fo. gut wie.die Zif.
+fern? Hr. M: wollte fagen: Die Summanden können
+fowohl gemeine als allgemeine (durch Buchftaben
+bezeichnete) Zahlen feyn. Aehnliche Ungenauig:
+keit im Ausdrucke finden wir in diefem Buche, lei-
+der auch bey vielen andern mathematifchen Schrift-
+ftellerm, häufig; — .
+
+ 
+
+270
+
+In Cap. 2: kommt unfer Verf. auf die Gleichun-
+gen des erften Grades. Er lehrt hier unter andern,
+man folle, um die Brüche aus einer Gleichung weg-
+zufchaffen, erft alle Brüche. auf eine Seite der Glei-
+chung und auf einerley Nenner bringen, und dann
+mit diefem Nenner beide Seiten der {o veränderten
+Gleichung multipliciren. Wozu diefe Weitläufgkeit?
+Man kommt fogleich zum Ziele, wenn man den
+kleinften gemeinen Dividuus aller Nenner auffucht
+und’ damit beide Seiten der gegebenen Gleichung
+multiplicirt. So giebt z. B. die Sleichung
+A
+4i—z) SU) 8(1—x) 4UFL
+durch Multiplication mit 8 (1 —x*) fogleich die von
+Brüchen befreyte Gleichung 6(14x?) +70 +x)
+(1—z) + zZ) (1 zl)= 201 z)(1—x?).
+Auf S. 18. kommt die wunderliche Proportion vor:
+
+x Tage: a Fufls = 70 Tage: F Fufs. Was wohl
+
+Euklid zu einer folchen Proportion fagen würde?
+Freylich kann man ihn, der immer zwey gleichar-
+tige Gröfsen in einerley Verhältnifs verlangt, auch
+nicht füglich zu manchem neuern Mathematiker ins
+
+_Verhältnifs ftellen. — ’
+
+„3: Von den Potenzen und Wurzeln. Hier
+die alte Definition von Potenz als Product aus glei-
+chen Factoren,, und von Wurzel als entftehend
+durch Zerlegung einer Zahl in gleiche. Factoren,
+welche Erklärungen immer noch, für den Anfang
+hingehen mögen, wenn fre nur fpäterhin fo erwei-
+tert werden, dafs auch Potenzen mit negativen, ge-
+brochenen, irrationalen und {elbft mit unmöglichen
+Exponenten als wirkliche Potenzen, oder doch als
+Gröfsen erkannt werden, von denen alle die über
+Potenzen vorgetragenen Regeln der Multiplication,
+Divifion,_ Potenzirung und Wurzelextraction gel.
+ten. — S.9gı. fagtder Vf. ganz richtig, die Urfa-
+che [{oll heifsen der Grund) der Klaffenabtheilung
+beym Ausziehen der Quadratwurzel aus- gemeinen
+Zahlen müffe beym. Unterrichte angegeben werden:
+warum gefchieht es aber nicht in diefem Buche?
+Was hier darüber gefagt wird, {oll doch wohl keine
+Begründung der Regel feyn? Ein ftrenger Beweis
+diefer Regel gehörte eher hier her, (wenn ‚diefs
+Buch als Lehrbuch in Schulen, alfo zur Präparation
+und Repetition dem Schüler dienen foll) als die oft
+im Ueberflufs gegebenen Hechnupäsber piele, wor-
+an es ein guter Lehrer beym Unterricht nie fehlen
+laffen wird. — SS. 100..foll die Seite eines Quadrats
+
+efunden werden, das, 3mal fo grofs.als ein anderes
+ft, deffen Seite 56‘ Jang ift. Dazu, lehrt der Vf,,
+müffe man erft das Quadrat von 56 machen, diefs
+3mal. nehmen und daraus die Wurzel ziehen. Wars
+um nicht fogleich v3 2iehen und diefe mit 56 mul-
+tipliciren? Der der Ausziehung der Quadrat - und
+
+uübikwurzeln‘ aus Brüchen, welche unvollkom-
+mene Quadrate oder Cubi find, verwandelt der Vf,
+immer den Zähler in ein vollkommenes Quadrat
+
+oder refp. Cubus, da es doch viel vortheilh; en if
+en
+

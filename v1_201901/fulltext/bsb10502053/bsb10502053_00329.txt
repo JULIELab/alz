@@ -1,0 +1,151 @@
+ 
+  
+  
+   
+ 
+   
+ 
+   
+  
+  
+ 
+ 
+    
+   
+  
+   
+   
+
+ 
+
+  
+
+A
+ALLGEMEINE
+
+: - F
+
+Ur MATHEMATIK.
+
+« Porsdam b. Vf. und'in Comm, b. Horvath: Ueber
+die‘ allgemeine Entwicklung aller "möglichen TWur-
+zeln der numerifchen algebrüifchen Gleichungen
+jedes Grades, nach einer neuen Formel; von
+Heinrich Bauer, Doct. d. Phil, Conrector am
+königl. Lyc. in Potsdam uf w. 1810. 100 S$. 4-
+(1 Rt en } vl
+
+DD: vorliegende Arbeit, hatte der befoheidene. Vf.
+anfangs nicht zum Druck beftimmt. Erft die
+öffentliche Ankündigung eines Berlinifchen, Mathe-
+matikers.; „eine, allgemeine Auflöfungsart der Glei-
+chungen gefunden zu haben’, und die nicht befrie-
+digte Erwartung, die unfer Vf. davon gelebt ‘hatte,
+ Deitimmten ihn zur Heraus; „Er aber fandte doch
+vorher das M{ept. dem fel. K/ügel und der. philof. Fa-
+cultät in Halle zur Prüfung,  K/, wandte zwar nichts
+dagegen ein, urtheilte aber. doch, dafs die Formel
+nicht hinreichend‘ {eyn, möchte, ‚alle numerifchen
+eichungen ‚aufzulöfen.. Der Vf. durchdachte, fie
+daher noch einmal, fand nichts, Befchränkendes,
+Jegte fie aber, doch der Berliner Akad. der Wiff. zur
+Prüfung vor. . Das Urtheil; derfelben wird mitge-
+-theilt, und mit befcheidenen Anmerkungen. begleitet,
+‚geht dahin, dafs die Auflöfungsart nicht zu ver-
+werfen, aber im Grunde mit der Methode des Vista
+einerley. fey. Nach der Bemerkung des Vfs., der
+Vieta’s Werke nun erft las, hat die Akad. zwar
+nicht unrecht, aber des Vfs. Formel kann doch weit
+mehr Jeiften‘, als‘ Wieta’s 56 Foliofeiten, der‘ über*
+haupt gar keine Formel aufitellt. — Die Formel fe
+übrigens nicht geeignet, die fonft übliche, zum Thei
+auf kürzern' Wegen zw. Refultaten führende‘ Nähe- |
+rungsmethode zur Beftimmung der Wurzeln zu ver-
+drängen: - Der Vf. hingegen hate dafs ‚er: es darauf
+ganz eigentlich :abgefehen habe, ‚indem er nie diefe
+Annäherungsmethoden. für "eine mathematifche (er
+hätte wohl fagen follen: /yßematifche) Auflöfungsart
+abe erkennen können, indem fie ihm mehr ein Ra-
+hen, als eine Analyfs’zu deyn gefchienen. — (Ein
+blofses Rathen, find Ge. wohl. nur im erften' Momente
+zu nennen: denn, hernach geht man doch nach wif-
+enfchaftlichen Grundfätzen bey ihnen zu Merle.)
+Eben fo find auch die Urtheile von La Grange un
+Fufs “zwar” nicht dbfällig , «aber in“ AbGcht’ einiger
+Nebenfachen auch nicht ganz «beyfällig., Der Vf.
+‚hat auf alle folche Bemer ungen "befcheiden, und
+wie der’ Rec. glaubt, befriedigend geantwortet. , So
+—__ wviel'liegt wohl klar,am Tage , dafs! noch: in «keinem
+AL. Z. 381300 Dritter Band.
+
+7 TE R A TUR zZ E I TU NG
+% December 1818.
+
+610
+
+$i
+
+ 
+
+= «
+
+‚der bekannten Lehrbücher das. Ganze in. der Ord-
+
+nung, in’dem Zufammenhange: und mit der Vollftän;
+digkeit und Klarheit;zufammengeftellt worden ift, als
+man es. hier findet. Was noch fehlt, hat der V£,
+felbft nicht verkannt, indem er fagt: „Bekanntlich
+verurfacht fchon die Auflöfung der kubifchen Glei-
+chungen oftigrofse Schwierigkeiten und weitläuftige,
+häfsliche Rechnungen, und für die Gleichungen h6ö-
+herer Grade ‚giebt es gar keine ‚allgemeinen Re eln,
+nach welchen fie fich alle entwickeln liefsen,- Selbft
+die gröfsten Analyften haben ber Aufwendung ihres
+ganzen Scharffnns: bis jetzt nichts.als einzelne Fälle
+aufzulöfen vermöcht; und auch diefe Auflöfungen‘
+waren oft fo weitläuftig und fchwer, dafs grofse
+Kenntnifs und viel Scharfinn, um ße zu verftehen,
+und grofse Mühe mit vieler Geduld, um fe auf ähn-
+liche Fälle anzuwenden, erfordert wurde. — Daher
+hat die aufgeftellte, für numerifche Gleichungen faft
+ganz allgemeine. Formel 'grofse Vorzüge vor Allem,
+
+was-bisher in diefer Hinficht.in der Algebra geleiftet %
+
+worden ift; weil fie’auf unzählige numerifche Glei-
+chungen jedes Grades, welche nicht blofs imaginäre
+Werthe von.x enthalten , fogleich-ohne alle Verände-
+rung ‚angewandt. werden kann, und ‚dabey Imeiflens
+eine verhältnifsmäfsig nur‘ fehr: kurze, ‘ leichte und
+einfache Rechnung giebt. — Ganz allgemein: it in-
+de{fen: diefe Formel doch auch noch nicht, : da‘ fie
+eben 'vorausfetzt, dafs alle Coefficienten beftimmte
+Zahlen find; da fie die unbekannte Gröfse auch nur
+in”Zahlen finden lehrt, und da fie auf unbeltimmte
+und folche Aufgaben nicht anwendbar. ift, die blofs
+
+“unmögliche‘ Werthe haben.” —; Es folgen nun all-
+
+emeine: Bemerkungen über die ‚Gleichungen , für
+
+nfänger. Diele ftehen zwar auch in den gewöhnli-
+chen ‚Lehrbüchern; aber fo Oi (es’ find
+ihrer an der Zahl 24) und dabey fo tlich haben
+
+“wir fie fonft noch nicht gefunden. , Nun eine Einlei*
+
+tung zur Auffindung der verfprochenen Formel. Der
+ungefähre Werth,der unbekannten Gröfse würde be-
+quemer gefunden werden können; wenn es ein leich- *
+tes Verfahren gäbe, alle Gleichungen unter eine von
+folgenden beiden Formen ‚zu bringen: x" + axr—7
+Axt? = k, und x — ga 1 ba a
+=-+'k Da diefes‚aber nicht der! Fall ift, fo'mufß
+man bey der allgemeinen Form bleiben : x" + ax»-—*
+ben 2... + kx = + g.. Hier kann nun x als
+rational betrachtet,‘ nie mehr 'als‘ £' Ziffern haben,
+wenn. x die.Anzahl.der” Ziffern'von g andeutet ,- wel-
+ches kürzlich gezeigt. wird. —1. Daßfer theilt man g
+Ana lallen von {o'vielen Ziffern als » in #MFänbeiter
+7 at,
+

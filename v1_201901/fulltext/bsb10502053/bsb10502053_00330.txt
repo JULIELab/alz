@@ -1,0 +1,146 @@
+La 7 r AG
+
+6it
+
+hat. Das Auszeichnende der zuletzt benannten For-
+£ mel pefeht därim, dafs man die ganze, In ihr gege*
+bene G
+und x als die zu fuchende Wurzel derfelben..betrach-
+tet, die ganze Auflöfung alfo in Form einer Wurzel-
+ausziehung darftellt. etrachtet man mämlich die
+mehr erwähnte allgemeine Formel zuerft ablolut,
+weder pofitiv noch negativ, und fetztdabey x =4q +4,
+binomifch an, {fo ergeben fich Reihen nach dem bj-
+nomifchen Lehrfatze, die der Vf, entwickelt. Ad-
+‚dirt'man fun diefe Reihen nach den Potenzen von %
+fo ergiebt'fch die ganze gefuchte Auflöfungsformel
+für alle numerifchen Gleichungen‘ in fo viel“ befori-
+dern Reihen, ‘als Glieder vorhanden find. Nämlich
+3. pn + aprı—ı + bpr—2 + cpr—5 ... + = der Sum-
+me aller derjenigen Theile der ‘ganzen Formel, wel-
+che blofs den erften‘ Theil p‘ des Binomiums, und
+michts vom zweyten g enthält.‘ Der Werth von p
+aber, ober Einer, Zehner, Hunderter, oder Zehn-
+‘tel, Hundertel u. f. w. bedeutet, ‚hängt von der zu-
+vor durch = beftimmten Menge der in g beftimmten
+Menge der in g gemachten Claffen ab. | Hat man nun
+‚diefen gefunden, {fo berechnet man darnach die unter
+‚Nr. 1. angegebenen Reihen von p, fetzt fe unter. die
+‚erlte linke Claffe von g, und zieht fie davon ab; in
+*den-Reft (ganz eben fo, wie bey der Quadrat- und
+‚Kubikwurzelatsziehung) dividirt man durch die Rei-
+he‘2.2 g—ı a n— 1 2 + (bon A 2pt—5700)
+U der Summe derjenigen Theile ‚der allgemeinen
+‚Formel, welche die erfte Potenz von g als Factor, in
+fich enthält , indem man das, was eingeklammert ift,
+berechnet, ‚und das, g als Quotienten findet. , Nun
+enthält die 3te Reihe alle Theile der ‘allgemeinen For-
+mel, welche gq? enthalten, die alfo/ ebenfalls: berech-
+net“und ‚abgezogen wird; ganz fo geht‘ es'mit den
+folgenden Reihen, welche 9%, 9* u. 1: w: zum Factor
+haben — oder man kann auch den Werth aller ein-
+zelnen Reihen vorher zufammenrechnen und die Sum-
+me auf ‚einmal abziehen. Hat die Wurzel mehrere
+Theile; fo betrachtet man die gefundenen immer
+‚zulammen als den ‚erften, und fucht‘ fo lange einen
+
+neuen, bis fie alle gefunden find, oder fo weit man fe:
+
+izu haben wünfcht. Bisher wurde angenommen; dafs
+:alle Theile pofıtiv wären ; der Vf. zeigt nun auch,
+‚wie zu verfahren, wenn mehrere negativ find, oder
+wenn die Gleichung unvollftändig ift, oder wenn xr
+‚negativ gegeben wäre, oder auch x in einer Gleichung
+‚einen negativen Werth bekommt. Alle diefe Umftän-
+de, verurfachen keine Schwierigkeiten , erfordern
+aber Aufmerkfamkeit,: wozu der Vf, mehrere Be-
+merkungen mittheilt. WUebrigens zeigt.es fich von
+felbft , | dafs die “Formel in ihrer Allgemeinheit un-
+endlich feyn mufs , da » unbeftimmt ift, dafs fie aber
+von jedem beftimmten Grad von x , für jeden-beftimm-
+ten Werth.von # begrenzt und immer kürzer wird,
+je kleiner m ift. S folgen die‘ Anwendungen der
+
+'ormel ‘auf’ die verfchiedenen Arten von: Gleichun*
+en, wodurch die vorhergehenden: allgemeinen Vor-
+chriften völlig erläutert werden. So z./B."reducirt
+
+ALLG: LITERATUR = ZEITUNG
+
+eg immer blofs als eine einfache Potenz, _
+
+612
+fich für die quadratifchen Gleichungen die:
+
+| mel auf, folgende :7#? $ ap +(Z Se A
+zugleich giebt der Vf, alle möglichen Fäl|
+dratifchen Gleichungen-an, von welchen
+fachfte: x2=719, wo a=o ilt,
+die zur gemeinen Ausziehung dienende : ? +2pgq+q?
+reducirt. So werden auch die übrigen Falle mit HA
+gerechneten Exempeln durchgangen, und die noch -
+nöthigen Bemerkungen beygefügt. Für die kubi-
+schen ln Den beftimmt Beh e allg, Formel. fo:
+Pag? +4 bp + (3p? + 20p + 6). 9 + (3D-Fa) q?+
+
+wo DL Anwendun; Ale NIE hi iz
+deren Coefficienten. @. oder 4 in der gegebnen Glei-.
+chung fehlen. Bey diefer Gelegenheit Kritifirt der;
+Vf. auch die Cardanifche Regel {ehr umftändlich und
+{charf, wobey er zugleich ihre Entbehrlichkeit bey
+feiner Formel” heraushebt. Er bringt auch mehrere
+Aufgaben von Euler, Käflner, La Gränge u. a. bey;
+um die Vortheile feiner Methode vor jener ihrer Bi;
+handlungsart fichtbar'zu machen.“ Eine ‚belondere _
+Vergleichung' nimmt der Vf. mit der Fıfcherfchen Me-
+thode' in deilen Theorie der Dimenfionszeichen vor,
+und macht die gröfsere Leichtigkeit der {einigen be-
+merklich, wo zugleich eingefchlichene Fehler in der _
+Filcherfchen Rech eure Derichti t werden. Nachdem
+er'nun alle möglichen Fälle der quadratilchen und
+Kkubifchen Gleichungen nach feiner Formel aufgelöfet
+hat, geht er zwar auf gleiche Art zu den biquadrati“
+fchen über, hält‘es aber mit Recht für OT
+alle möglichen Formen der vollftändigen und unvoll-
+ftandigen höhern Gleichungen aufzultellen, und für
+jede eine Aufgabe aufzulölen , und lafst daher nur
+eine‘ reine .ynd mehrere verfchiedene unreine Glei-
+chungen des vierten, fünften und’ fechiten Grades
+folgen. Es liegt jetzt ganz klar vor Augen, dafs des
+Vis, Formel eine {pecihiche und’ dabey 1innreiche und
+gemeinnützige Anwendung des‘ Newton’/chen‘ Theore-
+ma binomiale ift, wo er am Ende noch den Ratlı
+giebt, zur Erleichterung der Rechnung Tabellen, Yo+
+
+n.n— 1
+
+wohl für die Potenzen, als Coefficienten; ‚m, AZ.
+Een SR u..d. w. zu berechnen, und alle diefe
+Zahlen ‚gleich: mit, den Potenzen zu, multipliciren,
+indem ‚alsdann ‚nichts weiter übrig bleibt, als diele
+Producte nur “noch ‚mit den. gegebenen Coefficienten. -
+a; by cu. Sf. w. zu multipliciren , ‘und endlich, die
+nöthigen. Additionen und Subtractionen vorzuneh-
+men. ‚7.
+
++9 7 un
+e in den qua-!''
+z.B, die ein-
+und fich die Formel a:
+
+NATURGESCHICHTE, * HS *
+
+Nürwsera, 'b. Schrag :' Mineralogifche Studien von
+Leonhard und Selb.  Erfler Theil. 1812. IX undi
+3065. 8. Mit Kupfern u. Karten, (1 Rthlr. 12 gr.)
+
+In der Ag Sen würkigen Sammlung treten onen
+Männer. auf, | die nicht. darnach: hafchen, ; überal
+Neuigkeiten aufzufinden, und neue Namen auszubrüs‘
+ten, ‚fondern’ die vornehmlich damit umgehen, das
+fchon Bekannte genauer zu prüfen; die verlöhlei Ener
+
+f N i.
+
++ For-
+
