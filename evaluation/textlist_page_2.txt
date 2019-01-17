@@ -29,3 +29,4 @@ internet_archive/gb_uaU9AAAAIAAJ_ts_2.txt
 önb/öbn_abbyy_2.txt
 önb/öbn_ts_2.txt
 önb/önb_önb_2.txt
+gb/uaU9AAAAIAAJ_google_2.txt

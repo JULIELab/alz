@@ -18,7 +18,7 @@ def levenshtein(s1, s2):
  
     return previous_row[-1]
     
-def levenshtein-2(s, t):
+def levenshtein2(s, t):
         ''' From Wikipedia article; Iterative with two matrix rows. '''
         if s == t: return 0
         elif len(s) == 0: return len(t)
