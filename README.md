@@ -2,7 +2,7 @@
 
 This repository provides the compiled full-text corpus of the *Allgemeine Literatur-Zeitung* (General Literature Gazette) published from 1785 to 1849.
 
-Its current version (V2, May 2019) contains 26,612 pages of full-texts from 261 volumes which is equivalent to 120,369,005 tokens, including review volumes (the main part of ALZ), supplementary and intelligence notes. In the folder [v2_201905](v2_201905) you can find a table of [overview](v2_201905/ALZ_V2_Overview.tsv) as well as the whole corpus in xml or txt format.
+Its current version (V2, May 2019) contains 26,612 pages of full-texts from 261 volumes which is equivalent to 120,369,005 tokens, including review volumes (the main part of ALZ), supplementary and intelligence notes. In the folder [v2_201905](v2_201905) you can find a table of [overview](v2_201905/ALZ_V2_Overview.tsv) as well as the whole corpus in xml and txt format.
 
 The files [v2_201905/romantik.tsv](v2_201905/romantik.tsv) and [v2_201905/musik.tsv](v2_201905/musik.tsv) contain search results of keywords which are relevant to romanticism and music. For datails see the scripts ([find_romantik.py](v2_201905/romantik.py) & [find_musik.py](v2_201905/musik.py)).
 
