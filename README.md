@@ -11,4 +11,4 @@ This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/b
 
 ## Citation
 Please cite the following papers if you use our corpus:
-* Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](http://github.com/julielab/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
+* Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](https://julielab.de/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
