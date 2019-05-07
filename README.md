@@ -6,9 +6,13 @@ Its current version (V2, May 2019) contains 26,612 pages of full-texts from 261 
 
 The files [v2_201905/romantik.tsv](v2_201905/romantik.tsv) and [v2_201905/musik.tsv](v2_201905/musik.tsv) contain search results of keywords which are relevant to romanticism and music. For datails see the scripts ([find_romantik.py](v2_201905/romantik.py) & [find_musik.py](v2_201905/musik.py)).
 
+## Acknowledgement
+This work was conducted within the Graduate School “Romanticism as a Model” (http://modellromantik.uni-jena.de) supported by the German Research Foundation (DFG) under Grant No.: GRK 2041/1.
+
 ## License
-* This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Citation
 Please cite the following papers if you use our corpus:
-* Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](https://julielab.de/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
+
+Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](https://julielab.de/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
