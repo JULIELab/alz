@@ -13,6 +13,6 @@ This work was conducted within the Graduate School “Romanticism as a Model” 
 This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Citation
-Please cite the following papers if you use our corpus:
+Please cite the following paper if you use our corpus:
 
 Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](https://julielab.de/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
