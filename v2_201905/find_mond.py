@@ -3,14 +3,14 @@ import os
 import re
 from operator import itemgetter
 
-romantik = re.compile(r'[Mm]u[sſ]ik')
+mond = re.compile(r'Mond')
 
 ro = False
 countyear = {}
 m=0
 
 os.chdir('xml/')
-with open('../musik.tsv','w') as f:
+with open('../mond.tsv','w') as f:
 	treffer_list = []
 	for t in os.listdir(os.getcwd()):
 		tree = ET.parse(t)
@@ -33,7 +33,7 @@ with open('../musik.tsv','w') as f:
 					if ro:
 						ll = lastline+ll
 						lastline = ''
-					if romantik.search(ll):
+					if mond.search(ll):
 						treffer = [t,url,year,vol,elem_id.text,str(n),ll]
 						treffer_list.append(treffer)
 						if not year in countyear:

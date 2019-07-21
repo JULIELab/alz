@@ -11,7 +11,7 @@ ro = False
 countyear = {}
 m=0
 
-os.chdir('xml_compiled/')
+os.chdir('xml/')
 with open('../romantik.tsv','w') as f:
 	treffer_list = []
 	for t in os.listdir(os.getcwd()):

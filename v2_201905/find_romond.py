@@ -3,14 +3,17 @@ import os
 import re
 from operator import itemgetter
 
-romantik = re.compile(r'[Mm]u[sſ]ik')
+#romantik = re.compile(r'(Romant|[^a-zP]romant)')
+romantik = re.compile(r'([Rr]omanti[ſs]|[Rr]omant\.|[Rr]omantic|Romantik)')
+mond = re.compile(r'Mond')
+#romantik = re.compile(r'Romantik')
 
 ro = False
 countyear = {}
 m=0
 
 os.chdir('xml/')
-with open('../musik.tsv','w') as f:
+with open('../romond.tsv','w') as f:
 	treffer_list = []
 	for t in os.listdir(os.getcwd()):
 		tree = ET.parse(t)
@@ -35,7 +38,8 @@ with open('../musik.tsv','w') as f:
 						lastline = ''
 					if romantik.search(ll):
 						treffer = [t,url,year,vol,elem_id.text,str(n),ll]
-						treffer_list.append(treffer)
+						if 'Mond' in treffer[6]:
+							treffer_list.append(treffer)
 						if not year in countyear:
 							countyear[year]=1
 						else:
@@ -57,11 +61,11 @@ with open('../musik.tsv','w') as f:
 						# f.write(ll)
 						# f.write('\n')
 						# f.write('\n')
-#					if ll.endswith('ro-') or ll.endswith('ro') or ll.endswith('Ro') or ll.endswith('Ro-') or ll.endswith('roman-') or ll.endswith('Roman-') or ll.endswith('roman') or ll.endswith('Roman'):
-#						ro = True
-#						lastline=ll.rstrip('-')
-#					else:
-#						ro = False
+					if ll.endswith('ro-') or ll.endswith('ro') or ll.endswith('Ro') or ll.endswith('Ro-') or ll.endswith('roman-') or ll.endswith('Roman-') or ll.endswith('roman') or ll.endswith('Roman'):
+						ro = True
+						lastline=ll.rstrip('-')
+					else:
+						ro = False
 	treffer_list = sorted(treffer_list, key = itemgetter(2))
 	for r in treffer_list:
 		f.write(r[0])
