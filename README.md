@@ -16,3 +16,5 @@ This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/b
 Please cite the following paper if you use our corpus:
 
 Udo Hahn, Tinghui Duan. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Preprint](https://julielab.de/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)]
+
+Tinghui Duan, Udo Hahn. 2019. Compiling Digital Fragments of Allgemeine Literatur-Zeitung, a Major Textual Resource for German Romanticism Research, into a Single Comprehensive Text Corpus. 10th International Corpus Linguistics Conference (CL2019), July 22-26, 2019, Cardiff, Wales. [[Poster](https://julielab.de/downloads/publications/posters/Poster_CL2019_Duan.pdf)]
