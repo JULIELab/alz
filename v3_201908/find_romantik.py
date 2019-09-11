@@ -4,15 +4,15 @@ import re
 from operator import itemgetter
 
 #romantik = re.compile(r'(Romant|[^a-zP]romant)')
-romantik = re.compile(r'([Rr]omantiſ|[Rr]omant\.|[Rr]omantic|Romantik)')
-#romantik = re.compile(r'Romantik')
+#romantik = re.compile(r'([Rr]omantiſ|[Rr]omant\.|[Rr]omantic|Romantik)')
+romantik = re.compile(r'[Rr]omanti[ſs]ch')
 
 ro = False
 countyear = {}
 m=0
 
-os.chdir('xml/')
-with open('../romantik.tsv','w') as f:
+os.chdir('xml_compiled/')
+with open('../romantisch_20190911.tsv','w') as f:
 	treffer_list = []
 	for t in os.listdir(os.getcwd()):
 		tree = ET.parse(t)
