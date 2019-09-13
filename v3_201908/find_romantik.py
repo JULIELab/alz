@@ -10,9 +10,15 @@ romantik = re.compile(r'[Rr]omanti[ſs]ch')
 ro = False
 countyear = {}
 m=0
+line1 = ""
+line2 = ""
+line3 = ""
+line4 = ""
+line5 = ""
 
 os.chdir('xml_compiled/')
-with open('../romantisch_20190911.tsv','w') as f:
+filename = input("Output name:")
+with open('../'+filename,'w',encoding="utf-8") as f:
 	treffer_list = []
 	for t in os.listdir(os.getcwd()):
 		tree = ET.parse(t)
@@ -26,17 +32,48 @@ with open('../romantisch_20190911.tsv','w') as f:
 				url = elem_ref.text
 			for elem_id in elem.findall("{http://www.tei-c.org/ns/1.0}id"):
 				n = 0
+				num = len(elem.findall("{http://www.tei-c.org/ns/1.0}content/{http://www.tei-c.org/ns/1.0}p"))
 				for elem_l in elem.findall("{http://www.tei-c.org/ns/1.0}content/{http://www.tei-c.org/ns/1.0}p"):
 					n+=1
 					ll = elem_l.text.strip()
 					ll = ll.replace('&gt;','>')
 					ll = ll.replace('&amp;','&')
 					ll = ll.replace('&lt;','<')
+					line1 = line2
+					line2 = line3
+					line3 = line4
+					line4 = line5
+					line5 = ll
+					output = line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 + "\n" + line5
 					if ro:
-						ll = lastline+ll
-						lastline = ''
+						if n + 1 == num:
+							ll = lastline + line4
+							lastline = ""
+							output = line2 + "\n" + line3 + "\n" + line4 + "\n" + line5
+						elif n == num:
+							ll = lastline + line5
+							output = line3 + "\n" + line4 + "\n" + line5
+							lastline = ""
+						else:
+							ll = lastline + line3
+							lastline = ""
+					else:
+						if n + 1 == num:
+							ll = line4
+							output = line2 + "\n" + line3 + "\n" + line4 + "\n" + line5
+						elif n == num:
+							ll = line5
+							output = line3 + "\n" + line4 + "\n" + line5
+						else:
+							ll = line3
 					if romantik.search(ll):
-						treffer = [t,url,year,vol,elem_id.text,str(n),ll]
+						if n+1 == num:
+							n_l = n-1
+						elif n == num:
+							n_l = n
+						else:
+							n_l = n-2
+						treffer = [t,url,year,vol,elem_id.text,str(n_l),output]
 						treffer_list.append(treffer)
 						if not year in countyear:
 							countyear[year]=1
@@ -59,9 +96,9 @@ with open('../romantisch_20190911.tsv','w') as f:
 						# f.write(ll)
 						# f.write('\n')
 						# f.write('\n')
-					if ll.endswith('ro-') or ll.endswith('ro') or ll.endswith('Ro') or ll.endswith('Ro-') or ll.endswith('roman-') or ll.endswith('Roman-') or ll.endswith('roman') or ll.endswith('Roman'):
+					if line3.endswith('ro-') or line3.endswith('ro') or line3.endswith('Ro') or line3.endswith('Ro-') or line3.endswith('roman-') or line3.endswith('Roman-') or line3.endswith('roman') or line3.endswith('Roman'):
 						ro = True
-						lastline=ll.rstrip('-')
+						lastline = line3.rstrip('-')
 					else:
 						ro = False
 	treffer_list = sorted(treffer_list, key = itemgetter(2))

@@ -5,7 +5,7 @@ from operator import itemgetter
 
 #romantik = re.compile(r'(Romant|[^a-zP]romant)')
 romantik = re.compile(r'([Rr]omanti[ſs]|[Rr]omant\.|[Rr]omantic|Romantik)')
-mond = re.compile(r'Mond')
+#mond = re.compile(r'Mond')
 #romantik = re.compile(r'Romantik')
 
 ro = False
