@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{"type": "Annotation", "@context": "http://www.w3.org/ns/anno.jsonld", "creator": [""], "@id": "/annotate/annotations/5b51245e-dad3-11e9-bf4d-5cf9388d1834.json", "body": [{"value": "Mu\u017fter der \u00e4ltern und neuern Kun\u017ft, die in jenem\naufbewahrt werden.", "type": "TextualBody", "format": "text/html", "selector": {"type": "FragmentSelector", "value": "rect"}}], "target": {"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10501964_00182#xywh=789,112,587,60", "type": "Image"}, "created": "2019-09-19T11:48:11.636Z"}
