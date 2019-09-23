@@ -1,4 +1,0 @@
----
-layout: null
----
-{"type": "Annotation", "@context": "http://www.w3.org/ns/anno.jsonld", "creator": ["LA"], "@id": "/annotate/annotations/f164e270-dad1-11e9-bf4d-5cf9388d1834.json", "body": [{"value": "Daher i\u017ft der Orden in alle \u017feine\nBegebenheiten verwebt, und eben dies Gewebe\nverur\u017facht die wunderbar\u017ften romanti\u017fchen Ver-\nwickelungen \u017feines Schick\u017fals.", "type": "TextualBody", "format": "text/html", "selector": {"type": "FragmentSelector", "value": "rect"}}], "target": {"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10501963_00044#xywh=171,1360,599,116", "type": "Image"}, "created": "2019-09-19T11:38:04.428Z"}

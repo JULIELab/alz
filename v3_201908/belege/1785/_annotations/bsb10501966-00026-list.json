@@ -1,4 +1,0 @@
----
-layout: null
----
-{"@context": "http://www.w3.org/ns/anno.jsonld", "@type": "AnnotationPage", "id": "/annotate/annotations/b06070bc-db7d-11e9-ab1a-5cf9388d1834.json-list.json", "resources": [{"type": "Annotation", "@context": "http://www.w3.org/ns/anno.jsonld", "creator": [""], "@id": "/annotate/annotations/b06070bc-db7d-11e9-ab1a-5cf9388d1834.json", "body": [{"value": "Die Spra-\nche aber i\u017ft nicht \u017fowohl die an\u017fchauende lebendi-\nge Sprache des Theaters, als jener mittlere Ton\nvon romanti\u017fchen Erz\u00e4hlungen, die auf eine ge-\nm\u00e4\u017fsigte Art deklamiren.", "type": "TextualBody", "format": "text/html", "selector": {"type": "FragmentSelector", "value": "rect"}}], "target": {"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10501966_00026#xywh=97,562,620,152", "type": "Image"}, "created": "2019-09-20T08:07:28.780Z"}], "created": "2019-09-20T08:07:28.780Z"}

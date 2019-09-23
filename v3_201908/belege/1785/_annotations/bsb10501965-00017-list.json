@@ -1,4 +1,0 @@
----
-layout: null
----
-{"@context": "http://www.w3.org/ns/anno.jsonld", "@type": "AnnotationPage", "id": "/annotate/annotations/3c5c8888-dad6-11e9-bf4d-5cf9388d1834.json-list.json", "resources": [{"type": "Annotation", "@context": "http://www.w3.org/ns/anno.jsonld", "creator": ["LA"], "@id": "/annotate/annotations/3c5c8888-dad6-11e9-bf4d-5cf9388d1834.json", "body": [{"value": "Skanderbegs bekannte kriegeri\u017fche Wundertha-\nten \u017find \u00fcberhaupt ziemlich romanti\u017fch, und hier\nin einem Styl erz\u00e4hlt, der halb nach Zeitung, halb\nnach Chronick \u017fchmeckt.", "type": "TextualBody", "format": "text/html", "selector": {"type": "FragmentSelector", "value": "rect"}}], "target": {"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10501965_00017#xywh=126,1226,672,130", "type": "Image"}, "created": "2019-09-19T12:08:48.190Z"}], "created": "2019-09-19T12:08:48.190Z"}
