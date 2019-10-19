@@ -3,6 +3,8 @@ import os
 import re
 from operator import itemgetter
 
+#romantik = re.compile(r'(Romant|[^a-zP]romant)')
+#romantik = re.compile(r'([Rr]omantiſ|[Rr]omant\.|[Rr]omantic|Romantik)')
 romantik = re.compile(r'[Rr]omantik')
 
 countyear = {}
@@ -67,7 +69,7 @@ for t in os.listdir(os.getcwd()):
 						to_search = lastline+to_search
 					if romantik.search(to_search):
 						treffer = [t,url,year,vol,elem_id.text,str(n-abs(middle)),'\n'.join(window)]
-						with open("../belege/romantik/bsb/"+t.split(".")[0]+"_"+elem_id.text+"_"+str(n-abs(middle))+".item","w",encoding="utf-8") as ff:
+						with open("../belege/romantisch/bsb/"+t.split(".")[0]+"_"+elem_id.text+"_"+str(n-abs(middle))+".item","w",encoding="utf-8") as ff:
 							ff.write(treffer[6])
 							ff.write('\n')
 							ff.write('\n')
