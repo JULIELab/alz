@@ -3,7 +3,7 @@ import os
 import re
 from operator import itemgetter
 
-search_term = re.compile(r'[Ee]inbildung[ſs]kraft')
+search_term = re.compile(r'[Ee]inbildung[ſs]kr[äa]ft')
 
 countyear = {}
 context_n = 2
@@ -79,7 +79,7 @@ for t in os.listdir(os.getcwd()):
 						# 	ff.write('\n')
 						# 	ff.write(treffer[5])
 						# 	ff.write('\n')
-						with open("../belege/einbildungskraft/belege_bsb.tsv","a",encoding="utf-8") as fo:
+						with open("../belege/einbildungskraft/belege_einbildungskräft_bsb.tsv","a",encoding="utf-8") as fo:
 							fo.write(t.split(".")[0])
 							fo.write("\t")
 							fo.write(elem_id.text)
