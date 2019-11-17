@@ -13,6 +13,6 @@ os.chdir('all/')
 for beleg in os.listdir(os.getcwd()):
 	with open(beleg,"r", encoding="utf-8",errors='ignore') as f:
 		content = f.readlines()
-		#already processed: PHILOSOPHIE
-		if content[3].strip() == "":
+		#already processed: PHILOSOPHIE, SCHÖNE KÜNSTE
+		if content[3].strip() == "GESCHICHTE":
 			os.system("cp "+beleg+" ../temp/")
