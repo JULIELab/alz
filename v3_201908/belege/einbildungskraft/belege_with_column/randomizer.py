@@ -1,7 +1,7 @@
 import os
 import random
 
-folder = "LA_20191108"
+folder = "LA_20191122"
 
 file_list = os.listdir(folder)
 

@@ -6,13 +6,13 @@ import pandas as pd
 
 #df.groupby('Column').count().to_csv("column_freq.tsv", sep='\t', encoding='utf-8')
 
-os.system("mkdir temp")
+os.system("mkdir 05_ERBAUUNGSSCHRIFTEN")
 
 os.chdir('all/')
 
 for beleg in os.listdir(os.getcwd()):
 	with open(beleg,"r", encoding="utf-8",errors='ignore') as f:
 		content = f.readlines()
-		#already processed: PHILOSOPHIE, SCHÖNE KÜNSTE
-		if content[3].strip() == "GESCHICHTE":
-			os.system("cp "+beleg+" ../temp/")
+		#already processed: PHILOSOPHIE, SCHÖNE KÜNSTE, GESCHICHTE
+		if content[3].strip() == "ERBAUUNGSSCHRIFTEN":
+			os.system("cp "+beleg+" ../05_ERBAUUNGSSCHRIFTEN/")

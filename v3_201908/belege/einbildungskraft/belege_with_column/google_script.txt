@@ -1,0 +1,18 @@
+function createForm() {
+	item = "Einbildungskraft in der ALZ";
+	var form = FormApp.create(item)
+		.setTitle(item)
+		.setDescription("Anleitungen")
+
+	question1 = "Ist das Wort \"Einbildungskraft\" hier positiv oder negativ verwendet? Wenn Sie nicht entscheiden, wählen Sie bitte \"unentschieden\".";
+
+	var classSection = form.addPageBreakItem()
+		.setTitle("Die reproductive Einbildungskraft wirkt nach den Geſetzen der Ideenaſſociation, die productive nach den Geſetzen der Zweckmäſsigkeit, jene iſt von der Sinnlichkeit abhängig, dieſe ſchafft aus dem, was der Sinnlichkeit dargeboten iſt, Ideale.")
+	item = question1;
+	var choices = ["Positiv", "Negativ", "unentschieden"];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+}
