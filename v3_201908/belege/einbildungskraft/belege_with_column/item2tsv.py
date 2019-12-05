@@ -1,6 +1,6 @@
 import os
 
-os.chdir('bisher/')
+os.chdir('bisher_korrigiert/')
 with open("../bisher.tsv","w", encoding="utf-8") as fo:
 	for beleg in os.listdir(os.getcwd()):
 		with open(beleg,"r", encoding="utf-8") as f:
@@ -8,6 +8,8 @@ with open("../bisher.tsv","w", encoding="utf-8") as fo:
 			ifbind = False
 			sentence = ""
 			content = f.readlines()
+			fo.write(beleg.split('.')[0])
+			fo.write('\t')
 			fo.write(content[0].strip())
 			fo.write('\t')
 			fo.write(content[1].strip())

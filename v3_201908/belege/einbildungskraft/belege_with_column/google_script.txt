@@ -2,17 +2,745 @@ function createForm() {
 	item = "Einbildungskraft in der ALZ";
 	var form = FormApp.create(item)
 		.setTitle(item)
-		.setDescription("Anleitungen")
+		.setDescription("Willkommen bei unserem Projekt zur Semantik von Einbildungskraft in der \"Allgemeine-Literatur-Zeitung\"!\n\nVielen Dank, dass Sie uns dabei helfen, Textbelege zum Thema Einbildungskraft aus der Quelle \"Allgemeine-Literatur-Zeitung\" \(1785–1849\) anhand eines Kodiersystems auszuwerten. Das Ziel unseres Projektes ist die Rekonstruktion des Bedeutungswandels von Einbildungskraft um 1800 in unterschiedlichen Disziplinen anhand einer der verbreitetesten deutschsprachigen Zeitschriften der Epoche.\n\nSie bewerten insgesamt 400 Textbelege. Da es während der Bewertung nicht möglich ist, den aktuellen Stand zu speichern, werten Sie die Textbelege in 10er-Blöcken aus. Bitte bewerten Sie daher immer mindestens einen Block, also zehn Belege am Stück. Behalten Sie einen Überblick darüber, bei welchem Block Sie aufgehört haben. Alle Belege, die Sie bewerten, werden von weiteren Personen bewertet, um die Objektivität der Ergebnisse miteinander zu gewährleisten.\n\nZu jedem Textbeleg werden Ihnen Fragen zu folgenden Kategorien gestellt:\n\nBewertung: Wird das Wort \"Einbildungskraft\" in einem positiven, negativen oder neutralen Sinn verwendet? \(positiv/negativ/neutral\)\n\nInhalt: Wird es als Vermögen beschrieben, das etwas Neues hervorbringt oder als Vermögen, das etwas schon Bestehendes bloß im Bewusstsein wiederholt? \(produktiv/reproduktiv\)\n\nModus: Wird es als Vermögen beschrieben, das bewusst eingesetzt werden kann, oder als solches, das Wahrnehmungen und Handlungen begleitet? \(aktiv/passiv\)\n\nAdressaten: Wird es als Vermögen eines Individuums, einer Gruppe von Menschen oder als allgemeinmenschliche Eigenschaft beschrieben? \(individuell/einige/allgemein\)\n\nQuelle: Handelt es sich bei dem Textbeleg, um ein Zitat, um die Meinung einer weiteren Person, einen Titel oder um die Meinung des Autors bzw. der Autorin? \(direktes Zitat/indirektes Zitat/Titel/Meinung\)\n\nDistanz: Wird etwas mit Einbildungskraft beschrieben oder wird über Einbildungskraft gesprochen? \(objektsprachlich/metasprachlich\)\n\nDisziplin: Im Zusammenhang mit welcher Disziplin wird hier über Einbildungskraft gesprochen? \(Ästhetik [Bildende Kunst, Literatur, Mythologie, Musik etc.]/Geschichte/Medizin/Naturwissenschaft [Geographie, Geologie, Chemie, Biologie etc.]/Pädagogik/Philosophie/Psychologie/Religion\)\n\nWiderpruch: Liegt in dem Beleg ein Widerspruch vor?\n\nWissen des Raters: Haben Sie die Fragen mit Hilfe von Kontextwissen beantwortet, das über den Beleg hinausgeht, beantwortet oder haben Sie zur Beantwortung Kontextwissen hinzugezogen? \(textimmanent/kontextuell\)\n\nGesamtbewertung: Ist die Bewertung insgesamt schwierig gewesen?\n\nBei einigen Kategorien haben Sie die Möglichkeit, „beides“ zu markieren. Alle Kategorien bis auf \"Widerspruch\" und \"Gesamtbewertung\" müssen Sie markieren, um zum nächsten Textbeleg zu gelangen.\n\nWährend in der Kategorie „Disziplin“ Mehrfachnennungen möglich sind, müssen Sie die letzten beiden Kategorien nur ankreuzen, wenn sie auch zutreffen.\n\nWenn Sie bei der Beantwortung einzelner Fragen starke Schwierigkeiten haben und Sie keine Entscheidung über die Zuordnung treffen können, markieren Sie „Ich weiß es nicht“. Falls eine Kategorie schlicht nicht zutrifft, markieren Sie „trifft nicht zu“. Es kann sein, dass sich einige Belege erst dann erschließen, wenn Sie den argumentativen Kontext kennen. In den meisten Fällen ist ein Link zu der Quelle des Belegs vorhanden, mit dem Sie den Kontext des Belegs aufrufen können.\n\nSie werden merken, dass es Ihnen im Lauf des Bewertungsprozesses leichter fallen wird, die Belege zu intepretieren. Sie sollten versuchen auf ca. drei Minuten pro interpretierten Textbeleg zu kommen.\n\nZunächst folgt die beispielhafte Bewertung dreier Textbelege. Danach sind Sie gefragt : \)\n\nWir bedanken uns jetzt schon einmal vielfach für die Mitarbeit an unserem Projekt!\nTinghui Duan, Hendrick Heimböckel")
 
-	question1 = "Ist das Wort \"Einbildungskraft\" hier positiv oder negativ verwendet? Wenn Sie nicht entscheiden, wählen Sie bitte \"unentschieden\".";
+	question1 = "1. Wird das Wort \"Einbildungskraft\" in einem positiven, negativen oder neutralen Sinn verwendet?";
+
+	question2 = "2. Wird es als Vermögen beschrieben, das etwas Neues hervorbringt \(produktiv\), oder als Vermögen, das etwas schon Bestehendes bloß im Bewusstsein wiederholt \(reproduktiv\)?";
+
+	question3 = "3. Wird es als Vermögen beschrieben, das bewusst eingesetzt werden kann \(aktiv\), oder als solches, das Wahrnehmungen und Handlungen begleitet \(passiv\)?";
+
+	question4 = "4. Wird es auf ein konkretes Individuum \(individuell\), auf eine Gruppe von Menschen \(einige\) bezogen oder als allgemeinmenschliches Vermögen \(allgemein\) beschrieben?";
+
+	question5 = "5. Handelt es sich bei dem Textbeleg, in dem Einbildungskraft verwendet wird, um ein Zitat \(direktes Zitat\), um die Meinung einer weiteren Person \(indirektes Zitat\), den Titel einer Publikation \(Titel\) oder um die Meinung des Autors bzw. der Autorin \(Meinung\)?";
+
+	question6 = "6. Wird etwas mit Einbildungskraft beschrieben \(objektsprachlich\) oder wird über Einbildungskraft gesprochen \(metasprachlich\)?";
+
+	question7 = "7. Im Zusammenhang mit welcher Disziplin wird hier über Einbildungskraft gesprochen?";
+
+	question8 = "8. Liegt in dem Beleg ein Widerspruch vor?";
+
+	question9 = "9. Haben Sie die Fragen anhand des Beleges beantwortet \(textimmanent\) oder haben Sie zur Beantwortung Kontextwissen hinzugezogen \(kontextuell\)?";
+
+	question10 = "10. Ist die Bewertung des Belegs insgesamt schwierig gewesen?";
 
 	var classSection = form.addPageBreakItem()
-		.setTitle("Die reproductive Einbildungskraft wirkt nach den Geſetzen der Ideenaſſociation, die productive nach den Geſetzen der Zweckmäſsigkeit, jene iſt von der Sinnlichkeit abhängig, dieſe ſchafft aus dem, was der Sinnlichkeit dargeboten iſt, Ideale.")
-	item = question1;
-	var choices = ["Positiv", "Negativ", "unentschieden"];
+		.setTitle("Beispiel 1")
+		.setHelpText("Textbeleg: \"Die Dichtung Elyſium II. Th. 167. deren Eingang etwas weit vollkommneres erwarten lieſs, als die Fortſetzung leiſtet, läſst bey allen äuſsern Schein eines lebhaft erregten Gemüthes, die Einbildungskraft kalt und leer.\"\n\nBewertung: positiv \n--> Begründung: es wird aufgrund des Titels ein großartiger Text erwartet; doch wird die Einbildungskraft nicht bewegt, weshalb der Text gar nicht so großartig ist, wie der Titel es vermuten lässt\n\nInhalt: produktiv/reproduktiv \n--> Begründung: es geht um die Vorstellungen während der Lektüre: einerseits werden in der Lektüre neue Bilder produziert, die andererseits wiederum nur durch die Worte im Text entstehen können\n\nModus: passiv\n--> Begründung: die Einbildungskraft wird bei der Lektüre automatisch in Bewegung gesetzt\n\nAdressaten: einige \n--> Begründung: es werden alle Rezipienten des Textes gemeint\n\nQuelle: Meinung \n--> Begründung: der Autor spricht über einen Text \n\nDistanz: objektsprachlich \n--> Begründung: es wird anhand von Einbildungskraft ein Text qualitativ bewertet \n\nWissen des Raters: textimmanent \n--> Begründung: der Beleg wurde nicht anhand von Kontextwissen des Raters interpretiert\n\nDisziplin: Ästhetik \n--> Begründung: es wird über Einbildungskraft im Kontext der Rezeption eines literarischen Textes geschrieben")
+	var classSection = form.addPageBreakItem()
+		.setTitle("Beispiel 2")
+		.setHelpText("Textbeleg: \"Die Einbildungskraft forme und bilde den Stoff der Vorſtellung; das Gefühlvermögen ertheile dem Begriffe Fülle und Wärme; die Phantaſie erhebe die allgemeinen Vernunftformeln zu Idealen.\"\n\nBewertung: neutral\n--> Begründung: die Funktion der Einbildungskraft wird beschrieben, ohne dass sie bewertet wird\n\nInhalt: produktiv \n--> Begründung: die Einbildungskraft bringt eigene Vorstellungen hervor\n\nModus: passiv\n--> Begründung: sie wird in diesem Abschnitt als autonom beschrieben\n\nAdressaten: allgemein\n--> Begründung: es wird die allgemeinmenschliche Funktionsweise der Einbildungskraft beschrieben\n\nQuelle des Belegs: indirektes Zitat\n--> Begründung: der Autor verwendet den Konjunktiv \n\nDistanz: metasprachlich\n--> Begründung: es wird über die Funktionsweise der Einbildungskraft gesprochen \n\nDisziplin: Philosophie\n--> Begründung: es wird über Einbildungskraft im Kontext der Rezeption eines literarischen Textes geschrieben\n\nQuelle der Bewertung: kontextuell\n--> Begründung: hier geht es um anthropologische Vermögen, einem historischen philosophischen Denkmodell")
+	var classSection = form.addPageBreakItem()
+		.setTitle("Beispiel 3")
+		.setHelpText("Textbeleg: \"Hieraus folgt, ſagt Hr. Müller, daſs es eigentlich keine Gedächtniſskunſt giebt; allenfalls eine Erinnerungswiſſenſchaft, wobey eine Thätigkeit des Witzes, der Einbildungskraft, der Phantaſie und andre Geiſtesthätigkeiten gelegentlich einer ſchlechten Memorie einhelfen können..\"\n\nBewertung: positiv\n--> Begründung: Einbildungskraft ist dem Erinnern hilfreich\n\nInhalt: reproduktiv\n--> Begründung: es geht um die Erinnerung von schon Erlebten mithilfe der Einbildungskraft\n\nModus: aktiv\n--> Begründung: Einbildungskraft kann aktiv zum Erinnern eingesetzt werden\n\nAdressaten: allgemein\n--> Begründung: es wird die allgemeinmenschliche Möglichkeit der Einbildungskraft beschrieben\n\nQuelle des Belegs: Zitat\n--> Begründung: es wird die Meinung einer anderen Person direkt wiedergegeben\n\nDistanz: objektsprachlich \n--> Begründung: mit der Einbildungskraft wird die Funktionsweise des Erinnerns beschrieben\n\nDisziplin: Psychologie\n--> Begründung: es wird über Einbildungskraft im Zusammenhang mit dem Erinnern geschrieben \n\nQuelle der Bewertung: textimmanent\n--> Begründung: es wurde kein Kontextwissen herangezogen")
+	var classSection = form.addPageBreakItem()
+		.setTitle("[1/10] Von den „zierlichen Kindereyen“ ſeiner Nation, welche „die Einbildungskraft erſticken und die Gefühle in Eis erftarren,“ geht er zu ihrer Vergleichung mit engliſchen Producten über, für deren energiſchen Charakter er groſse Bewunderung hegt.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502015/canvas/88/view, Zeile ca. 3)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
 	form.addMultipleChoiceItem()
 		.setTitle(question1)
 		.setChoiceValues(choices)
 		.setRequired(true);
 
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[2/10] Gewiſs wird er dann nicht mehr den Philoſophen rathen (S. 297.) „ihre Empfindung und Einbildungskraft zuweilen in den Schlaf zu wiegen, um indeſs auf den Eulenſchwingen der Vernunft die fernen Gefilde des abſtracten Wiſſens zu beſuchen.“\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10541099/canvas/372/view, Zeile ca. 49)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[3/10] Denn was hätte wohl die Folter ihnen nicht abzuzwingen, oder ihre eigne, ſchwarze, erregte Einbildungskraft ihnen nicht vorzuspiegeln vermocht?\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502024/canvas/333/view, Zeile ca. 77)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[4/10] Wir ſind auch nicht ſehr für die lebendiger Einbildungskraft ſich leicht darbietenden Parallele; da unmöglich Einer alle Geſchichten gleich genau ergründen kann, ſo werden ſie nicht ſelten unrichtig ausfallen; wie S. 19. Graf Julian's Verrätherey an dem weſtgothiſchen Reich als gewiſs gegeben, S. 20. Wilhelm'en Tell nicht dieſer oder jener Umſtand, ſondern die Exiſtenz angeſtritten, S. 28. die Plünderung von Delphen durch die Gallier als nicht bloſs verſucht ſondern vollendet, erwähnt wird.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502043/canvas/379/view, Zeile ca. 98)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[5/10] Der Vf, hat die Gabe, Begriffe oft durch manche neue Wendungen mit Hülſe einer reichen Einbildungskraft zu verſinnlichen, und ſeine Beleſenheit ſetzt ihn in den Stand, durch Vergleichungen und Beziehungen ſeinen Gedanken Klarheit und Intereſſe zu geben.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502011/canvas/285/view, Zeile ca. 36)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[6/10] Figuren ſind Vorſtellungsarten, die in Beziehung auf ein Object nicht urſprünglich, ſondern nach Geſetzen der Einbildungskraft in uns hervor gebracht werden.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502001/canvas/288/view, Zeile ca. 29)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[7/10] (Es hätte wohl angeführt werden müſſen, daſs die Franzoſen ſich bereits in dem Reich ihrer Sprache, ihrer Sitten, ihrer Kunſt fühlten, daſs ihre Dichter für dieſes Reich einen Thron ſuchten und in den Romanen von Karl dem Groſsen glänzend errichteten, daſs die franzöſiſche Einbildungskraft mit gewöhnlicher Lebhaftigkeit dieſes Vorbild ergriff, daſs die Dichter-Ideen damals auf das Staatsrecht noch mehr wirkten, als ſpäter die dichteriſchen Staatsſchilderungen von Fenelon, Voltaire und Rouſſeau, daſs König Philipp Auguſt nach der Verwirklichung des Königthums aus jenen geliebten Romanen und Sagen ſtrebte, und daſs nach ſeinem Siege bey Bouvines 1214 über den (Titulär) Kaiſer Otto IIII., in der That aber nur über die Grafen von Flandern und Boulogne, die Dichter ihn als den mächtigſten Siegesfürſten prieſen; das franzöſiſche Volk aber aus ihm ſeinen König machte, deſſen Namen er bisher nur gehabt hatte, ohne ſelbſt unter den franzöſiſchen Landesherren der gröſste zu ſeyn.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502093/canvas/28/view, Zeile ca. 19)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[8/10] Ohne zu unterſuchen, in wiefern man einem Schriftſteller von einer ſo warmen und thätigen Einbildungskraft, und bey dem das Beſtreben, allenthalben zu glänzen, allenthalben in einem vortheilhaften Licht, und in einer liebenswürdigen oder bewunderungswerthen Geſtalt zu erſcheinen, ſo unverkennbar iſt, bis auf die kleinſten Umſtände ſeiner für den Bericht von ſolchen Abentheuern oft gar zu detaillirten Erzählung Glauben beyzumeſſen hat, ohne hierinn dem Gefühl irgend eines Leſers vorzugreifen, wenden wir uns nur zu derjenigen Seite dieſer Schrift, die, an und für ſich faſt eben ſo merkwürdig als die Haupterzählung, in hiſtoriſcher Rückſicht die wichtigſte iſt, nämlich zu der Darſtellung, welche der Vf. von dem Plan und den Proceduren der Robespierreſchen Faction entwirft.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502005/canvas/260/view, Zeile ca. 31)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[9/10] Dann zeigt der Vf. in wiefern dieſe Empfindungen zur Erkenntniſs taugen, daſs ſie aber an ſich noch keine Erkenntniſs ſind, ſondern dieſes, erſt durch den ſich anſchlieſsenden Erkenntniſsact, welcher nichts anders iſt, als die Erzeugung des Raums und der Zeit, werden, wie aus der anſchaulichen Erkenntniſs, und durch welche Operationen eine Erfahrungserkenntniſs gewonnen wird; dann von der Einbildungskraft, dem Gedächtniſſe, der Aſſociation der Vorſtellungen, und endlich von der Vollkommenheit und Unvollkommenheit der anſchaulichen Erkenntniſs.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10628813/canvas/147/view, Zeile ca. 92)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var classSection = form.addPageBreakItem()
+		.setTitle("[10/10] Das Denkvermögen erſcheint in ſeinen Aeuſserungen als Witz, Scharfſinn, Tiefſinn, und mit ſelten erſcheinender Energie, ſchöpferiſch in Verbindung mit der Einbildungskraft als Genie.\n(https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502047/canvas/117/view, Zeile ca. 23)")
+	var choices = ["positiv", "negativ", "neutral","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question1)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["produktiv", "reproduktiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question2)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["aktiv", "passiv", "beides","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question3)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["individuell", "einige", "allgemein","individuell und einige","einige und allgemein","individuell und allgemein","trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question4)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["direktes Zitat", "indirektes Zitat", "Titel","Meinung", "andere Quelle und Meinung", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question5)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var choices = ["objektsprachlich", "metasprachlich", "beides", "trifft nicht zu","Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question6)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question7)
+		.setChoices([
+			item.createChoice('Ästhetik (Bildende Kunst, Literatur, Mythologie, Musik etc.)'),
+			item.createChoice('Geschichte'),
+			item.createChoice('Medizin'),
+			item.createChoice('Naturwissenschaften (Biologie, Chemie, Geographie, Geologie etc.)'),
+			item.createChoice('Pädagogik'),
+			item.createChoice('Philosophie'),
+			item.createChoice('Psychologie'),
+			item.createChoice('Religion'),
+			item.createChoice('andere'),
+		])
+		.setRequired(true)
+		.showOtherOption(false);
+	var item = form.addCheckboxItem();
+	item.setTitle(question8)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
+	var choices = ["textimmanent", "kontextuell", "Ich weiß es nicht."];
+	form.addMultipleChoiceItem()
+		.setTitle(question9)
+		.setChoiceValues(choices)
+		.setRequired(true);
+
+	var item = form.addCheckboxItem();
+	item.setTitle(question10)
+		.setChoices([
+			item.createChoice('Ja'),
+		])
+		.showOtherOption(false);
 }
