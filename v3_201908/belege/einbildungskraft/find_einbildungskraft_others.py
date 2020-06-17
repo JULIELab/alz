@@ -57,7 +57,7 @@ for t in os.listdir(os.getcwd()):
 						window.append(ll)
 						middle = int((len(window)-1)/2)
 						lastline = window[middle-1]
-					if lastline.endswith('Ein-') or lastline.endswith('ein-') or lastline.endswith('Einbilduns-') or lastline.endswith('Einbildungs') or lastline.endswith('einbildungſ') or lastline.endswith('einbildungſ-') or lastline.endswith('einbildungs') or lastline.endswith('einbildungs-') or lastline.endswith('Einbildungſ') or lastline.endswith('Einbildungſ-'):
+					if lastline.endswith('Ein-') or lastline.endswith('ein-') or lastline.endswith('Einbildungs-') or lastline.endswith('Einbildungs') or lastline.endswith('einbildungſ') or lastline.endswith('einbildungſ-') or lastline.endswith('einbildungs') or lastline.endswith('einbildungs-') or lastline.endswith('Einbildungſ') or lastline.endswith('Einbildungſ-'):
 						ro = True
 						lastline = lastline.rstrip('-')
 					else:

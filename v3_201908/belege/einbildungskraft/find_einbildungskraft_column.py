@@ -98,6 +98,6 @@ for t in os.listdir(os.getcwd()):
 							fo.write(url)
 							fo.write("\n")
 				connect = False
-				if inpage[i].endswith('Ein-') or inpage[i].endswith('ein-') or inpage[i].endswith('Einbilduns-') or inpage[i].endswith('Einbildungs') or inpage[i].endswith('einbildungſ') or inpage[i].endswith('einbildungſ-') or inpage[i].endswith('einbildungs') or inpage[i].endswith('einbildungs-') or inpage[i].endswith('Einbildungſ') or inpage[i].endswith('Einbildungſ-'):
+				if inpage[i].endswith('Ein-') or inpage[i].endswith('ein-') or inpage[i].endswith('Einbildungs-') or inpage[i].endswith('Einbildungs') or inpage[i].endswith('einbildungſ') or inpage[i].endswith('einbildungſ-') or inpage[i].endswith('einbildungs') or inpage[i].endswith('einbildungs-') or inpage[i].endswith('Einbildungſ') or inpage[i].endswith('Einbildungſ-'):
 					connect = True
 print(count_beleg)
